@@ -1,80 +1,48 @@
 /* ═══════════════════════════════════════════════════════════════
-   Global News — app.js
-   Frontend: fetch · render · filter · auto-refresh · dark mode
+   Global News — app.js  (GitHub Pages edition)
+   Reads from static news.json — no backend required
    ═══════════════════════════════════════════════════════════════ */
 
 (function () {
   "use strict";
 
-  // ── Config ──────────────────────────────────────────────────
-  const REFRESH_INTERVAL_MS = 15 * 60 * 1000; // 15 minutes
-  const API_BASE = "";                          // same-origin
-  const FALLBACK_ICONS = {
-    Newspaper: "📰",
-    Broadcaster: "📡",
-    Magazine: "📖",
-    default: "🌐",
-  };
-  const REGION_FLAGS = {
-    US: "🇺🇸",
-    UK: "🇬🇧",
-    India: "🇮🇳",
-    Europe: "🇪🇺",
-    Asia: "🌏",
-    Australia: "🇦🇺",
-    "Middle East": "🌍",
-    default: "🌐",
+  const NEWS_JSON      = "./news.json";
+  const REFRESH_MS     = 15 * 60 * 1000;
+  const FALLBACK_ICONS = { Newspaper: "📰", Broadcaster: "📡", Magazine: "📖", default: "🌐" };
+  const REGION_FLAGS   = {
+    US: "🇺🇸", UK: "🇬🇧", India: "🇮🇳", Europe: "🇪🇺",
+    Asia: "🌏", Australia: "🇦🇺", "Middle East": "🌍", default: "🌐",
   };
 
-  // ── State ────────────────────────────────────────────────────
   let state = {
-    data: null,
-    activeTab: "all",
-    refreshTimer: null,
-    countdownInterval: null,
-    nextRefreshAt: null,
-    lastSeenIds: new Set(),
-    collapsedSections: new Set(),
+    data: null, activeTab: "all",
+    refreshTimer: null, countdownInterval: null, nextRefreshAt: null,
+    collapsedSections: new Set(), lastEtag: null,
   };
 
-  // ── DOM refs ─────────────────────────────────────────────────
   const $ = (id) => document.getElementById(id);
   const el = {
-    loading: $("loadingScreen"),
-    error: $("errorScreen"),
-    errorMsg: $("errorMessage"),
-    statsBar: $("statsBar"),
-    statArticles: $("statArticles"),
-    statSources: $("statSources"),
-    statUpdated: $("statUpdated"),
-    cacheBadge: $("cachebadge"),
-    crossSections: $("crossSections"),
-    sourceSections: $("sourceSections"),
-    statusDot: $("statusDot"),
-    statusText: $("statusText"),
-    countdown: $("countdownTimer"),
-    btnRefresh: $("btnRefresh"),
-    btnTheme: $("btnTheme"),
-    sectionNav: $("sectionNav"),
-    backToTop: $("backToTop"),
-    toast: $("toast"),
-    loadingSources: $("loadingSources"),
+    loading: $("loadingScreen"), error: $("errorScreen"), errorMsg: $("errorMessage"),
+    statsBar: $("statsBar"), statArticles: $("statArticles"), statSources: $("statSources"),
+    statUpdated: $("statUpdated"), cacheBadge: $("cachebadge"),
+    crossSections: $("crossSections"), sourceSections: $("sourceSections"),
+    statusDot: $("statusDot"), statusText: $("statusText"), countdown: $("countdownTimer"),
+    btnRefresh: $("btnRefresh"), btnTheme: $("btnTheme"), sectionNav: $("sectionNav"),
+    backToTop: $("backToTop"), toast: $("toast"), loadingSources: $("loadingSources"),
   };
 
-  // ── Theme ────────────────────────────────────────────────────
+  // ── Theme ─────────────────────────────────────────────────────
   function initTheme() {
     const saved = localStorage.getItem("gn-theme") || "dark";
     document.documentElement.setAttribute("data-theme", saved);
   }
-
   function toggleTheme() {
-    const current = document.documentElement.getAttribute("data-theme");
-    const next = current === "dark" ? "light" : "dark";
+    const next = document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark";
     document.documentElement.setAttribute("data-theme", next);
     localStorage.setItem("gn-theme", next);
   }
 
-  // ── Utils ────────────────────────────────────────────────────
+  // ── Utils ─────────────────────────────────────────────────────
   function timeAgo(dateStr) {
     if (!dateStr) return "—";
     const diff = Date.now() - new Date(dateStr).getTime();
@@ -83,146 +51,118 @@
     if (mins < 60) return `${mins}m ago`;
     const hours = Math.floor(mins / 60);
     if (hours < 24) return `${hours}h ago`;
-    const days = Math.floor(hours / 24);
-    return `${days}d ago`;
+    return `${Math.floor(hours / 24)}d ago`;
   }
-
-  function formatTime(dateStr) {
-    if (!dateStr) return "";
-    try {
-      return new Date(dateStr).toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
-    } catch {
-      return "";
-    }
-  }
-
   function escHtml(str) {
     if (!str) return "";
-    return str
-      .replace(/&/g, "&amp;")
-      .replace(/</g, "&lt;")
-      .replace(/>/g, "&gt;")
-      .replace(/"/g, "&quot;");
+    return str.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
   }
-
   function showToast(msg, duration = 3000) {
     el.toast.textContent = msg;
     el.toast.classList.remove("hidden");
     clearTimeout(el.toast._timer);
     el.toast._timer = setTimeout(() => el.toast.classList.add("hidden"), duration);
   }
-
-  // ── Status indicator ─────────────────────────────────────────
   function setStatus(type, text) {
     el.statusDot.className = `status-dot ${type}`;
     el.statusText.textContent = text;
   }
 
-  // ── Countdown timer ──────────────────────────────────────────
+  // ── Countdown ─────────────────────────────────────────────────
   function startCountdown() {
     clearInterval(state.countdownInterval);
-    state.nextRefreshAt = Date.now() + REFRESH_INTERVAL_MS;
+    state.nextRefreshAt = Date.now() + REFRESH_MS;
     state.countdownInterval = setInterval(() => {
       const left = Math.max(0, state.nextRefreshAt - Date.now());
       const m = Math.floor(left / 60000);
       const s = Math.floor((left % 60000) / 1000);
       el.countdown.textContent = `${m}:${String(s).padStart(2, "0")}`;
-      if (left === 0) clearInterval(state.countdownInterval);
     }, 1000);
   }
 
-  // ── Data fetching ────────────────────────────────────────────
+  // ── Fetch ─────────────────────────────────────────────────────
   async function fetchNews(force = false) {
     setStatus("loading", "Fetching…");
     el.btnRefresh.classList.add("spinning");
-
-    const url = force ? `${API_BASE}/api/refresh` : `${API_BASE}/api/news`;
     try {
-      const res = await fetch(url, { cache: force ? "no-store" : "default" });
+      const url = force ? `${NEWS_JSON}?t=${Date.now()}` : NEWS_JSON;
+      const headers = {};
+      if (state.lastEtag && !force) headers["If-None-Match"] = state.lastEtag;
+
+      const res = await fetch(url, { headers, cache: force ? "no-store" : "default" });
+
+      if (res.status === 304) {
+        setStatus("ok", "Live");
+        if (force) showToast("✓ Already up to date");
+        scheduleNext(); return;
+      }
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
+
+      const etag = res.headers.get("ETag");
+      if (etag) state.lastEtag = etag;
+
       const data = await res.json();
-
-      if (data.error) throw new Error(data.message || data.error);
-
       state.data = data;
       renderAll(data);
       setStatus("ok", "Live");
-
-      // Schedule next auto-refresh
-      clearTimeout(state.refreshTimer);
-      state.refreshTimer = setTimeout(() => fetchNews(false), REFRESH_INTERVAL_MS);
-      startCountdown();
-
-      if (force) showToast("✓ News refreshed");
+      if (force) showToast(`✓ Refreshed — ${data.new_this_run || 0} new articles`);
     } catch (err) {
-      console.error("[App] Fetch error:", err);
+      console.error("[App]", err);
       setStatus("error", "Error");
-
       if (!state.data) {
-        // First load failure — show error screen
         el.loading.classList.add("hidden");
         el.error.classList.remove("hidden");
-        el.errorMsg.textContent = err.message || "Could not reach server.";
+        el.errorMsg.textContent = "news.json not found. Run `npm run build` first, then push to GitHub.";
       } else {
-        showToast("⚠ Refresh failed — showing cached data");
+        showToast("⚠ Could not refresh — showing last data");
       }
     } finally {
       el.btnRefresh.classList.remove("spinning");
+      scheduleNext();
     }
   }
 
-  async function forceRefresh() {
+  function scheduleNext() {
     clearTimeout(state.refreshTimer);
-    await fetchNews(true);
+    state.refreshTimer = setTimeout(() => fetchNews(false), REFRESH_MS);
+    startCountdown();
   }
 
-  // ── Render pipeline ──────────────────────────────────────────
+  function forceRefresh() {
+    clearTimeout(state.refreshTimer);
+    fetchNews(true);
+  }
+
+  // ── Render ────────────────────────────────────────────────────
   function renderAll(data) {
     el.loading.classList.add("hidden");
     el.error.classList.add("hidden");
-    el.statsBar.classList.remove("hidden");
-    el.crossSections.classList.remove("hidden");
-    el.sourceSections.classList.remove("hidden");
+    [el.statsBar, el.crossSections, el.sourceSections].forEach((e) => e.classList.remove("hidden"));
 
-    // Stats bar
-    const totalArticles = data.sources?.reduce((sum, s) => sum + s.articles.length, 0) || 0;
-    el.statArticles.textContent = `${totalArticles} articles`;
-    el.statSources.textContent = `${data.sources?.length || 0} sources`;
-    el.statUpdated.textContent = `Updated ${timeAgo(data.last_updated)}`;
-    el.cacheBadge.textContent = data.from_cache ? "cached" : "fresh";
-    el.cacheBadge.style.display = "";
+    const total = data.sources?.reduce((s, src) => s + src.articles.length, 0) || 0;
+    el.statArticles.textContent = `${total} articles`;
+    el.statSources.textContent  = `${data.sources?.length || 0} sources`;
+    el.statUpdated.textContent  = `Updated ${timeAgo(data.last_updated)}`;
+    el.cacheBadge.textContent   = data.meta?.ai_enabled ? "AI classified" : "keyword classified";
 
-    // Render cross sections
     renderCrossSections(data.cross_sections || []);
-
-    // Render source sections
     renderSourceSections(data.sources || []);
-
-    // Apply active tab filter
     applyTabFilter(state.activeTab);
   }
 
-  // ── Cross-sections render ────────────────────────────────────
   function renderCrossSections(sections) {
-    const colorMap = { tech: "tech", ai: "ai", jobcuts: "jobcuts" };
-    el.crossSections.innerHTML = sections.map((section) => `
-      <div class="cross-section-block" data-id="${section.id}" data-cross="${section.id}">
+    el.crossSections.innerHTML = sections.map((s) => `
+      <div class="cross-section-block" data-id="${s.id}" data-cross="${s.id}">
         <div class="cross-section-header">
-          <h2 class="cross-section-title">${section.icon} ${escHtml(section.name)}</h2>
-          <span class="cross-section-count">${section.articles.length} articles</span>
+          <h2 class="cross-section-title">${s.icon} ${escHtml(s.name)}</h2>
+          <span class="cross-section-count">${s.articles.length} articles</span>
         </div>
-        ${section.articles.length
-          ? `<div class="cross-section-grid">
-              ${section.articles.map((a) => renderCard(a, true)).join("")}
-            </div>`
-          : `<div class="empty-section">No articles classified in this section yet.<br>
-             <small>Try refreshing — AI classification runs on each fetch.</small></div>`
-        }
-      </div>
-    `).join("");
+        ${s.articles.length
+          ? `<div class="cross-section-grid">${s.articles.map((a) => renderCard(a, true)).join("")}</div>`
+          : `<div class="empty-section">No articles yet — classification runs every 15 min via GitHub Actions.</div>`}
+      </div>`).join("");
   }
 
-  // ── Source sections render ───────────────────────────────────
   function renderSourceSections(sources) {
     el.sourceSections.innerHTML = sources.map((source) => {
       const flag = REGION_FLAGS[source.region] || REGION_FLAGS.default;
@@ -230,8 +170,7 @@
       const collapsed = state.collapsedSections.has(source.id) ? "collapsed" : "";
       return `
         <section class="source-section ${collapsed}"
-                 data-source-id="${source.id}"
-                 data-region="${source.region}">
+                 data-source-id="${source.id}" data-region="${source.region}">
           <div class="source-section-header" role="button" tabindex="0"
                onclick="window.newsApp.toggleSection('${source.id}')"
                onkeypress="if(event.key==='Enter')window.newsApp.toggleSection('${source.id}')">
@@ -244,72 +183,59 @@
             <span class="source-toggle">▾</span>
           </div>
           <div class="source-articles">
-            <div class="card-grid">
-              ${source.articles.map((a) => renderCard(a, false)).join("")}
-            </div>
+            <div class="card-grid">${source.articles.map((a) => renderCard(a, false)).join("")}</div>
           </div>
-        </section>
-      `;
+        </section>`;
     }).join("");
   }
 
-  // ── Card render ──────────────────────────────────────────────
   function renderCard(article, showSourceTag) {
     const tagMap = { tech: "tech", ai: "ai", jobcuts: "jobcuts" };
-    const sectionTags = (article.cross_sections || [])
-      .map((sid) => `<span class="card-tag ${tagMap[sid] || ""}">${sid}</span>`)
-      .join("");
+    const icon   = FALLBACK_ICONS[article.source_category] || FALLBACK_ICONS.default;
+    const tags   = (article.cross_sections || [])
+      .map((sid) => `<span class="card-tag ${tagMap[sid]||""}">${sid}</span>`).join("");
 
-    const icon = FALLBACK_ICONS[article.source_category] || FALLBACK_ICONS.default;
-
-    const imageHtml = article.image_url
-      ? `<img class="card-image" src="${escHtml(article.image_url)}"
-              alt="" loading="lazy"
-              onerror="this.style.display='none';this.nextElementSibling.style.display='flex'" />
+    const imgHtml = article.image_url
+      ? `<img class="card-image" src="${escHtml(article.image_url)}" alt="" loading="lazy"
+              onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"/>
          <div class="card-image-fallback" style="display:none">
            <div class="card-image-fallback-inner">
              <div class="card-image-fallback-icon">${icon}</div>
              <div class="card-image-fallback-label">${escHtml(article.source_name)}</div>
-           </div>
-         </div>`
+           </div></div>`
       : `<div class="card-image-fallback">
            <div class="card-image-fallback-inner">
              <div class="card-image-fallback-icon">${icon}</div>
              <div class="card-image-fallback-label">${escHtml(article.source_name)}</div>
-           </div>
-         </div>`;
+           </div></div>`;
 
-    const sourceTag = showSourceTag
-      ? `<span class="card-source-tag">${escHtml(article.source_name)} · ${escHtml(article.feed_label || "")}</span>`
-      : `<span class="card-source-tag">${escHtml(article.feed_label || "")}</span>`;
+    const srcTag = showSourceTag
+      ? `<span class="card-source-tag">${escHtml(article.source_name)} · ${escHtml(article.feed_label||"")}</span>`
+      : `<span class="card-source-tag">${escHtml(article.feed_label||"")}</span>`;
 
     return `
       <article class="news-card">
         <a href="${escHtml(article.article_url)}" target="_blank" rel="noopener noreferrer">
-          ${imageHtml}
+          ${imgHtml}
           <div class="card-body">
-            ${sourceTag}
+            ${srcTag}
             <h3 class="card-title">${escHtml(article.title)}</h3>
             ${article.summary ? `<p class="card-summary">${escHtml(article.summary)}</p>` : ""}
             <div class="card-footer">
               <span class="card-time">${timeAgo(article.published_at)}</span>
-              <div class="card-section-tags">${sectionTags}</div>
+              <div class="card-section-tags">${tags}</div>
               <span class="card-read-more">Read →</span>
             </div>
           </div>
         </a>
-      </article>
-    `;
+      </article>`;
   }
 
-  // ── Tab filtering ────────────────────────────────────────────
+  // ── Tab filtering ─────────────────────────────────────────────
   function applyTabFilter(tabId) {
     state.activeTab = tabId;
-
-    // Update nav tabs
-    document.querySelectorAll(".nav-tab").forEach((tab) => {
-      tab.classList.toggle("active", tab.dataset.section === tabId);
-    });
+    document.querySelectorAll(".nav-tab").forEach((t) =>
+      t.classList.toggle("active", t.dataset.section === tabId));
 
     const crossBlocks = el.crossSections.querySelectorAll(".cross-section-block");
     const sourceSects = el.sourceSections.querySelectorAll(".source-section");
@@ -321,85 +247,41 @@
     } else if (tabId.startsWith("cross-")) {
       const crossId = tabId.replace("cross-", "");
       el.crossSections.classList.remove("hidden");
-      crossBlocks.forEach((b) => {
-        b.classList.toggle("hidden", b.dataset.id !== crossId);
-      });
+      crossBlocks.forEach((b) => b.classList.toggle("hidden", b.dataset.id !== crossId));
       sourceSects.forEach((s) => s.classList.add("hidden"));
     } else if (tabId.startsWith("region-")) {
       const region = tabId.replace("region-", "");
       el.crossSections.classList.add("hidden");
-      sourceSects.forEach((s) => {
-        s.classList.toggle("hidden", s.dataset.region !== region);
-      });
+      sourceSects.forEach((s) => s.classList.toggle("hidden", s.dataset.region !== region));
     }
   }
 
-  // ── Section collapse toggle ──────────────────────────────────
   function toggleSection(sourceId) {
     const section = document.querySelector(`[data-source-id="${sourceId}"]`);
     if (!section) return;
-    const isCollapsed = section.classList.toggle("collapsed");
-    if (isCollapsed) {
-      state.collapsedSections.add(sourceId);
-    } else {
-      state.collapsedSections.delete(sourceId);
-    }
+    section.classList.toggle("collapsed")
+      ? state.collapsedSections.add(sourceId)
+      : state.collapsedSections.delete(sourceId);
   }
 
-  // ── Populate loading sources ─────────────────────────────────
-  function populateLoadingSources() {
-    fetch(`${API_BASE}/api/sources`)
-      .then((r) => r.json())
-      .then((d) => {
-        if (!d.sources) return;
-        el.loadingSources.innerHTML = d.sources
-          .map((s) => `<span class="loading-source-badge">${s.name}</span>`)
-          .join("");
-      })
-      .catch(() => {});
-  }
-
-  // ── Back to top ──────────────────────────────────────────────
-  function initScrollBehavior() {
-    window.addEventListener("scroll", () => {
-      el.backToTop.classList.toggle("hidden", window.scrollY < 400);
-    }, { passive: true });
-    el.backToTop.addEventListener("click", () => window.scrollTo({ top: 0, behavior: "smooth" }));
-  }
-
-  // ── Event binding ────────────────────────────────────────────
+  // ── Events ────────────────────────────────────────────────────
   function bindEvents() {
     el.btnTheme.addEventListener("click", toggleTheme);
     el.btnRefresh.addEventListener("click", forceRefresh);
-
-    // Nav tabs
     el.sectionNav.addEventListener("click", (e) => {
       const tab = e.target.closest(".nav-tab");
-      if (tab && tab.dataset.section) applyTabFilter(tab.dataset.section);
+      if (tab?.dataset.section) applyTabFilter(tab.dataset.section);
     });
-
-    // Keyboard nav
-    el.sectionNav.addEventListener("keypress", (e) => {
-      const tab = e.target.closest(".nav-tab");
-      if (tab && tab.dataset.section && e.key === "Enter") applyTabFilter(tab.dataset.section);
-    });
+    window.addEventListener("scroll", () =>
+      el.backToTop.classList.toggle("hidden", window.scrollY < 400), { passive: true });
+    el.backToTop.addEventListener("click", () =>
+      window.scrollTo({ top: 0, behavior: "smooth" }));
   }
 
-  // ── Public API (for inline onclick handlers) ──────────────────
   window.newsApp = { forceRefresh, toggleSection };
 
-  // ── Init ─────────────────────────────────────────────────────
-  function init() {
-    initTheme();
-    bindEvents();
-    initScrollBehavior();
-    populateLoadingSources();
-    fetchNews(false);
-  }
-
-  if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", init);
-  } else {
-    init();
-  }
+  function init() { initTheme(); bindEvents(); fetchNews(false); }
+  document.readyState === "loading"
+    ? document.addEventListener("DOMContentLoaded", init)
+    : init();
 })();

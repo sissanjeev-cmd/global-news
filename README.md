@@ -1,232 +1,146 @@
 # 🌐 Global News Aggregator
 
-A responsive, AI-classified news aggregator that pulls live headlines from **24 global sources** — grouped by outlet and intelligently cross-classified into thematic sections using the Anthropic Claude API.
+A responsive, AI-classified news aggregator — **100% GitHub hosted**. No server, no hosting costs.
+
+- **GitHub Actions** fetches 23 sources (57 RSS feeds) every 15 minutes and writes `news.json`
+- **Anthropic Claude** classifies articles into IT & Tech / Job Cuts / LLM & AI
+- **GitHub Pages** serves the static frontend that reads `news.json`
 
 ---
 
-## ✨ Features
-
-| Feature | Detail |
-|---|---|
-| **24 Sources** | NYT, WaPo, WSJ, Guardian, BBC, CNN, Fox, Al Jazeera, France 24, DW, Der Spiegel, Time, Economist, Newsweek, New Yorker, NDTV, Aaj Tak, India Today, Frontline, ToI, Dainik Bhaskar, China Daily, SMH |
-| **AI Classification** | Anthropic Claude classifies each article into IT & Tech / Job Cuts / LLM & AI |
-| **RSS Aggregation** | Fetches directly from official RSS feeds — no API keys for sources needed |
-| **Auto-refresh** | Every 15 minutes with no duplicates |
-| **Dark / Light mode** | Persistent per-user, toggle in header |
-| **Responsive UI** | Card/grid layout works on mobile, tablet, desktop |
-| **Caching** | Server-side NodeCache (15 min TTL) — survives burst traffic |
-| **Error handling** | Per-feed fallback, keyword classifier backup when no Anthropic key |
-| **Modular** | Easy to add/remove sources in `sources.js` |
-
----
-
-## 🗂️ Project Structure
+## Architecture
 
 ```
-global-news/
-├── server.js          # Express backend — API routes, cache, pipeline
-├── fetcher.js         # RSS fetching + article normalization
-├── classifier.js      # Anthropic AI classifier (+ keyword fallback)
-├── sources.js         # All 24 source definitions + cross-section config
-├── public/
-│   ├── index.html     # Single-page app shell
-│   ├── style.css      # Dark/light theme, responsive grid
-│   └── app.js         # Frontend: fetch, render, tabs, auto-refresh
-├── Dockerfile         # Production Docker image (Node 20 Alpine)
-├── docker-compose.yml # Local Docker dev
-├── railway.json       # Railway.app deployment config
-├── .env.example       # Environment variable template
-└── package.json
+┌─────────────────────────────────────────────┐
+│  GitHub Actions (every 15 min)               │
+│  scripts/build-news.js                       │
+│  → Fetch 57 RSS feeds                        │
+│  → AI classify via Anthropic API             │
+│  → Write public/news.json                    │
+│  → Commit & push                             │
+└──────────────────┬──────────────────────────┘
+                   │ git push
+┌──────────────────▼──────────────────────────┐
+│  GitHub Pages                                │
+│  public/index.html + style.css + app.js      │
+│  app.js fetches news.json every 15 min       │
+└─────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🚀 Quick Start (Local)
+## Setup (one-time)
 
-### Prerequisites
-- Node.js ≥ 18
-- An [Anthropic API key](https://console.anthropic.com) *(optional — keyword fallback works without it)*
-
-### 1. Clone & install
-
+### 1. Fork / clone
 ```bash
 git clone https://github.com/sissanjeev-cmd/global-news.git
 cd global-news
 npm install
 ```
 
-### 2. Configure environment
+### 2. Add Anthropic API key to GitHub Secrets
+1. Go to your repo → **Settings → Secrets and variables → Actions**
+2. Click **New repository secret**
+3. Name: `ANTHROPIC_API_KEY` · Value: `sk-ant-...`
 
-```bash
-cp .env.example .env
-# Edit .env and add your ANTHROPIC_API_KEY
+> Without this, classification falls back to keyword matching (still works).
+
+### 3. Enable GitHub Pages
+1. Repo → **Settings → Pages**
+2. Source: **GitHub Actions**
+3. Save
+
+### 4. Enable GitHub Actions
+1. Repo → **Actions** tab
+2. Click **Enable Actions** if prompted
+3. Click **Fetch & Deploy News** → **Run workflow** to trigger the first build
+
+Your site will be live at:
 ```
-
-**.env file:**
-```
-ANTHROPIC_API_KEY=sk-ant-...
-PORT=3000
-CACHE_TTL=900
-```
-
-### 3. Run
-
-```bash
-npm start
-# → http://localhost:3000
-```
-
-**Dev mode (auto-reload):**
-```bash
-npm run dev
+https://sissanjeev-cmd.github.io/global-news/
 ```
 
 ---
 
-## 🐳 Docker
+## File Structure
 
-### Build & run
+```
+global-news/
+├── .github/
+│   └── workflows/
+│       └── fetch-news.yml     # Cron job: fetch + classify + deploy
+├── scripts/
+│   └── build-news.js          # Node script: RSS → classify → news.json
+├── public/
+│   ├── index.html             # App shell
+│   ├── style.css              # Dark/light theme, responsive grid
+│   ├── app.js                 # Frontend: reads news.json, renders UI
+│   └── news.json              # Auto-generated — do not edit manually
+├── fetcher.js                 # RSS fetching + normalization
+├── classifier.js              # Anthropic AI classifier + keyword fallback
+├── sources.js                 # All 23 source + cross-section definitions
+├── package.json
+└── .env.example
+```
+
+---
+
+## Local Development
 
 ```bash
-docker compose up --build
-```
-
-### Or with Docker directly
-
-```bash
-docker build -t global-news .
-docker run -p 3000:3000 -e ANTHROPIC_API_KEY=sk-ant-... global-news
+cp .env.example .env       # add ANTHROPIC_API_KEY
+npm run build              # fetches RSS + writes public/news.json
+npx serve public           # preview at http://localhost:3000
 ```
 
 ---
 
-## ☁️ Deploy to Railway
+## Adding a Source
 
-1. Push your repo to GitHub
-2. Go to [railway.app](https://railway.app) → **New Project** → **Deploy from GitHub**
-3. Select `sissanjeev-cmd/global-news`
-4. Add environment variable: `ANTHROPIC_API_KEY=sk-ant-...`
-5. Railway auto-detects `railway.json` and deploys
-
-> The `railway.json` sets the start command and healthcheck path (`/api/health`).
-
----
-
-## 🔌 API Endpoints
-
-| Endpoint | Description |
-|---|---|
-| `GET /api/news` | Main feed — returns cached or fresh data |
-| `GET /api/refresh` | Force refresh (bypass cache) |
-| `GET /api/sources` | List all configured sources + sections |
-| `GET /api/health` | Health check — uptime, cache status |
-
-### Sample `/api/news` response shape
-
-```json
-{
-  "last_updated": "2025-01-01T12:00:00Z",
-  "total_articles": 487,
-  "from_cache": true,
-  "sources": [
-    {
-      "id": "nyt",
-      "name": "The New York Times",
-      "region": "US",
-      "category": "Newspaper",
-      "articles": [
-        {
-          "id": "nyt-abc123",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "title": "Article headline here",
-          "summary": "Brief summary...",
-          "image_url": "https://...",
-          "article_url": "https://nytimes.com/...",
-          "published_at": "2025-01-01T10:00:00Z",
-          "feed_label": "World",
-          "cross_sections": ["tech"]
-        }
-      ]
-    }
-  ],
-  "cross_sections": [
-    {
-      "id": "tech",
-      "name": "IT & Tech",
-      "icon": "💻",
-      "articles": [ ... ]
-    },
-    {
-      "id": "jobcuts",
-      "name": "Global Job Cuts",
-      "icon": "📉",
-      "articles": [ ... ]
-    },
-    {
-      "id": "ai",
-      "name": "LLM & AI Companies",
-      "icon": "🤖",
-      "articles": [ ... ]
-    }
-  ]
-}
-```
-
----
-
-## ➕ Adding a New Source
-
-Edit `sources.js` and add an entry to the `SOURCES` array:
-
+Edit `sources.js`:
 ```js
 {
-  id: "reuters",           // unique slug
-  name: "Reuters",         // display name
-  region: "UK",            // US | UK | India | Europe | Asia | Australia | Middle East
-  category: "Broadcaster", // Newspaper | Broadcaster | Magazine
+  id: "reuters",
+  name: "Reuters",
+  region: "UK",
+  category: "Broadcaster",
   feeds: [
     { url: "https://feeds.reuters.com/reuters/topNews", label: "Top Stories" },
-    { url: "https://feeds.reuters.com/reuters/technologyNews", label: "Technology" },
   ],
 },
 ```
-
-No other changes needed. The frontend auto-renders new sources.
-
----
-
-## 🤖 AI Classification Details
-
-- Articles are sent to **Claude claude-sonnet-4-20250514** in batches of 20
-- Each article is classified into 0 or more of: `tech`, `jobcuts`, `ai`
-- If `ANTHROPIC_API_KEY` is missing, the app automatically falls back to keyword matching
-- Classification results are cached with the article data (15 min TTL)
+Push — the next Actions run picks it up automatically.
 
 ---
 
-## ⚙️ Environment Variables
+## Cross-Section Classification
 
-| Variable | Default | Description |
+| Section | ID | Examples |
 |---|---|---|
-| `ANTHROPIC_API_KEY` | *(none)* | Anthropic API key for AI classification |
-| `PORT` | `3000` | HTTP server port |
-| `CACHE_TTL` | `900` | Cache TTL in seconds (15 min) |
+| 💻 IT & Tech | `tech` | Chips, cloud, software, startups |
+| 📉 Global Job Cuts | `jobcuts` | Layoffs, redundancies, restructuring |
+| 🤖 LLM & AI | `ai` | OpenAI, Anthropic, Gemini, LLMs |
+
+Classification uses **Claude claude-sonnet-4-20250514** in batches of 20 articles. Falls back to keyword matching when no API key is set.
 
 ---
 
-## 🛠️ Tech Stack
+## Environment Variables
 
-- **Backend:** Node.js 20 + Express 4
-- **RSS Parsing:** `rss-parser`
+| Variable | Where | Description |
+|---|---|---|
+| `ANTHROPIC_API_KEY` | GitHub Secret | Powers AI classification |
+
+---
+
+## Tech Stack
+
+- **CI/CD:** GitHub Actions (cron schedule)
+- **Frontend:** Vanilla JS, CSS custom properties, GitHub Pages
+- **RSS:** `rss-parser` (Node.js)
 - **AI:** `@anthropic-ai/sdk` (Claude claude-sonnet-4-20250514)
-- **Cache:** `node-cache` (in-memory)
-- **Frontend:** Vanilla JS (no framework), CSS custom properties
-- **Fonts:** Playfair Display + IBM Plex Sans + IBM Plex Mono
-- **Deploy:** Railway / Docker
+- **Fonts:** Playfair Display × IBM Plex Sans
 
 ---
-
-## 📄 License
 
 MIT © [sissanjeev-cmd](https://github.com/sissanjeev-cmd)

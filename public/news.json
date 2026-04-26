@@ -1,0 +1,18 @@
+{
+  "last_updated": null,
+  "total_articles": 0,
+  "new_this_run": 0,
+  "sources": [],
+  "cross_sections": [
+    { "id": "tech",     "name": "IT & Tech",          "icon": "💻", "articles": [] },
+    { "id": "jobcuts",  "name": "Global Job Cuts",     "icon": "📉", "articles": [] },
+    { "id": "ai",       "name": "LLM & AI Companies",  "icon": "🤖", "articles": [] }
+  ],
+  "meta": {
+    "source_count": 23,
+    "cross_section_count": 3,
+    "build_duration_ms": 0,
+    "ai_enabled": false,
+    "note": "Placeholder — first GitHub Actions run will populate this file."
+  }
+}
