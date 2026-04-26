@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-26T09:45:01.986Z",
-  "total_articles": 333,
-  "new_this_run": 333,
+  "last_updated": "2026-04-26T10:06:03.267Z",
+  "total_articles": 325,
+  "new_this_run": 18,
   "sources": [
     {
       "id": "nyt",
@@ -9,6 +9,20 @@
       "region": "US",
       "category": "Newspaper",
       "articles": [
+        {
+          "id": "bnl0LXdoYXQtaGFwcGVuZWQt",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "US",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "What Happened After The New York Times Found a Cartel Mine on a Colombian Military Base",
+          "summary": "Officers denied that an illegal, large-scale gold operation was underway within earshot of their posts. But we had seen it with our own eyes.",
+          "image_url": null,
+          "article_url": "https://www.nytimes.com/2026/04/26/world/americas/colombia-cartel-illegal-gold-mining-military-base.html",
+          "published_at": "Sun, 26 Apr 2026 09:50:37 +0000",
+          "cross_sections": []
+        },
         {
           "id": "bnl0LXUucy4tbWludC1idXlz",
           "source_id": "nyt",
@@ -43,7 +57,7 @@
           "source_name": "The New York Times",
           "source_region": "US",
           "source_category": "Newspaper",
-          "feed_label": "World",
+          "feed_label": "Top Stories",
           "title": "Israel’s President, Putting Off Decision on Pardon for Netanyahu, Will Push for Plea Deal",
           "summary": "President Isaac Herzog of Israel has decided not to issue a pardon to Prime Minister Benjamin Netanyahu in his corruption case at this time, and instead will seek mediation, officials say.",
           "image_url": "https://static01.nyt.com/images/2026/04/26/multimedia/26int-israel-pardon-wfjv/26int-israel-pardon-wfjv-mediumSquareAt3X.jpg",
@@ -52,26 +66,12 @@
           "cross_sections": []
         },
         {
-          "id": "bnl0LXdoYXQtaGFwcGVuZWQt",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "US",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "What Happened After The New York Times Found a Cartel Mine on a Colombian Military Base",
-          "summary": "Officers denied that an illegal, large-scale gold operation was underway within earshot of their posts. But we had seen it with our own eyes.",
-          "image_url": null,
-          "article_url": "https://www.nytimes.com/2026/04/26/world/americas/colombia-cartel-illegal-gold-mining-military-base.html",
-          "published_at": "Sun, 26 Apr 2026 09:04:17 +0000",
-          "cross_sections": []
-        },
-        {
           "id": "bnl0LXUucy4tc2FuY3Rpb25z",
           "source_id": "nyt",
           "source_name": "The New York Times",
           "source_region": "US",
           "source_category": "Newspaper",
-          "feed_label": "Business",
+          "feed_label": "Top Stories",
           "title": "U.S. Sanctions Zigzag in New World of Economic Warfare",
           "summary": "With oil prices in mind, the Trump administration has deployed a haphazard approach to sanctions on Russia and Iran.",
           "image_url": "https://static01.nyt.com/images/2026/04/26/multimedia/26dc-sanctions-lbkc/26dc-sanctions-lbkc-mediumSquareAt3X.jpg",
@@ -94,6 +94,20 @@
           "cross_sections": [
             "ai"
           ]
+        },
+        {
+          "id": "bnl0LXRoZS10cnVtcC1hZG1p",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "US",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "The Trump Administration Has Changed Almost Every Aspect of Food Stamps",
+          "summary": "Legislation and regulatory tweaks enacted over the past year have altered who is eligible, what recipients can buy and how much some receive in benefits, among other changes.",
+          "image_url": "https://static01.nyt.com/images/2026/04/24/us/politics/dc-foodstamps-promo/dc-foodstamps-promo-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/04/26/us/trump-administration-food-stamps.html",
+          "published_at": "Sun, 26 Apr 2026 09:02:15 +0000",
+          "cross_sections": []
         },
         {
           "id": "bnl0LWhvdy13ZS10cmFjZWQt",
@@ -135,6 +149,20 @@
           "image_url": "https://static01.nyt.com/images/2026/04/26/multimedia/26biz-corneroffice-msi-promo-lpch/26biz-corneroffice-msi-promo-lpch-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/04/26/business/chicago-science-museum-ceo-chevy-humphrey.html",
           "published_at": "Sun, 26 Apr 2026 09:00:56 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LXRoZS1oYXJkLWxpZmUt",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "US",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "The Hard Life of an Immigrant Whose Killing Became a Symbol for Trump",
+          "summary": "President Trump posted surveillance footage of Nilufa Easmin’s brutal killing by another immigrant to advance his agenda. Behind the rhetoric was a more nuanced story.",
+          "image_url": null,
+          "article_url": "https://www.nytimes.com/2026/04/26/us/the-hard-life-of-an-immigrant-whose-killing-became-a-symbol-for-trump.html",
+          "published_at": "Sun, 26 Apr 2026 09:00:50 +0000",
           "cross_sections": []
         },
         {
@@ -253,20 +281,6 @@
           "cross_sections": []
         },
         {
-          "id": "bnl0LXRydW1wLXNlZWtzLXRv",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "US",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Trump Seeks to Abolish Iran’s Nuclear Stockpile, a Problem He Helped Create",
-          "summary": "President Trump withdrew from the Obama-era nuclear accord in 2018, saying it was the worst deal ever. But Iran responded with an enrichment spree that haunts the negotiations to this day.",
-          "image_url": "https://static01.nyt.com/images/2026/02/22/multimedia/25dc-TRUMP-NUKES/22int-iran-larijani-lfwj-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/04/25/us/politics/trump-iran-nuclear.html",
-          "published_at": "Sun, 26 Apr 2026 02:20:18 +0000",
-          "cross_sections": []
-        },
-        {
           "id": "bnl0LXRydW1wLWNhbmNlbHMt",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -281,17 +295,17 @@
           "cross_sections": []
         },
         {
-          "id": "bnl0LWluLWRlZXAtYmx1ZS1j",
+          "id": "bnl0LWhvdy10aGUtd2FyLWlu",
           "source_id": "nyt",
           "source_name": "The New York Times",
           "source_region": "US",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "In Deep Blue California, a G.O.P.-Backed Voter ID Proposal Makes the Ballot",
-          "summary": "A Republican-backed initiative has cleared the signature threshold for the November election. Critics say the measure could make it harder for people to vote.",
-          "image_url": "https://static01.nyt.com/images/2026/04/25/multimedia/25pol-california-voter-id-01-mhgw/25pol-california-voter-id-01-mhgw-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/04/25/us/politics/california-voter-id-citizenship-ballot.html",
-          "published_at": "Sat, 25 Apr 2026 23:07:54 +0000",
+          "title": "How the War in Iran Is Draining the U.S. of Critical Weapons",
+          "summary": "The United States has blown through weapons as the cost of the war in Iran has hit nearly $1 billion a day. Our national security correspondent Eric Schmitt explains how American costs may go beyond the financial.",
+          "image_url": null,
+          "article_url": "https://www.nytimes.com/video/us/politics/100000010857432/how-the-war-in-iran-is-draining-the-us-of-critical-weapons.html",
+          "published_at": "Sat, 25 Apr 2026 23:39:30 +0000",
           "cross_sections": []
         },
         {
@@ -314,26 +328,12 @@
           "source_name": "The New York Times",
           "source_region": "US",
           "source_category": "Newspaper",
-          "feed_label": "Top Stories",
+          "feed_label": "Technology",
           "title": "A Year Later, Trump’s ‘Most Exclusive’ Memecoin Event Is a Lot Less Exclusive",
           "summary": "Even a Times reporter qualified for the event, which caused outrage last year for providing access to President Trump in exchange for investment in one of his family’s crypto ventures.",
           "image_url": "https://static01.nyt.com/images/2026/04/24/business/00-trump-memecoin/00-trump-memecoin-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/04/25/technology/trump-memecoin-conference.html",
           "published_at": "Sat, 25 Apr 2026 19:57:07 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "bnl0LXRleGFzLWNhbi1hcnJl",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "US",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Texas Can Arrest and Deport People Who Illegally Cross at Mexico Border, Court Says",
-          "summary": "The court that paused a 2023 law allowing state and local police officers to arrest migrants has now ruled that the measure is legal, a decision likely to be appealed.",
-          "image_url": "https://static01.nyt.com/images/2026/04/26/multimedia/26nat-texas-migrants-gkhc/26nat-texas-migrants-gkhc-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/04/25/us/texas-mexico-border-arrest-deport-immigration.html",
-          "published_at": "Sat, 25 Apr 2026 19:40:24 +0000",
           "cross_sections": []
         },
         {
@@ -367,20 +367,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "bnl0LWZpcm0tYnVpbGRpbmct",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "US",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Firm Building Trump’s Ballroom Got a Secret No-Bid Contract for a Nearby Job",
-          "summary": "The National Park Service increased the value of the contract several times over and then awarded it to Maryland-based Clark Construction, in a process that experts said was highly unusual.",
-          "image_url": "https://static01.nyt.com/images/2026/04/24/us/politics/dc-lafayette-promo/dc-lafayette-promo-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/04/25/us/politics/lafayette-park-fountains-trump-contract.html",
-          "published_at": "Sat, 25 Apr 2026 09:00:49 +0000",
-          "cross_sections": []
         },
         {
           "id": "bnl0LWdvb2dsZS1jb21taXRz",
@@ -954,7 +940,7 @@
           "source_category": "Newspaper",
           "feed_label": "World",
           "title": "‘Astonishing’ discovery could help save children from deadly disfiguring condition",
-          "summary": "A previously unknown species of bacteria found in patients with noma could be key to creating treatments for the neglected tropical disease\nThe “astonishing” discovery of a new bacteria could open the door to better ways to prevent, detect and treat a fatal and disfiguring childhood disease, researc",
+          "summary": "A previously unknown species of bacteria found in patients with noma could be key to creating treatments for the neglected tropical disease\nThe “astonishing” discovery of a new bacterium could open the door to better ways to prevent, detect and treat a fatal and disfiguring childhood disease, resear",
           "image_url": "https://i.guim.co.uk/img/media/e8156517a54fa1b3b8e7629e6c28b0792f291a7a/248_0_2504_2004/master/2504.jpg?width=140&quality=85&auto=format&fit=max&s=579e2320140c1f419daf8ba90d40fecc",
           "article_url": "https://www.theguardian.com/global-development/2026/apr/25/discovery-children-fatal-disfiguring-disease-noma-unknown-bacteria",
           "published_at": "Sat, 25 Apr 2026 09:00:41 GMT",
@@ -1175,17 +1161,59 @@
       "category": "Broadcaster",
       "articles": [
         {
-          "id": "YmJjLXN0YXJtZXItaW5zaXN0",
+          "id": "YmJjLWhpZ2hlci1wcmljZXMt",
           "source_id": "bbc",
           "source_name": "BBC News",
           "source_region": "UK",
           "source_category": "Broadcaster",
           "feed_label": "Top Stories",
-          "title": "Starmer insists 'majority' of Labour MPs back his leadership",
-          "summary": "This week has seen increasing speculation among Labour MPs about Sir Keir's judgement and leadership.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3bd/live/7866b810-40fc-11f1-857b-6b8d8b32a9e7.jpg",
-          "article_url": "https://www.bbc.com/news/articles/c705228kpx9o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 26 Apr 2026 09:34:34 GMT",
+          "title": "Higher prices could last for eight months after Iran war, minister says",
+          "summary": "Officials are monitoring stock levels and planning for any potential disruptions to the supply chain.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e770/live/74d53e30-414f-11f1-9d1f-0d69b57ee6a5.jpg",
+          "article_url": "https://www.bbc.com/news/articles/cm29m98md2do?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 26 Apr 2026 09:54:53 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLWtpbmctd2lsbC1oYXZl",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "UK",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "King will have 'appropriate security' for US trip, minister says",
+          "summary": "'Further discussions' will take place between UK and US officials in the wake of Saturday's shooting in Washington, says Darren Jones.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e0d/live/dd4fe010-414e-11f1-9d1f-0d69b57ee6a5.jpg",
+          "article_url": "https://www.bbc.com/news/articles/cz0e0rn179eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 26 Apr 2026 09:46:00 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLWhvdy10aGUtc2hvb3Rp",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "UK",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "How the shooting unfolded at Washington event",
+          "summary": "President Trump and Vice-President Vance were rushed off the stage, after gunshots were heard at the event at the Washington Hilton hotel.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fce/live/2de9c770-4154-11f1-b55d-0f258dce1735.jpg",
+          "article_url": "https://www.bbc.com/news/videos/cgqkq18qqeeo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 26 Apr 2026 09:43:42 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLXdoYXQtd2Uta25vdy1h",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "UK",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "What we know about press dinner shooting suspect",
+          "summary": "The man arrested at the event attended by President Trump has been named in US media as Cole Tomas Allen from California.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/889e/live/5be129d0-4153-11f1-9d1f-0d69b57ee6a5.jpg",
+          "article_url": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 26 Apr 2026 09:37:39 GMT",
           "cross_sections": []
         },
         {
@@ -1200,20 +1228,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f56/live/2e2451f0-40b0-11f1-9cb2-cda518707cb6.jpg",
           "article_url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 26 Apr 2026 08:56:02 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "YmJjLXdoYXQtd2Uta25vdy1h",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "UK",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "What we know about the incident",
-          "summary": "Donald Trump and First Lady Melania Trump were rushed from a ballroom after gunfire was heard.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b596/live/fdc4dcb0-4112-11f1-b55d-0f258dce1735.jpg",
-          "article_url": "https://www.bbc.com/news/articles/cdxd1x2qw2go?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 26 Apr 2026 08:05:41 GMT",
           "cross_sections": []
         },
         {
@@ -1251,25 +1265,11 @@
           "source_region": "UK",
           "source_category": "Broadcaster",
           "feed_label": "Top Stories",
-          "title": "What it was like in the room as shots rang out at Washington event",
+          "title": "What it was like in the room as shots rang out",
           "summary": "The BBC's Gary O'Donoghue describes the moment he and others dived for cover as shots rang out at the venue.",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e265/live/00d6d2a0-414a-11f1-ac78-2112837ce2aa.jpg",
           "article_url": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 26 Apr 2026 04:22:59 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "YmJjLW1vbWVudC10cnVtcC1y",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "UK",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Moment Trump rushed to safety after gunshots heard at venue",
-          "summary": "The US president was midway through a conversation before loud bangs rang out at the venue and he was quickly escorted to safety.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcaf/live/33b24490-410c-11f1-b55d-0f258dce1735.jpg",
-          "article_url": "https://www.bbc.com/news/videos/crm1gm7ez30o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 26 Apr 2026 01:59:35 GMT",
           "cross_sections": []
         },
         {
@@ -1284,20 +1284,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd6d/live/d70bb7a0-4104-11f1-b55d-0f258dce1735.jpg",
           "article_url": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 26 Apr 2026 00:34:21 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "YmJjLXVrLXN0ZXBzLXVwLXBs",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "UK",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "UK steps up plans for potential shortages caused by Iran war",
-          "summary": "Officials are monitoring stock levels and planning for any potential disruptions to the supply chain.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/025b/live/4184f3d0-40b0-11f1-9cb2-cda518707cb6.jpg",
-          "article_url": "https://www.bbc.com/news/articles/cm29m98md2do?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 25 Apr 2026 23:55:25 GMT",
           "cross_sections": []
         },
         {
@@ -1569,20 +1555,6 @@
           ]
         },
         {
-          "id": "YmJjLXVzLXNvbGRpZXItY2hh",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "UK",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "US soldier charged after winning $400,000 betting on removal of Maduro",
-          "summary": "Gannon Ken Van Dyke allegedly made trades on Polymarket on the basis of classified information, the justice department says.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c326/live/c5dd7be0-3fa0-11f1-ac78-2112837ce2aa.jpg",
-          "article_url": "https://www.bbc.com/news/articles/c20832yg5p2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 24 Apr 2026 00:21:32 GMT",
-          "cross_sections": []
-        },
-        {
           "id": "YmJjLWZyb20tc2NpZW50aXN0",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -1617,7 +1589,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-04-26T09:44:05.800Z",
+          "published_at": "2026-04-26T10:05:52.233Z",
           "cross_sections": []
         },
         {
@@ -1631,7 +1603,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-04-26T09:44:05.800Z",
+          "published_at": "2026-04-26T10:05:52.233Z",
           "cross_sections": []
         },
         {
@@ -1645,7 +1617,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-04-26T09:44:05.800Z",
+          "published_at": "2026-04-26T10:05:52.233Z",
           "cross_sections": []
         },
         {
@@ -2322,20 +2294,6 @@
       "category": "Broadcaster",
       "articles": [
         {
-          "id": "YWxqYXplZXJhLXJhZ2h1LXJh",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Raghu Rai, legendary Indian photographer, dies at 83",
-          "summary": "A Magnum Photos icon, Rai's photos preserved India's memory through some of its pathbreaking events spanning decades.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/4/26/raghu-rai-legendary-indian-photographer-dies-at-83?traffic_source=rss",
-          "published_at": "Sun, 26 Apr 2026 09:37:04 +0000",
-          "cross_sections": []
-        },
-        {
           "id": "YWxqYXplZXJhLXdoYXQtdG8t",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
@@ -2432,6 +2390,20 @@
           "article_url": "https://www.aljazeera.com/sports/2026/4/26/anthony-edwards-injures-knee-in-timberwolves-game-4-win-against-nuggets?traffic_source=rss",
           "published_at": "Sun, 26 Apr 2026 07:42:38 +0000",
           "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLXdlLWNhbi1t",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "We can make sure another Chornobyl disaster does not happen, here is how",
+          "summary": "In war and peace, decentralised renewable energy systems provide a safe and resilient alternative.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/opinions/2026/4/26/we-can-make-sure-another-chornobyl-disaster-does-not-happen-here-is-how?traffic_source=rss",
+          "published_at": "Sun, 26 Apr 2026 07:16:05 +0000",
+          "cross_sections": []
         }
       ]
     },
@@ -2441,6 +2413,20 @@
       "region": "Europe",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "ZnJhbmNlMjQtYnVzLWJsYXN0",
+          "source_id": "france24",
+          "source_name": "France 24",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Bus blast in Colombia kills 13 amid rising violence",
+          "summary": "An explosive device killed 13 people traveling on a bus in southwestern Colombia on Saturday, an attack the country's army chief described as a “terrorist act\" that also left at least 38 injured as violence linked to drug trafficking in the region escalates. FRANCE 24's Léa Hurel reports.",
+          "image_url": "https://s.france24.com/media/display/26af1bd6-4154-11f1-b0e2-005056a90284/w:1024/p:16x9/EN-20260426-112059-112230-CS.jpg",
+          "article_url": "https://www.france24.com/en/bus-blast-in-colombia-kills-13-amid-rising-violence",
+          "published_at": "Sun, 26 Apr 2026 09:45:26 GMT",
+          "cross_sections": []
+        },
         {
           "id": "ZnJhbmNlMjQtd2hhdC13ZS1r",
           "source_id": "france24",
@@ -2537,20 +2523,6 @@
           "image_url": "https://s.france24.com/media/display/b97bb484-414e-11f1-8922-005056a90284/w:1024/p:16x9/capture-195743657169edd4c38fa902-22062152.jpg",
           "article_url": "https://www.france24.com/en/a-look-at-previous-attempts-on-president-trump-s-life",
           "published_at": "Sun, 26 Apr 2026 09:04:46 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "ZnJhbmNlMjQtbGEtdGVhY2hl",
-          "source_id": "france24",
-          "source_name": "France 24",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "LA teacher suspect for White House press dinner shooting",
-          "summary": "Police took into custody a suspect for the shooting at the annual White House Correspondents' Dinner who has been identified as Cole Tomas Allen, 31, of Torrance, California. Allen is a teacher and private instructor based in Torrance, Los Angeles. A motive was not immediately known, and acting Atto",
-          "image_url": "https://s.france24.com/media/display/a6464836-414c-11f1-bcad-005056bf30b7/w:1024/p:16x9/EN-20260426-100542-100733-CS.jpg",
-          "article_url": "https://www.france24.com/en/la-teacher-suspect-for-white-house-press-dinner-shooting",
-          "published_at": "Sun, 26 Apr 2026 09:02:19 GMT",
           "cross_sections": []
         },
         {
@@ -2679,6 +2651,20 @@
       "region": "Europe",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "ZHctcXVlZXItYXMtZm9sazot",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Queer as folk: The gay scandal that shook the German Empire",
+          "summary": "Germany's last emperor, a gilded porcelain vase and a general who had a heart attack in a pink tutu: The Eulenburg Affair shook the German Empire to its core and paved the way for the downfall of the monarchy.",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/queer-as-folk-the-gay-scandal-that-shook-the-german-empire/a-76940939?maca=en-rss-en-top-1022-xml-mrss",
+          "published_at": "Sun, 26 Apr 2026 09:46:00 GMT",
+          "cross_sections": []
+        },
         {
           "id": "ZHctaW5kaWEtbmV3czotbW9k",
           "source_id": "dw",
@@ -3617,128 +3603,6 @@
       ]
     },
     {
-      "id": "newsweek",
-      "name": "Newsweek",
-      "region": "US",
-      "category": "Magazine",
-      "articles": [
-        {
-          "id": "bmV3c3dlZWstZXJpa2Eta2ly",
-          "source_id": "newsweek",
-          "source_name": "Newsweek",
-          "source_region": "US",
-          "source_category": "Magazine",
-          "feed_label": "Top Stories",
-          "title": "Erika Kirk Seen in Tears After White House Correspondents’ Dinner Shooting",
-          "summary": "Erika Kirk's late husband, Charlie Kirk, was fatally shot during an appearance at a college in Utah last fall.",
-          "image_url": null,
-          "article_url": "https://www.newsweek.com/erika-kirk-seen-in-tears-after-white-house-correspondents-dinner-shooting-11879555",
-          "published_at": "Sun, 26 Apr 2026 05:01:38 -0400",
-          "cross_sections": []
-        },
-        {
-          "id": "bmV3c3dlZWstbGViYW5lc2Ut",
-          "source_id": "newsweek",
-          "source_name": "Newsweek",
-          "source_region": "US",
-          "source_category": "Magazine",
-          "feed_label": "Top Stories",
-          "title": "Lebanese Christian Leader Warns Israel Making Areas Uninhabitable",
-          "summary": "Kataeb leader Samy Gemayel told Newsweek that Hezbollah must disarm and Israel must withdraw.",
-          "image_url": null,
-          "article_url": "https://www.newsweek.com/lebanese-christian-leader-warns-israel-making-areas-uninhabitable-11876332",
-          "published_at": "Sun, 26 Apr 2026 05:00:00 -0400",
-          "cross_sections": []
-        },
-        {
-          "id": "bmV3c3dlZWstbnVjbGVhci1m",
-          "source_id": "newsweek",
-          "source_name": "Newsweek",
-          "source_region": "US",
-          "source_category": "Magazine",
-          "feed_label": "Top Stories",
-          "title": "Nuclear Fears Hang Heavy Over Ukraine on Chernobyl Anniversary",
-          "summary": "The nuclear disaster at Chernobyl continues to haunt Ukraine, heightened by attacks hitting the country's nuclear plants.",
-          "image_url": null,
-          "article_url": "https://www.newsweek.com/nuclear-chernobyl-ukraine-war-disaster-fears-safety-11868206",
-          "published_at": "Sun, 26 Apr 2026 05:00:00 -0400",
-          "cross_sections": []
-        },
-        {
-          "id": "bmV3c3dlZWstdGhlLWRuYy1k",
-          "source_id": "newsweek",
-          "source_name": "Newsweek",
-          "source_region": "US",
-          "source_category": "Magazine",
-          "feed_label": "Top Stories",
-          "title": "The DNC Didn&#039;t Ban AIPAC, But Warning Signs Remain | Opinion",
-          "summary": "\"No other group is similarly vilified for supporting candidates aligned with its priorities. Nor would it be tolerated.\"",
-          "image_url": null,
-          "article_url": "https://www.newsweek.com/the-dnc-didnt-ban-aipac-but-warning-signs-remain-opinion-11863323",
-          "published_at": "Sun, 26 Apr 2026 05:00:00 -0400",
-          "cross_sections": []
-        },
-        {
-          "id": "bmV3c3dlZWstaG9zcGl0YWxz",
-          "source_id": "newsweek",
-          "source_name": "Newsweek",
-          "source_region": "US",
-          "source_category": "Magazine",
-          "feed_label": "Top Stories",
-          "title": "Hospitals Are Deploying AI Chatbots. Doctors Are Divided",
-          "summary": "Around 40 million Americans ask ChatGPT a healthcare-related question every day, according to a January report from OpenAI.",
-          "image_url": null,
-          "article_url": "https://www.newsweek.com/hospitals-are-deploying-ai-chatbots-doctors-are-divided-11862567",
-          "published_at": "Sun, 26 Apr 2026 05:00:00 -0400",
-          "cross_sections": [
-            "ai"
-          ]
-        },
-        {
-          "id": "bmV3c3dlZWstdG9ybmFkby13",
-          "source_id": "newsweek",
-          "source_name": "Newsweek",
-          "source_region": "US",
-          "source_category": "Magazine",
-          "feed_label": "Top Stories",
-          "title": "Tornado Watch Issued for 17 Counties in Texas",
-          "summary": "A tornado watch remains in effect for 17 north and central Texas counties as conditions stay favorable for strong tornadoes.",
-          "image_url": null,
-          "article_url": "https://www.newsweek.com/tornado-watch-issued-17-counties-texas-11879575",
-          "published_at": "Sun, 26 Apr 2026 04:56:31 -0400",
-          "cross_sections": []
-        },
-        {
-          "id": "bmV3c3dlZWstZmFyLXJpZ2h0",
-          "source_id": "newsweek",
-          "source_name": "Newsweek",
-          "source_region": "US",
-          "source_category": "Magazine",
-          "feed_label": "Top Stories",
-          "title": "Far-Right Extremist Fight Clubs Are Happening in America’s Forests",
-          "summary": "A Newsweek investigation illustrates the rise of secret fight clubs linked to white supremacist groups including Patriot Front.",
-          "image_url": null,
-          "article_url": "https://www.newsweek.com/far-right-extremist-fight-clubs-happenig-america-forests-11872782",
-          "published_at": "Sun, 26 Apr 2026 04:00:00 -0400",
-          "cross_sections": []
-        },
-        {
-          "id": "bmV3c3dlZWstdHJ1bXAtZGlu",
-          "source_id": "newsweek",
-          "source_name": "Newsweek",
-          "source_region": "US",
-          "source_category": "Magazine",
-          "feed_label": "Top Stories",
-          "title": "Trump Dinner Shooting Shows Security Can’t Outrun Politics",
-          "summary": "Perspective: The shooting at the White House Correspondents' Dinner is a bleak reminder of brewing political violence.",
-          "image_url": null,
-          "article_url": "https://www.newsweek.com/trump-dinner-whca-shooting-security-white-house-dinner-11879518",
-          "published_at": "Sun, 26 Apr 2026 03:45:38 -0400",
-          "cross_sections": []
-        }
-      ]
-    },
-    {
       "id": "newyorker",
       "name": "The New Yorker",
       "region": "US",
@@ -3852,6 +3716,34 @@
       "region": "India",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "bmR0di0iYXJteS1kb2Vzbid0",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "India",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "\"Army Doesn't Get Business\": US Soldier Accused Of Betting On Maduro Operation",
+          "summary": "The prosecutors alleged that his last bet was placed hours before the US Special Forces apprehended Maduro.",
+          "image_url": "https://c.ndtvimg.com/2026-01/g300kn8o_nicolas-maduro-trial_625x300_06_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+          "article_url": "https://www.ndtv.com/world-news/ken-van-dyke-us-army-soldier-accused-of-nicolas-maduro-bet-says-army-people-dont-get-the-business-stuff-11410604#publisher=newsstand",
+          "published_at": "Sun, 26 Apr 2026 15:09:27 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "bmR0di10cnVtcC13YXMtZ29p",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "India",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Trump Was Going To \"Rip It\" With Media, Then Literal Shots Were Fired",
+          "summary": "The missed opportunity at WHCD, often called \"Nerd Prom\", comes at a time New York Times found the disapproval for Trump to be at its highest during his second term in office.",
+          "image_url": "https://c.ndtvimg.com/2026-04/drco9e14_trump-press_625x300_26_April_26.jpeg",
+          "article_url": "https://www.ndtv.com/world-news/trump-event-shooting-shots-that-were-fired-and-werent-shooting-derailed-presidents-media-showdown-11410989#publisher=newsstand",
+          "published_at": "Sun, 26 Apr 2026 15:03:05 +0530",
+          "cross_sections": []
+        },
         {
           "id": "bmR0di1uby1sb25nLWNsb3Ro",
           "source_id": "ndtv",
@@ -3980,20 +3872,6 @@
           "article_url": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-us-iran-ceasefire-islamabad-talks-starit-of-hormuz-blockade-donald-trump-mojtaba-khamenei-11396003#publisher=newsstand",
           "published_at": "Sun, 26 Apr 2026 12:55:27 +0530",
           "cross_sections": []
-        },
-        {
-          "id": "bmR0di10cnVtcC1ldmVudC1z",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "India",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Trump Event Shooting At Same Hotel Where Ronald Reagan Was Shot 45 Years Ago",
-          "summary": "Agents swarmed around tables as plates crashed to the floor of the ballroom of the Washington Hilton, the very hotel where president Ronald Reagan survived an assassination attempt",
-          "image_url": "https://c.ndtvimg.com/2026-04/1k8pin6_trump-reagan-shooting_625x300_26_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-          "article_url": "https://www.ndtv.com/world-news/president-donald-trump-white-house-dinner-trump-evacuation-trump-event-shooting-at-same-hotel-where-ronald-reagan-was-shot-45-years-ago-11410618#publisher=newsstand",
-          "published_at": "Sun, 26 Apr 2026 12:33:38 +0530",
-          "cross_sections": []
         }
       ]
     },
@@ -4003,6 +3881,20 @@
       "region": "India",
       "category": "Magazine",
       "articles": [
+        {
+          "id": "aW5kaWF0b2RheS1qb3ktYmFu",
+          "source_id": "indiatoday",
+          "source_name": "India Today",
+          "source_region": "India",
+          "source_category": "Magazine",
+          "feed_label": "Home",
+          "title": "Joy Bangla vs Jai Shri Ram: TMC, BJP workers face off during Ravi Kishan's rally",
+          "summary": "Joy Bangla vs Jai Shri Ram TMC BJP workers face off during Ravi Kishans rally",
+          "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/bengal-polls-26483253-16x9_0.jpg?VersionId=5RGuduOQR9hBUKWC_yuxQGyN4d9wIjsk",
+          "article_url": " https://www.indiatoday.in/elections/assembly/story/west-bengal-assembly-elections-2026-bjp-tmc-workers-slogan-face-off-in-howrah-wb-polls-2901773-2026-04-26?utm_source=rss ",
+          "published_at": "Sun, 26 Apr 2026 15:22:41 +0530",
+          "cross_sections": []
+        },
         {
           "id": "aW5kaWF0b2RheS1waG90b2pv",
           "source_id": "indiatoday",
@@ -4032,17 +3924,17 @@
           "cross_sections": []
         },
         {
-          "id": "aW5kaWF0b2RheS10cnVzdC1p",
+          "id": "aW5kaWF0b2RheS1tZWV0LXJv",
           "source_id": "indiatoday",
           "source_name": "India Today",
           "source_region": "India",
           "source_category": "Magazine",
           "feed_label": "Home",
-          "title": "Trust in Shreyas Iyer influenced PBKS IPL auction calls: Coach Ricky Ponting",
-          "summary": "Trust in Shreyas Iyer influenced PBKS IPL auction calls Coach Ricky Ponting",
-          "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/shreyas-iyer--shashank-singh-265333539-16x9_0.jlzfz3hc5xwuwrgr3embvob6c-hvu3bbgcmsw-ypucq?VersionId=vT6kxQ7.Q0a9RYwcZyQeMUroy73gHeUB",
-          "article_url": " https://www.indiatoday.in/sports/cricket/story/ipl-2026-dc-vs-pbks-shreyas-iyer-ricky-ponting-trust-record-chase-2901739-2026-04-26?utm_source=rss ",
-          "published_at": "Sun, 26 Apr 2026 13:24:09 +0530",
+          "title": "Meet Robin Singh, the Bhojpuri commentator who is giving Bihar cricket its voice",
+          "summary": "Meet Robin Singh the Bhojpuri commentator who is giving Bihar cricket its voice",
+          "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/robin-singh-264002299-16x9_0.jpg?VersionId=Pzn2b0GBhOLQAQShN0ShsB1.Mb52FBup",
+          "article_url": " https://www.indiatoday.in/sports/cricket/story/ipl-2026-robin-singh-bhojpuri-commentator-bihar-cricket-vaibhav-sooryavanshi-sakib-2901702-2026-04-26?utm_source=rss ",
+          "published_at": "Sun, 26 Apr 2026 12:10:35 +0530",
           "cross_sections": []
         },
         {
@@ -4099,20 +3991,6 @@
           "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/vaibhav-sooryavanshi--pat-cummins-265941546-16x9_0.jpg?VersionId=x5jXwaheLVkgwcHwEuDUSJq4jKCq4q03",
           "article_url": " https://www.indiatoday.in/sports/cricket/story/ipl-2026-rr-vs-srh-vaibhav-sooryavanshi-pat-cummins-new-favourite-player-century-2901624-2026-04-26?utm_source=rss ",
           "published_at": "Sun, 26 Apr 2026 08:30:35 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "aW5kaWF0b2RheS1hbmdyeS1t",
-          "source_id": "indiatoday",
-          "source_name": "India Today",
-          "source_region": "India",
-          "source_category": "Magazine",
-          "feed_label": "Home",
-          "title": "Angry Mamata Banerjee walks off stage over noise from BJP rally 100 metres away",
-          "summary": "Angry Mamata Banerjee walks off stage over noise from BJP rally  metres away",
-          "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/west-bengal-cm-mamata-banerjee-bjp-leader-suvendu-adhikari-101751360-16x9.jpg?VersionId=qbOU5FL4n69Iu_4b17q_KpwItU0Q65am",
-          "article_url": " https://www.indiatoday.in/elections/assembly/story/angry-mamata-banerjee-walks-off-stage-bhabanipur-over-noise-from-bjp-rally-100-metres-away-2901577-2026-04-25?utm_source=rss ",
-          "published_at": "Sat, 25 Apr 2026 23:40:31 +0530",
           "cross_sections": []
         },
         {
@@ -4196,17 +4074,17 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dG9pLWNoZXJub2J5bC1hbm5p",
+          "id": "dG9pLWx1bmdpLW5naWRpJ3Mt",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "India",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Chernobyl anniversary: Zelenskyy accuses Russia of 'once again bringing world to brink of disaster'",
-          "summary": "Marking Chernobyl's 40th anniversary, Ukraine's President Zelenskyy accused Russia of \"nuclear terrorism,\" citing drone activity near the plant and warning of man-made disasters. Meanwhile, Ukrainian drones struck a Russian fertilizer plant, causing a pipeline leak. Russia also launched numerous dro",
+          "title": "Lungi Ngidi's first words after horrific injury in DC vs PBKS clash",
+          "summary": "Lungi Ngidi has reassured fans about his recovery following a frightening head and neck injury sustained during an IPL 2026 match. The South African pacer, discharged from a Delhi hospital, expressed gratitude for the support.  Despite the injury scare, the Delhi Capitals bowler is reportedly doing ",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/world/europe/chernobyl-anniversary-zelenskyy-accuses-russia-of-once-again-bringing-world-to-brink-of-man-made-disaster/articleshow/130528675.cms",
-          "published_at": "Sun, 26 Apr 2026 14:06:11 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-lungi-ngidi-first-words-after-horrific-injury-in-dc-vs-pbks-clash/articleshow/130529451.cms",
+          "published_at": "Sun, 26 Apr 2026 15:14:25 +0530",
           "cross_sections": []
         },
         {
@@ -4673,64 +4551,6 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "Y2hpbmFkYWlseS1zYXRlbGxp",
-          "source_id": "chinadaily",
-          "source_name": "China Daily",
-          "source_region": "Asia",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Satellite lofted for first Arab country",
-          "summary": "A Chinese-made communications satellite became the first \"export\" of such a spacecraft to an Arab country when it was launched by China on Monday for Algeria.",
-          "image_url": null,
-          "article_url": "\n\nhttp://www.chinadaily.com.cn/a/201712/12/WS5a2f225ea3108bc8c67219dd.html\n\n",
-          "published_at": "2026-04-26T09:44:14.802Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y2hpbmFkYWlseS13d2lpLW1l",
-          "source_id": "chinadaily",
-          "source_name": "China Daily",
-          "source_region": "Asia",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "WWII memorials solemn reminders of war tragedy",
-          "summary": "Memorial days were set up by governments of the war’s major belligerents to remember those who died or sacrificed themselves, and to remind people of tragedies caused by war. Here are ways different countries keep the memory of the wartime history alive.",
-          "image_url": null,
-          "article_url": "\n\nhttp://www.chinadaily.com.cn/a/201712/12/WS5a2f1143a3108bc8c6721944.html\n\n",
-          "published_at": "2026-04-26T09:44:14.802Z",
-          "cross_sections": []
-        },
-        {
-          "id": "Y2hpbmFkYWlseS1jaGluZXNl",
-          "source_id": "chinadaily",
-          "source_name": "China Daily",
-          "source_region": "Asia",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Chinese, Russian and Indian ministers meet",
-          "summary": "China, Russia and India agreed to maintain regional security and economic architecture in the Asia-Pacific, according to a joint statement issued on Monday after the 15th trilateral meeting of the foreign ministers of the three countries.",
-          "image_url": null,
-          "article_url": "\n\nhttp://www.chinadaily.com.cn/a/201712/12/WS5a2f0d6ca3108bc8c6721934.html\n\n",
-          "published_at": "2026-04-26T09:44:14.802Z",
-          "cross_sections": []
-        },
-        {
-          "id": "Y2hpbmFkYWlseS1uYW5qaW5n",
-          "source_id": "chinadaily",
-          "source_name": "China Daily",
-          "source_region": "Asia",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Nanjing massacre remembered on 80th anniversary",
-          "summary": "A memorial service to mark the 80th anniversary of the Nanjing Massacre committed by the Japanese military during World War II brought together hundreds of activists and members of the Chinese and other Asian communities on Sunday in San Francisco.",
-          "image_url": null,
-          "article_url": "\n\nhttp://www.chinadaily.com.cn/a/201712/12/WS5a2ed569a3108bc8c6721912.html\n\n",
-          "published_at": "2026-04-26T09:44:14.802Z",
-          "cross_sections": []
-        },
-        {
           "id": "Y2hpbmFkYWlseS1hcmN0aWMt",
           "source_id": "chinadaily",
           "source_name": "China Daily",
@@ -4741,7 +4561,7 @@
           "summary": "China's annual imports from the Yamal natural gas project in the resource-rich Arctic region will further secure China's energy security with increasing supplies of the natural gas, which is currently experiencing a severe shortage especially in northern China, said an executive from China National ",
           "image_url": null,
           "article_url": "\n\nhttp://www.chinadaily.com.cn/a/201712/12/WS5a2f25aea3108bc8c6721a07.html\n\n",
-          "published_at": "2026-04-26T09:44:14.666Z",
+          "published_at": "2026-04-26T10:05:57.897Z",
           "cross_sections": []
         },
         {
@@ -4755,7 +4575,7 @@
           "summary": "The world's largest floating photovoltaic power station was connected to the grid and started generating power in Anhui province on Sunday, with the remaining capacity to be connected in May, said China Three Gorges Corp, the world's largest hydropower producer.",
           "image_url": null,
           "article_url": "\n\nhttp://www.chinadaily.com.cn/a/201712/12/WS5a2f231ca3108bc8c67219ec.html\n\n",
-          "published_at": "2026-04-26T09:44:14.666Z",
+          "published_at": "2026-04-26T10:05:57.897Z",
           "cross_sections": [
             "tech"
           ]
@@ -4771,10 +4591,68 @@
           "summary": "Orders for China's rebounding shipbuilding industry reached the top place in the world in the past 11 months, surpassing its counterpart South Korea, according to an international industrial analysis agency.",
           "image_url": null,
           "article_url": "\n\nhttp://www.chinadaily.com.cn/a/201712/12/WS5a2f2002a3108bc8c67219d3.html\n\n",
-          "published_at": "2026-04-26T09:44:14.666Z",
+          "published_at": "2026-04-26T10:05:57.897Z",
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "Y2hpbmFkYWlseS1zYXRlbGxp",
+          "source_id": "chinadaily",
+          "source_name": "China Daily",
+          "source_region": "Asia",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "Satellite lofted for first Arab country",
+          "summary": "A Chinese-made communications satellite became the first \"export\" of such a spacecraft to an Arab country when it was launched by China on Monday for Algeria.",
+          "image_url": null,
+          "article_url": "\n\nhttp://www.chinadaily.com.cn/a/201712/12/WS5a2f225ea3108bc8c67219dd.html\n\n",
+          "published_at": "2026-04-26T10:05:57.888Z",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y2hpbmFkYWlseS13d2lpLW1l",
+          "source_id": "chinadaily",
+          "source_name": "China Daily",
+          "source_region": "Asia",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "WWII memorials solemn reminders of war tragedy",
+          "summary": "Memorial days were set up by governments of the war’s major belligerents to remember those who died or sacrificed themselves, and to remind people of tragedies caused by war. Here are ways different countries keep the memory of the wartime history alive.",
+          "image_url": null,
+          "article_url": "\n\nhttp://www.chinadaily.com.cn/a/201712/12/WS5a2f1143a3108bc8c6721944.html\n\n",
+          "published_at": "2026-04-26T10:05:57.888Z",
+          "cross_sections": []
+        },
+        {
+          "id": "Y2hpbmFkYWlseS1jaGluZXNl",
+          "source_id": "chinadaily",
+          "source_name": "China Daily",
+          "source_region": "Asia",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "Chinese, Russian and Indian ministers meet",
+          "summary": "China, Russia and India agreed to maintain regional security and economic architecture in the Asia-Pacific, according to a joint statement issued on Monday after the 15th trilateral meeting of the foreign ministers of the three countries.",
+          "image_url": null,
+          "article_url": "\n\nhttp://www.chinadaily.com.cn/a/201712/12/WS5a2f0d6ca3108bc8c6721934.html\n\n",
+          "published_at": "2026-04-26T10:05:57.888Z",
+          "cross_sections": []
+        },
+        {
+          "id": "Y2hpbmFkYWlseS1uYW5qaW5n",
+          "source_id": "chinadaily",
+          "source_name": "China Daily",
+          "source_region": "Asia",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "Nanjing massacre remembered on 80th anniversary",
+          "summary": "A memorial service to mark the 80th anniversary of the Nanjing Massacre committed by the Japanese military during World War II brought together hundreds of activists and members of the Chinese and other Asian communities on Sunday in San Francisco.",
+          "image_url": null,
+          "article_url": "\n\nhttp://www.chinadaily.com.cn/a/201712/12/WS5a2ed569a3108bc8c6721912.html\n\n",
+          "published_at": "2026-04-26T10:05:57.888Z",
+          "cross_sections": []
         }
       ]
     },
@@ -4784,6 +4662,64 @@
       "region": "Australia",
       "category": "Newspaper",
       "articles": [
+        {
+          "id": "c21oLeKAmHNjaWVuY2UtZmlj",
+          "source_id": "smh",
+          "source_name": "The Sydney Morning Herald",
+          "source_region": "Australia",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "‘Science fiction’: How life-saving organs are being kept alive outside the body",
+          "summary": "The kidney and liver waiting for Frank Giamarelos when he arrived at the Austin Hospital were no longer inside a human body, yet they were still alive.",
+          "image_url": null,
+          "article_url": "https://www.smh.com.au/national/science-fiction-how-life-saving-organs-are-being-kept-alive-outside-the-body-20260423-p5zqhj.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published_at": "Sun, 26 Apr 2026 20:00:00 +1000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "c21oLXZpY3Rvcmlhbi1saWJl",
+          "source_id": "smh",
+          "source_name": "The Sydney Morning Herald",
+          "source_region": "Australia",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Victorian Liberals to preference One Nation at state election",
+          "summary": "The preference strategy, while designed to galvanise the anti-Labor vote across the state, risks a backlash in the party’s urban and middle-suburb heartland.",
+          "image_url": null,
+          "article_url": "https://www.smh.com.au/politics/victoria/victorian-liberals-to-preference-one-nation-at-state-election-20260426-p5zr5l.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published_at": "Sun, 26 Apr 2026 20:00:00 +1000",
+          "cross_sections": []
+        },
+        {
+          "id": "c21oLSdtaW5kLWJvZ2dsaW5n",
+          "source_id": "smh",
+          "source_name": "The Sydney Morning Herald",
+          "source_region": "Australia",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "'Mind boggling' kick gifts Chiefs try",
+          "summary": "Drua fullback Ilaisa Droasese produced one of the most bone-headed plays in Super Rugby history.",
+          "image_url": null,
+          "article_url": "https://www.smh.com.au/sport/rugby-union/mind-boggling-kick-gifts-chiefs-try-20260426-p5zr7h.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published_at": "Sun, 26 Apr 2026 19:45:19 +1000",
+          "cross_sections": []
+        },
+        {
+          "id": "c21oLeKAmHJpZ2h0LWNhbGwt",
+          "source_id": "smh",
+          "source_name": "The Sydney Morning Herald",
+          "source_region": "Australia",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "‘Right call was made in the end’: Marshall backs ARC intervention; King gets through return in VFL",
+          "summary": "St Kilda have piled on 22 goals in their most dominant performance of the season – including finally winning a third quarter – to thrash West Coast by 101 points amid another ARC controversy.",
+          "image_url": null,
+          "article_url": "https://www.smh.com.au/sport/afl/st-kilda-saints-notch-first-100-point-plus-win-in-11-years-amid-arc-controversy-20260426-p5zr5t.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published_at": "Sun, 26 Apr 2026 19:42:38 +1000",
+          "cross_sections": []
+        },
         {
           "id": "c21oLXRoaXMtd2FzLXRoZS1i",
           "source_id": "smh",
@@ -4841,62 +4777,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "c21oLWJvb2luZy13ZWxjb21l",
-          "source_id": "smh",
-          "source_name": "The Sydney Morning Herald",
-          "source_region": "Australia",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Booing Welcome to Country does not honour the fallen",
-          "summary": "We may have different views of war and different feelings about the Anzac tradition, but dawn services are sacrosanct.",
-          "image_url": null,
-          "article_url": "https://www.smh.com.au/national/booing-welcome-to-country-does-not-honour-the-fallen-20260426-p5zr4e.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "published_at": "Sun, 26 Apr 2026 19:30:00 +1000",
-          "cross_sections": []
-        },
-        {
-          "id": "c21oLXByb3Rlc3RlcnMtdGFy",
-          "source_id": "smh",
-          "source_name": "The Sydney Morning Herald",
-          "source_region": "Australia",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Protesters target Parliament House",
-          "summary": "A group of anti immigration protestors descended on Parliament House as families of ISIS fighters attempting to return are warned they'll receive \"zero assistance\".",
-          "image_url": null,
-          "article_url": "https://www.smh.com.au/national/protesters-target-parliament-house-20260426-p5zr73.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "published_at": "Sun, 26 Apr 2026 19:29:40 +1000",
-          "cross_sections": []
-        },
-        {
-          "id": "c21oLXJvdW5kLTg6LXNlYS1l",
-          "source_id": "smh",
-          "source_name": "The Sydney Morning Herald",
-          "source_region": "Australia",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Round 8: Sea Eagles v Eels | Match Highlights",
-          "summary": "The Manly-Warringah Sea Eagles take on the Parramatta Eels in Round 8 of the 2026 NRL Premiership at 4 Pines Park, Sydney.",
-          "image_url": null,
-          "article_url": "https://www.smh.com.au/sport/nrl/round-8-sea-eagles-v-eels-match-highlights-20260426-p5zr6z.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "published_at": "Sun, 26 Apr 2026 19:25:14 +1000",
-          "cross_sections": []
-        },
-        {
-          "id": "c21oLWNoaWxkY2FyZS13b3Jr",
-          "source_id": "smh",
-          "source_name": "The Sydney Morning Herald",
-          "source_region": "Australia",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Childcare worker accused of slapping children",
-          "summary": "A childcare worker has been released from custody after allegedly slapping two sleeping pre-schoolers at a Sydney centre.",
-          "image_url": null,
-          "article_url": "https://www.smh.com.au/national/childcare-worker-accused-of-slapping-children-20260426-p5zr7d.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "published_at": "Sun, 26 Apr 2026 19:19:41 +1000",
-          "cross_sections": []
         },
         {
           "id": "c21oLW1lbnRhbC1oZWFsdGgt",
@@ -5022,22 +4902,6 @@
       "icon": "💻",
       "articles": [
         {
-          "id": "Y2hpbmFkYWlseS1zYXRlbGxp",
-          "source_id": "chinadaily",
-          "source_name": "China Daily",
-          "source_region": "Asia",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Satellite lofted for first Arab country",
-          "summary": "A Chinese-made communications satellite became the first \"export\" of such a spacecraft to an Arab country when it was launched by China on Monday for Algeria.",
-          "image_url": null,
-          "article_url": "\n\nhttp://www.chinadaily.com.cn/a/201712/12/WS5a2f225ea3108bc8c67219dd.html\n\n",
-          "published_at": "2026-04-26T09:44:14.802Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "Y2hpbmFkYWlseS1tYXNzaXZl",
           "source_id": "chinadaily",
           "source_name": "China Daily",
@@ -5048,7 +4912,7 @@
           "summary": "The world's largest floating photovoltaic power station was connected to the grid and started generating power in Anhui province on Sunday, with the remaining capacity to be connected in May, said China Three Gorges Corp, the world's largest hydropower producer.",
           "image_url": null,
           "article_url": "\n\nhttp://www.chinadaily.com.cn/a/201712/12/WS5a2f231ca3108bc8c67219ec.html\n\n",
-          "published_at": "2026-04-26T09:44:14.666Z",
+          "published_at": "2026-04-26T10:05:57.897Z",
           "cross_sections": [
             "tech"
           ]
@@ -5064,7 +4928,39 @@
           "summary": "Orders for China's rebounding shipbuilding industry reached the top place in the world in the past 11 months, surpassing its counterpart South Korea, according to an international industrial analysis agency.",
           "image_url": null,
           "article_url": "\n\nhttp://www.chinadaily.com.cn/a/201712/12/WS5a2f2002a3108bc8c67219d3.html\n\n",
-          "published_at": "2026-04-26T09:44:14.666Z",
+          "published_at": "2026-04-26T10:05:57.897Z",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y2hpbmFkYWlseS1zYXRlbGxp",
+          "source_id": "chinadaily",
+          "source_name": "China Daily",
+          "source_region": "Asia",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "Satellite lofted for first Arab country",
+          "summary": "A Chinese-made communications satellite became the first \"export\" of such a spacecraft to an Arab country when it was launched by China on Monday for Algeria.",
+          "image_url": null,
+          "article_url": "\n\nhttp://www.chinadaily.com.cn/a/201712/12/WS5a2f225ea3108bc8c67219dd.html\n\n",
+          "published_at": "2026-04-26T10:05:57.888Z",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "c21oLeKAmHNjaWVuY2UtZmlj",
+          "source_id": "smh",
+          "source_name": "The Sydney Morning Herald",
+          "source_region": "Australia",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "‘Science fiction’: How life-saving organs are being kept alive outside the body",
+          "summary": "The kidney and liver waiting for Frank Giamarelos when he arrived at the Austin Hospital were no longer inside a human body, yet they were still alive.",
+          "image_url": null,
+          "article_url": "https://www.smh.com.au/national/science-fiction-how-life-saving-organs-are-being-kept-alive-outside-the-body-20260423-p5zqhj.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published_at": "Sun, 26 Apr 2026 20:00:00 +1000",
           "cross_sections": [
             "tech"
           ]
@@ -5660,22 +5556,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "ZHctYXBwbGUtc3dpdGNoZXMt",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Apple switches CEO: What it means for the tech giant",
-          "summary": "Apple's top hardware engineer John Ternus will lead the $4 trillion iPhone maker, as Tim Cook steps back. Will Apple chase rivals for the smartest intelligence, or deliver the best personal AI experience?",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/apple-switches-ceo-what-it-means-for-the-tech-giant/a-76875625?maca=en-rss_en_business-5390-xml-mrss",
-          "published_at": "Tue, 21 Apr 2026 11:17:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -5806,22 +5686,6 @@
           "published_at": "Sun, 26 Apr 2026 09:00:30 +0000",
           "cross_sections": [
             "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "bmV3c3dlZWstaG9zcGl0YWxz",
-          "source_id": "newsweek",
-          "source_name": "Newsweek",
-          "source_region": "US",
-          "source_category": "Magazine",
-          "feed_label": "Top Stories",
-          "title": "Hospitals Are Deploying AI Chatbots. Doctors Are Divided",
-          "summary": "Around 40 million Americans ask ChatGPT a healthcare-related question every day, according to a January report from OpenAI.",
-          "image_url": null,
-          "article_url": "https://www.newsweek.com/hospitals-are-deploying-ai-chatbots-doctors-are-divided-11862567",
-          "published_at": "Sun, 26 Apr 2026 05:00:00 -0400",
-          "cross_sections": [
             "ai"
           ]
         },
@@ -6349,7 +6213,7 @@
   "meta": {
     "source_count": 23,
     "cross_section_count": 3,
-    "build_duration_ms": 63659,
+    "build_duration_ms": 18624,
     "ai_enabled": true
   }
 }
