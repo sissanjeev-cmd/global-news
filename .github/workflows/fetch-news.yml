@@ -22,6 +22,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0        # full history so rebase works
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -42,9 +44,12 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add public/news.json
-          # Only commit if news.json actually changed
-          git diff --cached --quiet || git commit -m "chore: refresh news data [skip ci]"
-          git push
+          # Skip if nothing changed
+          git diff --cached --quiet && echo "No changes to news.json" && exit 0
+          git commit -m "chore: refresh news data [skip ci]"
+          # Rebase on top of any commits that landed while we were running
+          git pull --rebase origin main
+          git push origin main
 
   # ── Job 2: Deploy public/ to GitHub Pages ─────────────────────
   deploy-pages:
