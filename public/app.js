@@ -13,6 +13,32 @@
     US: "🇺🇸", UK: "🇬🇧", India: "🇮🇳", Europe: "🇪🇺",
     Asia: "🌏", Australia: "🇦🇺", "Middle East": "🌍", default: "🌐",
   };
+  // Per-source gradient colors for image fallbacks
+  const SOURCE_COLORS = {
+    nyt:          ["#1a1a1a", "#333"],
+    wapo:         ["#0a1628", "#1a2d50"],
+    wsj:          ["#0d1b2a", "#1a3a5c"],
+    guardian:     ["#052962", "#0d3d7a"],
+    bbc:          ["#b80000", "#7a0000"],
+    cnn:          ["#cc0000", "#8a0000"],
+    fox:          ["#003366", "#001f40"],
+    aljazeera:    ["#1a6b3a", "#0d4025"],
+    france24:     ["#d4001a", "#8a0012"],
+    dw:           ["#005a96", "#003d6b"],
+    spiegel:      ["#cc0000", "#8a0000"],
+    time:         ["#cc0000", "#8a0000"],
+    economist:    ["#cc0000", "#8a0000"],
+    newsweek:     ["#003399", "#001f66"],
+    newyorker:    ["#1a1a1a", "#333"],
+    ndtv:         ["#cc0000", "#8a0000"],
+    aajtak:       ["#cc0000", "#8a0000"],
+    indiatoday:   ["#cc0000", "#8a0000"],
+    frontline:    ["#003366", "#001f40"],
+    toi:          ["#cc3300", "#8a2200"],
+    dainikbhaskar:["#cc3300", "#8a2200"],
+    chinadaily:   ["#cc0000", "#8a0000"],
+    smh:          ["#003399", "#001f66"],
+  };
 
   let state = {
     data: null, activeTab: "all",
@@ -195,18 +221,22 @@
     const tags   = (article.cross_sections || [])
       .map((sid) => `<span class="card-tag ${tagMap[sid]||""}">${sid}</span>`).join("");
 
+    // Source-specific gradient for fallback
+    const colors  = SOURCE_COLORS[article.source_id] || ["#1a1e2e", "#0d0f12"];
+    const gradient = `linear-gradient(135deg, ${colors[0]} 0%, ${colors[1]} 100%)`;
+
     const imgHtml = article.image_url
       ? `<img class="card-image" src="${escHtml(article.image_url)}" alt="" loading="lazy"
               onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"/>
-         <div class="card-image-fallback" style="display:none">
+         <div class="card-image-fallback" style="display:none;--fallback-gradient:${gradient}">
            <div class="card-image-fallback-inner">
-             <div class="card-image-fallback-icon">${icon}</div>
-             <div class="card-image-fallback-label">${escHtml(article.source_name)}</div>
+             <span class="card-image-fallback-icon">${icon}</span>
+             <span class="card-image-fallback-label">${escHtml(article.source_name)}</span>
            </div></div>`
-      : `<div class="card-image-fallback">
+      : `<div class="card-image-fallback" style="--fallback-gradient:${gradient}">
            <div class="card-image-fallback-inner">
-             <div class="card-image-fallback-icon">${icon}</div>
-             <div class="card-image-fallback-label">${escHtml(article.source_name)}</div>
+             <span class="card-image-fallback-icon">${icon}</span>
+             <span class="card-image-fallback-label">${escHtml(article.source_name)}</span>
            </div></div>`;
 
     const srcTag = showSourceTag
