@@ -1,7 +1,6 @@
 /* ══════════════════════════════════════════════════════════════
-   GlobalNews — app.js v5
-   Hierarchy: Section → Source → Articles
-   No empty cards · No paywalled content · Each source once
+   Global Briefing — app.js
+   Sidebar source nav · newspaper card layout · AI classified
    ══════════════════════════════════════════════════════════════ */
 (function () {
   "use strict";
@@ -9,33 +8,31 @@
   const NEWS_JSON  = "./news.json";
   const REFRESH_MS = 15 * 60 * 1000;
 
-  const ICONS = { Newspaper:"📰", Broadcaster:"📡", Magazine:"📖", default:"🌐" };
-  const FLAGS = {
-    US:"🇺🇸", UK:"🇬🇧", India:"🇮🇳", Europe:"🇪🇺",
-    Asia:"🌏", Australia:"🇦🇺", "Middle East":"🌍", default:"🌐",
-  };
+  const ICONS = { Newspaper:"📰", Broadcaster:"📡", "Tech Media":"💻", Magazine:"📖", default:"🌐" };
   const SOURCE_COLORS = {
-    nyt:["#111","#222"],               wapo:["#0a1628","#1a2d50"],
-    wsj:["#0d1b2a","#1a3a5c"],        guardian:["#052962","#0d3d7a"],
-    bbc:["#8b0000","#5a0000"],        cnn:["#aa0000","#7a0000"],
-    fox:["#002244","#001530"],        aljazeera:["#155d32","#0a3d20"],
-    france24:["#b8001a","#800012"],   dw:["#00477a","#002f52"],
-    spiegel:["#aa0000","#7a0000"],    time:["#aa0000","#7a0000"],
-    economist:["#aa0000","#7a0000"],  newsweek:["#002b80","#001a52"],
-    newyorker:["#111","#222"],        ndtv:["#aa0000","#7a0000"],
-    aajtak:["#aa0000","#7a0000"],     indiatoday:["#aa0000","#7a0000"],
-    frontline:["#002b80","#001a52"],  toi:["#b32800","#7a1a00"],
-    dainikbhaskar:["#b32800","#7a1a00"], chinadaily:["#aa0000","#7a0000"],
-    smh:["#002b80","#001a52"],
+    techcrunch:["#1a0a00","#3d1500"],    theverge:["#1a001a","#2d0033"],
+    wired:["#111","#222"],               arstechnica:["#001a33","#003366"],
+    zdnet:["#000d1a","#001433"],         cnet:["#000d1a","#00112b"],
+    infoworld:["#001a0d","#003319"],     computerworld:["#001a33","#002b52"],
+    venturebeat:["#1a000d","#330019"],   cio:["#001a33","#002b52"],
+    cnbctech:["#001933","#002b4d"],      reuterstech:["#1a0000","#2d0000"],
+    ettech:["#001a33","#002952"],        inc42:["#1a0a00","#331400"],
+    nyt:["#111","#1f1f1f"],             wapo:["#0a1628","#1a2d50"],
+    cnn:["#aa0000","#7a0000"],          cnbc:["#001933","#002b4d"],
+    fox:["#001a33","#001030"],          bbc:["#8b0000","#5a0000"],
+    guardian:["#052962","#0d3d7a"],     euronews:["#00194d","#002b7a"],
+    dw:["#00477a","#002f52"],           toi:["#b32800","#7a1a00"],
+    thehindu:["#00194d","#002b7a"],     hindustantimes:["#8b0000","#5a0000"],
+    japantimes:["#001a33","#002b52"],   ndtv:["#aa0000","#7a0000"],
+    aljazeera:["#155d32","#0a3d20"],    arabnews:["#8b0000","#5a0000"],
+    mailguardian:["#001a33","#002b52"],
   };
 
-  // Paywall signals — skip on frontend too (belt & suspenders)
   const PAYWALL = [
     "subscribe","subscription","sign in to read","login to read",
     "members only","premium content","unlock this article","register to read",
   ];
-
-  function isValidArticle(a) {
+  function isValid(a) {
     if (!a.title || a.title.trim().length < 8) return false;
     if (!a.article_url || !a.article_url.startsWith("http")) return false;
     const t = `${a.title} ${a.summary||""}`.toLowerCase();
@@ -44,225 +41,274 @@
 
   // ── State ─────────────────────────────────────────────────
   let state = {
-    data:null, activeTab:"all",
-    refreshTimer:null, countdownInterval:null, nextRefreshAt:null,
-    collapsed:new Set(), lastEtag:null,
+    data: null,
+    selectedSourceId: null, // null = all sources
+    refreshTimer: null,
+    countdownInterval: null,
+    nextRefreshAt: null,
+    lastEtag: null,
   };
 
   const $ = id => document.getElementById(id);
   const el = {
-    loading:$("loadingScreen"), error:$("errorScreen"), errorMsg:$("errorMessage"),
-    cross:$("crossSections"), sources:$("sourceSections"),
-    dot:$("statusDot"), statusTxt:$("statusText"), countdown:$("countdownTimer"),
-    btnRefresh:$("btnRefresh"), btnTheme:$("btnTheme"), nav:$("sectionNav"),
-    btt:$("backToTop"), toast:$("toast"),
-    statA:$("statArticles"), statS:$("statSources"),
-    statU:$("statUpdated"), dateEl:$("currentDate"),
+    loading: $("loadingScreen"), error: $("errorScreen"), errorMsg: $("errorMessage"),
+    feed: $("articleFeed"), panelHeading: $("panelHeading"),
+    phName: $("phSourceName"), phMeta: $("phMeta"),
+    dot: $("statusDot"), statusTxt: $("statusText"), countdown: $("countdownTimer"),
+    btnRefresh: $("btnRefresh"), btnTheme: $("btnTheme"),
+    btt: $("backToTop"), toast: $("toast"),
+    statsMeta: $("statsMeta"), dateEl: $("currentDate"),
+    sbAllBtn: $("sbAllBtn"), sbRegions: $("sbRegions"),
+    sbSearch: $("sbSearch"), sidebar: $("sidebar"),
+    mobToggle: $("mobSidebarToggle"),
   };
 
   // ── Theme ──────────────────────────────────────────────────
-  function initTheme(){
-    document.documentElement.setAttribute("data-theme",localStorage.getItem("gn-theme")||"dark");
+  function initTheme() {
+    document.documentElement.setAttribute("data-theme", localStorage.getItem("gb-theme") || "dark");
   }
-  function toggleTheme(){
-    const n=document.documentElement.getAttribute("data-theme")==="dark"?"light":"dark";
-    document.documentElement.setAttribute("data-theme",n);
-    localStorage.setItem("gn-theme",n);
+  function toggleTheme() {
+    const n = document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark";
+    document.documentElement.setAttribute("data-theme", n);
+    localStorage.setItem("gb-theme", n);
   }
 
   // ── Utils ──────────────────────────────────────────────────
-  function timeAgo(d){
-    if(!d)return"—";
-    const m=Math.floor((Date.now()-new Date(d))/60000);
-    if(m<1)return"just now"; if(m<60)return`${m}m ago`;
-    const h=Math.floor(m/60); if(h<24)return`${h}h ago`;
-    return`${Math.floor(h/24)}d ago`;
+  function timeAgo(d) {
+    if (!d) return "—";
+    const m = Math.floor((Date.now() - new Date(d)) / 60000);
+    if (m < 1) return "just now"; if (m < 60) return `${m}m ago`;
+    const h = Math.floor(m / 60); if (h < 24) return `${h}h ago`;
+    return `${Math.floor(h/24)}d ago`;
   }
-  function esc(s){
-    if(!s)return"";
+  function esc(s) {
+    if (!s) return "";
     return s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
   }
-  function toast(msg,ms=3200){
-    el.toast.textContent=msg; el.toast.classList.remove("hidden");
-    clearTimeout(el.toast._t); el.toast._t=setTimeout(()=>el.toast.classList.add("hidden"),ms);
+  function showToast(msg, ms=3000) {
+    el.toast.textContent = msg; el.toast.classList.remove("hidden");
+    clearTimeout(el.toast._t); el.toast._t = setTimeout(() => el.toast.classList.add("hidden"), ms);
   }
-  function setStatus(type,text){
-    el.dot.className=`status-dot ${type}`; el.statusTxt.textContent=text;
+  function setStatus(type, text) {
+    el.dot.className = `ldot ${type}`; el.statusTxt.textContent = text;
   }
-  function setDate(){
-    if(el.dateEl) el.dateEl.textContent=new Date().toLocaleDateString("en-US",{
-      weekday:"long",year:"numeric",month:"long",day:"numeric"
+  function setDate() {
+    if (el.dateEl) el.dateEl.textContent = new Date().toLocaleDateString("en-US", {
+      weekday:"long", year:"numeric", month:"long", day:"numeric"
     });
   }
 
   // ── Countdown ──────────────────────────────────────────────
-  function startCountdown(){
+  function startCountdown() {
     clearInterval(state.countdownInterval);
-    state.nextRefreshAt=Date.now()+REFRESH_MS;
-    state.countdownInterval=setInterval(()=>{
-      const left=Math.max(0,state.nextRefreshAt-Date.now());
-      const m=Math.floor(left/60000),s=Math.floor((left%60000)/1000);
-      el.countdown.textContent=`↻ ${m}:${String(s).padStart(2,"0")}`;
-    },1000);
+    state.nextRefreshAt = Date.now() + REFRESH_MS;
+    state.countdownInterval = setInterval(() => {
+      const left = Math.max(0, state.nextRefreshAt - Date.now());
+      const m = Math.floor(left / 60000), s = Math.floor((left % 60000) / 1000);
+      el.countdown.textContent = `↻ ${m}:${String(s).padStart(2,"0")}`;
+    }, 1000);
   }
 
   // ── Fetch ──────────────────────────────────────────────────
-  async function fetchNews(force=false){
-    setStatus("loading","Loading…"); el.btnRefresh.classList.add("spinning");
-    try{
-      const url=force?`${NEWS_JSON}?t=${Date.now()}`:NEWS_JSON;
-      const headers={};
-      if(state.lastEtag&&!force)headers["If-None-Match"]=state.lastEtag;
-      const res=await fetch(url,{headers,cache:force?"no-store":"default"});
-      if(res.status===304){setStatus("ok","Live");if(force)toast("✓ Already up to date");scheduleNext();return;}
-      if(!res.ok)throw new Error(`HTTP ${res.status}`);
-      const etag=res.headers.get("ETag"); if(etag)state.lastEtag=etag;
-      const data=await res.json();
-      state.data=data; renderAll(data); setStatus("ok","Live");
-      if(force)toast(`✓ Refreshed — ${data.new_this_run||0} new articles`);
-    }catch(err){
-      console.error(err); setStatus("error","Error");
-      if(!state.data){
+  async function fetchNews(force = false) {
+    setStatus("loading", "Loading…"); el.btnRefresh.classList.add("spinning");
+    try {
+      const url = force ? `${NEWS_JSON}?t=${Date.now()}` : NEWS_JSON;
+      const headers = {};
+      if (state.lastEtag && !force) headers["If-None-Match"] = state.lastEtag;
+      const res = await fetch(url, { headers, cache: force ? "no-store" : "default" });
+      if (res.status === 304) { setStatus("ok","Live"); if(force) showToast("✓ Already up to date"); scheduleNext(); return; }
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const etag = res.headers.get("ETag"); if (etag) state.lastEtag = etag;
+      const data = await res.json();
+      state.data = data;
+      buildSidebar(data);
+      renderPanel();
+      setStatus("ok", "Live");
+      if (force) showToast(`✓ Refreshed — ${data.new_this_run||0} new articles`);
+    } catch(err) {
+      console.error(err); setStatus("error", "Error");
+      if (!state.data) {
         el.loading.classList.add("hidden"); el.error.classList.remove("hidden");
-        el.errorMsg.textContent="Could not load news.json — trigger a GitHub Actions run first.";
-      }else toast("⚠ Refresh failed — showing last data");
-    }finally{
+        el.errorMsg.textContent = "Could not load news.json — trigger a GitHub Actions run first.";
+      } else showToast("⚠ Refresh failed — showing last data");
+    } finally {
       el.btnRefresh.classList.remove("spinning"); scheduleNext();
     }
   }
-  function scheduleNext(){
+  function scheduleNext() {
     clearTimeout(state.refreshTimer);
-    state.refreshTimer=setTimeout(()=>fetchNews(false),REFRESH_MS);
+    state.refreshTimer = setTimeout(() => fetchNews(false), REFRESH_MS);
     startCountdown();
   }
-  function forceRefresh(){clearTimeout(state.refreshTimer);fetchNews(true);}
+  function forceRefresh() { clearTimeout(state.refreshTimer); fetchNews(true); }
 
-  // ── Render all ─────────────────────────────────────────────
-  function renderAll(data){
-    el.loading.classList.add("hidden"); el.error.classList.add("hidden");
-    el.cross.classList.remove("hidden"); el.sources.classList.remove("hidden");
+  // ── Sidebar ────────────────────────────────────────────────
+  function buildSidebar(data) {
+    const total = (data.sources||[]).reduce((s,src) => s + (src.articles||[]).length, 0);
+    if (el.statsMeta) el.statsMeta.textContent =
+      `Last updated: ${timeAgo(data.last_updated)} · ${total} articles · ${data.meta?.ai_enabled?"AI classified":"keyword classified"}`;
 
-    const total=data.sources?.reduce((s,src)=>s+(src.articles||[]).length,0)||0;
-    if(el.statA) el.statA.textContent=`${total} articles`;
-    if(el.statS) el.statS.textContent=`${data.sources?.length||0} sources`;
-    if(el.statU) el.statU.textContent=
-      `Last updated: ${timeAgo(data.last_updated)} · ${data.meta?.ai_enabled?"AI classified":"keyword classified"}`;
+    // Use regions array from news.json if available, else build from sources
+    const regionGroups = data.regions || buildRegionsFromSources(data.sources||[]);
 
-    renderCross(data.cross_sections||[]);
-    renderSources(data.sources||[]);
-    applyTab(state.activeTab);
-  }
-
-  // ── Cross sections: H1 Section → H2 Source → cards ────────
-  function renderCross(sections){
-    el.cross.innerHTML=sections.map(sec=>{
-      // Use by_source if available (new build format), else group manually
-      const bySource = sec.by_source || groupArticlesBySource(sec.articles||[]);
-      const validBySource = bySource
-        .map(sg=>({...sg, articles:(sg.articles||[]).filter(isValidArticle)}))
-        .filter(sg=>sg.articles.length>0);
-
-      const total=validBySource.reduce((s,sg)=>s+sg.articles.length,0);
-
-      return`
-      <div class="cross-section-block" data-id="${sec.id}" data-cross="${sec.id}">
-        <div class="cs-heading-row">
-          <h2 class="cs-heading">${sec.icon} ${esc(sec.name)}</h2>
-          <span class="cs-count">${total} articles</span>
+    el.sbRegions.innerHTML = regionGroups.map(region => `
+      <div class="sb-region" data-region-id="${esc(region.id)}">
+        <div class="sb-region-header" onclick="window.app.toggleRegion('${esc(region.id)}')">
+          <span class="sb-region-name">${region.icon||""} ${esc(region.name)}</span>
+          <span class="sb-chevron">▾</span>
         </div>
-        ${validBySource.length===0
-          ?`<div class="empty-section">No articles in this section yet — classification runs every 15 min.</div>`
-          :validBySource.map(sg=>`
-            <div class="cs-source-block">
-              <h3 class="cs-source-heading">
-                ${esc(sg.source_name||sg.source_id)}
-                <span class="cs-source-count">${sg.articles.length}</span>
-              </h3>
-              <div class="cs-source-grid">${sg.articles.map(a=>card(a,false)).join("")}</div>
-            </div>`).join("")}
-      </div>`;
-    }).join("");
+        <div class="sb-sources">
+          ${(region.sources||[]).map(src => `
+            <button class="sb-source-btn"
+                    data-source-id="${esc(src.id)}"
+                    onclick="window.app.selectSource('${esc(src.id)}')">
+              <span>${esc(src.name)}</span>
+              <span class="sb-source-count">${src.count||0}</span>
+            </button>`).join("")}
+        </div>
+      </div>`).join("");
+
+    updateSidebarActive();
   }
 
-  // Helper: group flat article array by source
-  function groupArticlesBySource(articles){
-    const map={};
-    articles.forEach(a=>{
-      if(!map[a.source_id]) map[a.source_id]={source_id:a.source_id,source_name:a.source_name,articles:[]};
-      map[a.source_id].articles.push(a);
+  function buildRegionsFromSources(sources) {
+    const REGION_META = {
+      "IT Focus":             { id:"it-focus",     icon:"💻", order:0 },
+      "North America":        { id:"north-america", icon:"🇺🇸", order:1 },
+      "Europe":               { id:"europe",        icon:"🇬🇧", order:2 },
+      "Asia-Pacific":         { id:"asia-pacific",  icon:"🌏", order:3 },
+      "Middle East & Africa": { id:"mea",           icon:"🌍", order:4 },
+    };
+    const map = {};
+    sources.forEach(src => {
+      const meta = REGION_META[src.region];
+      if (!meta) return;
+      if (!map[meta.id]) map[meta.id] = { ...meta, name:src.region, sources:[] };
+      map[meta.id].sources.push({ id:src.id, name:src.name, count:(src.articles||[]).length });
     });
-    return Object.values(map);
+    return Object.values(map).sort((a,b) => a.order-b.order);
   }
 
-  // ── Source sections: ONE heading per source ────────────────
-  function renderSources(sources){
-    el.sources.innerHTML=sources.map(src=>{
-      const articles=(src.articles||[]).filter(isValidArticle);
-      if(articles.length===0) return ""; // skip sources with no valid articles
-      const flag=FLAGS[src.region]||FLAGS.default;
-      const icon=ICONS[src.category]||ICONS.default;
-      const collapsed=state.collapsed.has(src.id)?"collapsed":"";
-      return`
-        <section class="source-section ${collapsed}"
-                 data-source-id="${esc(src.id)}"
-                 data-region="${esc(src.region)}">
-          <div class="source-hdr" role="button" tabindex="0"
-               onclick="window.newsApp.toggle('${src.id}')"
-               onkeypress="if(event.key==='Enter')window.newsApp.toggle('${src.id}')">
-            <div class="source-hdr-left">
-              <h2 class="source-name">${flag} ${esc(src.name)}</h2>
-              <div class="source-meta">
-                <span class="badge-region">${esc(src.region)}</span>
-                <span class="badge-cat">${icon} ${esc(src.category)}</span>
-              </div>
-            </div>
-            <div class="source-hdr-right">
-              <span class="source-art-count">${articles.length} articles</span>
-              <span class="source-chevron">▾</span>
+  function updateSidebarActive() {
+    document.querySelectorAll(".sb-source-btn").forEach(btn => {
+      btn.classList.toggle("active", btn.dataset.sourceId === state.selectedSourceId);
+    });
+    el.sbAllBtn.classList.toggle("active", !state.selectedSourceId);
+  }
+
+  function toggleRegion(regionId) {
+    const region = document.querySelector(`[data-region-id="${regionId}"]`);
+    if (region) region.classList.toggle("collapsed");
+  }
+
+  // ── Source selection ───────────────────────────────────────
+  function selectSource(sourceId) {
+    state.selectedSourceId = sourceId;
+    updateSidebarActive();
+    renderPanel();
+    // On mobile close sidebar
+    if (window.innerWidth <= 768) el.sidebar.classList.remove("mob-open");
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }
+
+  function selectAll() {
+    state.selectedSourceId = null;
+    updateSidebarActive();
+    renderPanel();
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }
+
+  // ── Render main panel ──────────────────────────────────────
+  function renderPanel() {
+    if (!state.data) return;
+    el.loading.classList.add("hidden");
+    el.error.classList.add("hidden");
+    el.feed.classList.remove("hidden");
+
+    if (state.selectedSourceId) {
+      renderSingleSource(state.selectedSourceId);
+    } else {
+      renderAllSources();
+    }
+  }
+
+  function renderSingleSource(sourceId) {
+    const source = (state.data.sources||[]).find(s => s.id === sourceId);
+    if (!source) { renderAllSources(); return; }
+
+    const articles = (source.articles||[]).filter(isValid);
+    const icon = ICONS[source.category] || ICONS.default;
+
+    // Show heading
+    el.panelHeading.classList.remove("hidden");
+    el.phName.textContent = source.name;
+    el.phMeta.textContent = `${icon} ${source.category} · ${source.region} · ${articles.length} articles`;
+
+    el.feed.innerHTML = articles.length
+      ? `<div class="card-grid">${articles.map(a => card(a, false)).join("")}</div>`
+      : `<div style="padding:40px;text-align:center;color:var(--ink-3)">No articles available right now.</div>`;
+  }
+
+  function renderAllSources() {
+    el.panelHeading.classList.add("hidden");
+
+    const sources = (state.data.sources||[])
+      .map(src => ({ ...src, articles:(src.articles||[]).filter(isValid) }))
+      .filter(src => src.articles.length > 0);
+
+    el.feed.innerHTML = sources.map(src => {
+      const icon = ICONS[src.category] || ICONS.default;
+      return `
+        <div class="source-block" data-source-id="${esc(src.id)}">
+          <div class="source-block-header">
+            <h2 class="source-block-name">${esc(src.name)}</h2>
+            <div class="source-block-meta">
+              <span class="sbb-region">${esc(src.region)}</span>
+              <span class="sbb-cat">${icon} ${esc(src.category)}</span>
+              <span class="sbb-count">${src.articles.length} articles</span>
             </div>
           </div>
-          <div class="source-articles">
-            <div class="card-grid">${articles.map(a=>card(a,false)).join("")}</div>
-          </div>
-        </section>`;
+          <div class="card-grid">${src.articles.map(a => card(a, false)).join("")}</div>
+        </div>`;
     }).join("");
   }
 
-  // ── Card — only renders if title+URL valid, no empty cards ─
-  function card(article, showSource){
-    if(!isValidArticle(article)) return "";
+  // ── Card ───────────────────────────────────────────────────
+  function card(article, showSource) {
+    if (!isValid(article)) return "";
 
-    const tagMap={tech:"tech",ai:"ai",jobcuts:"jobcuts"};
-    const icon=ICONS[article.source_category]||ICONS.default;
-    const clr=SOURCE_COLORS[article.source_id]||["#1a1e2e","#0d0f12"];
-    const grad=`linear-gradient(135deg,${clr[0]},${clr[1]})`;
-    const tags=(article.cross_sections||[])
-      .map(sid=>`<span class="ctag ${tagMap[sid]||""}">${sid}</span>`).join("");
+    const tagMap = { tech:"tech", ai:"ai", jobcuts:"jobcuts" };
+    const icon = ICONS[article.source_category] || ICONS.default;
+    const clr = SOURCE_COLORS[article.source_id] || ["#1a1e2e","#0d0f12"];
+    const grad = `linear-gradient(135deg,${clr[0]},${clr[1]})`;
+    const tags = (article.cross_sections||[])
+      .map(sid => `<span class="ctag ${tagMap[sid]||""}">${sid}</span>`).join("");
 
-    const hasImg=!!article.image_url;
-    const imgBlock=hasImg
-      ?`<img class="card-img" src="${esc(article.image_url)}" alt="" loading="lazy"
+    const hasImg = !!article.image_url;
+    const imgBlock = hasImg
+      ? `<img class="card-img" src="${esc(article.image_url)}" alt="" loading="lazy"
              onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"/>
-        <div class="card-img-fb" style="display:none;--fallback-g:${grad}">
-          <div style="text-align:center">
-            <span class="fb-icon">${icon}</span>
-            <span class="fb-label">${esc(article.source_name)}</span>
-          </div>
-        </div>`
-      :"";
+         <div class="card-img-fb" style="display:none;--fallback:${grad}">
+           <div style="text-align:center">
+             <span class="fb-icon">${icon}</span>
+             <span class="fb-label">${esc(article.source_name)}</span>
+           </div>
+         </div>`
+      : "";
 
-    const feedLine=showSource
-      ?`<span class="card-feed">${esc(article.source_name)}${article.feed_label?" · "+esc(article.feed_label):""}</span>`
-      :`${article.feed_label?`<span class="card-feed">${esc(article.feed_label)}</span>`:""}`;
+    const feedLine = article.feed_label
+      ? `<span class="card-feed">${esc(article.feed_label)}</span>`
+      : "";
 
-    return`
-      <article class="news-card${hasImg?"":" no-img"}">
+    return `
+      <article class="news-card${hasImg ? "" : " no-img"}">
         <a href="${esc(article.article_url)}" target="_blank" rel="noopener noreferrer">
           ${imgBlock}
           <div style="display:flex;flex-direction:column;flex:1">
             ${feedLine}
             <h3 class="card-title">${esc(article.title)}</h3>
-            ${article.summary?`<p class="card-summary">${esc(article.summary)}</p>`:""}
+            ${article.summary ? `<p class="card-summary">${esc(article.summary)}</p>` : ""}
             <div class="card-foot">
               <span class="card-time">${timeAgo(article.published_at)}</span>
               <div class="card-tags">${tags}</div>
@@ -273,53 +319,42 @@
       </article>`;
   }
 
-  // ── Tab filter ─────────────────────────────────────────────
-  function applyTab(tabId){
-    state.activeTab=tabId;
-    document.querySelectorAll(".nav-tab").forEach(t=>
-      t.classList.toggle("active",t.dataset.section===tabId));
-
-    const cb=el.cross.querySelectorAll(".cross-section-block");
-    const ss=el.sources.querySelectorAll(".source-section");
-
-    if(tabId==="all"){
-      el.cross.classList.remove("hidden"); cb.forEach(b=>b.classList.remove("hidden"));
-      el.sources.classList.remove("hidden"); ss.forEach(s=>s.classList.remove("hidden"));
-    }else if(tabId.startsWith("cross-")){
-      const id=tabId.replace("cross-","");
-      el.cross.classList.remove("hidden");
-      cb.forEach(b=>b.classList.toggle("hidden",b.dataset.id!==id));
-      el.sources.classList.add("hidden");
-    }else if(tabId.startsWith("region-")){
-      const region=tabId.replace("region-","");
-      el.cross.classList.add("hidden");
-      el.sources.classList.remove("hidden");
-      ss.forEach(s=>s.classList.toggle("hidden",s.dataset.region!==region));
-    }
-  }
-
-  function toggleSection(id){
-    const s=document.querySelector(`[data-source-id="${id}"]`);
-    if(!s)return;
-    s.classList.toggle("collapsed")
-      ?state.collapsed.add(id):state.collapsed.delete(id);
-  }
-
-  function bindEvents(){
-    el.btnTheme.addEventListener("click",toggleTheme);
-    el.btnRefresh.addEventListener("click",forceRefresh);
-    el.nav.addEventListener("click",e=>{
-      const t=e.target.closest(".nav-tab");
-      if(t?.dataset.section)applyTab(t.dataset.section);
+  // ── Sidebar search ─────────────────────────────────────────
+  function handleSearch(query) {
+    const q = query.toLowerCase().trim();
+    document.querySelectorAll(".sb-source-btn").forEach(btn => {
+      const name = btn.querySelector("span")?.textContent?.toLowerCase() || "";
+      btn.classList.toggle("sb-hidden", q !== "" && !name.includes(q));
     });
-    window.addEventListener("scroll",()=>
-      el.btt.classList.toggle("hidden",window.scrollY<500),{passive:true});
-    el.btt.addEventListener("click",()=>window.scrollTo({top:0,behavior:"smooth"}));
+    // Show/hide region groups based on visible sources
+    document.querySelectorAll(".sb-region").forEach(region => {
+      const anyVisible = [...region.querySelectorAll(".sb-source-btn")]
+        .some(b => !b.classList.contains("sb-hidden"));
+      region.style.display = (q === "" || anyVisible) ? "" : "none";
+    });
   }
 
-  window.newsApp={forceRefresh,toggle:toggleSection};
+  // ── Events ─────────────────────────────────────────────────
+  function bindEvents() {
+    el.btnTheme.addEventListener("click", toggleTheme);
+    el.btnRefresh.addEventListener("click", forceRefresh);
+    el.sbSearch.addEventListener("input", e => handleSearch(e.target.value));
 
-  function init(){initTheme();setDate();bindEvents();fetchNews(false);}
-  document.readyState==="loading"
-    ?document.addEventListener("DOMContentLoaded",init):init();
+    // Mobile sidebar toggle
+    el.mobToggle.addEventListener("click", () => {
+      el.sidebar.classList.toggle("mob-open");
+    });
+
+    window.addEventListener("scroll", () =>
+      el.btt.classList.toggle("hidden", window.scrollY < 500), { passive: true });
+    el.btt.addEventListener("click", () => window.scrollTo({ top:0, behavior:"smooth" }));
+  }
+
+  // ── Public API ─────────────────────────────────────────────
+  window.app = { forceRefresh, selectSource, selectAll, toggleRegion };
+
+  // ── Init ───────────────────────────────────────────────────
+  function init() { initTheme(); setDate(); bindEvents(); fetchNews(false); }
+  document.readyState === "loading"
+    ? document.addEventListener("DOMContentLoaded", init) : init();
 })();
