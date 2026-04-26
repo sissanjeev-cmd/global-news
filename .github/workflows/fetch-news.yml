@@ -50,6 +50,7 @@ jobs:
   deploy-pages:
     name: Deploy to GitHub Pages
     needs: fetch-and-classify
+    if: always()
     runs-on: ubuntu-latest
     environment:
       name: github-pages
