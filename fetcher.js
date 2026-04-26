@@ -5,10 +5,10 @@ const { SOURCES } = require("./sources");
 const { v4: uuidv4 } = require("crypto");
 
 const parser = new Parser({
-  timeout: 10000,
+  timeout: 8000,
   headers: {
     "User-Agent":
-      "Mozilla/5.0 (compatible; GlobalNewsBot/1.0; +https://github.com/sissanjeev-cmd/global-news)",
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     Accept: "application/rss+xml, application/xml, text/xml, */*",
   },
   customFields: {
@@ -92,11 +92,21 @@ function normalizeItem(item, source, feedLabel) {
   };
 }
 
+// Hard timeout wrapper — kills hung feeds after N ms
+function withTimeout(promise, ms, label) {
+  return Promise.race([
+    promise,
+    new Promise((_, reject) =>
+      setTimeout(() => reject(new Error(`Timeout after ${ms}ms`)), ms)
+    ),
+  ]);
+}
+
 // Fetch a single RSS feed
 async function fetchFeed(source, feed) {
   try {
-    const parsed = await parser.parseURL(feed.url);
-    const items = (parsed.items || []).slice(0, 10); // top 10 per feed
+    const parsed = await withTimeout(parser.parseURL(feed.url), 7000, `${source.name}/${feed.label}`);
+    const items = (parsed.items || []).slice(0, 8); // top 8 per feed
     return items.map((item) => normalizeItem(item, source, feed.label));
   } catch (err) {
     console.warn(`[Fetcher] Failed: ${source.name} / ${feed.label} — ${err.message}`);
@@ -105,7 +115,7 @@ async function fetchFeed(source, feed) {
 }
 
 // Fetch all sources concurrently with concurrency limit
-async function fetchAllSources(concurrency = 6) {
+async function fetchAllSources(concurrency = 10) {
   console.log(`[Fetcher] Starting fetch for ${SOURCES.length} sources...`);
 
   // Flatten all (source, feed) pairs

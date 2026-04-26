@@ -51,6 +51,13 @@ function loadExisting() {
 
 // ── Main pipeline ─────────────────────────────────────────────
 async function main() {
+  // Kill the whole process after 4.5 minutes no matter what
+  const GLOBAL_TIMEOUT = setTimeout(() => {
+    console.warn("⚠ Global timeout reached — writing whatever we have");
+    process.exit(0);
+  }, 4.5 * 60 * 1000);
+  GLOBAL_TIMEOUT.unref();
+
   console.log("▶ Starting news build pipeline…");
   const start = Date.now();
 

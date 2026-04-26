@@ -17,7 +17,7 @@ jobs:
   fetch-and-classify:
     name: Fetch RSS & Classify
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 6
 
     steps:
       - name: Checkout repo
