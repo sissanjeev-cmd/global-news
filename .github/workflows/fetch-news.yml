@@ -8,8 +8,8 @@ on:
     branches: [main]           # also run on every push
 
 permissions:
-  contents: write              # needed to commit news.json back to repo
-  pages: write                 # needed to deploy to GitHub Pages
+  contents: write
+  pages: write
   id-token: write
 
 jobs:
@@ -23,7 +23,8 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0        # full history so rebase works
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -45,11 +46,18 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add public/news.json
           # Skip if nothing changed
-          git diff --cached --quiet && echo "No changes to news.json" && exit 0
+          if git diff --cached --quiet; then
+            echo "No changes to news.json, skipping commit"
+            exit 0
+          fi
           git commit -m "chore: refresh news data [skip ci]"
-          # Rebase on top of any commits that landed while we were running
-          git pull --rebase origin main
-          git push origin main
+          # Force push with lease — safe: only fails if someone else pushed
+          # Retry up to 3 times with rebase
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin main && break
+            echo "Push attempt $i failed, retrying..."
+            sleep 5
+          done
 
   # ── Job 2: Deploy public/ to GitHub Pages ─────────────────────
   deploy-pages:
@@ -65,7 +73,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          ref: main             # pick up the freshly committed news.json
+          ref: main
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
@@ -73,7 +81,7 @@ jobs:
       - name: Upload pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: public/         # serve everything in public/
+          path: public/
 
       - name: Deploy to GitHub Pages
         id: deployment
