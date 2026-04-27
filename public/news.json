@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-27T20:37:18.262Z",
-  "total_articles": 295,
-  "new_this_run": 34,
+  "last_updated": "2026-04-27T21:41:55.313Z",
+  "total_articles": 310,
+  "new_this_run": 47,
   "sources": [
     {
       "id": "techcrunch",
@@ -10,14 +10,30 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "dGVjaGNydW5jaC1sZXR0ZXJi",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Letterboxd, the social platform for film buffs, reportedly looking for new owner",
+          "summary": "Potential buyers of Letterboxd include Versant, the parent company of CNBC and MS NOW, and Hollywood media company The Ankler, according to Semafor.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/04/27/letterboxd-sale-film-social-media-semafor-versant-ankler/",
+          "published_at": "Mon, 27 Apr 2026 20:37:49 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dGVjaGNydW5jaC1jb25zdW1l",
           "source_id": "techcrunch",
           "source_name": "TechCrunch",
           "source_region": "IT Focus",
           "source_category": "Tech Media",
           "feed_label": "Latest",
-          "title": "Consumers lost $2.1 billion to social media scams in 2025, FTC reports",
-          "summary": "The agency reports that losses from social media scams have increased eightfold, and that social media scams resulted in higher losses than any other method scammers used to contact consumers.",
+          "title": "Consumers lost $2.1B to social media scams in 2025, FTC reports",
+          "summary": "The agency reports that losses from social media scams have increased eightfold and that social media scams resulted in higher losses than any other method scammers used to contact consumers.",
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/04/27/consumers-lost-2-1-billion-to-social-media-scams-in-2025-ftc-reports/",
           "published_at": "Mon, 27 Apr 2026 19:09:53 +0000",
@@ -123,22 +139,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1jaGluYS1i",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "China blocks Meta’s $2B Manus deal after months-long probe",
-          "summary": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
-          "published_at": "Mon, 27 Apr 2026 13:16:55 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -148,6 +148,23 @@
       "region": "IT Focus",
       "category": "Tech Media",
       "articles": [
+        {
+          "id": "dGhldmVyZ2UtY2Fub25pY2Fs",
+          "source_id": "theverge",
+          "source_name": "The Verge",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Canonical lays out a plan for AI in Ubuntu Linux",
+          "summary": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday detailing plans to add AI features to the Linux distro over the next year. As the post states, the ",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "article_url": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
+          "published_at": "2026-04-27T20:47:45.000Z",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
         {
           "id": "dGhldmVyZ2UtdHJ1bXAtZGVt",
           "source_id": "theverge",
@@ -253,22 +270,6 @@
           "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0027.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
           "article_url": "https://www.theverge.com/games/919157/valve-steam-controller-ask-us-anything-ama",
           "published_at": "2026-04-27T17:00:00.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhldmVyZ2Utc2Ftc3VuZyYj",
-          "source_id": "theverge",
-          "source_name": "The Verge",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Samsung&#8217;s first smart glasses have leaked",
-          "summary": "The upcoming Samsung Galaxy Glasses look nearly identical to Meta's Ray-Ban smart glasses in leaked images from Android Headlines. The glasses, which could be announced at Google I/O next month, are code-named \"Jinju\" and will reportedly cost between $379 and $499, on par with the display-free Ray-B",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Exclusive-Samsung-Galaxy-Glasses-AH-5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "article_url": "https://www.theverge.com/gadgets/919189/samsung-galaxy-glasses-leaked-images",
-          "published_at": "2026-04-27T16:25:51.000Z",
           "cross_sections": [
             "tech"
           ]
@@ -417,6 +418,85 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "YXJzdGVjaG5pY2EtbXVzay1h",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Musk and Altman face off in trial that will determine OpenAI's future",
+          "summary": "Musk’s shifting stance on AI dangers may complicate trial over OpenAI’s mission.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/elon-and-sam-are-bffs-1152x648.jpg",
+          "article_url": "https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future/",
+          "published_at": "Mon, 27 Apr 2026 20:45:18 +0000",
+          "cross_sections": [
+            "ai"
+          ]
+        },
+        {
+          "id": "YXJzdGVjaG5pY2Etb3BlbmFp",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "OpenAI ends its exclusive partnership with Microsoft",
+          "summary": "Amended agreement clears the way for OpenAI models to run on Amazon Bedrock.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-2153474326-1024x648.jpg",
+          "article_url": "https://arstechnica.com/ai/2026/04/no-longer-exclusive-microsoft-agrees-to-let-openai-see-other-cloud-providers/",
+          "published_at": "Mon, 27 Apr 2026 20:10:11 +0000",
+          "cross_sections": [
+            "ai"
+          ]
+        },
+        {
+          "id": "YXJzdGVjaG5pY2EtZXUtdGVs",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "EU tells Google to open up AI on Android; Google says that's \"unwarranted intervention\"",
+          "summary": "Gemini gets preferential treatment on Android, but maybe not for long (in Europe).",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
+          "article_url": "https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/",
+          "published_at": "Mon, 27 Apr 2026 20:03:49 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "YXJzdGVjaG5pY2Etd2l0aC1u",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "With new patch design, the Crew-13 astronauts clearly aren't superstitious",
+          "summary": "Houston, we have another \"13.\"",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/news-042526a-lg-1152x648.jpg",
+          "article_url": "https://arstechnica.com/space/2026/04/nasas-spacex-crew-13-pays-homage-to-apollo-13-on-mission-patch/",
+          "published_at": "Mon, 27 Apr 2026 19:45:06 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YXJzdGVjaG5pY2EtInN1cGVy",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "\"Super ZSNES\" is a stab at a modern SNES emulator from the original developers",
+          "summary": "Upgrades to SNES graphics and sound go way beyond the typical screen filtering.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/super-zsnes-1152x648.png",
+          "article_url": "https://arstechnica.com/gadgets/2026/04/super-zsnes-is-a-stab-at-a-modern-snes-emulator-from-the-original-developers/",
+          "published_at": "Mon, 27 Apr 2026 18:30:14 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YXJzdGVjaG5pY2EtY2hpbmEt",
           "source_id": "arstechnica",
           "source_name": "Ars Technica",
@@ -462,78 +542,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtbmF0aW9u",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "National Science Board eviscerated; Trump admin fires all 22 members",
-          "summary": "Members had planned to release report that US is ceding scientific ground to China.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2221489911-1152x648-1753287237.jpg",
-          "article_url": "https://arstechnica.com/science/2026/04/national-science-board-eviscerated-trump-admin-fires-all-22-members/",
-          "published_at": "Mon, 27 Apr 2026 15:04:00 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtbmV4dC1l",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Next El Niño could be tipping point for a hotter climate",
-          "summary": "Pacific heat pulse is temporary, but scientists warn that its climate impacts are not.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/amazondust-1152x648.jpg",
-          "article_url": "https://arstechnica.com/science/2026/04/next-el-nino-could-be-tipping-point-for-a-hotter-climate/",
-          "published_at": "Mon, 27 Apr 2026 14:12:41 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtZ2F0ZXdh",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Gateway manufacturer finally acknowledges issue, fails to mention \"corrosion\"",
-          "summary": "\"At this time, further comments would be premature.\"",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/halo-module-1152x648.jpg",
-          "article_url": "https://arstechnica.com/space/2026/04/gateway-manufacturer-finally-acknowledges-issue-fails-to-mention-corrosion/",
-          "published_at": "Mon, 27 Apr 2026 14:02:43 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtbWVldC10",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Meet the players who lost big money on Peter Molyneux’s failed Legacy",
-          "summary": "After millions in NFT sales, the hyped “play to earn” game was effectively dead in weeks.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/milhouse-nft-pog-1152x648.jpg",
-          "article_url": "https://arstechnica.com/gaming/2026/04/how-legacy-became-a-costly-crypto-bust-for-players-and-a-business-win-for-peter-molyneux/",
-          "published_at": "Mon, 27 Apr 2026 10:45:31 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJzdGVjaG5pY2Etc3RyYW5n",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Strange New Worlds S4 teaser strikes a more serious tone",
-          "summary": "\"I have ever been prone to seek adventure and to investigate where wiser men would have left well enough alone.\"",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/trekkie1-1152x648.jpg",
-          "article_url": "https://arstechnica.com/culture/2026/04/strange-new-worlds-s4-teaser-strikes-a-more-serious-tone/",
-          "published_at": "Sun, 26 Apr 2026 19:52:22 +0000",
-          "cross_sections": []
         }
       ]
     },
@@ -681,6 +689,96 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "Y25ldC1pcy1vdXRsb29rLWRv",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Is Outlook Down? Microsoft Reports Sign-On Issues With Email Client",
+          "summary": "Here's why you might have had trouble logging into your email Monday.",
+          "image_url": "https://www.cnet.com/a/img/resize/89db541e00130cda45e42316d3514c4c690aede3/hub/2026/04/27/f8ae1b8e-38da-493e-ba72-994fe90ad274/gettyimages-2263990125.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "article_url": "https://www.cnet.com/news-live/is-microsoft-outlook-down-microsoft-april-27-2026/",
+          "published_at": "Mon, 27 Apr 2026 20:06:00 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25ldC10b2RheSdzLW55dC1j",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Today's NYT Connections: Sports Edition Hints and Answers for April 28, #582",
+          "summary": "Here are hints and the answers for the NYT Connections: Sports Edition puzzle for April 28, No. 582.",
+          "image_url": "https://www.cnet.com/a/img/resize/c7e1d294a1a554f051860c8dddd6fd0c6527b452/hub/2024/10/16/c34cfc41-01f2-4b1a-80a8-f6479c50c02e/connections-sports-edition-6859.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "article_url": "https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-28-582/",
+          "published_at": "Mon, 27 Apr 2026 20:01:10 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "Y25ldC10b2RheSdzLXdvcmRs",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Today's Wordle Hints, Answer and Help for April 28, #1774",
+          "summary": "Here are hints and the answer for today's Wordle for April 28, No. 1,774.",
+          "image_url": "https://www.cnet.com/a/img/resize/837b400de41f50a97b52a8c799b193be01cea440/hub/2024/05/28/20480816-214e-4fcc-a9b4-b02f0ac71e7c/wordle-word-game-hints-puzzle-8667.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "article_url": "https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-28-1774/",
+          "published_at": "Mon, 27 Apr 2026 20:00:52 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "Y25ldC10b2RheSdzLW55dC1z",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Today's NYT Strands Hints, Answers and Help for April 28, #786",
+          "summary": "Here are hints and answers for the NYT Strands puzzle for April 28, No. 786.",
+          "image_url": "https://www.cnet.com/a/img/resize/166e67238a28ef7d82e62fe8aec7185a7cc23eda/hub/2024/05/15/859c9110-e596-432b-8690-95e6102759c9/nyt-new-york-times-strands-2054.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "article_url": "https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-28-786/",
+          "published_at": "Mon, 27 Apr 2026 20:00:27 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "Y25ldC1nYWxheHktei1mb2xk",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Galaxy Z Fold 8 Wide Could Get More Screen and Less Camera, Insider Says",
+          "summary": "A reputable leaker says new Samsung foldables will get smaller selfie cameras.",
+          "image_url": "https://www.cnet.com/a/img/resize/232add04d29e97392fdb9591cf58691258fe7472/hub/2026/04/27/7b3ea964-b4f7-4f5d-b91a-98c7c6661e69/selfie-gettyimages-2201334744.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "article_url": "https://www.cnet.com/tech/mobile/galaxy-z-fold-8-wide-more-screen-less-camera-insider-says/",
+          "published_at": "Mon, 27 Apr 2026 19:59:03 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25ldC1waG9uZS1tYWtlci1u",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Phone-Maker Nothing Revives Android-to-Computer File Sharing Tool",
+          "summary": "The London-based consumer electronics brand released and then removed its new file-sharing app in favor of a more cumbersome tool.",
+          "image_url": "https://www.cnet.com/a/img/resize/1ae4251e7e8bcf572afe632e36ca3772e48c7d9f/hub/2026/03/18/b7af489f-6160-47b7-b160-fa88204b507f/nothing-phone-4a-pro-6.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "article_url": "https://www.cnet.com/tech/services-and-software/nothing-android-computer-file-sharing-tool/",
+          "published_at": "Mon, 27 Apr 2026 19:21:59 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "Y25ldC1zYW1zdW5nJ3MtbmV3",
           "source_id": "cnet",
           "source_name": "CNET",
@@ -695,112 +793,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "Y25ldC1pcy1vdXRsb29rLWRv",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Is Outlook Down? Microsoft Reports Sign-On Issues With Email Client",
-          "summary": "You might have trouble logging into your email on Monday.",
-          "image_url": "https://www.cnet.com/a/img/resize/89db541e00130cda45e42316d3514c4c690aede3/hub/2026/04/27/f8ae1b8e-38da-493e-ba72-994fe90ad274/gettyimages-2263990125.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/news-live/is-microsoft-outlook-down-microsoft-april-27-2026/",
-          "published_at": "Mon, 27 Apr 2026 18:55:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25ldC1iZXN0LXZlcml6b24t",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Best Verizon Plans: How to Choose and Which Ones to Pick in 2026",
-          "summary": "Verizon lowered the costs of its plans this year. We pick our favorites.",
-          "image_url": "https://www.cnet.com/a/img/resize/1fec5475fb22f3f696ac332507de22699fae6f87/hub/2024/07/03/9fbe1f96-9e17-492f-be43-e81f7af1f6f7/verizon-logo-9580.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/tech/mobile/best-verizon-plans/",
-          "published_at": "Mon, 27 Apr 2026 18:42:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25ldC12YWx2ZSdzLW5ldy1z",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Valve's New Steam Controller, Coming May 4, May Be My Favorite Controller, Period",
-          "summary": "It's a fantastic Steam Deck extension for your TV, and a lot more.",
-          "image_url": "https://www.cnet.com/a/img/resize/c0046d0851985d7bf417221586673beb523eab58/hub/2026/04/24/6d1a265d-d9d6-4025-9e62-f43a5cfb1c34/valve-steam-controller-steam-deck.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/tech/gaming/valves-new-steam-controller-coming-may-4-may-be-my-favorite-controller-period/",
-          "published_at": "Mon, 27 Apr 2026 17:00:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25ldC1hcnRlbWlzLWlpLXdh",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Artemis II Was a Rousing Success, So What's Next for NASA?",
-          "summary": "NASA's plan has three major components, which would eventually culminate in a constant human presence on the moon.",
-          "image_url": "https://www.cnet.com/a/img/resize/c34ee75d1a0e07b3d153cc6a059231d8aac96032/hub/2026/04/17/4d558284-7528-4559-b5e1-e2fd1cbed87b/art002e010208large.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/science/space/artemis-ii-was-a-rousing-success-so-whats-coming-up-next-for-nasa/",
-          "published_at": "Mon, 27 Apr 2026 16:13:40 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "Y25ldC1vcGVuYWkncy1ydW1v",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "OpenAI's Rumored Phone Would Replace Apps With AI Agents",
-          "summary": "Past rumors have speculated that the company behind ChatGPT could have several different devices in the works.",
-          "image_url": "https://www.cnet.com/a/img/resize/2feb8402af356da5a08b9d3b532c1482dabbb075/hub/2026/04/27/6dd6eea0-e131-4f17-adca-908116ca3132/gettyimages-2271060320.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/tech/services-and-software/openais-rumored-phone-would-replace-apps-with-ai-agents/",
-          "published_at": "Mon, 27 Apr 2026 15:48:33 +0000",
-          "cross_sections": [
-            "ai"
-          ]
-        },
-        {
-          "id": "Y25ldC0naG91c2Utb2YtdGhl",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "'House of the Dragon' Season 3 Gets a Streaming Premiere Date",
-          "summary": "Plus, watch a new teaser for the Game of Thrones prequel.",
-          "image_url": "https://www.cnet.com/a/img/resize/b85434dc504cacdd32a27b6c6ae579cc4a8e081c/hub/2026/04/27/c330589a-41b6-4129-b9e1-33d5f82d06ce/teaser-art-2.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/tech/services-and-software/house-of-the-dragon-season-3-streaming-premiere-date/",
-          "published_at": "Mon, 27 Apr 2026 15:47:00 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "Y25ldC1uZXctb24tYXBwbGUt",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "New on Apple TV in May 2026: 'Maximum Pleasure Guaranteed,' a 'For All Mankind' Spinoff and More",
-          "summary": "Apple TV's got some big projects landing this month.",
-          "image_url": "https://www.cnet.com/a/img/resize/e0026310a679cef1e8fc993c2e20015e5acc2bd9/hub/2026/04/16/0849efdd-3924-4b92-b159-0adeb7b1815d/maximum-pleasure-guaranteed-apple-tv.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/culture/entertainment/new-on-apple-tv-may-2026-maximum-pleasure-guaranteed-for-all-mankind/",
-          "published_at": "Mon, 27 Apr 2026 14:00:41 +0000",
-          "cross_sections": []
         }
       ]
     },
@@ -931,6 +923,22 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "Y25iY3RlY2gtanVkZ2UtaW4t",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Judge in Musk v. Altman seats nine-person jury. Opening arguments start Tuesday",
+          "summary": "The Musk v. Altman trial kicked off at a federal courthouse in Oakland, California, with jury selection followed by opening arguments.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/04/27/musk-altman-trial-openai-jury-selection.html",
+          "published_at": "Mon, 27 Apr 2026 21:29:56 GMT",
+          "cross_sections": [
+            "ai"
+          ]
+        },
+        {
           "id": "Y25iY3RlY2gtbWljcm9uLWFu",
           "source_id": "cnbctech",
           "source_name": "CNBC Technology",
@@ -944,22 +952,6 @@
           "published_at": "Mon, 27 Apr 2026 20:26:31 GMT",
           "cross_sections": [
             "tech"
-          ]
-        },
-        {
-          "id": "Y25iY3RlY2gtanVyeS1zZWxl",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Jury selection kicks off in Musk v. Altman trial",
-          "summary": "The Musk v. Altman trial kicked off at a federal courthouse in Oakland, California, with jury selection followed by opening arguments.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/04/27/musk-altman-trial-openai-jury-selection.html",
-          "published_at": "Mon, 27 Apr 2026 19:28:06 GMT",
-          "cross_sections": [
-            "ai"
           ]
         },
         {
@@ -1344,6 +1336,34 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "bnl0LXJvbi1kZXNhbnRpcy1h",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Ron DeSantis Aims to Add Four Republican House Seats in Florida Redistricting Push",
+          "summary": "The Republican-controlled Legislature is meeting in Tallahassee this week to vote on the map, which would apply for the 2026 midterms if passed.",
+          "image_url": "https://static01.nyt.com/images/2026/04/27/multimedia/27nat-florida-map-blcg/27nat-florida-map-blcg-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/04/27/us/desantis-florida-gop-house-map.html",
+          "published_at": "Mon, 27 Apr 2026 21:02:37 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LXJlcHVibGljYW5zLXB1",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Republicans Push for Trump’s White House Ballroom After Gala Attack",
+          "summary": "The attack on a press dinner in Washington, which is being called an attempted assassination of President Trump, has also renewed the fight over reopening the Homeland Security Department.",
+          "image_url": "https://static01.nyt.com/images/2026/04/27/multimedia/27trump-whca-ballroom-zkcf/27trump-whca-ballroom-zkcf-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/04/27/us/politics/trump-ballroom-white-house-dinner-shooting.html",
+          "published_at": "Mon, 27 Apr 2026 20:51:27 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "bnl0LWNhbmFkYS1zYXlzLWl0",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1372,20 +1392,6 @@
           "cross_sections": []
         },
         {
-          "id": "bnl0LXJvbi1kZXNhbnRpcy1h",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Ron DeSantis Aims to Add Four Republican House Seats in Florida Redistricting Push",
-          "summary": "The Republican-controlled Legislature is meeting in Tallahassee this week to vote on the map, which would apply for the 2026 midterms if passed.",
-          "image_url": "https://static01.nyt.com/images/2026/04/27/multimedia/27nat-florida-map-blcg/27nat-florida-map-blcg-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/04/27/us/desantis-florida-gop-house-map.html",
-          "published_at": "Mon, 27 Apr 2026 20:19:28 +0000",
-          "cross_sections": []
-        },
-        {
           "id": "bnl0LXByZXNpZGVudC1hbmQt",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1411,20 +1417,6 @@
           "image_url": "https://static01.nyt.com/images/2026/04/27/multimedia/27Biz-Global-Econ-01-zckt/27Biz-Global-Econ-01-zckt-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/04/27/business/economy/iran-war-global-growth.html",
           "published_at": "Mon, 27 Apr 2026 20:16:20 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "bnl0LWNoaW5h4oCZcy1lY29u",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "China’s Economy Starts to Show Cracks From Iran War",
-          "summary": "China’s strategic reserves of oil and natural gas have insulated it somewhat, but its manufacturing-based economy is beginning to falter.",
-          "image_url": "https://static01.nyt.com/images/2026/04/27/multimedia/27Biz-China-Econ-zgvw/27Biz-China-Econ-zgvw-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/04/27/business/china-economy-iran-war.html",
-          "published_at": "Mon, 27 Apr 2026 20:13:39 +0000",
           "cross_sections": []
         },
         {
@@ -1486,12 +1478,26 @@
           "cross_sections": []
         },
         {
-          "id": "bnl0LWhlemJvbGxhaC12b3dz",
+          "id": "bnl0LXZpcmdpbmlhLWNvdXJ0",
           "source_id": "nyt",
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
+          "title": "Virginia Court Weighs Legality of New Redistricting Map Approved Last Week",
+          "summary": "Oral arguments on Monday morning lasted about an hour. It was not clear how justices would rule.",
+          "image_url": "https://static01.nyt.com/images/2026/04/27/multimedia/27nat-va-redistricting-1-tqcp/27nat-va-redistricting-1-tqcp-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/04/27/us/virginia-court-congressional-map-redistricting.html",
+          "published_at": "Mon, 27 Apr 2026 17:36:19 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LWhlemJvbGxhaC12b3dz",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "World",
           "title": "Hezbollah Vows to Keep Its Weapons as Lebanon Says Israeli Strikes Killed 14",
           "summary": "Despite a cease-fire, Israel and Hezbollah have been trading attacks almost daily.",
           "image_url": "https://static01.nyt.com/images/2026/04/27/multimedia/27lebanon-israel-01-fjhb/27lebanon-israel-01-fjhb-mediumSquareAt3X.jpg",
@@ -1593,6 +1599,20 @@
           "cross_sections": []
         },
         {
+          "id": "bnl0LWVyaWMtc3dhbHdlbGws",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Eric Swalwell, Tony Gonzales and Accountability in the Post-Post-#MeToo Era",
+          "summary": "What constitutes unacceptable behavior? And how many accusers does it take for an allegation to be believed? Societal standards remain nebulous.",
+          "image_url": "https://static01.nyt.com/images/2026/04/27/multimedia/27nat-workplace-swallwell-TOP-qlmg/27nat-workplace-swallwell-TOP-qlmg-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/04/27/us/eric-swalwell-tony-gonzales-metoo-accusations-accountability.html",
+          "published_at": "Mon, 27 Apr 2026 09:01:05 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "bnl0LWFmdGVyLWNvcnJlc3Bv",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1633,20 +1653,6 @@
           "article_url": "https://www.nytimes.com/2026/04/25/technology/trump-memecoin-conference.html",
           "published_at": "Sat, 25 Apr 2026 19:57:08 +0000",
           "cross_sections": []
-        },
-        {
-          "id": "bnl0LWhvdy10aGUtdGltZXMt",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "How The Times Covers Attackers, Suspects and Victims of Violence",
-          "summary": "Reporting on the people who upend life and those whose lives are upended can bring surprising and uncomfortable details to light.",
-          "image_url": "https://static01.nyt.com/images/2026/04/21/multimedia/00insider-crime-profiles2/00nat-luigi-mangione-jpkb-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/04/15/insider/nyt-approach-naming-attackers-suspects-victims.html",
-          "published_at": "Wed, 15 Apr 2026 20:22:14 +0000",
-          "cross_sections": []
         }
       ]
     },
@@ -1667,7 +1673,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-04-27T20:37:05.059Z",
+          "published_at": "2026-04-27T21:41:39.743Z",
           "cross_sections": []
         },
         {
@@ -1681,7 +1687,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-04-27T20:37:05.059Z",
+          "published_at": "2026-04-27T21:41:39.743Z",
           "cross_sections": []
         },
         {
@@ -1695,7 +1701,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-04-27T20:37:05.059Z",
+          "published_at": "2026-04-27T21:41:39.743Z",
           "cross_sections": []
         },
         {
@@ -2007,6 +2013,22 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "Y25iYy1qdWRnZS1pbi1tdXNr",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Judge in Musk v. Altman seats nine-person jury. Opening arguments start Tuesday",
+          "summary": "The Musk v. Altman trial kicked off at a federal courthouse in Oakland, California, with jury selection followed by opening arguments.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/04/27/musk-altman-trial-openai-jury-selection.html",
+          "published_at": "Mon, 27 Apr 2026 21:29:56 GMT",
+          "cross_sections": [
+            "ai"
+          ]
+        },
+        {
           "id": "Y25iYy1taWNyb24tYW5kLXNh",
           "source_id": "cnbc",
           "source_name": "CNBC",
@@ -2049,22 +2071,6 @@
           "article_url": "https://www.cnbc.com/2026/04/27/lpa-drugs-from-novartis-amgen-and-eli-lilly-aim-to-prevent-heart-attacks.html",
           "published_at": "Mon, 27 Apr 2026 19:28:58 GMT",
           "cross_sections": []
-        },
-        {
-          "id": "Y25iYy1qdXJ5LXNlbGVjdGlv",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Jury selection kicks off in Musk v. Altman trial",
-          "summary": "The Musk v. Altman trial kicked off at a federal courthouse in Oakland, California, with jury selection followed by opening arguments.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/04/27/musk-altman-trial-openai-jury-selection.html",
-          "published_at": "Mon, 27 Apr 2026 19:28:06 GMT",
-          "cross_sections": [
-            "ai"
-          ]
         },
         {
           "id": "Y25iYy10aGlzLWJhbmstY2Vv",
@@ -2483,6 +2489,20 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YmJjLW1lbGFuaWEtdHJ1bXAt",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke",
+          "summary": "In a parody aired days before the White House Correspondents' Dinner, Kimmel called Melania an \"expectant widow\".",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/665b/live/e64af370-424e-11f1-b55d-0f258dce1735.jpg",
+          "article_url": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 27 Apr 2026 21:14:23 GMT",
+          "cross_sections": []
+        },
+        {
           "id": "YmJjLXN0YXJtZXItZmFjZXMt",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2493,7 +2513,7 @@
           "summary": "No 10 brands the move \"a desperate political stunt by the Conservative Party\", which had asked for the vote.",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e58/live/6f4e7b30-422a-11f1-bd52-e755d604ece4.jpg",
           "article_url": "https://www.bbc.com/news/articles/c3r3r2vzjp1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 27 Apr 2026 19:55:19 GMT",
+          "published_at": "Mon, 27 Apr 2026 21:06:18 GMT",
           "cross_sections": []
         },
         {
@@ -2508,20 +2528,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eeb6/live/c380eda0-4266-11f1-ba04-0105efb4069e.png",
           "article_url": "https://www.bbc.com/news/articles/ckgegg8r0v1o?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 27 Apr 2026 19:06:10 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "YmJjLW1lbGFuaWEtdHJ1bXAt",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke",
-          "summary": "In a parody aired days before the White House Correspondents' Dinner, Kimmel called Melania an \"expectant widow\".",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/665b/live/e64af370-424e-11f1-b55d-0f258dce1735.jpg",
-          "article_url": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 27 Apr 2026 17:32:15 GMT",
           "cross_sections": []
         },
         {
@@ -2834,6 +2840,22 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "Z3VhcmRpYW4tZWxvbi1tdXNr",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Elon Musk and Sam Altman face off in court over OpenAI’s founding mission",
+          "summary": "Musk’s lawsuit accuses Altman of fraud, while OpenAI says that Musk is ‘motivated by jealousy’\nA trial between two of Silicon Valley’s biggest tycoons kicked off on Monday in California, the culmination of a years-long bitter feud. Elon Musk has accused Sam Altman of betraying the founding agreement",
+          "image_url": "https://i.guim.co.uk/img/media/6ee77d2ef9db98d209fdf117968db3920520007b/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=b80f4c5143b6eb5c16fa6928e148d379",
+          "article_url": "https://www.theguardian.com/technology/2026/apr/27/elon-musk-sam-altman-open-ai-lawsuit",
+          "published_at": "Mon, 27 Apr 2026 20:29:04 GMT",
+          "cross_sections": [
+            "ai"
+          ]
+        },
+        {
           "id": "Z3VhcmRpYW4tbWV4aWNvLXdh",
           "source_id": "guardian",
           "source_name": "The Guardian",
@@ -2992,22 +3014,6 @@
           "article_url": "https://www.theguardian.com/environment/2026/apr/27/weather-tracker-torrential-rain-southern-china-flooding-fears-india-heatwave-canada-cold",
           "published_at": "Mon, 27 Apr 2026 09:29:19 GMT",
           "cross_sections": []
-        },
-        {
-          "id": "Z3VhcmRpYW4tZWxvbi1tdXNr",
-          "source_id": "guardian",
-          "source_name": "The Guardian",
-          "source_region": "Europe",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "Elon Musk and Sam Altman face off in court over OpenAI’s founding mission",
-          "summary": "Musk’s lawsuit accuses Altman of fraud, while OpenAI says that Musk is ‘motivated by jealousy’\nA lawsuit between two of Silicon Valley’s biggest tycoons goes to trial on Monday in California, the culmination of a years-long bitter feud. Elon Musk has accused Sam Altman of betraying the founding agre",
-          "image_url": "https://i.guim.co.uk/img/media/6ee77d2ef9db98d209fdf117968db3920520007b/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=b80f4c5143b6eb5c16fa6928e148d379",
-          "article_url": "https://www.theguardian.com/technology/2026/apr/27/elon-musk-sam-altman-open-ai-lawsuit",
-          "published_at": "Mon, 27 Apr 2026 08:00:38 GMT",
-          "cross_sections": [
-            "ai"
-          ]
         },
         {
           "id": "Z3VhcmRpYW4taW5zaWRlLWNo",
@@ -3193,6 +3199,240 @@
       ]
     },
     {
+      "id": "euronews",
+      "name": "Euronews",
+      "region": "Europe",
+      "category": "Broadcaster",
+      "articles": [
+        {
+          "id": "ZXVyb25ld3MtdHJ1bXAtZGVt",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Trump demands ABC sack TV comedian Jimmy Kimmel after 'despicable' joke",
+          "summary": "First Lady Melania Trump lalso ashed out at Kimmel, even though the joke in question had been made in a monologue days before the shooting incident in Washington on Saturday.",
+          "image_url": "https://images.euronews.com/articles/stories/09/73/82/30/696x392_cmsv2_698910e0-c65a-55aa-8b84-9b69590ad040-9738230.jpg",
+          "article_url": "http://www.euronews.com/2026/04/27/trump-demands-abc-sack-tv-comedian-jimmy-kimmel-after-despicable-joke",
+          "published_at": "Mon, 27 Apr 2026 20:56:49 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtbWFuLWNoYXJn",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Man charged with attempted assassination of Trump in White House correspondents' dinner shooting",
+          "summary": "Allen, of Torrance in California, is being represented by lawyers with the federal defender's office and sat beside them in court in a blue jail uniform.",
+          "image_url": "https://images.euronews.com/articles/stories/09/73/82/09/696x392_cmsv2_ee18c583-472f-52f4-9961-5a0174721b43-9738209.jpg",
+          "article_url": "http://www.euronews.com/2026/04/27/man-charged-with-attempted-assassination-of-trump-in-white-house-correspondents-dinner-sho",
+          "published_at": "Mon, 27 Apr 2026 20:26:19 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtbWlsaXRhcnkt",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Military action still needed to counter Hezbollah rockets and drones, Israel's PM says",
+          "summary": "Hezbollah drew Lebanon into the Middle East war by firing rockets towards Israel to avenge the killing of Iranian supreme leader Ali Khamenei in US-Israeli strikes.",
+          "image_url": "https://images.euronews.com/articles/stories/09/73/81/88/696x392_cmsv2_f01db285-2b89-5dde-9994-94b81dadb86d-9738188.jpg",
+          "article_url": "http://www.euronews.com/2026/04/27/military-action-still-needed-to-counter-hezbollah-rockets-and-drones-israels-pm-says",
+          "published_at": "Mon, 27 Apr 2026 19:50:52 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtY2FzcGlhbi1h",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Caspian and Central Asian oil markets recalibrate amid trade shifts",
+          "summary": "The oil sector in the South Caucasus and Central Asia is shifting towards more flexible trading strategies as volatile markets and Asia-led demand reshape global energy flows.",
+          "image_url": "https://images.euronews.com/articles/stories/09/73/73/90/696x392_cmsv2_cd4bafae-d41d-5cfe-95a8-c35e8c14301d-9737390.jpg",
+          "article_url": "http://www.euronews.com/business/2026/04/27/caspian-and-central-asian-oil-markets-recalibrate-amid-trade-shifts",
+          "published_at": "Mon, 27 Apr 2026 19:06:11 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtaXRhbHktZXh0",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Italy extradites alleged Chinese hacker to US accused of spying for Beijing during COVID-19 pandemic",
+          "summary": "The FBI accuses Xu Zewei of hacking US government entities, research institutes and universities involved in vaccine research in 2020 and 2021 at the height of the pandemic.",
+          "image_url": "https://images.euronews.com/articles/stories/09/73/80/83/696x392_cmsv2_ae11a2bf-38d9-59bb-9ee2-de5e2be1909f-9738083.jpg",
+          "article_url": "http://www.euronews.com/my-europe/2026/04/27/italy-extradites-alleged-chinese-hacker-to-us-accused-of-spying-for-beijing-during-covid-1",
+          "published_at": "Mon, 27 Apr 2026 18:42:53 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtbGF0ZXN0LW5l",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Latest news bulletin | April 27th, 2026 – Evening",
+          "summary": "Catch up with the most important stories from around Europe and beyond this April 27th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+          "image_url": "https://images.euronews.com/articles/stories/09/73/80/78/696x392_cmsv2_98b1d497-318a-55ee-a251-651f2dd0ebe8-9738078.jpg",
+          "article_url": "http://www.euronews.com/video/2026/04/27/latest-news-bulletin-april-27th-2026-evening",
+          "published_at": "Mon, 27 Apr 2026 18:00:29 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3Mtd2F0Y2g6LXNl",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Watch: Seagull imitators compete for the best screech",
+          "summary": "Participants from across Europe gathered in Belgium to compete in a seagull screeching contest.",
+          "image_url": "https://images.euronews.com/articles/stories/09/73/71/19/696x392_cmsv2_b87be49a-9c90-5a88-ba33-5d3f8775da7c-9737119.jpg",
+          "article_url": "http://www.euronews.com/video/2026/04/27/watch-seagull-imitators-compete-for-the-best-screech",
+          "published_at": "Mon, 27 Apr 2026 17:59:31 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3Mt4oCYdHdvLW9y",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "‘Two or three European airlines could go bankrupt’ this winter, says Ryanair boss O’Leary",
+          "summary": "The outspoken CEO of Europe’s biggest airline named Wizz Air and airBaltic as among those at risk.",
+          "image_url": "https://images.euronews.com/articles/stories/09/73/79/45/696x392_cmsv2_ead06f3c-863b-53b0-b2d7-80178c59ea5e-9737945.jpg",
+          "article_url": "http://www.euronews.com/travel/2026/04/27/two-or-three-european-airlines-could-go-bankrupt-this-winter-says-ryanair-boss-oleary",
+          "published_at": "Mon, 27 Apr 2026 17:41:28 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3Mtc3RyYWl0LW9m",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Strait of Hormuz standoff leaves 20,000 seafarers stranded on cargo ships",
+          "summary": "Thousands of seafarers are stranded as the Iran war shuts down much of the Strait of Hormuz, disrupting global oil and gas trade and raising safety fears.",
+          "image_url": "https://images.euronews.com/articles/stories/09/73/78/39/696x392_cmsv2_8889ecd0-cd20-51c9-a654-26e162a460a6-9737839.jpg",
+          "article_url": "http://www.euronews.com/2026/04/27/strait-of-hormuz-standoff-leaves-20000-seafarers-stranded-on-cargo-ships",
+          "published_at": "Mon, 27 Apr 2026 17:20:17 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtZnJvbS1jYXN0",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "From Castro to Trump: Leaders who survived the most assassination attempts in history",
+          "summary": "An armed man opened fire near the White House correspondents' dinner, injuring a Secret Service agent and forcing Donald Trump and top officials to be evacuated. Euronews takes a look at world leaders most targeted by assassination plots.",
+          "image_url": "https://images.euronews.com/articles/stories/09/73/73/77/696x392_cmsv2_ba439cf7-0024-5266-899a-aa2c81b0548f-9737377.jpg",
+          "article_url": "http://www.euronews.com/2026/04/27/from-castro-to-trump-leaders-who-survived-the-most-assassination-attempts-in-history",
+          "published_at": "Mon, 27 Apr 2026 14:46:19 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtZ2VybWFueS1o",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Germany has world's second biggest gold reserve. Time to cash it in?",
+          "summary": "To ease the burden on consumers, DIW head Marcel Fratzscher proposes selling part of Germany's gold reserves — currently worth around €440 billion.",
+          "image_url": "https://images.euronews.com/articles/stories/09/63/09/71/696x392_cmsv2_96b88e6b-b68e-5d72-b6be-56b897de34a3-9630971.jpg",
+          "article_url": "http://www.euronews.com/business/2026/04/27/germany-has-worlds-second-biggest-gold-reserve-time-to-cash-it-in",
+          "published_at": "Mon, 27 Apr 2026 13:26:47 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3Mt4oCYbW9zdC1m",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "‘Most failing airport in Europe’: Ryanair begins phasing out Berlin base blaming drop in traffic",
+          "summary": "The move comes as Berlin’s international airport says increased charges are not on the cards and Germany’s Finance Ministry approved flight levies to be scaled back.",
+          "image_url": "https://images.euronews.com/articles/stories/09/73/72/76/696x392_cmsv2_31f69303-a502-56d2-9902-ac2e80ced491-9737276.jpg",
+          "article_url": "http://www.euronews.com/travel/2026/04/27/most-failing-airport-in-europe-ryanair-begins-phasing-out-berlin-base-blaming-drop-in-traf",
+          "published_at": "Mon, 27 Apr 2026 12:30:35 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtdG90YWxlbmVy",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "TotalEnergies maximises production at major refinery to secure French fuel supply",
+          "summary": "TotalEnergies has maximised its output at the Gonfreville refinery to protect the French market from external supply shocks. The facility is operating at its limit to produce essential fuels as energy markets remain disrupted.",
+          "image_url": "https://images.euronews.com/articles/stories/09/73/70/26/696x392_cmsv2_738da91f-d162-5835-8a38-59a49b08a432-9737026.jpg",
+          "article_url": "http://www.euronews.com/business/2026/04/27/totalenergies-maximises-production-at-major-refinery-to-secure-french-fuel-supply",
+          "published_at": "Mon, 27 Apr 2026 11:43:03 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtY2hpbmEtc2xh",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "China slams ‘Made in Europe’ push, mulls retaliation",
+          "summary": "Beijing released a statement on Monday attacking the EU’s strategy to supercharge local industry, arguing that the European preference creates investment barriers and discrimination – and that countermeasures could follow.",
+          "image_url": "https://images.euronews.com/articles/stories/09/73/70/25/696x392_cmsv2_fbed83ef-8350-542f-b84e-eb39f7a214e3-9737025.jpg",
+          "article_url": "http://www.euronews.com/business/2026/04/27/china-slams-made-in-europe-push-mulls-retaliation",
+          "published_at": "Mon, 27 Apr 2026 11:32:12 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtbmV3c2xldHRl",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Newsletter: EU leaders back US president after attack",
+          "summary": "Also in this newsletter: On 40th Chernobyl disaster anniversary, Zelenskyy accuses Russia of committing 'nuclear terrorism.'",
+          "image_url": "https://images.euronews.com/articles/stories/09/73/69/26/696x392_cmsv2_75a5eba2-4296-5f6c-bb54-219c6b86f3ca-9736926.jpg",
+          "article_url": "http://www.euronews.com/my-europe/2026/04/27/eu-leaders-back-us-president-after-attack",
+          "published_at": "Mon, 27 Apr 2026 09:47:25 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3Mta2V5LXVzLXNl",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Key US senator lifts block on Fed chair nominee Kevin Warsh",
+          "summary": "The Republican senator who had effectively blocked confirmation of President Donald Trump’s pick to lead the Federal Reserve said on Sunday he was dropping his opposition after the Department of Justice ended its investigation of the current central bank chair.",
+          "image_url": "https://images.euronews.com/articles/stories/09/73/67/27/696x392_cmsv2_da80fa26-efcc-5b21-b99c-417dac8a6f3c-9736727.jpg",
+          "article_url": "http://www.euronews.com/business/2026/04/27/key-us-senator-lifts-block-on-fed-chair-nominee-kevin-warsh",
+          "published_at": "Mon, 27 Apr 2026 06:28:09 +0200",
+          "cross_sections": []
+        }
+      ]
+    },
+    {
       "id": "dw",
       "name": "DW News",
       "region": "Europe",
@@ -3366,6 +3606,48 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dG9pLXJveWFsLWJlbmdhbC1i",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Royal Bengal battle in the offing as Suvendu takes on Didi at Bhowanipore",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/royal-bengal-battle-in-the-offing-as-suvendu-takes-on-didi-at-bhowanipore/articleshow/130564367.cms",
+          "published_at": "Tue, 28 Apr 2026 02:46:26 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dG9pLXJham5hdGgtbGFuZHMt",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Rajnath lands in Kyrgyzstan to attend SCO def ministers meet, may discuss West Asia crisis",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/rajnath-lands-in-kyrgyzstan-to-attend-sco-def-ministers-meet-may-discuss-west-asia-crisis/articleshow/130564262.cms",
+          "published_at": "Tue, 28 Apr 2026 02:13:09 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dG9pLWJlbmdhbC1wb2xsczot",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Bengal polls: Shah urges people to vote fearlessly, says forces will stay back for 60 days",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/west-bengal-polls-shah-urges-people-to-vote-fearlessly-says-central-forces-will-stay-back-for-60-days/articleshow/130564223.cms",
+          "published_at": "Tue, 28 Apr 2026 02:01:31 +0530",
+          "cross_sections": []
+        },
+        {
           "id": "dG9pLXdpbGwtYmUtYmFjay1z",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3394,20 +3676,6 @@
           "cross_sections": []
         },
         {
-          "id": "dG9pLSdkb24ndC1jcnktbGF0",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "'Don't cry later': UP cop on poll duty warns TMC candidate, video triggers big row",
-          "summary": "In a video going viral, Ajay Pal Sharma was seening warning Jehangir Khan's family: \"Tell him, we’ll deal properly with him if his men continue to threaten...don’t cry or regret it then.\"​​​ Hailing Ajay Sharma's as \"Singham\" of Uttar Pradesh, BJP's I-T department chief Amit Malviya said the UP enco",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/dont-cry-later-up-encounter-specialist-on-bengal-poll-duty-warns-tmc-candidate-video-triggers-big-row/articleshow/130561371.cms",
-          "published_at": "Mon, 27 Apr 2026 23:29:04 +0530",
-          "cross_sections": []
-        },
-        {
           "id": "dG9pLSdtdWpoZS1uYWhpLXBh",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3422,20 +3690,6 @@
           "cross_sections": []
         },
         {
-          "id": "dG9pLXZhbmRlLWJoYXJhdC1k",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Vande Bharat derailment: Coach slips off tracks at Pune station",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/vande-bharat-derailment-coach-slips-off-tracks-at-pune-station/articleshow/130559924.cms",
-          "published_at": "Mon, 27 Apr 2026 22:16:03 +0530",
-          "cross_sections": []
-        },
-        {
           "id": "dG9pLWpoYWxtdXJpLXBvbGl0",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3447,20 +3701,6 @@
           "image_url": null,
           "article_url": "https://timesofindia.indiatimes.com/elections/assembly-elections/west-bengal/spicy-jhalmuri-politics-evm-fears-pm-modis-letter-key-highlights-from-west-bengal-phase-ii-campaigning/articleshow/130556982.cms",
           "published_at": "Mon, 27 Apr 2026 20:07:06 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dG9pLWdyZWF0LW5pY29iYXIt",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Great Nicobar Island: Why China is worried about India's new outpost",
-          "summary": "Global maritime trade faces disruptions with the Strait of Hormuz closure impacting energy supplies. India is bolstering its maritime capabilities, investing heavily in port infrastructure like the Great Nicobar Island Project. This strategic move aims to enhance economic and military influence, sec",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/defence/news/great-nicobar-island-indias-new-economic-and-military-outpost-that-can-threaten-chinas-energy-security/articleshow/130553190.cms",
-          "published_at": "Mon, 27 Apr 2026 17:34:49 +0530",
           "cross_sections": []
         },
         {
@@ -3725,87 +3965,17 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dGhlaGluZHUtdGFwYW4tYW5k",
+          "id": "dGhlaGluZHUtZ292ZXJubWVu",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Tapan and Harschit emerge all-round champions",
+          "title": "Government signs MoU with State Legal Services Authority to promote legal awareness and child protection in schools",
           "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/bu76qh/article70913820.ece/alternates/LANDSCAPE_1200/90092_27_4_2026_23_5_24_1_NATIONAL_GYMNASTICS_ARTISTIC_CHAMPIONSHIP_08.JPG",
-          "article_url": "https://www.thehindu.com/sport/other-sports/tapan-and-harschit-emerge-all-round-champions/article70913281.ece",
-          "published_at": "Tue, 28 Apr 2026 02:01:39 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtc2luZGh1LWJl",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Sindhu begins her journey in global badminton governance as BWF Council member",
-          "summary": "One of the most accomplished players in the sport's history, Sindhu has assumed a full voting position on the BWF Council following her election as Chair of the BWF Athletes’ Commission in December",
-          "image_url": "https://th-i.thgim.com/public/incoming/nv3qw0/article70913819.ece/alternates/LANDSCAPE_1200/20260315033L.jpg",
-          "article_url": "https://www.thehindu.com/sport/other-sports/sindhu-begins-her-journey-in-global-badminton-governance-as-bwf-council-member/article70913817.ece",
-          "published_at": "Tue, 28 Apr 2026 01:59:08 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUt4oCLZ2FuZy1v",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "​Gang of seven: On the AAP defections",
-          "summary": "Large-scale defections have rendered the Tenth Schedule impotent",
           "image_url": null,
-          "article_url": "https://www.thehindu.com/opinion/editorial/gang-of-seven-on-the-aap-defections/article70913116.ece",
-          "published_at": "Tue, 28 Apr 2026 01:55:12 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtaHJpZG95J3Mt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Hridoy's half-century leads Bangladesh past New Zealand in T20 series opener",
-          "summary": "Hridoy finished 51 not out from 27 balls, including two fours and three sixes. He shared a 57-run partnership with Parvez Hossain and another 49 with Shamim Hossain in an unbeaten fifth wicket to help Bangladesh race to the victory",
-          "image_url": "https://th-i.thgim.com/public/incoming/ym9irq/article70913816.ece/alternates/LANDSCAPE_1200/AFP_A93V43M.jpg",
-          "article_url": "https://www.thehindu.com/sport/cricket/hridoys-half-century-leads-bangladesh-past-new-zealand-in-t20-series-opener/article70913814.ece",
-          "published_at": "Tue, 28 Apr 2026 01:50:18 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtY3VsdHVyZS1v",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Culture of violence: On the Washington press dinner shooting",
-          "summary": "The proliferation of guns in U.S. has given a deadly edge to political disagreements",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/opinion/editorial/culture-of-violence-on-the-washington-press-dinner-shooting/article70912697.ece",
-          "published_at": "Tue, 28 Apr 2026 01:47:12 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtaW5kaWEtZmFs",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "India falter in chase as Wolvaardt powers South Africa to 4-1 series win",
-          "summary": "Wolvaardt, who has already notched up two fifties and a century in the series, struck 11 fours and two sixes in her 56-ball knock, carrying her bat despite wickets falling around her",
-          "image_url": "https://th-i.thgim.com/public/incoming/rwnfyj/article70913813.ece/alternates/LANDSCAPE_1200/HG6aheObwAAouB7.jpg",
-          "article_url": "https://www.thehindu.com/sport/cricket/india-falter-in-chase-as-wolvaardt-powers-south-africa-to-4-1-series-win/article70913812.ece",
-          "published_at": "Tue, 28 Apr 2026 01:39:44 +0530",
+          "article_url": "https://www.thehindu.com/news/national/telangana/government-signs-mou-with-state-legal-services-authority-to-promote-legal-awareness-and-child-protection-in-schools/article70913275.ece",
+          "published_at": "Tue, 28 Apr 2026 02:37:34 +0530",
           "cross_sections": []
         },
         {
@@ -3815,25 +3985,99 @@
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "‘Weakening public faith’ vs. ‘justified stand’: legal experts divided over former CM’s decision",
+          "title": "‘Weakening public faith’ vs. ‘justified stand’: legal experts divided over Kejriwal’s decision",
           "summary": "",
           "image_url": "https://th-i.thgim.com/public/incoming/pd1gf9/article70913803.ece/alternates/LANDSCAPE_1200/20260427167L.jpg",
           "article_url": "https://www.thehindu.com/news/cities/Delhi/weakening-public-faith-vs-justified-stand-legal-experts-divided-over-former-cms-decision/article70913811.ece",
-          "published_at": "Tue, 28 Apr 2026 01:34:18 +0530",
+          "published_at": "Tue, 28 Apr 2026 02:32:27 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUtYWZ0ZXJub29u",
+          "id": "dGhlaGluZHUt4oCYaGFydmVz",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Afternoon break, free ORS sachets: Delhi govt. announces heat relief measures",
+          "title": "‘Harvest more water; banning paddy is not the solution to groundwater stress’",
+          "summary": "Telangana groundwater resources 2025 released; Assessment for 2026 begins",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/national/telangana/harvest-more-water-banning-paddy-is-not-the-solution-to-groundwater-stress/article70913015.ece",
+          "published_at": "Tue, 28 Apr 2026 02:28:15 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtcHJpc29uLXJ1",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Prison-run fuel station inaugurated at Khanapur, inspects women’s prison and opens new block in Warangal",
           "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/u1jpdn/article70913435.ece/alternates/LANDSCAPE_1200/20260427125L.jpg",
-          "article_url": "https://www.thehindu.com/news/cities/Delhi/afternoon-break-freeorssachets-delhigovt-announces-heat-relief-measures/article70913035.ece",
-          "published_at": "Tue, 28 Apr 2026 01:33:13 +0530",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/national/telangana/prison-run-fuel-station-inaugurated-at-khanapur-inspects-womens-prison-and-opens-new-block-in-warangal/article70911770.ece",
+          "published_at": "Tue, 28 Apr 2026 02:25:11 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtZWxlY3RvcmFs",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Electoral roll purges raise constitutional questions",
+          "summary": "Voter deletions under the Special Intensive Revision of electoral rolls raise concerns over constitutional and procedural validity",
+          "image_url": "https://th-i.thgim.com/public/incoming/vspwvj/article70913344.ece/alternates/LANDSCAPE_1200/PTI04_08_2026_000308B.jpg",
+          "article_url": "https://www.thehindu.com/opinion/lead/electoral-roll-purges-raise-constitutional-questions/article70913342.ece",
+          "published_at": "Tue, 28 Apr 2026 02:19:15 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtYS10aWdodGVu",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "A tightening of the fist in India’s digital public square",
+          "summary": "The draft amendments to India’s Information Technology Rules trigger fears of digital overreach and a departure from existing judicial rulings",
+          "image_url": "https://th-i.thgim.com/public/opinion/op-ed/erhcgc/article70913382.ece/alternates/LANDSCAPE_1200/iStock-1367322859.jpg",
+          "article_url": "https://www.thehindu.com/opinion/op-ed/a-tightening-of-the-fist-in-indias-digital-public-square/article70913381.ece",
+          "published_at": "Tue, 28 Apr 2026 02:12:36 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdXR0YXJha2hh",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Uttarakhand CM lauds direct selling rules, highlights role in self-reliance",
+          "summary": "Mr. Dhami said initiatives like Start-up India, Skill India, Digital India, Vocal for Local and Make in India had contributed to India emerging as one of the world’s fastest-growing economies",
+          "image_url": "https://th-i.thgim.com/public/incoming/uta1ez/article70913470.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-27%20at%2020.22.13.jpeg",
+          "article_url": "https://www.thehindu.com/news/cities/Delhi/uttarakhand-cm-lauds-direct-selling-rules-highlightsrole-in-self-reliance/article70913347.ece",
+          "published_at": "Tue, 28 Apr 2026 02:11:09 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUta2VzaGF2LW1h",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Keshav Maharaj replaces injured Mitchell Santner in Mumbai Indians’ squad",
+          "summary": "Santner has been ruled out owing to a shoulder injury which he sustained during the team’s last match here at the Wankhede Stadium against Chennai Super Kings",
+          "image_url": "https://th-i.thgim.com/public/incoming/dfzaxr/article70913822.ece/alternates/LANDSCAPE_1200/India_South_Africa_T20_WCup_Cricket_36217.jpg",
+          "article_url": "https://www.thehindu.com/sport/cricket/keshav-maharaj-replaces-injured-mitchell-santner-in-mumbai-indians-squad/article70913821.ece",
+          "published_at": "Tue, 28 Apr 2026 02:06:30 +0530",
           "cross_sections": []
         },
         {
@@ -3947,22 +4191,6 @@
           "published_at": "Mon, 27 Apr 2026 13:05:21 +0530",
           "cross_sections": [
             "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtdS5zLi1zdGF0",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "U.S. State Department orders global warning about alleged AI thefts by DeepSeek, other Chinese firms",
-          "summary": "The White House accusations and the cable come just weeks before ‌U.S. President Donald Trump is set to visit Chinese President Xi Jinping in Beijing",
-          "image_url": "https://th-i.thgim.com/public/incoming/z0k41m/article70910663.ece/alternates/LANDSCAPE_1200/AP04_24_2026_000123A.jpg",
-          "article_url": "https://www.thehindu.com/sci-tech/technology/us-state-dept-orders-global-warning-about-alleged-ai-thefts-by-deepseek-other-chinese-firms/article70910661.ece",
-          "published_at": "Mon, 27 Apr 2026 10:42:08 +0530",
-          "cross_sections": [
-            "ai"
           ]
         }
       ]
@@ -4258,6 +4486,65 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YWxqYXplZXJhLXdpbGwtdm90",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Will vote make a difference to Palestinians under Israeli occupation?",
+          "summary": "The Palestinian Authority's Fatah party and its affiliates sweep council vote.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/inside-story/2026/4/27/will-vote-make-a-difference-to-palestinians-under-israeli-occupation?traffic_source=rss",
+          "published_at": "Mon, 27 Apr 2026 21:07:36 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLXdoby1ob2xk",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Who holds the cards in Iran-US talks?",
+          "summary": "Both the US and Iran claim to have the upper hand in negotiations over the war, but who holds the cards?",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/who-holds-the-cards-in-iran-us-talks?traffic_source=rss",
+          "published_at": "Mon, 27 Apr 2026 21:00:18 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLWlyYW4tZm0t",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Iran FM in Russia says US has offered new round of talks",
+          "summary": "Russia is hosting Iran’s Foreign Minister Abbas Araghchi in St. Petersburg for talks on a possible new round of talks.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/iran-fm-in-russia-says-us-has-offered-new-round-of-talks?traffic_source=rss",
+          "published_at": "Mon, 27 Apr 2026 20:59:56 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLWNoaW5hLXNl",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "China seeks to block US tech giant Meta from AI acquisition",
+          "summary": "Bejing tightens scrutiny of AI industry amid intensifying geopolitical rivalry with the US over the technology.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/4/27/china-blocks-us-tech-giant-meta-from-acquiring-ai-startup-manus?traffic_source=rss",
+          "published_at": "Mon, 27 Apr 2026 20:27:56 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "YWxqYXplZXJhLWtpbmctY2hh",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
@@ -4314,62 +4601,6 @@
           "image_url": null,
           "article_url": "https://www.aljazeera.com/news/2026/4/27/thousands-reportedly-held-by-paramilitary-rsf-in-sudans-el-fasher?traffic_source=rss",
           "published_at": "Mon, 27 Apr 2026 19:35:55 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXdoYXQtcGVv",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "What people in Beirut think about the Lebanon-Israel negotiations",
-          "summary": "Lebanese leaders were in Washington earlier this month for the first direct negotiations with Israel in over 30 years.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/what-people-in-beirut-think-about-the-lebanon-israel-negotiations?traffic_source=rss",
-          "published_at": "Mon, 27 Apr 2026 19:17:05 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLWlyYXFpLXBy",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Iraqi president names Shia bloc candidate Ali al-Zaidi as PM-designate",
-          "summary": "Choice of al-Zaidi breaks a months-long deadlock after Trump opposed appointment of pro-Iran former PM al-Maliki.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/4/27/iraqi-president-names-shia-bloc-candidate-ali-al-zaidi-as-pm-designate?traffic_source=rss",
-          "published_at": "Mon, 27 Apr 2026 19:12:41 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXRpbWVsaW5l",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Timeline: The highs and lows of the US-UK ‘special relationship’",
-          "summary": "Tensions between the allies punctuate King Charles's US visit, designed to strengthen the UK-US partnership.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/4/27/timeline-the-highs-and-lows-of-the-us-uk-special-relationship?traffic_source=rss",
-          "published_at": "Mon, 27 Apr 2026 18:40:49 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXVzLXByZXNz",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "US press gala shooting suspect charged with attempting to kill Trump",
-          "summary": "Prosecutor says Cole Tomas Allen 'attempted to assassinate the president of the United States' in Saturday attack.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/4/27/white-house-correspondents-dinner-shooting-suspect-charged?traffic_source=rss",
-          "published_at": "Mon, 27 Apr 2026 18:07:25 +0000",
           "cross_sections": []
         }
       ]
@@ -4654,7 +4885,7 @@
         {
           "id": "cnet",
           "name": "CNET",
-          "count": 8
+          "count": 7
         },
         {
           "id": "venturebeat",
@@ -4686,7 +4917,7 @@
         {
           "id": "nyt",
           "name": "The New York Times",
-          "count": 21
+          "count": 22
         },
         {
           "id": "cnn",
@@ -4721,6 +4952,11 @@
           "count": 24
         },
         {
+          "id": "euronews",
+          "name": "Euronews",
+          "count": 16
+        },
+        {
           "id": "dw",
           "name": "DW News",
           "count": 11
@@ -4740,7 +4976,7 @@
         {
           "id": "thehindu",
           "name": "The Hindu",
-          "count": 16
+          "count": 15
         },
         {
           "id": "japantimes",
@@ -4783,6 +5019,88 @@
       "name": "IT & Tech",
       "icon": "💻",
       "articles": [
+        {
+          "id": "dGhldmVyZ2UtY2Fub25pY2Fs",
+          "source_id": "theverge",
+          "source_name": "The Verge",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Canonical lays out a plan for AI in Ubuntu Linux",
+          "summary": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday detailing plans to add AI features to the Linux distro over the next year. As the post states, the ",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "article_url": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
+          "published_at": "2026-04-27T20:47:45.000Z",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtYS10aWdodGVu",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "A tightening of the fist in India’s digital public square",
+          "summary": "The draft amendments to India’s Information Technology Rules trigger fears of digital overreach and a departure from existing judicial rulings",
+          "image_url": "https://th-i.thgim.com/public/opinion/op-ed/erhcgc/article70913382.ece/alternates/LANDSCAPE_1200/iStock-1367322859.jpg",
+          "article_url": "https://www.thehindu.com/opinion/op-ed/a-tightening-of-the-fist-in-indias-digital-public-square/article70913381.ece",
+          "published_at": "Tue, 28 Apr 2026 02:12:36 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdXR0YXJha2hh",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Uttarakhand CM lauds direct selling rules, highlights role in self-reliance",
+          "summary": "Mr. Dhami said initiatives like Start-up India, Skill India, Digital India, Vocal for Local and Make in India had contributed to India emerging as one of the world’s fastest-growing economies",
+          "image_url": "https://th-i.thgim.com/public/incoming/uta1ez/article70913470.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-27%20at%2020.22.13.jpeg",
+          "article_url": "https://www.thehindu.com/news/cities/Delhi/uttarakhand-cm-lauds-direct-selling-rules-highlightsrole-in-self-reliance/article70913347.ece",
+          "published_at": "Tue, 28 Apr 2026 02:11:09 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGVjaGNydW5jaC1sZXR0ZXJi",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Letterboxd, the social platform for film buffs, reportedly looking for new owner",
+          "summary": "Potential buyers of Letterboxd include Versant, the parent company of CNBC and MS NOW, and Hollywood media company The Ankler, according to Semafor.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/04/27/letterboxd-sale-film-social-media-semafor-versant-ankler/",
+          "published_at": "Mon, 27 Apr 2026 20:37:49 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLWNoaW5hLXNl",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "China seeks to block US tech giant Meta from AI acquisition",
+          "summary": "Bejing tightens scrutiny of AI industry amid intensifying geopolitical rivalry with the US over the technology.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/4/27/china-blocks-us-tech-giant-meta-from-acquiring-ai-startup-manus?traffic_source=rss",
+          "published_at": "Mon, 27 Apr 2026 20:27:56 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
         {
           "id": "d2lyZWQtdGhlLW01LW1hY2Jv",
           "source_id": "wired",
@@ -4848,6 +5166,55 @@
           ]
         },
         {
+          "id": "Y25ldC1pcy1vdXRsb29rLWRv",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Is Outlook Down? Microsoft Reports Sign-On Issues With Email Client",
+          "summary": "Here's why you might have had trouble logging into your email Monday.",
+          "image_url": "https://www.cnet.com/a/img/resize/89db541e00130cda45e42316d3514c4c690aede3/hub/2026/04/27/f8ae1b8e-38da-493e-ba72-994fe90ad274/gettyimages-2263990125.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "article_url": "https://www.cnet.com/news-live/is-microsoft-outlook-down-microsoft-april-27-2026/",
+          "published_at": "Mon, 27 Apr 2026 20:06:00 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJzdGVjaG5pY2EtZXUtdGVs",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "EU tells Google to open up AI on Android; Google says that's \"unwarranted intervention\"",
+          "summary": "Gemini gets preferential treatment on Android, but maybe not for long (in Europe).",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
+          "article_url": "https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/",
+          "published_at": "Mon, 27 Apr 2026 20:03:49 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "Y25ldC1nYWxheHktei1mb2xk",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Galaxy Z Fold 8 Wide Could Get More Screen and Less Camera, Insider Says",
+          "summary": "A reputable leaker says new Samsung foldables will get smaller selfie cameras.",
+          "image_url": "https://www.cnet.com/a/img/resize/232add04d29e97392fdb9591cf58691258fe7472/hub/2026/04/27/7b3ea964-b4f7-4f5d-b91a-98c7c6661e69/selfie-gettyimages-2201334744.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "article_url": "https://www.cnet.com/tech/mobile/galaxy-z-fold-8-wide-more-screen-less-camera-insider-says/",
+          "published_at": "Mon, 27 Apr 2026 19:59:03 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YWxqYXplZXJhLWVsb24tbXVz",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
@@ -4898,6 +5265,22 @@
           ]
         },
         {
+          "id": "Y25ldC1waG9uZS1tYWtlci1u",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Phone-Maker Nothing Revives Android-to-Computer File Sharing Tool",
+          "summary": "The London-based consumer electronics brand released and then removed its new file-sharing app in favor of a more cumbersome tool.",
+          "image_url": "https://www.cnet.com/a/img/resize/1ae4251e7e8bcf572afe632e36ca3772e48c7d9f/hub/2026/03/18/b7af489f-6160-47b7-b160-fa88204b507f/nothing-phone-4a-pro-6.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "article_url": "https://www.cnet.com/tech/services-and-software/nothing-android-computer-file-sharing-tool/",
+          "published_at": "Mon, 27 Apr 2026 19:21:59 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "emRuZXQtdC1tb2JpbGUtd2ls",
           "source_id": "zdnet",
           "source_name": "ZDNet",
@@ -4920,8 +5303,8 @@
           "source_region": "IT Focus",
           "source_category": "Tech Media",
           "feed_label": "Latest",
-          "title": "Consumers lost $2.1 billion to social media scams in 2025, FTC reports",
-          "summary": "The agency reports that losses from social media scams have increased eightfold, and that social media scams resulted in higher losses than any other method scammers used to contact consumers.",
+          "title": "Consumers lost $2.1B to social media scams in 2025, FTC reports",
+          "summary": "The agency reports that losses from social media scams have increased eightfold and that social media scams resulted in higher losses than any other method scammers used to contact consumers.",
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/04/27/consumers-lost-2-1-billion-to-social-media-scams-in-2025-ftc-reports/",
           "published_at": "Mon, 27 Apr 2026 19:09:53 +0000",
@@ -4941,38 +5324,6 @@
           "image_url": "https://www.cnet.com/a/img/resize/c611c814cd35bc267f2d7db718de4951ddeb53cc/hub/2026/04/27/da4352c7-504a-473f-8695-34d996ff7ebf/samsung-wallet-trips-promo.jpg?auto=webp&fit=crop&height=614&width=1092",
           "article_url": "https://www.cnet.com/tech/services-and-software/samsung-wallet-trips-feature-travel-itinerary/",
           "published_at": "Mon, 27 Apr 2026 19:02:37 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25ldC1pcy1vdXRsb29rLWRv",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Is Outlook Down? Microsoft Reports Sign-On Issues With Email Client",
-          "summary": "You might have trouble logging into your email on Monday.",
-          "image_url": "https://www.cnet.com/a/img/resize/89db541e00130cda45e42316d3514c4c690aede3/hub/2026/04/27/f8ae1b8e-38da-493e-ba72-994fe90ad274/gettyimages-2263990125.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/news-live/is-microsoft-outlook-down-microsoft-april-27-2026/",
-          "published_at": "Mon, 27 Apr 2026 18:55:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25ldC1iZXN0LXZlcml6b24t",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Best Verizon Plans: How to Choose and Which Ones to Pick in 2026",
-          "summary": "Verizon lowered the costs of its plans this year. We pick our favorites.",
-          "image_url": "https://www.cnet.com/a/img/resize/1fec5475fb22f3f696ac332507de22699fae6f87/hub/2024/07/03/9fbe1f96-9e17-492f-be43-e81f7af1f6f7/verizon-logo-9580.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/tech/mobile/best-verizon-plans/",
-          "published_at": "Mon, 27 Apr 2026 18:42:00 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5009,6 +5360,22 @@
           "cross_sections": [
             "tech",
             "ai"
+          ]
+        },
+        {
+          "id": "YXJzdGVjaG5pY2EtInN1cGVy",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "\"Super ZSNES\" is a stab at a modern SNES emulator from the original developers",
+          "summary": "Upgrades to SNES graphics and sound go way beyond the typical screen filtering.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/super-zsnes-1152x648.png",
+          "article_url": "https://arstechnica.com/gadgets/2026/04/super-zsnes-is-a-stab-at-a-modern-snes-emulator-from-the-original-developers/",
+          "published_at": "Mon, 27 Apr 2026 18:30:14 +0000",
+          "cross_sections": [
+            "tech"
           ]
         },
         {
@@ -5308,135 +5675,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "dGhldmVyZ2UtdmFsdmUtbGF1",
-          "source_id": "theverge",
-          "source_name": "The Verge",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Valve launches the Steam Controller without the Steam Machine",
-          "summary": "Last November, Valve introduced the world to its new vision of living room gaming: the Steam Machine and Steam Controller. Then, RAMageddon. Memory shortages forced Valve to delay all its hardware and reset expectations. \nNow, Valve is releasing the Steam Controller without the Steam Machine.\nThe St",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0141.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "article_url": "https://www.theverge.com/games/918622/valve-steam-controller-price-release-date-steam-machine-delay",
-          "published_at": "2026-04-27T17:00:00.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhldmVyZ2Utd2UtcmV2aWV3",
-          "source_id": "theverge",
-          "source_name": "The Verge",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "We reviewed Valve’s new Steam Controller, ask us anything",
-          "summary": "Hey hey, it's Jay Peters, senior reporter at The Verge. Today, Valve finally announced that the second version of the Steam Controller - and the first piece of Valve's slate of new gaming hardware set to launch this year - is finally going on sale for $99 on May 4th.\nMy colleague Cameron Faulkner an",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0027.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "article_url": "https://www.theverge.com/games/919157/valve-steam-controller-ask-us-anything-ama",
-          "published_at": "2026-04-27T17:00:00.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25ldC12YWx2ZSdzLW5ldy1z",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Valve's New Steam Controller, Coming May 4, May Be My Favorite Controller, Period",
-          "summary": "It's a fantastic Steam Deck extension for your TV, and a lot more.",
-          "image_url": "https://www.cnet.com/a/img/resize/c0046d0851985d7bf417221586673beb523eab58/hub/2026/04/24/6d1a265d-d9d6-4025-9e62-f43a5cfb1c34/valve-steam-controller-steam-deck.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/tech/gaming/valves-new-steam-controller-coming-may-4-may-be-my-favorite-controller-period/",
-          "published_at": "Mon, 27 Apr 2026 17:00:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "emRuZXQtc2Ftc3VuZy13YWxs",
-          "source_id": "zdnet",
-          "source_name": "ZDNet",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Samsung Wallet just got a travel feature that I hope Google Wallet copies ASAP",
-          "summary": "This is a pretty big perk for Galaxy users since there's nothing like it built into Android.",
-          "image_url": null,
-          "article_url": "https://www.zdnet.com/article/samsung-wallet-new-trips-travel-feature/",
-          "published_at": "Mon, 27 Apr 2026 16:54:23 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhldmVyZ2Utc2Ftc3VuZyYj",
-          "source_id": "theverge",
-          "source_name": "The Verge",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Samsung&#8217;s first smart glasses have leaked",
-          "summary": "The upcoming Samsung Galaxy Glasses look nearly identical to Meta's Ray-Ban smart glasses in leaked images from Android Headlines. The glasses, which could be announced at Google I/O next month, are code-named \"Jinju\" and will reportedly cost between $379 and $499, on par with the display-free Ray-B",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Exclusive-Samsung-Galaxy-Glasses-AH-5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "article_url": "https://www.theverge.com/gadgets/919189/samsung-galaxy-glasses-leaked-images",
-          "published_at": "2026-04-27T16:25:51.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1pbnZlc3Rv",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
-          "summary": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
-          "published_at": "Mon, 27 Apr 2026 16:13:02 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "aW5jNDItZXhjbHVzaXZlOi1t",
-          "source_id": "inc42",
-          "source_name": "Inc42",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Exclusive: Morphing Machines Raises ₹42 Cr To Close Series A Round At ₹80 Cr",
-          "summary": "Semiconductor startup Morphing Machines has raised about ₹42 Cr (about $4.4 Mn) as part of its Series A funding round…",
-          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/04/ftr-19-1.jpg",
-          "article_url": "https://inc42.com/buzz/exclusive-morphing-machines-raises-%e2%82%b942-cr-to-close-series-a-round-at-%e2%82%b980-cr/",
-          "published_at": "Mon, 27 Apr 2026 16:04:21 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "d2lyZWQtZWxvbi1tdXNr4oCZ",
-          "source_id": "wired",
-          "source_name": "Wired",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Elon Musk’s XChat App Is More Like Facebook’s Messenger Than Signal",
-          "summary": "Rather than launching a sleek, worthwhile encrypted messaging app, Musk dropped a junky, insular extension of his social media platform.",
-          "image_url": "https://media.wired.com/photos/69ef6fe50938ed4c97342e5a/master/pass/GettyImages-2271393592.jpg",
-          "article_url": "https://www.wired.com/story/elon-musk-xchat-app-is-more-like-facebook-messenger-than-signal/",
-          "published_at": "Mon, 27 Apr 2026 16:04:02 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -5521,6 +5759,120 @@
       "icon": "🤖",
       "articles": [
         {
+          "id": "Y25iY3RlY2gtanVkZ2UtaW4t",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Judge in Musk v. Altman seats nine-person jury. Opening arguments start Tuesday",
+          "summary": "The Musk v. Altman trial kicked off at a federal courthouse in Oakland, California, with jury selection followed by opening arguments.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/04/27/musk-altman-trial-openai-jury-selection.html",
+          "published_at": "Mon, 27 Apr 2026 21:29:56 GMT",
+          "cross_sections": [
+            "ai"
+          ]
+        },
+        {
+          "id": "Y25iYy1qdWRnZS1pbi1tdXNr",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Judge in Musk v. Altman seats nine-person jury. Opening arguments start Tuesday",
+          "summary": "The Musk v. Altman trial kicked off at a federal courthouse in Oakland, California, with jury selection followed by opening arguments.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/04/27/musk-altman-trial-openai-jury-selection.html",
+          "published_at": "Mon, 27 Apr 2026 21:29:56 GMT",
+          "cross_sections": [
+            "ai"
+          ]
+        },
+        {
+          "id": "dGhldmVyZ2UtY2Fub25pY2Fs",
+          "source_id": "theverge",
+          "source_name": "The Verge",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Canonical lays out a plan for AI in Ubuntu Linux",
+          "summary": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday detailing plans to add AI features to the Linux distro over the next year. As the post states, the ",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "article_url": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
+          "published_at": "2026-04-27T20:47:45.000Z",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "YXJzdGVjaG5pY2EtbXVzay1h",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Musk and Altman face off in trial that will determine OpenAI's future",
+          "summary": "Musk’s shifting stance on AI dangers may complicate trial over OpenAI’s mission.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/elon-and-sam-are-bffs-1152x648.jpg",
+          "article_url": "https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future/",
+          "published_at": "Mon, 27 Apr 2026 20:45:18 +0000",
+          "cross_sections": [
+            "ai"
+          ]
+        },
+        {
+          "id": "Z3VhcmRpYW4tZWxvbi1tdXNr",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Elon Musk and Sam Altman face off in court over OpenAI’s founding mission",
+          "summary": "Musk’s lawsuit accuses Altman of fraud, while OpenAI says that Musk is ‘motivated by jealousy’\nA trial between two of Silicon Valley’s biggest tycoons kicked off on Monday in California, the culmination of a years-long bitter feud. Elon Musk has accused Sam Altman of betraying the founding agreement",
+          "image_url": "https://i.guim.co.uk/img/media/6ee77d2ef9db98d209fdf117968db3920520007b/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=b80f4c5143b6eb5c16fa6928e148d379",
+          "article_url": "https://www.theguardian.com/technology/2026/apr/27/elon-musk-sam-altman-open-ai-lawsuit",
+          "published_at": "Mon, 27 Apr 2026 20:29:04 GMT",
+          "cross_sections": [
+            "ai"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLWNoaW5hLXNl",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "China seeks to block US tech giant Meta from AI acquisition",
+          "summary": "Bejing tightens scrutiny of AI industry amid intensifying geopolitical rivalry with the US over the technology.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/4/27/china-blocks-us-tech-giant-meta-from-acquiring-ai-startup-manus?traffic_source=rss",
+          "published_at": "Mon, 27 Apr 2026 20:27:56 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "YXJzdGVjaG5pY2Etb3BlbmFp",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "OpenAI ends its exclusive partnership with Microsoft",
+          "summary": "Amended agreement clears the way for OpenAI models to run on Amazon Bedrock.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-2153474326-1024x648.jpg",
+          "article_url": "https://arstechnica.com/ai/2026/04/no-longer-exclusive-microsoft-agrees-to-let-openai-see-other-cloud-providers/",
+          "published_at": "Mon, 27 Apr 2026 20:10:11 +0000",
+          "cross_sections": [
+            "ai"
+          ]
+        },
+        {
           "id": "d2lyZWQtZWxvbi1tdXNrLWJv",
           "source_id": "wired",
           "source_name": "Wired",
@@ -5533,6 +5885,23 @@
           "article_url": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/",
           "published_at": "Mon, 27 Apr 2026 20:08:51 +0000",
           "cross_sections": [
+            "ai"
+          ]
+        },
+        {
+          "id": "YXJzdGVjaG5pY2EtZXUtdGVs",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "EU tells Google to open up AI on Android; Google says that's \"unwarranted intervention\"",
+          "summary": "Gemini gets preferential treatment on Android, but maybe not for long (in Europe).",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
+          "article_url": "https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/",
+          "published_at": "Mon, 27 Apr 2026 20:03:49 +0000",
+          "cross_sections": [
+            "tech",
             "ai"
           ]
         },
@@ -5567,38 +5936,6 @@
           "published_at": "Mon, 27 Apr 2026 19:33:00 GMT",
           "cross_sections": [
             "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "Y25iY3RlY2gtanVyeS1zZWxl",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Jury selection kicks off in Musk v. Altman trial",
-          "summary": "The Musk v. Altman trial kicked off at a federal courthouse in Oakland, California, with jury selection followed by opening arguments.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/04/27/musk-altman-trial-openai-jury-selection.html",
-          "published_at": "Mon, 27 Apr 2026 19:28:06 GMT",
-          "cross_sections": [
-            "ai"
-          ]
-        },
-        {
-          "id": "Y25iYy1qdXJ5LXNlbGVjdGlv",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Jury selection kicks off in Musk v. Altman trial",
-          "summary": "The Musk v. Altman trial kicked off at a federal courthouse in Oakland, California, with jury selection followed by opening arguments.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/04/27/musk-altman-trial-openai-jury-selection.html",
-          "published_at": "Mon, 27 Apr 2026 19:28:06 GMT",
-          "cross_sections": [
             "ai"
           ]
         },
@@ -5968,22 +6305,6 @@
           ]
         },
         {
-          "id": "Y25ldC1vcGVuYWkncy1ydW1v",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "OpenAI's Rumored Phone Would Replace Apps With AI Agents",
-          "summary": "Past rumors have speculated that the company behind ChatGPT could have several different devices in the works.",
-          "image_url": "https://www.cnet.com/a/img/resize/2feb8402af356da5a08b9d3b532c1482dabbb075/hub/2026/04/27/6dd6eea0-e131-4f17-adca-908116ca3132/gettyimages-2271060320.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/tech/services-and-software/openais-rumored-phone-would-replace-apps-with-ai-agents/",
-          "published_at": "Mon, 27 Apr 2026 15:48:33 +0000",
-          "cross_sections": [
-            "ai"
-          ]
-        },
-        {
           "id": "Z3VhcmRpYW4tY2hpbmEtYmxv",
           "source_id": "guardian",
           "source_name": "The Guardian",
@@ -6098,97 +6419,13 @@
           "cross_sections": [
             "ai"
           ]
-        },
-        {
-          "id": "YmJjLWNoaW5hLWJsb2Nrcy1t",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Technology",
-          "title": "China blocks Meta's $2bn acquisition of AI start-up Manus",
-          "summary": "It comes after months of scrutiny by Chinese regulators over deal struck with Facebook owner.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e98b/live/33358e40-422f-11f1-8502-4993a1291976.jpg",
-          "article_url": "https://www.bbc.com/news/articles/cj0v0gr2yz7o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 27 Apr 2026 12:21:42 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "ZHctbXVzay12cy4tb3BlbmFp",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Musk vs. OpenAI trial gets underway",
-          "summary": "Two giants in the AI sector are set for a courtroom battle: Elon Musk (xAI) is taking on Sam Altmann (OpenAI). Musk has accused Altmann of betraying OpenAI's originally nonprofit mission.",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/musk-vs-openai-trial-gets-underway/a-76948411?maca=en-rss-en-world-4025-xml-mrss",
-          "published_at": "Mon, 27 Apr 2026 09:52:00 GMT",
-          "cross_sections": [
-            "ai"
-          ]
-        },
-        {
-          "id": "bWFpbGd1YXJkaWFuLW1hbGF0",
-          "source_id": "mailguardian",
-          "source_name": "Mail & Guardian",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Malatsi withdraws draft AI policy over fake citations",
-          "summary": "The communications and digital technologies minister said the department would take the matter seriously and implement consequence management for those responsible for drafting and quality assurance",
-          "image_url": null,
-          "article_url": "https://mg.co.za/news/2026-04-27-malatsi-withdraws-draft-ai-policy-over-fake-citations/",
-          "published_at": "Mon, 27 Apr 2026 09:39:09 +0000",
-          "cross_sections": [
-            "ai",
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLWNoaW5hLXRvLW1hcmst",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "China to Mark Zuckerberg's Meta: You cannot buy this company",
-          "summary": "China has blocked Meta's acquisition of AI startup Manus, citing national security concerns and potential technology leakage. This move follows reports of Beijing restricting American capital in its AI sector. The decision stems from Manus's \"general AI agent\" technology, developed in China but move",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/technology/tech-news/china-to-mark-zuckerbergs-meta-you-cannot-buy-this-company/articleshow/130549821.cms",
-          "published_at": "Mon, 27 Apr 2026 14:51:02 +0530",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtY2hpbmEtYmxv",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "China blocks Meta's acquisition of AI firm Manus, says state planner",
-          "summary": "China has blocked Meta’s acquisition of AI startup Manus, the country’s top economic planning body said",
-          "image_url": "https://th-i.thgim.com/public/incoming/qtctkl/article70911362.ece/alternates/LANDSCAPE_1200/2026-03-25T044844Z_672491229_RC28UFA1F01W_RTRMADP_3_MANUS-M-A-META-CHINA.JPG",
-          "article_url": "https://www.thehindu.com/sci-tech/technology/china-blocks-metas-acquisition-of-ai-firm-manus-says-state-planner/article70911356.ece",
-          "published_at": "Mon, 27 Apr 2026 14:37:04 +0530",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
         }
       ]
     }
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 14495,
+    "build_ms": 16680,
     "ai_enabled": true
   }
 }
