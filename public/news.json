@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-30T21:45:27.580Z",
-  "total_articles": 311,
-  "new_this_run": 36,
+  "last_updated": "2026-04-30T22:40:31.090Z",
+  "total_articles": 317,
+  "new_this_run": 42,
   "sources": [
     {
       "id": "techcrunch",
@@ -10,6 +10,23 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "dGVjaGNydW5jaC1hcHBsZS13",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Apple was surprised by AI-driven demand for Macs",
+          "summary": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
+          "published_at": "Thu, 30 Apr 2026 22:12:52 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "dGVjaGNydW5jaC1sZWdhbC1h",
           "source_id": "techcrunch",
           "source_name": "TechCrunch",
@@ -17,7 +34,7 @@
           "source_category": "Tech Media",
           "feed_label": "Latest",
           "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
-          "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf and now have dueling ad campaigns.",
+          "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
           "published_at": "Thu, 30 Apr 2026 20:14:47 +0000",
@@ -121,23 +138,6 @@
           "article_url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
           "published_at": "Thu, 30 Apr 2026 18:03:57 +0000",
           "cross_sections": [
-            "ai"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1mZGEtYXBw",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
-          "summary": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red tape.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
-          "published_at": "Thu, 30 Apr 2026 17:53:53 +0000",
-          "cross_sections": [
-            "tech",
             "ai"
           ]
         }
@@ -416,6 +416,68 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "YXJzdGVjaG5pY2EtcnVzc2lh",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Russia cloaks launch schedule after spaceport falls in Ukraine's sights",
+          "summary": "\"We had serious inbound attempts to the cosmodrome that day.\"",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/soyuz_plesetsk_pre1-1152x648.jpg",
+          "article_url": "https://arstechnica.com/space/2026/04/russian-cloaks-launch-schedule-after-spaceport-falls-in-ukraines-sights/",
+          "published_at": "Thu, 30 Apr 2026 21:35:02 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YXJzdGVjaG5pY2EtZWxvbi1t",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Elon Musk's 7 biggest stumbles on the stand at OpenAI trial",
+          "summary": "Elon Musk spent three days testifying as the first witness in his trial against OpenAI.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2273014098-1024x648.jpg",
+          "article_url": "https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/",
+          "published_at": "Thu, 30 Apr 2026 21:11:51 +0000",
+          "cross_sections": [
+            "ai"
+          ]
+        },
+        {
+          "id": "YXJzdGVjaG5pY2EtdGhlLW1v",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "The most severe Linux threat to surface in years catches the world flat-footed",
+          "summary": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg",
+          "article_url": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
+          "published_at": "Thu, 30 Apr 2026 20:20:48 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJzdGVjaG5pY2EtbWV0YS1j",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Meta cuts contractors who reported seeing Ray-Ban Meta users have sex",
+          "summary": "Meta said the Kenyan workers didn't \"meet our standards.\"",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/unnamed-874x648.jpg",
+          "article_url": "https://arstechnica.com/gadgets/2026/04/meta-cuts-contractors-who-reported-seeing-ray-ban-meta-users-have-sex/",
+          "published_at": "Thu, 30 Apr 2026 19:55:18 +0000",
+          "cross_sections": [
+            "jobcuts"
+          ]
+        },
+        {
           "id": "YXJzdGVjaG5pY2EtcmVzZWFy",
           "source_id": "arstechnica",
           "source_name": "Ars Technica",
@@ -474,67 +536,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtcmZrLWpy",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "RFK Jr. appeals ruling that wiped out his vaccine advisory panel",
-          "summary": "There was uncertainty about whether Kennedy would fight or simply try an end run.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2221878046-1152x648.jpg",
-          "article_url": "https://arstechnica.com/health/2026/04/rfk-jr-appeals-ruling-that-wiped-out-his-vaccine-advisory-panel/",
-          "published_at": "Thu, 30 Apr 2026 16:20:45 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtaW4tbW90",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "In motorsport, there's nowhere to hide as AI becomes new CFD tool",
-          "summary": "AI finds value in motorsport, multiplying limited computational fluid dynamics resources.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/LMP2-concept-car-rendering-for-IBM-AI-physics-model-01-credit-Dallara-1152x648.png",
-          "article_url": "https://arstechnica.com/cars/2026/04/in-motorsport-theres-nowhere-to-hide-as-ai-becomes-new-cfd-tool/",
-          "published_at": "Thu, 30 Apr 2026 15:37:41 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtbWljcm9z",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-          "summary": "Old 86-DOS source code dates back to the time before Microsoft bought it.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/86-DOS-artifact-and-IBM-PC-1152x648.jpg",
-          "article_url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-          "published_at": "Thu, 30 Apr 2026 14:20:29 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtbW9yZS10",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "More than half of all  Polymarket \"long shot\" bets on military action pay off",
-          "summary": "Sensitive information and the prediction markets can be a winning combination.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/polymarket-1152x648.jpg",
-          "article_url": "https://arstechnica.com/tech-policy/2026/04/more-than-half-of-all-long-shot-bets-on-polymarket-pay-off/",
-          "published_at": "Thu, 30 Apr 2026 13:16:04 +0000",
-          "cross_sections": []
         }
       ]
     },
@@ -544,6 +545,20 @@
       "region": "IT Focus",
       "category": "Tech Media",
       "articles": [
+        {
+          "id": "emRuZXQtdGhlLXBheXJvbGwt",
+          "source_id": "zdnet",
+          "source_name": "ZDNet",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "The payroll errors costing small businesses thousands, and how to avoid them",
+          "summary": "Three small business owners share how OnPay eliminates anxiety and prevents costly compliance mistakes.",
+          "image_url": null,
+          "article_url": "https://www.zdnet.com/article/the-payroll-errors-costing-small-businesses-thousands-and-how-to-avoid-them/",
+          "published_at": "Thu, 30 Apr 2026 22:23:00 GMT",
+          "cross_sections": []
+        },
         {
           "id": "emRuZXQtYW1hem9uLWNvbmZp",
           "source_id": "zdnet",
@@ -655,22 +670,6 @@
           "article_url": "https://www.zdnet.com/article/apple-watch-se-3-tmobile-deal/",
           "published_at": "Thu, 30 Apr 2026 15:01:12 GMT",
           "cross_sections": []
-        },
-        {
-          "id": "emRuZXQtaS1hc2tlZC1jaGF0",
-          "source_id": "zdnet",
-          "source_name": "ZDNet",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "I asked ChatGPT Images 2.0 to redesign my app UIs - and wow",
-          "summary": "ChatGPT analyzed two of my apps, flagged issues, and generated new mockups. It's a game-changer.",
-          "image_url": null,
-          "article_url": "https://www.zdnet.com/article/i-asked-chatgpt-to-redesign-my-apps-wow-results/",
-          "published_at": "Thu, 30 Apr 2026 14:18:00 GMT",
-          "cross_sections": [
-            "ai"
-          ]
         }
       ]
     },
@@ -834,7 +833,7 @@
           "source_region": "IT Focus",
           "source_category": "Tech Media",
           "feed_label": "Latest",
-          "title": "One tool call to rule them all? New open source Python tool RunPod Flash eliminates containers for faster AI dev",
+          "title": "One tool call to rule them all? New open source Python tool Runpod Flash eliminates containers for faster AI dev",
           "summary": "Runpod, the high-performance cloud computing and GPU platform designed specifically for AI development, today launched a new open source, MIT licensed, enterprise-friendly Python programming tool called Runpod Flash — and it is poised to make creation, iteration and deployment of AI systems inside a",
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/MHYoJfMiFcReiUHztmcXO/cd5bfd956110f341d2e205f020a78097/ChatGPT_Image_Apr_30__2026__02_28_07_PM.png?w=300&q=30",
           "article_url": "https://venturebeat.com/infrastructure/one-tool-call-to-rule-them-all-new-open-source-python-tool-runpod-flash-eliminates-containers-for-faster-ai-dev",
@@ -937,6 +936,38 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "Y25iY3RlY2gtcmVkZGl0LXJl",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Reddit reports 69% jump in revenue, topping analyst estimates",
+          "summary": "Reddit reported first-quarter earnings and revenue that exceeded Wall Street expectations.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/04/30/reddit-rddt-q1-2026-earnings-report.html",
+          "published_at": "Thu, 30 Apr 2026 22:26:05 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iY3RlY2gtamltLWNyYW1l",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Jim Cramer says the market’s biggest winners all have one thing in common",
+          "summary": "CNBC's Jim Cramer said he only sees two sectors in the market these days — the data center stocks and everything else.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/04/30/jim-cramer-markets-biggest-winners.html",
+          "published_at": "Thu, 30 Apr 2026 22:16:50 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "Y25iY3RlY2gtYXBwbGUtcmV2",
           "source_id": "cnbctech",
           "source_name": "CNBC Technology",
@@ -947,7 +978,7 @@
           "summary": "Apple reported 17% revenue growth, topping estimates, even as iPhone sales came up short.",
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/04/30/apple-aapl-q2-2026-earnings-report.html",
-          "published_at": "Thu, 30 Apr 2026 21:42:49 GMT",
+          "published_at": "Thu, 30 Apr 2026 22:01:47 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -999,39 +1030,6 @@
           "published_at": "Thu, 30 Apr 2026 20:10:36 GMT",
           "cross_sections": [
             "tech"
-          ]
-        },
-        {
-          "id": "Y25iY3RlY2gtcmVkZGl0LXJl",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Reddit reports 69% jump in revenue, topping analyst estimates",
-          "summary": "Reddit reported first-quarter earnings and revenue that exceeded Wall Street expectations.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/04/30/reddit-rddt-q1-2026-earnings-report.html",
-          "published_at": "Thu, 30 Apr 2026 20:09:48 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iY3RlY2gtZ29vZ2xlLWNs",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Google cloud growth tops Microsoft and Amazon as all three beat estimates on AI demand",
-          "summary": "Amazon, Google and Microsoft all reported better-than-expected first-quarter cloud results, signaling an acceleration of AI demand",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/04/30/google-microsoft-and-amazon-all-report-cloud-beats-in-earnings.html",
-          "published_at": "Thu, 30 Apr 2026 20:00:59 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
           ]
         },
         {
@@ -1349,6 +1347,92 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "bnl0LWFmdGVyLXN1cHJlbWUt",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "After Supreme Court Decision, Louisiana Weighs Redrawing House Maps",
+          "summary": "The Louisiana secretary of state said the House primary election would be delayed after the court ruled the state’s congressional districts unconstitutional. The Senate primary will go forward on May 16.",
+          "image_url": "https://static01.nyt.com/images/2026/04/30/multimedia/30pol-louisiana-maps-jwvk/30pol-louisiana-maps-jwvk-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/04/30/us/politics/louisiana-suspend-primaries-supreme-court.html",
+          "published_at": "Thu, 30 Apr 2026 22:23:15 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LWhlZ3NldGgtc2F5cy1p",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Hegseth Says Iran Cease-Fire Stops Clock for Congressional Approval",
+          "summary": "The defense secretary testified on the eve of the 60-day mark of the war, a major statutory deadline for the president to withdraw forces or seek approval from Congress to continue the fight.",
+          "image_url": "https://static01.nyt.com/images/2026/04/30/multimedia/30DC-HEGSETH-cmbl/30DC-HEGSETH-cmbl-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/04/30/us/politics/hegseth-iran-cease-fire-congress.html",
+          "published_at": "Thu, 30 Apr 2026 22:18:25 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LXRydW1wLXBpY2tzLW5p",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Trump Picks Nicole Saphier for Surgeon General After Withdrawing Casey Means Nomination",
+          "summary": "Dr. Means’s nomination had stalled in part over her views on vaccines. The president said he was instead nominating Dr. Nicole B. Saphier, a radiologist at Memorial Sloan Kettering Cancer Center.",
+          "image_url": "https://static01.nyt.com/images/2026/04/30/multimedia/30DC-MEANS-kfph/30DC-MEANS-kfph-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/04/30/us/politics/casey-means-surgeon-general-withdraw.html",
+          "published_at": "Thu, 30 Apr 2026 22:15:31 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LXNlbmF0ZS1iYW5zLXBy",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Senate Bans Prediction Markets for Its Members and Staff",
+          "summary": "Senators voted unanimously to prohibit betting practices in the chamber after some users made hundreds of thousands of dollars online by accurately predicting U.S. military actions.",
+          "image_url": "https://static01.nyt.com/images/2026/04/30/multimedia/30dc-cong-betting-qtcv/30dc-cong-betting-qtcv-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/04/30/us/politics/senate-prediction-markets-ban.html",
+          "published_at": "Thu, 30 Apr 2026 22:13:12 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LXRoZS1ob21lbGFuZC1z",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "The Homeland Security Shutdown Ends",
+          "summary": "Also, Maine’s governor bows out of a crucial Senate race. Here’s the latest at the end of Thursday.",
+          "image_url": "https://static01.nyt.com/images/2026/04/30/multimedia/30evening-nl-dhs-shutdown-ljfz/30evening-nl-dhs-shutdown-ljfz-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/04/30/briefing/homeland-security-shutdown-ends.html",
+          "published_at": "Thu, 30 Apr 2026 22:11:36 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LWVsb24tbXVzaxKAmXMt",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Elon Musk’s A.I. Claims of Danger Face Limits in OpenAI Trial",
+          "summary": "One of Elon Musk’s abiding fears is that A.I. could one day threaten humans. But the jurors deciding his suit against OpenAI probably won’t hear about it.",
+          "image_url": "https://static01.nyt.com/images/2026/04/30/multimedia/30biz-ai-trial-ledeall-musk-gbtv/30biz-ai-trial-ledeall-musk-gbtv-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/04/30/technology/openai-trial-elon-musk-existential.html",
+          "published_at": "Thu, 30 Apr 2026 22:01:44 +0000",
+          "cross_sections": [
+            "ai"
+          ]
+        },
+        {
           "id": "bnl0LWFwcGxlLXJlcG9ydHMt",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1363,20 +1447,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "bnl0LWFmdGVyLXN1cHJlbWUt",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "After Supreme Court Decision, Louisiana Weighs Redrawing House Maps",
-          "summary": "The Louisiana secretary of state said the House primary election would be delayed after the court ruled the state’s congressional districts unconstitutional. The Senate primary will go forward on May 16.",
-          "image_url": "https://static01.nyt.com/images/2026/04/30/multimedia/30pol-louisiana-maps-jwvk/30pol-louisiana-maps-jwvk-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/04/30/us/politics/louisiana-suspend-primaries-supreme-court.html",
-          "published_at": "Thu, 30 Apr 2026 20:38:13 +0000",
-          "cross_sections": []
         },
         {
           "id": "bnl0LXN1cHJlbWUtY291cnQt",
@@ -1423,20 +1493,6 @@
           ]
         },
         {
-          "id": "bnl0LWhlZ3NldGgtc2F5cy1p",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Hegseth Says Iran Cease-Fire Stops Clock for Congressional Approval",
-          "summary": "The defense secretary testified on the eve of the 60-day mark of the war, a major statutory deadline for the president to withdraw forces or seek approval from Congress to continue the fight.",
-          "image_url": "https://static01.nyt.com/images/2026/04/30/multimedia/30DC-HEGSETH-cmbl/30DC-HEGSETH-cmbl-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/04/30/us/politics/hegseth-iran-cease-fire-congress.html",
-          "published_at": "Thu, 30 Apr 2026 19:14:40 +0000",
-          "cross_sections": []
-        },
-        {
           "id": "bnl0LWlyYW5pYW5zLWxpdmUt",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1476,36 +1532,6 @@
           "image_url": "https://static01.nyt.com/images/2026/05/01/multimedia/01europe-attacks-01-vwjg/01europe-attacks-01-vwjg-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/04/30/world/europe/european-antisemitism-hybrid-warfare.html",
           "published_at": "Thu, 30 Apr 2026 18:27:59 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "bnl0LWVsb24tbXVzaxKAmXMt",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "Elon Musk’s A.I. Claims of Danger Face Limits in OpenAI Trial",
-          "summary": "One of Elon Musk’s abiding fears is that A.I. could one day threaten humans. But the jurors deciding his suit against OpenAI probably won’t hear about it.",
-          "image_url": "https://static01.nyt.com/images/2026/04/30/multimedia/30biz-ai-trial-ledeall-musk-gbtv/30biz-ai-trial-ledeall-musk-gbtv-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/04/30/technology/openai-trial-elon-musk-existential.html",
-          "published_at": "Thu, 30 Apr 2026 18:08:01 +0000",
-          "cross_sections": [
-            "ai"
-          ]
-        },
-        {
-          "id": "bnl0LXRydW1wLXBpY2tzLW5p",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Trump Picks Nicole Saphier for Surgeon General After Withdrawing Casey Means Nomination",
-          "summary": "Dr. Means’s nomination had stalled in part over her views on vaccines. The president said he was instead nominating Dr. Nicole B. Saphier, a radiologist at Memorial Sloan Kettering Cancer Center.",
-          "image_url": "https://static01.nyt.com/images/2026/04/30/multimedia/30DC-MEANS-kfph/30DC-MEANS-kfph-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/04/30/us/politics/casey-means-surgeon-general-withdraw.html",
-          "published_at": "Thu, 30 Apr 2026 18:01:54 +0000",
           "cross_sections": []
         },
         {
@@ -1565,20 +1591,6 @@
           "cross_sections": []
         },
         {
-          "id": "bnl0LWhvdy10cnVtcOKAmXMt",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "How Trump’s Iran Blockade Is Complicating a High-Stakes Trip to China",
-          "summary": "If President Trump flies to China as planned in May, the primary topic will clearly be the rippling economic effects of a war that Beijing has made clear it viewed as unnecessary.",
-          "image_url": "https://static01.nyt.com/images/2026/04/29/multimedia/29DC-PREXY-vmcf/29DC-PREXY-vmcf-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/04/30/us/politics/trump-china-iran.html",
-          "published_at": "Thu, 30 Apr 2026 16:23:27 +0000",
-          "cross_sections": []
-        },
-        {
           "id": "bnl0LWNyb3AtdW5kZXJjb3Vu",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1621,20 +1633,6 @@
           "cross_sections": [
             "ai"
           ]
-        },
-        {
-          "id": "bnl0LXRoZS12YWNjaW5lLXNr",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "The Vaccine Skeptic in Trump’s New C.D.C. Leadership Team",
-          "summary": "Dr. Sara Brenner is a physician, an F.D.A. official and a “MAHA mom” who has said people should not reflexively believe in the benefits of vaccines.",
-          "image_url": "https://static01.nyt.com/images/2026/04/24/multimedia/dc-brenner-vjhl/dc-brenner-vjhl-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/04/30/health/sara-brenner-cdc-kennedy.html",
-          "published_at": "Thu, 30 Apr 2026 14:29:39 +0000",
-          "cross_sections": []
         },
         {
           "id": "bnl0LXN0cnVnZ2xpbmctd2l0",
@@ -1713,7 +1711,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-04-30T21:45:13.639Z",
+          "published_at": "2026-04-30T22:40:16.344Z",
           "cross_sections": []
         },
         {
@@ -1727,7 +1725,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-04-30T21:45:13.639Z",
+          "published_at": "2026-04-30T22:40:16.344Z",
           "cross_sections": []
         },
         {
@@ -1741,7 +1739,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-04-30T21:45:13.639Z",
+          "published_at": "2026-04-30T22:40:16.344Z",
           "cross_sections": []
         },
         {
@@ -2053,6 +2051,36 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "Y25iYy1yZWRkaXQtcmVwb3J0",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Reddit reports 69% jump in revenue, topping analyst estimates",
+          "summary": "Reddit reported first-quarter earnings and revenue that exceeded Wall Street expectations.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/04/30/reddit-rddt-q1-2026-earnings-report.html",
+          "published_at": "Thu, 30 Apr 2026 22:26:05 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iYy10cnVtcC1zaWducy1l",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Trump signs executive order expanding retirement account access for workers",
+          "summary": "The president's executive order expands retirement account access for workers and will be integrated with the Saver's Match.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/04/30/trump-executive-order-expanding-retirement-account-access.html",
+          "published_at": "Thu, 30 Apr 2026 22:20:45 GMT",
+          "cross_sections": []
+        },
+        {
           "id": "Y25iYy1hcHBsZS1yZXZlbnVl",
           "source_id": "cnbc",
           "source_name": "CNBC",
@@ -2063,7 +2091,7 @@
           "summary": "Apple reported 17% revenue growth, topping estimates, even as iPhone sales came up short.",
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/04/30/apple-aapl-q2-2026-earnings-report.html",
-          "published_at": "Thu, 30 Apr 2026 21:42:49 GMT",
+          "published_at": "Thu, 30 Apr 2026 22:01:47 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -2099,20 +2127,6 @@
           "cross_sections": []
         },
         {
-          "id": "Y25iYy10cnVtcC1zaWducy1l",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Trump signs executive order expanding retirement account access for workers",
-          "summary": "The president's executive order expands retirement account access for workers and will be integrated with the Saver's Match.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/04/30/trump-executive-order-expanding-retirement-account-access.html",
-          "published_at": "Thu, 30 Apr 2026 20:35:42 GMT",
-          "cross_sections": []
-        },
-        {
           "id": "Y25iYy1pbnRlbCdzLXN0b2Nr",
           "source_id": "cnbc",
           "source_name": "CNBC",
@@ -2124,22 +2138,6 @@
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/04/30/intel-has-best-month-ever-after-years-of-losing-to-tsmc-and-nvidia.html",
           "published_at": "Thu, 30 Apr 2026 20:10:36 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy1yZWRkaXQtcmVwb3J0",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Reddit reports 69% jump in revenue, topping analyst estimates",
-          "summary": "Reddit reported first-quarter earnings and revenue that exceeded Wall Street expectations.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/04/30/reddit-rddt-q1-2026-earnings-report.html",
-          "published_at": "Thu, 30 Apr 2026 20:09:48 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -2547,6 +2545,64 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YmJjLWl0J3MtYS1taXJhY2xl",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "It's a miracle I survived, Golders Green victim tells BBC",
+          "summary": "Shloime Rand says he is thankful he survived after being stabbed during the attack in north London on Wednesday.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf9e/live/682a6480-44c9-11f1-8de1-593a7bb5acaa.png",
+          "article_url": "https://www.bbc.com/news/articles/cdxprzdjewjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 30 Apr 2026 22:35:41 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLWFwcGxlLWhhaWxzLSdl",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Technology",
+          "title": "Apple hails 'extraordinary' iPhone demand as boss Tim Cook heads out",
+          "summary": "Cook is preparing to bow out after 15 years at the helm and hand over to John Ternus.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df03/live/e08d62b0-44ce-11f1-ac78-2112837ce2aa.jpg",
+          "article_url": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 30 Apr 2026 22:22:11 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLWJyaXRuZXktc3BlYXJz",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Britney Spears charged in California with driving under influence",
+          "summary": "The pop star is facing one misdemeanour count of driving under the influence of any alcohol and drug.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d14/live/28616b10-44d2-11f1-8de1-593a7bb5acaa.jpg",
+          "article_url": "https://www.bbc.com/news/articles/clyp6r9dzedo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 30 Apr 2026 21:46:18 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLXRydW1wLXRvLXJlbW92",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Trump to remove whisky tariffs after King's visit",
+          "summary": "The US president said he would lift restrictions on Scotland's ability to work with the state of Kentucky on whisky and bourbon.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e655/live/847b17c0-44cd-11f1-8de1-593a7bb5acaa.jpg",
+          "article_url": "https://www.bbc.com/news/articles/cjrp3pew2d5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 30 Apr 2026 21:45:57 GMT",
+          "cross_sections": []
+        },
+        {
           "id": "YmJjLXVrLXRlcnJvcmlzbS10",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2561,47 +2617,17 @@
           "cross_sections": []
         },
         {
-          "id": "YmJjLWFwcGxlLWhhaWxzLSdl",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Technology",
-          "title": "Apple hails 'extraordinary' iPhone demand as boss Tim Cook heads out",
-          "summary": "Cook is preparing to bow out after 15 years at the helm and hand over to John Ternus.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df03/live/e08d62b0-44ce-11f1-ac78-2112837ce2aa.jpg",
-          "article_url": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 30 Apr 2026 21:17:07 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "YmJjLXVzLWhvdXNlLXZvdGVz",
           "source_id": "bbc",
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "World",
-          "title": "US House votes to end government shutdown over immigration operations",
+          "title": "US House votes to end record shutdown over immigration enforcement",
           "summary": "The vote provides funding for most Department of Homeland Security agencies, except for two subagencies responsible for immigration enforcement.",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7833/live/d58e74e0-44d2-11f1-8de1-593a7bb5acaa.jpg",
           "article_url": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
           "published_at": "Thu, 30 Apr 2026 20:53:36 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "YmJjLWJyaXRuZXktc3BlYXJz",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Britney Spears charged in California with driving under influence",
-          "summary": "The pop star's representatives have called the incident \"completely inexcusable\" and she has since checked herself into rehab.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d14/live/28616b10-44d2-11f1-8de1-593a7bb5acaa.jpg",
-          "article_url": "https://www.bbc.com/news/articles/clyp6r9dzedo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 30 Apr 2026 20:41:54 GMT",
           "cross_sections": []
         },
         {
@@ -2616,20 +2642,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef63/live/b4c1f7c0-4471-11f1-ac78-2112837ce2aa.jpg",
           "article_url": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss",
           "published_at": "Thu, 30 Apr 2026 20:34:26 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "YmJjLXRydW1wLXRvLXJlbW92",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Trump to remove whisky tariffs after King's visit",
-          "summary": "The US president said he would lift restrictions on Scotland's ability to work with the state of Kentucky on whisky and bourbon.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e655/live/847b17c0-44cd-11f1-8de1-593a7bb5acaa.jpg",
-          "article_url": "https://www.bbc.com/news/articles/cjrp3pew2d5o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 30 Apr 2026 20:34:22 GMT",
           "cross_sections": []
         },
         {
@@ -2744,20 +2756,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97c0/live/1b3b5620-4497-11f1-bd52-e755d604ece4.jpg",
           "article_url": "https://www.bbc.com/news/articles/c5y9wlnwl85o?at_medium=RSS&at_campaign=rss",
           "published_at": "Thu, 30 Apr 2026 17:12:41 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "YmJjLWl0J3MtYS1taXJhY2xl",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "It's a miracle I survived, Golders Green victim tells BBC",
-          "summary": "Shloime Rand says he is thankful he survived after being stabbed during the attack in north London on Wednesday.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf9e/live/682a6480-44c9-11f1-8de1-593a7bb5acaa.png",
-          "article_url": "https://www.bbc.com/news/articles/cdxprzdjewjo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 30 Apr 2026 16:39:49 GMT",
           "cross_sections": []
         },
         {
@@ -2908,6 +2906,22 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "Z3VhcmRpYW4tYXBwbGUtc29h",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
+          "source_category": "Newspaper",
+          "feed_label": "Business",
+          "title": "Apple soars past Wall Street expectations as CEO Tim Cook prepares to step down",
+          "summary": "Company reported $111.2bn in revenue in first earnings report after announcement of Cook’s pending departure\nApple blew past Wall Street expectations in its first earnings report since it announced CEO Tim Cook would be stepping down.\nCook reported Apple’s “best March quarter ever” and “double-digit",
+          "image_url": "https://i.guim.co.uk/img/media/e30294d70ebb7850c343f2b00800c35e05f685d8/767_0_7587_6070/master/7587.jpg?width=140&quality=85&auto=format&fit=max&s=8a820d63d23098f144e28c2d6cd7e653",
+          "article_url": "https://www.theguardian.com/technology/2026/apr/30/apple-extraordinary-earnings-tim-cook-john-ternus",
+          "published_at": "Thu, 30 Apr 2026 21:38:34 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "Z3VhcmRpYW4tYnJhemls4oCZ",
           "source_id": "guardian",
           "source_name": "The Guardian",
@@ -2919,6 +2933,20 @@
           "image_url": "https://i.guim.co.uk/img/media/f4aece1bc91a97e54696afe612fbdadb4aadc801/460_0_3250_2600/master/3250.jpg?width=140&quality=85&auto=format&fit=max&s=8722ff215cdb14f7a66b48fad9967d52",
           "article_url": "https://www.theguardian.com/world/2026/apr/30/brazils-congress-approves-bill-reducing-prison-sentence-of-former-president-jair-bolsonaro",
           "published_at": "Thu, 30 Apr 2026 21:18:55 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "Z3VhcmRpYW4tdHJ1bXAtdG8t",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
+          "source_category": "Newspaper",
+          "feed_label": "Business",
+          "title": "Trump to lift tariffs on scotch whisky after king’s US visit",
+          "summary": "President says decision made ‘in honor of the king and queen’ as industry officials call deal ‘significant boost’\nIn a gesture of diplomatic friendliness after King Charles’s visit to the White House, Donald Trump said the US would be removing all tariffs on whisky imports.\n“In Honor of the King and",
+          "image_url": "https://i.guim.co.uk/img/media/1ffaf1a5b2ba09714e4eb554ab0d0b3c7ee27619/692_0_6872_5499/master/6872.jpg?width=140&quality=85&auto=format&fit=max&s=dd871363c0b6ee22769ab3dc981dac8e",
+          "article_url": "https://www.theguardian.com/us-news/2026/apr/30/trump-tariffs-whisky-imports",
+          "published_at": "Thu, 30 Apr 2026 20:04:53 GMT",
           "cross_sections": []
         },
         {
@@ -3148,20 +3176,6 @@
           ]
         },
         {
-          "id": "Z3VhcmRpYW4tZmNjLW9yZGVy",
-          "source_id": "guardian",
-          "source_name": "The Guardian",
-          "source_region": "Europe",
-          "source_category": "Newspaper",
-          "feed_label": "Business",
-          "title": "FCC orders review of ABC licenses after Jimmy Kimmel’s Melania Trump joke",
-          "summary": "Eight local broadcasting licenses under review after White House launched attack on late-night host over comment\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nThe US’s top media watchdog announced on Tuesday that it is accelerating the review of eight local broadcas",
-          "image_url": "https://i.guim.co.uk/img/media/b11cc9e1c44dd74e6aa8cf702969dd41f626d70d/375_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=8fd61dd33915b95440b7b950c2ed5e64",
-          "article_url": "https://www.theguardian.com/us-news/2026/apr/28/fcc-abc-jimmy-kimmel",
-          "published_at": "Tue, 28 Apr 2026 19:07:27 GMT",
-          "cross_sections": []
-        },
-        {
           "id": "Z3VhcmRpYW4tcnVzc2lhLWNs",
           "source_id": "guardian",
           "source_name": "The Guardian",
@@ -3187,20 +3201,6 @@
           "image_url": "https://i.guim.co.uk/img/media/c29d72483201cad9e7040f02ba9a4d19431186cc/372_0_861_689/master/861.jpg?width=140&quality=85&auto=format&fit=max&s=06c43652a093f18cf6058bf35e04a9c0",
           "article_url": "https://www.theguardian.com/world/2026/apr/28/fears-resurgence-somalia-piracy-three-vessels-hijacked-past-week",
           "published_at": "Tue, 28 Apr 2026 16:20:00 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "Z3VhcmRpYW4tdWFlLXF1aXRz",
-          "source_id": "guardian",
-          "source_name": "The Guardian",
-          "source_region": "Europe",
-          "source_category": "Newspaper",
-          "feed_label": "Business",
-          "title": "UAE quits Opec in win for Trump as oil cartel weakened",
-          "summary": "US president has accused organisation of ‘ripping off the rest of the world’ by inflating oil prices\nThe United Arab Emirates has quit the Opec oil cartel after 60 years of membership, in a heavy blow to the group and its de facto leader, Saudi Arabia, as global energy markets contend with the bigge",
-          "image_url": "https://i.guim.co.uk/img/media/3ce8265a9f46b7083880e7ce74b2155e33e80f27/915_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=9555f10d8508cda997b91c3171434d99",
-          "article_url": "https://www.theguardian.com/business/2026/apr/28/uae-quit-opec-oil-exporters-cartel-donald-trump",
-          "published_at": "Tue, 28 Apr 2026 16:06:37 GMT",
           "cross_sections": []
         },
         {
@@ -3277,6 +3277,34 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "ZXVyb25ld3MtbWFuLWFjY3Vz",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Man accused of trying to kill Trump at correspondents' gala agrees to remain jailed",
+          "summary": "Cole Tomas Allen was also charged on Monday with two additional firearms counts, including discharging a weapon during a crime of violence.",
+          "image_url": "https://images.euronews.com/articles/stories/09/74/26/32/696x392_cmsv2_e50d2156-2de0-52a5-b69a-d226ca07911e-9742632.jpg",
+          "article_url": "http://www.euronews.com/2026/04/30/man-accused-of-trying-to-kill-trump-at-correspondents-gala-agrees-to-remain-jailed",
+          "published_at": "Thu, 30 Apr 2026 18:24:14 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtbGF0ZXN0LW5l",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Latest news bulletin | April 30th, 2026 – Evening",
+          "summary": "Catch up with the most important stories from around Europe and beyond this April 30th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+          "image_url": "https://images.euronews.com/articles/stories/09/74/26/15/696x392_cmsv2_6e942445-74b3-57de-b416-a39520a225da-9742615.jpg",
+          "article_url": "http://www.euronews.com/video/2026/04/30/latest-news-bulletin-april-30th-2026-evening",
+          "published_at": "Thu, 30 Apr 2026 18:00:29 +0200",
+          "cross_sections": []
+        },
+        {
           "id": "ZXVyb25ld3MtZXhjbHVzaXZl",
           "source_id": "euronews",
           "source_name": "Euronews",
@@ -3291,6 +3319,62 @@
           "cross_sections": []
         },
         {
+          "id": "ZXVyb25ld3MtdGhvdXNhbmRz",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Thousands join Run for Autism race in Astana to support inclusion",
+          "summary": "Around 5,000 people took part in the Run for Autism charity race in Astana, supporting inclusion initiatives for children with autism and developmental disabilities.",
+          "image_url": "https://images.euronews.com/articles/stories/09/74/24/03/696x392_cmsv2_d96ede73-07d7-5fbb-bb47-d6cc8e36090c-9742403.jpg",
+          "article_url": "http://www.euronews.com/video/2026/04/30/thousands-join-run-for-autism-race-in-astana-to-support-inclusion",
+          "published_at": "Thu, 30 Apr 2026 16:12:07 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtdXMtc2Vla3Mt",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "US seeks 'maritime freedom' coalition to restart Strait of Hormuz shipping",
+          "summary": "Iran effectively closed the crucial waterway when the war broke out on 28 February. Normally one-fifth of the world's oil and liquefied natural gas transits the waterway. Its closure has sent energy prices skyrocketing around the world.",
+          "image_url": "https://images.euronews.com/articles/stories/09/74/23/37/696x392_cmsv2_988bd1aa-029a-586d-b595-32bafb49ed26-9742337.jpg",
+          "article_url": "http://www.euronews.com/2026/04/30/us-seeks-maritime-freedom-coalition-to-restart-strait-of-hormuz-shipping",
+          "published_at": "Thu, 30 Apr 2026 15:53:05 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtaXJhbmlhbi1m",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Iranian football chiefs turned away at Canada border over IRGC link",
+          "summary": "Iran's World Cup participation controversy has escalated with a diplomatic incident at Canada's borders involving Iranian football officials. Iran's group stage matches are scheduled in the US, and Tehran authorities have asked FIFA to move them to alternative venues. FIFA has refused.",
+          "image_url": "https://images.euronews.com/articles/stories/09/74/19/01/696x392_cmsv2_33c730b7-9a32-5323-8d87-ebe80c66658a-9741901.jpg",
+          "article_url": "http://www.euronews.com/2026/04/30/iranian-football-chiefs-turned-away-at-canada-border-over-irgc-link",
+          "published_at": "Thu, 30 Apr 2026 15:02:40 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtdHJ1bXAtdGln",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Trump tightens US naval blockade as Iranian rial collapses to record low",
+          "summary": "The latest drop follows a currency shock several months ago, when the rial fell from around 1.4 million to 1.6 million per US dollar in under a week, as the war moves turns into an economic clash to exhaust the Iranian regime' options.",
+          "image_url": "https://images.euronews.com/articles/stories/09/74/19/00/696x392_cmsv2_be973fd8-de27-57a0-ad40-19b238b03635-9741900.jpg",
+          "article_url": "http://www.euronews.com/2026/04/30/trump-tightens-us-naval-blockade-as-iranian-rial-collapses-to-record-low",
+          "published_at": "Thu, 30 Apr 2026 13:26:15 +0200",
+          "cross_sections": []
+        },
+        {
           "id": "ZXVyb25ld3MtYmFuay1vZi1l",
           "source_id": "euronews",
           "source_name": "Euronews",
@@ -3302,6 +3386,20 @@
           "image_url": "https://images.euronews.com/articles/stories/09/74/21/96/696x392_cmsv2_a5f8bd8f-598e-5620-a798-0b8fc94eb0fb-9742196.jpg",
           "article_url": "http://www.euronews.com/business/2026/04/30/bank-of-england-holds-rates-as-iran-war-sends-oil-prices-to-new-highs",
           "published_at": "Thu, 30 Apr 2026 13:21:07 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtZ2VybWFueeKA",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Germany’s canal village keeps 129-year mail-by-boat tradition alive",
+          "summary": "In Germany’s Spreewald, postal worker Andrea Bunar resumes delivering mail by barge, continuing a 129-year tradition in Lehde village.",
+          "image_url": "https://images.euronews.com/articles/stories/09/74/17/52/696x392_cmsv2_13ddab01-5c21-5a60-80d1-38fb4a216192-9741752.jpg",
+          "article_url": "http://www.euronews.com/video/2026/04/30/germanys-canal-village-keeps-129-year-mail-by-boat-tradition-alive",
+          "published_at": "Thu, 30 Apr 2026 11:00:56 +0200",
           "cross_sections": []
         },
         {
@@ -3589,31 +3687,59 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dG9pLXVrOi3igJhpc2xhbWlj",
+          "id": "dG9pLXRvLWZvaWwtd2VzdC1i",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "UK: ‘Islamic sect’ members arrested following allegations of sexual abuse and slavery",
-          "summary": "Over 500 officers stormed an \"Islamic sect\" in Crewe, arresting 10 members, including their spiritual leader, for serious crimes like rape, sexual assault, and human trafficking.  The raid targeted the Ahmadi Religion of Peace and Light headquarters.  Police are investigating allegations of forced m",
+          "title": "To foil West Bengal post-poll unrest, EC to retain 70,000 CAPF personnel",
+          "summary": "Ahead of West Bengal's vote counting, the Election Commission is deploying approximately 70,000 central forces to maintain order, especially in areas prone to post-poll violence. Control rooms will monitor counting day, May 4, for immediate action against any disturbances. Strict legal action awaits",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/world/uk/uk-islamic-sect-members-arrested-following-allegations-of-sexual-abuse-and-slavery/articleshow/130653867.cms",
-          "published_at": "Fri, 01 May 2026 02:45:19 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/india/to-foil-west-bengal-post-poll-unrest-election-commission-to-retain-70000-capf-personnel/articleshow/130657611.cms",
+          "published_at": "Fri, 01 May 2026 03:54:25 +0530",
           "cross_sections": []
         },
         {
-          "id": "dG9pLWdvYXQtaW4ta2FzaG1p",
+          "id": "dG9pLXdlc3QtYmVuZ2FsLWVs",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "GOAT in Kashmir: Swiss Saanen sparks milk rush, but wait is long",
-          "summary": "Srinagar's agricultural university has welcomed Swiss Saanen goats, sparking immense interest for their high milk yield with less feed. These docile animals, capable of producing five to six litres daily, are being studied for their adaptability to Kashmir's climate and potential for crossbreeding w",
+          "title": "West bengal elections: CM Mamata Banerjee claims bid to open EVMs, EC says boxes secure",
+          "summary": "Tensions flared at Kolkata's counting centres as Trinamool Congress alleged EVM tampering, citing CCTV footage. Election officials refuted claims, assuring three-tier security and authorized personnel. Chief Minister Mamata Banerjee urged a 24/7 vigil at strongrooms, while clashes erupted between TM",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/goat-in-kashmir-swiss-saanen-sparks-milk-rush-but-wait-is-long/articleshow/130653231.cms",
-          "published_at": "Fri, 01 May 2026 02:22:11 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/india/west-bengal-elections-cm-mamata-banerjee-claims-bid-to-open-evms-ec-says-boxes-secure/articleshow/130654310.cms",
+          "published_at": "Fri, 01 May 2026 03:49:09 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dG9pLXlvdS1jYW4ndC1mb3Jj",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "You can't force 15-year-old to become mom, Supreme Court tells AIIMS",
+          "summary": "'Parents' Word Will Be Final On 30-Week MTP'",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/you-cant-force-15-year-old-to-become-mom-supreme-court-tells-aiims/articleshow/130655064.cms",
+          "published_at": "Fri, 01 May 2026 03:19:35 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dG9pLXdlLWhhbHRlZC0nb3At",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "We halted 'Op Sindoor' on our own terms, prepared for long battle: Rajnath Singh",
+          "summary": "Defence minister Rajnath Singh asserted that India's 'Operation Sindoor' sent a strong global message, demonstrating a shift from mere diplomatic statements to powerful deterrence against terror. He identified Pakistan as the epicentre of international terrorism, emphasizing the need to address its ",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/we-halted-op-sindoor-on-our-own-terms-prepared-for-long-battle-rajnath-singh-says-sudarshan-air-defence-a-key-example-of-exemplary-ai-application/articleshow/130654058.cms",
+          "published_at": "Fri, 01 May 2026 02:58:24 +0530",
           "cross_sections": []
         },
         {
@@ -3631,17 +3757,17 @@
           "cross_sections": []
         },
         {
-          "id": "dG9pLXRydW1wLWxpZnRzLXdo",
+          "id": "dG9pLW1hZGh5YS1wcmFkZXNo",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Trump lifts whiskey tariffs: Scotland–Kentucky trade eased after royal couple's US visit",
-          "summary": "US President Donald Trump announced the removal of tariffs and restrictions on whiskey trade between Scotland and Kentucky. This decision, influenced by the recent visit of King Charles and Queen Camilla, aims to bolster long-standing trade ties, particularly concerning wooden barrel exchanges.",
+          "title": "Madhya Pradesh: 4 dead, 17 missing as cruise boat capsizes in Jabalpur's Bargi dam",
+          "summary": "A sudden storm capsized a cruise boat on Jabalpur's Bargi Dam reservoir, claiming four lives and leaving 17 missing.  The vessel, carrying 43 people, was caught in 60-70 kmph winds.  Rescue efforts are ongoing, with survivors alleging delayed life jacket distribution amid the chaos. An inquiry has b",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/business/international-business/trump-lifts-whiskey-tariffs-scotlandkentucky-trade-eased-after-king-charles-queen-camilla-us-visit/articleshow/130651676.cms",
-          "published_at": "Fri, 01 May 2026 01:39:18 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/city/bhopal/4-dead-17-missing-as-cruise-boat-capsizes-in-mp-dam/articleshow/130652018.cms",
+          "published_at": "Fri, 01 May 2026 01:39:35 +0530",
           "cross_sections": []
         },
         {
@@ -3659,20 +3785,6 @@
           "cross_sections": []
         },
         {
-          "id": "dG9pLWFzLXRydW1wLW51a2Vz",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "As Trump nukes science, is India's brain drain ready for 'brain regain'?",
-          "summary": "The US President's dismissal of the National Science Board and other scientific bodies has sparked concerns about the erosion of scientific norms. This move, alongside funding cuts and grant cancellations, is prompting foreign-origin scientists to consider leaving the US, with India actively recruit",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/world/us/as-trump-nukes-science-is-indias-brain-drain-ready-for-brain-regain/articleshow/130641252.cms",
-          "published_at": "Thu, 30 Apr 2026 21:50:03 +0530",
-          "cross_sections": []
-        },
-        {
           "id": "dG9pLWtwbWctdG8tbGF5LW9m",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3686,22 +3798,6 @@
           "published_at": "Thu, 30 Apr 2026 18:14:00 +0530",
           "cross_sections": [
             "jobcuts"
-          ]
-        },
-        {
-          "id": "dG9pLWp1c3RpY2UtZGVwdC1z",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Justice dept sues $5B tech firm for excluding Americans from applying to high-paying jobs",
-          "summary": "The US Department of Justice is suing tech firm Cloudera for allegedly discriminating against American job seekers. Prosecutors claim the company created a sham hiring process, favoring temporary visa holders for lucrative roles and actively deterring US workers. This lawsuit highlights the DOJ's co",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/technology/tech-news/department-of-justice-sues-5-billion-technology-company-for-excluding-americans-from-applying-to-high-paying-technology-jobs/articleshow/130602207.cms",
-          "published_at": "Wed, 29 Apr 2026 14:50:09 +0530",
-          "cross_sections": [
-            "tech"
           ]
         },
         {
@@ -3949,117 +4045,115 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dGhlaGluZHUtc3VwcmVtZS1j",
+          "id": "dGhlaGluZHUtbWFtYXRhLXZp",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Supreme Court asks petitioner to turn in first-generation copy of leaked Manipur audio to forensic lab",
-          "summary": "The forensic reports have so far returned inconclusive about the authenticity of the tapes",
-          "image_url": "https://th-i.thgim.com/public/incoming/6sit4z/article70923974.ece/alternates/LANDSCAPE_1200/SBI-moves-SupreG8RFSOCE9.4.jpg.jpg",
-          "article_url": "https://www.thehindu.com/news/national/manipur/supreme-court-asks-petitioner-to-turn-in-first-gen-copy-of-leaked-audio-to-forensic-lab/article70923991.ece",
-          "published_at": "Fri, 01 May 2026 03:06:07 +0530",
+          "title": "Mamata visits Bhabanipur EVM strong room, warns against counting irregularities",
+          "summary": "Ms. Banerjee, who emerged around 12:07 a.m. after spending nearly four hours at the counting centre for her Bhabanipur constituency housed in Sakhawat Memorial School in south Kolkata, said only one person would be allowed inside the designated counting area",
+          "image_url": "https://th-i.thgim.com/public/incoming/senudn/article70926489.ece/alternates/LANDSCAPE_1200/Screenshot%202026-05-01%20034226.png",
+          "article_url": "https://www.thehindu.com/elections/west-bengal-assembly/trinamool-stages-sit-in-outside-evm-strongroom-in-kolkata-alleging-irregularities/article70925902.ece",
+          "published_at": "Fri, 01 May 2026 04:02:25 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUtZXgtZW5nbGFu",
+          "id": "dGhlaGluZHUtZm9yZWlnbi1p",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Ex-England defender Ashley Young announces retirement from football",
-          "summary": "Young won league titles in England and Italy, as well as the FA Cup and Europa League. He was in England's squad at the 2018 World Cup",
-          "image_url": "https://th-i.thgim.com/public/incoming/f2eslh/article70926471.ece/alternates/LANDSCAPE_1200/Britain_Soccer_Premier_League_42239.jpg",
-          "article_url": "https://www.thehindu.com/sport/football/ex-england-defender-ashley-young-announces-retirement-from-football/article70926337.ece",
-          "published_at": "Fri, 01 May 2026 03:02:00 +0530",
+          "title": "Foreign investors dump ₹60,847 cr. in April, devaluing rupee",
+          "summary": "This was the primary reason for the rupee depreciating further, touching a low of ₹95 a dollar before closing just short of that on Thursday",
+          "image_url": "https://th-i.thgim.com/public/incoming/j2gl14/article70926491.ece/alternates/LANDSCAPE_1200/05_Index_US_Dollar_29_04_Del.jpg",
+          "article_url": "https://www.thehindu.com/business/Economy/foreign-investors-dump-60847-cr-in-april-devaluing-rupee/article70925440.ece",
+          "published_at": "Fri, 01 May 2026 03:45:58 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUtaXRhbHktdG9s",
+          "id": "dGhlaGluZHUtZGlwYW0tZ2l2",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Italy told to avoid sharing of defence tech with Pakistan",
-          "summary": "Talks with Italian Defence Minister focus on exclusive technologies, India-Italy cooperation and security concerns",
-          "image_url": "https://th-i.thgim.com/public/incoming/tsid6i/article70925288.ece/alternates/LANDSCAPE_1200/20260430149L.jpg",
-          "article_url": "https://www.thehindu.com/news/national/rajnath-singh-asks-italy-to-avoid-defence-tech-sharing-with-pakistan/article70925141.ece",
-          "published_at": "Fri, 01 May 2026 03:01:43 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtaW5kaWEtaGFs",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "India halted Sindoor on its own terms: Rajnath",
-          "summary": "Defence Minister says Pakistan, an ‘epicentre of terrorism’, is emerging as the global hub of ‘international terrorism’; he says Indian forces have the surge capacity to scale up operations",
-          "image_url": "https://th-i.thgim.com/public/incoming/m9f608/article70925885.ece/alternates/LANDSCAPE_1200/20260430146L.jpg",
-          "article_url": "https://www.thehindu.com/news/national/pakistan-is-epicentre-of-terrorism-rajnath-singh/article70925384.ece",
-          "published_at": "Fri, 01 May 2026 03:00:29 +0530",
+          "title": "DIPAM gives nod for NLC’s arm listing; ₹4,000 crore  IPO in FY27",
+          "summary": "NIRL’s debut on the bourses is premised on further augmenting its current renewable energy capacity.",
+          "image_url": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-tamilnadu/mm4dn5/article69825853.ece/alternates/LANDSCAPE_1200/Centre-approvesGA8EL6FO9.4.jpg.jpg",
+          "article_url": "https://www.thehindu.com/business/Industry/dipam-gives-nod-for-nlcs-arm-listing-4000-crore-ipo-in-fy27/article70925445.ece",
+          "published_at": "Fri, 01 May 2026 03:32:38 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUteW91dGgtY29u",
+          "id": "dGhlaGluZHUtaW5kaWHigJlz",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Youth convicted in the 2024 rape and murder of minor girl in Puducherry",
-          "summary": "The Puducherry Fast Track Court is set to pronounce the sentencing on May 5, 2026",
-          "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/o5omw7/article70923952.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-30%20at%202.02.43%20PM.jpeg",
-          "article_url": "https://www.thehindu.com/news/cities/puducherry/2024-rape-murder-of-puducherry-minor-girl-accused-youth-convicted/article70923834.ece",
-          "published_at": "Fri, 01 May 2026 02:58:56 +0530",
+          "title": "India’s first green methanol plant to turn Kutch’s most invasive weed into marine fuel",
+          "summary": "Prosopis juliflora, which has for decades threatened biodiversity in Kutch’s Banni grasslands, will be turned into methanol; the global shipping industry is being obliged to adopt green fuels under International Maritime Organization rules",
+          "image_url": "https://th-i.thgim.com/public/incoming/qg5w1f/article70926485.ece/alternates/LANDSCAPE_1200/IMG_9871_9_10_2022_18_33_2_1_A0ACF8S7.jpg",
+          "article_url": "https://www.thehindu.com/news/national/indias-first-green-methanol-plant-to-turn-kutch-weed-into-marine-fuel/article70925310.ece",
+          "published_at": "Fri, 01 May 2026 03:24:53 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUtcmV2ZW51ZS1k",
+          "id": "dGhlaGluZHUtaXNyYWVsLWly",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Revenue-deficit States may face fiscal stress, says Centre",
-          "summary": "A new analysis by the Ministry of Finance said that such States would either cut productive spending or turn to the Centre for more funds",
-          "image_url": "https://th-i.thgim.com/public/incoming/bxabr2/article70923823.ece/alternates/LANDSCAPE_1200/iStock-618516848.jpg",
-          "article_url": "https://www.thehindu.com/business/Economy/states-with-revenue-deficits-high-debt-burdens-will-find-current-crisis-more-challenging-centre-warns/article70923788.ece",
-          "published_at": "Fri, 01 May 2026 02:56:16 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtaGFyeWFuYS1k",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Haryana dominate women's wrestling, freestyle; Services top in Greco-Roman",
-          "summary": "Haryana secured the Women’s Wrestling title with 215 points and added the Freestyle crown with 205 points",
+          "title": "Israel-Iran war LIVE: Israel may have to 'act again' against Iran, Defence Minister Katz says",
+          "summary": "Pakistan said that it was actively engaged with the U.S. and Iran to end the war in West Asia",
           "image_url": null,
-          "article_url": "https://www.thehindu.com/sport/other-sports/haryana-dominate-womens-wrestling-freestyle-services-top-in-greco-roman/article70926335.ece",
-          "published_at": "Fri, 01 May 2026 02:54:24 +0530",
+          "article_url": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-april-30-2026/article70923050.ece",
+          "published_at": "Fri, 01 May 2026 03:21:59 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUtb24tbWF5LWRh",
+          "id": "dGhlaGluZHUtaWhjbC1zaWdu",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "On May Day, a workforce in India without a floor",
-          "summary": "From Noida’s streets to furnace rooms in Chhattisgarh, India’s new labour regime delivers for employers — and for workers, what it long warned of",
-          "image_url": "https://th-i.thgim.com/public/incoming/cgergf/article70925857.ece/alternates/LANDSCAPE_1200/PTI04_13_2026_000039A.jpg",
-          "article_url": "https://www.thehindu.com/opinion/lead/on-may-day-a-workforce-in-india-without-a-floor/article70925854.ece",
-          "published_at": "Fri, 01 May 2026 02:50:13 +0530",
+          "title": "IHCL signs to expand amã Stays & Trails homestay offering to Andaman & Nicobar",
+          "summary": "amã Stays & Trails, Port Blair will offer the bungalows set amidst lush green surroundings, within walking distance from Manjery beach",
+          "image_url": "https://th-i.thgim.com/public/incoming/5zp44w/article70926483.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-01%20at%201.42.06%20AM.jpeg",
+          "article_url": "https://www.thehindu.com/business/Industry/ihcl-signs-to-expand-amastays-trails-homestay-offering-to-andaman-nicobar/article70926296.ece",
+          "published_at": "Fri, 01 May 2026 03:21:26 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtbGlmdC1hYm9y",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Lift abortion time limit for minor rape survivors: Supreme Court",
+          "summary": "Says State and doctors cannot make such decisions for minor rape survivors; CJI calls for penal law amendment to ensure trials in such cases completed within a week, accused’s property transferred to victim",
+          "image_url": "https://th-i.thgim.com/public/incoming/31a8k/article70923840.ece/alternates/LANDSCAPE_1200/SBI-moves-SupreG8RFSOCE9.4.jpg.jpg",
+          "article_url": "https://www.thehindu.com/news/national/minors-pregnancy-amend-law-on-pregnancy-termination-of-rape-survivors-says-supreme-court/article70923828.ece",
+          "published_at": "Fri, 01 May 2026 03:17:38 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUt4oCYc3lzdGVt",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "‘Systemic failures’ made tribal man take his sister’s skeletal remains to bank, finds probe in Odisha",
+          "summary": "Revenue Divisional Commissioner, who is heading a State government probe, said there was delay in issuing death certificate to the deceased’s family",
+          "image_url": "https://th-i.thgim.com/public/incoming/3p3hii/article70917678.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-28%20at%2018.07.28.jpeg",
+          "article_url": "https://www.thehindu.com/news/national/odisha/systemic-failures-made-tribal-man-take-his-sisters-skeletal-remains-to-bank-finds-probe-in-odisha/article70924656.ece",
+          "published_at": "Fri, 01 May 2026 03:14:33 +0530",
           "cross_sections": []
         },
         {
@@ -4513,17 +4607,59 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YWxqYXplZXJhLWFyc2VuYWwt",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Arsenal vs Fulham: Premier League – teams, start, lineups, title race",
+          "summary": "Arsenal will move six points clear of EPL title rivals Man City, who will have two games in hand, if they beat Fulham.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/sports/2026/4/30/arsenal-vs-fulham-premier-league-teams-start-lineups-title-race?traffic_source=rss",
+          "published_at": "Thu, 30 Apr 2026 21:53:40 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "YWxqYXplZXJhLXBhbGVzdGlu",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
           "source_region": "Middle East & Africa",
           "source_category": "Broadcaster",
           "feed_label": "All News",
-          "title": "Palestinians mourn football loving teenager killed by Israeli army",
-          "summary": "Mourners in Hebron laid to rest 16-year-old Ibrahim al-Khayatt who was shot in the chest by Israeli soldiers.",
+          "title": "Palestine FA chief hits out at Israel federation VP at FIFA Congress",
+          "summary": "Palestine and Israel representatives had been lined up close together at the FIFA Congress in Canada.",
           "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/palestinians-mourn-football-loving-teenager-killed-by-israeli-army?traffic_source=rss",
-          "published_at": "Thu, 30 Apr 2026 21:24:23 +0000",
+          "article_url": "https://www.aljazeera.com/sports/2026/4/30/palestine-fa-chief-hits-out-at-israel-federation-vp-at-fifa-congress?traffic_source=rss",
+          "published_at": "Thu, 30 Apr 2026 21:53:27 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLWZpcnN0LXVz",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "First US-Venezuela flight lands in Caracas after seven-year suspension",
+          "summary": "American Airlines has resumed flights as Donald Trump moves to rebuild ties following the abduction of Nicolas Maduro.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/economy/2026/4/30/first-us-venezuela-flight-lands-in-caracas-after-seven-year-suspension?traffic_source=rss",
+          "published_at": "Thu, 30 Apr 2026 21:34:25 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLXVzLWdhcy1y",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "US gas reaches $4.30 per gallon; Trump says prices will drop after Iran war",
+          "summary": "Price of petrol in US jumps by nearly 30 cents in one week amid Strait of Hormuz blockade and Iran diplomatic deadlock.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/4/30/us-gas-reaches-4-30-per-gallon-trump-says-prices-will-drop-after-iran-war?traffic_source=rss",
+          "published_at": "Thu, 30 Apr 2026 21:31:00 +0000",
           "cross_sections": []
         },
         {
@@ -4553,62 +4689,6 @@
           "article_url": "https://www.aljazeera.com/news/2026/4/30/hegseth-testifies-on-iran-war-before-senate-committee-key-takeaways?traffic_source=rss",
           "published_at": "Thu, 30 Apr 2026 21:09:21 +0000",
           "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLWZsb3RpbGxh",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Flotilla activist: Israel’s ‘brutal attack’ will not deter us",
-          "summary": "Activist Omer Aslan says Israel’s interception of 22 boats late Wednesday will not stop the Global Sumud Flotilla.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/flotilla-activist-israels-brutal-attack-will-not-deter-us?traffic_source=rss",
-          "published_at": "Thu, 30 Apr 2026 21:05:11 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLWhvdy1pcy1p",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "How is Israel replicating its Gaza tactics in Lebanon?",
-          "summary": "Widespread Israeli attacks on civilian targets in Lebanon are a repeated tactic from Gaza.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/inside-story/2026/4/30/how-is-israel-replicating-its-gaza-tactics-in-lebanon?traffic_source=rss",
-          "published_at": "Thu, 30 Apr 2026 20:49:18 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXRydW1wcy1z",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Trumps says Iran can play at World Cup in US after FIFA confirmation",
-          "summary": "FIFA chief Gianni Infantino has said Iran will play their World Cup matches, leading to agreement from US President.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/sports/2026/4/30/trumps-says-iran-can-play-at-world-cup-in-us-after-fifa-confirmation?traffic_source=rss",
-          "published_at": "Thu, 30 Apr 2026 20:48:59 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXVzLXZlbmV6",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "US-Venezuela direct flights resume after seven-year suspension",
-          "summary": "The first direct US-Venezuela commercial flight in seven years departed Miami for Caracas on Thursday.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/us-venezuela-direct-flights-resume-after-seven-year-suspension?traffic_source=rss",
-          "published_at": "Thu, 30 Apr 2026 20:35:04 +0000",
-          "cross_sections": []
         }
       ]
     },
@@ -4619,115 +4699,117 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "YXJhYm5ld3MtZGVhZGxpZXN0",
+          "id": "YXJhYm5ld3MtZWwtc2lzaS1z",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Deadliest year ever for Red Sea migrants with 922 deaths: UN",
-          "summary": "ADDIS ABABA: The number of migrants who died on the “Eastern Route” from the Horn of Africa to the Arabian Peninsula doubled to a record high of 922 last year, the UN migration agency said Wednesday.\n\tTens of thousands of migrants from Ethiopia, Somalia and neighboring countries take the route acros",
+          "title": "El-Sisi says Egypt in ‘state of near-emergency’ as war threatens economy",
+          "summary": "CAIRO: Egyptian President Abdel Fattah El-Sisi said Thursday his country was in an economic “state of near-emergency” as a result of the Middle East war, warning of runaway inflation.\n\tThe Arab world’s most populous nation has not been physically impacted by the US and Israeli war with Iran, which h",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2637597/world",
-          "published_at": "Wed, 25 Mar 2026 12:03:39 +03",
+          "article_url": "https://www.arabnews.com/node/2635410/middle-east",
+          "published_at": "Thu, 05 Mar 2026 11:03:29 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3Mtcm9oaW5neWEt",
+          "id": "YXJhYm5ld3MtaG93LWlzcmFl",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Rohingya refugees in Bangladesh worry ahead of food aid cuts",
-          "summary": "DHAKA: Rohingya refugees in Bangladesh expressed concern on Wednesday as the cash-strapped UN World Food Programme (WFP) prepares to cut aid for large portions of the 1.2 million-strong group.\n\tBangladesh’s vast refugee camps shelter Rohingya who fled persecution in neighboring war-torn Myanmar, wit",
+          "title": "How Israel’s ‘buffer zone’ plan could redraw the map of southern Lebanon",
+          "summary": "BEIRUT: Lebanon faces what officials described as “one of the most dangerous moments in recent memory” after Hezbollah launched attacks on Israeli forces from areas both south and north of the Litani River, triggering a renewed Israeli air and ground campaign.\n\n\tAnnouncing its ground incursion into ",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2637600/world",
-          "published_at": "Wed, 25 Mar 2026 12:03:32 +03",
+          "article_url": "https://www.arabnews.com/node/2635409/middle-east",
+          "published_at": "Thu, 05 Mar 2026 10:03:55 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtZWd5cHQtdGFy",
+          "id": "YXJhYm5ld3MtaXNyYWVsLWRl",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Egypt targeting 5.4% GDP growth in 2026/27 budget",
-          "summary": "RIYADH: Egypt is targeting gross domestic product growth of 5.4 percent, inflation stabilization, and a primary surplus of 1.2 trillion Egyptian pounds ($22.7 billion) during the 2026/27 fiscal year, a top official revealed.",
+          "title": "Israel decided to kill Khamenei in November, defense minister says",
+          "summary": "JERUSALEM: Israel took the decision to kill Iran’s Supreme Leader Ali Khamenei in November and was planning to carry out the operation around six months later, Defense Minister Israel Katz said on Thursday.\n\tKhamenei was killed in the first hours of the US-Israeli air campaign that began on Saturday",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2637598/business-economy",
-          "published_at": "Wed, 25 Mar 2026 12:03:29 +03",
+          "article_url": "https://www.arabnews.com/node/2635406/middle-east",
+          "published_at": "Thu, 05 Mar 2026 10:03:51 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtcGlm4oCZcy1m",
+          "id": "YXJhYm5ld3MtbWFjcm9uLWNh",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "PIF’s Folk Maritime redirects its routes to Red Sea to keep pace with shipping shifts",
-          "summary": "RIYADH: Amid the rapid shifts in regional maritime transport and the increasing rerouting of shipping away from the Arabian Gulf, Red Sea ports, particularly Jeddah Port, are emerging as key hubs for accommodating container traffic and enhancing the stability of supply chains in the region.",
+          "title": "Macron calls on Israel, Iran and Hezbollah to prevent Lebanon being embroiled in conflict",
+          "summary": "LONDON: Emmanuel Macron on Thursday called on Israel and Iran not to embroil Lebanon in the conflict sweeping the Middle East.\n\n\tThe French president made his plea as panic swept through Beirut after Israel ordered residents to evacuate the southern suburbs of the Lebanese capital and three villages",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2637602/business-economy",
-          "published_at": "Wed, 25 Mar 2026 12:03:18 +03",
+          "article_url": "https://www.arabnews.com/node/2635405/middle-east",
+          "published_at": "Thu, 05 Mar 2026 10:03:44 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtZW1lYS1wb3J0",
+          "id": "YXJhYm5ld3MtdHJ1bXAtZmly",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "EMEA ports have rating headroom to weather Hormuz closure: Fitch",
-          "summary": "RIYADH: Ports across Europe, the Middle East and Africa are broadly well-positioned to absorb the economic shock of a prolonged Iran conflict and a potential closure of the Strait of Hormuz, with most maintaining sufficient rating headroom, Fitch Ratings said.\n\n\tDespite the war significantly disrupt",
+          "title": "Trump fires homeland security chief Kristi Noem",
+          "summary": "WASHINGTON: US President Donald Trump on Thursday fired Kristi Noem as head of the Department of Homeland Security, the agency responsible for carrying out his sweeping immigration crackdown.\n\tAccording to multiple media reports, Trump was upset with Noem’s testimony at a Senate hearing this week wh",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2637608/business-economy",
-          "published_at": "Wed, 25 Mar 2026 02:03:15 +03",
+          "article_url": "https://www.arabnews.com/node/2635407/world",
+          "published_at": "Thu, 05 Mar 2026 10:03:32 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtZWd5cHTigJlz",
+          "id": "YXJhYm5ld3Mtam9yZGFu4oCZ",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Egypt’s Waterway plans to launch a real estate fund exceeding $190m",
-          "summary": "LONDON: Egypt’s The Waterway Developments plans to establish a real estate investment fund worth 10 billion Egyptian pounds ($190.2 million) in the first half of this year to help finance its project spending, CEO Hossam Hassan told Asharq.\n\n\tThe planned fund will be backed by income-generating real",
+          "title": "Jordan’s king condemns Iranian attacks in region during talks with Syrian president",
+          "summary": "LONDON: King Abdullah of Jordan and President Ahmad Al-Sharaa of Syria discussed on Thursday the dangerous developments in the region this week following the US and Israeli attacks against Iran that began on Saturday.\n\n\tDuring their telephone conversation, both leaders emphasized the need for dialog",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2637603/business-economy",
-          "published_at": "Wed, 25 Mar 2026 01:03:51 +03",
+          "article_url": "https://www.arabnews.com/node/2635404/middle-east",
+          "published_at": "Thu, 05 Mar 2026 10:03:26 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtcnVzc2lhLXNh",
+          "id": "YXJhYm5ld3MtZXVyb3BvbC13",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Russia says it shot down almost 400 Ukrainian drones as Moscow and Kyiv escalate aerial barrages",
-          "summary": "Russian air defenses downed 389 incoming Ukrainian drones, Russia’s Defense Ministry said Wednesday, in what was the largest reported overnight attack on Russian regions and Crimea since Moscow’s forces invaded Ukraine more than four years ago.\n\tThe drones were stopped over 13 Russian regions as wel",
+          "title": "Europol warns Iran crisis raises threat of terror, extremism and cyberattacks",
+          "summary": "MADRID: The Middle East conflict will have “immediate repercussions” for European Union security with an increased threat of terrorism, serious and organized crime as well as violent extremism and cyberattacks, European police body Europol told Spanish news agency EFE on Thursday.\n\tEuropol spokesman",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2637605/world",
-          "published_at": "Wed, 25 Mar 2026 01:03:45 +03",
-          "cross_sections": []
+          "article_url": "https://www.arabnews.com/node/2635408/world",
+          "published_at": "Thu, 05 Mar 2026 10:03:24 +03",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
-          "id": "YXJhYm5ld3MtZnVsbC1jYXJk",
+          "id": "YXJhYm5ld3Mta2FuZS10by1t",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Full card announced for PFL Chicago",
-          "summary": "NEW YORK: The Professional Fighters League has announced the full fight card for PFL Chicago at Wintrust Arena on Saturday, April 11.\n\n\tIn the main event, former Bellator bantamweight champion Sergio Pettis (25-7) meets undefeated rising contender Mitch McKee (10-0) in a pivotal 135-pound showdown. ",
+          "title": "Kane to miss Bayern game against Gladbach with calf knock",
+          "summary": "BERLIN: Harry Kane will miss Bayern Munich’s Bundesliga match against Borussia Moenchengladbach with a calf injury, coach Vincent Kompany said on Thursday.\n\tThe England striker, who has been an ever-present for Bayern this season, should be fit in time for the Champions League last-16 first leg at A",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2637604/sport",
-          "published_at": "Wed, 25 Mar 2026 01:03:37 +03",
+          "article_url": "https://www.arabnews.com/node/2635402/sport",
+          "published_at": "Thu, 05 Mar 2026 09:03:33 +03",
           "cross_sections": []
         }
       ]
@@ -4956,7 +5038,7 @@
         {
           "id": "euronews",
           "name": "Euronews",
-          "count": 8
+          "count": 15
         },
         {
           "id": "dw",
@@ -5000,7 +5082,7 @@
         {
           "id": "aljazeera",
           "name": "Al Jazeera",
-          "count": 7
+          "count": 6
         },
         {
           "id": "arabnews",
@@ -5022,6 +5104,87 @@
       "icon": "💻",
       "articles": [
         {
+          "id": "Y25iY3RlY2gtcmVkZGl0LXJl",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Reddit reports 69% jump in revenue, topping analyst estimates",
+          "summary": "Reddit reported first-quarter earnings and revenue that exceeded Wall Street expectations.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/04/30/reddit-rddt-q1-2026-earnings-report.html",
+          "published_at": "Thu, 30 Apr 2026 22:26:05 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iYy1yZWRkaXQtcmVwb3J0",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Reddit reports 69% jump in revenue, topping analyst estimates",
+          "summary": "Reddit reported first-quarter earnings and revenue that exceeded Wall Street expectations.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/04/30/reddit-rddt-q1-2026-earnings-report.html",
+          "published_at": "Thu, 30 Apr 2026 22:26:05 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLWFwcGxlLWhhaWxzLSdl",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Technology",
+          "title": "Apple hails 'extraordinary' iPhone demand as boss Tim Cook heads out",
+          "summary": "Cook is preparing to bow out after 15 years at the helm and hand over to John Ternus.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df03/live/e08d62b0-44ce-11f1-ac78-2112837ce2aa.jpg",
+          "article_url": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 30 Apr 2026 22:22:11 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iY3RlY2gtamltLWNyYW1l",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Jim Cramer says the market’s biggest winners all have one thing in common",
+          "summary": "CNBC's Jim Cramer said he only sees two sectors in the market these days — the data center stocks and everything else.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/04/30/jim-cramer-markets-biggest-winners.html",
+          "published_at": "Thu, 30 Apr 2026 22:16:50 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGVjaGNydW5jaC1hcHBsZS13",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Apple was surprised by AI-driven demand for Macs",
+          "summary": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
+          "published_at": "Thu, 30 Apr 2026 22:12:52 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "Y25iY3RlY2gtYXBwbGUtcmV2",
           "source_id": "cnbctech",
           "source_name": "CNBC Technology",
@@ -5032,7 +5195,7 @@
           "summary": "Apple reported 17% revenue growth, topping estimates, even as iPhone sales came up short.",
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/04/30/apple-aapl-q2-2026-earnings-report.html",
-          "published_at": "Thu, 30 Apr 2026 21:42:49 GMT",
+          "published_at": "Thu, 30 Apr 2026 22:01:47 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -5048,7 +5211,7 @@
           "summary": "Apple reported 17% revenue growth, topping estimates, even as iPhone sales came up short.",
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/04/30/apple-aapl-q2-2026-earnings-report.html",
-          "published_at": "Thu, 30 Apr 2026 21:42:49 GMT",
+          "published_at": "Thu, 30 Apr 2026 22:01:47 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -5070,17 +5233,17 @@
           ]
         },
         {
-          "id": "dGhlaGluZHUtaXRhbHktdG9s",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
+          "id": "Z3VhcmRpYW4tYXBwbGUtc29h",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
           "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Italy told to avoid sharing of defence tech with Pakistan",
-          "summary": "Talks with Italian Defence Minister focus on exclusive technologies, India-Italy cooperation and security concerns",
-          "image_url": "https://th-i.thgim.com/public/incoming/tsid6i/article70925288.ece/alternates/LANDSCAPE_1200/20260430149L.jpg",
-          "article_url": "https://www.thehindu.com/news/national/rajnath-singh-asks-italy-to-avoid-defence-tech-sharing-with-pakistan/article70925141.ece",
-          "published_at": "Fri, 01 May 2026 03:01:43 +0530",
+          "feed_label": "Business",
+          "title": "Apple soars past Wall Street expectations as CEO Tim Cook prepares to step down",
+          "summary": "Company reported $111.2bn in revenue in first earnings report after announcement of Cook’s pending departure\nApple blew past Wall Street expectations in its first earnings report since it announced CEO Tim Cook would be stepping down.\nCook reported Apple’s “best March quarter ever” and “double-digit",
+          "image_url": "https://i.guim.co.uk/img/media/e30294d70ebb7850c343f2b00800c35e05f685d8/767_0_7587_6070/master/7587.jpg?width=140&quality=85&auto=format&fit=max&s=8a820d63d23098f144e28c2d6cd7e653",
+          "article_url": "https://www.theguardian.com/technology/2026/apr/30/apple-extraordinary-earnings-tim-cook-john-ternus",
+          "published_at": "Thu, 30 Apr 2026 21:38:34 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -5097,22 +5260,6 @@
           "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24369732/STK146_Roblox_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
           "article_url": "https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau",
           "published_at": "2026-04-30T21:25:15.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YmJjLWFwcGxlLWhhaWxzLSdl",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Technology",
-          "title": "Apple hails 'extraordinary' iPhone demand as boss Tim Cook heads out",
-          "summary": "Cook is preparing to bow out after 15 years at the helm and hand over to John Ternus.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df03/live/e08d62b0-44ce-11f1-ac78-2112837ce2aa.jpg",
-          "article_url": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 30 Apr 2026 21:17:07 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -5264,6 +5411,22 @@
           ]
         },
         {
+          "id": "YXJzdGVjaG5pY2EtdGhlLW1v",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "The most severe Linux threat to surface in years catches the world flat-footed",
+          "summary": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg",
+          "article_url": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
+          "published_at": "Thu, 30 Apr 2026 20:20:48 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "emRuZXQtYW1hem9uLWNvbmZp",
           "source_id": "zdnet",
           "source_name": "ZDNet",
@@ -5287,7 +5450,7 @@
           "source_category": "Tech Media",
           "feed_label": "Latest",
           "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
-          "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf and now have dueling ad campaigns.",
+          "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
           "published_at": "Thu, 30 Apr 2026 20:14:47 +0000",
@@ -5361,38 +5524,6 @@
           ]
         },
         {
-          "id": "Y25iY3RlY2gtcmVkZGl0LXJl",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Reddit reports 69% jump in revenue, topping analyst estimates",
-          "summary": "Reddit reported first-quarter earnings and revenue that exceeded Wall Street expectations.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/04/30/reddit-rddt-q1-2026-earnings-report.html",
-          "published_at": "Thu, 30 Apr 2026 20:09:48 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy1yZWRkaXQtcmVwb3J0",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Reddit reports 69% jump in revenue, topping analyst estimates",
-          "summary": "Reddit reported first-quarter earnings and revenue that exceeded Wall Street expectations.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/04/30/reddit-rddt-q1-2026-earnings-report.html",
-          "published_at": "Thu, 30 Apr 2026 20:09:48 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "Y25ldC1iZXN0LWxpdmUtdHYt",
           "source_id": "cnet",
           "source_name": "CNET",
@@ -5454,23 +5585,6 @@
           "published_at": "Thu, 30 Apr 2026 20:02:02 +0000",
           "cross_sections": [
             "tech"
-          ]
-        },
-        {
-          "id": "Y25iY3RlY2gtZ29vZ2xlLWNs",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Google cloud growth tops Microsoft and Amazon as all three beat estimates on AI demand",
-          "summary": "Amazon, Google and Microsoft all reported better-than-expected first-quarter cloud results, signaling an acceleration of AI demand",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/04/30/google-microsoft-and-amazon-all-report-cloud-beats-in-earnings.html",
-          "published_at": "Thu, 30 Apr 2026 20:00:59 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
           ]
         },
         {
@@ -5637,40 +5751,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "dmVudHVyZWJlYXQtb25lLXRv",
-          "source_id": "venturebeat",
-          "source_name": "VentureBeat",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "One tool call to rule them all? New open source Python tool RunPod Flash eliminates containers for faster AI dev",
-          "summary": "Runpod, the high-performance cloud computing and GPU platform designed specifically for AI development, today launched a new open source, MIT licensed, enterprise-friendly Python programming tool called Runpod Flash — and it is poised to make creation, iteration and deployment of AI systems inside a",
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/MHYoJfMiFcReiUHztmcXO/cd5bfd956110f341d2e205f020a78097/ChatGPT_Image_Apr_30__2026__02_28_07_PM.png?w=300&q=30",
-          "article_url": "https://venturebeat.com/infrastructure/one-tool-call-to-rule-them-all-new-open-source-python-tool-runpod-flash-eliminates-containers-for-faster-ai-dev",
-          "published_at": "Thu, 30 Apr 2026 18:31:07 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "Y25iY3RlY2gtYWktYm9vbTot",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "AI boom: Big Tech capital expenditures now seen topping $1 trillion in 2027",
-          "summary": "The overall cost has been causing heads to spin, but analysts say they're seeing flowthrough from investments to revenue.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/04/30/ai-boom-big-tech-capital-expenditures-now-seen-topping-1-trillion-in-2027-.html",
-          "published_at": "Thu, 30 Apr 2026 18:26:43 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
         }
       ]
     },
@@ -5679,6 +5759,22 @@
       "name": "Global Job Cuts",
       "icon": "📉",
       "articles": [
+        {
+          "id": "YXJzdGVjaG5pY2EtbWV0YS1j",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Meta cuts contractors who reported seeing Ray-Ban Meta users have sex",
+          "summary": "Meta said the Kenyan workers didn't \"meet our standards.\"",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/unnamed-874x648.jpg",
+          "article_url": "https://arstechnica.com/gadgets/2026/04/meta-cuts-contractors-who-reported-seeing-ray-ban-meta-users-have-sex/",
+          "published_at": "Thu, 30 Apr 2026 19:55:18 +0000",
+          "cross_sections": [
+            "jobcuts"
+          ]
+        },
         {
           "id": "dG9pLWtwbWctdG8tbGF5LW9m",
           "source_id": "toi",
@@ -5719,6 +5815,55 @@
       "name": "LLM & AI",
       "icon": "🤖",
       "articles": [
+        {
+          "id": "dGVjaGNydW5jaC1hcHBsZS13",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Apple was surprised by AI-driven demand for Macs",
+          "summary": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
+          "published_at": "Thu, 30 Apr 2026 22:12:52 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "bnl0LWVsb24tbXVzaxKAmXMt",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Elon Musk’s A.I. Claims of Danger Face Limits in OpenAI Trial",
+          "summary": "One of Elon Musk’s abiding fears is that A.I. could one day threaten humans. But the jurors deciding his suit against OpenAI probably won’t hear about it.",
+          "image_url": "https://static01.nyt.com/images/2026/04/30/multimedia/30biz-ai-trial-ledeall-musk-gbtv/30biz-ai-trial-ledeall-musk-gbtv-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/04/30/technology/openai-trial-elon-musk-existential.html",
+          "published_at": "Thu, 30 Apr 2026 22:01:44 +0000",
+          "cross_sections": [
+            "ai"
+          ]
+        },
+        {
+          "id": "YXJzdGVjaG5pY2EtZWxvbi1t",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Elon Musk's 7 biggest stumbles on the stand at OpenAI trial",
+          "summary": "Elon Musk spent three days testifying as the first witness in his trial against OpenAI.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2273014098-1024x648.jpg",
+          "article_url": "https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/",
+          "published_at": "Thu, 30 Apr 2026 21:11:51 +0000",
+          "cross_sections": [
+            "ai"
+          ]
+        },
         {
           "id": "Y25iY3RlY2gtaW5zaWRlLXdl",
           "source_id": "cnbctech",
@@ -5777,27 +5922,10 @@
           "source_category": "Tech Media",
           "feed_label": "Latest",
           "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
-          "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf and now have dueling ad campaigns.",
+          "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
           "published_at": "Thu, 30 Apr 2026 20:14:47 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "Y25iY3RlY2gtZ29vZ2xlLWNs",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Google cloud growth tops Microsoft and Amazon as all three beat estimates on AI demand",
-          "summary": "Amazon, Google and Microsoft all reported better-than-expected first-quarter cloud results, signaling an acceleration of AI demand",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/04/30/google-microsoft-and-amazon-all-report-cloud-beats-in-earnings.html",
-          "published_at": "Thu, 30 Apr 2026 20:00:59 GMT",
           "cross_sections": [
             "tech",
             "ai"
@@ -5927,7 +6055,7 @@
           "source_region": "IT Focus",
           "source_category": "Tech Media",
           "feed_label": "Latest",
-          "title": "One tool call to rule them all? New open source Python tool RunPod Flash eliminates containers for faster AI dev",
+          "title": "One tool call to rule them all? New open source Python tool Runpod Flash eliminates containers for faster AI dev",
           "summary": "Runpod, the high-performance cloud computing and GPU platform designed specifically for AI development, today launched a new open source, MIT licensed, enterprise-friendly Python programming tool called Runpod Flash — and it is poised to make creation, iteration and deployment of AI systems inside a",
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/MHYoJfMiFcReiUHztmcXO/cd5bfd956110f341d2e205f020a78097/ChatGPT_Image_Apr_30__2026__02_28_07_PM.png?w=300&q=30",
           "article_url": "https://venturebeat.com/infrastructure/one-tool-call-to-rule-them-all-new-open-source-python-tool-runpod-flash-eliminates-containers-for-faster-ai-dev",
@@ -5972,22 +6100,6 @@
           ]
         },
         {
-          "id": "bnl0LWVsb24tbXVzaxKAmXMt",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "Elon Musk’s A.I. Claims of Danger Face Limits in OpenAI Trial",
-          "summary": "One of Elon Musk’s abiding fears is that A.I. could one day threaten humans. But the jurors deciding his suit against OpenAI probably won’t hear about it.",
-          "image_url": "https://static01.nyt.com/images/2026/04/30/multimedia/30biz-ai-trial-ledeall-musk-gbtv/30biz-ai-trial-ledeall-musk-gbtv-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/04/30/technology/openai-trial-elon-musk-existential.html",
-          "published_at": "Thu, 30 Apr 2026 18:08:01 +0000",
-          "cross_sections": [
-            "ai"
-          ]
-        },
-        {
           "id": "dGVjaGNydW5jaC1lbG9uLW11",
           "source_id": "techcrunch",
           "source_name": "TechCrunch",
@@ -6000,23 +6112,6 @@
           "article_url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
           "published_at": "Thu, 30 Apr 2026 18:03:57 +0000",
           "cross_sections": [
-            "ai"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1mZGEtYXBw",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
-          "summary": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red tape.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
-          "published_at": "Thu, 30 Apr 2026 17:53:53 +0000",
-          "cross_sections": [
-            "tech",
             "ai"
           ]
         },
@@ -6172,23 +6267,6 @@
           ]
         },
         {
-          "id": "YXJzdGVjaG5pY2EtaW4tbW90",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "In motorsport, there's nowhere to hide as AI becomes new CFD tool",
-          "summary": "AI finds value in motorsport, multiplying limited computational fluid dynamics resources.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/LMP2-concept-car-rendering-for-IBM-AI-physics-model-01-credit-Dallara-1152x648.png",
-          "article_url": "https://arstechnica.com/cars/2026/04/in-motorsport-theres-nowhere-to-hide-as-ai-becomes-new-cfd-tool/",
-          "published_at": "Thu, 30 Apr 2026 15:37:41 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "ZXR0ZWNoLWFpLWZlYXR1cmVz",
           "source_id": "ettech",
           "source_name": "ETtech",
@@ -6217,22 +6295,6 @@
           "image_url": "https://static01.nyt.com/images/2026/04/30/multimedia/30openai-trial-musk-altman-VERSION-ctqm/30openai-trial-musk-altman-VERSION-ctqm-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/musk-says-he-was-a-fool-to-provide-openais-early-funding",
           "published_at": "Thu, 30 Apr 2026 14:59:17 +0000",
-          "cross_sections": [
-            "ai"
-          ]
-        },
-        {
-          "id": "emRuZXQtaS1hc2tlZC1jaGF0",
-          "source_id": "zdnet",
-          "source_name": "ZDNet",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "I asked ChatGPT Images 2.0 to redesign my app UIs - and wow",
-          "summary": "ChatGPT analyzed two of my apps, flagged issues, and generated new mockups. It's a game-changer.",
-          "image_url": null,
-          "article_url": "https://www.zdnet.com/article/i-asked-chatgpt-to-redesign-my-apps-wow-results/",
-          "published_at": "Thu, 30 Apr 2026 14:18:00 GMT",
           "cross_sections": [
             "ai"
           ]
@@ -6385,13 +6447,46 @@
             "tech",
             "ai"
           ]
+        },
+        {
+          "id": "dGhlaGluZHUtbWV0YS1zaGFy",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Meta shares fall on concerns over AI spending, legal scrutiny",
+          "summary": "Meta ​Platforms raised its annual capital spending forecast on Wednesday, signaling plans to pour billions more into artificial intelligence infrastructure",
+          "image_url": "https://th-i.thgim.com/public/incoming/ilztsu/article70923171.ece/alternates/LANDSCAPE_1200/Meta_Results_53459.jpg",
+          "article_url": "https://www.thehindu.com/sci-tech/technology/meta-shares-fall-on-concerns-overai-spending-legal-scrutiny/article70923106.ece",
+          "published_at": "Thu, 30 Apr 2026 11:47:28 +0530",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtZmFtaWxpZXMt",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Families of Canada school shooting victims sue OpenAI over shooter’s use of ChatGPT",
+          "summary": "The families of victims of a school shooting in a remote Canadian Rockies town are suing artificial intelligence company OpenAI in a U.S. federal court",
+          "image_url": "https://th-i.thgim.com/public/incoming/3gw873/article70923183.ece/alternates/LANDSCAPE_1200/2026-04-28T030902Z_140255001_RC2LU7A0412A_RTRMADP_3_OPENAI-RESULTS.JPG",
+          "article_url": "https://www.thehindu.com/sci-tech/technology/families-of-canada-school-shooting-victims-sue-openai-over-shooters-use-of-chatgpt/article70923112.ece",
+          "published_at": "Thu, 30 Apr 2026 11:41:47 +0530",
+          "cross_sections": [
+            "ai"
+          ]
         }
       ]
     }
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 15004,
+    "build_ms": 16027,
     "ai_enabled": true
   }
 }
