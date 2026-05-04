@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-04T20:09:47.070Z",
-  "total_articles": 304,
-  "new_this_run": 46,
+  "last_updated": "2026-05-04T21:18:27.751Z",
+  "total_articles": 303,
+  "new_this_run": 51,
   "sources": [
     {
       "id": "techcrunch",
@@ -49,8 +49,8 @@
           "source_region": "IT Focus",
           "source_category": "Tech Media",
           "feed_label": "Latest",
-          "title": "Hackers are still exploiting the cPanel bug to gain control of thousands of websites",
-          "summary": "Days after the disclosure of a critical vulnerability in popular web hosting software cPanel and WHM, hackers keep targeting and hacking websites.",
+          "title": "Hackers are mass-exploiting the cPanel bug to gain control of thousands of websites",
+          "summary": "Days after the disclosure of a critical vulnerability in popular web hosting software cPanel and WHM, hackers are now targeting and hacking thousands of vulnerable websites.",
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/05/04/hackers-are-still-exploiting-the-cpanel-bug-to-gain-control-of-thousands-of-websites/",
           "published_at": "Mon, 04 May 2026 18:02:18 +0000",
@@ -132,6 +132,22 @@
       "region": "IT Focus",
       "category": "Tech Media",
       "articles": [
+        {
+          "id": "dGhldmVyZ2Utc2t5bGlnaHTi",
+          "source_id": "theverge",
+          "source_name": "The Verge",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Skylight’s 15-inch smart calendar is down to its lowest price to date",
+          "summary": "Skylight’s color-coded smart calendar supports two-way syncing with Google Calendar, Microsoft Outlook, and Apple’s iCloud calendar, among others. | Image: Skylight\t\n\nWhen you’re juggling more than just your own calendar, staying organized can be overwhelming. Fortunately, the Skylight Calendar 2 ca",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/skylightcalendar2.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "article_url": "https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale",
+          "published_at": "2026-05-04T20:44:06.000Z",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "dGhldmVyZ2Utc3dpdGNoYm90",
           "source_id": "theverge",
@@ -240,22 +256,6 @@
           "published_at": "2026-05-04T14:30:00.000Z",
           "cross_sections": [
             "ai"
-          ]
-        },
-        {
-          "id": "dGhldmVyZ2UtdGVzbGEtaGl0",
-          "source_id": "theverge",
-          "source_name": "The Verge",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Tesla hits Musk’s threshold for ‘safe unsupervised’ driving",
-          "summary": "We've crossed yet another one of Elon Musk's self-driving thresholds. Tesla's fleet of vehicles using the company's Full Self-Driving (Supervised) system has driven over 10 billion miles, according to the company's updated safety page. That means the company has crossed the line Musk set earlier thi",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2220873080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "article_url": "https://www.theverge.com/transportation/922900/tesla-10-billion-miles-unsupervised-fsd-robotaxi-elon-musk",
-          "published_at": "2026-05-04T14:28:01.000Z",
-          "cross_sections": [
-            "tech"
           ]
         }
       ]
@@ -393,6 +393,22 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "YXJzdGVjaG5pY2EtY2FuYWRp",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Canadian election databases use \"canary traps\"—and they work",
+          "summary": "Intentional errors can be useful.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-626440930-1152x648-1777922464.jpg",
+          "article_url": "https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/",
+          "published_at": "Mon, 04 May 2026 19:45:57 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YXJzdGVjaG5pY2EtaW5mbHVl",
           "source_id": "arstechnica",
           "source_name": "Ars Technica",
@@ -498,22 +514,6 @@
           "article_url": "https://arstechnica.com/science/2026/05/trump-administration-cites-national-security-in-stalling-165-wind-farms/",
           "published_at": "Mon, 04 May 2026 13:23:22 +0000",
           "cross_sections": []
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtbWl0J3Mt",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "MIT's virtual violin offers luthiers a new design tool",
-          "summary": "Computational model lets users tweak parameters to hear effect on the sound in early design process.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/stradTOP-1152x648-1777837031.jpg",
-          "article_url": "https://arstechnica.com/science/2026/05/mits-virtual-violin-offers-luthiers-a-new-design-tool/",
-          "published_at": "Mon, 04 May 2026 13:12:26 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -523,6 +523,38 @@
       "region": "IT Focus",
       "category": "Tech Media",
       "articles": [
+        {
+          "id": "emRuZXQtdGhpcy13ZWFyYWJs",
+          "source_id": "zdnet",
+          "source_name": "ZDNet",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "This wearable gadget effectively soothes my migraines and headaches, and it's under $50",
+          "summary": "The Renpho Eyeris 2 Massager helps alleviate my headaches and tired eyes, and I can stream music with it too.",
+          "image_url": null,
+          "article_url": "https://www.zdnet.com/article/renpho-eyeris-2-massager-testimonial/",
+          "published_at": "Mon, 04 May 2026 20:44:58 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "emRuZXQtdGhpcy1lLXJlYWRl",
+          "source_id": "zdnet",
+          "source_name": "ZDNet",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "This e-reader lets you view in color, and it's $60 cheaper now",
+          "summary": "The Kindle Colorsoft brings a smooth color display to your favorite books, and it's dropped in price again.",
+          "image_url": null,
+          "article_url": "https://www.zdnet.com/article/kindle-colorsoft-deal/",
+          "published_at": "Mon, 04 May 2026 20:16:30 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "emRuZXQtdmVyaXpvbi13aWxs",
           "source_id": "zdnet",
@@ -619,39 +651,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "emRuZXQteW91ci1jaGF0Z3B0",
-          "source_id": "zdnet",
-          "source_name": "ZDNet",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Your ChatGPT account just got more secure, but you have to opt in - here's how",
-          "summary": "OpenAI adds a feature called Advanced Account Security with four opt-in settings designed to safeguard your account and personal data.",
-          "image_url": null,
-          "article_url": "https://www.zdnet.com/article/chatgpt-advanced-account-security/",
-          "published_at": "Mon, 04 May 2026 17:38:00 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "emRuZXQtd2hhdGV2ZXIteW91",
-          "source_id": "zdnet",
-          "source_name": "ZDNet",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Whatever you do, don't buy cheap DisplayPort cables for your PC - here's why",
-          "summary": "The smallest manufacturing error can cause big issues with your PC. Here's how to prevent it from happening in the first place.",
-          "image_url": null,
-          "article_url": "https://www.zdnet.com/article/dont-buy-cheap-displayport-cables-or-they-can-brick-your-pc/",
-          "published_at": "Mon, 04 May 2026 17:32:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -662,17 +661,17 @@
       "category": "Tech Media",
       "articles": [
         {
-          "id": "Y25ldC1pb3MtMjYuNS13aWxs",
+          "id": "Y25ldC1hbm90aGVyLW1hYy1t",
           "source_id": "cnet",
           "source_name": "CNET",
           "source_region": "IT Focus",
           "source_category": "Tech Media",
           "feed_label": "Latest",
-          "title": "iOS 26.5 Will Likely Bring End-to-End Encrypted RCS Messaging to Your iPhone",
-          "summary": "Apple could release the update to the general public next week.",
-          "image_url": "https://www.cnet.com/a/img/resize/f60d29106acd4405eca360778e45159ee3cdc4af/hub/2025/06/10/c0df5012-76b6-48c3-8402-20adb5a7d86f/wwdc25ios26.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/tech/services-and-software/ios-26-5-will-likely-bring-end-to-end-encrypted-rcs-messaging-to-your-iphone-soon/",
-          "published_at": "Mon, 04 May 2026 18:54:00 +0000",
+          "title": "Another Mac Mini Option Goes MIA as Memory Shortage Rages On",
+          "summary": "The cheapest M4 Mac Mini variant has been completely dropped from Apple's product lineup. Previously, more expensive Mac Mini and Mac Studio configs have disappeared from the store.",
+          "image_url": "https://www.cnet.com/a/img/resize/864cb051b02b46a20d09836ab631bf76ee0f38e7/hub/2024/11/06/1ac668d1-b2fd-4af9-9e08-7d1fbd6f07d7/mac-mini-m4-03.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "article_url": "https://www.cnet.com/tech/computing/disappearing-macs-global-ram-crisis-likely-hits-apple/",
+          "published_at": "Mon, 04 May 2026 20:15:21 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -688,70 +687,8 @@
           "summary": "Star Wars Day is here and with it comes fantastic deals, new products and sometimes new announcements. We will be here with you, picking the best of the bunch all day on May the 4th.",
           "image_url": "https://www.cnet.com/a/img/resize/be6023d5faa20c49d5d3c971b7f3f547bb60442a/hub/2026/05/01/1c6c6da4-f99b-40bc-8bc0-4b78800e50b3/image-13.png?auto=webp&fit=crop&height=614&width=1092",
           "article_url": "https://www.cnet.com/news-live/star-wars-day-live/",
-          "published_at": "Mon, 04 May 2026 18:48:00 +0000",
+          "published_at": "Mon, 04 May 2026 20:06:00 +0000",
           "cross_sections": []
-        },
-        {
-          "id": "Y25ldC1uZWVkLXRvLWFzay1q",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Need to Ask Jeeves Something? Sorry, It's Too Late",
-          "summary": "Ask.com and its search-query butler mascot Jeeves are now internet history.",
-          "image_url": "https://www.cnet.com/a/img/resize/5f46ee802bbc5da77beb2b77caf327b5e96a5755/hub/2026/05/04/7d29db54-253d-4a55-a183-dd24082bf1c5/gettyimages-494578579.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/culture/internet/need-to-ask-jeeves-something-sorry-its-too-late/",
-          "published_at": "Mon, 04 May 2026 18:34:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25ldC1zcGlyaXQtYWlybGlu",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Spirit Airlines Has Shut Down. What Now?",
-          "summary": "The budget airline's bankruptcy has travelers scrambling. Here are some tips for rebooking and receiving a refund for tickets.",
-          "image_url": "https://www.cnet.com/a/img/resize/f1f0e1e42044bdff7a6ec07a2d0221b2ba5d1279/hub/2026/05/04/98d73431-70e3-4021-91b8-f3d685e8efe7/gettyimages-2273632693.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/news/spirit-airlines-shut-down-what-now-faq/",
-          "published_at": "Mon, 04 May 2026 18:12:47 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "Y25ldC1pLXJlc3VycmVjdGVk",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "I Resurrected My Favorite Childhood Games Using Gemini Vibe Coding",
-          "summary": "Retro gaming can cost a fortune. I vibe coded \"demakes\" of my favorite games for free.",
-          "image_url": "https://www.cnet.com/a/img/resize/0f343a1b7facc0b9623bb2833cb6e4b5dd048e36/hub/2025/11/26/8db9766c-ddb4-45fe-aee6-4faa66bd7113/screenshot-2025-11-24-at-8-37-42am.png?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/tech/services-and-software/the-most-fun-ive-ever-had-with-ai-is-vibe-coding-retro-video-games-heres-how-i-did-it/",
-          "published_at": "Mon, 04 May 2026 18:03:49 +0000",
-          "cross_sections": [
-            "ai"
-          ]
-        },
-        {
-          "id": "Y25ldC1iZXN0LWhlYWRzZXRz",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Best Headsets for Working From Home in 2026, According to CNET's Audio Expert",
-          "summary": "I tested dozens of headphones and headsets to find the most comfortable models with strong call quality and solid PC compatibility for video meetings. Here are my top picks.",
-          "image_url": "https://www.cnet.com/a/img/resize/0ba319d29cb1e7d7d7d913d9722177596d5a657f/hub/2019/06/05/0943f3ed-6fcd-492f-a344-cfa889836db5/43-bose-noise-cancelling-headphones-700.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/",
-          "published_at": "Mon, 04 May 2026 17:16:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "Y25ldC10b2RheSdzLW55dC1j",
@@ -760,25 +697,69 @@
           "source_region": "IT Focus",
           "source_category": "Tech Media",
           "feed_label": "Latest",
-          "title": "Today's NYT Connections: Sports Edition Hints and Answers for May 4, #587",
-          "summary": "Here are hints and the answers for the NYT Connections: Sports Edition puzzle for May 4, No. 587.",
-          "image_url": "https://www.cnet.com/a/img/resize/c7e1d294a1a554f051860c8dddd6fd0c6527b452/hub/2024/10/16/c34cfc41-01f2-4b1a-80a8-f6479c50c02e/connections-sports-edition-6859.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-4-587/",
-          "published_at": "Mon, 04 May 2026 16:55:00 +0000",
+          "title": "Today's NYT Connections Hints, Answers and Help for May 5, #1059",
+          "summary": "Here are some hints and the answers for the NYT Connections puzzle for May 5, #1059",
+          "image_url": "https://www.cnet.com/a/img/resize/3986ca4ac5b498c6114118e0dfa25b2a05ae6531/hub/2025/03/26/c70b0a32-884a-4379-b77b-de75776952ba/nyt-word-games-connections-2798.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "article_url": "https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-5-1059/",
+          "published_at": "Mon, 04 May 2026 20:01:03 +0000",
           "cross_sections": []
         },
         {
-          "id": "Y25ldC10b2RheSdzLW55dC1t",
+          "id": "Y25ldC10b2RheSdzLW55dC1z",
           "source_id": "cnet",
           "source_name": "CNET",
           "source_region": "IT Focus",
           "source_category": "Tech Media",
           "feed_label": "Latest",
-          "title": "Today's NYT Mini Crossword Answers for Monday, May 4",
-          "summary": "Here are the answers for The New York Times Mini Crossword for May 4.",
-          "image_url": "https://www.cnet.com/a/img/resize/16d2290ea5c9dc928db9624c275de45ff920b828/hub/2024/07/25/50d61b9b-1c76-4678-9a92-f6eca531f4a8/nyt-mini-crossword-234876.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-may-4/",
-          "published_at": "Mon, 04 May 2026 16:54:00 +0000",
+          "title": "Today's NYT Strands Hints, Answers and Help for May 5, #793",
+          "summary": "Here are hints and answers for the NYT Strands puzzle for May 5, No. 793.",
+          "image_url": "https://www.cnet.com/a/img/resize/166e67238a28ef7d82e62fe8aec7185a7cc23eda/hub/2024/05/15/859c9110-e596-432b-8690-95e6102759c9/nyt-new-york-times-strands-2054.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "article_url": "https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-5-793/",
+          "published_at": "Mon, 04 May 2026 20:01:02 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "Y25ldC10b2RheSdzLXdvcmRs",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Today's Wordle Hints, Answer and Help for May 5, #1781",
+          "summary": "Here are hints and the answer for today's Wordle for May 5, No. 1,781.",
+          "image_url": "https://www.cnet.com/a/img/resize/837b400de41f50a97b52a8c799b193be01cea440/hub/2024/05/28/20480816-214e-4fcc-a9b4-b02f0ac71e7c/wordle-word-game-hints-puzzle-8667.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "article_url": "https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-5-1781/",
+          "published_at": "Mon, 04 May 2026 20:00:44 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "Y25ldC1tdXN0YWNoZS1taXNj",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Mustache Mischief: Kids Bypass UK's Digital Age Barriers",
+          "summary": "Kids used to draw on their faces for fun. Now, they're doing it to play Roblox.",
+          "image_url": "https://www.cnet.com/a/img/resize/3c16918f841aef7f3b01237db8abe92d0fc25529/hub/2026/05/04/ff64953d-94f1-4c2c-b5bc-00d9fbf0796b/mustache-gettyimages-166419623.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "article_url": "https://www.cnet.com/tech/services-and-software/one-third-of-uk-children-successfully-circumvent-online-age-verification/",
+          "published_at": "Mon, 04 May 2026 19:43:35 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25ldC1zb255LXRvLXBheS0k",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Sony to Pay $7.85M in PlayStation Store Settlement. What to Know",
+          "summary": "Payments are automatic in most cases, but those with deactivated PlayStation Network accounts will have to put in more work to receive their share.",
+          "image_url": "https://www.cnet.com/a/img/resize/25ec2837e71a007d58f6315e22c74885e4e64d23/hub/2026/05/04/add72af3-a152-4e92-8909-ca446bb22557/gettyimages-2230525250.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "article_url": "https://www.cnet.com/tech/gaming/sony-playstation-store-settlement-what-to-know/",
+          "published_at": "Mon, 04 May 2026 19:27:00 +0000",
           "cross_sections": []
         }
       ]
@@ -789,6 +770,23 @@
       "region": "IT Focus",
       "category": "Tech Media",
       "articles": [
+        {
+          "id": "dmVudHVyZWJlYXQtaW5zaWRl",
+          "source_id": "venturebeat",
+          "source_name": "VentureBeat",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Inside AMEX’s agentic commerce stack: How intent contracts and single-use tokens enforce AI transactions",
+          "summary": "American Express (Amex) is building a system that lets AI agents shop and pay on behalf of users — but right now it’s only within its own payment network, and still involves a black box that could hinder trust and auditability. \nAmex already participates in agentic commerce protocol projects, especi",
+          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/366YED8XdafVnuQNZDTeo4/fed88723114b431a6bf19c1080a4f9a3/crimedy7_illustration_of_a_robot_on_a_shopping_spree_--ar_169_75dad0d3-252d-4c33-b253-e0bb0f047adf_1.png?w=300&q=30",
+          "article_url": "https://venturebeat.com/orchestration/inside-amexs-agentic-commerce-stack-how-intent-contracts-and-single-use-tokens-enforce-ai-transactions",
+          "published_at": "Mon, 04 May 2026 20:33:56 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
         {
           "id": "dmVudHVyZWJlYXQtbWljcm9z",
           "source_id": "venturebeat",
@@ -890,22 +888,6 @@
             "tech",
             "ai"
           ]
-        },
-        {
-          "id": "dmVudHVyZWJlYXQtaGlkZGVu",
-          "source_id": "venturebeat",
-          "source_name": "VentureBeat",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Hidden IT problems are quietly creating risk, shadow IT, and lost productivity",
-          "summary": "Presented by TeamViewer\n\nEnterprise technology failures are largely invisible. Research from TeamViewer, based on a global survey of 4,200 managers and employees, finds that the majority of digital dysfunction never reaches the IT help desk. \nEmployees work around slow applications, failed logins, a",
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/eFxVmpdHxuJILeB98CSqk/4cc177a46197d0a5c6bc968e3da4495b/AdobeStock_987891135.jpeg?w=300&q=30",
-          "article_url": "https://venturebeat.com/technology/hidden-it-problems-are-quietly-creating-risk-shadow-it-and-lost-productivity",
-          "published_at": "Fri, 01 May 2026 13:03:15 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -916,17 +898,82 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "Y25iY3RlY2gtbXVzay10ZXh0",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Musk texted OpenAI's Brockman about settlement two days before trial began",
+          "summary": "Elon Musk co-founded OpenAI in 2015 and sued the company, President Greg Brockman and CEO Sam Altman in 2024.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/04/musk-altman-open-ai-settlement-trial-brockman.html",
+          "published_at": "Mon, 04 May 2026 21:17:18 GMT",
+          "cross_sections": [
+            "ai"
+          ]
+        },
+        {
+          "id": "Y25iY3RlY2gtcGFsYW50aXIt",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Palantir tops estimates on 85% revenue growth, fastest expansion since market debut in 2020",
+          "summary": "Palantir reported better-than-expected revenue and profit, driven by growth in sales to U.S. government agencies.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/04/palantir-pltr-q1-earnings-report-2026.html",
+          "published_at": "Mon, 04 May 2026 21:12:38 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iY3RlY2gtcGludGVyZXN0",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Pinterest surges 17% after earnings beat as company posts strong guidance",
+          "summary": "Pinterest cut nearly 15% of the company's workforce and reduced office space in January as it pushes more resources into AI.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/04/pinterest-pins-q1-earnings-report-2026.html",
+          "published_at": "Mon, 04 May 2026 21:04:52 GMT",
+          "cross_sections": [
+            "tech",
+            "jobcuts"
+          ]
+        },
+        {
+          "id": "Y25iY3RlY2gtc2VjLWFuZC1l",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "SEC and Elon Musk agree to settle lawsuit over Twitter buyout in 2022",
+          "summary": "The SEC and Elon Musk agreed to settle a lawsuit filed by the regulator last year against the world's richest person.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/04/sec-and-elon-musk-agree-to-settle-lawsuit-over-twitter-buyout-in-2022.html",
+          "published_at": "Mon, 04 May 2026 20:52:38 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "Y25iY3RlY2gtY2lyY2xlLWp1",
           "source_id": "cnbctech",
           "source_name": "CNBC Technology",
           "source_region": "IT Focus",
           "source_category": "Tech Media",
           "feed_label": "Technology",
-          "title": "Circle jumps 20% on Clarity Act compromise that preserves stablecoin rewards",
+          "title": "Circle jumps nearly 20% on Clarity Act compromise that preserves stablecoin rewards",
           "summary": "Lawmakers over the weekend reached a compromise on the market structure bill known as the CLARITY Act that keeps stablecoin reward programs intact.",
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/05/04/circle-jumps-16percent-on-clarity-act-compromise-that-preserves-stablecoin-rewards.html",
-          "published_at": "Mon, 04 May 2026 20:08:19 GMT",
+          "published_at": "Mon, 04 May 2026 20:13:45 GMT",
           "cross_sections": []
         },
         {
@@ -964,22 +1011,6 @@
           ]
         },
         {
-          "id": "Y25iY3RlY2gtbXVzay10ZXh0",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Musk texted OpenAI's Brockman about settlement two days before trial began",
-          "summary": "Elon Musk co-founded OpenAI in 2015 and sued the company, President Greg Brockman and CEO Sam Altman in 2024.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/04/musk-altman-open-ai-settlement-trial-brockman.html",
-          "published_at": "Mon, 04 May 2026 14:46:55 GMT",
-          "cross_sections": [
-            "ai"
-          ]
-        },
-        {
           "id": "Y25iY3RlY2gtYmVya3NoaXJl",
           "source_id": "cnbctech",
           "source_name": "CNBC Technology",
@@ -992,55 +1023,6 @@
           "article_url": "https://www.cnbc.com/2026/05/04/5-things-to-know-before-the-market-opens.html",
           "published_at": "Mon, 04 May 2026 12:10:11 GMT",
           "cross_sections": []
-        },
-        {
-          "id": "Y25iY3RlY2gtbWV0YSdzLXB1",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Meta's public nuisance case in New Mexico has billion-dollar consequences",
-          "summary": "Meta is back in a Santa Fe courthouse in a child safety case that could determine whether the company is a public nuisance.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/04/meta-new-mexico-child-safety-facebook-instagram.html",
-          "published_at": "Mon, 04 May 2026 12:00:01 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iY3RlY2gtYWktY2hpcG1h",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "AI chipmaker Cerebras targets $3.5 billion raise in IPO",
-          "summary": "The share sale could give the company a valuation of up to $24.5 billion, compared with $23 billion as of February.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/04/cerebras-ipo-ai-chipmaker.html",
-          "published_at": "Mon, 04 May 2026 10:45:24 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "Y25iY3RlY2gtZGVubWFyay1m",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Denmark faces data center reckoning as power grid overwhelmed by surging demand",
-          "summary": "The data center industry is facing a reckoning as governments around the world consider imposing limits on the growth of the power-hungry facilities.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/04/denmark-data-centers-moratorium-grid-pause-power-demand.html",
-          "published_at": "Mon, 04 May 2026 05:00:01 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -1333,9 +1315,23 @@
           "feed_label": "World",
           "title": "Iran War Live Updates: Attacks in Gulf Threaten to Reignite Conflict",
           "summary": "U.S. warships shot down missiles and drones aimed at ships the Navy was guiding through the Strait of Hormuz, and the authorities in the United Arab Emirates blamed Iran for a drone attack.",
-          "image_url": "https://static01.nyt.com/images/2026/05/04/multimedia/live-blog-20260504-iran-hormuz-ships-navy-header-fmgb/live-blog-20260504-iran-hormuz-ships-navy-header-fmgb-mediumSquareAt3X.jpg",
+          "image_url": "https://static01.nyt.com/images/2026/05/04/multimedia/04mideast-live-promo-430p-fgbj/04mideast-live-promo-430p-fgbj-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/live/2026/05/04/world/iran-hormuz-ships-navy",
-          "published_at": "Mon, 04 May 2026 20:05:05 +0000",
+          "published_at": "Mon, 04 May 2026 21:11:43 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LW1ldC1nYWxhLTIwMjYt",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Met Gala 2026 Red Carpet Photos: All the Looks",
+          "summary": "See the arrivals on the cobblestone carpet.",
+          "image_url": "https://static01.nyt.com/images/2026/05/04/multimedia/04METGALA-REDCARPET-emma-mgbk/04METGALA-REDCARPET-emma-mgbk-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/05/04/style/met-gala-red-carpet-photos.html",
+          "published_at": "Mon, 04 May 2026 21:07:45 +0000",
           "cross_sections": []
         },
         {
@@ -1349,7 +1345,7 @@
           "summary": "Oil prices fell and futures on the S&P 500 rose slightly on Sunday as investors reacted to continued uncertainty about the war in Iran.",
           "image_url": "https://static01.nyt.com/images/2026/05/03/multimedia/03biz-oil-stocks-gas-1-zlfj/03biz-oil-stocks-gas-1-zlfj-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/05/03/business/oil-prices-stocks-iran.html",
-          "published_at": "Mon, 04 May 2026 20:04:51 +0000",
+          "published_at": "Mon, 04 May 2026 20:47:41 +0000",
           "cross_sections": []
         },
         {
@@ -1394,34 +1390,6 @@
           "image_url": "https://static01.nyt.com/images/2026/05/03/multimedia/00dc-scotus-abortionpill-blmf/00dc-scotus-abortionpill-blmf-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/05/04/us/politics/supreme-court-abortion-pill.html",
           "published_at": "Mon, 04 May 2026 19:21:50 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "bnl0LXUucy4tc2hvdC1kb3du",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "U.S. Shot Down Iranian Missiles and Drones Aimed at American Vessels in Strait of Hormuz, Admiral Says",
-          "summary": "An exchange of fire threatened to shatter a fragile cease-fire as President Trump seeks to break Iran’s effective blockade of the waterway.",
-          "image_url": "https://static01.nyt.com/images/2026/05/04/multimedia/04dc-militarysub-photo-qcvg/04dc-militarysub-photo-qcvg-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/05/04/us/politics/us-iran-attacks.html",
-          "published_at": "Mon, 04 May 2026 19:13:43 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "bnl0LXJ1ZHktZ2l1bGlhbmkt",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Rudy Giuliani Hospitalized in Florida in ‘Critical Condition’",
-          "summary": "A spokesman for the former mayor of New York City said Mr. Giuliani was now breathing on his own.",
-          "image_url": "https://static01.nyt.com/images/2026/05/03/multimedia/03met-giuliani-jthq/03met-giuliani-jthq-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/05/03/nyregion/rudy-giuliani-hospital-critical-condition.html",
-          "published_at": "Mon, 04 May 2026 18:47:14 +0000",
           "cross_sections": []
         },
         {
@@ -1508,6 +1476,20 @@
           "image_url": "https://static01.nyt.com/images/2026/05/04/multimedia/04int-hongkong-fire-family-01-mvfl/04int-hongkong-fire-family-01-mvfl-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/05/04/world/asia/hong-kong-apartment-fire-family.html",
           "published_at": "Mon, 04 May 2026 17:32:35 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LXUucy4td2FybnMtY2hp",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "U.S. Warns China Over Iranian Oil as Sanctions Fight Intensifies",
+          "summary": "China told its independent refineries to disregard U.S. sanctions over their purchases of Iranian crude.",
+          "image_url": "https://static01.nyt.com/images/2026/05/04/multimedia/04dc-us-iran-china-jgcl/04dc-us-iran-china-jgcl-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/05/04/us/politics/us-china-iranian-oil-sanctions.html",
+          "published_at": "Mon, 04 May 2026 17:32:17 +0000",
           "cross_sections": []
         },
         {
@@ -1677,7 +1659,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-05-04T20:09:29.474Z",
+          "published_at": "2026-05-04T21:18:10.610Z",
           "cross_sections": []
         },
         {
@@ -1691,7 +1673,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-05-04T20:09:29.474Z",
+          "published_at": "2026-05-04T21:18:10.610Z",
           "cross_sections": []
         },
         {
@@ -1705,7 +1687,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-05-04T20:09:29.474Z",
+          "published_at": "2026-05-04T21:18:10.610Z",
           "cross_sections": []
         },
         {
@@ -2017,20 +1999,6 @@
       "category": "Broadcaster",
       "articles": [
         {
-          "id": "Y25iYy1waXJyby1hYmFuZG9u",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Pirro abandons plan to appeal Powell subpoenas in Fed investigation",
-          "summary": "It likely won't be enough to persuade Fed Chair Jerome Powell to step down from the Fed's board.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/03/pirro-fed-powell.html",
-          "published_at": "Mon, 04 May 2026 20:08:52 GMT",
-          "cross_sections": []
-        },
-        {
           "id": "Y25iYy1wYWxhbnRpci10b3Bz",
           "source_id": "cnbc",
           "source_name": "CNBC",
@@ -2041,10 +2009,85 @@
           "summary": "Palantir reported better-than-expected revenue and profit, driven by growth in sales to U.S. government agencies.",
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/05/04/palantir-pltr-q1-earnings-report-2026.html",
-          "published_at": "Mon, 04 May 2026 20:07:05 GMT",
+          "published_at": "Mon, 04 May 2026 21:12:38 GMT",
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "Y25iYy1waW50ZXJlc3Qtc3Vy",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Pinterest surges 17% after earnings beat as company posts strong guidance",
+          "summary": "Pinterest cut nearly 15% of the company's workforce and reduced office space in January as it pushes more resources into AI.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/04/pinterest-pins-q1-earnings-report-2026.html",
+          "published_at": "Mon, 04 May 2026 21:04:52 GMT",
+          "cross_sections": [
+            "tech",
+            "jobcuts"
+          ]
+        },
+        {
+          "id": "Y25iYy1zZWMtYW5kLWVsb24t",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "SEC and Elon Musk agree to settle lawsuit over Twitter buyout in 2022",
+          "summary": "The SEC and Elon Musk agreed to settle a lawsuit filed by the regulator last year against the world's richest person.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/04/sec-and-elon-musk-agree-to-settle-lawsuit-over-twitter-buyout-in-2022.html",
+          "published_at": "Mon, 04 May 2026 20:52:38 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iYy1wYXJhbW91bnQtZWFy",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Paramount earnings, revenue beat expectations as streaming business offers a boost",
+          "summary": "Paramount Skydance said it added streaming subscribers during the first quarter even as it instituted its first price hike since 2024.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/04/paramount-skydance-psky-earnings-q1-2026.html",
+          "published_at": "Mon, 04 May 2026 20:48:58 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "Y25iYy1zcGlyaXQtYWlybGlu",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Spirit Airlines CEO on carrier's collapse: 'We just kind of ran out of runway'",
+          "summary": "Spirit Airlines shut down before dawn on Saturday ending its run as the most famous U.S. discount airline.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/04/spirit-airlines-shut-down-ceo-dave-davis.html",
+          "published_at": "Mon, 04 May 2026 20:36:33 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "Y25iYy1waXJyby1hYmFuZG9u",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Pirro abandons plan to appeal Powell subpoenas in Fed investigation",
+          "summary": "It likely won't be enough to persuade Fed Chair Jerome Powell to step down from the Fed's board.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/03/pirro-fed-powell.html",
+          "published_at": "Mon, 04 May 2026 20:28:53 GMT",
+          "cross_sections": []
         },
         {
           "id": "Y25iYy1iZXJrc2hpcmUtc2hh",
@@ -2061,26 +2104,12 @@
           "cross_sections": []
         },
         {
-          "id": "Y25iYy1hZnRlci1zY290dXMt",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "After SCOTUS Voting Rights ruling, Jeffries ramps up quest to redistrict New York",
-          "summary": "Democrats are vowing to fight back after the Supreme Court eliminated a majority-Black Louisiana House district, as more states look to redraw maps.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/04/scotus-jeffries-redistrict-new-york.html",
-          "published_at": "Mon, 04 May 2026 19:56:33 GMT",
-          "cross_sections": []
-        },
-        {
           "id": "Y25iYy10cmFkZXJzLWFyZS1k",
           "source_id": "cnbc",
           "source_name": "CNBC",
           "source_region": "North America",
           "source_category": "Broadcaster",
-          "feed_label": "Top News",
+          "feed_label": "World",
           "title": "Traders are doubtful Cohen's GameStop can pull off monster eBay acquisition",
           "summary": "Traders on Kalshi and Polymarket give the company just a 25% and 15% chance, respectively, of successfully buying the online marketplace.",
           "image_url": null,
@@ -2172,36 +2201,6 @@
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/05/04/college-grads-overestimate-starting-salaries.html",
           "published_at": "Mon, 04 May 2026 15:04:05 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "Y25iYy1tdXNrLXRleHRlZC1v",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Musk texted OpenAI's Brockman about settlement two days before trial began",
-          "summary": "Elon Musk co-founded OpenAI in 2015 and sued the company, President Greg Brockman and CEO Sam Altman in 2024.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/04/musk-altman-open-ai-settlement-trial-brockman.html",
-          "published_at": "Mon, 04 May 2026 14:46:55 GMT",
-          "cross_sections": [
-            "ai"
-          ]
-        },
-        {
-          "id": "Y25iYy10cnVtcC1zYWlkLSQ0",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Trump said $465,000 in retirement savings is 'rich.' Is it?",
-          "summary": "President Donald Trump said savers who build a $465,000 nest egg would be \"rich.\" Whether that's true depends on one's perception of wealth.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/04/trump-retirement-savings-rich.html",
-          "published_at": "Mon, 04 May 2026 14:34:11 GMT",
           "cross_sections": []
         },
         {
@@ -2488,17 +2487,17 @@
       "category": "Broadcaster",
       "articles": [
         {
-          "id": "YmJjLXVrcmFpbmlhbi1kcm9u",
+          "id": "YmJjLWJsYWtlLWxpdmVseS1h",
           "source_id": "bbc",
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
-          "summary": "Russia has declared a unilateral ceasefire to cover the event and threatened a massive strike on central Kyiv if it were disrupted.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b5c/live/c34a4770-47af-11f1-bd52-e755d604ece4.jpg",
-          "article_url": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 04 May 2026 19:09:14 GMT",
+          "feed_label": "Top Stories",
+          "title": "Blake Lively and Justin Baldoni settle lawsuit over It Ends With Us film",
+          "summary": "The settlement comes just ahead of a trial slated to begin in May, where both stars were expected to testify.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2347/live/f8872ac0-47fa-11f1-bd52-e755d604ece4.png",
+          "article_url": "https://www.bbc.com/news/articles/c936q7np647o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 04 May 2026 21:12:49 GMT",
           "cross_sections": []
         },
         {
@@ -2512,7 +2511,21 @@
           "summary": "A 33-year-old German citizen was detained following the incident, the authorities say.",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/395d/live/537900a0-47f3-11f1-a5a5-9ff681d5bd63.jpg",
           "article_url": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 04 May 2026 19:00:40 GMT",
+          "published_at": "Mon, 04 May 2026 21:04:20 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLXVrcmFpbmlhbi1kcm9u",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
+          "summary": "Russia has declared a unilateral ceasefire to cover the event and threatened a massive strike on central Kyiv if it were disrupted.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b5c/live/c34a4770-47af-11f1-bd52-e755d604ece4.jpg",
+          "article_url": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 04 May 2026 19:09:14 GMT",
           "cross_sections": []
         },
         {
@@ -2653,20 +2666,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2332/live/59cd4300-47ab-11f1-a815-8703cc282724.png",
           "article_url": "https://www.bbc.com/news/articles/cp3pzgdgx53o?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 04 May 2026 11:54:32 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "YmJjLXByaW5jZXNzLWV1Z2Vu",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Princess Eugenie expecting third child this summer",
-          "summary": "\"His Majesty The King has been informed and is delighted with the news,\" Buckingham Palace said.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1181/live/c1c49500-47b3-11f1-afe8-8f96a4407135.jpg",
-          "article_url": "https://www.bbc.com/news/articles/clyp246d9k1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 04 May 2026 10:35:36 GMT",
           "cross_sections": []
         },
         {
@@ -3142,115 +3141,118 @@
       "category": "Broadcaster",
       "articles": [
         {
-          "id": "ZXVyb25ld3MtZXVyb25ld3Mt",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "News",
-          "title": "Euronews journalist reports Emirates flight to Dubai held at Heathrow during UAE air strikes",
-          "summary": "Toby Gregory reported the atmosphere in the cabin remained calm, with passengers having no concerns about safety due to Emirates' track record of maintaining passenger safety.",
-          "image_url": "https://images.euronews.com/articles/stories/09/74/64/19/696x392_cmsv2_5fbe6c6a-e59b-550b-9b84-0975f8798460-9746419.jpg",
-          "article_url": "http://www.euronews.com/2026/05/04/euronews-journalist-reports-emirates-flight-to-dubai-held-at-heathrow-during-uae-air-strik",
-          "published_at": "Mon, 04 May 2026 21:22:48 +0200",
-          "cross_sections": []
-        },
-        {
-          "id": "ZXVyb25ld3MtZGlwbG9tYXRz",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "News",
-          "title": "Diplomats survey Karabakh reconstruction as peace settles in",
-          "summary": "European and US diplomats surveyed Azerbaijan’s reconstruction of Karabakh and expressed support for the peace between Armenia and Azerbaijan settling on the region gripped by decades of conflict until 2025.",
-          "image_url": "https://images.euronews.com/articles/stories/09/74/47/92/696x392_cmsv2_7e94a559-97de-57da-b21d-b63d3ee29128-9744792.jpg",
-          "article_url": "http://www.euronews.com/2026/05/04/diplomats-survey-karabakh-reconstruction-as-peace-settles-in",
-          "published_at": "Mon, 04 May 2026 19:09:06 +0200",
-          "cross_sections": []
-        },
-        {
-          "id": "ZXVyb25ld3MtZ2VybWFuLW1p",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "News",
-          "title": "German minehunter heads to Mediterranean for possible Hormuz mission",
-          "summary": "Germany’s minehunter Fulda departed from Kiel for the Mediterranean as Berlin considers a possible future deployment in the Strait of Hormuz.",
-          "image_url": "https://images.euronews.com/articles/stories/09/74/62/10/696x392_cmsv2_3d2ea919-55e7-56cd-a745-c70a3f404ef8-9746210.jpg",
-          "article_url": "http://www.euronews.com/video/2026/05/04/german-minehunter-heads-to-mediterranean-for-possible-hormuz-mission",
-          "published_at": "Mon, 04 May 2026 18:02:06 +0200",
-          "cross_sections": []
-        },
-        {
-          "id": "ZXVyb25ld3MtbGF0ZXN0LW5l",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "News",
-          "title": "Latest news bulletin | May 4th, 2026 – Evening",
-          "summary": "Catch up with the most important stories from around Europe and beyond this May 4th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-          "image_url": "https://images.euronews.com/articles/stories/09/74/62/55/696x392_cmsv2_ff5ac76c-f467-57c9-abd3-87151eff2628-9746255.jpg",
-          "article_url": "http://www.euronews.com/video/2026/05/04/latest-news-bulletin-may-4th-2026-evening",
-          "published_at": "Mon, 04 May 2026 18:00:29 +0200",
-          "cross_sections": []
-        },
-        {
-          "id": "ZXVyb25ld3MtYXJtZW5pYS10",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "News",
-          "title": "Armenia tests Moscow’s patience with Zelenskyy visit and EU leaders’ summit",
-          "summary": "One month before the highly anticipated parliamentary elections, Armenia’s Prime Minister Nikol Pashinyan set out the country’s foreign policy trajectory with striking clarity, hosting European leaders, the NATO secretary general, and even Ukraine’s president.",
-          "image_url": "https://images.euronews.com/articles/stories/09/74/61/62/696x392_cmsv2_e2e0dcb3-41f7-5768-b177-210b93f7e50f-9746162.jpg",
-          "article_url": "http://www.euronews.com/2026/05/04/armenia-tests-moscows-patience-with-zelenskyy-visit-and-eu-leaders-summit",
-          "published_at": "Mon, 04 May 2026 17:52:47 +0200",
-          "cross_sections": []
-        },
-        {
-          "id": "ZXVyb25ld3MtY2VsZWJyYXRp",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "News",
-          "title": "Celebrations as Modi’s ruling party poised to take control of India's West Bengal state",
-          "summary": "Supporters of Indian prime minister Narendra Modi's Bharatiya Janata Party (BJP) celebrate as trends released by the Election Commission show BJP leading in 176 out of 294 seats in West Bengal.",
-          "image_url": "https://images.euronews.com/articles/stories/09/74/61/21/696x392_cmsv2_7aea1ea3-a343-534e-be4d-5994f2bca315-9746121.jpg",
-          "article_url": "http://www.euronews.com/video/2026/05/04/celebrations-as-modis-ruling-party-poised-to-take-control-of-indias-west-bengal-state",
-          "published_at": "Mon, 04 May 2026 16:15:49 +0200",
-          "cross_sections": []
-        },
-        {
-          "id": "ZXVyb25ld3MtZHViYWktcmVz",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "News",
-          "title": "Dubai residents take shelter as UAE intercepts Iranian missile and drone strike",
-          "summary": "Euronews journalists reported hearing explosions from air defence intercepts above Dubai after a missile alert on Monday, as the UAE said Iran struck an ADNOC-linked tanker in the Strait of Hormuz.",
-          "image_url": "https://images.euronews.com/articles/stories/09/74/60/53/696x392_cmsv2_340f716b-5999-529a-bfac-fa4bef850993-9746053.jpg",
-          "article_url": "http://www.euronews.com/2026/05/04/dubai-residents-take-shelter-as-uae-intercepts-suspected-missile-attack",
-          "published_at": "Mon, 04 May 2026 15:42:24 +0200",
-          "cross_sections": []
-        },
-        {
           "id": "ZXVyb25ld3Mtc2hpcHBpbmct",
           "source_id": "euronews",
           "source_name": "Euronews",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "News",
+          "feed_label": "Business",
           "title": "Shipping giant MSC opens new trade route to bypass Hormuz disruption",
           "summary": "As tensions choke the Strait of Hormuz, Mediterranean Shipping Company races to keep global trade moving with new route.",
           "image_url": "https://images.euronews.com/articles/stories/09/68/98/51/696x392_cmsv2_abac1b5f-cbe0-5d1b-a63b-b5fffc6fc192-9689851.jpg",
           "article_url": "http://www.euronews.com/business/2026/05/04/shipping-giant-msc-opens-new-trade-route-to-bypass-hormuz-disruption",
           "published_at": "Mon, 04 May 2026 14:41:25 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtZXUtYW5kLXVz",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "EU and US trade chiefs to meet as tariff tensions escalate",
+          "summary": "The Turnberry deal is still under negotiation between EU governments and lawmakers before it can take effect on the EU side, and the Commission warned that if the US takes actions deemed inconsistent with the agreement, it reserves the right to consider all options.",
+          "image_url": "https://images.euronews.com/articles/stories/09/69/91/09/696x392_cmsv2_27a8c754-3b8c-5438-9e07-d262104ba13f-9699109.jpg",
+          "article_url": "http://www.euronews.com/my-europe/2026/05/04/eu-and-us-trade-chiefs-to-meet-as-tariff-tensions-escalate",
+          "published_at": "Mon, 04 May 2026 14:17:13 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtYW50aHJvcGlj",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Anthropic in talks to secure UK-based Fractile AI chips and diversify supply",
+          "summary": "Anthropic is reportedly in discussions to procure high-performance AI chips from Fractile, a London-based start-up. The agreement aims to diversify the hardware supply chain of the Claude creator, namely away from Nvidia.",
+          "image_url": "https://images.euronews.com/articles/stories/09/74/56/41/696x392_cmsv2_73bdb870-5da3-5781-8623-185fff9b8c53-9745641.jpg",
+          "article_url": "http://www.euronews.com/business/2026/05/04/anthropic-in-talks-to-secure-uk-based-fractile-ai-chips-and-diversify-supply",
+          "published_at": "Mon, 04 May 2026 13:15:09 +0200",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtZ2FtZXN0b3At",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "GameStop launches $56 billion takeover bid for e-commerce giant eBay",
+          "summary": "The gaming retailer GameStop has launched a surprise $56 billion (€47.8bn) bid to acquire the online marketplace eBay, marking a potential aggressive expansion into global e-commerce.",
+          "image_url": "https://images.euronews.com/articles/stories/09/74/54/95/696x392_cmsv2_3a69d737-5c96-50e3-8a9f-cda201033a00-9745495.jpg",
+          "article_url": "http://www.euronews.com/business/2026/05/04/gamestop-launches-56-billion-takeover-bid-for-e-commerce-giant-ebay",
+          "published_at": "Mon, 04 May 2026 13:07:03 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtZG9uYWxkLXRy",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Donald Trump's EU car tariffs ‘targeting Germany,’ says key German MEP",
+          "summary": "German MEP Bernd Lange said US President Donald Trump’s threat to impose 25% tariffs on EU cars appears to target Germany, following Chancellor Friedrich Merz’s criticism of the US stance on Iran. However, the move would likely breach the EU–US trade agreement reached last summer.",
+          "image_url": "https://images.euronews.com/articles/stories/09/74/50/53/696x392_cmsv2_a8298ec2-7c76-5a9e-b0e8-95b60789bcfe-9745053.jpg",
+          "article_url": "http://www.euronews.com/my-europe/2026/05/04/donald-trumps-eu-car-tariffs-targeting-germany-says-key-german-mep",
+          "published_at": "Mon, 04 May 2026 11:51:20 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtdWFlLC1xYXRh",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "UAE, Qatar seek new Gulf-Asia trade corridor in landmark agreement with South Korea",
+          "summary": "The UAE signed a landmark trade deal with South Korea, the day after it left OPEC, while Qatar is also engaging with Seoul for its own trade agreement. The Gulf states are paving a structural trade corridor with Asia.",
+          "image_url": "https://images.euronews.com/articles/stories/09/74/47/63/696x392_cmsv2_987237d5-8bc6-5ecb-9687-2a7e189f90f2-9744763.jpg",
+          "article_url": "http://www.euronews.com/business/2026/05/04/uae-qatar-seek-new-gulf-asia-trade-corridor-in-landmark-agreement-with-south-korea",
+          "published_at": "Mon, 04 May 2026 08:15:14 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtZXVyb3BlLXZz",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Europe vs the Americas: Where is the number of billionaires growing fastest?",
+          "summary": "Europe's share of global billionaires is set to rise marginally, while the Americas will see a slight decline despite growing in absolute numbers. Euronews Business takes a closer look at the billionaire boom between 2026 and 2031.",
+          "image_url": "https://images.euronews.com/articles/stories/09/74/22/14/696x392_cmsv2_81cf50ca-4d5b-5e06-880d-0adf6e3e3f6f-9742214.jpg",
+          "article_url": "http://www.euronews.com/business/2026/05/03/europe-vs-the-americas-where-is-the-number-of-billionaires-growing-fastest",
+          "published_at": "Sun, 03 May 2026 09:00:52 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtZXVyb3Bl4oCZ",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Europe’s luxury housing boom: Which cities are driving the surge in prime property prices?",
+          "summary": "Prague led Europe's prime property market in 2025 while London saw the largest decline. Tokyo dominated globally with a near 60% surge. Euronews Business takes a closer look at changes in luxury housing prices.",
+          "image_url": "https://images.euronews.com/articles/stories/09/74/33/28/696x392_cmsv2_12c2a3a4-9325-5e9c-82d3-3b59def3e43d-9743328.jpg",
+          "article_url": "http://www.euronews.com/business/2026/05/02/europes-luxury-housing-boom-which-cities-are-driving-the-surge-in-prime-property-prices",
+          "published_at": "Sat, 02 May 2026 09:00:36 +0200",
           "cross_sections": []
         }
       ]
@@ -3262,16 +3264,30 @@
       "category": "Broadcaster",
       "articles": [
         {
-          "id": "ZHctcnVzc2lhLW9mZmVycy11",
+          "id": "ZHctcGVyc29uLXNob3QtbmVh",
           "source_id": "dw",
           "source_name": "DW News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "Top Stories",
+          "title": "Person shot near Washington Monument, US Secret Service says",
+          "summary": "The White House was briefly locked down on Monday after the US Secret Service said an individual was shot by law enforcement near the Washington Monument.",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/person-shot-near-washington-monument-us-secret-service-says/a-77045301?maca=en-rss-en-top-1022-xml-mrss",
+          "published_at": "Mon, 4 May 2026 20:45:00 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "ZHctcnVzc2lhLW9mZmVycy11",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
           "title": "Russia offers Ukraine May 8-9 ceasefire amid WWII anniversary, but threatens major reprisals in same breath",
           "summary": "President Putin has unilaterally declared a two-day truce amid commemorations of the end of World War II in Moscow. Ukraine's President Zelenskyy proposed his own truce starting a couple of days earlier.",
           "image_url": null,
-          "article_url": "https://www.dw.com/en/russia-offers-ukraine-may-8-9-ceasefire-amid-wwii-anniversary-but-threatens-major-reprisals-in-same-breath/a-77045078?maca=en-rss-en-top-1022-xml-mrss",
+          "article_url": "https://www.dw.com/en/russia-offers-ukraine-may-8-9-ceasefire-amid-wwii-anniversary-but-threatens-major-reprisals-in-same-breath/a-77045078?maca=en-rss-en-world-4025-xml-mrss",
           "published_at": "Mon, 4 May 2026 19:31:00 GMT",
           "cross_sections": []
         },
@@ -3430,20 +3446,6 @@
           "article_url": "https://www.dw.com/en/how-serbia-s-government-dominates-the-country-s-media/a-77004243?maca=en-rss-en-world-4025-xml-mrss",
           "published_at": "Sun, 3 May 2026 11:52:00 GMT",
           "cross_sections": []
-        },
-        {
-          "id": "ZHctd2h5LXJ1c3NpYSdzLW5v",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Why Russia's Northern Sea Route is a risk for global trade",
-          "summary": "Russia wants its Northern Sea Route to become an important artery of global trade. However, the Arctic shortcut between Europe and Asia is fraught with both political and environmental hurdles.",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/why-russia-s-northern-sea-route-is-a-risk-for-global-trade/a-76987400?maca=en-rss-en-world-4025-xml-mrss",
-          "published_at": "Sat, 2 May 2026 19:43:00 GMT",
-          "cross_sections": []
         }
       ]
     },
@@ -3454,17 +3456,45 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dG9pLXN1cHJlbWUtY291cnQt",
+          "id": "dG9pLXdlc3QtYmVuZ2FsOi1h",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Supreme Court reverses 2 key tenets of law to deter acid attacks",
+          "title": "West Bengal: Amit Shah's 'bye Didi'   'Anga, Banga, Kalinga' prophecies come true",
           "summary": "",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/supreme-court-reverses-2-key-tenets-of-law-to-deter-acid-attacks/articleshow/130810856.cms",
-          "published_at": "Tue, 05 May 2026 01:15:57 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/india/west-bengal-polls-amit-shahs-bye-didi-anga-banga-kalinga-prophecies-come-true/articleshow/130811061.cms",
+          "published_at": "Tue, 05 May 2026 02:08:47 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dG9pLWVsZWN0aW9uLXJlc3Vs",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Election results: Kerala throws Congress a lifebuoy, but boat still in choppy waters",
+          "summary": "Congress secured a crucial win in Kerala, offering a much-needed morale boost after recent electoral setbacks. Despite this solitary victory, the party faces significant challenges, including a decline in its traditional strongholds and an inability to counter BJP's religious polarization.  The path",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/assembly-election-results-kerala-throws-congress-a-lifebuoy-but-boat-still-in-choppy-waters/articleshow/130810943.cms",
+          "published_at": "Tue, 05 May 2026 01:44:28 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dG9pLWFzc2VtYmx5LWVsZWN0",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Assembly elections result: INDIA footprint fades on Bharat map as allies stumble in WB, TN",
+          "summary": "Recent election results have significantly weakened the INDIA bloc, with key allies DMK and TMC facing defeats. This outcome forces the opposition to reconsider its strategy against the BJP's expanding influence. The alliance must now prioritize unity and joint planning, especially in crucial states",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/assembly-elections-result-2026-india-footprint-fades-on-bharat-map-as-allies-stumble-in-west-bengal-tamil-nadu/articleshow/130810681.cms",
+          "published_at": "Tue, 05 May 2026 01:14:29 +0530",
           "cross_sections": []
         },
         {
@@ -3482,34 +3512,6 @@
           "cross_sections": []
         },
         {
-          "id": "dG9pLSdraGVsYS1ob3llLWdl",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "'Khela hoye geche': 10 moves that helped BJP breach Mamata's Bengal fortress",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/lotus-blooms-in-west-bengal-10-moves-that-helped-bjp-breach-mamata-banerjees-fortress/articleshow/130807356.cms",
-          "published_at": "Mon, 04 May 2026 22:53:56 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dG9pLWFzc2VtYmx5LWVsZWN0",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Assembly election results 2026: Vijay wave, Bengal breakthrough, Kerala reset - 10 takeaways",
-          "summary": "Tamil Nadu witnesses a seismic shift as actor Vijay's party leads, ending decades of Dravidian rule. The BJP achieves a historic win in West Bengal, unseating Mamata Banerjee. Kerala returns to its rotation cycle with the UDF forming the government, while Assam shows pro-incumbency can prevail. Thes",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/assembly-election-results-2026-vijay-wave-bengal-breakthrough-kerala-reset-10-takeaways/articleshow/130801326.cms",
-          "published_at": "Mon, 04 May 2026 18:53:41 +0530",
-          "cross_sections": []
-        },
-        {
           "id": "dG9pLWpwLW1vcmdhbi1jZW8t",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3523,23 +3525,6 @@
           "published_at": "Mon, 04 May 2026 18:40:58 +0530",
           "cross_sections": [
             "jobcuts"
-          ]
-        },
-        {
-          "id": "dG9pLWFzLW1hbnktc2F5LXNv",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "As many say software is dead, Amazon Web Services CEO calls it a 'huge business opportunity’",
-          "summary": "AWS CEO Matt Garman views the AI-driven 'SaaSpocalypse' as a major business opportunity, not a threat.  He highlighted the rise of agentic AI reshaping work and announced new AI-powered tools like the Quick desktop app, aiming to revolutionize personal productivity.  AWS is also deepening its OpenAI",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/technology/tech-news/as-many-say-software-is-dead-amazon-web-services-ceo-matt-garman-calls-it-a-huge-/articleshow/130741418.cms",
-          "published_at": "Mon, 04 May 2026 07:18:00 +0530",
-          "cross_sections": [
-            "tech",
-            "ai"
           ]
         },
         {
@@ -3787,115 +3772,115 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dGhlaGluZHUtdC5uLi1hc3Nl",
+          "id": "dGhlaGluZHUtdGFtaWwtbmFk",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "T.N. Assembly election 2026: DMK’s Periyakaruppan loses by one vote in Tirupattur",
-          "summary": "At the end of the penultimate round of counting, he was leading by 30 votes",
-          "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/34bp7e/article67756497.ece/alternates/LANDSCAPE_1200/1164402.jpg",
-          "article_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-2026-dmks-periyakaruppan-loses-by-one-vote-in-tirupattur/article70940379.ece",
-          "published_at": "Tue, 05 May 2026 01:29:38 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtYXNzYW3igJlz",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Assam’s mandate of assertion and polarisation",
-          "summary": "The BJP’s strategy of conflating Hindu and Assamese identities, along with promoting welfare and development schemes, has led to its decisive victory in the State",
-          "image_url": "https://th-i.thgim.com/public/incoming/fb7bjp/article70940388.ece/alternates/LANDSCAPE_1200/2150_4_5_2026_19_2_11_1_BJP_04052026_08.JPG",
-          "article_url": "https://www.thehindu.com/opinion/op-ed/assams-mandate-of-assertion-and-polarisation/article70940316.ece",
-          "published_at": "Tue, 05 May 2026 01:28:54 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtcHVkdWNoZXJy",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Puducherry election results 2026 highlights: NDA set to return to power",
-          "summary": "The AINRC has improved its tally by two seats in the 2026 Assembly polls, while the BJP’s seats in the Puducherry Assembly have come down by two from its present strength of six",
+          "title": "Tamil Nadu election results 2026: DMK’s political journey will continue without any slackness, says Stalin after electoral defeat",
+          "summary": "TVK secures 108 seats, leading over DMK with 59 seats; PM Modi and Congress leader Rahul Gandhi congratulate TVK's poll performance",
           "image_url": null,
-          "article_url": "https://www.thehindu.com/elections/puducherry-assembly/puducherry-election-results-live-updates-may-4-2026/article70935521.ece",
-          "published_at": "Tue, 05 May 2026 01:26:59 +0530",
+          "article_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-election-results-live-updates-4-may-2026/article70934968.ece",
+          "published_at": "Tue, 05 May 2026 02:39:00 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUtdGhlLXNpZ25p",
+          "id": "dGhlaGluZHUtYS1yb3VuZC1v",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "The significant erasure of democracy in Bengal",
-          "summary": "The Trinamool government, through its anti-democratic practices and failure to focus on economic development, has lost its connect with the people",
-          "image_url": "https://th-i.thgim.com/public/incoming/n5cr13/article70940407.ece/alternates/LANDSCAPE_1200/APTOPIX_India_State_Election_14767.jpg",
-          "article_url": "https://www.thehindu.com/opinion/op-ed/the-significant-erasure-of-democracy-in-bengal/article70940308.ece",
-          "published_at": "Tue, 05 May 2026 01:25:27 +0530",
+          "title": "A round of elections that signals structural dominance",
+          "summary": "The Assembly election results strengthen the argument for the BJP’s structural political dominance",
+          "image_url": "https://th-i.thgim.com/public/incoming/3na13s/article70939592.ece/alternates/LANDSCAPE_1200/AFP_A9QG8E9.jpg",
+          "article_url": "https://www.thehindu.com/opinion/lead/a-round-of-elections-that-signals-structural-dominance/article70939591.ece",
+          "published_at": "Tue, 05 May 2026 02:36:25 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUtYS1jb21tYW5k",
+          "id": "dGhlaGluZHUtY2FwaXRhbGlz",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "A commander leads the charge",
-          "summary": "C. Joseph Vijay, once known as ‘Illaya Thalapathy’ or young commander among his fans, transitioned a decade ago to Thalapathy (commander), a moniker prescient enough, for he has led his people through one of the most historic debut political appearances in the history of elections in India",
-          "image_url": "https://th-i.thgim.com/public/incoming/2j4uzk/article70940406.ece/alternates/LANDSCAPE_1200/PTI05_04_2026_000568A.jpg",
-          "article_url": "https://www.thehindu.com/news/national/tamil-nadu/a-commander-leads-the-charge/article70940176.ece",
-          "published_at": "Tue, 05 May 2026 01:21:40 +0530",
+          "title": "Capitalising on changing Tamil voter mood",
+          "summary": "The leader of the Tamilaga Vettri Kazhagam now occupies a space hollowed out by a politics whose rhetorical power has lost its resonance",
+          "image_url": "https://th-i.thgim.com/public/incoming/oqn0r6/article70939534.ece/alternates/LANDSCAPE_1200/PTI04_12_2026_000531A.jpg",
+          "article_url": "https://www.thehindu.com/opinion/op-ed/capitalising-on-changing-tamil-voter-mood/article70939530.ece",
+          "published_at": "Tue, 05 May 2026 02:32:41 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUtZ292ZXJub3It",
+          "id": "dGhlaGluZHUt4oCLbG9zdC1h",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Governor Arlekar likely to arrive in Chennai on Tuesday morning",
+          "title": "​Lost and found: On the 2026 Assembly elections",
+          "summary": "The National Democractic Alliance’s success in Bengal and Assam is partly offset by its failure in Tamil Nadu and Kerala",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/opinion/editorial/lost-and-found-on-the-five-2026-assembly-elections/article70939648.ece",
+          "published_at": "Tue, 05 May 2026 02:17:34 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtZm9ybWVyLWNo",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Former Chief Minister Palaniswami wins for the sixth time in Edappadi",
           "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/gh6hir/article70940405.ece/alternates/LANDSCAPE_1200/10018_19_2_2026_19_42_1_2_ARLEKER_03.JPG",
-          "article_url": "https://www.thehindu.com/news/national/tamil-nadu/governor-arlekar-likely-to-arrive-in-chennai-on-tuesday-morning/article70938797.ece",
-          "published_at": "Tue, 05 May 2026 01:19:45 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtdmlqYXnigJlz",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Vijay’s party breaks AIADMK’s hold over western T.N.",
-          "summary": "In a remarkable performance in the western region, the kongu belt, the TVK won 27 seats out of 57 seats.",
-          "image_url": "https://th-i.thgim.com/public/incoming/yrrim6/article70940404.ece/alternates/LANDSCAPE_1200/2085_4_5_2026_19_42_13_2_INSHOT_20260504_185536974.JPG",
-          "article_url": "https://www.thehindu.com/news/cities/Coimbatore/vijays-party-breaks-aiadmks-hold-over-western-tn/article70939336.ece",
-          "published_at": "Tue, 05 May 2026 01:18:55 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtaW5kaWEtY29u",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "India continues to fare poorly in shotgun World Cup; veteran Mairaj placed 26th",
-          "summary": "This is the second shotgun World Cup of the season, following the leg in Tangier last month, where Indian shooters failed to secure a medal in the crucial Asian Games year",
           "image_url": null,
-          "article_url": "https://www.thehindu.com/sport/other-sports/india-continues-to-fare-poorly-in-shotgun-world-cup-veteran-mairaj-placed-26th/article70940381.ece",
-          "published_at": "Tue, 05 May 2026 01:18:04 +0530",
+          "article_url": "https://www.thehindu.com/news/cities/Coimbatore/former-chief-minister-wins-for-the-sixth-time-in-edappadi/article70939315.ece",
+          "published_at": "Tue, 05 May 2026 02:03:14 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtZ292ZXJuYW5j",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Governance is the ultimate currency in Kerala",
+          "summary": "The LDF’s unprecedented decade long-run has come to an end with the UDF winning the mandate by offering change and speaking to concrete grievances",
+          "image_url": "https://th-i.thgim.com/public/incoming/r9g8bt/article70940416.ece/alternates/LANDSCAPE_1200/NH04UDF11.JPG",
+          "article_url": "https://www.thehindu.com/opinion/op-ed/governance-is-the-ultimate-currency-in-kerala/article70940302.ece",
+          "published_at": "Tue, 05 May 2026 01:56:23 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtZG1rLXdpbGwt",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "DMK will function as an efficient Opposition: M.K. Stalin",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/39zfeb/article70939766.ece/alternates/LANDSCAPE_1200/4861_11_4_2026_20_8_8_4_DMK_03.JPG",
+          "article_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/dmk-will-function-as-an-efficient-opposition-mk-stalin/article70939690.ece",
+          "published_at": "Tue, 05 May 2026 01:52:21 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtbmV3LWN5Y2xp",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "New cycling star Paul Seixas to race the Tour de France at 19, with a whole country watching",
+          "summary": "The 19-year-old Frenchman, widely regarded as a potential great and France’s best hope for a future Tour de France winner, announced his participation at cycling’s showpiece race in a video released by his CMA CGM Decathlon team",
+          "image_url": "https://th-i.thgim.com/public/incoming/fw8jx2/article70940417.ece/alternates/LANDSCAPE_1200/Belgium_Cycling_Liege_Bastogne_Liege_771_8.jpg",
+          "article_url": "https://www.thehindu.com/sport/other-sports/new-cycling-star-paul-seixas-to-race-the-tour-de-france-at-19-with-a-whole-country-watching/article70940385.ece",
+          "published_at": "Tue, 05 May 2026 01:52:04 +0530",
           "cross_sections": []
         },
         {
@@ -4372,6 +4357,76 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YWxqYXplZXJhLWlzLWlzcmFl",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Is Israel’s interception of the Global Sumud Flotilla legal?",
+          "summary": "Spain says Israel's detention of two activists is abduction.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/inside-story/2026/5/4/is-israels-interception-of-the-global-sumud-flotilla-legal?traffic_source=rss",
+          "published_at": "Mon, 04 May 2026 21:00:23 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLXZpZGVvOi1t",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Video: Modi’s BJP poised to take control in India’s West Bengal",
+          "summary": "India Prime Minister Narendra Modi’s ruling BJP is set to GAIN (wrest) control of West Bengal.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/video-modis-bjp-poised-to-take-control-in-indias-west-bengal?traffic_source=rss",
+          "published_at": "Mon, 04 May 2026 20:51:48 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLXJ1c3NpYS1h",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Russia and Ukraine declare competing ceasefires",
+          "summary": "Moscow's declaration of May 9 truce comes as Kyiv revels in its adversary's 'fear' of Ukrainian drones.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/5/4/russia-and-ukraine-declare-competing-ceasefires?traffic_source=rss",
+          "published_at": "Mon, 04 May 2026 20:44:46 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLXBvbGljZS1j",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Police clash with protesters after ICE arrest in New York",
+          "summary": "Police clashed with protesters outside a New York hospital where a man arrested by ICE agents was being treated.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/police-clash-with-protesters-after-ice-arrest-in-new-york?traffic_source=rss",
+          "published_at": "Mon, 04 May 2026 20:39:37 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLW1vc2Nvdy1y",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Moscow rehearses V-Day parade marking WWII victory",
+          "summary": "Russia rehearsed its Victory Day parade and declared a ceasefire with Ukraine to cover the May 9 celebrations.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/moscow-rehearses-v-day-parade-marking-wwii-victory?traffic_source=rss",
+          "published_at": "Mon, 04 May 2026 20:29:04 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "YWxqYXplZXJhLW1hbGktbGVh",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
@@ -4412,78 +4467,6 @@
           "article_url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/iran-us-clash-over-alleged-warship-attack-in-strait-of-hormuz?traffic_source=rss",
           "published_at": "Mon, 04 May 2026 19:02:46 +0000",
           "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXphbWJpYS1k",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Zambia delaying US deals over minerals and data demands",
-          "summary": "Government calls for partnership not aid as it rejects US funds due to strategic autonomy concerns.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/5/4/zambia-delaying-us-deals-over-minerals-and-data-demands?traffic_source=rss",
-          "published_at": "Mon, 04 May 2026 18:50:52 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXRhY2tsaW5n",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Tackling methane emissions key for climate change and energy security: IEA",
-          "summary": "Dealing with emissions could help alleviate effects of Iran crisis on global energy supply, says report.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/5/4/tackling-methane-emissions-key-for-climate-change-and-energy-security-iea?traffic_source=rss",
-          "published_at": "Mon, 04 May 2026 18:34:32 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLWNhci1wbG91",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Car ploughs into pedestrians in central Leipzig, Germany",
-          "summary": "A driver struck a group of people on a street in Leipzig, Germany, killing two and injuring several.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/car-ploughs-into-pedestrians-in-central-leipzig-germany?traffic_source=rss",
-          "published_at": "Mon, 04 May 2026 18:23:51 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLWNhci1yYW1t",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Car-ramming incident kills at least two people in Germany",
-          "summary": "Police in Leipzig 'don't know ⁠anything about the culprit' but have arrested the driver and say ​danger is over.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/5/4/car-ramming-kills-at-least-two-people-in-germany?traffic_source=rss",
-          "published_at": "Mon, 04 May 2026 17:57:42 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXVzLXN1cHJl",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "US Supreme Court temporarily lifts ban on abortion pill mail delivery",
-          "summary": "Top court restores telehealth access to mifepristone for at least one week as legal challenges to medication play out.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/5/4/us-supreme-court-temporarily-lifts-ban-on-abortion-pill-mail-delivery?traffic_source=rss",
-          "published_at": "Mon, 04 May 2026 17:29:33 +0000",
-          "cross_sections": []
         }
       ]
     },
@@ -4494,117 +4477,115 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "YXJhYm5ld3MtZWwtc2lzaS1z",
+          "id": "YXJhYm5ld3MtZGVhZGxpZXN0",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "El-Sisi says Egypt in ‘state of near-emergency’ as war threatens economy",
-          "summary": "CAIRO: Egyptian President Abdel Fattah El-Sisi said Thursday his country was in an economic “state of near-emergency” as a result of the Middle East war, warning of runaway inflation.\n\tThe Arab world’s most populous nation has not been physically impacted by the US and Israeli war with Iran, which h",
+          "title": "Deadliest year ever for Red Sea migrants with 922 deaths: UN",
+          "summary": "ADDIS ABABA: The number of migrants who died on the “Eastern Route” from the Horn of Africa to the Arabian Peninsula doubled to a record high of 922 last year, the UN migration agency said Wednesday.\n\tTens of thousands of migrants from Ethiopia, Somalia and neighboring countries take the route acros",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2635410/middle-east",
-          "published_at": "Thu, 05 Mar 2026 11:03:29 +03",
+          "article_url": "https://www.arabnews.com/node/2637597/world",
+          "published_at": "Wed, 25 Mar 2026 12:03:39 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtaG93LWlzcmFl",
+          "id": "YXJhYm5ld3Mtcm9oaW5neWEt",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "How Israel’s ‘buffer zone’ plan could redraw the map of southern Lebanon",
-          "summary": "BEIRUT: Lebanon faces what officials described as “one of the most dangerous moments in recent memory” after Hezbollah launched attacks on Israeli forces from areas both south and north of the Litani River, triggering a renewed Israeli air and ground campaign.\n\n\tAnnouncing its ground incursion into ",
+          "title": "Rohingya refugees in Bangladesh worry ahead of food aid cuts",
+          "summary": "DHAKA: Rohingya refugees in Bangladesh expressed concern on Wednesday as the cash-strapped UN World Food Programme (WFP) prepares to cut aid for large portions of the 1.2 million-strong group.\n\tBangladesh’s vast refugee camps shelter Rohingya who fled persecution in neighboring war-torn Myanmar, wit",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2635409/middle-east",
-          "published_at": "Thu, 05 Mar 2026 10:03:55 +03",
+          "article_url": "https://www.arabnews.com/node/2637600/world",
+          "published_at": "Wed, 25 Mar 2026 12:03:32 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtaXNyYWVsLWRl",
+          "id": "YXJhYm5ld3MtZWd5cHQtdGFy",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Israel decided to kill Khamenei in November, defense minister says",
-          "summary": "JERUSALEM: Israel took the decision to kill Iran’s Supreme Leader Ali Khamenei in November and was planning to carry out the operation around six months later, Defense Minister Israel Katz said on Thursday.\n\tKhamenei was killed in the first hours of the US-Israeli air campaign that began on Saturday",
+          "title": "Egypt targeting 5.4% GDP growth in 2026/27 budget",
+          "summary": "RIYADH: Egypt is targeting gross domestic product growth of 5.4 percent, inflation stabilization, and a primary surplus of 1.2 trillion Egyptian pounds ($22.7 billion) during the 2026/27 fiscal year, a top official revealed.",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2635406/middle-east",
-          "published_at": "Thu, 05 Mar 2026 10:03:51 +03",
+          "article_url": "https://www.arabnews.com/node/2637598/business-economy",
+          "published_at": "Wed, 25 Mar 2026 12:03:29 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtbWFjcm9uLWNh",
+          "id": "YXJhYm5ld3MtcGlm4oCZcy1m",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Macron calls on Israel, Iran and Hezbollah to prevent Lebanon being embroiled in conflict",
-          "summary": "LONDON: Emmanuel Macron on Thursday called on Israel and Iran not to embroil Lebanon in the conflict sweeping the Middle East.\n\n\tThe French president made his plea as panic swept through Beirut after Israel ordered residents to evacuate the southern suburbs of the Lebanese capital and three villages",
+          "title": "PIF’s Folk Maritime redirects its routes to Red Sea to keep pace with shipping shifts",
+          "summary": "RIYADH: Amid the rapid shifts in regional maritime transport and the increasing rerouting of shipping away from the Arabian Gulf, Red Sea ports, particularly Jeddah Port, are emerging as key hubs for accommodating container traffic and enhancing the stability of supply chains in the region.",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2635405/middle-east",
-          "published_at": "Thu, 05 Mar 2026 10:03:44 +03",
+          "article_url": "https://www.arabnews.com/node/2637602/business-economy",
+          "published_at": "Wed, 25 Mar 2026 12:03:18 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtdHJ1bXAtZmly",
+          "id": "YXJhYm5ld3MtZW1lYS1wb3J0",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Trump fires homeland security chief Kristi Noem",
-          "summary": "WASHINGTON: US President Donald Trump on Thursday fired Kristi Noem as head of the Department of Homeland Security, the agency responsible for carrying out his sweeping immigration crackdown.\n\tAccording to multiple media reports, Trump was upset with Noem’s testimony at a Senate hearing this week wh",
+          "title": "EMEA ports have rating headroom to weather Hormuz closure: Fitch",
+          "summary": "RIYADH: Ports across Europe, the Middle East and Africa are broadly well-positioned to absorb the economic shock of a prolonged Iran conflict and a potential closure of the Strait of Hormuz, with most maintaining sufficient rating headroom, Fitch Ratings said.\n\n\tDespite the war significantly disrupt",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2635407/world",
-          "published_at": "Thu, 05 Mar 2026 10:03:32 +03",
+          "article_url": "https://www.arabnews.com/node/2637608/business-economy",
+          "published_at": "Wed, 25 Mar 2026 02:03:15 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3Mtam9yZGFu4oCZ",
+          "id": "YXJhYm5ld3MtZWd5cHTigJlz",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Jordan’s king condemns Iranian attacks in region during talks with Syrian president",
-          "summary": "LONDON: King Abdullah of Jordan and President Ahmad Al-Sharaa of Syria discussed on Thursday the dangerous developments in the region this week following the US and Israeli attacks against Iran that began on Saturday.\n\n\tDuring their telephone conversation, both leaders emphasized the need for dialog",
+          "title": "Egypt’s Waterway plans to launch a real estate fund exceeding $190m",
+          "summary": "LONDON: Egypt’s The Waterway Developments plans to establish a real estate investment fund worth 10 billion Egyptian pounds ($190.2 million) in the first half of this year to help finance its project spending, CEO Hossam Hassan told Asharq.\n\n\tThe planned fund will be backed by income-generating real",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2635404/middle-east",
-          "published_at": "Thu, 05 Mar 2026 10:03:26 +03",
+          "article_url": "https://www.arabnews.com/node/2637603/business-economy",
+          "published_at": "Wed, 25 Mar 2026 01:03:51 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtZXVyb3BvbC13",
+          "id": "YXJhYm5ld3MtcnVzc2lhLXNh",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Europol warns Iran crisis raises threat of terror, extremism and cyberattacks",
-          "summary": "MADRID: The Middle East conflict will have “immediate repercussions” for European Union security with an increased threat of terrorism, serious and organized crime as well as violent extremism and cyberattacks, European police body Europol told Spanish news agency EFE on Thursday.\n\tEuropol spokesman",
+          "title": "Russia says it shot down almost 400 Ukrainian drones as Moscow and Kyiv escalate aerial barrages",
+          "summary": "Russian air defenses downed 389 incoming Ukrainian drones, Russia’s Defense Ministry said Wednesday, in what was the largest reported overnight attack on Russian regions and Crimea since Moscow’s forces invaded Ukraine more than four years ago.\n\tThe drones were stopped over 13 Russian regions as wel",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2635408/world",
-          "published_at": "Thu, 05 Mar 2026 10:03:24 +03",
-          "cross_sections": [
-            "tech"
-          ]
+          "article_url": "https://www.arabnews.com/node/2637605/world",
+          "published_at": "Wed, 25 Mar 2026 01:03:45 +03",
+          "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3Mta2FuZS10by1t",
+          "id": "YXJhYm5ld3MtZnVsbC1jYXJk",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Kane to miss Bayern game against Gladbach with calf knock",
-          "summary": "BERLIN: Harry Kane will miss Bayern Munich’s Bundesliga match against Borussia Moenchengladbach with a calf injury, coach Vincent Kompany said on Thursday.\n\tThe England striker, who has been an ever-present for Bayern this season, should be fit in time for the Champions League last-16 first leg at A",
+          "title": "Full card announced for PFL Chicago",
+          "summary": "NEW YORK: The Professional Fighters League has announced the full fight card for PFL Chicago at Wintrust Arena on Saturday, April 11.\n\n\tIn the main event, former Bellator bantamweight champion Sergio Pettis (25-7) meets undefeated rising contender Mitch McKee (10-0) in a pivotal 135-pound showdown. ",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2635402/sport",
-          "published_at": "Thu, 05 Mar 2026 09:03:33 +03",
+          "article_url": "https://www.arabnews.com/node/2637604/sport",
+          "published_at": "Wed, 25 Mar 2026 01:03:37 +03",
           "cross_sections": []
         }
       ]
@@ -4766,7 +4747,7 @@
         {
           "id": "cnet",
           "name": "CNET",
-          "count": 8
+          "count": 7
         },
         {
           "id": "venturebeat",
@@ -4808,7 +4789,7 @@
         {
           "id": "cnbc",
           "name": "CNBC",
-          "count": 15
+          "count": 16
         },
         {
           "id": "fox",
@@ -4852,7 +4833,7 @@
         {
           "id": "toi",
           "name": "The Times of India",
-          "count": 21
+          "count": 20
         },
         {
           "id": "thehindu",
@@ -4901,6 +4882,22 @@
       "icon": "💻",
       "articles": [
         {
+          "id": "Y25iY3RlY2gtcGFsYW50aXIt",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Palantir tops estimates on 85% revenue growth, fastest expansion since market debut in 2020",
+          "summary": "Palantir reported better-than-expected revenue and profit, driven by growth in sales to U.S. government agencies.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/04/palantir-pltr-q1-earnings-report-2026.html",
+          "published_at": "Mon, 04 May 2026 21:12:38 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "Y25iYy1wYWxhbnRpci10b3Bz",
           "source_id": "cnbc",
           "source_name": "CNBC",
@@ -4911,7 +4908,154 @@
           "summary": "Palantir reported better-than-expected revenue and profit, driven by growth in sales to U.S. government agencies.",
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/05/04/palantir-pltr-q1-earnings-report-2026.html",
-          "published_at": "Mon, 04 May 2026 20:07:05 GMT",
+          "published_at": "Mon, 04 May 2026 21:12:38 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iY3RlY2gtcGludGVyZXN0",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Pinterest surges 17% after earnings beat as company posts strong guidance",
+          "summary": "Pinterest cut nearly 15% of the company's workforce and reduced office space in January as it pushes more resources into AI.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/04/pinterest-pins-q1-earnings-report-2026.html",
+          "published_at": "Mon, 04 May 2026 21:04:52 GMT",
+          "cross_sections": [
+            "tech",
+            "jobcuts"
+          ]
+        },
+        {
+          "id": "Y25iYy1waW50ZXJlc3Qtc3Vy",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Pinterest surges 17% after earnings beat as company posts strong guidance",
+          "summary": "Pinterest cut nearly 15% of the company's workforce and reduced office space in January as it pushes more resources into AI.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/04/pinterest-pins-q1-earnings-report-2026.html",
+          "published_at": "Mon, 04 May 2026 21:04:52 GMT",
+          "cross_sections": [
+            "tech",
+            "jobcuts"
+          ]
+        },
+        {
+          "id": "Y25iY3RlY2gtc2VjLWFuZC1l",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "SEC and Elon Musk agree to settle lawsuit over Twitter buyout in 2022",
+          "summary": "The SEC and Elon Musk agreed to settle a lawsuit filed by the regulator last year against the world's richest person.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/04/sec-and-elon-musk-agree-to-settle-lawsuit-over-twitter-buyout-in-2022.html",
+          "published_at": "Mon, 04 May 2026 20:52:38 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iYy1zZWMtYW5kLWVsb24t",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "SEC and Elon Musk agree to settle lawsuit over Twitter buyout in 2022",
+          "summary": "The SEC and Elon Musk agreed to settle a lawsuit filed by the regulator last year against the world's richest person.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/04/sec-and-elon-musk-agree-to-settle-lawsuit-over-twitter-buyout-in-2022.html",
+          "published_at": "Mon, 04 May 2026 20:52:38 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "emRuZXQtdGhpcy13ZWFyYWJs",
+          "source_id": "zdnet",
+          "source_name": "ZDNet",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "This wearable gadget effectively soothes my migraines and headaches, and it's under $50",
+          "summary": "The Renpho Eyeris 2 Massager helps alleviate my headaches and tired eyes, and I can stream music with it too.",
+          "image_url": null,
+          "article_url": "https://www.zdnet.com/article/renpho-eyeris-2-massager-testimonial/",
+          "published_at": "Mon, 04 May 2026 20:44:58 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhldmVyZ2Utc2t5bGlnaHTi",
+          "source_id": "theverge",
+          "source_name": "The Verge",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Skylight’s 15-inch smart calendar is down to its lowest price to date",
+          "summary": "Skylight’s color-coded smart calendar supports two-way syncing with Google Calendar, Microsoft Outlook, and Apple’s iCloud calendar, among others. | Image: Skylight\t\n\nWhen you’re juggling more than just your own calendar, staying organized can be overwhelming. Fortunately, the Skylight Calendar 2 ca",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/skylightcalendar2.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "article_url": "https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale",
+          "published_at": "2026-05-04T20:44:06.000Z",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dmVudHVyZWJlYXQtaW5zaWRl",
+          "source_id": "venturebeat",
+          "source_name": "VentureBeat",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Inside AMEX’s agentic commerce stack: How intent contracts and single-use tokens enforce AI transactions",
+          "summary": "American Express (Amex) is building a system that lets AI agents shop and pay on behalf of users — but right now it’s only within its own payment network, and still involves a black box that could hinder trust and auditability. \nAmex already participates in agentic commerce protocol projects, especi",
+          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/366YED8XdafVnuQNZDTeo4/fed88723114b431a6bf19c1080a4f9a3/crimedy7_illustration_of_a_robot_on_a_shopping_spree_--ar_169_75dad0d3-252d-4c33-b253-e0bb0f047adf_1.png?w=300&q=30",
+          "article_url": "https://venturebeat.com/orchestration/inside-amexs-agentic-commerce-stack-how-intent-contracts-and-single-use-tokens-enforce-ai-transactions",
+          "published_at": "Mon, 04 May 2026 20:33:56 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "emRuZXQtdGhpcy1lLXJlYWRl",
+          "source_id": "zdnet",
+          "source_name": "ZDNet",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "This e-reader lets you view in color, and it's $60 cheaper now",
+          "summary": "The Kindle Colorsoft brings a smooth color display to your favorite books, and it's dropped in price again.",
+          "image_url": null,
+          "article_url": "https://www.zdnet.com/article/kindle-colorsoft-deal/",
+          "published_at": "Mon, 04 May 2026 20:16:30 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25ldC1hbm90aGVyLW1hYy1t",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Another Mac Mini Option Goes MIA as Memory Shortage Rages On",
+          "summary": "The cheapest M4 Mac Mini variant has been completely dropped from Apple's product lineup. Previously, more expensive Mac Mini and Mac Studio configs have disappeared from the store.",
+          "image_url": "https://www.cnet.com/a/img/resize/864cb051b02b46a20d09836ab631bf76ee0f38e7/hub/2024/11/06/1ac668d1-b2fd-4af9-9e08-7d1fbd6f07d7/mac-mini-m4-03.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "article_url": "https://www.cnet.com/tech/computing/disappearing-macs-global-ram-crisis-likely-hits-apple/",
+          "published_at": "Mon, 04 May 2026 20:15:21 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -4928,6 +5072,38 @@
           "image_url": null,
           "article_url": "https://www.zdnet.com/article/samsung-galaxy-s26-verizon-deal/",
           "published_at": "Mon, 04 May 2026 20:04:58 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJzdGVjaG5pY2EtY2FuYWRp",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Canadian election databases use \"canary traps\"—and they work",
+          "summary": "Intentional errors can be useful.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-626440930-1152x648-1777922464.jpg",
+          "article_url": "https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/",
+          "published_at": "Mon, 04 May 2026 19:45:57 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25ldC1tdXN0YWNoZS1taXNj",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Mustache Mischief: Kids Bypass UK's Digital Age Barriers",
+          "summary": "Kids used to draw on their faces for fun. Now, they're doing it to play Roblox.",
+          "image_url": "https://www.cnet.com/a/img/resize/3c16918f841aef7f3b01237db8abe92d0fc25529/hub/2026/05/04/ff64953d-94f1-4c2c-b5bc-00d9fbf0796b/mustache-gettyimages-166419623.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "article_url": "https://www.cnet.com/tech/services-and-software/one-third-of-uk-children-successfully-circumvent-online-age-verification/",
+          "published_at": "Mon, 04 May 2026 19:43:35 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5050,38 +5226,6 @@
           ]
         },
         {
-          "id": "Y25ldC1pb3MtMjYuNS13aWxs",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "iOS 26.5 Will Likely Bring End-to-End Encrypted RCS Messaging to Your iPhone",
-          "summary": "Apple could release the update to the general public next week.",
-          "image_url": "https://www.cnet.com/a/img/resize/f60d29106acd4405eca360778e45159ee3cdc4af/hub/2025/06/10/c0df5012-76b6-48c3-8402-20adb5a7d86f/wwdc25ios26.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/tech/services-and-software/ios-26-5-will-likely-bring-end-to-end-encrypted-rcs-messaging-to-your-iphone-soon/",
-          "published_at": "Mon, 04 May 2026 18:54:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXphbWJpYS1k",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Zambia delaying US deals over minerals and data demands",
-          "summary": "Government calls for partnership not aid as it rejects US funds due to strategic autonomy concerns.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/5/4/zambia-delaying-us-deals-over-minerals-and-data-demands?traffic_source=rss",
-          "published_at": "Mon, 04 May 2026 18:50:52 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "dGhldmVyZ2Utc3dpdGNoYm90",
           "source_id": "theverge",
           "source_name": "The Verge",
@@ -5131,22 +5275,6 @@
           ]
         },
         {
-          "id": "Y25ldC1uZWVkLXRvLWFzay1q",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Need to Ask Jeeves Something? Sorry, It's Too Late",
-          "summary": "Ask.com and its search-query butler mascot Jeeves are now internet history.",
-          "image_url": "https://www.cnet.com/a/img/resize/5f46ee802bbc5da77beb2b77caf327b5e96a5755/hub/2026/05/04/7d29db54-253d-4a55-a183-dd24082bf1c5/gettyimages-494578579.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/culture/internet/need-to-ask-jeeves-something-sorry-its-too-late/",
-          "published_at": "Mon, 04 May 2026 18:34:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "emRuZXQtaS1mb3VuZC1hbi1h",
           "source_id": "zdnet",
           "source_name": "ZDNet",
@@ -5169,8 +5297,8 @@
           "source_region": "IT Focus",
           "source_category": "Tech Media",
           "feed_label": "Latest",
-          "title": "Hackers are still exploiting the cPanel bug to gain control of thousands of websites",
-          "summary": "Days after the disclosure of a critical vulnerability in popular web hosting software cPanel and WHM, hackers keep targeting and hacking websites.",
+          "title": "Hackers are mass-exploiting the cPanel bug to gain control of thousands of websites",
+          "summary": "Days after the disclosure of a critical vulnerability in popular web hosting software cPanel and WHM, hackers are now targeting and hacking thousands of vulnerable websites.",
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/05/04/hackers-are-still-exploiting-the-cpanel-bug-to-gain-control-of-thousands-of-websites/",
           "published_at": "Mon, 04 May 2026 18:02:18 +0000",
@@ -5206,55 +5334,6 @@
           "image_url": null,
           "article_url": "https://www.zdnet.com/article/wd-black-sn850x-4tb-best-buy-deal/",
           "published_at": "Mon, 04 May 2026 17:51:28 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "emRuZXQteW91ci1jaGF0Z3B0",
-          "source_id": "zdnet",
-          "source_name": "ZDNet",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Your ChatGPT account just got more secure, but you have to opt in - here's how",
-          "summary": "OpenAI adds a feature called Advanced Account Security with four opt-in settings designed to safeguard your account and personal data.",
-          "image_url": null,
-          "article_url": "https://www.zdnet.com/article/chatgpt-advanced-account-security/",
-          "published_at": "Mon, 04 May 2026 17:38:00 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "emRuZXQtd2hhdGV2ZXIteW91",
-          "source_id": "zdnet",
-          "source_name": "ZDNet",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Whatever you do, don't buy cheap DisplayPort cables for your PC - here's why",
-          "summary": "The smallest manufacturing error can cause big issues with your PC. Here's how to prevent it from happening in the first place.",
-          "image_url": null,
-          "article_url": "https://www.zdnet.com/article/dont-buy-cheap-displayport-cables-or-they-can-brick-your-pc/",
-          "published_at": "Mon, 04 May 2026 17:32:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25ldC1iZXN0LWhlYWRzZXRz",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Best Headsets for Working From Home in 2026, According to CNET's Audio Expert",
-          "summary": "I tested dozens of headphones and headsets to find the most comfortable models with strong call quality and solid PC compatibility for video meetings. Here are my top picks.",
-          "image_url": "https://www.cnet.com/a/img/resize/0ba319d29cb1e7d7d7d913d9722177596d5a657f/hub/2019/06/05/0943f3ed-6fcd-492f-a344-cfa889836db5/43-bose-noise-cancelling-headphones-700.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/",
-          "published_at": "Mon, 04 May 2026 17:16:00 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5454,104 +5533,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "ZXR0ZWNoLWNyeXB0by1pbnZl",
-          "source_id": "ettech",
-          "source_name": "ETtech",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Crypto investor Katie Haun raises $1 billion for new funds, expands to AI agents",
-          "summary": "Former prosecutor Katie Haun has secured $1 billion for new venture funds, focusing on crypto and blockchain companies, with a strategic blend of AI and financial services.  Her firm, Haun Ventures, aims for global investments, leveraging her unique background in law enforcement and tech to navigate",
-          "image_url": null,
-          "article_url": "https://economictimes.indiatimes.com/tech/funding/crypto-investor-katie-haun-raises-1-billion-for-new-funds-expands-to-ai-agents/articleshow/130804852.cms",
-          "published_at": "Mon, 04 May 2026 20:42:14 +0530",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtbWFjLW1p",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Mac mini starting price goes up to $799, may be hard to get for \"months\"",
-          "summary": "Chip shortages and demand from AI enthusiasts are both playing a part.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/IMG_0159-1152x648.jpeg",
-          "article_url": "https://arstechnica.com/gadgets/2026/05/apple-may-take-several-months-to-catch-up-to-mac-mini-and-studio-demand/",
-          "published_at": "Mon, 04 May 2026 14:55:48 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "d2lyZWQtZGhzLWRlbWFuZGVk",
-          "source_id": "wired",
-          "source_name": "Wired",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "DHS Demanded Google Surrender Data on Canadian’s Activity, Location Over Anti-ICE Posts",
-          "summary": "Using a 1930s trade law, Homeland Security targeted the man—who hasn’t entered the US in more than a decade—following posts on X condemning the killings of Renee Good and Alex Pretti.",
-          "image_url": "https://media.wired.com/photos/69f3b2974c4a83683f43ca9b/master/pass/Security_DHSDemandedLocationData_1080x1080_02.jpg",
-          "article_url": "https://www.wired.com/story/dhs-demanded-google-surrender-data-on-canadians-activity-location-over-anti-ice-posts/",
-          "published_at": "Mon, 04 May 2026 14:45:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhldmVyZ2UtdGVzbGEtaGl0",
-          "source_id": "theverge",
-          "source_name": "The Verge",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Tesla hits Musk’s threshold for ‘safe unsupervised’ driving",
-          "summary": "We've crossed yet another one of Elon Musk's self-driving thresholds. Tesla's fleet of vehicles using the company's Full Self-Driving (Supervised) system has driven over 10 billion miles, according to the company's updated safety page. That means the company has crossed the line Musk set earlier thi",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2220873080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "article_url": "https://www.theverge.com/transportation/922900/tesla-10-billion-miles-unsupervised-fsd-robotaxi-elon-musk",
-          "published_at": "2026-05-04T14:28:01.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "d2lyZWQtZXhjbHVzaXZlOi1t",
-          "source_id": "wired",
-          "source_name": "Wired",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Exclusive: Metalenz Has Figured Out a Way to Make Face ID Invisible",
-          "summary": "Metalenz’s Polar ID face-scanning technology works even when the camera is hidden under the display.",
-          "image_url": "https://media.wired.com/photos/69f4d1a5af4056c62e8f1ff7/master/pass/Gear_ThisCompanyHasFiguredOutaWaytoHideFaceID.jpg",
-          "article_url": "https://www.wired.com/story/metalenz-has-figured-out-a-way-to-make-face-id-invisible/",
-          "published_at": "Mon, 04 May 2026 14:00:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXR0ZWNoLWViYXkncy0zMC15",
-          "source_id": "ettech",
-          "source_name": "ETtech",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Ebay's 30-year journey: From a bidding marketplace to takeover target",
-          "summary": "Gamestop has proposed a massive fifty-six billion dollar deal to acquire EBay. The videogame retailer, known for its meme-stock fame, is prepared to bypass EBay's board and take the offer directly to shareholders. This move signals a potential hostile takeover bid. EBay, a digital marketplace founde",
-          "image_url": null,
-          "article_url": "https://economictimes.indiatimes.com/tech/technology/ebays-30-year-journey-from-a-bidding-marketplace-to-takeover-target/articleshow/130802965.cms",
-          "published_at": "Mon, 04 May 2026 19:29:20 +0530",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -5560,6 +5541,40 @@
       "name": "Global Job Cuts",
       "icon": "📉",
       "articles": [
+        {
+          "id": "Y25iY3RlY2gtcGludGVyZXN0",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Pinterest surges 17% after earnings beat as company posts strong guidance",
+          "summary": "Pinterest cut nearly 15% of the company's workforce and reduced office space in January as it pushes more resources into AI.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/04/pinterest-pins-q1-earnings-report-2026.html",
+          "published_at": "Mon, 04 May 2026 21:04:52 GMT",
+          "cross_sections": [
+            "tech",
+            "jobcuts"
+          ]
+        },
+        {
+          "id": "Y25iYy1waW50ZXJlc3Qtc3Vy",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Pinterest surges 17% after earnings beat as company posts strong guidance",
+          "summary": "Pinterest cut nearly 15% of the company's workforce and reduced office space in January as it pushes more resources into AI.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/04/pinterest-pins-q1-earnings-report-2026.html",
+          "published_at": "Mon, 04 May 2026 21:04:52 GMT",
+          "cross_sections": [
+            "tech",
+            "jobcuts"
+          ]
+        },
         {
           "id": "dG9pLWpwLW1vcmdhbi1jZW8t",
           "source_id": "toi",
@@ -5583,6 +5598,39 @@
       "name": "LLM & AI",
       "icon": "🤖",
       "articles": [
+        {
+          "id": "Y25iY3RlY2gtbXVzay10ZXh0",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Musk texted OpenAI's Brockman about settlement two days before trial began",
+          "summary": "Elon Musk co-founded OpenAI in 2015 and sued the company, President Greg Brockman and CEO Sam Altman in 2024.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/04/musk-altman-open-ai-settlement-trial-brockman.html",
+          "published_at": "Mon, 04 May 2026 21:17:18 GMT",
+          "cross_sections": [
+            "ai"
+          ]
+        },
+        {
+          "id": "dmVudHVyZWJlYXQtaW5zaWRl",
+          "source_id": "venturebeat",
+          "source_name": "VentureBeat",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Inside AMEX’s agentic commerce stack: How intent contracts and single-use tokens enforce AI transactions",
+          "summary": "American Express (Amex) is building a system that lets AI agents shop and pay on behalf of users — but right now it’s only within its own payment network, and still involves a black box that could hinder trust and auditability. \nAmex already participates in agentic commerce protocol projects, especi",
+          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/366YED8XdafVnuQNZDTeo4/fed88723114b431a6bf19c1080a4f9a3/crimedy7_illustration_of_a_robot_on_a_shopping_spree_--ar_169_75dad0d3-252d-4c33-b253-e0bb0f047adf_1.png?w=300&q=30",
+          "article_url": "https://venturebeat.com/orchestration/inside-amexs-agentic-commerce-stack-how-intent-contracts-and-single-use-tokens-enforce-ai-transactions",
+          "published_at": "Mon, 04 May 2026 20:33:56 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
         {
           "id": "bnl0LXdoaXRlLWhvdXNlLWNv",
           "source_id": "nyt",
@@ -5734,22 +5782,6 @@
           ]
         },
         {
-          "id": "Y25ldC1pLXJlc3VycmVjdGVk",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "I Resurrected My Favorite Childhood Games Using Gemini Vibe Coding",
-          "summary": "Retro gaming can cost a fortune. I vibe coded \"demakes\" of my favorite games for free.",
-          "image_url": "https://www.cnet.com/a/img/resize/0f343a1b7facc0b9623bb2833cb6e4b5dd048e36/hub/2025/11/26/8db9766c-ddb4-45fe-aee6-4faa66bd7113/screenshot-2025-11-24-at-8-37-42am.png?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/tech/services-and-software/the-most-fun-ive-ever-had-with-ai-is-vibe-coding-retro-video-games-heres-how-i-did-it/",
-          "published_at": "Mon, 04 May 2026 18:03:49 +0000",
-          "cross_sections": [
-            "ai"
-          ]
-        },
-        {
           "id": "bnl0LWFudGhyb3BpYy1hbmQt",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -5762,23 +5794,6 @@
           "article_url": "https://www.nytimes.com/2026/05/04/business/anthropic-blackstone-goldman-sachs-artificial-intelligence-firm.html",
           "published_at": "Mon, 04 May 2026 17:49:41 +0000",
           "cross_sections": [
-            "ai"
-          ]
-        },
-        {
-          "id": "emRuZXQteW91ci1jaGF0Z3B0",
-          "source_id": "zdnet",
-          "source_name": "ZDNet",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Your ChatGPT account just got more secure, but you have to opt in - here's how",
-          "summary": "OpenAI adds a feature called Advanced Account Security with four opt-in settings designed to safeguard your account and personal data.",
-          "image_url": null,
-          "article_url": "https://www.zdnet.com/article/chatgpt-advanced-account-security/",
-          "published_at": "Mon, 04 May 2026 17:38:00 GMT",
-          "cross_sections": [
-            "tech",
             "ai"
           ]
         },
@@ -5965,38 +5980,6 @@
           ]
         },
         {
-          "id": "Y25iY3RlY2gtbXVzay10ZXh0",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Musk texted OpenAI's Brockman about settlement two days before trial began",
-          "summary": "Elon Musk co-founded OpenAI in 2015 and sued the company, President Greg Brockman and CEO Sam Altman in 2024.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/04/musk-altman-open-ai-settlement-trial-brockman.html",
-          "published_at": "Mon, 04 May 2026 14:46:55 GMT",
-          "cross_sections": [
-            "ai"
-          ]
-        },
-        {
-          "id": "Y25iYy1tdXNrLXRleHRlZC1v",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Musk texted OpenAI's Brockman about settlement two days before trial began",
-          "summary": "Elon Musk co-founded OpenAI in 2015 and sued the company, President Greg Brockman and CEO Sam Altman in 2024.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/04/musk-altman-open-ai-settlement-trial-brockman.html",
-          "published_at": "Mon, 04 May 2026 14:46:55 GMT",
-          "cross_sections": [
-            "ai"
-          ]
-        },
-        {
           "id": "dGhldmVyZ2UtZGFyYS1raG9z",
           "source_id": "theverge",
           "source_name": "The Verge",
@@ -6030,17 +6013,17 @@
           ]
         },
         {
-          "id": "Y25iY3RlY2gtYWktY2hpcG1h",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "AI chipmaker Cerebras targets $3.5 billion raise in IPO",
-          "summary": "The share sale could give the company a valuation of up to $24.5 billion, compared with $23 billion as of February.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/04/cerebras-ipo-ai-chipmaker.html",
-          "published_at": "Mon, 04 May 2026 10:45:24 GMT",
+          "id": "ZXVyb25ld3MtYW50aHJvcGlj",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Anthropic in talks to secure UK-based Fractile AI chips and diversify supply",
+          "summary": "Anthropic is reportedly in discussions to procure high-performance AI chips from Fractile, a London-based start-up. The agreement aims to diversify the hardware supply chain of the Claude creator, namely away from Nvidia.",
+          "image_url": "https://images.euronews.com/articles/stories/09/74/56/41/696x392_cmsv2_73bdb870-5da3-5781-8623-185fff9b8c53-9745641.jpg",
+          "article_url": "http://www.euronews.com/business/2026/05/04/anthropic-in-talks-to-secure-uk-based-fractile-ai-chips-and-diversify-supply",
+          "published_at": "Mon, 04 May 2026 13:15:09 +0200",
           "cross_sections": [
             "tech",
             "ai"
@@ -6125,23 +6108,6 @@
           "article_url": "https://www.thehindu.com/sci-tech/technology/anthropic-nears-15-billion-ai-joint-venture-with-wall-street-firms-report/article70937159.ece",
           "published_at": "Mon, 04 May 2026 09:48:49 +0530",
           "cross_sections": [
-            "ai"
-          ]
-        },
-        {
-          "id": "dG9pLWFzLW1hbnktc2F5LXNv",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "As many say software is dead, Amazon Web Services CEO calls it a 'huge business opportunity’",
-          "summary": "AWS CEO Matt Garman views the AI-driven 'SaaSpocalypse' as a major business opportunity, not a threat.  He highlighted the rise of agentic AI reshaping work and announced new AI-powered tools like the Quick desktop app, aiming to revolutionize personal productivity.  AWS is also deepening its OpenAI",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/technology/tech-news/as-many-say-software-is-dead-amazon-web-services-ceo-matt-garman-calls-it-a-huge-/articleshow/130741418.cms",
-          "published_at": "Mon, 04 May 2026 07:18:00 +0530",
-          "cross_sections": [
-            "tech",
             "ai"
           ]
         },
@@ -6244,13 +6210,63 @@
             "tech",
             "ai"
           ]
+        },
+        {
+          "id": "YmJjLXBlbnRhZ29uLXNheXMt",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Technology",
+          "title": "Pentagon says US military to be an 'AI-first' fighting force",
+          "summary": "The US military has agreed eight new contracts with big tech firms as it expands its artificial intelligence capabilities.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cea0/live/29be13d0-45a1-11f1-8f01-030759c40642.jpg",
+          "article_url": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 01 May 2026 21:09:52 GMT",
+          "cross_sections": [
+            "ai"
+          ]
+        },
+        {
+          "id": "dmVudHVyZWJlYXQtMjAwLDAw",
+          "source_id": "venturebeat",
+          "source_name": "VentureBeat",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "200,000 MCP servers expose a command execution flaw that Anthropic calls a feature",
+          "summary": "Anthropic created the Model Context Protocol as the open standard for AI agent-to-tool communication. OpenAI adopted it in March 2025. Google DeepMind followed. Anthropic donated MCP to the Linux Foundation in December 2025. Downloads crossed 150 million. Then four researchers at OX Security found a",
+          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5zcdzz8S6R9xMQCRiaArOG/1290a9dbaee30dd37a47fefa5b656922/ANTHROPIC.png?w=300&q=30",
+          "article_url": "https://venturebeat.com/security/mcp-stdio-flaw-200000-ai-agent-servers-exposed-ox-security-audit",
+          "published_at": "Fri, 01 May 2026 20:35:46 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "dmVudHVyZWJlYXQtdGhlLWFp",
+          "source_id": "venturebeat",
+          "source_name": "VentureBeat",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "The AI scaffolding layer is collapsing. LlamaIndex's CEO explains what survives.",
+          "summary": "The scaffolding layer that developers once needed to ship LLM applications — indexing layers, query engines, retrieval pipelines, carefully orchestrated agent loops — is collapsing. And according to Jerry Liu, co-founder and CEO of LlamaIndex, that's not a problem. It's the point.\n“As a result, ther",
+          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3PNVXTyfSXJhvGjd00Ia1C/d051128f97407ff20b6b4db84c907811/Upscaled_already.png?w=300&q=30",
+          "article_url": "https://venturebeat.com/infrastructure/the-ai-scaffolding-layer-is-collapsing-llamaindexs-ceo-explains-what-survives",
+          "published_at": "Fri, 01 May 2026 18:01:52 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
         }
       ]
     }
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 19087,
+    "build_ms": 18387,
     "ai_enabled": true
   }
 }
