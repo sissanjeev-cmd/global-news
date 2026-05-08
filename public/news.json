@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-08T21:41:18.642Z",
-  "total_articles": 314,
-  "new_this_run": 20,
+  "last_updated": "2026-05-08T22:36:04.145Z",
+  "total_articles": 313,
+  "new_this_run": 31,
   "sources": [
     {
       "id": "techcrunch",
@@ -9,6 +9,22 @@
       "region": "IT Focus",
       "category": "Tech Media",
       "articles": [
+        {
+          "id": "dGVjaGNydW5jaC1zYW4tZnJh",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "San Francisco’s housing market has lost its mind",
+          "summary": "The invisible force behind all of this is no mystery to anyone paying attention to the city's tech economy. San Francisco is home to some of the most valuable private companies in the world, and their employees have been quietly accumulating — and, increasingly, cashing out — fortunes.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/",
+          "published_at": "Fri, 08 May 2026 22:32:31 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "dGVjaGNydW5jaC1wcmltZS12",
           "source_id": "techcrunch",
@@ -120,22 +136,6 @@
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/05/08/poland-says-hackers-breached-water-treatment-plants-and-the-u-s-is-facing-the-same-threat/",
           "published_at": "Fri, 08 May 2026 17:20:37 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC11cy1kZWZl",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "US defense contractor who sold hacking tools to Russian broker ordered to pay $10M to former employers",
-          "summary": "Former cybersecurity executive Peter Williams stole several surveillance and hacking tools and sold them for $1.3 million to a Russian broker that works with Putin’s government.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/05/08/u-s-defense-contractor-who-sold-hacking-tools-to-russian-broker-ordered-to-pay-10-million-to-former-employers/",
-          "published_at": "Fri, 08 May 2026 16:43:19 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -412,6 +412,50 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "YXJzdGVjaG5pY2EtYWJjLXJl",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "ABC refuses to capitulate to Trump admin, fights FCC probe into The View",
+          "summary": "FCC chair hasn't been able to bully ABC and owner Disney into submission.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/the-view-1152x648-1770666942.jpg",
+          "article_url": "https://arstechnica.com/tech-policy/2026/05/abc-fights-trump-fccs-attempt-to-control-content-of-broadcast-tv-shows/",
+          "published_at": "Fri, 08 May 2026 21:08:42 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YXJzdGVjaG5pY2Etc29ueS1z",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Sony says \"efficient\" AI tools will lead to even more games flooding the market",
+          "summary": "But human artists still \"must remain at the center,\" PlayStation maker says.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2264634340-1152x648.jpg",
+          "article_url": "https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/",
+          "published_at": "Fri, 08 May 2026 20:51:17 +0000",
+          "cross_sections": [
+            "ai"
+          ]
+        },
+        {
+          "id": "YXJzdGVjaG5pY2EtdGhlLXVu",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "The unprecedented and deadly cruise ship hantavirus outbreak, explained",
+          "summary": "\"This is not COVID,\" and other reasons why risk to the public is currently low.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2274223105-1152x648.jpg",
+          "article_url": "https://arstechnica.com/health/2026/05/everything-you-need-to-know-about-the-hantavirus-cruise-ship-outbreak/",
+          "published_at": "Fri, 08 May 2026 20:42:35 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "YXJzdGVjaG5pY2EtY291cnNl",
           "source_id": "arstechnica",
           "source_name": "Ars Technica",
@@ -490,52 +534,6 @@
           "cross_sections": [
             "tech",
             "ai"
-          ]
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtZW5naW5l",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Engineers at NASA's Jet Propulsion Lab make a breakthrough in rotor technology",
-          "summary": "Testing shows rotor blades won't disintegrate when they spin at supersonic speed.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/skyfall1-1152x648-1778251181.jpg",
-          "article_url": "https://arstechnica.com/space/2026/05/engineers-at-nasas-jet-propulsion-lab-make-a-breakthrough-in-rotor-technology/",
-          "published_at": "Fri, 08 May 2026 15:46:27 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtZG5hLWlk",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "DNA identifies four more crew members of doomed Franklin expedition",
-          "summary": "Three served on the HMS Erebus; the fourth was Petty Officer Harry Peglar of the HMS Terror.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/arcticTOP-1152x648.jpg",
-          "article_url": "https://arstechnica.com/science/2026/05/dna-identifies-four-more-crew-members-of-doomed-franklin-expedition/",
-          "published_at": "Fri, 08 May 2026 15:15:21 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YXJzdGVjaG5pY2Etd2hpY2gt",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Which Macs are suffering from shortages—and where are things getting worse?",
-          "summary": "There are a couple signs of strain beyond the MacBook Neo and the desktops.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/IMG_2326-1152x648.jpeg",
-          "article_url": "https://arstechnica.com/gadgets/2026/05/were-tracking-423-mac-configurations-to-see-how-apple-is-handling-shortages/",
-          "published_at": "Fri, 08 May 2026 15:00:27 +0000",
-          "cross_sections": [
-            "tech"
           ]
         }
       ]
@@ -681,6 +679,51 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "Y25ldC10aGUtaGVhbHRoLXRy",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "The Health-Tracking Whoop App Will Now Connect You to On-Demand Doctors. Plus, New AI Features",
+          "summary": "If you own a Whoop fitness-tracking wearable, you’ll want to check out these new updates surrounding medical records and AI insights.",
+          "image_url": "https://www.cnet.com/a/img/resize/da61c7b95ecbb3ed04ceb5c2a674320be279c9d1/hub/2026/05/08/ee74d67e-dad2-4c2b-847b-665f130719ae/whoop-render-ui-1600x900-option-2.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "article_url": "https://www.cnet.com/health/fitness/whoop-fitness-tracker-ai-feature-on-demand-doctors/",
+          "published_at": "Fri, 08 May 2026 20:54:00 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "Y25ldC10b2RheSdzLW55dC1z",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Today's NYT Strands Hints, Answers and Help for May 9 #797",
+          "summary": "Here are hints and answers for the NYT Strands puzzle No. 797 for Saturday, May 9.",
+          "image_url": "https://www.cnet.com/a/img/resize/166e67238a28ef7d82e62fe8aec7185a7cc23eda/hub/2024/05/15/859c9110-e596-432b-8690-95e6102759c9/nyt-new-york-times-strands-2054.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "article_url": "https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-9-797/",
+          "published_at": "Fri, 08 May 2026 20:46:00 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "Y25ldC10b2RheSdzLW55dC1j",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Today's NYT Connections: Sports Edition Hints and Answers for May 9, #593",
+          "summary": "Here are hints and the answers for the NYT Connections: Sports Edition puzzle No. 593 for Saturday, May 9.",
+          "image_url": "https://www.cnet.com/a/img/resize/c7e1d294a1a554f051860c8dddd6fd0c6527b452/hub/2024/10/16/c34cfc41-01f2-4b1a-80a8-f6479c50c02e/connections-sports-edition-6859.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "article_url": "https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-9-593/",
+          "published_at": "Fri, 08 May 2026 20:41:00 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "Y25ldC1hcHBsZS1pbmtzLXBy",
           "source_id": "cnet",
           "source_name": "CNET",
@@ -695,20 +738,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "Y25ldC10b2RheSdzLW55dC1j",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Today's NYT Connections Hints, Answers and Help for May 9, #1063",
-          "summary": "Here are some hints and the answers for the NYT Connections puzzle No. 1,063 for Saturday, May 9.",
-          "image_url": "https://www.cnet.com/a/img/resize/3986ca4ac5b498c6114118e0dfa25b2a05ae6531/hub/2025/03/26/c70b0a32-884a-4379-b77b-de75776952ba/nyt-word-games-connections-2798.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-9-1063/",
-          "published_at": "Fri, 08 May 2026 20:01:03 +0000",
-          "cross_sections": []
         },
         {
           "id": "Y25ldC10b2RheSdzLXdvcmRs",
@@ -755,53 +784,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "Y25ldC1uYXNhJ3MtY3VyaW9z",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "NASA's Curiosity Mars Rover Was Stuck in a Rock: Watch It Free Itself",
-          "summary": "The rover spent five days trying to free itself from the planet's first sword-in-the-stone moment.",
-          "image_url": "https://www.cnet.com/a/img/resize/eb64e9f3031ac810e95c959b1d8da6ce0bf87bfb/hub/2026/05/07/99378abb-90b1-4d59-903d-96c3e663103e/nasa-curiosity-rock.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/science/space/watch-nasas-curiosity-rover-deal-with-mars-first-extremely-clingy-rock/",
-          "published_at": "Fri, 08 May 2026 18:16:00 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "Y25ldC1kb2VzLXlvdXItYWkt",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Does Your AI Agent Need a VPN? The Company Behind Norton and Avast Thinks So",
-          "summary": "You might use a VPN yourself, but have you considered giving one to your AI agent? It might be more important than you think.",
-          "image_url": "https://www.cnet.com/a/img/resize/5c7aa2caa8d151fe87254cad1c079a0e1c951be0/hub/2026/04/21/3840f994-1e8b-461c-83c5-d485ccc81dcd/ws-giveopenclawavpn.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/tech/services-and-software/does-your-ai-agent-need-a-vpn-the-company-behind-norton-and-avast-thinks-so/",
-          "published_at": "Fri, 08 May 2026 18:13:00 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "Y25ldC1pbnN0YWdyYW0ncy1t",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Instagram's Messaging Encryption is Ending. Here's What You Should Know",
-          "summary": "Meta is offering a way to download encrypted messages from the platform for those who opted into the feature.",
-          "image_url": "https://www.cnet.com/a/img/resize/a1b2e8b348d5b2e26c535f975e3e6fbaf2bedf08/hub/2024/03/15/dd9879fc-a4b7-4986-9060-13995ce6a2ea/instagram-insta-primary-lemon-200-7065.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/news/privacy/instagram-messaging-encryption-ending-explainer/",
-          "published_at": "Fri, 08 May 2026 17:53:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -811,6 +793,38 @@
       "region": "IT Focus",
       "category": "Tech Media",
       "articles": [
+        {
+          "id": "dmVudHVyZWJlYXQtYW50aHJv",
+          "source_id": "venturebeat",
+          "source_name": "VentureBeat",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Anthropic says it hit a $30 billion revenue run rate after 'crazy' 80x growth",
+          "summary": "Dario Amodei is not the kind of CEO who talks loosely about numbers. The Anthropic co-founder and chief executive, a former VP of research at OpenAI with a PhD in computational neuroscience from Princeton, has built a reputation for measured public statements — particularly around the financial perf",
+          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3qloNl7y6W8aLaJNTzTXqd/e496756afa4789e88ca341be72f4547b/Nuneybits_Vector_art_of_a_retro_computer_with_a_graph_going_up__ca5ad9fd-fe3e-48ab-a2d3-f2ace34416ec.webp?w=300&q=30",
+          "article_url": "https://venturebeat.com/technology/anthropic-says-it-hit-a-30-billion-revenue-run-rate-after-crazy-80x-growth",
+          "published_at": "Fri, 08 May 2026 21:45:20 GMT",
+          "cross_sections": [
+            "ai"
+          ]
+        },
+        {
+          "id": "dmVudHVyZWJlYXQtb3BlbmFp",
+          "source_id": "venturebeat",
+          "source_name": "VentureBeat",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "OpenAI brings GPT-5-class reasoning to real-time voice — and it changes what voice agents can actually orchestrate",
+          "summary": "Voice agents have been expensive to run and painful to orchestrate, not because the models can't handle conversation, but because context ceilings forced enterprises to build session resets, state compression, and reconstruction layers into every deployment. OpenAI's three new voice models are desig",
+          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4fS8WkFKirUi9KqwhCb400/dba3dc0e8604c34ee39ee2e0fea8b1d8/crimedy7_illustration_of_a_robot_with_a_phone_--ar_169_--v_7_059ef1c1-2f5e-4009-ab54-acec406a8f5e_1.png?w=300&q=30",
+          "article_url": "https://venturebeat.com/orchestration/openai-brings-gpt-5-class-reasoning-to-real-time-voice-and-it-changes-what-voice-agents-can-actually-orchestrate",
+          "published_at": "Fri, 08 May 2026 21:41:21 GMT",
+          "cross_sections": [
+            "ai"
+          ]
+        },
         {
           "id": "dmVudHVyZWJlYXQtNSwwMDAt",
           "source_id": "venturebeat",
@@ -840,22 +854,6 @@
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5ZEO9X2XqceSROWgaNS5Q4/66fa10252a4114f0cc41f837059998b0/Caulfield_article.png?w=300&q=30",
           "article_url": "https://venturebeat.com/security/cisco-crowdstrike-rsac-2026-agent-identity-iam-gap-maturity-model",
           "published_at": "Fri, 08 May 2026 17:55:03 GMT",
-          "cross_sections": [
-            "ai"
-          ]
-        },
-        {
-          "id": "dmVudHVyZWJlYXQtYW50aHJv",
-          "source_id": "venturebeat",
-          "source_name": "VentureBeat",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Anthropic wants to own your agent's memory, evals, and orchestration — and that should make enterprises nervous",
-          "summary": "Just a few weeks after announcing Claude Managed Agents, Anthropic has updated the platform with three new capabilities that collapse infrastructure layers like memory, evaluation, and multi-agent orchestration, into a single runtime.\nThis move could threaten the standalone tools that many enterpris",
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/D0GSZK3z1kRMUMZ5S6AVG/d022b4a260c084315b3ecd9254baa0d5/crimedy7_illustration_of_a_robot_trying_to_remember_something_40ad3c2a-097e-454e-a646-8ef5b077c76e_1.png?w=300&q=30",
-          "article_url": "https://venturebeat.com/orchestration/anthropic-wants-to-own-your-agents-memory-evals-and-orchestration-and-that-should-make-enterprises-nervous",
-          "published_at": "Fri, 08 May 2026 17:51:41 GMT",
           "cross_sections": [
             "ai"
           ]
@@ -893,22 +891,6 @@
             "tech",
             "ai"
           ]
-        },
-        {
-          "id": "dmVudHVyZWJlYXQtaG93LXNh",
-          "source_id": "venturebeat",
-          "source_name": "VentureBeat",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "How Sakana trained a 7B model to orchestrate GPT, Claude and Gemini LLMs",
-          "summary": "Every LangChain pipeline your team hardcodes starts breaking the moment the query distribution shifts — and it always shifts. That bottleneck is what Sakana AI set out to eliminate.\nResearchers at Sakana AI have introduced the \"RL Conductor,\" a small language model trained via reinforcement learning",
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1Pjru88KYRcP7uhAUoAFdr/a8b3cbf6d225a6cc02672e589ca22917/RL_conductor.jpg?w=300&q=30",
-          "article_url": "https://venturebeat.com/orchestration/how-sakana-trained-a-7b-model-to-orchestrate-gpt-5-claude-sonnet-4-and-gemini-2-5-pro",
-          "published_at": "Thu, 07 May 2026 21:23:46 GMT",
-          "cross_sections": [
-            "ai"
-          ]
         }
       ]
     },
@@ -918,6 +900,39 @@
       "region": "IT Focus",
       "category": "Tech Media",
       "articles": [
+        {
+          "id": "Y25iY3RlY2gtamltLWNyYW1l",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Jim Cramer says 'it's not to late' to own AI winners powering the market",
+          "summary": "CNBC's Jim Cramer said the AI-driven rally has dominated the market, and next week will test whether investors keep rewarding the winners.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/08/jim-cramer-its-not-to-late-to-own-ai-winners.html",
+          "published_at": "Fri, 08 May 2026 22:35:36 GMT",
+          "cross_sections": [
+            "ai",
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iY3RlY2gtaW50ZWwtc2hh",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Intel shares soar on Apple chip deal report. Here's why it signals a total pivot for chipmaking",
+          "summary": "Samsung, Intel and Taiwan Semiconductor are the only three companies in the world capable of manufacturing the most advanced chips needed for AI.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/08/intel-stock-apple-chip-deal.html",
+          "published_at": "Fri, 08 May 2026 22:18:30 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "Y25iY3RlY2gtcm9ja2V0LWxh",
           "source_id": "cnbctech",
@@ -930,22 +945,6 @@
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/05/08/rocket-lab-rklb-q1-earnings-2026.html",
           "published_at": "Fri, 08 May 2026 21:15:33 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iY3RlY2gtaW50ZWwtc2hh",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Intel shares soar on Apple chip deal report. Here's why it signals a total pivot for chipmaking",
-          "summary": "Samsung, Intel and TSMC are the only three companies in the world capable of manufacturing the most advanced chips needed for AI.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/08/intel-stock-apple-chip-deal.html",
-          "published_at": "Fri, 08 May 2026 21:03:09 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -1016,37 +1015,6 @@
             "tech",
             "ai"
           ]
-        },
-        {
-          "id": "Y25iY3RlY2gtamltLWNyYW1l",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Jim Cramer says this struggling stock could remain under pressure in AI-driven market",
-          "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/08/cramer-this-struggling-stock-may-remain-challenged-in-ai-driven-market.html",
-          "published_at": "Fri, 08 May 2026 15:55:12 GMT",
-          "cross_sections": [
-            "ai",
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iY3RlY2gtam9icy1yZXBv",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Jobs report, hostilities in the Strait of Hormuz, used car prices and more in Morning Squawk",
-          "summary": "Here are five key things investors need to know to start the trading day.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/08/5-things-to-know-before-the-market-opens.html",
-          "published_at": "Fri, 08 May 2026 12:06:31 GMT",
-          "cross_sections": []
         }
       ]
     },
@@ -1193,6 +1161,22 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "aW5jNDItaXBvLWJvdW5kLWNh",
+          "source_id": "inc42",
+          "source_name": "Inc42",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "IPO-Bound Cars24 Claims Adjusted EBITDA Profitability In Q4 FY26",
+          "summary": "IPO-bound used car marketplace Cars24 has claimed adjusted EBITDA profitability in the fourth quarter (Q4) of fiscal year 2025-26 (FY26).…",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/cars24-fy26-featured.png",
+          "article_url": "https://inc42.com/buzz/ipo-bound-cars24-claims-adjusted-ebitda-profitability-in-q4-fy26/",
+          "published_at": "Fri, 08 May 2026 21:44:48 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "aW5jNDItaXBvLWJvdW5kLWlu",
           "source_id": "inc42",
           "source_name": "Inc42",
@@ -1297,22 +1281,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "aW5jNDItYXJpc2luZnJhLXBv",
-          "source_id": "inc42",
-          "source_name": "Inc42",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "ArisInfra Posts ₹21.7 Cr Profit In Q4, Revenue Jumps 55% YoY",
-          "summary": "B2B ecommerce company ArisInfra Solutions posted a consolidated net profit of ₹21.7 Cr in the quarter ended March 2026 (Q4…",
-          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/Aris-Infra-ftr.jpg",
-          "article_url": "https://inc42.com/buzz/arisinfra-posts-%e2%82%b921-7-cr-profit-in-q4-revenue-jumps-55-yoy/",
-          "published_at": "Fri, 08 May 2026 09:16:23 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -1322,20 +1290,6 @@
       "region": "North America",
       "category": "Newspaper",
       "articles": [
-        {
-          "id": "bnl0LWRhdmlkLWF0dGVuYm9y",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "David Attenborough, a Voice of Nature, Turns 100",
-          "summary": "Pictures and striking scenes from the making of perhaps the world’s most celebrated naturalist.",
-          "image_url": "https://static01.nyt.com/images/2026/05/08/multimedia/08xp-attenborough-06-mhgj/08xp-attenborough-06-mhgj-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/05/08/arts/television/david-attenborough-100-birthday.html",
-          "published_at": "Fri, 08 May 2026 21:29:50 +0000",
-          "cross_sections": []
-        },
         {
           "id": "bnl0LWlyYW4td2FyLWxpdmUt",
           "source_id": "nyt",
@@ -1347,21 +1301,21 @@
           "summary": "Iran’s foreign minister accused Washington of undermining diplomacy. Secretary of State Marco Rubio said the U.S. expected to hear from Tehran on Friday.",
           "image_url": "https://static01.nyt.com/images/2026/05/08/multimedia/08mideast-promo330p/08cli-spill-kharg-plgm-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/live/2026/05/08/world/iran-strikes-trump-ceasefire-hormuz",
-          "published_at": "Fri, 08 May 2026 21:24:29 +0000",
+          "published_at": "Fri, 08 May 2026 22:31:39 +0000",
           "cross_sections": []
         },
         {
-          "id": "bnl0LXZpcmdpbmlhLWNvdXJ0",
+          "id": "bnl0LXRydW1wLWdhdmUtb3V0",
           "source_id": "nyt",
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Virginia Court Strikes Down Redistricted Voting Map in a Huge Blow to Democrats",
-          "summary": "The decision is a major victory for Republicans, wiping away a measure approved by voters to allow Democrats to gain as many as four House seats in the midterms.",
-          "image_url": "https://static01.nyt.com/images/2026/04/29/podcasts/00pol-va-maps/00pol-va-maps-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/05/08/us/politics/virginia-redistricting-supreme-court.html",
-          "published_at": "Fri, 08 May 2026 21:01:46 +0000",
+          "title": "Trump Gave Out a No-Bid Contract to Turn D.C.’s Reflecting Pool Blue",
+          "summary": "President Trump handpicked a firm he said had worked on his swimming pool to repair the iconic site near the Lincoln Memorial.",
+          "image_url": "https://static01.nyt.com/images/2026/05/07/us/dc-reflecting-pool-promo/dc-reflecting-pool-promo-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/05/08/us/politics/reflecting-pool-trump-contract.html",
+          "published_at": "Fri, 08 May 2026 22:22:09 +0000",
           "cross_sections": []
         },
         {
@@ -1375,7 +1329,49 @@
           "summary": "Prime Minister Keir Starmer took responsibility as Labour lost more than a thousand municipal seats but insisted he would not resign.",
           "image_url": "https://static01.nyt.com/images/2026/05/08/multimedia/08-uk-news-elections-promo-2p-qpfz/08-uk-news-elections-promo-2p-qpfz-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results",
-          "published_at": "Fri, 08 May 2026 21:00:46 +0000",
+          "published_at": "Fri, 08 May 2026 22:19:25 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LWxhd21ha2Vycy1tYXkt",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Lawmakers May Continue to Inspect ICE Detention Centers, Appeals Court Rules",
+          "summary": "A federal appeals court declined, for now, to halt an order requiring D.H.S. to permit unannounced visits to immigration detention centers by Democrats in Congress.",
+          "image_url": "https://static01.nyt.com/images/2026/05/08/multimedia/08dc-immig-new-fgvz/08dc-immig-new-fgvz-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/05/08/us/politics/lawmakers-democrats-ice-detention.html",
+          "published_at": "Fri, 08 May 2026 22:03:48 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LWZhY2luZy1wcmVzc3Vy",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Facing Pressure, Trump Officials Reject Claims They’re Softening on Immigration",
+          "summary": "Immigration hard-liners have grown frustrated with the level of deportations and the Department of Homeland Security’s attempts, under its new secretary, to stay under the radar.",
+          "image_url": "https://static01.nyt.com/images/2026/05/08/multimedia/00dc-dhs-direction01-photo-pfvm/00dc-dhs-direction01-photo-pfvm-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/05/08/us/politics/markwayne-mullin-immigration-dhs.html",
+          "published_at": "Fri, 08 May 2026 21:42:11 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LXZpcmdpbmlh4oCZcy10",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Virginia’s Top Court Delivers a Major Victory for Republicans",
+          "summary": "Also, what health experts want you to know about hantavirus. Here’s the latest at the end of Friday.",
+          "image_url": "https://static01.nyt.com/images/2026/05/08/multimedia/08evening-redistricting-takeaways/08evening-redistricting-takeaways-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/05/08/briefing/virginia-map-trump-fda.html",
+          "published_at": "Fri, 08 May 2026 21:29:20 +0000",
           "cross_sections": []
         },
         {
@@ -1390,6 +1386,20 @@
           "image_url": null,
           "article_url": "https://www.nytimes.com/2026/05/08/us/politics/pentagon-ufo-files.html",
           "published_at": "Fri, 08 May 2026 20:55:43 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LXRydW1wLWFkbWluaXN0",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Trump Administration Targets 12 Immigrants to Revoke Citizenship",
+          "summary": "The targeted Americans are accused misdeeds that can qualify them to lose citizenship, but denaturalization has rarely been invoked in the past.",
+          "image_url": "https://static01.nyt.com/images/2026/05/08/multimedia/08dc-naturalization-photo-wzph/08dc-naturalization-photo-wzph-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/05/08/us/politics/trump-immigrants-citizenship.html",
+          "published_at": "Fri, 08 May 2026 20:39:06 +0000",
           "cross_sections": []
         },
         {
@@ -1421,31 +1431,17 @@
           "cross_sections": []
         },
         {
-          "id": "bnl0LXRydW1wLWdhdmUtb3V0",
+          "id": "bnl0LW1haG1vdWQta2hhbGls",
           "source_id": "nyt",
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Trump Gave Out a No-Bid Contract to Turn D.C.’s Reflecting Pool Blue",
-          "summary": "President Trump handpicked a firm he said had worked on his swimming pool to repair the iconic site near the Lincoln Memorial.",
-          "image_url": "https://static01.nyt.com/images/2026/05/07/us/dc-reflecting-pool-promo/dc-reflecting-pool-promo-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/05/08/us/politics/reflecting-pool-trump-contract.html",
-          "published_at": "Fri, 08 May 2026 19:34:50 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "bnl0LTQtdGFrZWF3YXlzLWZy",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "4 Takeaways From the Virginia Supreme Court Gerrymandering Decision",
-          "summary": "The ruling was a major lift to the G.O.P. efforts to build a structural advantage through redistricting.",
-          "image_url": "https://static01.nyt.com/images/2026/05/08/multimedia/08pol-redistricting-takeaways-kwqv/08pol-redistricting-takeaways-kwqv-mediumSquareAt3X-v2.jpg",
-          "article_url": "https://www.nytimes.com/2026/05/08/us/politics/virginia-redistricting-gerrymandering-takeaways.html",
-          "published_at": "Fri, 08 May 2026 18:52:40 +0000",
+          "title": "Mahmoud Khalil Hurtles Toward Potential Deportation as U.S. Speeds Case",
+          "summary": "A key judicial decision in Mr. Khalil’s immigration case was expedited significantly and included the recusal of multiple judges.",
+          "image_url": "https://static01.nyt.com/images/2026/05/07/multimedia/00met-khalil-lbkc/00met-khalil-lbkc-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/05/08/nyregion/mahmoud-khalil-deportation-case.html",
+          "published_at": "Fri, 08 May 2026 19:40:48 +0000",
           "cross_sections": []
         },
         {
@@ -1460,20 +1456,6 @@
           "image_url": "https://static01.nyt.com/images/2026/05/08/multimedia/THE-VIEW-sub-vgbc/THE-VIEW-sub-vgbc-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/05/08/business/media/abc-fcc-first-amendment-the-view.html",
           "published_at": "Fri, 08 May 2026 18:36:51 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "bnl0LWlyYW4tc2F5cy1pdC1z",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Iran Says It Seized Oil Tanker Listed by U.S. as Sanctions Violator",
-          "summary": "A maritime tracking company said the move was likely performative, given the Chinese-owned ship has an “established history within the Iranian trade ecosystem.”",
-          "image_url": "https://static01.nyt.com/images/2026/05/08/multimedia/08Biz-Iran-Ship-2-zckl/08Biz-Iran-Ship-2-zckl-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/05/08/business/iran-war-tanker-ocean-koi.html",
-          "published_at": "Fri, 08 May 2026 16:11:51 +0000",
           "cross_sections": []
         },
         {
@@ -1544,7 +1526,7 @@
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Emirates Doubles Down on U.S. and Israeli Ties Amid Iran War",
           "summary": "The United Arab Emirates has borne the brunt of Iranian attacks throughout the war, hardening the government’s resolve to reassess its list of friends and foes.",
           "image_url": "https://static01.nyt.com/images/2026/05/08/multimedia/08int-uae-strategy-1-qcpg/08int-uae-strategy-1-qcpg-mediumSquareAt3X.jpg",
@@ -1662,7 +1644,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-05-08T21:41:06.195Z",
+          "published_at": "2026-05-08T22:35:49.609Z",
           "cross_sections": []
         },
         {
@@ -1676,7 +1658,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-05-08T21:41:06.195Z",
+          "published_at": "2026-05-08T22:35:49.609Z",
           "cross_sections": []
         },
         {
@@ -1690,7 +1672,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-05-08T21:41:06.195Z",
+          "published_at": "2026-05-08T22:35:49.609Z",
           "cross_sections": []
         },
         {
@@ -2002,6 +1984,36 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "Y25iYy1pbnRlbC1zaGFyZXMt",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Intel shares soar on Apple chip deal report. Here's why it signals a total pivot for chipmaking",
+          "summary": "Samsung, Intel and Taiwan Semiconductor are the only three companies in the world capable of manufacturing the most advanced chips needed for AI.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/08/intel-stock-apple-chip-deal.html",
+          "published_at": "Fri, 08 May 2026 22:18:30 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iYy10aGUtZmVkZXJhbC1y",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "The Federal Reserve is quickly running out of reasons to cut interest rates",
+          "summary": "Friday's jobs report provided evidence that the central bank's larger concern is a cost of living that is getting increasingly hard to bear.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/08/the-federal-reserve-is-quickly-running-out-of-reasons-to-cut-interest-rates.html",
+          "published_at": "Fri, 08 May 2026 21:44:14 GMT",
+          "cross_sections": []
+        },
+        {
           "id": "Y25iYy1yb2NrZXQtbGFiLXN1",
           "source_id": "cnbc",
           "source_name": "CNBC",
@@ -2014,22 +2026,6 @@
           "article_url": "https://www.cnbc.com/2026/05/08/rocket-lab-rklb-q1-earnings-2026.html",
           "published_at": "Fri, 08 May 2026 21:15:33 GMT",
           "cross_sections": []
-        },
-        {
-          "id": "Y25iYy1pbnRlbC1zaGFyZXMt",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Intel shares soar on Apple chip deal report. Here's why it signals a total pivot for chipmaking",
-          "summary": "Samsung, Intel and TSMC are the only three companies in the world capable of manufacturing the most advanced chips needed for AI.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/08/intel-stock-apple-chip-deal.html",
-          "published_at": "Fri, 08 May 2026 21:03:09 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "Y25iYy1kdW5raW4nLW93bmVy",
@@ -2075,20 +2071,6 @@
             "tech",
             "ai"
           ]
-        },
-        {
-          "id": "Y25iYy10aGUtZmVkZXJhbC1y",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "The Federal Reserve is quickly running out of reasons to cut interest rates",
-          "summary": "Friday's jobs report provided evidence that the central bank's larger concern is a cost of living that is getting increasingly hard to bear.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/08/the-federal-reserve-is-quickly-running-out-of-reasons-to-cut-interest-rates.html",
-          "published_at": "Fri, 08 May 2026 19:20:59 GMT",
-          "cross_sections": []
         },
         {
           "id": "Y25iYy1taWNoYWVsLWJ1cnJ5",
@@ -2212,6 +2194,20 @@
       "region": "North America",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "Zm94LXRocmVlLWhpa2Vycy1r",
+          "source_id": "fox",
+          "source_name": "Fox News",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Three hikers killed after climbing restricted Indonesian volcano to create online content, police say",
+          "summary": "Mount Dukono eruption in Indonesia kills three hikers, including two Singaporeans, who authorities say entered a restricted zone despite warnings.",
+          "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/Volcano-Eruption-Victims-04.jpeg?ve=1&tl=1",
+          "article_url": "https://www.foxnews.com/world/three-hikers-killed-climbing-restricted-indonesian-volcano-create-online-content-police-say",
+          "published_at": "Fri, 08 May 2026 18:00:26 -0400",
+          "cross_sections": []
+        },
         {
           "id": "Zm94LXRydW1wLWJsb2NrYWRl",
           "source_id": "fox",
@@ -2441,20 +2437,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "Zm94LXNvdXRoLWFmcmljYW4t",
-          "source_id": "fox",
-          "source_name": "Fox News",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "South African police airlift massive crocodile suspected of eating missing local",
-          "summary": "A massive crocodile suspected of eating a missing businessman was airlifted by helicopter from South Africa's Komati River after being euthanized.",
-          "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/airlift-crocodile-2.jpg?ve=1&tl=1",
-          "article_url": "https://www.foxnews.com/world/south-african-police-airlift-massive-crocodile-suspected-eating-missing-local",
-          "published_at": "Tue, 05 May 2026 21:50:41 -0400",
-          "cross_sections": []
         }
       ]
     },
@@ -2464,6 +2446,62 @@
       "region": "Europe",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "YmJjLXJlZm9ybS1lbGVjdGlv",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Reform election gains show shift in British politics, says Farage",
+          "summary": "Labour and the Conservatives suffer losses at the expense of Reform across England.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f54f/live/8c066220-4ae9-11f1-b55d-0f258dce1735.jpg",
+          "article_url": "https://www.bbc.com/news/articles/c0r255xlr59o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 08 May 2026 22:34:46 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLXN0YXJtZXItdW5kZXIt",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Starmer under pressure as Labour suffers heavy election losses including historic Wales defeat",
+          "summary": "Reform makes huge gains in England, as Labour loses power in Wales and the SNP  becomes the largest party in Scotland.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eeb0/live/4c463660-4ab2-11f1-abbe-696bdf3a3d1b.jpg",
+          "article_url": "https://www.bbc.com/news/articles/cz62dwe30wdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 08 May 2026 22:17:34 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLWhvdmVyaW5nLW9iamVj",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Hovering objects and flashing lights: what we learned from UFO documents released by the Pentagon",
+          "summary": "The US has published transcripts, video clips and audio recordings about unidentified flying objects, also called unidentified anomalous phenomena.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d2f/live/55b14d10-4b17-11f1-be9e-ad2f8d891a76.png",
+          "article_url": "https://www.bbc.com/news/articles/c1m2epkey44o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 08 May 2026 22:04:55 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLXdpbGxpYW0taGFpbHMt",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "William hails Sir David Attenborough's 'remarkable milestone' at 100th birthday concert",
+          "summary": "The naturalist's seven-decade career was marked with a night of memories, live music and special guests at the Royal Albert Hall.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151e/live/f6ca4730-4b29-11f1-98c3-3f3daedfd80a.jpg",
+          "article_url": "https://www.bbc.com/news/articles/cq5pwz743j9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 08 May 2026 21:54:27 GMT",
+          "cross_sections": []
+        },
         {
           "id": "YmJjLXBsYWlkLWN5bXJ1LXJl",
           "source_id": "bbc",
@@ -2504,20 +2542,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/188e/live/29fc8480-4b14-11f1-8a34-b33e8b56365b.jpg",
           "article_url": "https://www.bbc.com/news/articles/c5yxr7zng6po?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 08 May 2026 20:54:06 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "YmJjLWtpbmctY2hhcmxlcy1z",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "King Charles sends Attenborough a birthday message with help from 'friends'",
-          "summary": "In a video message from Buckingham Palace, wildlife helps the King deliver a birthday card for Sir David Attenborough.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db24/live/b7f7c0b0-4afb-11f1-bd52-e755d604ece4.jpg",
-          "article_url": "https://www.bbc.com/news/videos/ce3pqvdl1zlo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 08 May 2026 20:07:21 GMT",
           "cross_sections": []
         },
         {
@@ -2621,34 +2645,6 @@
           ]
         },
         {
-          "id": "YmJjLXJlZm9ybS1lbGVjdGlv",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Reform election gains show shift in British politics, says Farage",
-          "summary": "Labour and the Conservatives suffer losses at the expense of Reform across England.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f54f/live/8c066220-4ae9-11f1-b55d-0f258dce1735.jpg",
-          "article_url": "https://www.bbc.com/news/articles/c0r255xlr59o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 08 May 2026 14:46:14 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "YmJjLXRlbi1vZi1hdHRlbmJv",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Ten of Attenborough's best documentaries and where to watch them",
-          "summary": "From hanging out with primates to early climate warnings, here's a selection of his trailblazing programmes.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a2/live/7bfa1c10-cadc-11f0-a892-01d657345866.jpg",
-          "article_url": "https://www.bbc.com/news/articles/cevevg98125o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 08 May 2026 14:38:10 GMT",
-          "cross_sections": []
-        },
-        {
           "id": "YmJjLXRocmVlLWRlYWQtYWZ0",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2694,20 +2690,6 @@
             "tech",
             "ai"
           ]
-        },
-        {
-          "id": "YmJjLW9pbC1wcmljZXMtcmlz",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
-          "summary": "US President Donald Trump says the ceasefire between Washington and Tehran is still in place.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceca/live/514c94a0-4a6d-11f1-9270-375e80dbfe3c.jpg",
-          "article_url": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 08 May 2026 08:43:55 GMT",
-          "cross_sections": []
         },
         {
           "id": "YmJjLWluc3RhZ3JhbS1wcml2",
@@ -2825,6 +2807,20 @@
       "region": "Europe",
       "category": "Newspaper",
       "articles": [
+        {
+          "id": "Z3VhcmRpYW4tZm91ci1zb3V0",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "Four south Florida men convicted in Haitian president’s assassination",
+          "summary": "Men were convicted in Miami federal court for plotting to kill Jovenel Moise at his Port-au-Prince home in 2021\nFour south Florida men were convicted on Friday of plotting to kill Haitian president Jovenel Moise in 2021 by hiring mercenaries to assassinate him at his Port-au-Prince home, court recor",
+          "image_url": "https://i.guim.co.uk/img/media/976e259f6970c7efb4185034026779c50253e91c/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=975ca35f146c2e4f2c95e88608b1d977",
+          "article_url": "https://www.theguardian.com/world/2026/may/08/four-men-convicted-haitian-president-assassination",
+          "published_at": "Fri, 08 May 2026 21:35:15 GMT",
+          "cross_sections": []
+        },
         {
           "id": "Z3VhcmRpYW4tYWJjLWxhd3ll",
           "source_id": "guardian",
@@ -3044,20 +3040,6 @@
           "image_url": "https://i.guim.co.uk/img/media/c8bf0fb965d80c77f260a736ad07dc5a1556d990/506_0_3578_2861/master/3578.jpg?width=140&quality=85&auto=format&fit=max&s=0cecb52afd88e3f8d9654f49a5a2f66f",
           "article_url": "https://www.theguardian.com/media/2026/may/07/ted-turner-cnn-news",
           "published_at": "Thu, 07 May 2026 14:53:28 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "Z3VhcmRpYW4tdXAtdG8tMmNt",
-          "source_id": "guardian",
-          "source_name": "The Guardian",
-          "source_region": "Europe",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Up to 2cm a month: Nasa keeps track as Mexico City sinks into the ground",
-          "summary": "Powerful radar system is providing new data on city’s subsidence, which experts hope will draw more attention to it\nWalking into Mexico City’s sprawling central Zócalo is a dizzying experience. At one end of the plaza, the capital’s cathedral, with its soaring spires, slumps in one direction. An att",
-          "image_url": "https://i.guim.co.uk/img/media/9ca924a9cdf6b33029b34db7dc38339d24bc251d/769_0_7920_6336/master/7920.jpg?width=140&quality=85&auto=format&fit=max&s=0d45b910917b12378c298a9f156663b0",
-          "article_url": "https://www.theguardian.com/world/2026/may/07/mexico-city-sinking-subsidence-2cm-a-month-nasa-nisar",
-          "published_at": "Thu, 07 May 2026 10:00:46 GMT",
           "cross_sections": []
         },
         {
@@ -3619,20 +3601,6 @@
           "cross_sections": []
         },
         {
-          "id": "dG9pLWluZGlhLWdldHMtbmV3",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "India gets new labour law as Centre notifies wage code, caps work week at 48 hours",
-          "summary": "New labour codes have capped weekly working hours at 48, with overtime paid at double the hourly wage. Final rules for wages and industrial relations codes are out, paving the way for implementation. A National Reskilling Fund will support retrenched workers with new skills, financed by employers.",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/india-gets-new-labour-law-as-govt-notifies-wage-code-centre-caps-weekly-working-hours-at-48-under-new-labour-codes/articleshow/130966425.cms",
-          "published_at": "Sat, 09 May 2026 01:01:32 +0530",
-          "cross_sections": []
-        },
-        {
           "id": "dG9pLSdzdXNwZW5zaW9uLW9m",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3672,6 +3640,20 @@
           "image_url": null,
           "article_url": "https://timesofindia.indiatimes.com/world/us/glow-hard-donald-trumps-nuclear-threat-grows-darker-in-face-of-iranian-defiance/articleshow/130963348.cms",
           "published_at": "Fri, 08 May 2026 20:51:02 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dG9pLW9wZXJhdGlvbi1zaW5k",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Operation Sindoor: How close India and Pakistan came to the brink one year ago",
+          "summary": "Following a deadly terror attack in Kashmir, India launched precision strikes on militant camps in Pakistan, escalating tensions to a full military standoff. Despite Pakistan's nuclear threats, India maintained a strong stance, ultimately leading to a ceasefire after significant damage to Pakistani ",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/defence/news/operation-sindoor-how-close-india-and-pakistan-came-to-the-brink-one-year-ago/articleshow/130959213.cms",
+          "published_at": "Fri, 08 May 2026 17:35:40 +0530",
           "cross_sections": []
         },
         {
@@ -3949,6 +3931,20 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dGhlaGluZHUtaXBsLTIwMjY6",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "IPL 2026: McClenaghan hails Prince Yadav’s ‘divine delivery’ to dismiss Kohli",
+          "summary": "During the run-chase of RCB, Prince struck early to remove Kohli cheaply as LSG registered a thrilling nine-run victory in a high-scoring contest",
+          "image_url": "https://th-i.thgim.com/public/incoming/lhpo47/article70957033.ece/alternates/LANDSCAPE_1200/India_IPL_Cricket_31_15.jpg",
+          "article_url": "https://www.thehindu.com/sport/cricket/ipl-2026-mcclenaghan-hails-prince-yadavs-divine-delivery-to-dismiss-kohli/article70957024.ece",
+          "published_at": "Sat, 09 May 2026 02:59:24 +0530",
+          "cross_sections": []
+        },
+        {
           "id": "dGhlaGluZHUtaW5kaWEtc2Ny",
           "source_id": "thehindu",
           "source_name": "The Hindu",
@@ -4047,22 +4043,6 @@
           "article_url": "https://www.thehindu.com/news/national/haryana/only-congress-party-can-defeat-bjp-in-the-battle-of-ideologies-says-rahul-gandhi/article70956411.ece",
           "published_at": "Sat, 09 May 2026 01:38:50 +0530",
           "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtY29uZ3Jlc3Mt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Congress slams Modi Government over women’s safety citing NCRB data",
-          "summary": "Mallikarjun Kharge said NCRB data pointed that cybercrime had surged by 1,689% and 10,546 farmers, 52,931 daily wage labourers and 14,488 students died by suicide in 2024",
-          "image_url": "https://th-i.thgim.com/public/incoming/5ds22c/article70957015.ece/alternates/LANDSCAPE_1200/20260508173L.jpg",
-          "article_url": "https://www.thehindu.com/news/national/congress-slams-modi-government-over-womens-safety-citing-ncrb-data/article70956240.ece",
-          "published_at": "Sat, 09 May 2026 01:37:10 +0530",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "dGhlaGluZHUtYWkrLXNtYXJ0",
@@ -4536,6 +4516,48 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YWxqYXplZXJhLXBlbnRhZ29u",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Pentagon releases video of strikes on Iranian oil tankers",
+          "summary": "Footage released by the Pentagon shows US strikes on two Iranian oil tankers in the Strait of Hormuz.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/pentagon-releases-video-of-strikes-on-iranian-oil-tankers?traffic_source=rss",
+          "published_at": "Fri, 08 May 2026 22:31:37 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLWNlbGVicmF0",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Celebrated naturalist David Attenborough marks 100th birthday",
+          "summary": "Britain’s famed natural historian David Attenborough is celebrating his 100th birthday.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/celebrated-naturalist-david-attenborough-marks-100th-birthday?traffic_source=rss",
+          "published_at": "Fri, 08 May 2026 22:06:21 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLWNvc3RhLXJp",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Costa Rica inaugurates right-wing president Laura Fernandez",
+          "summary": "Costa Rica inaugurated right-wing president Laura Fernandez on Friday as supporters gathered in the national stadium.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/costa-rica-inaugurates-right-wing-president-laura-fernandez?traffic_source=rss",
+          "published_at": "Fri, 08 May 2026 21:33:31 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "YWxqYXplZXJhLWxhdXJhLWZl",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
@@ -4604,48 +4626,6 @@
           "article_url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/protests-in-the-canary-islands-as-virus-stricken-ship-heads-for-port?traffic_source=rss",
           "published_at": "Fri, 08 May 2026 18:56:11 +0000",
           "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLWxpYnlh4oCZ",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Libya’s largest oil refinery halts operations during fighting",
-          "summary": "Zawiya refinery shut down in 'precautionary measure' as emergency declared following explosions and gunfire nearby.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/5/8/libyas-largest-oil-refinery-halts-operations-during-fighting?traffic_source=rss",
-          "published_at": "Fri, 08 May 2026 18:47:02 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLWZvdXItY29u",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Four convicted in US related to killing of Haitian President Jovenel Moise",
-          "summary": "Prosecutors charge Florida served as central hub in 2021 assassination of Moise, which set off ongoing political crisis.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/5/8/four-convicted-in-us-related-to-killing-of-haitian-president-jovenel-moise?traffic_source=rss",
-          "published_at": "Fri, 08 May 2026 18:22:31 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXRydW1wLWFu",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Trump announces three-day ceasefire in Russia-Ukraine war",
-          "summary": "Truce will also include swap of 1,000 prisoners of war from each country, US president says.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss",
-          "published_at": "Fri, 08 May 2026 18:15:46 +0000",
-          "cross_sections": []
         }
       ]
     },
@@ -4656,117 +4636,115 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "YXJhYm5ld3MtZWwtc2lzaS1z",
+          "id": "YXJhYm5ld3MtZGVhZGxpZXN0",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "El-Sisi says Egypt in ‘state of near-emergency’ as war threatens economy",
-          "summary": "CAIRO: Egyptian President Abdel Fattah El-Sisi said Thursday his country was in an economic “state of near-emergency” as a result of the Middle East war, warning of runaway inflation.\n\tThe Arab world’s most populous nation has not been physically impacted by the US and Israeli war with Iran, which h",
+          "title": "Deadliest year ever for Red Sea migrants with 922 deaths: UN",
+          "summary": "ADDIS ABABA: The number of migrants who died on the “Eastern Route” from the Horn of Africa to the Arabian Peninsula doubled to a record high of 922 last year, the UN migration agency said Wednesday.\n\tTens of thousands of migrants from Ethiopia, Somalia and neighboring countries take the route acros",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2635410/middle-east",
-          "published_at": "Thu, 05 Mar 2026 11:03:29 +03",
+          "article_url": "https://www.arabnews.com/node/2637597/world",
+          "published_at": "Wed, 25 Mar 2026 12:03:39 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtaG93LWlzcmFl",
+          "id": "YXJhYm5ld3Mtcm9oaW5neWEt",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "How Israel’s ‘buffer zone’ plan could redraw the map of southern Lebanon",
-          "summary": "BEIRUT: Lebanon faces what officials described as “one of the most dangerous moments in recent memory” after Hezbollah launched attacks on Israeli forces from areas both south and north of the Litani River, triggering a renewed Israeli air and ground campaign.\n\n\tAnnouncing its ground incursion into ",
+          "title": "Rohingya refugees in Bangladesh worry ahead of food aid cuts",
+          "summary": "DHAKA: Rohingya refugees in Bangladesh expressed concern on Wednesday as the cash-strapped UN World Food Programme (WFP) prepares to cut aid for large portions of the 1.2 million-strong group.\n\tBangladesh’s vast refugee camps shelter Rohingya who fled persecution in neighboring war-torn Myanmar, wit",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2635409/middle-east",
-          "published_at": "Thu, 05 Mar 2026 10:03:55 +03",
+          "article_url": "https://www.arabnews.com/node/2637600/world",
+          "published_at": "Wed, 25 Mar 2026 12:03:32 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtaXNyYWVsLWRl",
+          "id": "YXJhYm5ld3MtZWd5cHQtdGFy",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Israel decided to kill Khamenei in November, defense minister says",
-          "summary": "JERUSALEM: Israel took the decision to kill Iran’s Supreme Leader Ali Khamenei in November and was planning to carry out the operation around six months later, Defense Minister Israel Katz said on Thursday.\n\tKhamenei was killed in the first hours of the US-Israeli air campaign that began on Saturday",
+          "title": "Egypt targeting 5.4% GDP growth in 2026/27 budget",
+          "summary": "RIYADH: Egypt is targeting gross domestic product growth of 5.4 percent, inflation stabilization, and a primary surplus of 1.2 trillion Egyptian pounds ($22.7 billion) during the 2026/27 fiscal year, a top official revealed.",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2635406/middle-east",
-          "published_at": "Thu, 05 Mar 2026 10:03:51 +03",
+          "article_url": "https://www.arabnews.com/node/2637598/business-economy",
+          "published_at": "Wed, 25 Mar 2026 12:03:29 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtbWFjcm9uLWNh",
+          "id": "YXJhYm5ld3MtcGlm4oCZcy1m",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Macron calls on Israel, Iran and Hezbollah to prevent Lebanon being embroiled in conflict",
-          "summary": "LONDON: Emmanuel Macron on Thursday called on Israel and Iran not to embroil Lebanon in the conflict sweeping the Middle East.\n\n\tThe French president made his plea as panic swept through Beirut after Israel ordered residents to evacuate the southern suburbs of the Lebanese capital and three villages",
+          "title": "PIF’s Folk Maritime redirects its routes to Red Sea to keep pace with shipping shifts",
+          "summary": "RIYADH: Amid the rapid shifts in regional maritime transport and the increasing rerouting of shipping away from the Arabian Gulf, Red Sea ports, particularly Jeddah Port, are emerging as key hubs for accommodating container traffic and enhancing the stability of supply chains in the region.",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2635405/middle-east",
-          "published_at": "Thu, 05 Mar 2026 10:03:44 +03",
+          "article_url": "https://www.arabnews.com/node/2637602/business-economy",
+          "published_at": "Wed, 25 Mar 2026 12:03:18 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtdHJ1bXAtZmly",
+          "id": "YXJhYm5ld3MtZW1lYS1wb3J0",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Trump fires homeland security chief Kristi Noem",
-          "summary": "WASHINGTON: US President Donald Trump on Thursday fired Kristi Noem as head of the Department of Homeland Security, the agency responsible for carrying out his sweeping immigration crackdown.\n\tAccording to multiple media reports, Trump was upset with Noem’s testimony at a Senate hearing this week wh",
+          "title": "EMEA ports have rating headroom to weather Hormuz closure: Fitch",
+          "summary": "RIYADH: Ports across Europe, the Middle East and Africa are broadly well-positioned to absorb the economic shock of a prolonged Iran conflict and a potential closure of the Strait of Hormuz, with most maintaining sufficient rating headroom, Fitch Ratings said.\n\n\tDespite the war significantly disrupt",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2635407/world",
-          "published_at": "Thu, 05 Mar 2026 10:03:32 +03",
+          "article_url": "https://www.arabnews.com/node/2637608/business-economy",
+          "published_at": "Wed, 25 Mar 2026 02:03:15 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3Mtam9yZGFu4oCZ",
+          "id": "YXJhYm5ld3MtZWd5cHTigJlz",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Jordan’s king condemns Iranian attacks in region during talks with Syrian president",
-          "summary": "LONDON: King Abdullah of Jordan and President Ahmad Al-Sharaa of Syria discussed on Thursday the dangerous developments in the region this week following the US and Israeli attacks against Iran that began on Saturday.\n\n\tDuring their telephone conversation, both leaders emphasized the need for dialog",
+          "title": "Egypt’s Waterway plans to launch a real estate fund exceeding $190m",
+          "summary": "LONDON: Egypt’s The Waterway Developments plans to establish a real estate investment fund worth 10 billion Egyptian pounds ($190.2 million) in the first half of this year to help finance its project spending, CEO Hossam Hassan told Asharq.\n\n\tThe planned fund will be backed by income-generating real",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2635404/middle-east",
-          "published_at": "Thu, 05 Mar 2026 10:03:26 +03",
+          "article_url": "https://www.arabnews.com/node/2637603/business-economy",
+          "published_at": "Wed, 25 Mar 2026 01:03:51 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtZXVyb3BvbC13",
+          "id": "YXJhYm5ld3MtcnVzc2lhLXNh",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Europol warns Iran crisis raises threat of terror, extremism and cyberattacks",
-          "summary": "MADRID: The Middle East conflict will have “immediate repercussions” for European Union security with an increased threat of terrorism, serious and organized crime as well as violent extremism and cyberattacks, European police body Europol told Spanish news agency EFE on Thursday.\n\tEuropol spokesman",
+          "title": "Russia says it shot down almost 400 Ukrainian drones as Moscow and Kyiv escalate aerial barrages",
+          "summary": "Russian air defenses downed 389 incoming Ukrainian drones, Russia’s Defense Ministry said Wednesday, in what was the largest reported overnight attack on Russian regions and Crimea since Moscow’s forces invaded Ukraine more than four years ago.\n\tThe drones were stopped over 13 Russian regions as wel",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2635408/world",
-          "published_at": "Thu, 05 Mar 2026 10:03:24 +03",
-          "cross_sections": [
-            "tech"
-          ]
+          "article_url": "https://www.arabnews.com/node/2637605/world",
+          "published_at": "Wed, 25 Mar 2026 01:03:45 +03",
+          "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3Mta2FuZS10by1t",
+          "id": "YXJhYm5ld3MtZnVsbC1jYXJk",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Kane to miss Bayern game against Gladbach with calf knock",
-          "summary": "BERLIN: Harry Kane will miss Bayern Munich’s Bundesliga match against Borussia Moenchengladbach with a calf injury, coach Vincent Kompany said on Thursday.\n\tThe England striker, who has been an ever-present for Bayern this season, should be fit in time for the Champions League last-16 first leg at A",
+          "title": "Full card announced for PFL Chicago",
+          "summary": "NEW YORK: The Professional Fighters League has announced the full fight card for PFL Chicago at Wintrust Arena on Saturday, April 11.\n\n\tIn the main event, former Bellator bantamweight champion Sergio Pettis (25-7) meets undefeated rising contender Mitch McKee (10-0) in a pivotal 135-pound showdown. ",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2635402/sport",
-          "published_at": "Thu, 05 Mar 2026 09:03:33 +03",
+          "article_url": "https://www.arabnews.com/node/2637604/sport",
+          "published_at": "Wed, 25 Mar 2026 01:03:37 +03",
           "cross_sections": []
         }
       ]
@@ -4926,7 +4904,7 @@
         {
           "id": "cnet",
           "name": "CNET",
-          "count": 8
+          "count": 7
         },
         {
           "id": "venturebeat",
@@ -4936,7 +4914,7 @@
         {
           "id": "cnbctech",
           "name": "CNBC Technology",
-          "count": 8
+          "count": 7
         },
         {
           "id": "ettech",
@@ -4958,7 +4936,7 @@
         {
           "id": "nyt",
           "name": "The New York Times",
-          "count": 22
+          "count": 23
         },
         {
           "id": "cnn",
@@ -5061,6 +5039,87 @@
       "icon": "💻",
       "articles": [
         {
+          "id": "Y25iY3RlY2gtamltLWNyYW1l",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Jim Cramer says 'it's not to late' to own AI winners powering the market",
+          "summary": "CNBC's Jim Cramer said the AI-driven rally has dominated the market, and next week will test whether investors keep rewarding the winners.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/08/jim-cramer-its-not-to-late-to-own-ai-winners.html",
+          "published_at": "Fri, 08 May 2026 22:35:36 GMT",
+          "cross_sections": [
+            "ai",
+            "tech"
+          ]
+        },
+        {
+          "id": "dGVjaGNydW5jaC1zYW4tZnJh",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "San Francisco’s housing market has lost its mind",
+          "summary": "The invisible force behind all of this is no mystery to anyone paying attention to the city's tech economy. San Francisco is home to some of the most valuable private companies in the world, and their employees have been quietly accumulating — and, increasingly, cashing out — fortunes.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/",
+          "published_at": "Fri, 08 May 2026 22:32:31 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iY3RlY2gtaW50ZWwtc2hh",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Intel shares soar on Apple chip deal report. Here's why it signals a total pivot for chipmaking",
+          "summary": "Samsung, Intel and Taiwan Semiconductor are the only three companies in the world capable of manufacturing the most advanced chips needed for AI.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/08/intel-stock-apple-chip-deal.html",
+          "published_at": "Fri, 08 May 2026 22:18:30 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iYy1pbnRlbC1zaGFyZXMt",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Intel shares soar on Apple chip deal report. Here's why it signals a total pivot for chipmaking",
+          "summary": "Samsung, Intel and Taiwan Semiconductor are the only three companies in the world capable of manufacturing the most advanced chips needed for AI.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/08/intel-stock-apple-chip-deal.html",
+          "published_at": "Fri, 08 May 2026 22:18:30 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "aW5jNDItaXBvLWJvdW5kLWNh",
+          "source_id": "inc42",
+          "source_name": "Inc42",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "IPO-Bound Cars24 Claims Adjusted EBITDA Profitability In Q4 FY26",
+          "summary": "IPO-bound used car marketplace Cars24 has claimed adjusted EBITDA profitability in the fourth quarter (Q4) of fiscal year 2025-26 (FY26).…",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/cars24-fy26-featured.png",
+          "article_url": "https://inc42.com/buzz/ipo-bound-cars24-claims-adjusted-ebitda-profitability-in-q4-fy26/",
+          "published_at": "Fri, 08 May 2026 21:44:48 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "Y25iY3RlY2gtcm9ja2V0LWxh",
           "source_id": "cnbctech",
           "source_name": "CNBC Technology",
@@ -5077,38 +5136,6 @@
           ]
         },
         {
-          "id": "Y25iY3RlY2gtaW50ZWwtc2hh",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Intel shares soar on Apple chip deal report. Here's why it signals a total pivot for chipmaking",
-          "summary": "Samsung, Intel and TSMC are the only three companies in the world capable of manufacturing the most advanced chips needed for AI.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/08/intel-stock-apple-chip-deal.html",
-          "published_at": "Fri, 08 May 2026 21:03:09 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy1pbnRlbC1zaGFyZXMt",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Intel shares soar on Apple chip deal report. Here's why it signals a total pivot for chipmaking",
-          "summary": "Samsung, Intel and TSMC are the only three companies in the world capable of manufacturing the most advanced chips needed for AI.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/08/intel-stock-apple-chip-deal.html",
-          "published_at": "Fri, 08 May 2026 21:03:09 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "dmVudHVyZWJlYXQtNSwwMDAt",
           "source_id": "venturebeat",
           "source_name": "VentureBeat",
@@ -5120,6 +5147,23 @@
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3H8BkMlVjetAGClhRKtmFK/533b657c9dd2b63819c0db0d2f8c6559/5_000_vibe-coded_apps_just_proved_shadow_AI_is_the_new_S3_bucket_crisis.png?w=300&q=30",
           "article_url": "https://venturebeat.com/security/vibe-coded-apps-shadow-ai-s3-bucket-crisis-ciso-audit-framework",
           "published_at": "Fri, 08 May 2026 20:57:01 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "Y25ldC10aGUtaGVhbHRoLXRy",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "The Health-Tracking Whoop App Will Now Connect You to On-Demand Doctors. Plus, New AI Features",
+          "summary": "If you own a Whoop fitness-tracking wearable, you’ll want to check out these new updates surrounding medical records and AI insights.",
+          "image_url": "https://www.cnet.com/a/img/resize/da61c7b95ecbb3ed04ceb5c2a674320be279c9d1/hub/2026/05/08/ee74d67e-dad2-4c2b-847b-665f130719ae/whoop-render-ui-1600x900-option-2.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "article_url": "https://www.cnet.com/health/fitness/whoop-fitness-tracker-ai-feature-on-demand-doctors/",
+          "published_at": "Fri, 08 May 2026 20:54:00 +0000",
           "cross_sections": [
             "tech",
             "ai"
@@ -5236,22 +5280,6 @@
           "cross_sections": [
             "tech",
             "ai"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtY29uZ3Jlc3Mt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Congress slams Modi Government over women’s safety citing NCRB data",
-          "summary": "Mallikarjun Kharge said NCRB data pointed that cybercrime had surged by 1,689% and 10,546 farmers, 52,931 daily wage labourers and 14,488 students died by suicide in 2024",
-          "image_url": "https://th-i.thgim.com/public/incoming/5ds22c/article70957015.ece/alternates/LANDSCAPE_1200/20260508173L.jpg",
-          "article_url": "https://www.thehindu.com/news/national/congress-slams-modi-government-over-womens-safety-citing-ncrb-data/article70956240.ece",
-          "published_at": "Sat, 09 May 2026 01:37:10 +0530",
-          "cross_sections": [
-            "tech"
           ]
         },
         {
@@ -5534,23 +5562,6 @@
           ]
         },
         {
-          "id": "Y25ldC1kb2VzLXlvdXItYWkt",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Does Your AI Agent Need a VPN? The Company Behind Norton and Avast Thinks So",
-          "summary": "You might use a VPN yourself, but have you considered giving one to your AI agent? It might be more important than you think.",
-          "image_url": "https://www.cnet.com/a/img/resize/5c7aa2caa8d151fe87254cad1c079a0e1c951be0/hub/2026/04/21/3840f994-1e8b-461c-83c5-d485ccc81dcd/ws-giveopenclawavpn.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/tech/services-and-software/does-your-ai-agent-need-a-vpn-the-company-behind-norton-and-avast-thinks-so/",
-          "published_at": "Fri, 08 May 2026 18:13:00 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "d2lyZWQtdGVzbGHigJlzLWxh",
           "source_id": "wired",
           "source_name": "Wired",
@@ -5594,22 +5605,6 @@
           "image_url": "https://c.ndtvimg.com/2026-05/a9a9sbcc_aws_625x300_08_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
           "article_url": "https://www.ndtv.com/world-news/amazon-chile-data-centre-to-be-built-as-residents-lose-green-challenge-11469289#publisher=newsstand",
           "published_at": "Fri, 08 May 2026 23:35:22 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25ldC1pbnN0YWdyYW0ncy1t",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Instagram's Messaging Encryption is Ending. Here's What You Should Know",
-          "summary": "Meta is offering a way to download encrypted messages from the platform for those who opted into the feature.",
-          "image_url": "https://www.cnet.com/a/img/resize/a1b2e8b348d5b2e26c535f975e3e6fbaf2bedf08/hub/2024/03/15/dd9879fc-a4b7-4986-9060-13995ce6a2ea/instagram-insta-primary-lemon-200-7065.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/news/privacy/instagram-messaging-encryption-ending-explainer/",
-          "published_at": "Fri, 08 May 2026 17:53:00 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5693,22 +5688,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "emRuZXQtd29ycmllZC1hYm91",
-          "source_id": "zdnet",
-          "source_name": "ZDNet",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Worried about the nationwide Canvas data breach? Take these 6 steps now",
-          "summary": "A ransomware group behind the attacks claims to have stolen 275 million records connected to students, teachers, and staff. Here's how to deal with it.",
-          "image_url": null,
-          "article_url": "https://www.zdnet.com/article/canvas-breach-disrupts-schools-nationwide-6-steps-to-take-now/",
-          "published_at": "Fri, 08 May 2026 17:20:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -5776,6 +5755,55 @@
       "icon": "🤖",
       "articles": [
         {
+          "id": "Y25iY3RlY2gtamltLWNyYW1l",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Jim Cramer says 'it's not to late' to own AI winners powering the market",
+          "summary": "CNBC's Jim Cramer said the AI-driven rally has dominated the market, and next week will test whether investors keep rewarding the winners.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/08/jim-cramer-its-not-to-late-to-own-ai-winners.html",
+          "published_at": "Fri, 08 May 2026 22:35:36 GMT",
+          "cross_sections": [
+            "ai",
+            "tech"
+          ]
+        },
+        {
+          "id": "dmVudHVyZWJlYXQtYW50aHJv",
+          "source_id": "venturebeat",
+          "source_name": "VentureBeat",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Anthropic says it hit a $30 billion revenue run rate after 'crazy' 80x growth",
+          "summary": "Dario Amodei is not the kind of CEO who talks loosely about numbers. The Anthropic co-founder and chief executive, a former VP of research at OpenAI with a PhD in computational neuroscience from Princeton, has built a reputation for measured public statements — particularly around the financial perf",
+          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3qloNl7y6W8aLaJNTzTXqd/e496756afa4789e88ca341be72f4547b/Nuneybits_Vector_art_of_a_retro_computer_with_a_graph_going_up__ca5ad9fd-fe3e-48ab-a2d3-f2ace34416ec.webp?w=300&q=30",
+          "article_url": "https://venturebeat.com/technology/anthropic-says-it-hit-a-30-billion-revenue-run-rate-after-crazy-80x-growth",
+          "published_at": "Fri, 08 May 2026 21:45:20 GMT",
+          "cross_sections": [
+            "ai"
+          ]
+        },
+        {
+          "id": "dmVudHVyZWJlYXQtb3BlbmFp",
+          "source_id": "venturebeat",
+          "source_name": "VentureBeat",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "OpenAI brings GPT-5-class reasoning to real-time voice — and it changes what voice agents can actually orchestrate",
+          "summary": "Voice agents have been expensive to run and painful to orchestrate, not because the models can't handle conversation, but because context ceilings forced enterprises to build session resets, state compression, and reconstruction layers into every deployment. OpenAI's three new voice models are desig",
+          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4fS8WkFKirUi9KqwhCb400/dba3dc0e8604c34ee39ee2e0fea8b1d8/crimedy7_illustration_of_a_robot_with_a_phone_--ar_169_--v_7_059ef1c1-2f5e-4009-ab54-acec406a8f5e_1.png?w=300&q=30",
+          "article_url": "https://venturebeat.com/orchestration/openai-brings-gpt-5-class-reasoning-to-real-time-voice-and-it-changes-what-voice-agents-can-actually-orchestrate",
+          "published_at": "Fri, 08 May 2026 21:41:21 GMT",
+          "cross_sections": [
+            "ai"
+          ]
+        },
+        {
           "id": "dmVudHVyZWJlYXQtNSwwMDAt",
           "source_id": "venturebeat",
           "source_name": "VentureBeat",
@@ -5789,6 +5817,39 @@
           "published_at": "Fri, 08 May 2026 20:57:01 GMT",
           "cross_sections": [
             "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "Y25ldC10aGUtaGVhbHRoLXRy",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "The Health-Tracking Whoop App Will Now Connect You to On-Demand Doctors. Plus, New AI Features",
+          "summary": "If you own a Whoop fitness-tracking wearable, you’ll want to check out these new updates surrounding medical records and AI insights.",
+          "image_url": "https://www.cnet.com/a/img/resize/da61c7b95ecbb3ed04ceb5c2a674320be279c9d1/hub/2026/05/08/ee74d67e-dad2-4c2b-847b-665f130719ae/whoop-render-ui-1600x900-option-2.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "article_url": "https://www.cnet.com/health/fitness/whoop-fitness-tracker-ai-feature-on-demand-doctors/",
+          "published_at": "Fri, 08 May 2026 20:54:00 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "YXJzdGVjaG5pY2Etc29ueS1z",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Sony says \"efficient\" AI tools will lead to even more games flooding the market",
+          "summary": "But human artists still \"must remain at the center,\" PlayStation maker says.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2264634340-1152x648.jpg",
+          "article_url": "https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/",
+          "published_at": "Fri, 08 May 2026 20:51:17 +0000",
+          "cross_sections": [
             "ai"
           ]
         },
@@ -5912,23 +5973,6 @@
           ]
         },
         {
-          "id": "Y25ldC1kb2VzLXlvdXItYWkt",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Does Your AI Agent Need a VPN? The Company Behind Norton and Avast Thinks So",
-          "summary": "You might use a VPN yourself, but have you considered giving one to your AI agent? It might be more important than you think.",
-          "image_url": "https://www.cnet.com/a/img/resize/5c7aa2caa8d151fe87254cad1c079a0e1c951be0/hub/2026/04/21/3840f994-1e8b-461c-83c5-d485ccc81dcd/ws-giveopenclawavpn.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/tech/services-and-software/does-your-ai-agent-need-a-vpn-the-company-behind-norton-and-avast-thinks-so/",
-          "published_at": "Fri, 08 May 2026 18:13:00 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "dGhldmVyZ2UtZG9nZS11c2Vk",
           "source_id": "theverge",
           "source_name": "The Verge",
@@ -5961,22 +6005,6 @@
           ]
         },
         {
-          "id": "dmVudHVyZWJlYXQtYW50aHJv",
-          "source_id": "venturebeat",
-          "source_name": "VentureBeat",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Anthropic wants to own your agent's memory, evals, and orchestration — and that should make enterprises nervous",
-          "summary": "Just a few weeks after announcing Claude Managed Agents, Anthropic has updated the platform with three new capabilities that collapse infrastructure layers like memory, evaluation, and multi-agent orchestration, into a single runtime.\nThis move could threaten the standalone tools that many enterpris",
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/D0GSZK3z1kRMUMZ5S6AVG/d022b4a260c084315b3ecd9254baa0d5/crimedy7_illustration_of_a_robot_trying_to_remember_something_40ad3c2a-097e-454e-a646-8ef5b077c76e_1.png?w=300&q=30",
-          "article_url": "https://venturebeat.com/orchestration/anthropic-wants-to-own-your-agents-memory-evals-and-orchestration-and-that-should-make-enterprises-nervous",
-          "published_at": "Fri, 08 May 2026 17:51:41 GMT",
-          "cross_sections": [
-            "ai"
-          ]
-        },
-        {
           "id": "YXJzdGVjaG5pY2EtY2hyb21l",
           "source_id": "arstechnica",
           "source_name": "Ars Technica",
@@ -5991,23 +6019,6 @@
           "cross_sections": [
             "tech",
             "ai"
-          ]
-        },
-        {
-          "id": "Y25iY3RlY2gtamltLWNyYW1l",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Jim Cramer says this struggling stock could remain under pressure in AI-driven market",
-          "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/08/cramer-this-struggling-stock-may-remain-challenged-in-ai-driven-market.html",
-          "published_at": "Fri, 08 May 2026 15:55:12 GMT",
-          "cross_sections": [
-            "ai",
-            "tech"
           ]
         },
         {
@@ -6289,22 +6300,6 @@
           ]
         },
         {
-          "id": "dmVudHVyZWJlYXQtaG93LXNh",
-          "source_id": "venturebeat",
-          "source_name": "VentureBeat",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "How Sakana trained a 7B model to orchestrate GPT, Claude and Gemini LLMs",
-          "summary": "Every LangChain pipeline your team hardcodes starts breaking the moment the query distribution shifts — and it always shifts. That bottleneck is what Sakana AI set out to eliminate.\nResearchers at Sakana AI have introduced the \"RL Conductor,\" a small language model trained via reinforcement learning",
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1Pjru88KYRcP7uhAUoAFdr/a8b3cbf6d225a6cc02672e589ca22917/RL_conductor.jpg?w=300&q=30",
-          "article_url": "https://venturebeat.com/orchestration/how-sakana-trained-a-7b-model-to-orchestrate-gpt-5-claude-sonnet-4-and-gemini-2-5-pro",
-          "published_at": "Thu, 07 May 2026 21:23:46 GMT",
-          "cross_sections": [
-            "ai"
-          ]
-        },
-        {
           "id": "bnl0LWZpdmUtd2F5cy1hLmku",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -6418,30 +6413,13 @@
           "cross_sections": [
             "ai"
           ]
-        },
-        {
-          "id": "Zm94LW5ldy1haS1icmFpbi1s",
-          "source_id": "fox",
-          "source_name": "Fox News",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Tech",
-          "title": "New AI brain lets robots move like humans",
-          "summary": "Genesis AI unveils GENE-26.5, a robotic brain it says enables general-purpose robots to perform complex physical tasks with human-level dexterity.",
-          "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/ai-brain-robot-hands-2.jpeg?ve=1&tl=1",
-          "article_url": "https://www.foxnews.com/tech/new-ai-brain-lets-robots-move-like-humans",
-          "published_at": "Wed, 06 May 2026 13:00:13 -0400",
-          "cross_sections": [
-            "ai",
-            "tech"
-          ]
         }
       ]
     }
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 13403,
+    "build_ms": 15710,
     "ai_enabled": true
   }
 }
