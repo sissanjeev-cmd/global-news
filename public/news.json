@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-11T22:37:43.216Z",
-  "total_articles": 309,
-  "new_this_run": 34,
+  "last_updated": "2026-05-11T23:37:54.667Z",
+  "total_articles": 301,
+  "new_this_run": 17,
   "sources": [
     {
       "id": "techcrunch",
@@ -9,6 +9,22 @@
       "region": "IT Focus",
       "category": "Tech Media",
       "articles": [
+        {
+          "id": "dGVjaGNydW5jaC1nbS1qdXN0",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+          "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+          "published_at": "Mon, 11 May 2026 23:04:10 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "dGVjaGNydW5jaC1maW5hbGx5",
           "source_id": "techcrunch",
@@ -116,22 +132,6 @@
           "article_url": "https://techcrunch.com/2026/05/11/tiktok-launches-an-ad-free-subscription-plan-in-the-uk/",
           "published_at": "Mon, 11 May 2026 14:05:47 +0000",
           "cross_sections": []
-        },
-        {
-          "id": "dGVjaGNydW5jaC10aGVyZS1h",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
-          "summary": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
-          "published_at": "Mon, 11 May 2026 13:00:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -141,6 +141,37 @@
       "region": "IT Focus",
       "category": "Tech Media",
       "articles": [
+        {
+          "id": "dGhldmVyZ2Utb3BlbmFpLWp1",
+          "source_id": "theverge",
+          "source_name": "The Verge",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "OpenAI just released its answer to Claude Mythos",
+          "summary": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely v",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "article_url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+          "published_at": "2026-05-11T23:05:01.000Z",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "dGhldmVyZ2UteWFyYm8tc2F5",
+          "source_id": "theverge",
+          "source_name": "The Verge",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Yarbo says it will remove the intentional backdoor from its robot lawn mower",
+          "summary": "The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors reprogram the robot over the internet. Yarbo customers will be able to decide whether that feature even gets installed in the ",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Yarbo-M1-8.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "article_url": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor",
+          "published_at": "2026-05-11T22:40:20.000Z",
+          "cross_sections": []
+        },
         {
           "id": "dGhldmVyZ2UtaGVyZSYjODIx",
           "source_id": "theverge",
@@ -232,36 +263,6 @@
           "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
           "article_url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
           "published_at": "2026-05-11T16:09:42.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhldmVyZ2UtYS1taWxsaW9u",
-          "source_id": "theverge",
-          "source_name": "The Verge",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "A million baby monitors and security cameras were easily viewable by hackers",
-          "summary": "If your baby monitor looks something like this, it’s probably a Meari. | Image: Meari\t\n\nA baby's eyes peer directly into the camera lens. A kid with a striped shirt looks up, then away. A boy in a policeman's costume, a gold star on his chest. A messy bedroom that reminds me of my own daughters, wit",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/meari-baby-monitor-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "article_url": "https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera",
-          "published_at": "2026-05-11T16:00:00.000Z",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhldmVyZ2UtNy1vZi1vdXIt",
-          "source_id": "theverge",
-          "source_name": "The Verge",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "7 of our favorite deals from Amazon’s Pet Days sale",
-          "summary": "The Little Green carpet cleaner can do more than just suck up unmentionable pet-created disasters. It’s great for getting out coffee stains, too. | Image: Bissell\t\n\nA big part of my job here at The Verge is to find deals on tech that readers will like. But in my personal life, I’m not spending anywh",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/bisselllead.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "article_url": "https://www.theverge.com/gadgets/927788/amazon-pet-days-tech-gadgets-cat-dog-deal-sale",
-          "published_at": "2026-05-11T15:45:32.000Z",
           "cross_sections": [
             "tech"
           ]
@@ -663,6 +664,34 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "Y25ldC0ndGhlLXJpbmdzLW9m",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "'The Rings of Power': Here's When Season 3 Hits Prime Video",
+          "summary": "A multiple-year time jump sets the third season in the middle of the war between Sauron and the elves.",
+          "image_url": "https://www.cnet.com/a/img/resize/cf7a43e09aaebcac60c1fa1c9035e16acf0fa4b2/hub/2026/05/11/82d99662-5359-4d13-aa13-3ba6e5600ea6/image-6.png?auto=webp&fit=crop&height=614&width=1092",
+          "article_url": "https://www.cnet.com/tech/services-and-software/the-rings-of-power-heres-when-season-3-hits-prime-video/",
+          "published_at": "Mon, 11 May 2026 23:14:32 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "Y25ldC1tZXRhLXN1ZWQtYnkt",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Meta Sued by California County Over Alleged Scam Ads on Social Media",
+          "summary": "Santa Clara County is seeking restitution, damages and policy changes.",
+          "image_url": "https://www.cnet.com/a/img/resize/b8bb44a9d976cbb7259a1d556a809afd08d75739/hub/2025/11/24/071617a8-cadc-4ef8-b87d-dd6376576ec5/gettyimages-2243311736.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "article_url": "https://www.cnet.com/news/social-media/meta-sued-by-california-county-for-promoting-scams-on-its-platforms/",
+          "published_at": "Mon, 11 May 2026 22:57:30 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "Y25ldC10aGUtMTQtYmVzdC1l",
           "source_id": "cnet",
           "source_name": "CNET",
@@ -749,34 +778,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "Y25ldC10ZXhhcy1zdWVzLW5l",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Texas Sues Netflix for Alleged Data Collection of Children Without Consent",
-          "summary": "The Texas Attorney General alleges that Netflix has designed its platform to be addictive and plans to sell data \"for a handsome profit.\"",
-          "image_url": "https://www.cnet.com/a/img/resize/5c6ab1147e3f9e655d6416f58a9e05be0b6ec404/hub/2024/08/22/98704754-92e4-4854-9c94-a53ef5d23d59/netflix-streaming-tv-movies-0133-2.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/tech/services-and-software/texas-sues-netflix-for-alleged-data-collection-of-children-without-consent/",
-          "published_at": "Mon, 11 May 2026 20:56:33 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "Y25ldC13aGF0LWlzLWVhcnRo",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "What Is Earthshine? Spot the Lunar Marvel in the Skies This Week",
-          "summary": "The best time to see Earthshine is a few days before and a few days after each new moon during the spring.",
-          "image_url": "https://www.cnet.com/a/img/resize/cbc8f62b7ff93b7eab9c2f9f683d7b224c1ff518/hub/2026/04/13/aaf5ca58-b20f-4342-b728-02cad5971dfc/earthshine.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/science/space/what-is-earthshine-best-time-to-see-it/",
-          "published_at": "Mon, 11 May 2026 20:56:00 +0000",
-          "cross_sections": []
         }
       ]
     },
@@ -920,7 +921,7 @@
           "summary": "Elon Musk named Microsoft as a defendant in his lawsuit against OpenAI",
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/05/11/microsoft-ceo-satya-nadella-musk-altman-trial.html",
-          "published_at": "Mon, 11 May 2026 22:03:02 GMT",
+          "published_at": "Mon, 11 May 2026 23:30:35 GMT",
           "cross_sections": [
             "tech",
             "ai"
@@ -1321,6 +1322,38 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "bnl0LWlyYW4td2FyLWxpdmUt",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "Iran War Live Updates: Long-Term Energy Crisis Looms as Trump Says Truce Is on ‘Life Support’",
+          "summary": "Iran defended its demands for a peace deal and President Trump called them “garbage.” Mr. Trump said he wanted to suspend the federal gasoline tax, which would require congressional approval.",
+          "image_url": "https://static01.nyt.com/images/2026/05/11/multimedia/11mideast-200-zcgk/11mideast-200-zcgk-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz",
+          "published_at": "Mon, 11 May 2026 23:04:30 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LXN1cHJlbWUtY291cnQt",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Supreme Court Clears Path for Alabama to Use New Voting Map",
+          "summary": "A majority of the justices sided with Alabama in a move that could speed up efforts to put in place a congressional district map that would eliminate a majority-Black district.",
+          "image_url": "https://static01.nyt.com/images/2026/05/11/multimedia/11dc-scotus-alabama-mhkj/11dc-scotus-alabama-mhkj-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-alabama-map.html",
+          "published_at": "Mon, 11 May 2026 22:53:25 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "bnl0LW1pY3Jvc29mdOKAmXMt",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1338,22 +1371,6 @@
           ]
         },
         {
-          "id": "bnl0LWlyYW4td2FyLWxpdmUt",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Iran War Live Updates: Long-Term Energy Crisis Looms as Trump Says Truce Is on ‘Life Support’",
-          "summary": "Iran defended its demands for a peace deal and President Trump called them “garbage.” Mr. Trump said he wanted to suspend the federal gasoline tax, which would require congressional approval.",
-          "image_url": "https://static01.nyt.com/images/2026/05/11/multimedia/11mideast-200-zcgk/11mideast-200-zcgk-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz",
-          "published_at": "Mon, 11 May 2026 22:01:06 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bnl0LXB1dGluLXNhaWQtdGhl",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1365,22 +1382,6 @@
           "image_url": "https://static01.nyt.com/images/2026/05/11/multimedia/00int-russia-putin01-photo-mblj/00int-russia-putin01-photo-mblj-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/05/11/world/europe/putin-russia-ukraine-war.html",
           "published_at": "Mon, 11 May 2026 21:53:26 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LXNlbmF0ZS1nLm8ucC4t",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Senate G.O.P. Stands by Security Money for Trump’s Ballroom",
-          "summary": "Democrats are trying to stoke public opposition to the project as they take aim at legislation to provide nearly $72 billion for the administration’s immigration crackdown.",
-          "image_url": "https://static01.nyt.com/images/2026/05/11/multimedia/11dc-ballroom-czmh/11dc-ballroom-czmh-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/05/11/us/politics/trump-white-house-ballroom.html",
-          "published_at": "Mon, 11 May 2026 21:53:00 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -1432,20 +1433,32 @@
           ]
         },
         {
-          "id": "bnl0LXN1cHJlbWUtY291cnQt",
+          "id": "bnl0LXdoeS1yZXB1YmxpY2Fu",
           "source_id": "nyt",
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Supreme Court Continues Access to Abortion Pill by Mail, for a Few Days",
-          "summary": "Justice Samuel A. Alito Jr. has paused until at least Thursday a federal appeals court ruling against the Food and Drug Administration that would restrict access by mail to mifepristone.",
-          "image_url": "https://static01.nyt.com/images/2026/05/08/multimedia/00dc-scotus-abortion-photo-hgzq/00dc-scotus-abortion-photo-hgzq-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-abortion-pill-mifepristone.html",
-          "published_at": "Mon, 11 May 2026 20:03:14 +0000",
-          "cross_sections": [
-            "tech"
-          ]
+          "title": "Why Republicans Are Still Drawing House Maps, While Democrats Are Stuck",
+          "summary": "The G.O.P. has seized an edge on redistricting thanks to two court rulings, and it has more room to maneuver for extra seats before the midterms.",
+          "image_url": "https://static01.nyt.com/images/2026/05/11/multimedia/11pol-redistricting-explainer-fvhc/11pol-redistricting-explainer-fvhc-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/05/11/us/politics/redistricting-republicans-democrats.html",
+          "published_at": "Mon, 11 May 2026 20:36:25 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LXZpcmdpbmlhLW9mZmlj",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Virginia Officials Ask Supreme Court to Restore Voting Map Drawn by Democrats",
+          "summary": "State officials asked the justices to overturn a Virginia Supreme Court decision that struck down a congressional map, a major defeat for Democrats.",
+          "image_url": "https://static01.nyt.com/images/2026/05/09/multimedia/00dc-scotus-virginia-wfvt/00dc-scotus-virginia-wfvt-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-virginia-redistricting.html",
+          "published_at": "Mon, 11 May 2026 20:03:35 +0000",
+          "cross_sections": []
         },
         {
           "id": "bnl0LXJmay1qci4taXMtZHJp",
@@ -1462,17 +1475,17 @@
           "cross_sections": []
         },
         {
-          "id": "bnl0LXRydW1wLWFkbWluaXN0",
+          "id": "bnl0LXRoZS12b3Rpbmctcmln",
           "source_id": "nyt",
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Trump Administration to Scrap Rule Encouraging Conservation",
-          "summary": "The Biden-era measure was intended to protect millions of acres from industrial development and the effects of climate change.",
-          "image_url": "https://static01.nyt.com/images/2026/05/06/multimedia/00cli-public-lands-HFO-kpbv/00cli-public-lands-HFO-kpbv-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/05/11/climate/public-land-rule-repeal.html",
-          "published_at": "Mon, 11 May 2026 19:17:49 +0000",
+          "title": "The Voting Rights Decision Might Silence Black People in Fayette County, Tennessee",
+          "summary": "Black residents, who make up 25 percent of Fayette County, Tenn., won a new electoral map last year to change an all-white board of commissioners. They worry the Supreme Court’s ruling could threaten that.",
+          "image_url": "https://static01.nyt.com/images/2026/05/11/multimedia/11nat-vra-districts-btzw/11nat-vra-districts-btzw-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/05/11/us/fayette-county-tennessee-voting-rights.html",
+          "published_at": "Mon, 11 May 2026 19:49:37 +0000",
           "cross_sections": []
         },
         {
@@ -1683,7 +1696,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-05-11T22:37:33.886Z",
+          "published_at": "2026-05-11T23:37:44.664Z",
           "cross_sections": []
         },
         {
@@ -1697,7 +1710,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-05-11T22:37:33.886Z",
+          "published_at": "2026-05-11T23:37:44.664Z",
           "cross_sections": []
         },
         {
@@ -1711,7 +1724,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-05-11T22:37:33.886Z",
+          "published_at": "2026-05-11T23:37:44.664Z",
           "cross_sections": []
         },
         {
@@ -2033,7 +2046,7 @@
           "summary": "Elon Musk named Microsoft as a defendant in his lawsuit against OpenAI",
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/05/11/microsoft-ceo-satya-nadella-musk-altman-trial.html",
-          "published_at": "Mon, 11 May 2026 22:03:02 GMT",
+          "published_at": "Mon, 11 May 2026 23:30:35 GMT",
           "cross_sections": [
             "tech",
             "ai"
@@ -2512,6 +2525,48 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YmJjLXVzLXBhc3NlbmdlcnMt",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'",
+          "summary": "Two people are being monitored in Atlanta, 16 in Nebraska and another six passengers in Canada.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d9b/live/a1fc43f0-4d51-11f1-a556-3191549e7ed9.jpg",
+          "article_url": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 11 May 2026 23:31:37 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLW5vdC1zby1kdXN0eTot",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Technology",
+          "title": "Not so dusty: How tech is changing woodworking",
+          "summary": "Woodworking shops have been transformed by tech to make tools safer and more precise.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1a6/live/ce922de0-3e23-11f1-ac78-2112837ce2aa.jpg",
+          "article_url": "https://www.bbc.com/news/articles/c747n11933eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 11 May 2026 23:23:48 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLWhvdy1kcml2aW5nLXRl",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "How driving test booking is changing for learner drivers",
+          "summary": "From 12 May, only learner drivers can book their own tests, not instructors.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a1f/live/c23457a0-4d62-11f1-940e-cbf9737b8b8f.jpg",
+          "article_url": "https://www.bbc.com/news/articles/ckgpl9zdw3po?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 11 May 2026 23:08:21 GMT",
+          "cross_sections": []
+        },
+        {
           "id": "YmJjLXZpcmdpbmlhLWdpdWZm",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2526,20 +2581,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YmJjLXVzLXBhc3NlbmdlcnMt",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'",
-          "summary": "Two people are being monitored in Atlanta, 16 in Nebraska and another six passengers in Canada.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d9b/live/a1fc43f0-4d51-11f1-a556-3191549e7ed9.jpg",
-          "article_url": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 11 May 2026 22:14:36 GMT",
-          "cross_sections": []
         },
         {
           "id": "YmJjLXNvdXRoLWFmcmljYW4t",
@@ -2577,43 +2618,13 @@
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "World",
+          "feed_label": "Top Stories",
           "title": "Last passengers leave virus-hit cruise ship as three more test positive",
           "summary": "An American and a French national who have returned home have tested positive for hantavirus.",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d20f/live/0dffc500-4d7e-11f1-b55d-0f258dce1735.jpg",
           "article_url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 11 May 2026 20:49:14 GMT",
           "cross_sections": []
-        },
-        {
-          "id": "YmJjLWJyaXRpc2gtcGFzc2Vu",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "British passengers from hantavirus-hit cruise ship isolating in hospital",
-          "summary": "The passengers landed in the UK on Sunday and none have reported symptoms, but they will will be monitored in hospital for 72 hours.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d172/live/2b60dcd0-4d40-11f1-b55d-0f258dce1735.jpg",
-          "article_url": "https://www.bbc.com/news/articles/c4g83vddnz0o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 11 May 2026 20:00:28 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "YmJjLWV1LWFncmVlcy1zYW5j",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "EU agrees sanctions on Israeli settlers over West Bank violence",
-          "summary": "The EU's foreign policy chief said \"extremism and violence carry consequences\", while Israel branded the move \"arbitrary\".",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fec/live/3b96bbe0-4d51-11f1-b55d-0f258dce1735.jpg",
-          "article_url": "https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 11 May 2026 19:37:17 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "YmJjLXBvcnRyYWl0LWxvb3Rl",
@@ -2839,20 +2850,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YmJjLXRoZS1uby1ub25zZW5z",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Technology",
-          "title": "The no-nonsense judge calling the shots in Musk v Altman trial",
-          "summary": "The feud has fuelled a costly showdown between two tech titans.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/611c/live/9f240970-49ea-11f1-9921-0be54b6c608a.jpg",
-          "article_url": "https://www.bbc.com/news/articles/cx214rnlpn7o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 06 May 2026 23:52:48 GMT",
-          "cross_sections": []
         }
       ]
     },
@@ -3228,136 +3225,6 @@
       ]
     },
     {
-      "id": "euronews",
-      "name": "Euronews",
-      "region": "Europe",
-      "category": "Broadcaster",
-      "articles": [
-        {
-          "id": "ZXVyb25ld3MtaW50ZXJuYXRp",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "News",
-          "title": "International Feline Contest: Europe’s 'most beautiful cats' gather in Sofia",
-          "summary": "Cat lovers from across Europe gathered in Sofia, Bulgaria, for the international Cat Show Expo, where more than 150 cats competed in a prestigious feline competition judged by experts from several countries.",
-          "image_url": "https://images.euronews.com/articles/stories/09/75/43/82/696x392_cmsv2_3b3b407d-15b3-59e7-baf4-8657f8976720-9754382.jpg",
-          "article_url": "http://www.euronews.com/video/2026/05/11/international-feline-contest-europes-most-beautiful-cats-gather-in-sofia",
-          "published_at": "Mon, 11 May 2026 19:00:34 +0200",
-          "cross_sections": []
-        },
-        {
-          "id": "ZXVyb25ld3MtcGFzaGlueWFu",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "News",
-          "title": "Pashinyan says Karabakh 'was not ours' as Armenia and Azerbaijan look to future",
-          "summary": "In an extraordinary admission, Armenia’s PM Nikol Pashinyan declared that Karabakh was not Armenia’s territory and that the Armenian movement for it was “a fatal mistake,” as Yerevan forges its peace with Azerbaijan and its decisive pro-EU course.",
-          "image_url": "https://images.euronews.com/articles/stories/09/75/46/38/696x392_cmsv2_ee5450e5-ff84-5cfc-ae8d-8bd94a72b2e1-9754638.jpg",
-          "article_url": "http://www.euronews.com/2026/05/11/pashinyan-says-karabakh-was-not-ours-as-armenia-and-azerbaijan-look-to-future",
-          "published_at": "Mon, 11 May 2026 18:32:32 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtZnJvbS1tZXNz",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "News",
-          "title": "From Messi to Mbappé: Argentina’s World Cup sticker obsession returns",
-          "summary": "Thousands of football fans in Buenos Aires are gathering in parks and public squares to swap World Cup stickers ahead of the 2026 FIFA World Cup.",
-          "image_url": "https://images.euronews.com/articles/stories/09/75/36/28/696x392_cmsv2_49d864f3-fb92-5328-9f7b-0cec1c3b1f54-9753628.jpg",
-          "article_url": "http://www.euronews.com/video/2026/05/11/from-messi-to-mbappe-argentinas-world-cup-sticker-obsession-returns",
-          "published_at": "Mon, 11 May 2026 18:24:05 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtbGF0ZXN0LW5l",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "News",
-          "title": "Latest news bulletin | May 11th, 2026 – Evening",
-          "summary": "Catch up with the most important stories from around Europe and beyond this May 11th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-          "image_url": "https://images.euronews.com/articles/stories/09/75/46/58/696x392_cmsv2_9189b66a-31f4-5c85-80ea-95055692258c-9754658.jpg",
-          "article_url": "http://www.euronews.com/video/2026/05/11/latest-news-bulletin-may-11th-2026-evening",
-          "published_at": "Mon, 11 May 2026 18:00:29 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtbWFuLWNoYXJn",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "News",
-          "title": "Man charged with attempting to kill US President Donald Trump pleads not guilty",
-          "summary": "Besides the attempted-assassination count, Cole Tomas Allen is also charged with assaulting a federal officer with a deadly weapon and two additional firearms counts.",
-          "image_url": "https://images.euronews.com/articles/stories/09/75/45/32/696x392_cmsv2_aa9b3746-3d04-5bfc-aa3b-434818ad0bb7-9754532.jpg",
-          "article_url": "http://www.euronews.com/2026/05/11/man-charged-with-attempting-to-kill-us-president-donald-trump-pleads-not-guilty",
-          "published_at": "Mon, 11 May 2026 16:46:22 +0200",
-          "cross_sections": []
-        },
-        {
-          "id": "ZXVyb25ld3MtZXUtYXBwcm92",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "News",
-          "title": "EU approves sanctions on Israeli settlers after Hungarian backing",
-          "summary": "The sanctions — which include asset freezes and travel bans and will also target Hamas members — come amid growing international criticism of Israel’s settlement expansion and escalating violence in the occupied territories.",
-          "image_url": "https://images.euronews.com/articles/stories/09/75/44/41/696x392_cmsv2_6cb22f0e-73bd-5d16-8791-460687aaee7d-9754441.jpg",
-          "article_url": "http://www.euronews.com/my-europe/2026/05/11/eu-approves-sanctions-on-israeli-settlers-after-hungarian-backing",
-          "published_at": "Mon, 11 May 2026 16:42:12 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtJ2ktd2lsbC1t",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "News",
-          "title": "'I will make an order': Macron asks audience to leave if they want to chat during Nairobi summit",
-          "summary": "French President Emmanuel Macron interrupted a speaker at the Africa Forward summit in Nairobi to call for silence from a noisy audience, telling attendees to leave the room if they wanted to continue chatting during the speeches.",
-          "image_url": "https://images.euronews.com/articles/stories/09/75/43/99/696x392_cmsv2_f74bf5f1-243c-5d27-8c83-6efc92b45eae-9754399.jpg",
-          "article_url": "http://www.euronews.com/2026/05/11/i-will-make-an-order-macron-asks-audience-to-leave-if-they-want-to-chat-during-nairobi-sum",
-          "published_at": "Mon, 11 May 2026 16:08:37 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3Mtc3VkYW4tZHJv",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "News",
-          "title": "Sudan drone strikes killed at least 880 civilians between January and April, UN says",
-          "summary": "Most of the civilian deaths attributed to drone strikes in the first three months of the year were recorded in the Kordofan region and Darfur, although the strikes were also increasingly spreading beyond both regions.",
-          "image_url": "https://images.euronews.com/articles/stories/09/75/42/20/696x392_cmsv2_1a7fe330-b214-509a-93fd-8edcb1bbaf6e-9754220.jpg",
-          "article_url": "http://www.euronews.com/2026/05/11/sudan-drone-strikes-killed-at-least-880-civilians-between-january-and-april-un-says",
-          "published_at": "Mon, 11 May 2026 15:36:42 +0200",
-          "cross_sections": []
-        }
-      ]
-    },
-    {
       "id": "dw",
       "name": "DW News",
       "region": "Europe",
@@ -3586,6 +3453,36 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dG9pLWRlc3BpdGUtbWVkaWF0",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Despite mediating in US-Iran war, Pak let Iranian aircraft use airbases to avoid American strikes",
+          "summary": "Pakistan reportedly sheltered Iranian military aircraft at its airbases, raising questions about its neutrality as a mediator in the US-Iran conflict. US officials cited in a CBS News report claim Iran moved planes, including a reconnaissance jet, to Pakistan's Nur Khan Air Base. A Pakistani officia",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/world/pakistan/despite-mediating-in-us-iran-war-pakistan-let-iranian-aircraft-use-airbases-to-avoid-american-strikes-report/articleshow/131025844.cms",
+          "published_at": "Tue, 12 May 2026 04:46:18 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLW5vLXJlYXNvbi10by1w",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "No reason to panic, but follow PM's energy pointers: Govt",
+          "summary": "No rationing; steps taken to avert shortage",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/no-reason-to-panic-but-follow-pms-energy-pointers-govt/articleshow/131025777.cms",
+          "published_at": "Tue, 12 May 2026 04:01:05 +0530",
+          "cross_sections": []
+        },
+        {
           "id": "dG9pLXNob3ctdXMtYS1zaW5n",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3618,22 +3515,6 @@
           ]
         },
         {
-          "id": "dG9pLXRvLWV4cGVkaXRlLWJh",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "To expedite bail hearing, high courts can dispense with notice: Supreme Court",
-          "summary": "'Advance Copy Of Petition To Be Given To Govts'",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/to-expedite-bail-hearing-high-courts-can-dispense-with-notice-supreme-court/articleshow/131023934.cms",
-          "published_at": "Tue, 12 May 2026 03:24:27 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "dG9pLWNhbid0LWludGltaWRh",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3661,22 +3542,6 @@
           "image_url": null,
           "article_url": "https://timesofindia.indiatimes.com/world/middle-east/iran-says-ready-to-teach-a-lesson-if-attacked-after-trump-called-tehrans-latest-peace-proposal-piece-of-garbage/articleshow/131023488.cms",
           "published_at": "Tue, 12 May 2026 01:42:41 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLXJlc3RyaWN0aW9ucy1v",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Restrictions on loudspeakers: Bengal BJP govt’s puts curbs on religious assemblies",
-          "summary": "New West Bengal CM Suvendu Adhikari has instructed police to curb loudspeaker noise beyond religious sites and prevent road blockades by congregations. The directives also include zero tolerance for illegal mining, cattle smuggling, and crimes against women, with a focus on reopening post-poll viole",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/city/kolkata/loud-hailing-religion-roadblocks-on-new-govts-restriction-order/articleshow/131022018.cms",
-          "published_at": "Tue, 12 May 2026 01:26:00 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -3959,6 +3824,52 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dGhlaGluZHUtdHVzc2xlLW92",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Tussle over CM lays bare fault lines in Congress",
+          "summary": "Several senior Congress leaders and ordinary workers feel let down by the party’s insouciance. IUML, which spearheaded the UDF poll campaign successfully in many constituencies, has reason to be annoyed.  Congress’ central leadership should have anticipated the present scenario, more so with the AIC",
+          "image_url": "https://th-i.thgim.com/public/incoming/wcilx1/article70967465.ece/alternates/LANDSCAPE_1200/NH09Keralam02.JPEG",
+          "article_url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-polls-2026-crisis-over-cm-choice-betrays-congs-lack-of-vision/article70967005.ece",
+          "published_at": "Tue, 12 May 2026 04:42:42 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtZWNpLXNldC10",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "ECI set to roll out phase III of SIR in ‘coming days’ to cover 22 States, UTs",
+          "summary": "The poll authority had held back the exercise due to Assembly elections in Kerala, Assam, Puducherry, Tamil Nadu and West Bengal held last month",
+          "image_url": "https://th-i.thgim.com/public/incoming/73eeym/article70967245.ece/alternates/LANDSCAPE_1200/26_BM_Voter-mapGK6FP503Q.3.jpg.jpg",
+          "article_url": "https://www.thehindu.com/news/national/eci-set-to-roll-out-phase-iii-of-sir-in-coming-days-to-cover-22-states-uts/article70967203.ece",
+          "published_at": "Tue, 12 May 2026 04:26:59 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtaXJhbi1pc3Jh",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Iran-Israel war highlights: U.S.-Iran ceasefire on ‘life support’, says Trump",
+          "summary": "Iranian parliamentary speaker Mohammad Bagher Ghalibaf said that the armed forces are ready “to respond and to teach a lesson for any aggression”",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-11-2026/article70964212.ece",
+          "published_at": "Tue, 12 May 2026 04:19:34 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dGhlaGluZHUtc3BsaXQtd2lk",
           "source_id": "thehindu",
           "source_name": "The Hindu",
@@ -4030,50 +3941,6 @@
           "image_url": "https://th-i.thgim.com/public/incoming/hhp9ed/article70967296.ece/alternates/LANDSCAPE_1200/2026-04-13T105654Z_1737277057_RC29OKA8DX1D_RTRMADP_3_IRAN-CRISIS-ISRAEL-LEBANON.JPG",
           "article_url": "https://www.thehindu.com/news/international/israeli-forces-operated-from-base-in-iraq-during-the-iran-war-report/article70967293.ece",
           "published_at": "Tue, 12 May 2026 02:49:51 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtdGhlLWVuZHVy",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "The enduring democratic message of a royal charter",
-          "summary": "King Charles III has done well to reiterate that the Magna Carta’s ‘law above rulers’ theme must resonate across the democratic world",
-          "image_url": "https://th-i.thgim.com/public/incoming/ngnk27/article70966649.ece/alternates/LANDSCAPE_1200/AFP_A99Z72G.jpg",
-          "article_url": "https://www.thehindu.com/opinion/lead/the-enduring-democratic-message-of-a-royal-charter/article70966653.ece",
-          "published_at": "Tue, 12 May 2026 02:40:49 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtYS1uZXctcGhh",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "A new phase in the India-Vietnam strategic partnership",
-          "summary": "Indo-Pacific dynamics are reshaping the India-Vietnam bilateral relationship",
-          "image_url": "https://th-i.thgim.com/public/incoming/jej0k0/article70966781.ece/alternates/LANDSCAPE_1200/20260506047L.jpg",
-          "article_url": "https://www.thehindu.com/opinion/op-ed/a-new-phase-in-the-india-vietnam-strategic-partnership/article70966755.ece",
-          "published_at": "Tue, 12 May 2026 02:37:21 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtYS1uZXctc3Rh",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "A new start against noise pollution",
-          "summary": "The World Health Organization has attributed 16% of disabling hearing loss in adults to occupational noise",
-          "image_url": "https://th-i.thgim.com/public/news/national/lyftn1/article68230266.ece/alternates/LANDSCAPE_1200/iStock-1458218276.jpg",
-          "article_url": "https://www.thehindu.com/opinion/op-ed/a-new-start-against-noise-pollution/article70967128.ece",
-          "published_at": "Tue, 12 May 2026 02:32:51 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4215,6 +4082,38 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "amFwYW50aW1lcy10cnVtcC1z",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Trump says Iran ceasefire is 'on life support' as hopes for a deal fade",
+          "summary": "Disruptions in the Strait of Hormuz have forced oil ​producers to cut exports, and OPEC output dropped to the lowest in more than two decades.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/12/539782.JPG",
+          "article_url": "https://www.japantimes.co.jp/news/2026/05/12/world/politics/trump-iran-ceasefire-life-support/",
+          "published_at": "Tue, 12 May 2026 07:10:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy1oYW50YXZp",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Hantavirus-hit ship sets sail for Netherlands as final passengers evacuated in Tenerife",
+          "summary": "Three people — a Dutch couple and a German national — have died since the start of the outbreak on the ship of the virus.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/12/539784.JPG",
+          "article_url": "https://www.japantimes.co.jp/news/2026/05/12/world/hantavirus-netherlands-passengers-tenerife/",
+          "published_at": "Tue, 12 May 2026 07:08:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "amFwYW50aW1lcy10aHJlZS1t",
           "source_id": "japantimes",
           "source_name": "The Japan Times",
@@ -4303,38 +4202,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "amFwYW50aW1lcy1teWFubWFy",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Myanmar complains over pariah treatment in ASEAN bloc",
-          "summary": "The 11-country Association of Southeast Asian Nations has shunned Myanmar from summits since its military launched a coup in 2021.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/11/539734.jpg",
-          "article_url": "https://www.japantimes.co.jp/news/2026/05/11/asia-pacific/politics/myanmar-pariah-asean-bloc/",
-          "published_at": "Mon, 11 May 2026 16:17:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy1hZnJpY2Hi",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Africa’s CEOs warn online gambling is draining customer wallets",
-          "summary": "Africa's growing gambling use is sapping income that would ordinarily be flowing into groceries, entertainment and mobile phone bills.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/11/539741.jpg",
-          "article_url": "https://www.japantimes.co.jp/business/2026/05/11/tech/africa-ceos-online-gambling/",
-          "published_at": "Mon, 11 May 2026 16:11:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -4350,7 +4217,7 @@
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
-          "feed_label": "World",
+          "feed_label": "Top Stories",
           "title": "UAE Has Been Secretly Carrying Out Attacks On Iran: Report",
           "summary": "The United Arab Emirates has carried out military strikes on Iran, the Wall Street Journal reported on Monday, citing people familiar with the matter.",
           "image_url": "https://c.ndtvimg.com/2026-03/4tbgr4gk_tehran-attack_625x300_21_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
@@ -4470,7 +4337,7 @@
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Global Energy Shock From Iran War May Extend Till 2027: Saudi Aramco Chief",
           "summary": "A day earlier, Aramco had announced a net profit rise of more than 25 per cent in the first quarter of 2026 compared to the same period last year, fuelled by higher oil prices as exports remain blocked in the Strait of Hormuz.",
           "image_url": "https://i.ndtvimg.com/i/2017-10/saudi-aramco_650x400_81507607971.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
@@ -4999,7 +4866,7 @@
         {
           "id": "nyt",
           "name": "The New York Times",
-          "count": 22
+          "count": 23
         },
         {
           "id": "cnn",
@@ -5026,17 +4893,12 @@
         {
           "id": "bbc",
           "name": "BBC News",
-          "count": 23
+          "count": 22
         },
         {
           "id": "guardian",
           "name": "The Guardian",
           "count": 24
-        },
-        {
-          "id": "euronews",
-          "name": "Euronews",
-          "count": 8
         },
         {
           "id": "dw",
@@ -5101,6 +4963,153 @@
       "name": "IT & Tech",
       "icon": "💻",
       "articles": [
+        {
+          "id": "Y25iY3RlY2gtb3BlbmFpLXRy",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "OpenAI trial: Nadella says Musk never raised concerns to him about Microsoft investment",
+          "summary": "Elon Musk named Microsoft as a defendant in his lawsuit against OpenAI",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/11/microsoft-ceo-satya-nadella-musk-altman-trial.html",
+          "published_at": "Mon, 11 May 2026 23:30:35 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "Y25iYy1vcGVuYWktdHJpYWw6",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "OpenAI trial: Nadella says Musk never raised concerns to him about Microsoft investment",
+          "summary": "Elon Musk named Microsoft as a defendant in his lawsuit against OpenAI",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/11/microsoft-ceo-satya-nadella-musk-altman-trial.html",
+          "published_at": "Mon, 11 May 2026 23:30:35 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "dG9pLWRlc3BpdGUtbWVkaWF0",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Despite mediating in US-Iran war, Pak let Iranian aircraft use airbases to avoid American strikes",
+          "summary": "Pakistan reportedly sheltered Iranian military aircraft at its airbases, raising questions about its neutrality as a mediator in the US-Iran conflict. US officials cited in a CBS News report claim Iran moved planes, including a reconnaissance jet, to Pakistan's Nur Khan Air Base. A Pakistani officia",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/world/pakistan/despite-mediating-in-us-iran-war-pakistan-let-iranian-aircraft-use-airbases-to-avoid-american-strikes-report/articleshow/131025844.cms",
+          "published_at": "Tue, 12 May 2026 04:46:18 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdHVzc2xlLW92",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Tussle over CM lays bare fault lines in Congress",
+          "summary": "Several senior Congress leaders and ordinary workers feel let down by the party’s insouciance. IUML, which spearheaded the UDF poll campaign successfully in many constituencies, has reason to be annoyed.  Congress’ central leadership should have anticipated the present scenario, more so with the AIC",
+          "image_url": "https://th-i.thgim.com/public/incoming/wcilx1/article70967465.ece/alternates/LANDSCAPE_1200/NH09Keralam02.JPEG",
+          "article_url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-polls-2026-crisis-over-cm-choice-betrays-congs-lack-of-vision/article70967005.ece",
+          "published_at": "Tue, 12 May 2026 04:42:42 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhldmVyZ2Utb3BlbmFpLWp1",
+          "source_id": "theverge",
+          "source_name": "The Verge",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "OpenAI just released its answer to Claude Mythos",
+          "summary": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely v",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "article_url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+          "published_at": "2026-05-11T23:05:01.000Z",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "bnl0LWlyYW4td2FyLWxpdmUt",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "Iran War Live Updates: Long-Term Energy Crisis Looms as Trump Says Truce Is on ‘Life Support’",
+          "summary": "Iran defended its demands for a peace deal and President Trump called them “garbage.” Mr. Trump said he wanted to suspend the federal gasoline tax, which would require congressional approval.",
+          "image_url": "https://static01.nyt.com/images/2026/05/11/multimedia/11mideast-200-zcgk/11mideast-200-zcgk-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz",
+          "published_at": "Mon, 11 May 2026 23:04:30 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGVjaGNydW5jaC1nbS1qdXN0",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+          "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+          "published_at": "Mon, 11 May 2026 23:04:10 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LXN1cHJlbWUtY291cnQt",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Supreme Court Clears Path for Alabama to Use New Voting Map",
+          "summary": "A majority of the justices sided with Alabama in a move that could speed up efforts to put in place a congressional district map that would eliminate a majority-Black district.",
+          "image_url": "https://static01.nyt.com/images/2026/05/11/multimedia/11dc-scotus-alabama-mhkj/11dc-scotus-alabama-mhkj-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-alabama-map.html",
+          "published_at": "Mon, 11 May 2026 22:53:25 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtaXJhbi1pc3Jh",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Iran-Israel war highlights: U.S.-Iran ceasefire on ‘life support’, says Trump",
+          "summary": "Iranian parliamentary speaker Mohammad Bagher Ghalibaf said that the armed forces are ready “to respond and to teach a lesson for any aggression”",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-11-2026/article70964212.ece",
+          "published_at": "Tue, 12 May 2026 04:19:34 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "dGhlaGluZHUtc3BsaXQtd2lk",
           "source_id": "thehindu",
@@ -5216,6 +5225,38 @@
           ]
         },
         {
+          "id": "amFwYW50aW1lcy10cnVtcC1z",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Trump says Iran ceasefire is 'on life support' as hopes for a deal fade",
+          "summary": "Disruptions in the Strait of Hormuz have forced oil ​producers to cut exports, and OPEC output dropped to the lowest in more than two decades.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/12/539782.JPG",
+          "article_url": "https://www.japantimes.co.jp/news/2026/05/12/world/politics/trump-iran-ceasefire-life-support/",
+          "published_at": "Tue, 12 May 2026 07:10:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy1oYW50YXZp",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Hantavirus-hit ship sets sail for Netherlands as final passengers evacuated in Tenerife",
+          "summary": "Three people — a Dutch couple and a German national — have died since the start of the outbreak on the ship of the virus.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/12/539784.JPG",
+          "article_url": "https://www.japantimes.co.jp/news/2026/05/12/world/hantavirus-netherlands-passengers-tenerife/",
+          "published_at": "Tue, 12 May 2026 07:08:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "ZHctdWtyYWluaWFuLWNoaWxk",
           "source_id": "dw",
           "source_name": "DW News",
@@ -5227,56 +5268,6 @@
           "image_url": null,
           "article_url": "https://www.dw.com/en/ukrainian-children-held-in-russia-militarized-reeducated/a-77124356?maca=en-rss-en-world-4025-xml-mrss",
           "published_at": "Mon, 11 May 2026 22:07:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iY3RlY2gtb3BlbmFpLXRy",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "OpenAI trial: Nadella says Musk never raised concerns to him about Microsoft investment",
-          "summary": "Elon Musk named Microsoft as a defendant in his lawsuit against OpenAI",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/11/microsoft-ceo-satya-nadella-musk-altman-trial.html",
-          "published_at": "Mon, 11 May 2026 22:03:02 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "Y25iYy1vcGVuYWktdHJpYWw6",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "OpenAI trial: Nadella says Musk never raised concerns to him about Microsoft investment",
-          "summary": "Elon Musk named Microsoft as a defendant in his lawsuit against OpenAI",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/11/microsoft-ceo-satya-nadella-musk-altman-trial.html",
-          "published_at": "Mon, 11 May 2026 22:03:02 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "bnl0LWlyYW4td2FyLWxpdmUt",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Iran War Live Updates: Long-Term Energy Crisis Looms as Trump Says Truce Is on ‘Life Support’",
-          "summary": "Iran defended its demands for a peace deal and President Trump called them “garbage.” Mr. Trump said he wanted to suspend the federal gasoline tax, which would require congressional approval.",
-          "image_url": "https://static01.nyt.com/images/2026/05/11/multimedia/11mideast-200-zcgk/11mideast-200-zcgk-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz",
-          "published_at": "Mon, 11 May 2026 22:01:06 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5330,22 +5321,6 @@
           ]
         },
         {
-          "id": "dG9pLXRvLWV4cGVkaXRlLWJh",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "To expedite bail hearing, high courts can dispense with notice: Supreme Court",
-          "summary": "'Advance Copy Of Petition To Be Given To Govts'",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/to-expedite-bail-hearing-high-courts-can-dispense-with-notice-supreme-court/articleshow/131023934.cms",
-          "published_at": "Tue, 12 May 2026 03:24:27 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bnl0LXB1dGluLXNhaWQtdGhl",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -5357,22 +5332,6 @@
           "image_url": "https://static01.nyt.com/images/2026/05/11/multimedia/00int-russia-putin01-photo-mblj/00int-russia-putin01-photo-mblj-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/05/11/world/europe/putin-russia-ukraine-war.html",
           "published_at": "Mon, 11 May 2026 21:53:26 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LXNlbmF0ZS1nLm8ucC4t",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Senate G.O.P. Stands by Security Money for Trump’s Ballroom",
-          "summary": "Democrats are trying to stoke public opposition to the project as they take aim at legislation to provide nearly $72 billion for the administration’s immigration crackdown.",
-          "image_url": "https://static01.nyt.com/images/2026/05/11/multimedia/11dc-ballroom-czmh/11dc-ballroom-czmh-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/05/11/us/politics/trump-white-house-ballroom.html",
-          "published_at": "Mon, 11 May 2026 21:53:00 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5540,22 +5499,6 @@
           ]
         },
         {
-          "id": "dGhlaGluZHUtYS1uZXctc3Rh",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "A new start against noise pollution",
-          "summary": "The World Health Organization has attributed 16% of disabling hearing loss in adults to occupational noise",
-          "image_url": "https://th-i.thgim.com/public/news/national/lyftn1/article68230266.ece/alternates/LANDSCAPE_1200/iStock-1458218276.jpg",
-          "article_url": "https://www.thehindu.com/opinion/op-ed/a-new-start-against-noise-pollution/article70967128.ece",
-          "published_at": "Tue, 12 May 2026 02:32:51 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "YWxqYXplZXJhLXRydW1wLXNh",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
@@ -5666,88 +5609,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "Y25iY3RlY2gtb3BlbmFpLXJl",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "OpenAI revenue chief Dresser says enterprise AI adoption is 'at a tipping point'",
-          "summary": "The OpenAI Development Company is a partnership with 19 investment and consultancy firms and is majority-owned and controlled by the startup.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/11/open-ai-dresser-enterprise-business.html",
-          "published_at": "Mon, 11 May 2026 20:04:09 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "Y25iYy1vcGVuYWktcmV2ZW51",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "OpenAI revenue chief Dresser says enterprise AI adoption is 'at a tipping point'",
-          "summary": "The OpenAI Development Company is a partnership with 19 investment and consultancy firms and is majority-owned and controlled by the startup.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/11/open-ai-dresser-enterprise-business.html",
-          "published_at": "Mon, 11 May 2026 20:04:09 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "bnl0LXN1cHJlbWUtY291cnQt",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Supreme Court Continues Access to Abortion Pill by Mail, for a Few Days",
-          "summary": "Justice Samuel A. Alito Jr. has paused until at least Thursday a federal appeals court ruling against the Food and Drug Administration that would restrict access by mail to mifepristone.",
-          "image_url": "https://static01.nyt.com/images/2026/05/08/multimedia/00dc-scotus-abortion-photo-hgzq/00dc-scotus-abortion-photo-hgzq-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-abortion-pill-mifepristone.html",
-          "published_at": "Mon, 11 May 2026 20:03:14 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLXJlc3RyaWN0aW9ucy1v",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Restrictions on loudspeakers: Bengal BJP govt’s puts curbs on religious assemblies",
-          "summary": "New West Bengal CM Suvendu Adhikari has instructed police to curb loudspeaker noise beyond religious sites and prevent road blockades by congregations. The directives also include zero tolerance for illegal mining, cattle smuggling, and crimes against women, with a focus on reopening post-poll viole",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/city/kolkata/loud-hailing-religion-roadblocks-on-new-govts-restriction-order/articleshow/131022018.cms",
-          "published_at": "Tue, 12 May 2026 01:26:00 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iY3RlY2gtZm9ybWVyLXRl",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Former Tesla CFO Deepak Ahuja joins EV battery recycler Redwood Materials",
-          "summary": "Before joining Redwood Materials, Ahuja served as chief financial and business officer at the drone delivery startup Zipline for about three years.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/11/redwood-materials-deepak-ahuja-tesla-straubel.html",
-          "published_at": "Mon, 11 May 2026 19:42:56 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -5832,6 +5693,57 @@
       "icon": "🤖",
       "articles": [
         {
+          "id": "Y25iY3RlY2gtb3BlbmFpLXRy",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "OpenAI trial: Nadella says Musk never raised concerns to him about Microsoft investment",
+          "summary": "Elon Musk named Microsoft as a defendant in his lawsuit against OpenAI",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/11/microsoft-ceo-satya-nadella-musk-altman-trial.html",
+          "published_at": "Mon, 11 May 2026 23:30:35 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "Y25iYy1vcGVuYWktdHJpYWw6",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "OpenAI trial: Nadella says Musk never raised concerns to him about Microsoft investment",
+          "summary": "Elon Musk named Microsoft as a defendant in his lawsuit against OpenAI",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/11/microsoft-ceo-satya-nadella-musk-altman-trial.html",
+          "published_at": "Mon, 11 May 2026 23:30:35 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "dGhldmVyZ2Utb3BlbmFpLWp1",
+          "source_id": "theverge",
+          "source_name": "The Verge",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "OpenAI just released its answer to Claude Mythos",
+          "summary": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely v",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "article_url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+          "published_at": "2026-05-11T23:05:01.000Z",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "dGhldmVyZ2UtaGVyZSYjODIx",
           "source_id": "theverge",
           "source_name": "The Verge",
@@ -5860,40 +5772,6 @@
           "image_url": "https://static01.nyt.com/images/2026/05/11/multimedia/11biz-ai-trial-ledeall-1-02-khwc/11biz-ai-trial-ledeall-1-02-khwc-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/05/11/technology/satya-nadella-openai-sam-altman.html",
           "published_at": "Mon, 11 May 2026 22:15:00 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "Y25iY3RlY2gtb3BlbmFpLXRy",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "OpenAI trial: Nadella says Musk never raised concerns to him about Microsoft investment",
-          "summary": "Elon Musk named Microsoft as a defendant in his lawsuit against OpenAI",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/11/microsoft-ceo-satya-nadella-musk-altman-trial.html",
-          "published_at": "Mon, 11 May 2026 22:03:02 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "Y25iYy1vcGVuYWktdHJpYWw6",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "OpenAI trial: Nadella says Musk never raised concerns to him about Microsoft investment",
-          "summary": "Elon Musk named Microsoft as a defendant in his lawsuit against OpenAI",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/11/microsoft-ceo-satya-nadella-musk-altman-trial.html",
-          "published_at": "Mon, 11 May 2026 22:03:02 GMT",
           "cross_sections": [
             "tech",
             "ai"
@@ -6355,7 +6233,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 10425,
+    "build_ms": 11515,
     "ai_enabled": true
   }
 }
