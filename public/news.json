@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-15T21:40:00.322Z",
-  "total_articles": 294,
-  "new_this_run": 37,
+  "last_updated": "2026-05-15T22:35:34.991Z",
+  "total_articles": 302,
+  "new_this_run": 31,
   "sources": [
     {
       "id": "techcrunch",
@@ -16,8 +16,8 @@
           "source_region": "IT Focus",
           "source_category": "Tech Media",
           "feed_label": "Latest",
-          "title": "RJ Scaringe has raised more than $12 billion across three startups and investors still want more",
-          "summary": "Founder and CEO RJ Scaringe has a knack for raising money. So far, his three startups have raised more than $12.3 billion.",
+          "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
+          "summary": "Investors can't seem to get enough of RJ Scaringe or his ideas. Storytelling and communication are one of his superpowers, according to Jiten Behl, who joined Rivian when the company had just a handful of employees.",
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
           "published_at": "Fri, 15 May 2026 20:30:20 +0000",
@@ -33,7 +33,7 @@
           "source_category": "Tech Media",
           "feed_label": "Latest",
           "title": "General Catalyst posted VC rage bait and it worked, especially on a16z",
-          "summary": "Compulsive X user Andreessen himself couldn't resist responding, many, many times.",
+          "summary": "Compulsive X user Marc Andreessen himself couldn't resist responding, many, many times.",
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/",
           "published_at": "Fri, 15 May 2026 20:25:35 +0000",
@@ -143,6 +143,38 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "dGhldmVyZ2UteW91dHViZS1p",
+          "source_id": "theverge",
+          "source_name": "The Verge",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+          "summary": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves.\nThe likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube for lookalikes. If there ",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "article_url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+          "published_at": "2026-05-15T22:25:00.000Z",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhldmVyZ2Utd2luZG93cy0x",
+          "source_id": "theverge",
+          "source_name": "The Verge",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Windows 11 tests an adjustable taskbar and resizable Start menu",
+          "summary": "Microsoft's latest Windows 11 test will allow you to reposition the taskbar and change the size of the Start menu. The update, which is rolling out to Windows 11 Insiders in the Experimental channel, lets you place the taskbar on the bottom, top, left, or right side of the screen.\nMicrosoft first te",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/windows-11-taskbar-top.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "article_url": "https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button",
+          "published_at": "2026-05-15T21:14:45.000Z",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dGhldmVyZ2UtYXJ4aXYtd2ls",
           "source_id": "theverge",
           "source_name": "The Verge",
@@ -236,39 +268,6 @@
           "article_url": "https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes",
           "published_at": "2026-05-15T16:47:16.000Z",
           "cross_sections": []
-        },
-        {
-          "id": "dGhldmVyZ2UtZ29vZ2xlLXVw",
-          "source_id": "theverge",
-          "source_name": "The Verge",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
-          "summary": "Google updated its spam policy to mark attempts to \"manipulate\" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: \n\"In the context of Google Search, spam refers to techniques used to deceive users or manipulate our Search sy",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK093_GOOGLE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "article_url": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
-          "published_at": "2026-05-15T16:42:59.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhldmVyZ2Utb3BlbmFpLW5v",
-          "source_id": "theverge",
-          "source_name": "The Verge",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "OpenAI now wants ChatGPT to access your bank accounts",
-          "summary": "ChatGPT will even know how much credit card debt you have. | Image: OpenAI\t\n\nYour trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to \"securely connect\" ChatGPT with ",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ChatGPT-financial-accounts.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "article_url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
-          "published_at": "2026-05-15T16:00:00.000Z",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
         }
       ]
     },
@@ -408,6 +407,65 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "YXJzdGVjaG5pY2EtcnVzc2lh",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Russia pressures university students to become wartime drone pilots",
+          "summary": "Universities promise no frontline duty and perks if students enlist in military.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Russian-drone-operator-1024x648.jpg",
+          "article_url": "https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/",
+          "published_at": "Fri, 15 May 2026 22:19:12 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YXJzdGVjaG5pY2EtYW50aHJv",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
+          "summary": "Lawyers accused of rushing historic settlement to seize $320 million in fees.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1675604392-1152x648-1778878573.jpg",
+          "article_url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
+          "published_at": "Fri, 15 May 2026 21:51:24 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "YXJzdGVjaG5pY2EtdXMtaGFu",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "US hantavirus case was false positive; outbreak cases drop from 11 to 10",
+          "summary": "WHO announced today that the operation to safely transfer passengers is complete.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2275667937-1152x648.jpg",
+          "article_url": "https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/",
+          "published_at": "Fri, 15 May 2026 21:31:53 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YXJzdGVjaG5pY2EtcmV2aWV3",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Review: Good Omens finale sticks the landing",
+          "summary": "Truncated third season feels rushed, but also gives us a fitting end to a love story for the ages.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/goodomens4-1152x648.jpg",
+          "article_url": "https://arstechnica.com/culture/2026/05/review-chaotically-uneven-good-omens-finale-still-conjures-up-old-magic/",
+          "published_at": "Fri, 15 May 2026 21:17:19 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "YXJzdGVjaG5pY2Etc29sYXIt",
           "source_id": "arstechnica",
           "source_name": "Ars Technica",
@@ -468,67 +526,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YXJzdGVjaG5pY2Etc2VuZC10",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Send the arXiv AI-generated slop, get a yearlong vacation from submissions",
-          "summary": "One of the site's moderators described the new policy on social media.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
-          "article_url": "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
-          "published_at": "Fri, 15 May 2026 18:25:53 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJzdGVjaG5pY2Etb3BlbmFp",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say",
-          "summary": "Judge orders Apple to give Musk internal messages discussing secretive ChatGPT deal.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2156972504-1024x648.jpg",
-          "article_url": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/",
-          "published_at": "Fri, 15 May 2026 18:13:33 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "YXJzdGVjaG5pY2Etdm9sa3N3",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Volkswagen shows its first electric GTI; there's no chance of US sales",
-          "summary": "The ID. Polo GTI takes plenty of inspiration from the original Golf GTI of 1976.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/DB2026AU00468_large-1152x648.jpg",
-          "article_url": "https://arstechnica.com/cars/2026/05/how-the-other-half-lives-vw-shows-off-electric-polo-gti-for-europe/",
-          "published_at": "Fri, 15 May 2026 17:55:55 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtbWFraW5n",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Making cement from a different type of rock could clean up emissions",
-          "summary": "Limestone might not be the only source for Portland cement.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/brimstone_basalt_cement-1152x648.jpg",
-          "article_url": "https://arstechnica.com/science/2026/05/running-the-numbers-on-a-zero-emission-way-to-make-cement/",
-          "published_at": "Fri, 15 May 2026 17:06:59 +0000",
-          "cross_sections": []
         }
       ]
     },
@@ -1273,17 +1270,31 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "bnl0LXNub3JrZWxpbmctYXQt",
+          "id": "bnl0LWlyYW4tYmFja2VkLWNv",
           "source_id": "nyt",
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Snorkeling at Pearl Harbor: Kash Patel’s Travels Add to Focus on Ethical Issues",
-          "summary": "The F.B.I. director continues to come under scrutiny for mixing government business with dates, vacation and leisure time.",
-          "image_url": "https://static01.nyt.com/images/2026/05/13/us/dc-kash-1/dc-kash-1-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/05/15/us/politics/patel-fbi-travel-snorkeling-pearl-harbor.html",
-          "published_at": "Fri, 15 May 2026 21:21:27 +0000",
+          "title": "Iran-Backed Commander Accused of Plotting U.S. Attacks",
+          "summary": "Also, the Eurovision finale. Here’s the latest at the end of Friday.",
+          "image_url": null,
+          "article_url": "https://www.nytimes.com/2026/05/15/briefing/kataib-hezbollah-castro-eurovision.html",
+          "published_at": "Fri, 15 May 2026 22:11:00 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LXBob3RvczotY3ViYS1w",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Photos: Cuba Plunges Into Darkness as U.S. Cuts Off Oil Supply",
+          "summary": "The United States has choked off Cuba’s fuel supply, plunging the already impoverished island into an acute energy crisis.",
+          "image_url": "https://static01.nyt.com/images/2026/05/15/multimedia/15int-cuba-blackout-stack01-photo-zqcm/15int-cuba-blackout-stack01-photo-zqcm-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/05/15/world/americas/cuba-energy-crisis-photos.html",
+          "published_at": "Fri, 15 May 2026 21:39:03 +0000",
           "cross_sections": []
         },
         {
@@ -1315,20 +1326,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "bnl0LXBob3RvczotY3ViYS1w",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Photos: Cuba Plunges Into Darkness as U.S. Cuts Off Oil Supply",
-          "summary": "The United States has choked off Cuba’s fuel supply, plunging the already impoverished island into an acute energy crisis.",
-          "image_url": "https://static01.nyt.com/images/2026/05/15/multimedia/15int-cuba-blackout-stack01-photo-zqcm/15int-cuba-blackout-stack01-photo-zqcm-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/05/15/world/americas/cuba-energy-crisis-photos.html",
-          "published_at": "Fri, 15 May 2026 20:45:18 +0000",
-          "cross_sections": []
         },
         {
           "id": "bnl0LXRydW1w4oCZcy3igJhs",
@@ -1614,7 +1611,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-05-15T21:39:51.260Z",
+          "published_at": "2026-05-15T22:35:26.026Z",
           "cross_sections": []
         },
         {
@@ -1628,7 +1625,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-05-15T21:39:51.260Z",
+          "published_at": "2026-05-15T22:35:26.026Z",
           "cross_sections": []
         },
         {
@@ -1642,7 +1639,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-05-15T21:39:51.260Z",
+          "published_at": "2026-05-15T22:35:26.026Z",
           "cross_sections": []
         },
         {
@@ -2436,6 +2433,20 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YmJjLXRydW1wLWFuZC14aS1j",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
+          "summary": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0ee/live/9a4e0250-5077-11f1-8b8c-6d33e1d5abb6.jpg",
+          "article_url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 15 May 2026 21:50:14 GMT",
+          "cross_sections": []
+        },
+        {
           "id": "YmJjLWJ1cm5oYW0tY2xlYXJl",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2450,20 +2461,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YmJjLXRydW1wLWFuZC14aS1j",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Trump and Xi conclude 'very successful' talks but no deals confirmed",
-          "summary": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0ee/live/9a4e0250-5077-11f1-8b8c-6d33e1d5abb6.jpg",
-          "article_url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 15 May 2026 21:36:20 GMT",
-          "cross_sections": []
         },
         {
           "id": "YmJjLXRydW1wLXdhcm5zLXRh",
@@ -3242,6 +3239,126 @@
           "article_url": "http://www.euronews.com/2026/05/15/womens-rights-and-demographics-take-centre-stage-at-regional-forum-in-bukhara",
           "published_at": "Fri, 15 May 2026 14:58:28 +0200",
           "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3Mtc3RvY2stdHJh",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Stock trade disclosure reveals Trump made massive gains on Big Tech bets",
+          "summary": "A newly released ethics filing has revealed that US President Donald Trump made over 3,600 stock trades during the first quarter of 2026 with a value of between $220 million (€188mn) and $750 million (€641mn).",
+          "image_url": "https://images.euronews.com/articles/stories/09/75/94/99/696x392_cmsv2_1cbc9464-8813-577b-b202-fd63f20fca16-9759499.jpg",
+          "article_url": "http://www.euronews.com/business/2026/05/15/trump-discloses-stock-trades-revealing-massive-gains-in-2026-with-bets-on-big-tech",
+          "published_at": "Fri, 15 May 2026 13:13:39 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtbWFyYy1qYWNv",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Marc Jacobs parts ways with LVMH after nearly 30 years",
+          "summary": "The American designer, 63, will stay on as creative director as his label changes hands for the first time in three decades, with LVMH pressing ahead with a broader portfolio clear-out.",
+          "image_url": "https://images.euronews.com/articles/stories/09/75/93/73/696x392_cmsv2_1b1b9d90-dcde-58a6-9310-0d3bab9950a8-9759373.jpg",
+          "article_url": "http://www.euronews.com/business/2026/05/15/marc-jacobs-parts-ways-with-lvmh-after-nearly-30-years",
+          "published_at": "Fri, 15 May 2026 11:41:22 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtZ3JlZWNlJ3Mt",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Greece's budget surplus of €5bn blows past forecasts in first quarter of 2026",
+          "summary": "Greece's primary budget surplus reached €5.175bn in the first three months of 2026 — more than double the €2.298bn target — though the ministry said one-off transfers and early fund receipts inflated the headline figure.",
+          "image_url": "https://images.euronews.com/articles/stories/09/75/94/98/696x392_cmsv2_6dc74a06-96ef-58c7-a6c1-e776416e47aa-9759498.jpg",
+          "article_url": "http://www.euronews.com/business/2026/05/15/greeces-budget-surplus-of-5bn-blows-past-forecasts-in-first-quarter-of-2026",
+          "published_at": "Fri, 15 May 2026 11:19:53 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtY3Jpc3RpYW5v",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Cristiano Ronaldo adds free sports streamer to his business empire ahead of the World Cup",
+          "summary": "The channel will be responsible for showing 34 matches from the 2026 World Cup, live and at no cost to viewers, including all the matches of the Portuguese national football team.",
+          "image_url": "https://images.euronews.com/articles/stories/09/67/29/03/696x392_cmsv2_5b267cab-a915-50c0-8792-858d03badc4c-9672903.jpg",
+          "article_url": "http://www.euronews.com/business/2026/05/15/cristiano-ronaldo-adds-free-sports-streamer-to-his-business-empire-ahead-of-the-world-cup",
+          "published_at": "Fri, 15 May 2026 10:26:37 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtYnlkLWluLXRh",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "BYD in talks to buy idle European car plants as it eyes Maserati",
+          "summary": "BYD is in talks with Stellantis and other carmakers about buying underused European plants, according to the Chinese carmaker's vice-president.",
+          "image_url": "https://images.euronews.com/articles/stories/09/75/88/69/696x392_cmsv2_f35642a5-e72f-56af-a6d2-8e76deef4f56-9758869.jpg",
+          "article_url": "http://www.euronews.com/business/2026/05/15/byd-in-talks-to-buy-idle-european-car-plants-as-it-eyes-maserati",
+          "published_at": "Fri, 15 May 2026 09:12:05 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtZXJkb8SfYW4t",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Erdoğan visits Astana as Turkey and Central Asia deepen ties amid shifting regional order",
+          "summary": "Turkey and Kazakhstan signed a friendship and strategic partnership declaration in Astana, targeting €13 billion in trade.",
+          "image_url": "https://images.euronews.com/articles/stories/09/75/88/16/696x392_cmsv2_c3ff86e4-ece2-526c-a80c-0b2e859ddf27-9758816.jpg",
+          "article_url": "http://www.euronews.com/2026/05/14/erdogan-visits-astana-as-turkey-and-central-asia-deepen-ties-amid-shifting-regional-order",
+          "published_at": "Thu, 14 May 2026 22:21:58 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3Mtd29ybGQtbWFy",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "World markets rise on Trump-Xi summit hopes",
+          "summary": "Trump and Xi met at the Great Hall of the People in Beijing, where both sides agreed the Strait of Hormuz must remain open, a key demand as the Iran war drags into its third month.",
+          "image_url": "https://images.euronews.com/articles/stories/09/75/84/50/696x392_cmsv2_cc674c97-f705-54fe-8889-c5dfb1978d53-9758450.jpg",
+          "article_url": "http://www.euronews.com/business/2026/05/14/world-markets-rise-on-trump-xi-summit-hopes",
+          "published_at": "Thu, 14 May 2026 14:05:03 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MteGktamlucGlu",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Xi Jinping vows to 'open door wider' to US firms during Trump visit",
+          "summary": "Chinese President Xi Jinping used US President Donald Trump's visit to Beijing to reassure American business leaders that China remains committed to further opening its economy to foreign investment.",
+          "image_url": "https://images.euronews.com/articles/stories/09/75/81/09/696x392_cmsv2_b3195999-0561-5617-a5d0-dca9195870d6-9758109.jpg",
+          "article_url": "http://www.euronews.com/business/2026/05/14/xi-jinping-vows-to-open-door-wider-to-us-firms-during-trump-visit",
+          "published_at": "Thu, 14 May 2026 11:42:24 +0200",
+          "cross_sections": [
+            "tech"
+          ]
         }
       ]
     },
@@ -3426,6 +3543,62 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dG9pLWNqaS1vbi1wYW5lbC10",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "CJI on panel to pick CEC not statutory need: Govt",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/cji-on-panel-to-pick-cec-not-statutory-need-govt/articleshow/131129732.cms",
+          "published_at": "Sat, 16 May 2026 03:50:11 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dG9pLWpvYmxlc3MteW91bmdz",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Jobless youngsters like cockroaches, attacking everyone, says SC on plea",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/jobless-cockroaches-attack-the-system-cji-surya-kant/articleshow/131127870.cms",
+          "published_at": "Sat, 16 May 2026 03:30:46 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dG9pLXBldHJvbCwtZGllc2Vs",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Petrol, diesel prices up by Rs 3, CNG by Rs 2, further hike likely; no change in piped gas yet",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/business/india-business/petrol-diesel-prices-up-by-rs-3-cng-by-rs-2-further-hike-likely-no-change-in-piped-gas-yet/articleshow/131127824.cms",
+          "published_at": "Sat, 16 May 2026 03:05:59 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dG9pLWVuZXJneSwtZGVmZW5j",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Energy, defence ties get a boost as Modi meets UAE president",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/energy-defence-ties-get-a-boost-as-modi-meets-uae-president/articleshow/131127619.cms",
+          "published_at": "Sat, 16 May 2026 02:58:41 +0530",
+          "cross_sections": []
+        },
+        {
           "id": "dG9pLWFmdGVyLXRydW1w4oCZ",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3440,22 +3613,6 @@
           "cross_sections": []
         },
         {
-          "id": "dG9pLSd0aG9zZS13aG8td2Fu",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "'Those who want to leave can go': Mamata amid internal dissent after Bengal poll debacle",
-          "summary": "Following a significant electoral defeat, West Bengal Chief Minister Mamata Banerjee has told unhappy party leaders they are free to leave, vowing to rebuild the Trinamool Congress. She urged loyalists to restore damaged party offices and reconnect with grassroots workers, asserting the party will n",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/those-who-want-to-leave-can-go-mamata-banerjee-amid-internal-dissent-after-bengal-poll-debacle/articleshow/131125862.cms",
-          "published_at": "Fri, 15 May 2026 23:57:16 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "dG9pLW1hcnNoLWxpZ2h0cy11",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3467,36 +3624,6 @@
           "image_url": null,
           "article_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/mitchell-marsh-lights-up-lucknow-dents-csks-ipl-playoff-push-in-lsgs-seven-wicket-victory/articleshow/131123056.cms",
           "published_at": "Fri, 15 May 2026 23:40:21 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dG9pLXBtLW1vZGkncy11YWUt",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "PM Modi's UAE visit: How India will benefit from pact on strategic petro reserves, LPG",
-          "summary": "Experts have hailed the MOUs, calling them game-changing for India’s energy security in the long-term. The importance of having strategic petroleum reserves has been brought to light with stark clarity due to the US-Iran war.",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/business/india-business/pm-modis-uae-visit-how-india-energy-security-will-benefit-from-agreements-on-strategic-petroleum-reserves-lpg-explained/articleshow/131122104.cms",
-          "published_at": "Fri, 15 May 2026 21:39:32 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLSduby1vcmRlci13aXRo",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "'No order without hearing us': Hindu party files caveat in SC after HC Bhojshala verdict",
-          "summary": "Following the Madhya Pradesh High Court's ruling that the Bhojshala-Kamal Maula complex is a temple of Goddess Saraswati, caveat pleas were filed in the Supreme Court. These precautionary legal notices were lodged by Hindu litigants anticipating a challenge to the verdict from the Muslim side.",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/no-order-without-hearing-us-hindu-party-files-caveat-in-sc-after-hc-bhojshala-verdict/articleshow/131121939.cms",
-          "published_at": "Fri, 15 May 2026 21:16:56 +0530",
           "cross_sections": []
         },
         {
@@ -3516,34 +3643,18 @@
           ]
         },
         {
-          "id": "dG9pLXNob3J0LXRyaXAsLWJp",
+          "id": "dG9pLWJvcm4taW4tdGhlLXVz",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Short trip, big results: 7 crucial deals inked by PM Modi in UAE",
-          "summary": "India and the UAE solidified their friendship with seven key agreements during PM Modi's visit. These pacts focus on energy security, including strategic petroleum reserves and LPG supply, alongside a significant defense partnership.  Further collaborations will boost India's maritime sector and est",
+          "title": "Born in the USA? MAGA hawks go after desi doc's 'delivery' service",
+          "summary": "A US congressional inquiry has launched a spotlight on maternity businesses, including a clinic operated by an Indian-origin physician, amid accusations of promoting 'birth tourism.' Legislators assert that the practice takes advantage of immigration laws, enabling international families to secure c",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/business/india-business/short-trip-big-results-7-crucial-deals-inked-by-pm-modi-in-uae/articleshow/131116535.cms",
-          "published_at": "Fri, 15 May 2026 17:31:16 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/world/us/red-white-and-due-desi-doc-under-lens-for-birthright-babies-maga-delivery-service/articleshow/131113186.cms",
+          "published_at": "Fri, 15 May 2026 15:05:25 +0530",
           "cross_sections": []
-        },
-        {
-          "id": "dG9pLW1ldGEncy1oaWdoZXN0",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Meta's highest-paid employee is not happy with 'just money motivated' tag for his team",
-          "summary": "Meta SuperIntelligence Lab chief Alexandr Wang is pushing back on the idea that his team joined for the money. On the Core Memory podcast, Wang said the real draw was compute access, talent density, and research freedom—not the $100 million packages Meta reportedly offered. He also addressed the vir",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/technology/tech-news/metas-highest-paid-employee-alexandr-wang-is-not-happy-with-just-money-motivated-tag-for-his-team-says-people-joined-because-there-was-high/articleshow/131085258.cms",
-          "published_at": "Thu, 14 May 2026 12:19:40 +0530",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "dG9pLXRlZW4taW5ub3ZhdG9y",
@@ -3790,6 +3901,50 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dGhlaGluZHUtZWxnYXItY2Fz",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Elgar case: NIA seeks cancellation of bail of activists Sudha Bharadwaj and Varavara Rao",
+          "summary": "The NIA said that Bharadwaj and Rao attended a meeting on the Mumbai Press Club terrace on January 19, where other co-accused in the Elgaar Parishad case were also present",
+          "image_url": "https://th-i.thgim.com/public/incoming/3r59mx/article70983600.ece/alternates/LANDSCAPE_1200/11908_15_10_2023_15_13_44_5_EMM_0589.JPG",
+          "article_url": "https://www.thehindu.com/news/national/maharashtra/elgar-case-nia-seeks-cancellation-of-activists-sudha-bharadwaj-and-varavara-raos-bail/article70983507.ece",
+          "published_at": "Sat, 16 May 2026 03:10:00 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtbWFoYXJhc2h0",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Maharashtra government forwards proposal for Padma Vibhushan to Khashaba Jadhav",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/pg2z10/article70984906.ece/alternates/LANDSCAPE_1200/IMG_TH20JADHAV_2_1_V28PJIDM.jpg",
+          "article_url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-government-forwards-proposal-for-padma-vibhushan-to-khashaba-jadhav/article70984250.ece",
+          "published_at": "Sat, 16 May 2026 02:59:17 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtZm91ci15ZWFy",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Four-year-old boy rescued after falling into borewell in Punjab’s Hoshiarpur",
+          "summary": "According to officials, the borewell had recently been made operational, and the work to fill gravel and soil around it was still pending",
+          "image_url": "https://th-i.thgim.com/public/incoming/cs6wni/article70984904.ece/alternates/LANDSCAPE_1200/20260515441L.jpg",
+          "article_url": "https://www.thehindu.com/news/national/punjab/four-year-old-boy-rescued-after-falling-into-borewell-in-punjabs-hoshiarpur/article70984903.ece",
+          "published_at": "Sat, 16 May 2026 02:44:30 +0530",
+          "cross_sections": []
+        },
+        {
           "id": "dGhlaGluZHUtaW5jcmVhc2Ut",
           "source_id": "thehindu",
           "source_name": "The Hindu",
@@ -3857,52 +4012,6 @@
           "image_url": "https://th-i.thgim.com/public/incoming/c4st8n/article70984894.ece/alternates/LANDSCAPE_1200/11_UNNAO_RAPE_CASE_HEARING_SUPREME_COURT_29_12_DELHI.jpg",
           "article_url": "https://www.thehindu.com/news/national/supreme-court-closes-plea-of-goa-congress-leader-after-his-death-from-snakebite/article70984415.ece",
           "published_at": "Sat, 16 May 2026 02:04:57 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtY2Vuc3VzLTIw",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Census 2027: Door-to-door exercise ends in New Delhi; over 63,000 households covered",
-          "summary": "Mapping of houses will begin on May 16, followed by a door-to-door exercise across more than 45,000 blocks",
-          "image_url": "https://th-i.thgim.com/public/incoming/umsn3q/article70984891.ece/alternates/LANDSCAPE_1200/CENSUS%20DIGITAL%20MAPPING%20DELHI%202026_27_04_15.jpg",
-          "article_url": "https://www.thehindu.com/news/cities/Delhi/census-2027-door-to-door-exercise-ends-in-new-delhi-over-63000-households-covered/article70984553.ece",
-          "published_at": "Sat, 16 May 2026 01:50:40 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtZG1yYy1yb2xs",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "DMRC rolls out hydrogen buses in Central Vista",
-          "summary": "The initiative seeks to promote green hydrogen as a clean fuel alternative and strengthen environmentally friendly public transport in the national capital",
-          "image_url": "https://th-i.thgim.com/public/incoming/nqllwi/article70982955.ece/alternates/LANDSCAPE_1200/BUS%20FLAGOFF_15_05_11.jpg",
-          "article_url": "https://www.thehindu.com/news/cities/Delhi/dmrc-rolls-out-hydrogen-buses-in-central-vista/article70982911.ece",
-          "published_at": "Sat, 16 May 2026 01:37:41 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtam95cmlkZS1o",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Joyride horse dies of highly contagious zoonotic disease disease in Chennai; Tamil Nadu goes into alert mode",
-          "summary": "ICAR centre advises State to immediately isolate and monitor all equines housed with the infected horse, recommends testing in adjoining areas; govt. to regulate inter-State movement of horses",
-          "image_url": "https://th-i.thgim.com/public/news/national/8jqptm/article70983978.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-15%20at%208.01.50%20PM.jpeg",
-          "article_url": "https://www.thehindu.com/sci-tech/health/joyride-horse-dies-of-highly-contagious-zoonotic-disease-disease-in-chennai-tamil-nadu-goes-into-alert-mode/article70983531.ece",
-          "published_at": "Sat, 16 May 2026 01:33:15 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4466,132 +4575,127 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "YXJhYm5ld3MtbWFsYXlzaWEt",
+          "id": "YXJhYm5ld3MtZWwtc2lzaS1z",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Malaysia appoints new anti-graft chief",
-          "summary": "KUALA LUMPUR: Malaysia appointed on Saturday a former high court judge as the country’s new anti-graft czar to replace its outgoing chief who was dogged by allegations of abuse of power and illegal shareholding.\n\tThe appointment of Abdul Halim Aman comes as Prime Minister Anwar Ibrahim’s government ",
+          "title": "El-Sisi says Egypt in ‘state of near-emergency’ as war threatens economy",
+          "summary": "CAIRO: Egyptian President Abdel Fattah El-Sisi said Thursday his country was in an economic “state of near-emergency” as a result of the Middle East war, warning of runaway inflation.\n\tThe Arab world’s most populous nation has not been physically impacted by the US and Israeli war with Iran, which h",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641214/world",
-          "published_at": "Sat, 25 Apr 2026 09:04:41 +03",
+          "article_url": "https://www.arabnews.com/node/2635410/middle-east",
+          "published_at": "Thu, 05 Mar 2026 11:03:29 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtY2hpbmVzZS1w",
+          "id": "YXJhYm5ld3MtaG93LWlzcmFl",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Chinese panda pair headed to US zoo",
-          "summary": "BEIJING: Two giant pandas from China are headed to Atlanta on a new 10-year conservation deal.\n\tPandas Ping Ping, a male, and Fu Shuang, a female, will live at Zoo Atlanta, China Wildlife Conservation Association said in a statement Friday.\n\tThe organization signed the research agreement with the Un",
+          "title": "How Israel’s ‘buffer zone’ plan could redraw the map of southern Lebanon",
+          "summary": "BEIRUT: Lebanon faces what officials described as “one of the most dangerous moments in recent memory” after Hezbollah launched attacks on Israeli forces from areas both south and north of the Litani River, triggering a renewed Israeli air and ground campaign.\n\n\tAnnouncing its ground incursion into ",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641211/offbeat",
-          "published_at": "Sat, 25 Apr 2026 08:04:58 +03",
+          "article_url": "https://www.arabnews.com/node/2635409/middle-east",
+          "published_at": "Thu, 05 Mar 2026 10:03:55 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtZGVzcGl0ZS1p",
+          "id": "YXJhYm5ld3MtaXNyYWVsLWRl",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Despite Iran tensions, King Charles III will follow his mother’s lead in celebrating US-UK bonds",
-          "summary": "LONDON: The challenge for King Charles III as he embarks on this week’s state visit to the US is, as always, to live up to his mother’s example.\n\tThe late Queen Elizabeth II wowed Congress in 1991 with a speech that celebrated the shared democratic traditions of Britain and the United States, quoted",
+          "title": "Israel decided to kill Khamenei in November, defense minister says",
+          "summary": "JERUSALEM: Israel took the decision to kill Iran’s Supreme Leader Ali Khamenei in November and was planning to carry out the operation around six months later, Defense Minister Israel Katz said on Thursday.\n\tKhamenei was killed in the first hours of the US-Israeli air campaign that began on Saturday",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641209/world",
-          "published_at": "Sat, 25 Apr 2026 08:04:24 +03",
+          "article_url": "https://www.arabnews.com/node/2635406/middle-east",
+          "published_at": "Thu, 05 Mar 2026 10:03:51 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtdGhyZWUta2ls",
+          "id": "YXJhYm5ld3MtbWFjcm9uLWNh",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Three killed in clashes in India’s troubled northeast",
-          "summary": "NEW DELHI: Gun battles between rival ethnic groups in India’s troubled northeastern Manipur state killed three men, police said, the latest unrest in the far-flung region.\n\tManipur has seen periodic clashes for nearly three years between the predominantly Hindu Meitei majority and the mainly Christi",
+          "title": "Macron calls on Israel, Iran and Hezbollah to prevent Lebanon being embroiled in conflict",
+          "summary": "LONDON: Emmanuel Macron on Thursday called on Israel and Iran not to embroil Lebanon in the conflict sweeping the Middle East.\n\n\tThe French president made his plea as panic swept through Beirut after Israel ordered residents to evacuate the southern suburbs of the Lebanese capital and three villages",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641212/world",
-          "published_at": "Sat, 25 Apr 2026 08:04:10 +03",
+          "article_url": "https://www.arabnews.com/node/2635405/middle-east",
+          "published_at": "Thu, 05 Mar 2026 10:03:44 +03",
+          "cross_sections": []
+        },
+        {
+          "id": "YXJhYm5ld3MtdHJ1bXAtZmly",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Trump fires homeland security chief Kristi Noem",
+          "summary": "WASHINGTON: US President Donald Trump on Thursday fired Kristi Noem as head of the Department of Homeland Security, the agency responsible for carrying out his sweeping immigration crackdown.\n\tAccording to multiple media reports, Trump was upset with Noem’s testimony at a Senate hearing this week wh",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2635407/world",
+          "published_at": "Thu, 05 Mar 2026 10:03:32 +03",
+          "cross_sections": []
+        },
+        {
+          "id": "YXJhYm5ld3Mtam9yZGFu4oCZ",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Jordan’s king condemns Iranian attacks in region during talks with Syrian president",
+          "summary": "LONDON: King Abdullah of Jordan and President Ahmad Al-Sharaa of Syria discussed on Thursday the dangerous developments in the region this week following the US and Israeli attacks against Iran that began on Saturday.\n\n\tDuring their telephone conversation, both leaders emphasized the need for dialog",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2635404/middle-east",
+          "published_at": "Thu, 05 Mar 2026 10:03:26 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3Mtc2F1ZGktYXJh",
+          "id": "YXJhYm5ld3MtZXVyb3BvbC13",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Saudi Arabia’s events sector push on track despite disruptions, says industry veteran",
-          "summary": "RIYADH: Saudi Arabia’s push to position itself as a global events hub remains firmly on track despite geopolitical disruptions, according to one of the leading figures in the industry.\n\n\tThe US-Israel war with Iran has led to disruptions to many of the Kingdom’s flagship forums, with the Saudi Arabi",
+          "title": "Europol warns Iran crisis raises threat of terror, extremism and cyberattacks",
+          "summary": "MADRID: The Middle East conflict will have “immediate repercussions” for European Union security with an increased threat of terrorism, serious and organized crime as well as violent extremism and cyberattacks, European police body Europol told Spanish news agency EFE on Thursday.\n\tEuropol spokesman",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641206/business-economy",
-          "published_at": "Sat, 25 Apr 2026 07:04:43 +03",
+          "article_url": "https://www.arabnews.com/node/2635408/world",
+          "published_at": "Thu, 05 Mar 2026 10:03:24 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtYXVzdHJhbGlh",
+          "id": "YXJhYm5ld3Mta2FuZS10by1t",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Australia refuses repatriation help for citizens in Syria camp",
-          "summary": "SYDNEY: Australia refused to help repatriate citizens related to suspected Daesh militants on Saturday, following a report that some Australian families are trying to return home from a camp in Syria.\n\tNational broadcaster ABC said four Australian women and nine of their children and grandchildren h",
+          "title": "Kane to miss Bayern game against Gladbach with calf knock",
+          "summary": "BERLIN: Harry Kane will miss Bayern Munich’s Bundesliga match against Borussia Moenchengladbach with a calf injury, coach Vincent Kompany said on Thursday.\n\tThe England striker, who has been an ever-present for Bayern this season, should be fit in time for the Champions League last-16 first leg at A",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641208/middle-east",
-          "published_at": "Sat, 25 Apr 2026 07:04:24 +03",
+          "article_url": "https://www.arabnews.com/node/2635402/sport",
+          "published_at": "Thu, 05 Mar 2026 09:03:33 +03",
           "cross_sections": [
             "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtdXMtbWlsaXRh",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "US military says it struck vessel in Eastern Pacific, killing two",
-          "summary": "WASHINGTON: The US military said on Friday it struck a vessel in the Eastern Pacific, killing two people, in the latest such attack, condemned by rights groups as “extrajudicial killings” and described by Washington as targeting “narco-terrorists.”\n\tThe US Southern Command alleged that the vessel st",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641203/world",
-          "published_at": "Sat, 25 Apr 2026 06:04:49 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3Mtc3RhcnR1cC13",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Startup Wrap: MENA startups draw capital as AI bets continue to accelerate",
-          "summary": "RIYADH: Startups across the Middle East and North Africa saw new funding rounds over the past week, with acquisitions, and partnerships across artificial intelligence, fintech, gaming, and digital infrastructure.\n\n\tSaudi Arabia-based Signit raised $15 million in a series A round led by Raed Ventures",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641205/business-economy",
-          "published_at": "Sat, 25 Apr 2026 06:04:04 +03",
-          "cross_sections": [
-            "tech",
-            "ai"
           ]
         }
       ]
@@ -4826,7 +4930,7 @@
         {
           "id": "euronews",
           "name": "Euronews",
-          "count": 8
+          "count": 16
         },
         {
           "id": "dw",
@@ -4892,6 +4996,55 @@
       "icon": "💻",
       "articles": [
         {
+          "id": "dGhldmVyZ2UteW91dHViZS1p",
+          "source_id": "theverge",
+          "source_name": "The Verge",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+          "summary": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves.\nThe likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube for lookalikes. If there ",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "article_url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+          "published_at": "2026-05-15T22:25:00.000Z",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJzdGVjaG5pY2EtYW50aHJv",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
+          "summary": "Lawyers accused of rushing historic settlement to seize $320 million in fees.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1675604392-1152x648-1778878573.jpg",
+          "article_url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
+          "published_at": "Fri, 15 May 2026 21:51:24 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtZWxnYXItY2Fz",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Elgar case: NIA seeks cancellation of bail of activists Sudha Bharadwaj and Varavara Rao",
+          "summary": "The NIA said that Bharadwaj and Rao attended a meeting on the Mumbai Press Club terrace on January 19, where other co-accused in the Elgaar Parishad case were also present",
+          "image_url": "https://th-i.thgim.com/public/incoming/3r59mx/article70983600.ece/alternates/LANDSCAPE_1200/11908_15_10_2023_15_13_44_5_EMM_0589.JPG",
+          "article_url": "https://www.thehindu.com/news/national/maharashtra/elgar-case-nia-seeks-cancellation-of-activists-sudha-bharadwaj-and-varavara-raos-bail/article70983507.ece",
+          "published_at": "Sat, 16 May 2026 03:10:00 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YmJjLWJ1cm5oYW0tY2xlYXJl",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -4919,6 +5072,22 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc97/live/44d90680-5077-11f1-8b8c-6d33e1d5abb6.jpg",
           "article_url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 15 May 2026 21:28:25 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhldmVyZ2Utd2luZG93cy0x",
+          "source_id": "theverge",
+          "source_name": "The Verge",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Windows 11 tests an adjustable taskbar and resizable Start menu",
+          "summary": "Microsoft's latest Windows 11 test will allow you to reposition the taskbar and change the size of the Start menu. The update, which is rolling out to Windows 11 Insiders in the Experimental channel, lets you place the taskbar on the bottom, top, left, or right side of the screen.\nMicrosoft first te",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/windows-11-taskbar-top.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "article_url": "https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button",
+          "published_at": "2026-05-15T21:14:45.000Z",
           "cross_sections": [
             "tech"
           ]
@@ -5140,8 +5309,8 @@
           "source_region": "IT Focus",
           "source_category": "Tech Media",
           "feed_label": "Latest",
-          "title": "RJ Scaringe has raised more than $12 billion across three startups and investors still want more",
-          "summary": "Founder and CEO RJ Scaringe has a knack for raising money. So far, his three startups have raised more than $12.3 billion.",
+          "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
+          "summary": "Investors can't seem to get enough of RJ Scaringe or his ideas. Storytelling and communication are one of his superpowers, according to Jiten Behl, who joined Rivian when the company had just a handful of employees.",
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
           "published_at": "Fri, 15 May 2026 20:30:20 +0000",
@@ -5157,26 +5326,10 @@
           "source_category": "Tech Media",
           "feed_label": "Latest",
           "title": "General Catalyst posted VC rage bait and it worked, especially on a16z",
-          "summary": "Compulsive X user Andreessen himself couldn't resist responding, many, many times.",
+          "summary": "Compulsive X user Marc Andreessen himself couldn't resist responding, many, many times.",
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/",
           "published_at": "Fri, 15 May 2026 20:25:35 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtY2Vuc3VzLTIw",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Census 2027: Door-to-door exercise ends in New Delhi; over 63,000 households covered",
-          "summary": "Mapping of houses will begin on May 16, followed by a door-to-door exercise across more than 45,000 blocks",
-          "image_url": "https://th-i.thgim.com/public/incoming/umsn3q/article70984891.ece/alternates/LANDSCAPE_1200/CENSUS%20DIGITAL%20MAPPING%20DELHI%202026_27_04_15.jpg",
-          "article_url": "https://www.thehindu.com/news/cities/Delhi/census-2027-door-to-door-exercise-ends-in-new-delhi-over-63000-households-covered/article70984553.ece",
-          "published_at": "Sat, 16 May 2026 01:50:40 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5241,22 +5394,6 @@
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/05/15/nvidia-cerebras-stock-price-ipo.html",
           "published_at": "Fri, 15 May 2026 20:05:55 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtam95cmlkZS1o",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Joyride horse dies of highly contagious zoonotic disease disease in Chennai; Tamil Nadu goes into alert mode",
-          "summary": "ICAR centre advises State to immediately isolate and monitor all equines housed with the infected horse, recommends testing in adjoining areas; govt. to regulate inter-State movement of horses",
-          "image_url": "https://th-i.thgim.com/public/news/national/8jqptm/article70983978.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-15%20at%208.01.50%20PM.jpeg",
-          "article_url": "https://www.thehindu.com/sci-tech/health/joyride-horse-dies-of-highly-contagious-zoonotic-disease-disease-in-chennai-tamil-nadu-goes-into-alert-mode/article70983531.ece",
-          "published_at": "Sat, 16 May 2026 01:33:15 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5500,38 +5637,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YmJjLWp1ZGdlLWRlY2xhcmVz",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Judge declares another mistrial in Harvey Weinstein New York rape case",
-          "summary": "It marks the third time a New York jury has considered the case against the 74-year-old disgraced film mogul.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a7a/live/3c2b1fc0-4fda-11f1-ab9a-17f0869e9914.jpg",
-          "article_url": "https://www.bbc.com/news/articles/c152lexw1vxo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 15 May 2026 19:10:59 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtaXNyYWVsLWFu",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "News",
-          "title": "Israel and Lebanon extend their ceasefire by 45 days following talks in the US",
-          "summary": "The US State Department will hold negotiations aimed at reaching a permanent political agreement on the 2 and 3 June. Beforehand, the Pentagon is to bring together military delegations from the countries concerned on 29 May.",
-          "image_url": "https://images.euronews.com/articles/stories/09/76/05/03/696x392_cmsv2_76f1cd28-6ed1-5a96-be6e-508ba375e693-9760503.jpg",
-          "article_url": "http://www.euronews.com/2026/05/15/lebanonisrael-ceasefire-extended-by-45-days-says-us",
-          "published_at": "Fri, 15 May 2026 21:06:24 +0200",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -5599,6 +5704,23 @@
       "icon": "🤖",
       "articles": [
         {
+          "id": "YXJzdGVjaG5pY2EtYW50aHJv",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
+          "summary": "Lawyers accused of rushing historic settlement to seize $320 million in fees.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1675604392-1152x648-1778878573.jpg",
+          "article_url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
+          "published_at": "Fri, 15 May 2026 21:51:24 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "dmVudHVyZWJlYXQtaW50ZXJj",
           "source_id": "venturebeat",
           "source_name": "VentureBeat",
@@ -5644,23 +5766,6 @@
           "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
           "article_url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
           "published_at": "2026-05-15T18:21:35.000Z",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "YXJzdGVjaG5pY2Etb3BlbmFp",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say",
-          "summary": "Judge orders Apple to give Musk internal messages discussing secretive ChatGPT deal.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2156972504-1024x648.jpg",
-          "article_url": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/",
-          "published_at": "Fri, 15 May 2026 18:13:33 +0000",
           "cross_sections": [
             "tech",
             "ai"
@@ -5746,23 +5851,6 @@
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
           "published_at": "Fri, 15 May 2026 16:00:00 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "dGhldmVyZ2Utb3BlbmFpLW5v",
-          "source_id": "theverge",
-          "source_name": "The Verge",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "OpenAI now wants ChatGPT to access your bank accounts",
-          "summary": "ChatGPT will even know how much credit card debt you have. | Image: OpenAI\t\n\nYour trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to \"securely connect\" ChatGPT with ",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ChatGPT-financial-accounts.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "article_url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
-          "published_at": "2026-05-15T16:00:00.000Z",
           "cross_sections": [
             "tech",
             "ai"
@@ -5990,23 +6078,6 @@
           ]
         },
         {
-          "id": "YXJhYm5ld3Mtc3RhcnR1cC13",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Startup Wrap: MENA startups draw capital as AI bets continue to accelerate",
-          "summary": "RIYADH: Startups across the Middle East and North Africa saw new funding rounds over the past week, with acquisitions, and partnerships across artificial intelligence, fintech, gaming, and digital infrastructure.\n\n\tSaudi Arabia-based Signit raised $15 million in a series A round led by Raed Ventures",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641205/business-economy",
-          "published_at": "Sat, 25 Apr 2026 06:04:04 +03",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "dG9pLWNoYXRncHQtd2FzLWRv",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -6027,7 +6098,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 9966,
+    "build_ms": 9816,
     "ai_enabled": true
   }
 }
