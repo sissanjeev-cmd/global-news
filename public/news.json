@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-18T22:35:44.328Z",
-  "total_articles": 314,
+  "last_updated": "2026-05-18T23:45:23.320Z",
+  "total_articles": 315,
   "new_this_run": 34,
   "sources": [
     {
@@ -545,6 +545,22 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "emRuZXQtbWljcm9zb2Z0LXN1",
+          "source_id": "zdnet",
+          "source_name": "ZDNet",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Microsoft surprises with its first server Linux distribution: Azure Linux 4.0",
+          "summary": "You'll be able to run this Linux distro on both Azure and your desktop using Windows Subsystem for Linux. Here's what we know about it so far.",
+          "image_url": null,
+          "article_url": "https://www.zdnet.com/article/microsoft-releases-its-first-server-linux-distribution-azure-linux-4-0/",
+          "published_at": "Mon, 18 May 2026 22:53:57 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "emRuZXQtY2xvdWQtYXR0YWNr",
           "source_id": "zdnet",
           "source_name": "ZDNet",
@@ -652,22 +668,6 @@
           "image_url": null,
           "article_url": "https://www.zdnet.com/article/microsoft-windows-11-taskbar-moves-to-any-screen-edge/",
           "published_at": "Mon, 18 May 2026 15:16:30 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "emRuZXQtbWljcm9zb2Z0LWVk",
-          "source_id": "zdnet",
-          "source_name": "ZDNet",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Microsoft Edge just stopped storing your passwords in plaintext - but you'll need the latest update",
-          "summary": "Though Microsoft claimed that storing plaintext passwords in memory was by design, the company has changed the behavior to better protect your passwords.",
-          "image_url": null,
-          "article_url": "https://www.zdnet.com/article/microsoft-edge-passwords-ram-plaintext/",
-          "published_at": "Mon, 18 May 2026 14:52:00 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -811,6 +811,23 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "dmVudHVyZWJlYXQtY29udGV4",
+          "source_id": "venturebeat",
+          "source_name": "VentureBeat",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Context architecture is replacing RAG as agentic AI pushes enterprise retrieval to its limits",
+          "summary": "Redis built its name as the caching layer that kept web applications from collapsing under load. The problem it is targeting now has the same structure but is harder to solve: production AI agents failing not because the models are wrong, but because the data underneath them is scattered, stale and ",
+          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1XDzPZJFfwFFbQO2sKS3JF/f8ddfdd76111779c860f78e5291eca38/context-layer-smk1.jpg?w=300&q=30",
+          "article_url": "https://venturebeat.com/data/context-architecture-is-replacing-rag-as-agentic-ai-pushes-enterprise-retrieval-to-its-limits",
+          "published_at": "Mon, 18 May 2026 23:17:44 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "dmVudHVyZWJlYXQtZm91ci1h",
           "source_id": "venturebeat",
           "source_name": "VentureBeat",
@@ -907,23 +924,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "dmVudHVyZWJlYXQtY2xhdWRl",
-          "source_id": "venturebeat",
-          "source_name": "VentureBeat",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Claude’s next enterprise battle is not models: it’s the agent control plane",
-          "summary": "New VB Pulse data shows Microsoft and OpenAI leading enterprise agent orchestration, but Anthropic’s first measurable foothold points to a larger fight over who controls the infrastructure where AI agents run.\nFor the last two years, the enterprise AI race has mostly been framed as a model war: Open",
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/QIFFk030xew6nEvO7DFQB/2e91ff2cbababc24cd63134f601983a0/ChatGPT_Image_May_15__2026__09_09_07_AM.png?w=300&q=30",
-          "article_url": "https://venturebeat.com/orchestration/claudes-next-enterprise-battle-is-not-models-its-the-agent-control-plane",
-          "published_at": "Fri, 15 May 2026 16:45:00 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
         }
       ]
     },
@@ -933,6 +933,22 @@
       "region": "IT Focus",
       "category": "Tech Media",
       "articles": [
+        {
+          "id": "Y25iY3RlY2gtaW50ZWwtY2Vv",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Intel CEO says foundry business is gaining momentum as customer interest grows",
+          "summary": "Intel CEO Lip-Bu Tan said the company’s Foundry turnaround is gaining traction.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/18/intel-ceo-says-foundry-is-gaining-momentum-as-customer-interest-grows.html",
+          "published_at": "Mon, 18 May 2026 22:44:30 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "Y25iY3RlY2gtZ29vZ2xlLWkv",
           "source_id": "cnbctech",
@@ -944,7 +960,7 @@
           "summary": "After a 140% stock surge and a sweeping Wall Street reset, Google’s developer conference has to prove the AI story is more than a market narrative.",
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/05/18/google-i-o-alphabet-ai-wall-street.html",
-          "published_at": "Mon, 18 May 2026 22:25:27 GMT",
+          "published_at": "Mon, 18 May 2026 22:43:41 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -1043,22 +1059,6 @@
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/05/18/5-things-to-know-before-the-market-opens.html",
           "published_at": "Mon, 18 May 2026 12:33:32 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iY3RlY2gtdHJ1bXAtc2F5",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Trump says he should've asked for 'more' of Intel when negotiating stake with CEO",
-          "summary": "The chipmaker's stock has soared since the U.S. equity deal in August gave the government 9.9% of the company.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/18/trump-stake-in-intel.html",
-          "published_at": "Mon, 18 May 2026 12:26:40 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -1338,6 +1338,84 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "bnl0LW1ldGEtcmVhc3NpZ25z",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Meta Reassigns 7,000 Employees to Focus on A.I.",
+          "summary": "The company announced the changes two days before it plans to lay off 10 percent of its work force, or about 8,000 employees.",
+          "image_url": "https://static01.nyt.com/images/2026/05/18/multimedia/18biz-meta-ai-1-jvzc/18biz-meta-ai-1-jvzc-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html",
+          "published_at": "Mon, 18 May 2026 23:30:57 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LWwuaS5yLnIuLXN0cmlr",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "L.I.R.R. Strike Could Play a Role in New York Governor’s Race",
+          "summary": "Gov. Kathy Hochul, a Democrat, is running for a second full term against the Nassau County executive, Bruce Blakeman, a Republican who has criticized her response to the labor dispute.",
+          "image_url": null,
+          "article_url": "https://www.nytimes.com/2026/05/18/nyregion/lirr-strike-hochul-blakeman-governor.html",
+          "published_at": "Mon, 18 May 2026 22:58:30 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LWZpdmUtdGFrZWF3YXlz",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Five Takeaways From the Blockbuster Trial Pitting Elon Musk Against OpenAI",
+          "summary": "It took a jury less than two hours to decide that Mr. Musk had waited too long to sue. But the testimony over three weeks was still illuminating.",
+          "image_url": "https://static01.nyt.com/images/2026/05/18/multimedia/18biz-openai-trial-takeaways-1-gqtc/18biz-openai-trial-takeaways-1-gqtc-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial-takeaways.html",
+          "published_at": "Mon, 18 May 2026 22:45:53 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "bnl0LWFyb3VuZC1wZW5uLXN0",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Around Penn Station, the strike is bad for business.",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.nytimes.com/live/2026/05/18/nyregion/lirr-strike-update-long-island/around-penn-station-the-strike-is-bad-for-business",
+          "published_at": "Mon, 18 May 2026 22:30:04 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LWVsb24tbXVzay1sb3Nl",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Elon Musk Loses His Blockbuster Case Against OpenAI",
+          "summary": "Also, a railroad strike disrupts commutes into New York City. Here’s the latest at the end of Monday.",
+          "image_url": "https://static01.nyt.com/images/2026/05/18/multimedia/18evening-nl-musk-open-ai-wptc/18evening-nl-musk-open-ai-wptc-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/05/18/briefing/elon-musk-openai-trial.html",
+          "published_at": "Mon, 18 May 2026 22:00:35 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "bnl0LWwtaS1yLXItdnMuLWx1",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1352,65 +1430,17 @@
           "cross_sections": []
         },
         {
-          "id": "bnl0LWZpdmUtdGFrZWF3YXlz",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Five Takeaways From the Blockbuster Trial Pitting Elon Musk Against OpenAI",
-          "summary": "It took a jury less than two hours to decide that Mr. Musk had waited too long to sue. But the testimony over three weeks was still illuminating.",
-          "image_url": "https://static01.nyt.com/images/2026/05/18/multimedia/18biz-openai-trial-takeaways-1-gqtc/18biz-openai-trial-takeaways-1-gqtc-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial-takeaways.html",
-          "published_at": "Mon, 18 May 2026 21:59:51 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "bnl0LWFmdGVyLWVsb24tbXVz",
           "source_id": "nyt",
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
-          "feed_label": "Top Stories",
+          "feed_label": "Technology",
           "title": "After Elon Musk’s Court Loss Comes the Long Hot A.I. Summer",
           "summary": "Even as protests increase, the collapse of Mr. Musk’s suit against OpenAI and Sam Altman will speed up the artificial intelligence juggernaut.",
           "image_url": "https://static01.nyt.com/images/2026/05/18/multimedia/00biz-musk-altman-ai-hlkm/00biz-musk-altman-ai-hlkm-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html",
           "published_at": "Mon, 18 May 2026 21:53:29 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "bnl0LW1ldGEtcmVhc3NpZ25z",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "Meta Reassigns 7,000 Employees to Focus on A.I.",
-          "summary": "The company announced the changes two days before it plans to lay off 10 percent of its work force, or about 8,000 employees.",
-          "image_url": "https://static01.nyt.com/images/2026/05/18/multimedia/18biz-meta-ai-1-jvzc/18biz-meta-ai-1-jvzc-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html",
-          "published_at": "Mon, 18 May 2026 21:47:54 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "bnl0LWVsb24tbXVzay1sb3Nl",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Elon Musk Loses $150 Billion Suit Against OpenAI and Sam Altman",
-          "summary": "A nine-member jury found that Mr. Musk had waited too long to sue. The setback for the tech mogul frees OpenAI to continue in the artificial intelligence race.",
-          "image_url": "https://static01.nyt.com/images/2026/05/18/multimedia/18biz-ai-trial-ledeall-brockamn-glbh/18biz-ai-trial-ledeall-brockamn-glbh-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/05/18/technology/elon-musk-lawsuit-openai-sam-altman.html",
-          "published_at": "Mon, 18 May 2026 21:31:32 +0000",
           "cross_sections": [
             "tech",
             "ai"
@@ -1536,7 +1566,7 @@
           "summary": "Ahead of the World Cup, the head of South American soccer faces an ethics complaint he received payments recovered from a 2015 investigation that shook global soccer.",
           "image_url": "https://static01.nyt.com/images/2026/05/14/multimedia/14int-worldcup-fifa-corruption01-photo-fwzk/14int-worldcup-fifa-corruption01-photo-fwzk-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/05/18/world/americas/fifa-south-america-conmebol-dominguez.html",
-          "published_at": "Mon, 18 May 2026 17:52:23 +0000",
+          "published_at": "Mon, 18 May 2026 17:52:24 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -1686,7 +1716,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-05-18T22:35:34.716Z",
+          "published_at": "2026-05-18T23:45:13.865Z",
           "cross_sections": []
         },
         {
@@ -1700,7 +1730,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-05-18T22:35:34.716Z",
+          "published_at": "2026-05-18T23:45:13.865Z",
           "cross_sections": []
         },
         {
@@ -1714,7 +1744,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-05-18T22:35:34.716Z",
+          "published_at": "2026-05-18T23:45:13.865Z",
           "cross_sections": []
         },
         {
@@ -2026,6 +2056,36 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "Y25iYy1jbmJjJ3MtdGhlLWNo",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "CNBC's The China Connection newsletter: Three major shifts from the Trump-Xi meeting",
+          "summary": "The U.S. and Chinese readouts agree on one phrase: constructive strategic stability.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/18/three-major-shifts-from-the-trump-xi-meeting.html",
+          "published_at": "Mon, 18 May 2026 23:00:01 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "Y25iYy13aGl0ZS1ob3VzZS1h",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "White House adds generic drugs to direct-to-consumer TrumpRx site",
+          "summary": "Trump said he is increasing the number of products on the platform by nearly seven times, adding more than 600 generic drugs to the site.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/18/white-house-adds-generic-drugs-to-direct-to-consumer-trumprx-site.html",
+          "published_at": "Mon, 18 May 2026 22:53:40 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "Y25iYy1nb29nbGUtaS9vLXBy",
           "source_id": "cnbc",
           "source_name": "CNBC",
@@ -2036,7 +2096,23 @@
           "summary": "After a 140% stock surge and a sweeping Wall Street reset, Google’s developer conference has to prove the AI story is more than a market narrative.",
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/05/18/google-i-o-alphabet-ai-wall-street.html",
-          "published_at": "Mon, 18 May 2026 22:25:27 GMT",
+          "published_at": "Mon, 18 May 2026 22:43:41 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iYy10cnVtcC1zYXlzLWhl",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Trump says he's postponing 'scheduled attack of Iran tomorrow' at Middle East leaders' request",
+          "summary": "The U.S. and Iran are in a stalemate centered on the Strait of Hormuz, the global oil pathway whose closure due to the war has caused an energy supply shock.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/18/trump-iran-attack-saudi-uae-qatar-deal.html",
+          "published_at": "Mon, 18 May 2026 22:40:59 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -2059,22 +2135,6 @@
           ]
         },
         {
-          "id": "Y25iYy13aGl0ZS1ob3VzZS1h",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "White House adds generic drugs to direct-to-consumer TrumpRx site",
-          "summary": "Trump said he is increasing the number of products on the platform by nearly seven times, adding more than 600 generic drugs to the site.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/18/white-house-adds-generic-drugs-to-direct-to-consumer-trumprx-site.html",
-          "published_at": "Mon, 18 May 2026 21:31:17 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "Y25iYy10cnVtcC1waXZvdHMt",
           "source_id": "cnbc",
           "source_name": "CNBC",
@@ -2087,38 +2147,6 @@
           "article_url": "https://www.cnbc.com/2026/05/18/trump-hegseth-economy-2026-election-midterms-iran-china.html",
           "published_at": "Mon, 18 May 2026 20:43:07 GMT",
           "cross_sections": []
-        },
-        {
-          "id": "Y25iYy10cnVtcC1zYXlzLWhl",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Trump says he's postponing 'scheduled attack of Iran tomorrow' at Middle East leaders' request",
-          "summary": "The U.S. and Iran are in a stalemate centered on the Strait of Hormuz, the global oil pathway whose closure due to the war has caused an energy supply shock.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/18/trump-iran-attack-saudi-uae-qatar-deal.html",
-          "published_at": "Mon, 18 May 2026 20:42:47 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy1zZWFnYXRlLWxlYWRz",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Seagate leads memory sell-off as CEO says it would 'take too long' to build new factories",
-          "summary": "Seagate CEO Dave Mosley's comment sent shares sinking, along with those of Micron, SanDisk and Western Digital.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/18/seagate-memory-chip-stocks-ai.html",
-          "published_at": "Mon, 18 May 2026 20:18:03 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "Y25iYy1iZXJrc2hpcmUtaGF0",
@@ -2198,23 +2226,6 @@
           "published_at": "Mon, 18 May 2026 16:50:38 GMT",
           "cross_sections": [
             "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy1tZXRhLWxheW9mZnMt",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Meta layoffs starting this week stress harsh AI reality inside Zuckerberg’s company",
-          "summary": "Meta is starting layoffs this week, with 8,000 jobs expected to be cut, as employees brace for a new era of AI.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/18/metas-layoffs-starting-this-week-underscore-zuckerbergs-ai-reality-.html",
-          "published_at": "Mon, 18 May 2026 16:33:26 GMT",
-          "cross_sections": [
-            "tech",
-            "jobcuts"
           ]
         },
         {
@@ -2527,6 +2538,68 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YmJjLW1hcnJpZWQtYXQtZmly",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Married at First Sight UK brides tell BBC they were raped by on-screen husbands",
+          "summary": "Channel 4 was aware of one of the rape claims before broadcast, but the woman involved still featured in the show.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8c8/live/f72c0590-4f63-11f1-b55d-0f258dce1735.png",
+          "article_url": "https://www.bbc.com/news/articles/cp8pz1k4r2lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 18 May 2026 23:35:54 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLWV4LWJyaXRpc2gtc29s",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Ex-British soldier imprisoned by Russia says he feels abandoned in occupied Ukraine",
+          "summary": "In letters sent to the BBC from prison, Hayden Davies says he has had no contact with British authorities.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd8f/live/433cbc70-52b8-11f1-89a3-d1f559421220.jpg",
+          "article_url": "https://www.bbc.com/news/articles/cdxper4k5w1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 18 May 2026 23:09:42 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLXJvYm8tdG9wOi10aGUt",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Technology",
+          "title": "Robo-top: The machines that could make your next t-shirt",
+          "summary": "Most clothes are made in Asia, but new machines could bring some of that work back to the West.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c642/live/2ac2db00-4d33-11f1-bd52-e755d604ece4.jpg",
+          "article_url": "https://www.bbc.com/news/articles/c0q2gkj97eko?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 18 May 2026 23:04:14 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLXNhdGVsbGl0ZXMtYW5k",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Technology",
+          "title": "Satellites and AI used to track UK hedgehogs in bid to slow decline",
+          "summary": "Researchers hope the project will also help to identify barriers preventing hedgehogs from finding food and mates in the wild.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4993/live/c53b1340-52d9-11f1-a650-a94a8fc7de38.jpg",
+          "article_url": "https://www.bbc.com/news/articles/c202g60qrlpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 18 May 2026 23:04:03 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YmJjLXRydW1wLXNheXMtaGUt",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2535,7 +2608,7 @@
           "feed_label": "Top Stories",
           "title": "Trump says he called off new Iran attack at request of Gulf states",
           "summary": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\".",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7f0/live/35981a80-52f2-11f1-93ce-6b7334a653b8.jpg",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7abc/live/e242fd30-530c-11f1-8b8c-6d33e1d5abb6.jpg",
           "article_url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 18 May 2026 22:30:58 GMT",
           "cross_sections": []
@@ -2560,7 +2633,7 @@
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "Technology",
           "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
           "summary": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\"",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c706/live/03fe60e0-52ef-11f1-89a3-d1f559421220.jpg",
@@ -2588,20 +2661,18 @@
           ]
         },
         {
-          "id": "YmJjLW1hcnJpZWQtYXQtZmly",
+          "id": "YmJjLXRydW1wLXYtbWFzc2ll",
           "source_id": "bbc",
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Married at First Sight UK brides tell BBC they were raped by on-screen husbands",
-          "summary": "Channel 4 was aware of one of the rape claims before broadcast, but the woman involved still featured in the show.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8c8/live/f72c0590-4f63-11f1-b55d-0f258dce1735.png",
-          "article_url": "https://www.bbc.com/news/articles/cp8pz1k4r2lo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 18 May 2026 22:00:11 GMT",
-          "cross_sections": [
-            "tech"
-          ]
+          "feed_label": "World",
+          "title": "Trump v Massie: Could president's Republican nemesis survive $20m attack to oust him?",
+          "summary": "The Kentucky congressman, who has crossed the president on federal spending and the Epstein files, faces Republican voters on Tuesday.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/734c/live/54ff5530-52f9-11f1-8b8c-6d33e1d5abb6.jpg",
+          "article_url": "https://www.bbc.com/news/articles/cz924g45530o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 18 May 2026 21:39:45 GMT",
+          "cross_sections": []
         },
         {
           "id": "YmJjLXNlbGxpbmctY2hpbGRy",
@@ -2649,6 +2720,22 @@
           ]
         },
         {
+          "id": "YmJjLXRydW1wLWFkbWluaXN0",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Trump administration unveils $1.7bn fund to compensate his allies as he drops tax lawsuit",
+          "summary": "The settlement will go towards individuals who allege they were subjected to unfair investigations.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0589/live/771e4030-52dc-11f1-a650-a94a8fc7de38.jpg",
+          "article_url": "https://www.bbc.com/news/articles/cvgzr7vr203o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 18 May 2026 19:53:31 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YmJjLWF0LWxlYXN0LTEwMC1k",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2677,22 +2764,6 @@
           "cross_sections": []
         },
         {
-          "id": "YmJjLWZvdXIta2lsbGVkLWlu",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Four killed in protests during Kenyan strikes over high fuel prices",
-          "summary": "Thousands of commuters are stranded, with key roads in the capital Nairobi largely empty due to the protests over fuel costs.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5014/live/54ea3a70-5294-11f1-8a13-e989d3b4b6c8.jpg",
-          "article_url": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 18 May 2026 16:49:45 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "YmJjLXBvbGljZS1odW50LW1h",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2719,22 +2790,6 @@
           "article_url": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 18 May 2026 16:16:38 GMT",
           "cross_sections": []
-        },
-        {
-          "id": "YmJjLXdoYXQtaXMtZWJvbGEt",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "What is Ebola and why is stopping this outbreak so difficult?",
-          "summary": "An outbreak of Ebola in DR Congo involves a rare strain and is in an area affected by conflict.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6ab/live/75859d70-529d-11f1-b14c-031b0f963228.jpg",
-          "article_url": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 18 May 2026 15:52:38 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "YmJjLXNoYWtpcmEtd2lucy3C",
@@ -2825,39 +2880,6 @@
           "article_url": "https://www.bbc.com/news/articles/cly039rr2mgo?at_medium=RSS&at_campaign=rss",
           "published_at": "Thu, 14 May 2026 23:03:16 GMT",
           "cross_sections": []
-        },
-        {
-          "id": "YmJjLWFpLWNvdWxkLXB1dC1w",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Technology",
-          "title": "AI could put people off tech jobs and hurt the economy, warns Raspberry Pi boss",
-          "summary": "Eben Upton warns against claims that Artificial Intelligence will destroy vast numbers of computing roles over the coming years.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b124/live/7a8cb440-4fc1-11f1-b651-41ca043d3d3f.jpg",
-          "article_url": "https://www.bbc.com/news/articles/clypr8p2lewo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 14 May 2026 23:01:20 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "YmJjLSdtaWxsaW9ucyctb2Yt",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Technology",
-          "title": "'Millions' of pounds saved by replacing Palantir tech in refugee system",
-          "summary": "The government said its in-house IT system was \"more flexible\" while meeting \"high standards\" of security.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b91/live/a4434bd0-4a32-11f1-a70d-c72ff4101914.jpg",
-          "article_url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 14 May 2026 21:09:02 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -2878,7 +2900,24 @@
           "summary": "OpenAI CEO and president found not liable for breaking contracts made with Musk when founding the startup\nA jury ruled in favor of Sam Altman in the culmination of a long and bitter legal battle that pitted the richest person in the world against a leader of the AI boom.\nThe federal jury in Oakland,",
           "image_url": "https://i.guim.co.uk/img/media/e58e6018ecf5d31f073cbecec654aa2d8ffd0a7b/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=a9504195b92112a7533193b714caab5f",
           "article_url": "https://www.theguardian.com/technology/2026/may/18/sam-altman-trial-victory-elon-musk-openai",
-          "published_at": "Mon, 18 May 2026 19:51:55 GMT",
+          "published_at": "Mon, 18 May 2026 22:37:11 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "Z3VhcmRpYW4tcG9wZS1sZW8t",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Pope Leo to issue text on human dignity and AI with Anthropic co-founder",
+          "summary": "The pope’s encyclical will address ‘the protection of the human person in the age of AI’, the Vatican says\nIn the first major text of his papacy, Pope Leo will address the rapid rise of artificial intelligence.\nThe Chicago-born pontiff will present the document, known as an encyclical, at the Vatica",
+          "image_url": "https://i.guim.co.uk/img/media/42f5cad5cee9f4d32463f11d0daff3c629611625/4_0_3543_2835/master/3543.jpg?width=140&quality=85&auto=format&fit=max&s=dd872168b039588c82c35afe0610522d",
+          "article_url": "https://www.theguardian.com/world/2026/may/18/pope-leo-encyclical-human-dignity-ai-anthropic",
+          "published_at": "Mon, 18 May 2026 19:22:44 GMT",
           "cross_sections": [
             "tech",
             "ai"
@@ -2896,22 +2935,6 @@
           "image_url": "https://i.guim.co.uk/img/media/3b5db70e6c2cac94257b35b6d58e807c6ab16ce3/418_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b02fe87688c5ced0b3873959e8d4314a",
           "article_url": "https://www.theguardian.com/world/2026/may/18/ituri-eastern-drc-ebola-outbreak-panic-fear",
           "published_at": "Mon, 18 May 2026 18:33:12 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Z3VhcmRpYW4tdGVjaC1maXJt",
-          "source_id": "guardian",
-          "source_name": "The Guardian",
-          "source_region": "Europe",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "Tech firms face tougher UK rules on intimate image abuse",
-          "summary": "Ofcom to update codes of practice amid rise in ‘revenge porn’ and AI-generated deepfakes targeting women and girls\nSocial media, messaging platforms and online forums that publish intimate image abuse – often intended to humiliate women and girls – are being instructed to follow new guidelines to st",
-          "image_url": "https://i.guim.co.uk/img/media/92f6b258a4472ae40c2889913a6ee4b7b6e9ca90/552_0_2915_2332/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=beaf05d959bdc702cfec1b96177312db",
-          "article_url": "https://www.theguardian.com/technology/2026/may/18/tech-firms-uk-rules-intimate-image-abuse",
-          "published_at": "Mon, 18 May 2026 18:30:53 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -3493,16 +3516,16 @@
       "category": "Broadcaster",
       "articles": [
         {
-          "id": "ZHctbGl2ZS11cGRhdGVzOi1z",
+          "id": "ZHctbGl2ZS11cGRhdGVzOi0z",
           "source_id": "dw",
           "source_name": "DW News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "Top Stories",
-          "title": "Live updates: Shooting at San Diego mosque leaves three dead",
+          "title": "Live updates: 3 killed in shooting at San Diego mosque",
           "summary": "Three people were killed in a shooting at the Islamic Center of San Diego. Two teen suspects were found dead in a car near the mosque. Follow live.",
           "image_url": null,
-          "article_url": "https://www.dw.com/en/live-updates-shooting-at-san-diego-mosque-leaves-three-dead/live-77205503?maca=en-rss-en-top-1022-xml-mrss",
+          "article_url": "https://www.dw.com/en/live-updates-3-killed-in-shooting-at-san-diego-mosque/live-77205503?maca=en-rss-en-top-1022-xml-mrss",
           "published_at": "Mon, 18 May 2026 22:10:00 GMT",
           "cross_sections": []
         },
@@ -3740,20 +3763,6 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dG9pLXJham5hdGgtbGFuZHMt",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Rajnath lands in Vietnam to boost defence ties, BrahMos sale may figure in talks",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/rajnath-lands-in-vietnam-to-boost-defence-ties-brahmos-sale-may-figure-in-talks/articleshow/131185828.cms",
-          "published_at": "Tue, 19 May 2026 02:54:26 +0530",
-          "cross_sections": []
-        },
-        {
           "id": "dG9pLWNvbmZsaWN0LXB1c2hl",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3833,17 +3842,31 @@
           ]
         },
         {
-          "id": "dG9pLWtleS1hY2N1c2VkLWlu",
+          "id": "dG9pLSQxLjctYm4tZm9yLXRy",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Key accused in Bengal CM Suvendu aide's murder arrested in UP's Muzaffarnagar",
-          "summary": "On May 11, a Special Investigation Team (SIT) probing Rath's murder had arrested three people before widening its probe across multiple states. The cops suspected that hired sharpshooters were brought in from outside West Bengal to carry out the killing with military-style precision. A key breakthro",
+          "title": "$1.7 bn for Trump's allies? New 'Anti-Weaponization Fund' sparks outrage",
+          "summary": "",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/key-accused-in-bengal-cm-suvendu-aides-murder-arrested-in-ups-muzaffarnagar/articleshow/131179260.cms",
-          "published_at": "Mon, 18 May 2026 20:00:11 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/world/us/1-7-bn-for-trumps-allies-new-anti-weaponization-fund-sparks-outrage/articleshow/131182627.cms",
+          "published_at": "Mon, 18 May 2026 22:55:10 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dG9pLW9pbC1hYm92ZS0kMTAw",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Oil above $100: How soaring crude prices are hitting India — explained in 10 charts",
+          "summary": "Geopolitical tensions in the Middle East are significantly impacting India's economy. Rising crude oil prices have led to a Rs 3 per litre fuel hike, eroded investor wealth by over Rs 5.85 lakh crore, and pushed the rupee to an all-time low. Foreign investors are also withdrawing funds, while the im",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/business/india-business/oil-above-100-how-soaring-crude-prices-are-hitting-india-explained-in-10-charts/articleshow/131179870.cms",
+          "published_at": "Mon, 18 May 2026 20:29:25 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4110,76 +4133,82 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dGhlaGluZHUtd2VzdC1iZW5n",
+          "id": "dGhlaGluZHUtaXJhbi1pc3Jh",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "West Bengal Police reopens 59 cases linked to 2021 post-poll violence, registers 181 fresh FIRs",
-          "summary": "Multiple Trinamool leaders come under the police crackdown as many face arrests in corruption and post-poll violence charges",
-          "image_url": "https://th-i.thgim.com/public/news/national/keyp8e/article70993298.ece/alternates/LANDSCAPE_1200/West%20bengal%20CID.jpg",
-          "article_url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cid-reopens-59-cases-linked-to-2021-post-poll-violence-181-fresh-firs-registered/article70993198.ece",
-          "published_at": "Tue, 19 May 2026 03:32:13 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtamFpbGVkLW1w",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Jailed MP Rashid granted bail, will attend final rites of deceased father: AIP",
-          "summary": "Court directs that Rashid be accompanied by at least two police officials in plainclothes from the moment he leaves the jail until his return from Srinagar.",
-          "image_url": "https://th-i.thgim.com/public/incoming/gwy2mm/article70995729.ece/alternates/LANDSCAPE_1200/22-%20ENGINEER-RASHID-SGR-30-04-2026.JPG",
-          "article_url": "https://www.thehindu.com/news/cities/Delhi/delhi-hc-grants-interim-bail-to-engineer-rashid-to-attend-fathers-funeral/article70993825.ece",
-          "published_at": "Tue, 19 May 2026 03:26:11 +0530",
+          "title": "Iran-Israel war LIVE: Trump says delaying Iran attack at request of Gulf leaders",
+          "summary": "Iran’s top security body announced on Monday, May 18, the formation of a new body to manage the Strait of Hormuz, which Tehran has effectively closed and wants to charge ships to traverse.",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/international/iran-israel-war-live-may-18-2026/article70992340.ece",
+          "published_at": "Tue, 19 May 2026 05:04:45 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtYS1odW5kcmVk",
+          "id": "dGhlaGluZHUtdHJ1bXAtc2F5",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "A hundred years ago | Rubber stealing in Singapore",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/archives/from-the-hindu-archives-may-19-1926-rubber-stealing-in-singapore/article70994010.ece",
-          "published_at": "Tue, 19 May 2026 03:22:17 +0530",
+          "title": "Trump says delaying Iran attack at request of Gulf leaders",
+          "summary": "Donald Trump said he had “further instructed them to be prepared to go forward with a full, large scale assault of Iran, on a moment’s notice, in the event that an acceptable Deal is not reached”",
+          "image_url": "https://th-i.thgim.com/public/incoming/w9jqup/article70995561.ece/alternates/LANDSCAPE_1200/Trump-Nigeria-G0NG0A4R0.3.jpg.jpg",
+          "article_url": "https://www.thehindu.com/news/international/trump-says-delaying-iran-attack-at-request-of-gulf-leaders/article70995563.ece",
+          "published_at": "Tue, 19 May 2026 05:03:41 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdS5zLi10by1z",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "U.S. to screen for Ebola at airports, one American in Democratic Republic of Congo infected",
+          "summary": "The measures shared by the U.S. Centers for Disease Control and Prevention (CDC) come as the World Health Organisation has declared the deadly Ebola outbreak in the Democratic Republic of Congo (DRC) an international health emergency",
+          "image_url": "https://th-i.thgim.com/public/incoming/3hqj1m/article70995745.ece/alternates/LANDSCAPE_1200/2026-05-18T183425Z_1449638038_RC2QBLA07G6L_RTRMADP_3_HEALTH-EBOLA.JPG",
+          "article_url": "https://www.thehindu.com/news/international/us-to-screen-for-ebola-at-airports-one-american-in-democratic-republic-of-congo-infected/article70995744.ece",
+          "published_at": "Tue, 19 May 2026 05:01:35 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtbnRrLXdpbGwt",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "NTK will go it alone in the next Lok Sabha elections: Seeman",
+          "summary": "Seeman urged his party cadre not to get disheartened by the recent Assembly election results, which saw the party’s vote share drop by 50",
+          "image_url": "https://th-i.thgim.com/public/incoming/3gjcgj/article70995363.ece/alternates/LANDSCAPE_1200/7.jpg",
+          "article_url": "https://www.thehindu.com/news/national/tamil-nadu/ntk-will-go-it-alone-in-the-next-lok-sabha-elections-seeman/article70995161.ece",
+          "published_at": "Tue, 19 May 2026 04:52:51 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUtYmFyY2Vsb25h",
+          "id": "dGhlaGluZHUtdS5zLi1leHRl",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Barcelona wins in Lewandowski's farewell, Sevilla avoids relegation despite loss to Real Madrid",
-          "summary": "Barcelona announced May 16 that the 37-year-old Lewandowski was leaving after four seasons.",
-          "image_url": "https://th-i.thgim.com/public/incoming/6xf0px/article70995728.ece/alternates/LANDSCAPE_1200/2026-05-17T221239Z_1893363590_UP1EM5H1NRZQW_RTRMADP_3_SOCCER-SPAIN-BAR-BET.JPG",
-          "article_url": "https://www.thehindu.com/sport/football/barcelona-wins-in-lewandowskis-farewell-sevilla-avoids-relegation-despite-loss-to-real-madrid/article70995727.ece",
-          "published_at": "Tue, 19 May 2026 03:21:09 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtbmV5bWFyLXBp",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Neymar picked for Brazil’s World Cup squad despite doubts on fitness",
-          "summary": "Neymar is Brazil's all-time top goal-scorer with 79 but has struggled to return to top fitness since he tore his left ACL in October 2023",
-          "image_url": "https://th-i.thgim.com/public/incoming/uyq5vt/article70995726.ece/alternates/LANDSCAPE_1200/2026-05-18T211010Z_296900015_UP1EM5I1MSXIC_RTRMADP_3_SOCCER-WORLDCUP-BRA.JPG",
-          "article_url": "https://www.thehindu.com/sport/football/neymar-picked-for-brazils-world-cup-squad-despite-doubts-on-fitness/article70995594.ece",
-          "published_at": "Tue, 19 May 2026 03:06:10 +0530",
-          "cross_sections": []
+          "title": "U.S. extends sanctions waiver on Russian seaborne oil by 30 days",
+          "summary": "The latest “temporary 30-day general license” will “provide the most vulnerable nations with the ability to temporarily access Russian oil currently stranded at sea,” Treasury Secretary Scott Bessent said in a social media post.",
+          "image_url": "https://th-i.thgim.com/public/incoming/1y83ex/article70995351.ece/alternates/LANDSCAPE_1200/2026-05-18T073720Z_411931971_RC2IBLAL5LGX_RTRMADP_3_G7-FINANCE.JPG",
+          "article_url": "https://www.thehindu.com/news/international/us-extend-sanction-waiver-on-russian-seaborne-oil/article70995346.ece",
+          "published_at": "Tue, 19 May 2026 04:13:32 +0530",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
           "id": "dGhlaGluZHUtdHdvLXN1c3Bl",
@@ -4192,37 +4221,39 @@
           "summary": "Authorities earlier said they believe multiple people have been shot at the Islamic Centre about 9 miles (14 km) north of downtown San Diego",
           "image_url": "https://th-i.thgim.com/public/incoming/n5a7d6/article70995591.ece/alternates/LANDSCAPE_1200/Islamic_Center_Shooting_19326.jpg",
           "article_url": "https://www.thehindu.com/news/international/shooting-at-san-diego-mosque-may-18-people-killed-suspects-dead/article70995584.ece",
-          "published_at": "Tue, 19 May 2026 02:59:56 +0530",
+          "published_at": "Tue, 19 May 2026 04:11:08 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtd2hvLWlzLWFi",
+          "id": "dGhlaGluZHUtay5sLi1yYWh1",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Who is Abhijeet Dipke? Inside the viral Cockroach Janta Party movement",
-          "summary": "What began as a satirical response to Chief Justice of India Surya Kant’s oral observation has grown into an online movement reflecting youth anger, political satire, and distrust in institutions",
-          "image_url": "https://th-i.thgim.com/public/life-and-style/ckvvlz/article70994540.ece/alternates/LANDSCAPE_1200/Green%20and%20White%20Modern%20Travel%20Collection%20YouTube%20Thumbnail.jpg",
-          "article_url": "https://www.thehindu.com/news/national/who-is-abhijeet-dipke-inside-the-viral-cockroach-janta-party-movement/article70994402.ece",
-          "published_at": "Tue, 19 May 2026 02:45:55 +0530",
-          "cross_sections": []
+          "title": "K.L. Rahul registers 50th fifty-plus score in IPL, 8th 500-run season; joins elite list",
+          "summary": "Rahul scored a fine 56 in 42 balls, in the match against Rajasthan Royals, with four and three sixes at a strike rate of over 133",
+          "image_url": "https://th-i.thgim.com/public/incoming/1v2mrz/article70995737.ece/alternates/LANDSCAPE_1200/PTI05_17_2026_000904A.jpg",
+          "article_url": "https://www.thehindu.com/sport/cricket/kl-rahul-registers-50th-fifty-plus-score-in-ipl-8th-500-run-season-joins-elite-list/article70995736.ece",
+          "published_at": "Tue, 19 May 2026 03:57:07 +0530",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
-          "id": "dGhlaGluZHUtbmV3LWVtYmxl",
+          "id": "dGhlaGluZHUtbW9kcmljLWlu",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "New emblem of Rajasthan Assembly reflects constitutional values, cultural identity",
-          "summary": "The emblem’s launch marked the completion of 75 years of establishment of the State Assembly",
-          "image_url": "https://th-i.thgim.com/public/news/cities/Delhi/mqedou/article70995291.ece/alternates/LANDSCAPE_1200/assembly_emblem.jpeg",
-          "article_url": "https://www.thehindu.com/news/national/rajasthan/new-emblem-of-rajasthan-assembly-reflects-constitutional-values-cultural-identity/article70994479.ece",
-          "published_at": "Tue, 19 May 2026 02:42:43 +0530",
+          "title": "Modric included in Croatia's preliminary World Cup squad after cheekbone surgery",
+          "summary": "Head coach Zlatko Dalic named a 26-man provisional squad, with seven ⁠players on standby",
+          "image_url": "https://th-i.thgim.com/public/incoming/yps6vp/article70995735.ece/alternates/LANDSCAPE_1200/2026-05-17T113516Z_959611724_UP1EM5H0W6Q6Y_RTRMADP_3_SOCCER-ITALY-GEN-MIL.JPG",
+          "article_url": "https://www.thehindu.com/sport/football/modric-included-in-croatias-preliminary-world-cup-squad-after-cheekbone-surgery/article70995734.ece",
+          "published_at": "Tue, 19 May 2026 03:45:15 +0530",
           "cross_sections": []
         },
         {
@@ -4362,6 +4393,22 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "amFwYW50aW1lcy11LnMuLWV4",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "U.S. extends sanctions waiver on Russian oil to aid vulnerable countries",
+          "summary": "The action marks the second time the Treasury has allowed the sanctions waiver to lapse and subsequently extended it.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/19/541159.JPG",
+          "article_url": "https://www.japantimes.co.jp/news/2026/05/19/world/politics/us-sanctions-waiver-russian-oil/",
+          "published_at": "Tue, 19 May 2026 07:03:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "amFwYW50aW1lcy10cnVtcC1z",
           "source_id": "japantimes",
           "source_name": "The Japan Times",
@@ -4464,20 +4511,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "amFwYW50aW1lcy10cnVtcOKA",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Trump’s troop drawdown in Germany is a warning shot",
-          "summary": "The withdrawal of U.S. forces from Germany sparks strategic questions for Europe and Asia.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/17/540603.jpg",
-          "article_url": "https://www.japantimes.co.jp/commentary/2026/05/18/world/trumps-germany-troop-drawdown/",
-          "published_at": "Mon, 18 May 2026 15:46:00 +0900",
-          "cross_sections": []
         }
       ]
     },
@@ -4487,6 +4520,34 @@
       "region": "Asia-Pacific",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "bmR0di1tZWRpY2FsLXN0dWRl",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Medical Student Stabbed To Death In Punjab: Cops",
+          "summary": "Preliminary investigations revealed that the victim was stabbed three to four times in the neck, leading to his death on the spot.",
+          "image_url": "https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+          "article_url": "https://www.ndtv.com/india-news/medical-student-stabbed-to-death-in-punjabs-patiala-cops-11514657#publisher=newsstand",
+          "published_at": "Tue, 19 May 2026 03:51:49 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "bmR0di0zLWtpbGxlZC1pbi1z",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "3 Killed In Shooting At US' San Diego Mosque, 2 Suspects Dead: Cops",
+          "summary": "The center is the largest mosque in San Diego County and includes the Al Rashid School that offers courses in Arabic language, Islamic studies and the Quran for students ages 5 and up.",
+          "image_url": "https://c.ndtvimg.com/2026-05/sg5u3tpc_-san-diego-shooting_625x300_19_May_26.jpeg",
+          "article_url": "https://www.ndtv.com/world-news/3-killed-in-shooting-at-us-san-diego-mosque-2-suspects-dead-cops-11514615#publisher=newsstand",
+          "published_at": "Tue, 19 May 2026 03:17:03 +0530",
+          "cross_sections": []
+        },
         {
           "id": "bmR0di1jdWJhLXdhcm5zLW9m",
           "source_id": "ndtv",
@@ -4582,36 +4643,6 @@
           ]
         },
         {
-          "id": "bmR0di1jZW50cmUtdGlnaHRl",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Centre Tightens Jal Jeevan Spending Rules To Curb Inflated Costs, Tender Irregularities",
-          "summary": "According to Central government sources, the aim is to reduce costs and put an end to irregularities.",
-          "image_url": "https://c.ndtvimg.com/2025-09/ht4ojlug_water-generic_625x300_14_September_25.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-          "article_url": "https://www.ndtv.com/india-news/centre-tightened-jal-jeevan-spending-rules-to-curb-inflated-costs-tender-irregularities-11514365#publisher=newsstand",
-          "published_at": "Tue, 19 May 2026 00:48:39 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di0nc2lkZWxpbmVkJy1z",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "'Sidelined' Senior Cop Gets Key Role Under Suvendu Adhikari Government",
-          "summary": "Damayanti Sen, who was leading the Park Street rape case probe, will now act as the member secretary of a committee led by retired Justice Samapti Chatterjee.",
-          "image_url": "https://c.ndtvimg.com/2026-05/suauqf58_damayanti-sen_625x300_19_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-          "article_url": "https://www.ndtv.com/india-news/sidelined-senior-cop-gets-key-role-under-suvendu-adhikari-government-11514325#publisher=newsstand",
-          "published_at": "Tue, 19 May 2026 00:28:23 +0530",
-          "cross_sections": []
-        },
-        {
           "id": "bmR0di10ZWFtLXRydW1wLWNy",
           "source_id": "ndtv",
           "source_name": "NDTV",
@@ -4641,22 +4672,6 @@
             "tech",
             "ai"
           ]
-        },
-        {
-          "id": "bmR0di11ay1jb3BzLWZpbmQt",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "UK Cops Find 90-kg Cocaine In Shipment Of Kim Kardashian's Shapewear Brand",
-          "summary": "A British court sentenced a truck driver to prison for smuggling $9.4 million worth of cocaine in the shipment.",
-          "image_url": "https://c.ndtvimg.com/2026-05/jculj8gk_cocaine_625x300_18_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-          "article_url": "https://www.ndtv.com/world-news/uk-cops-find-90-kg-cocaine-in-shipment-of-kim-kardashians-shapewear-brand-11514103#publisher=newsstand",
-          "published_at": "Mon, 18 May 2026 23:15:27 +0530",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -4666,6 +4681,34 @@
       "region": "Middle East & Africa",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "YWxqYXplZXJhLWEtcGFja2Vk",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "A packed race for governor: What to know about Oregon’s primary elections",
+          "summary": "The primaries should winnow down the nearly two dozen candidates seeking to challenge incumbent Governor Tina Kotek.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/5/18/a-packed-race-for-governor-what-to-know-about-oregons-primary-elections?traffic_source=rss",
+          "published_at": "Mon, 18 May 2026 23:23:16 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLWJyYXppbC1j",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Brazil call up Neymar to World Cup 2026 squad",
+          "summary": "Brazil's all-time leading scorer Neymar called up for World Cup 2026 as Carlo Ancelotti turns to forward for first time.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/sports/2026/5/18/brazil-call-up-neymar-to-world-cup-2026-squad?traffic_source=rss",
+          "published_at": "Mon, 18 May 2026 22:30:54 +0000",
+          "cross_sections": []
+        },
         {
           "id": "YWxqYXplZXJhLWEtcmVkaXN0",
           "source_id": "aljazeera",
@@ -4755,36 +4798,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXRydW1wLXBh",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Trump pauses possible Iran strike after Gulf intervention",
-          "summary": "US President Donald Trump has announced that he is delaying a planned attack on Iran.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/trump-pauses-possible-iran-strike-after-gulf-intervention?traffic_source=rss",
-          "published_at": "Mon, 18 May 2026 21:11:48 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLWFyc2VuYWwt",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Arsenal have one hand on Premier League title after beating Burnley",
-          "summary": "Arsenal are one win away from their first Premier League title since 2004 following a 1-0 win against Burnley.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/sports/2026/5/18/arsenal-have-one-hand-on-premier-league-title-after-beating-burnley?traffic_source=rss",
-          "published_at": "Mon, 18 May 2026 21:11:10 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -4795,113 +4808,65 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "YXJhYm5ld3MtbWFsYXlzaWEt",
+          "id": "YXJhYm5ld3MtcHV0aW4tdG8t",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Malaysia appoints new anti-graft chief",
-          "summary": "KUALA LUMPUR: Malaysia appointed on Saturday a former high court judge as the country’s new anti-graft czar to replace its outgoing chief who was dogged by allegations of abuse of power and illegal shareholding.\n\tThe appointment of Abdul Halim Aman comes as Prime Minister Anwar Ibrahim’s government ",
+          "title": "Putin to visit China May 19-20, days after Trump trip",
+          "summary": "MOSCOW: Russian President Vladimir Putin will travel to China on May 19 for a two-day visit, hot on the heels of US President Donald Trump’s trip to Beijing, the Kremlin said on Saturday.\n\tDuring the trip, the Russian leader will discuss with his Chinese counterpart Xi Jinping how to “further streng",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641214/world",
-          "published_at": "Sat, 25 Apr 2026 09:04:41 +03",
+          "article_url": "https://www.arabnews.com/node/2643779/world",
+          "published_at": "Sat, 16 May 2026 12:05:15 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtY2hpbmVzZS1w",
+          "id": "YXJhYm5ld3MtZ2F6YS1tb3Nx",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Chinese panda pair headed to US zoo",
-          "summary": "BEIJING: Two giant pandas from China are headed to Atlanta on a new 10-year conservation deal.\n\tPandas Ping Ping, a male, and Fu Shuang, a female, will live at Zoo Atlanta, China Wildlife Conservation Association said in a statement Friday.\n\tThe organization signed the research agreement with the Un",
+          "title": "Gaza mosques announce death of Hamas military leader after Israeli targeting claim",
+          "summary": "CAIRO: Mosques in northern Gaza ​on Saturday announced that Hamas’ military wing commander had died, a day ‌after Israel’s ‌military ​said ‌that ⁠it ​had targeted ⁠the armed wing chief in airstrikes.\n\tWitnesses said that mosques in ⁠Gaza City ‌had ‌announced ​Izz Al-Din ‌al-Haddad’s “martyrdom.” The",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641211/offbeat",
-          "published_at": "Sat, 25 Apr 2026 08:04:58 +03",
+          "article_url": "https://www.arabnews.com/node/2643780/middle-east",
+          "published_at": "Sat, 16 May 2026 12:05:09 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtZGVzcGl0ZS1p",
+          "id": "YXJhYm5ld3Mtc2ZkLWNvbnRp",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Despite Iran tensions, King Charles III will follow his mother’s lead in celebrating US-UK bonds",
-          "summary": "LONDON: The challenge for King Charles III as he embarks on this week’s state visit to the US is, as always, to live up to his mother’s example.\n\tThe late Queen Elizabeth II wowed Congress in 1991 with a speech that celebrated the shared democratic traditions of Britain and the United States, quoted",
+          "title": "SFD continues providing financial aid to countries amid geopolitical tensions",
+          "summary": "RIYADH: Sudan, Cameroon and Palau were among countries that have received financial support from the Saudi Fund for Development so far in 2026, as it continued its work despite growing geopolitical tensions.\n\n\tEstablished in 1974 and commenced operations in 1975, SFD has financed more than 800 devel",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641209/world",
-          "published_at": "Sat, 25 Apr 2026 08:04:24 +03",
+          "article_url": "https://www.arabnews.com/node/2643774/business-economy",
+          "published_at": "Sat, 16 May 2026 11:05:48 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtdGhyZWUta2ls",
+          "id": "YXJhYm5ld3MtaXJhcS1leHBv",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Three killed in clashes in India’s troubled northeast",
-          "summary": "NEW DELHI: Gun battles between rival ethnic groups in India’s troubled northeastern Manipur state killed three men, police said, the latest unrest in the far-flung region.\n\tManipur has seen periodic clashes for nearly three years between the predominantly Hindu Meitei majority and the mainly Christi",
+          "title": "Iraq exported 10 million barrels of oil through Strait of Hormuz in April",
+          "summary": "BAGHDAD: Iraq exported 10 million barrels of oil via the Strait of Hormuz in April, down from about 93 million barrels monthly before ​the Iran war, the country’s new oil minister, Basim Mohammed, said at a press conference on Saturday.\n\tThe closure of the Strait of Hormuz due to the Iran war has cu",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641212/world",
-          "published_at": "Sat, 25 Apr 2026 08:04:10 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3Mtc2F1ZGktYXJh",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Saudi Arabia’s events sector push on track despite disruptions, says industry veteran",
-          "summary": "RIYADH: Saudi Arabia’s push to position itself as a global events hub remains firmly on track despite geopolitical disruptions, according to one of the leading figures in the industry.\n\n\tThe US-Israel war with Iran has led to disruptions to many of the Kingdom’s flagship forums, with the Saudi Arabi",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641206/business-economy",
-          "published_at": "Sat, 25 Apr 2026 07:04:43 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtYXVzdHJhbGlh",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Australia refuses repatriation help for citizens in Syria camp",
-          "summary": "SYDNEY: Australia refused to help repatriate citizens related to suspected Daesh militants on Saturday, following a report that some Australian families are trying to return home from a camp in Syria.\n\tNational broadcaster ABC said four Australian women and nine of their children and grandchildren h",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641208/middle-east",
-          "published_at": "Sat, 25 Apr 2026 07:04:24 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtdXMtbWlsaXRh",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "US military says it struck vessel in Eastern Pacific, killing two",
-          "summary": "WASHINGTON: The US military said on Friday it struck a vessel in the Eastern Pacific, killing two people, in the latest such attack, condemned by rights groups as “extrajudicial killings” and described by Washington as targeting “narco-terrorists.”\n\tThe US Southern Command alleged that the vessel st",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641203/world",
-          "published_at": "Sat, 25 Apr 2026 06:04:49 +03",
+          "article_url": "https://www.arabnews.com/node/2643778/middle-east",
+          "published_at": "Sat, 16 May 2026 11:05:41 +03",
           "cross_sections": [
             "tech"
           ]
@@ -4913,14 +4878,62 @@
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Startup Wrap: MENA startups draw capital as AI bets continue to accelerate",
-          "summary": "RIYADH: Startups across the Middle East and North Africa saw new funding rounds over the past week, with acquisitions, and partnerships across artificial intelligence, fintech, gaming, and digital infrastructure.\n\n\tSaudi Arabia-based Signit raised $15 million in a series A round led by Raed Ventures",
+          "title": "Startup Wrap: Saudi startups dominate MENA funding week as a16z makes first GCC bet",
+          "summary": "RIYADH: Saudi Arabia emerged as this week’s main mover in startup activity across the region, with five firms announcing new funding across fintech, health tech, and business operations.\n\n\tThe largest deal in the sector from the Kingdom came from fintech Stitch, which raised $25 million in series A ",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641205/business-economy",
-          "published_at": "Sat, 25 Apr 2026 06:04:04 +03",
+          "article_url": "https://www.arabnews.com/node/2643776/business-economy",
+          "published_at": "Sat, 16 May 2026 11:05:35 +03",
           "cross_sections": [
             "tech",
             "ai"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtaXNyYWVsLXN0",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Israel strikes south Lebanon day after ceasefire extension",
+          "summary": "BEIRUT: Israel launched new airstrikes against Hezbollah in southern Lebanon on Saturday, a day after the two countries agreed to extend a truce following talks in Washington.\n\t“The IDF has begun striking Hezbollah infrastructure sites in several areas in southern Lebanon,” the Israeli military said",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2643777/middle-east",
+          "published_at": "Sat, 16 May 2026 11:05:19 +03",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtYWwtdGFhd291",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Al-Taawoun draw with Al-Riyadh, confirm AFC Champions League Two qualification",
+          "summary": "DUBAI: Al-Taawoun could only manage a 1-1 draw with Al-Riyadh on Friday night, but the result was good enough to confirm their qualification for the AFC Champions League Two next season.\n\n\tThe draw left Al-Taawoun sixth in the SPL table and two points behind outgoing champions Al-Ittihad, who have p",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2643773/sport",
+          "published_at": "Sat, 16 May 2026 11:05:08 +03",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtYXJ0aWxsZXJ5",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Artillery fire in Baghdad celebrating new govt: security source",
+          "summary": "BAGHDAD: Loud bangs heard on Saturday in the center of Baghdad were artillery being fired to celebrate the formation of the new government, a security source told AFP.\n\tThe three blasts, heard by an AFP reporter, marked the establishment of a government under newly selected Prime Minister Ali Al-Zai",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2643770/middle-east",
+          "published_at": "Sat, 16 May 2026 10:05:28 +03",
+          "cross_sections": [
+            "tech"
           ]
         }
       ]
@@ -5122,7 +5135,7 @@
         {
           "id": "nyt",
           "name": "The New York Times",
-          "count": 21
+          "count": 23
         },
         {
           "id": "cnn",
@@ -5132,7 +5145,7 @@
         {
           "id": "cnbc",
           "name": "CNBC",
-          "count": 15
+          "count": 14
         },
         {
           "id": "fox",
@@ -5149,7 +5162,7 @@
         {
           "id": "bbc",
           "name": "BBC News",
-          "count": 22
+          "count": 23
         },
         {
           "id": "guardian",
@@ -5191,7 +5204,7 @@
         {
           "id": "ndtv",
           "name": "NDTV",
-          "count": 11
+          "count": 10
         }
       ]
     },
@@ -5225,6 +5238,200 @@
       "icon": "💻",
       "articles": [
         {
+          "id": "YmJjLW1hcnJpZWQtYXQtZmly",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Married at First Sight UK brides tell BBC they were raped by on-screen husbands",
+          "summary": "Channel 4 was aware of one of the rape claims before broadcast, but the woman involved still featured in the show.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8c8/live/f72c0590-4f63-11f1-b55d-0f258dce1735.png",
+          "article_url": "https://www.bbc.com/news/articles/cp8pz1k4r2lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 18 May 2026 23:35:54 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtaXJhbi1pc3Jh",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Iran-Israel war LIVE: Trump says delaying Iran attack at request of Gulf leaders",
+          "summary": "Iran’s top security body announced on Monday, May 18, the formation of a new body to manage the Strait of Hormuz, which Tehran has effectively closed and wants to charge ships to traverse.",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/international/iran-israel-war-live-may-18-2026/article70992340.ece",
+          "published_at": "Tue, 19 May 2026 05:04:45 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdHJ1bXAtc2F5",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Trump says delaying Iran attack at request of Gulf leaders",
+          "summary": "Donald Trump said he had “further instructed them to be prepared to go forward with a full, large scale assault of Iran, on a moment’s notice, in the event that an acceptable Deal is not reached”",
+          "image_url": "https://th-i.thgim.com/public/incoming/w9jqup/article70995561.ece/alternates/LANDSCAPE_1200/Trump-Nigeria-G0NG0A4R0.3.jpg.jpg",
+          "article_url": "https://www.thehindu.com/news/international/trump-says-delaying-iran-attack-at-request-of-gulf-leaders/article70995563.ece",
+          "published_at": "Tue, 19 May 2026 05:03:41 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdS5zLi10by1z",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "U.S. to screen for Ebola at airports, one American in Democratic Republic of Congo infected",
+          "summary": "The measures shared by the U.S. Centers for Disease Control and Prevention (CDC) come as the World Health Organisation has declared the deadly Ebola outbreak in the Democratic Republic of Congo (DRC) an international health emergency",
+          "image_url": "https://th-i.thgim.com/public/incoming/3hqj1m/article70995745.ece/alternates/LANDSCAPE_1200/2026-05-18T183425Z_1449638038_RC2QBLA07G6L_RTRMADP_3_HEALTH-EBOLA.JPG",
+          "article_url": "https://www.thehindu.com/news/international/us-to-screen-for-ebola-at-airports-one-american-in-democratic-republic-of-congo-infected/article70995744.ece",
+          "published_at": "Tue, 19 May 2026 05:01:35 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dmVudHVyZWJlYXQtY29udGV4",
+          "source_id": "venturebeat",
+          "source_name": "VentureBeat",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Context architecture is replacing RAG as agentic AI pushes enterprise retrieval to its limits",
+          "summary": "Redis built its name as the caching layer that kept web applications from collapsing under load. The problem it is targeting now has the same structure but is harder to solve: production AI agents failing not because the models are wrong, but because the data underneath them is scattered, stale and ",
+          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1XDzPZJFfwFFbQO2sKS3JF/f8ddfdd76111779c860f78e5291eca38/context-layer-smk1.jpg?w=300&q=30",
+          "article_url": "https://venturebeat.com/data/context-architecture-is-replacing-rag-as-agentic-ai-pushes-enterprise-retrieval-to-its-limits",
+          "published_at": "Mon, 18 May 2026 23:17:44 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "YmJjLWV4LWJyaXRpc2gtc29s",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Ex-British soldier imprisoned by Russia says he feels abandoned in occupied Ukraine",
+          "summary": "In letters sent to the BBC from prison, Hayden Davies says he has had no contact with British authorities.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd8f/live/433cbc70-52b8-11f1-89a3-d1f559421220.jpg",
+          "article_url": "https://www.bbc.com/news/articles/cdxper4k5w1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 18 May 2026 23:09:42 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLXNhdGVsbGl0ZXMtYW5k",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Technology",
+          "title": "Satellites and AI used to track UK hedgehogs in bid to slow decline",
+          "summary": "Researchers hope the project will also help to identify barriers preventing hedgehogs from finding food and mates in the wild.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4993/live/c53b1340-52d9-11f1-a650-a94a8fc7de38.jpg",
+          "article_url": "https://www.bbc.com/news/articles/c202g60qrlpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 18 May 2026 23:04:03 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LWwuaS5yLnIuLXN0cmlr",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "L.I.R.R. Strike Could Play a Role in New York Governor’s Race",
+          "summary": "Gov. Kathy Hochul, a Democrat, is running for a second full term against the Nassau County executive, Bruce Blakeman, a Republican who has criticized her response to the labor dispute.",
+          "image_url": null,
+          "article_url": "https://www.nytimes.com/2026/05/18/nyregion/lirr-strike-hochul-blakeman-governor.html",
+          "published_at": "Mon, 18 May 2026 22:58:30 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "emRuZXQtbWljcm9zb2Z0LXN1",
+          "source_id": "zdnet",
+          "source_name": "ZDNet",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Microsoft surprises with its first server Linux distribution: Azure Linux 4.0",
+          "summary": "You'll be able to run this Linux distro on both Azure and your desktop using Windows Subsystem for Linux. Here's what we know about it so far.",
+          "image_url": null,
+          "article_url": "https://www.zdnet.com/article/microsoft-releases-its-first-server-linux-distribution-azure-linux-4-0/",
+          "published_at": "Mon, 18 May 2026 22:53:57 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iYy13aGl0ZS1ob3VzZS1h",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "White House adds generic drugs to direct-to-consumer TrumpRx site",
+          "summary": "Trump said he is increasing the number of products on the platform by nearly seven times, adding more than 600 generic drugs to the site.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/18/white-house-adds-generic-drugs-to-direct-to-consumer-trumprx-site.html",
+          "published_at": "Mon, 18 May 2026 22:53:40 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LWZpdmUtdGFrZWF3YXlz",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Five Takeaways From the Blockbuster Trial Pitting Elon Musk Against OpenAI",
+          "summary": "It took a jury less than two hours to decide that Mr. Musk had waited too long to sue. But the testimony over three weeks was still illuminating.",
+          "image_url": "https://static01.nyt.com/images/2026/05/18/multimedia/18biz-openai-trial-takeaways-1-gqtc/18biz-openai-trial-takeaways-1-gqtc-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial-takeaways.html",
+          "published_at": "Mon, 18 May 2026 22:45:53 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "Y25iY3RlY2gtaW50ZWwtY2Vv",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Intel CEO says foundry business is gaining momentum as customer interest grows",
+          "summary": "Intel CEO Lip-Bu Tan said the company’s Foundry turnaround is gaining traction.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/18/intel-ceo-says-foundry-is-gaining-momentum-as-customer-interest-grows.html",
+          "published_at": "Mon, 18 May 2026 22:44:30 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "Y25iY3RlY2gtZ29vZ2xlLWkv",
           "source_id": "cnbctech",
           "source_name": "CNBC Technology",
@@ -5235,7 +5442,7 @@
           "summary": "After a 140% stock surge and a sweeping Wall Street reset, Google’s developer conference has to prove the AI story is more than a market narrative.",
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/05/18/google-i-o-alphabet-ai-wall-street.html",
-          "published_at": "Mon, 18 May 2026 22:25:27 GMT",
+          "published_at": "Mon, 18 May 2026 22:43:41 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -5251,7 +5458,88 @@
           "summary": "After a 140% stock surge and a sweeping Wall Street reset, Google’s developer conference has to prove the AI story is more than a market narrative.",
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/05/18/google-i-o-alphabet-ai-wall-street.html",
-          "published_at": "Mon, 18 May 2026 22:25:27 GMT",
+          "published_at": "Mon, 18 May 2026 22:43:41 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdS5zLi1leHRl",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "U.S. extends sanctions waiver on Russian seaborne oil by 30 days",
+          "summary": "The latest “temporary 30-day general license” will “provide the most vulnerable nations with the ability to temporarily access Russian oil currently stranded at sea,” Treasury Secretary Scott Bessent said in a social media post.",
+          "image_url": "https://th-i.thgim.com/public/incoming/1y83ex/article70995351.ece/alternates/LANDSCAPE_1200/2026-05-18T073720Z_411931971_RC2IBLAL5LGX_RTRMADP_3_G7-FINANCE.JPG",
+          "article_url": "https://www.thehindu.com/news/international/us-extend-sanction-waiver-on-russian-seaborne-oil/article70995346.ece",
+          "published_at": "Tue, 19 May 2026 04:13:32 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdHdvLXN1c3Bl",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Two suspects in shooting at San Diego mosque dead, police source says",
+          "summary": "Authorities earlier said they believe multiple people have been shot at the Islamic Centre about 9 miles (14 km) north of downtown San Diego",
+          "image_url": "https://th-i.thgim.com/public/incoming/n5a7d6/article70995591.ece/alternates/LANDSCAPE_1200/Islamic_Center_Shooting_19326.jpg",
+          "article_url": "https://www.thehindu.com/news/international/shooting-at-san-diego-mosque-may-18-people-killed-suspects-dead/article70995584.ece",
+          "published_at": "Tue, 19 May 2026 04:11:08 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iYy10cnVtcC1zYXlzLWhl",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Trump says he's postponing 'scheduled attack of Iran tomorrow' at Middle East leaders' request",
+          "summary": "The U.S. and Iran are in a stalemate centered on the Strait of Hormuz, the global oil pathway whose closure due to the war has caused an energy supply shock.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/05/18/trump-iran-attack-saudi-uae-qatar-deal.html",
+          "published_at": "Mon, 18 May 2026 22:40:59 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Z3VhcmRpYW4tanVyeS1oYW5k",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
+          "source_category": "Newspaper",
+          "feed_label": "Business",
+          "title": "Jury hands victory to Sam Altman and OpenAI in battle with Elon Musk",
+          "summary": "OpenAI CEO and president found not liable for breaking contracts made with Musk when founding the startup\nA jury ruled in favor of Sam Altman in the culmination of a long and bitter legal battle that pitted the richest person in the world against a leader of the AI boom.\nThe federal jury in Oakland,",
+          "image_url": "https://i.guim.co.uk/img/media/e58e6018ecf5d31f073cbecec654aa2d8ffd0a7b/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=a9504195b92112a7533193b714caab5f",
+          "article_url": "https://www.theguardian.com/technology/2026/may/18/sam-altman-trial-victory-elon-musk-openai",
+          "published_at": "Mon, 18 May 2026 22:37:11 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtay5sLi1yYWh1",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "K.L. Rahul registers 50th fifty-plus score in IPL, 8th 500-run season; joins elite list",
+          "summary": "Rahul scored a fine 56 in 42 balls, in the match against Rajasthan Royals, with four and three sixes at a strike rate of over 133",
+          "image_url": "https://th-i.thgim.com/public/incoming/1v2mrz/article70995737.ece/alternates/LANDSCAPE_1200/PTI05_17_2026_000904A.jpg",
+          "article_url": "https://www.thehindu.com/sport/cricket/kl-rahul-registers-50th-fifty-plus-score-in-ipl-8th-500-run-season-joins-elite-list/article70995736.ece",
+          "published_at": "Tue, 19 May 2026 03:57:07 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5278,7 +5566,7 @@
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "Technology",
           "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
           "summary": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\"",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c706/live/03fe60e0-52ef-11f1-89a3-d1f559421220.jpg",
@@ -5340,6 +5628,22 @@
           ]
         },
         {
+          "id": "amFwYW50aW1lcy11LnMuLWV4",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "U.S. extends sanctions waiver on Russian oil to aid vulnerable countries",
+          "summary": "The action marks the second time the Treasury has allowed the sanctions waiver to lapse and subsequently extended it.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/19/541159.JPG",
+          "article_url": "https://www.japantimes.co.jp/news/2026/05/19/world/politics/us-sanctions-waiver-russian-oil/",
+          "published_at": "Tue, 19 May 2026 07:03:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "amFwYW50aW1lcy10cnVtcC1z",
           "source_id": "japantimes",
           "source_name": "The Japan Times",
@@ -5356,33 +5660,17 @@
           ]
         },
         {
-          "id": "YmJjLW1hcnJpZWQtYXQtZmly",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Married at First Sight UK brides tell BBC they were raped by on-screen husbands",
-          "summary": "Channel 4 was aware of one of the rape claims before broadcast, but the woman involved still featured in the show.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8c8/live/f72c0590-4f63-11f1-b55d-0f258dce1735.png",
-          "article_url": "https://www.bbc.com/news/articles/cp8pz1k4r2lo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 18 May 2026 22:00:11 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LWZpdmUtdGFrZWF3YXlz",
+          "id": "bnl0LWVsb24tbXVzay1sb3Nl",
           "source_id": "nyt",
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Five Takeaways From the Blockbuster Trial Pitting Elon Musk Against OpenAI",
-          "summary": "It took a jury less than two hours to decide that Mr. Musk had waited too long to sue. But the testimony over three weeks was still illuminating.",
-          "image_url": "https://static01.nyt.com/images/2026/05/18/multimedia/18biz-openai-trial-takeaways-1-gqtc/18biz-openai-trial-takeaways-1-gqtc-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial-takeaways.html",
-          "published_at": "Mon, 18 May 2026 21:59:51 +0000",
+          "title": "Elon Musk Loses His Blockbuster Case Against OpenAI",
+          "summary": "Also, a railroad strike disrupts commutes into New York City. Here’s the latest at the end of Monday.",
+          "image_url": "https://static01.nyt.com/images/2026/05/18/multimedia/18evening-nl-musk-open-ai-wptc/18evening-nl-musk-open-ai-wptc-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/05/18/briefing/elon-musk-openai-trial.html",
+          "published_at": "Mon, 18 May 2026 22:00:35 +0000",
           "cross_sections": [
             "tech",
             "ai"
@@ -5400,22 +5688,6 @@
           "image_url": null,
           "article_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/is-the-us-trying-to-force-regime-change-in-cuba?traffic_source=rss",
           "published_at": "Mon, 18 May 2026 21:57:08 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtamFpbGVkLW1w",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Jailed MP Rashid granted bail, will attend final rites of deceased father: AIP",
-          "summary": "Court directs that Rashid be accompanied by at least two police officials in plainclothes from the moment he leaves the jail until his return from Srinagar.",
-          "image_url": "https://th-i.thgim.com/public/incoming/gwy2mm/article70995729.ece/alternates/LANDSCAPE_1200/22-%20ENGINEER-RASHID-SGR-30-04-2026.JPG",
-          "article_url": "https://www.thehindu.com/news/cities/Delhi/delhi-hc-grants-interim-bail-to-engineer-rashid-to-attend-fathers-funeral/article70993825.ece",
-          "published_at": "Tue, 19 May 2026 03:26:11 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5443,7 +5715,7 @@
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
-          "feed_label": "Top Stories",
+          "feed_label": "Technology",
           "title": "After Elon Musk’s Court Loss Comes the Long Hot A.I. Summer",
           "summary": "Even as protests increase, the collapse of Mr. Musk’s suit against OpenAI and Sam Altman will speed up the artificial intelligence juggernaut.",
           "image_url": "https://static01.nyt.com/images/2026/05/18/multimedia/00biz-musk-altman-ai-hlkm/00biz-musk-altman-ai-hlkm-mediumSquareAt3X.jpg",
@@ -5466,55 +5738,6 @@
           "image_url": "https://www.cnet.com/a/img/resize/bc4791aecd0a04f3a6ec6a1e15a750ab10863cde/hub/2026/05/18/518f5506-b882-4ffa-b0d1-32e2c662e1db/apple-wwdc-2026.jpg?auto=webp&fit=crop&height=614&width=1092",
           "article_url": "https://www.cnet.com/tech/apple-ceos-tim-cooks-final-wwdc/",
           "published_at": "Mon, 18 May 2026 21:40:21 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LWVsb24tbXVzay1sb3Nl",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Elon Musk Loses $150 Billion Suit Against OpenAI and Sam Altman",
-          "summary": "A nine-member jury found that Mr. Musk had waited too long to sue. The setback for the tech mogul frees OpenAI to continue in the artificial intelligence race.",
-          "image_url": "https://static01.nyt.com/images/2026/05/18/multimedia/18biz-ai-trial-ledeall-brockamn-glbh/18biz-ai-trial-ledeall-brockamn-glbh-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/05/18/technology/elon-musk-lawsuit-openai-sam-altman.html",
-          "published_at": "Mon, 18 May 2026 21:31:32 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "Y25iYy13aGl0ZS1ob3VzZS1h",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "White House adds generic drugs to direct-to-consumer TrumpRx site",
-          "summary": "Trump said he is increasing the number of products on the platform by nearly seven times, adding more than 600 generic drugs to the site.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/18/white-house-adds-generic-drugs-to-direct-to-consumer-trumprx-site.html",
-          "published_at": "Mon, 18 May 2026 21:31:17 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtdHdvLXN1c3Bl",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Two suspects in shooting at San Diego mosque dead, police source says",
-          "summary": "Authorities earlier said they believe multiple people have been shot at the Islamic Centre about 9 miles (14 km) north of downtown San Diego",
-          "image_url": "https://th-i.thgim.com/public/incoming/n5a7d6/article70995591.ece/alternates/LANDSCAPE_1200/Islamic_Center_Shooting_19326.jpg",
-          "article_url": "https://www.thehindu.com/news/international/shooting-at-san-diego-mosque-may-18-people-killed-suspects-dead/article70995584.ece",
-          "published_at": "Tue, 19 May 2026 02:59:56 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5586,22 +5809,6 @@
           ]
         },
         {
-          "id": "YWxqYXplZXJhLWFyc2VuYWwt",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Arsenal have one hand on Premier League title after beating Burnley",
-          "summary": "Arsenal are one win away from their first Premier League title since 2004 following a 1-0 win against Burnley.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/sports/2026/5/18/arsenal-have-one-hand-on-premier-league-title-after-beating-burnley?traffic_source=rss",
-          "published_at": "Mon, 18 May 2026 21:11:10 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "dG9pLWNvbmZsaWN0LXB1c2hl",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -5667,22 +5874,6 @@
           ]
         },
         {
-          "id": "Y25iYy10cnVtcC1zYXlzLWhl",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Trump says he's postponing 'scheduled attack of Iran tomorrow' at Middle East leaders' request",
-          "summary": "The U.S. and Iran are in a stalemate centered on the Strait of Hormuz, the global oil pathway whose closure due to the war has caused an energy supply shock.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/18/trump-iran-attack-saudi-uae-qatar-deal.html",
-          "published_at": "Mon, 18 May 2026 20:42:47 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bmR0di1jdWJhLXdhcm5zLW9m",
           "source_id": "ndtv",
           "source_name": "NDTV",
@@ -5696,184 +5887,6 @@
           "published_at": "Tue, 19 May 2026 02:05:45 +0530",
           "cross_sections": [
             "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtdHJ1bXA6LWkt",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "News",
-          "title": "Trump: I called off attack on Iran planned for Tuesday",
-          "summary": "The US president said he had been asked to do so by the leaders of Qatar, Saudi Arabia and the United Arab Emirates as \"serious negotiations are now taking place.\"",
-          "image_url": "https://images.euronews.com/articles/stories/09/76/32/19/696x392_cmsv2_0472bec9-93b4-5072-a730-f29046f3dd10-9763219.jpg",
-          "article_url": "http://www.euronews.com/2026/05/18/trump-i-called-off-attack-on-iran-planned-for-tuesday",
-          "published_at": "Mon, 18 May 2026 22:34:16 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtYWVyaWFsLWZv",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "News",
-          "title": "Aerial footage captures police surrounding San Diego Islamic center after shooting reports",
-          "summary": "Aerial footage showed a large police and emergency response outside the Islamic Center of San Diego after reports of an active shooter on Monday. Authorities said multiple law enforcement units surrounded the area, while heavily armed officers were seen positioned around the mosque complex.",
-          "image_url": "https://images.euronews.com/articles/stories/09/76/32/24/696x392_cmsv2_cb30c266-e40e-5b99-99d0-2a4209ce0a99-9763224.jpg",
-          "article_url": "http://www.euronews.com/video/2026/05/18/aerial-footage-captures-police-surrounding-san-diego-islamic-center-after-shooting-reports",
-          "published_at": "Mon, 18 May 2026 22:31:37 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtbGVnYWwt",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Legal fail: Don’t use AI to sue Facebook users for calling you a bad date",
-          "summary": "Fake citations dashed a dude’s “Are We Dating the Same Guy” revenge lawsuit.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1126690759-1152x648-1779132662.jpg",
-          "article_url": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
-          "published_at": "Mon, 18 May 2026 20:27:15 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1tZXRhLXBsYW5zLW1h",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Meta Plans May 20 Layoffs, To Cut 10% Of Its Global Workforce",
-          "summary": "As part of that, the company plans to move 7,000 employees to new initiatives related to AI workflows and to eliminate managerial roles, she said.",
-          "image_url": "https://c.ndtvimg.com/2026-05/7qgmqcjc_meta-layoff_625x300_19_May_26.jpeg",
-          "article_url": "https://www.ndtv.com/world-news/meta-plans-may-20-layoffs-to-cut-10-of-its-global-workforce-11514485#publisher=newsstand",
-          "published_at": "Tue, 19 May 2026 01:53:45 +0530",
-          "cross_sections": [
-            "tech",
-            "jobcuts"
-          ]
-        },
-        {
-          "id": "dG9pLXNjLWJlbmNoLXNsYW1z",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "SC bench slams own court ruling denying bail to Umar",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/sc-bench-slams-own-court-ruling-denying-bail-to-umar/articleshow/131185665.cms",
-          "published_at": "Tue, 19 May 2026 01:50:29 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iY3RlY2gtc2VhZ2F0ZS1s",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Seagate leads memory sell-off as CEO says it would 'take too long' to build new factories",
-          "summary": "Seagate CEO Dave Mosley's comment sent shares sinking, along with those of Micron, SanDisk and Western Digital.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/18/seagate-memory-chip-stocks-ai.html",
-          "published_at": "Mon, 18 May 2026 20:18:03 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy1zZWFnYXRlLWxlYWRz",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Seagate leads memory sell-off as CEO says it would 'take too long' to build new factories",
-          "summary": "Seagate CEO Dave Mosley's comment sent shares sinking, along with those of Micron, SanDisk and Western Digital.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/18/seagate-memory-chip-stocks-ai.html",
-          "published_at": "Mon, 18 May 2026 20:18:03 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "emRuZXQtY2xvdWQtYXR0YWNr",
-          "source_id": "zdnet",
-          "source_name": "ZDNet",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Cloud attacks are getting faster and deadlier - 4 ways to secure your business",
-          "summary": "Google's latest threat report warns that third-party tools are now prime targets for attackers - and businesses have only days to prepare defenses.",
-          "image_url": null,
-          "article_url": "https://www.zdnet.com/article/google-cloud-threat-report-third-party-software-ai-attacks/",
-          "published_at": "Mon, 18 May 2026 20:13:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "emRuZXQtNS13YXlzLXRvLWZv",
-          "source_id": "zdnet",
-          "source_name": "ZDNet",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "5 ways to fortify your network against the new speed of AI attacks",
-          "summary": "As attackers get more sophisticated and persistent, IT workers have to step up their game as well. Here's how to do that in 2026.",
-          "image_url": null,
-          "article_url": "https://www.zdnet.com/article/5-ways-to-fortify-your-network-against-ai-attacks/",
-          "published_at": "Mon, 18 May 2026 20:07:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LWVib2xhLXdhcy1pZGVu",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Ebola Was Identified in Congo Weeks Before W.H.O. Declared an Emergency",
-          "summary": "Early surveillance and testing failed to identify the rare species of Ebola responsible for the current outbreak. An American doctor is among the confirmed cases.",
-          "image_url": "https://static01.nyt.com/images/2026/05/18/multimedia/18int-congo-ebola-1-kgbm/18int-congo-ebola-1-kgbm-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/05/18/world/africa/congo-ebola-testing.html",
-          "published_at": "Mon, 18 May 2026 20:05:11 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1rZXktbW9tZW50cy1p",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Key Moments In Elon Musk Vs OpenAI Trial",
-          "summary": "The jury decided Musk waited too long to sue. Musk had sought about $150 billion in damages from OpenAI and Microsoft, a major investor, to be paid to OpenAI's nonprofit. Musk also sought the removal of Altman and Brockman.",
-          "image_url": "https://c.ndtvimg.com/2026-05/ccsive3g_elon-musk_625x300_19_May_26.jpeg",
-          "article_url": "https://www.ndtv.com/world-news/key-moments-in-elon-musk-vs-openai-trial-11514454#publisher=newsstand",
-          "published_at": "Tue, 19 May 2026 01:33:23 +0530",
-          "cross_sections": [
-            "tech",
-            "ai"
           ]
         }
       ]
@@ -5934,23 +5947,6 @@
           ]
         },
         {
-          "id": "Y25iYy1tZXRhLWxheW9mZnMt",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Meta layoffs starting this week stress harsh AI reality inside Zuckerberg’s company",
-          "summary": "Meta is starting layoffs this week, with 8,000 jobs expected to be cut, as employees brace for a new era of AI.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/05/18/metas-layoffs-starting-this-week-underscore-zuckerbergs-ai-reality-.html",
-          "published_at": "Mon, 18 May 2026 16:33:26 GMT",
-          "cross_sections": [
-            "tech",
-            "jobcuts"
-          ]
-        },
-        {
           "id": "Y25iYy1haS1yZWxhdGVkLWxh",
           "source_id": "cnbc",
           "source_name": "CNBC",
@@ -5993,12 +5989,63 @@
       "icon": "🤖",
       "articles": [
         {
+          "id": "dmVudHVyZWJlYXQtY29udGV4",
+          "source_id": "venturebeat",
+          "source_name": "VentureBeat",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Context architecture is replacing RAG as agentic AI pushes enterprise retrieval to its limits",
+          "summary": "Redis built its name as the caching layer that kept web applications from collapsing under load. The problem it is targeting now has the same structure but is harder to solve: production AI agents failing not because the models are wrong, but because the data underneath them is scattered, stale and ",
+          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1XDzPZJFfwFFbQO2sKS3JF/f8ddfdd76111779c860f78e5291eca38/context-layer-smk1.jpg?w=300&q=30",
+          "article_url": "https://venturebeat.com/data/context-architecture-is-replacing-rag-as-agentic-ai-pushes-enterprise-retrieval-to-its-limits",
+          "published_at": "Mon, 18 May 2026 23:17:44 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "bnl0LWZpdmUtdGFrZWF3YXlz",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Five Takeaways From the Blockbuster Trial Pitting Elon Musk Against OpenAI",
+          "summary": "It took a jury less than two hours to decide that Mr. Musk had waited too long to sue. But the testimony over three weeks was still illuminating.",
+          "image_url": "https://static01.nyt.com/images/2026/05/18/multimedia/18biz-openai-trial-takeaways-1-gqtc/18biz-openai-trial-takeaways-1-gqtc-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial-takeaways.html",
+          "published_at": "Mon, 18 May 2026 22:45:53 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "Z3VhcmRpYW4tanVyeS1oYW5k",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
+          "source_category": "Newspaper",
+          "feed_label": "Business",
+          "title": "Jury hands victory to Sam Altman and OpenAI in battle with Elon Musk",
+          "summary": "OpenAI CEO and president found not liable for breaking contracts made with Musk when founding the startup\nA jury ruled in favor of Sam Altman in the culmination of a long and bitter legal battle that pitted the richest person in the world against a leader of the AI boom.\nThe federal jury in Oakland,",
+          "image_url": "https://i.guim.co.uk/img/media/e58e6018ecf5d31f073cbecec654aa2d8ffd0a7b/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=a9504195b92112a7533193b714caab5f",
+          "article_url": "https://www.theguardian.com/technology/2026/may/18/sam-altman-trial-victory-elon-musk-openai",
+          "published_at": "Mon, 18 May 2026 22:37:11 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "YmJjLW11c2stbG9zZXMtb3Bl",
           "source_id": "bbc",
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "Technology",
           "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
           "summary": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\"",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c706/live/03fe60e0-52ef-11f1-89a3-d1f559421220.jpg",
@@ -6044,17 +6091,17 @@
           ]
         },
         {
-          "id": "bnl0LWZpdmUtdGFrZWF3YXlz",
+          "id": "bnl0LWVsb24tbXVzay1sb3Nl",
           "source_id": "nyt",
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Five Takeaways From the Blockbuster Trial Pitting Elon Musk Against OpenAI",
-          "summary": "It took a jury less than two hours to decide that Mr. Musk had waited too long to sue. But the testimony over three weeks was still illuminating.",
-          "image_url": "https://static01.nyt.com/images/2026/05/18/multimedia/18biz-openai-trial-takeaways-1-gqtc/18biz-openai-trial-takeaways-1-gqtc-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial-takeaways.html",
-          "published_at": "Mon, 18 May 2026 21:59:51 +0000",
+          "title": "Elon Musk Loses His Blockbuster Case Against OpenAI",
+          "summary": "Also, a railroad strike disrupts commutes into New York City. Here’s the latest at the end of Monday.",
+          "image_url": "https://static01.nyt.com/images/2026/05/18/multimedia/18evening-nl-musk-open-ai-wptc/18evening-nl-musk-open-ai-wptc-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/05/18/briefing/elon-musk-openai-trial.html",
+          "published_at": "Mon, 18 May 2026 22:00:35 +0000",
           "cross_sections": [
             "tech",
             "ai"
@@ -6083,29 +6130,12 @@
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
-          "feed_label": "Top Stories",
+          "feed_label": "Technology",
           "title": "After Elon Musk’s Court Loss Comes the Long Hot A.I. Summer",
           "summary": "Even as protests increase, the collapse of Mr. Musk’s suit against OpenAI and Sam Altman will speed up the artificial intelligence juggernaut.",
           "image_url": "https://static01.nyt.com/images/2026/05/18/multimedia/00biz-musk-altman-ai-hlkm/00biz-musk-altman-ai-hlkm-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html",
           "published_at": "Mon, 18 May 2026 21:53:29 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "bnl0LWVsb24tbXVzay1sb3Nl",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Elon Musk Loses $150 Billion Suit Against OpenAI and Sam Altman",
-          "summary": "A nine-member jury found that Mr. Musk had waited too long to sue. The setback for the tech mogul frees OpenAI to continue in the artificial intelligence race.",
-          "image_url": "https://static01.nyt.com/images/2026/05/18/multimedia/18biz-ai-trial-ledeall-brockamn-glbh/18biz-ai-trial-ledeall-brockamn-glbh-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/05/18/technology/elon-musk-lawsuit-openai-sam-altman.html",
-          "published_at": "Mon, 18 May 2026 21:31:32 +0000",
           "cross_sections": [
             "tech",
             "ai"
@@ -6180,23 +6210,6 @@
           ]
         },
         {
-          "id": "Z3VhcmRpYW4tanVyeS1oYW5k",
-          "source_id": "guardian",
-          "source_name": "The Guardian",
-          "source_region": "Europe",
-          "source_category": "Newspaper",
-          "feed_label": "Business",
-          "title": "Jury hands victory to Sam Altman and OpenAI in battle with Elon Musk",
-          "summary": "OpenAI CEO and president found not liable for breaking contracts made with Musk when founding the startup\nA jury ruled in favor of Sam Altman in the culmination of a long and bitter legal battle that pitted the richest person in the world against a leader of the AI boom.\nThe federal jury in Oakland,",
-          "image_url": "https://i.guim.co.uk/img/media/e58e6018ecf5d31f073cbecec654aa2d8ffd0a7b/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=a9504195b92112a7533193b714caab5f",
-          "article_url": "https://www.theguardian.com/technology/2026/may/18/sam-altman-trial-victory-elon-musk-openai",
-          "published_at": "Mon, 18 May 2026 19:51:55 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "bnl0LXdoYXQtdG8ta25vdy1h",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -6225,6 +6238,23 @@
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
           "published_at": "Mon, 18 May 2026 19:27:52 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "Z3VhcmRpYW4tcG9wZS1sZW8t",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Pope Leo to issue text on human dignity and AI with Anthropic co-founder",
+          "summary": "The pope’s encyclical will address ‘the protection of the human person in the age of AI’, the Vatican says\nIn the first major text of his papacy, Pope Leo will address the rapid rise of artificial intelligence.\nThe Chicago-born pontiff will present the document, known as an encyclical, at the Vatica",
+          "image_url": "https://i.guim.co.uk/img/media/42f5cad5cee9f4d32463f11d0daff3c629611625/4_0_3543_2835/master/3543.jpg?width=140&quality=85&auto=format&fit=max&s=dd872168b039588c82c35afe0610522d",
+          "article_url": "https://www.theguardian.com/world/2026/may/18/pope-leo-encyclical-human-dignity-ai-anthropic",
+          "published_at": "Mon, 18 May 2026 19:22:44 GMT",
           "cross_sections": [
             "tech",
             "ai"
@@ -6536,6 +6566,23 @@
           ]
         },
         {
+          "id": "YXJhYm5ld3Mtc3RhcnR1cC13",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Startup Wrap: Saudi startups dominate MENA funding week as a16z makes first GCC bet",
+          "summary": "RIYADH: Saudi Arabia emerged as this week’s main mover in startup activity across the region, with five firms announcing new funding across fintech, health tech, and business operations.\n\n\tThe largest deal in the sector from the Kingdom came from fintech Stitch, which raised $25 million in series A ",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2643776/business-economy",
+          "published_at": "Sat, 16 May 2026 11:05:35 +03",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "dmVudHVyZWJlYXQtaW50ZXJj",
           "source_id": "venturebeat",
           "source_name": "VentureBeat",
@@ -6547,23 +6594,6 @@
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/10I7GZFZUePTddNj8ASkQA/6377bab1d1c7f5e7bfeed8c047ac2588/Nuneybits_Vector_art_of_a_back-office_maze_navigated_by_an_AI_o_f7f13274-2bb1-4557-bc50-34a00548ce56.webp?w=300&q=30",
           "article_url": "https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent",
           "published_at": "Fri, 15 May 2026 21:06:09 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "dmVudHVyZWJlYXQtY2xhdWRl",
-          "source_id": "venturebeat",
-          "source_name": "VentureBeat",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Claude’s next enterprise battle is not models: it’s the agent control plane",
-          "summary": "New VB Pulse data shows Microsoft and OpenAI leading enterprise agent orchestration, but Anthropic’s first measurable foothold points to a larger fight over who controls the infrastructure where AI agents run.\nFor the last two years, the enterprise AI race has mostly been framed as a model war: Open",
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/QIFFk030xew6nEvO7DFQB/2e91ff2cbababc24cd63134f601983a0/ChatGPT_Image_May_15__2026__09_09_07_AM.png?w=300&q=30",
-          "article_url": "https://venturebeat.com/orchestration/claudes-next-enterprise-battle-is-not-models-its-the-agent-control-plane",
-          "published_at": "Fri, 15 May 2026 16:45:00 GMT",
           "cross_sections": [
             "tech",
             "ai"
@@ -6605,40 +6635,6 @@
           ]
         },
         {
-          "id": "YmJjLWFpLWNvdWxkLXB1dC1w",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Technology",
-          "title": "AI could put people off tech jobs and hurt the economy, warns Raspberry Pi boss",
-          "summary": "Eben Upton warns against claims that Artificial Intelligence will destroy vast numbers of computing roles over the coming years.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b124/live/7a8cb440-4fc1-11f1-b651-41ca043d3d3f.jpg",
-          "article_url": "https://www.bbc.com/news/articles/clypr8p2lewo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 14 May 2026 23:01:20 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3Mtc3RhcnR1cC13",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Startup Wrap: MENA startups draw capital as AI bets continue to accelerate",
-          "summary": "RIYADH: Startups across the Middle East and North Africa saw new funding rounds over the past week, with acquisitions, and partnerships across artificial intelligence, fintech, gaming, and digital infrastructure.\n\n\tSaudi Arabia-based Signit raised $15 million in a series A round led by Raed Ventures",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641205/business-economy",
-          "published_at": "Sat, 25 Apr 2026 06:04:04 +03",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "dG9pLWNoYXRncHQtd2FzLWRv",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -6659,7 +6655,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 10839,
+    "build_ms": 11089,
     "ai_enabled": true
   }
 }
