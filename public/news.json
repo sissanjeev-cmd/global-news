@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-25T19:21:09.290Z",
-  "total_articles": 312,
-  "new_this_run": 42,
+  "last_updated": "2026-05-25T20:47:10.221Z",
+  "total_articles": 314,
+  "new_this_run": 31,
   "sources": [
     {
       "id": "techcrunch",
@@ -637,6 +637,22 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "Y25ldC1pJ3ZlLWdvdC10aGUt",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "I've Got the Hottest Remaining Memorial Day Deals Worth Your Time and Money",
+          "summary": "Memorial Day is nearing an end so now is the time to shop for any big-ticket items you've been putting off buying. From TVs to grills to mattresses, we've got you covered.",
+          "image_url": "https://www.cnet.com/a/img/resize/6726d17b363a4ba6b2ca644b74764382769c3809/hub/2026/05/21/1f8e459a-4cb4-4c08-9aa0-23f56a13a640/memorial-day-liveblog.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "article_url": "https://www.cnet.com/news-live/memorial-day-sales-live-blog-2026/",
+          "published_at": "Mon, 25 May 2026 19:22:37 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "Y25ldC13ZSdyZS1maW5hbGx5",
           "source_id": "cnet",
           "source_name": "CNET",
@@ -648,20 +664,6 @@
           "image_url": "https://www.cnet.com/a/img/resize/ccd2b70b7db5f8c17ebaaeb9d68690002c1c17ee/hub/2026/05/22/bb22b208-d37d-489c-aab6-50834fb56de5/p1044031.jpg?auto=webp&fit=crop&height=614&width=1092",
           "article_url": "https://www.cnet.com/news-live/t1-trump-mobile-phone-review/",
           "published_at": "Mon, 25 May 2026 17:43:05 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "Y25ldC13aGljaC1tZW1vcmlh",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Which Memorial Day Sales Are Worth Your Time? I've Gathered the Best Deals Right Here",
-          "summary": "Memorial Day is a great time to shop for those big-ticket items you've been putting off buying. From TVs to grills, we've got you covered.",
-          "image_url": "https://www.cnet.com/a/img/resize/6726d17b363a4ba6b2ca644b74764382769c3809/hub/2026/05/21/1f8e459a-4cb4-4c08-9aa0-23f56a13a640/memorial-day-liveblog.jpg?auto=webp&fit=crop&height=614&width=1092",
-          "article_url": "https://www.cnet.com/news-live/memorial-day-sales-live-blog-2026/",
-          "published_at": "Mon, 25 May 2026 17:18:20 +0000",
           "cross_sections": []
         },
         {
@@ -763,6 +765,22 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "dmVudHVyZWJlYXQtd2h5LXBy",
+          "source_id": "venturebeat",
+          "source_name": "VentureBeat",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Why prompt debt, retrieval debt, and evaluation debt are quietly reshaping enterprise AI risk",
+          "summary": "Over the past two decades, technical debt meant outdated architecture, messy code, and poorly maintained documentation. That definition is no longer sufficient in the AI era, where failure modes are more subtle and often non-linear. AI systems are introducing new layers of technical debt that live a",
+          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5EPGNjSfIxe7zELYT7IVMw/798975854f7bad614de18713c7462cb0/Technical_debt.png?w=300&q=30",
+          "article_url": "https://venturebeat.com/technology/why-prompt-debt-retrieval-debt-and-evaluation-debt-are-quietly-reshaping-enterprise-ai-risk",
+          "published_at": "Mon, 25 May 2026 19:30:18 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dmVudHVyZWJlYXQtYWktYWdl",
           "source_id": "venturebeat",
           "source_name": "VentureBeat",
@@ -858,23 +876,6 @@
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/18dBj7HcLZwtY4fwX3tJuY/5d3ca8dcb2012b957d9305ef38f8497f/lightweight_llm_memory_adapter.jpg?w=300&q=30",
           "article_url": "https://venturebeat.com/orchestration/a-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag-cant",
           "published_at": "Thu, 21 May 2026 19:00:22 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "dmVudHVyZWJlYXQtZW50ZXJw",
-          "source_id": "venturebeat",
-          "source_name": "VentureBeat",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Enterprise AI agents keep failing because they forget what they learned",
-          "summary": "RAG architectures are good at one thing: surfacing semantically relevant documents. That's also where they stop.\nA framework called a decision context graph addresses that gap by giving agents structured memory, time-aware reasoning, and explicit decision logic. Rippletide, a startup in the Neo4j ec",
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/XxEoqdkwC8dR16yuLD73f/b5b23fc19b843586548b74783aea01e6/u7277289442_An_AI_agent_is_sitting_at_a_desk._The_desk_is_cov_75a9078a-ea3d-421e-bf5d-23a650aab330_0.png?w=300&q=30",
-          "article_url": "https://venturebeat.com/orchestration/enterprise-ai-agents-keep-failing-because-they-forget-what-they-learned",
-          "published_at": "Thu, 21 May 2026 18:43:00 GMT",
           "cross_sections": [
             "tech",
             "ai"
@@ -1138,6 +1139,22 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "aW5jNDItYWZ0ZXItZmFjaW5n",
+          "source_id": "inc42",
+          "source_name": "Inc42",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "After Facing FIRs For Allegedly Blocking User Funds, MobiKwik Claims 90% Repayment",
+          "summary": "Days after FIRs were filed against fintech firms MobiKwik and Lendbox for allegedly blocking customer withdrawals on P2P lending platform…",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/Mobikwik-Business-ftr.jpg",
+          "article_url": "https://inc42.com/buzz/after-facing-firs-for-allegedly-blocking-user-funds-mobikwik-claims-90-repayment/",
+          "published_at": "Mon, 25 May 2026 20:30:39 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "aW5jNDItcGF5dG0tdG8taW52",
           "source_id": "inc42",
           "source_name": "Inc42",
@@ -1240,20 +1257,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "aW5jNDItZDJjLWpld2VsbGVy",
-          "source_id": "inc42",
-          "source_name": "Inc42",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "D2C Jewellery Brand GIVA Ropes In Actor Kriti Sanon As Investor",
-          "summary": "D2C jewellery brand GIVA has roped in Bollywood actor and Hyphen cofounder Kriti Sanon as its brand ambassador and investor.…",
-          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/ftr-10.jpg",
-          "article_url": "https://inc42.com/buzz/d2c-jewellery-brand-giva-ropes-in-actor-kriti-sanon-as-investor/",
-          "published_at": "Mon, 25 May 2026 08:14:47 +0000",
-          "cross_sections": []
         }
       ]
     },
@@ -1274,7 +1277,7 @@
           "summary": "Top Iranian officials arrived in Doha. President Trump gave conflicting signals over how much progress had been made. Prime Minister Benjamin Netanyahu said Israel intends to intensify attacks against Hezbollah, Iran’s ally, in Lebanon.",
           "image_url": "https://static01.nyt.com/images/2026/05/25/multimedia/-25mideast-promo-0945EST/25mideast-header--glfc-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/live/2026/05/25/world/iran-war-trump",
-          "published_at": "Mon, 25 May 2026 18:57:24 +0000",
+          "published_at": "Mon, 25 May 2026 20:00:49 +0000",
           "cross_sections": []
         },
         {
@@ -1288,7 +1291,7 @@
           "summary": "The Canadian prime minister, who was the governor of the Bank of England when Britain voted to leave the European Union, said the Alberta referendum on separating from Canada could backfire.",
           "image_url": "https://static01.nyt.com/images/2026/05/25/multimedia/25int-carney-alberta-brexit-photo-qmbz/25int-carney-alberta-brexit-photo-qmbz-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/05/25/world/canada/mark-carney-alberta-referendum-brexit.html",
-          "published_at": "Mon, 25 May 2026 18:56:56 +0000",
+          "published_at": "Mon, 25 May 2026 19:33:36 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -1623,7 +1626,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-05-25T19:20:59.900Z",
+          "published_at": "2026-05-25T20:47:01.430Z",
           "cross_sections": []
         },
         {
@@ -1637,7 +1640,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-05-25T19:20:59.900Z",
+          "published_at": "2026-05-25T20:47:01.430Z",
           "cross_sections": []
         },
         {
@@ -1651,7 +1654,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-05-25T19:20:59.900Z",
+          "published_at": "2026-05-25T20:47:01.430Z",
           "cross_sections": []
         },
         {
@@ -2199,6 +2202,22 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "Zm94LWlyYW4tc2lnbmFscy3i",
+          "source_id": "fox",
+          "source_name": "Fox News",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Iran signals ‘mass sacrifice’ in 'high stakes' Saddam-era warning amid Trump deal talks",
+          "summary": "Expert says Iran's Pezeshkian mapped a foundational wartime symbol onto current U.S. and Israel tensions, signaling Tehran won't back down easily.",
+          "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/iran-president-trump.jpg?ve=1&tl=1",
+          "article_url": "https://www.foxnews.com/world/iran-signals-mass-sacrifice-high-stakes-saddam-era-warning-amid-trump-deal-talks",
+          "published_at": "Mon, 25 May 2026 16:11:19 -0400",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "Zm94LXdoeS1zY2FtbWVycy10",
           "source_id": "fox",
           "source_name": "Fox News",
@@ -2400,22 +2419,6 @@
           ]
         },
         {
-          "id": "Zm94LWNoaW5hLWRlcGxveWVk",
-          "source_id": "fox",
-          "source_name": "Fox News",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "China deployed over 100 vessels near Taiwan in the wake of Trump-Xi summit, Taiwan security official claims",
-          "summary": "China deployed over 100 vessels around Taiwan after the Trump-Xi Beijing summit, Taiwan National Security Council Secretary General Joseph Wu says.",
-          "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/06/931/523/Chinese-ship-crosses-American-destroyer.jpg?ve=1&tl=1",
-          "article_url": "https://www.foxnews.com/world/china-deployed-100-vessels-near-taiwan-wake-trump-xi-summit-taiwan-security-official-claims",
-          "published_at": "Sat, 23 May 2026 14:38:26 -0400",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "Zm94LWluaGVyaXRhbmNlLXNj",
           "source_id": "fox",
           "source_name": "Fox News",
@@ -2457,17 +2460,33 @@
       "category": "Broadcaster",
       "articles": [
         {
-          "id": "YmJjLXdvbWFuLWRpZXMtYWZ0",
+          "id": "YmJjLW5ldGFueWFodS1zYXlz",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
+          "summary": "The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d385/live/20d8eb10-5879-11f1-8b8c-6d33e1d5abb6.jpg",
+          "article_url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 25 May 2026 20:40:15 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLWhvdHRlc3QtbWF5LWRh",
           "source_id": "bbc",
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "Top Stories",
-          "title": "Woman dies after being shot outside Sheffield bar",
-          "summary": "Three people are in custody after the 30-year-old was found with serious injuries early on Monday.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a351/live/c4f72070-583f-11f1-9fcc-95002e18ab8a.jpg",
-          "article_url": "https://www.bbc.com/news/articles/c2022lwyex1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 25 May 2026 18:56:01 GMT",
+          "title": "Hottest May day on record in UK as temperatures pass 34C",
+          "summary": "It comes after the UK recorded its warmest May night on Sunday when temperatures reached 19.4C.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8c0/live/7f706ad0-5839-11f1-9fcc-95002e18ab8a.jpg",
+          "article_url": "https://www.bbc.com/news/articles/c8xwwpkrgj1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 25 May 2026 20:17:53 GMT",
           "cross_sections": []
         },
         {
@@ -2479,9 +2498,37 @@
           "feed_label": "Top Stories",
           "title": "Eight spectators and rider hurt at TT practice",
           "summary": "Eight spectators and a rider are receiving hospital treatment after the crash at Parliament Square.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf65/live/2960b4d0-5869-11f1-be4e-d7a885f34348.jpg",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b21c/live/0b0777a0-5876-11f1-a538-954f58f0e8c5.jpg",
           "article_url": "https://www.bbc.com/news/articles/cgqpp931kleo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 25 May 2026 18:41:48 GMT",
+          "published_at": "Mon, 25 May 2026 20:15:54 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLXBvcnRhYmxlLWNoYXJn",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Portable charger problems on flights 'on the rise', watchdog warns",
+          "summary": "The CAA says 'more awareness' of the fire risks is needed and asks passengers to 'do the right thing'.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d9f/live/ecd87c60-584e-11f1-b6a1-db861d027140.jpg",
+          "article_url": "https://www.bbc.com/news/articles/c4g009zq4neo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 25 May 2026 19:37:37 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLXdvbWFuLWRpZXMtYWZ0",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Woman dies after being shot outside Sheffield bar",
+          "summary": "Three people are in custody after the 30-year-old was found with serious injuries early on Monday.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a351/live/c4f72070-583f-11f1-9fcc-95002e18ab8a.jpg",
+          "article_url": "https://www.bbc.com/news/articles/c2022lwyex1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 25 May 2026 18:56:01 GMT",
           "cross_sections": []
         },
         {
@@ -2501,34 +2548,6 @@
           ]
         },
         {
-          "id": "YmJjLWhvdHRlc3QtbWF5LWRh",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Hottest May day on record in UK as temperatures pass 34C",
-          "summary": "It comes after the UK recorded its warmest May night on Sunday when temperatures reached 19.4C.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8c0/live/7f706ad0-5839-11f1-9fcc-95002e18ab8a.jpg",
-          "article_url": "https://www.bbc.com/news/articles/c8xwwpkrgj1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 25 May 2026 17:20:10 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "YmJjLXBvcnRhYmxlLWNoYXJn",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Portable charger problems on flights 'on the rise', watchdog warns",
-          "summary": "The CAA says 'more awareness' of the fire risks is needed and asks passengers to 'do the right thing'.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d9f/live/ecd87c60-584e-11f1-b6a1-db861d027140.jpg",
-          "article_url": "https://www.bbc.com/news/articles/c4g009zq4neo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 25 May 2026 16:32:12 GMT",
-          "cross_sections": []
-        },
-        {
           "id": "YmJjLXdoaXRlLWhvdXNlLWd1",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2540,20 +2559,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c0d/live/6930aff0-585c-11f1-89a3-d1f559421220.jpg",
           "article_url": "https://www.bbc.com/news/articles/c1l22pg12mpo?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 25 May 2026 15:45:27 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "YmJjLSdibGlzdGVyaW5nLWhl",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "'Blistering heat': Indians warned to stay indoors as temperatures soar",
-          "summary": "The BBC's Sumedha Pal described how difficult it was to be standing in the streets of Delhi as temperatures rose to 45C .",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b0b/live/34541340-584c-11f1-8b8c-6d33e1d5abb6.jpg",
-          "article_url": "https://www.bbc.com/news/videos/ckgppxw9239o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 25 May 2026 15:17:10 GMT",
           "cross_sections": []
         },
         {
@@ -2837,6 +2842,20 @@
           "cross_sections": []
         },
         {
+          "id": "Z3VhcmRpYW4tb2lsLXByaWNl",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
+          "source_category": "Newspaper",
+          "feed_label": "Business",
+          "title": "Oil prices fall below $100 a barrel on hopes of Iran peace deal",
+          "summary": "Brent crude futures down 6% to lowest level in two weeks and stock markets rise\nOil prices fell below $100 a barrel on Monday and stock markets rose on hopes that the US and Iran are inching closer to a peace deal.\nBrent crude futures, the global oil benchmark, were down 6% to $97.43 a barrel, the l",
+          "image_url": "https://i.guim.co.uk/img/media/8f6482b2e98c5a232833cfe92228e0c1bf316462/230_0_2503_2003/master/2503.jpg?width=140&quality=85&auto=format&fit=max&s=cf3be75c46fb5bed41cd07011abe4667",
+          "article_url": "https://www.theguardian.com/business/2026/may/25/oil-prices-fall-below-100-dollars-a-barrel-iran",
+          "published_at": "Mon, 25 May 2026 16:05:41 GMT",
+          "cross_sections": []
+        },
+        {
           "id": "Z3VhcmRpYW4tZGVsaXZlcnkt",
           "source_id": "guardian",
           "source_name": "The Guardian",
@@ -3071,20 +3090,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "Z3VhcmRpYW4tZXZlbi1pZi10",
-          "source_id": "guardian",
-          "source_name": "The Guardian",
-          "source_region": "Europe",
-          "source_category": "Newspaper",
-          "feed_label": "Business",
-          "title": "Even if the Iran war ended today, US fuel prices aren’t likely to normalize this year",
-          "summary": "Prewar US gas prices averaged about $3 a gallon nationally – kiss that number goodbye for 2026\nSorry, US drivers, but don’t expect pump prices to return to prewar levels any time soon, even if the US and Iran agree to a lasting peace deal tomorrow.\nAs the war with Iran enters its third month, driver",
-          "image_url": "https://i.guim.co.uk/img/media/28c058bb83612c6bd10734e45f77f927adc5dd1e/339_0_3321_2656/master/3321.jpg?width=140&quality=85&auto=format&fit=max&s=396a2a70aeea80301a105a2fdf7bf15e",
-          "article_url": "https://www.theguardian.com/business/2026/may/23/iran-war-us-gas-prices-oil-fuel",
-          "published_at": "Sat, 23 May 2026 11:00:25 GMT",
-          "cross_sections": []
         },
         {
           "id": "Z3VhcmRpYW4ta2V2aW4td2Fy",
@@ -3424,7 +3429,7 @@
           "source_category": "Broadcaster",
           "feed_label": "Top Stories",
           "title": "Middle East: Netanyahu vows to increase Lebanon strikes",
-          "summary": "The Israeli PM is under pressure due to the ongoing Hezbollah drone attacks towards Israel's north. Elsewhere, Iran could be restoring international internet access. DW has more.",
+          "summary": "Israeli Prime Minister Benjamin Netanyahu is under pressure due to ongoing Hezbollah drone attacks on northern Israel. Netanyahu said he ordered the military to increase strikes against Hezbollah. DW has more.",
           "image_url": null,
           "article_url": "https://www.dw.com/en/middle-east-netanyahu-vows-to-increase-lebanon-strikes/live-77284965?maca=en-rss-en-top-1022-xml-mrss",
           "published_at": "Mon, 25 May 2026 17:32:00 GMT",
@@ -3640,31 +3645,59 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dG9pLWNwbS1jb25kZW1ucy1i",
+          "id": "dG9pLWluZGlhLW5lYXJzLTEx",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "CPM condemns ban on Cockroach Janta Party, accuses BJP of intolerance",
+          "title": "India nears 114 Rafales deal: ‘LoR for mega contract ready, to be sent to France soon’",
           "summary": "",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/cpm-condemns-ban-on-cockroach-janta-party-accuses-bjp-of-intolerance/articleshow/131316574.cms",
-          "published_at": "Tue, 26 May 2026 00:24:38 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/india/india-moves-a-step-closer-to-114-rafales-deal-lor-for-mega-contract-ready-to-be-sent-to-france-soon/articleshow/131317305.cms",
+          "published_at": "Tue, 26 May 2026 02:01:08 +0530",
           "cross_sections": []
         },
         {
-          "id": "dG9pLXRhcmlxdWUtcmFobWFu",
+          "id": "dG9pLeKAmG5vLWxlc3Nvbi1s",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Tarique Rahman to visit China in his 1st overseas visit as Bangladesh PM",
+          "title": "‘No lesson learnt from past NEET mess’: SC slams NTA, to monitor process",
           "summary": "",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/world/south-asia/tarique-rahman-to-visit-china-in-his-first-overseas-visit-as-bdesh-pm/articleshow/131316355.cms",
-          "published_at": "Tue, 26 May 2026 00:13:33 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/india/no-lesson-learnt-from-past-neet-mess-sc-slams-nta-to-monitor-process/articleshow/131317254.cms",
+          "published_at": "Tue, 26 May 2026 01:40:27 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dG9pLSdkb24ndC1iZS1zZW50",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "'Don't be sentimental': CJI Surya Kant brushes aside plea over ‘Cockroach Janta Party’",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/dont-be-sentimental-cji-on-cockroach-pil/articleshow/131317158.cms",
+          "published_at": "Tue, 26 May 2026 01:22:42 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dG9pLWdvdnQtd3JvdGUtdGhy",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Govt wrote thrice to Delhi Gymkhana since Sept last year to clear Rs 48-crore rent",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/government-wrote-thrice-to-delhi-gymkhana-since-september-last-year-to-clear-rs-48-crore-rent/articleshow/131316962.cms",
+          "published_at": "Tue, 26 May 2026 00:59:51 +0530",
           "cross_sections": []
         },
         {
@@ -3696,47 +3729,17 @@
           "cross_sections": []
         },
         {
-          "id": "dG9pLWRpZC1ydWJpby1jYWxs",
+          "id": "dG9pLXBvbGx1dGlvbi1zaG90",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Did Rubio call Trump stupid? US State Dept scrubs remark, sparks debate",
-          "summary": "The State Department deleted a social media post featuring Secretary of State Mike Pompeo's remarks after critics suggested he called President Trump \"stupid.\" This incident highlights the sensitivity around the word \"stupid\" in the Trump era, a term the President frequently uses to describe opponen",
+          "title": "Pollution shot up in Ganga plain in a decade: Study",
+          "summary": "",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/world/us/state-department-scrubs-rubios-every-country-has-stupid-people-remark-as-critics-wonder-if-it-applies-to-trump/articleshow/131313181.cms",
-          "published_at": "Mon, 25 May 2026 21:38:45 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dG9pLW1pZC1haXItc2NhcmU6",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Mid-air scare: 300 tourists stranded after technical snag hits cable car in Gulmarg",
-          "summary": "Hundreds of tourists faced an unexpected halt at Gulmarg's famous Gondola cable car service due to a technical glitch on Monday.  Officials confirmed that both phases of the popular attraction were suspended.  Trained rescue teams from SDRF and NDRF safely evacuated all stranded visitors from the ca",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/city/srinagar/hundreds-of-tourists-stranded-mid-air-after-technical-snag-hits-cable-car-in-gulmarg/articleshow/131307072.cms",
-          "published_at": "Mon, 25 May 2026 16:08:37 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLXdoeS1pcy1pcmFuLWRl",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Why is Iran deal still stuck? Hormuz, uranium, US blockade and the unresolved fault lines",
-          "summary": "Intense diplomatic efforts are underway to secure an agreement between the US and Iran, aiming to end the Middle East conflict, reopen the Strait of Hormuz, and ease energy market pressures. Despite claims of progress, significant disagreements persist over uranium enrichment, sanctions relief, and ",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/world/middle-east/why-is-the-iran-deal-still-stuck-hormuz-uranium-us-blockade-and-the-unresolved-fault-lines/articleshow/131305643.cms",
-          "published_at": "Mon, 25 May 2026 14:49:50 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/home/environment/particulate-matter-pollution-rose-over-20-across-indo-gangetic-plain-in-a-decade-himalayas-no-longer-insulated-from-air-pollution-study/articleshow/131312239.cms",
+          "published_at": "Mon, 25 May 2026 20:31:42 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4002,18 +4005,111 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dGhlaGluZHUt4oCLZnJvbS1i",
+          "id": "dGhlaGluZHUtaXBsLTIwMjYt",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "​From black to grey: on the Sample Registration System – Statistical Report, 2024",
-          "summary": "India needs to prepare for a future with an ageing population",
+          "title": "IPL 2026 | Sensational slide, rampaging comeback and nail-biting finish",
+          "summary": "In the race to the playoffs, Punjab were duly punished after suffering six successive losses while Kolkata kept themselves alive until the last day; those who did not make the top-four cut will look back at missed opportunities",
+          "image_url": "https://th-i.thgim.com/public/incoming/7qph6q/article71022683.ece/alternates/LANDSCAPE_1200/26_RVM_0972.jpg",
+          "article_url": "https://www.thehindu.com/premium/sensational-sliderampagingcomeback-and-nail-biting-finish/article71022682.ece",
+          "published_at": "Tue, 26 May 2026 02:03:54 +0530",
+          "cross_sections": [
+            "tech",
+            "jobcuts"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtaXJhbidzLXBy",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Iran's president orders reopening of international internet access, state media reports",
+          "summary": "Authorities ⁠initially imposed an internet blackout from January 8 in response to nationwide ‌anti-government protests before a new blackout was initiated following the start of U.S. and Israeli strikes against Iran on ‌February 28",
           "image_url": null,
-          "article_url": "https://www.thehindu.com/opinion/editorial/from-black-to-grey-on-the-sample-registration-system-statistical-report-2024/article71021273.ece",
-          "published_at": "Tue, 26 May 2026 00:37:00 +0530",
+          "article_url": "https://www.thehindu.com/news/international/irans-president-orders-reopening-of-international-internet-access-state-media-reports/article71022650.ece",
+          "published_at": "Tue, 26 May 2026 01:50:44 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtamFpc2FsbWVy",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Jaisalmer civic body swings into action, buries hundreds of cattle carcasses after public outrage",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/national/rajasthan/jaisalmer-civic-body-swings-into-action-buries-hundreds-of-cattle-carcasses-after-public-outrage/article71021855.ece",
+          "published_at": "Tue, 26 May 2026 01:41:03 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtZGVsaGktaGMt",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Delhi HC to hear plea on Gymkhana Club eviction today",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/cities/Delhi/delhihcto-hear-plea-on-gymkhana-club-eviction-today/article71021668.ece",
+          "published_at": "Tue, 26 May 2026 01:36:22 +0530",
           "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtYXN0cm9ub21l",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Astronomers spot blue straggler star hosting brown dwarf companion",
+          "summary": "This breakthrough by the team from the Indian Institute of Astrophysics, Aryabhatta Research Institute of Observational Sciences, Gauhati University, and INAF-Catania Astrophysical Observatory, Italy, could reshape astronomers’ understanding of how stars evolve",
+          "image_url": "https://th-i.thgim.com/public/incoming/izbfxf/article71022680.ece/alternates/LANDSCAPE_1200/STAR.jpg",
+          "article_url": "https://www.thehindu.com/news/national/karnataka/astronomers-spot-blue-straggler-star-hosting-brown-dwarf-companion/article71021269.ece",
+          "published_at": "Tue, 26 May 2026 01:03:25 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtZ292ZXJubWVu",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Government polytechnics in Tamil Nadu record near total placement this year",
+          "summary": "According to officials, a reason for this could be the very nature of the diploma courses, which equip students with more hands-on, vocational, and trade-specific skills",
+          "image_url": "https://th-i.thgim.com/public/incoming/31ivtm/article71022656.ece/alternates/LANDSCAPE_1200/2315_13_7_2025_18_52_34_1_THOOTHUKUDI_9.JPG",
+          "article_url": "https://www.thehindu.com/news/national/tamil-nadu/government-polytechnics-in-tamil-nadu-record-near-total-placement-this-year/article71022141.ece",
+          "published_at": "Tue, 26 May 2026 01:03:21 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtYmVuZ2FsdXJ1",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Bengaluru: Toyota BizIntel Hub to come up at KWIN City with ₹1,200 cr. investment",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/7g7vwt/article71022189.ece/alternates/LANDSCAPE_1200/IMG_1476.JPG",
+          "article_url": "https://www.thehindu.com/news/national/karnataka/mou-signed-for-toyota-bizintel-hub-in-kwin-city-with-1200-crore-investment/article71022036.ece",
+          "published_at": "Tue, 26 May 2026 00:57:11 +0530",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
           "id": "dGhlaGluZHUtcCZ0LWFwYXJ0",
@@ -4022,100 +4118,12 @@
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "P&T apartment residents to lay indefinite siege to GCDA office from May 26",
+          "title": "P&T apartment residents to lay indefinite siege to GCDA office",
           "summary": "Residents have been protesting the persistent leakage since 78 families moved into the apartments built by GCDA in January 2024",
           "image_url": null,
           "article_url": "https://www.thehindu.com/news/national/kerala/pt-apartment-residents-to-lay-indefinite-siege-to-gcda-office-from-may-26/article71021220.ece",
-          "published_at": "Tue, 26 May 2026 00:36:01 +0530",
+          "published_at": "Tue, 26 May 2026 00:56:30 +0530",
           "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtbWFuLWFycmVz",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Man arrested for sexually harassing minor girl in Ambattur",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/cities/chennai/man-arrested-for-sexually-harassing-minor-girl-in-ambattur/article71021538.ece",
-          "published_at": "Tue, 26 May 2026 00:32:45 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtbmF0aW9uYWwt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "National workshop on imaging innovations held",
-          "summary": "",
-          "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/munqj3/article71022561.ece/alternates/LANDSCAPE_1200/SRM.jpeg",
-          "article_url": "https://www.thehindu.com/news/cities/chennai/national-workshop-on-imaging-innovations-held/article71021907.ece",
-          "published_at": "Tue, 26 May 2026 00:27:43 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtcmFpbHdheXMt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Railways ‘CHIRAG’ - Centre for HR Excellence inaugurated at Moula-Ali",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/telangana/railways-chirag-centre-for-hr-excellence-inaugurated-at-moula-ali/article71022235.ece",
-          "published_at": "Tue, 26 May 2026 00:27:39 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtaW5kaWEtYW5k",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "India and Australia — bridging the trade and trust barrier",
-          "summary": "An India-Australia trade deal must prioritise balance over parity",
-          "image_url": "https://th-i.thgim.com/public/opinion/op-ed/9b2vrz/article71022166.ece/alternates/LANDSCAPE_1200/iStock-2247520054.jpg",
-          "article_url": "https://www.thehindu.com/opinion/op-ed/india-and-australia-bridging-the-trade-and-trust-barrier/article71022165.ece",
-          "published_at": "Tue, 26 May 2026 00:27:39 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtc3RhbmxleeKA",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Stanley’s cardiothoracic team performs complex surgeries under CMCHIS",
-          "summary": "",
-          "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/4k0wu6/article71022659.ece/alternates/LANDSCAPE_1200/Stanle.jpg",
-          "article_url": "https://www.thehindu.com/news/cities/chennai/stanleys-cardiothoracic-team-performs-complex-surgeries-under-cmchis/article71022242.ece",
-          "published_at": "Tue, 26 May 2026 00:26:45 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtY29pbWJhdG9y",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Coimbatore sexual assault-cum-murder: police aim to file chargesheet within 30 days",
-          "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/mnjfbi/article71022087.ece/alternates/LANDSCAPE_1200/Kannampalayam%20tank.jpg",
-          "article_url": "https://www.thehindu.com/news/cities/Coimbatore/sulur-minor-girl-sexual-assault-cum-murder-police-aim-to-file-chargesheet-within-30-days/article71022088.ece",
-          "published_at": "Tue, 26 May 2026 00:26:03 +0530",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "dGhlaGluZHUtYWN0aXZpc2lv",
@@ -4254,6 +4262,22 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "amFwYW50aW1lcy1naWFudHMt",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Giants manager Shinnosuke Abe arrested for allegedly assaulting daughter",
+          "summary": "Abe, 47, who was apprehended at his home, admitted to the allegation against him.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/26/542399.jpg",
+          "article_url": "https://www.japantimes.co.jp/sports/2026/05/26/baseball/japanese-baseball/giants-shinnosuke-abe-arrested/",
+          "published_at": "Tue, 26 May 2026 04:21:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "amFwYW50aW1lcy10YWthaWNo",
           "source_id": "japantimes",
           "source_name": "The Japan Times",
@@ -4360,22 +4384,6 @@
           "article_url": "https://www.japantimes.co.jp/business/2026/05/25/companies/seven-eleven-suzuki-obit/",
           "published_at": "Mon, 25 May 2026 16:22:00 +0900",
           "cross_sections": []
-        },
-        {
-          "id": "amFwYW50aW1lcy1jaGluYeKA",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "China’s Huawei reveals chip design breakthrough amid U.S. sanctions",
-          "summary": "China is seen as unlikely to reach Huawei's target through conventional manufacturing alone because of restricted access to advanced lithography tools and other technologies.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/25/542330.jpg",
-          "article_url": "https://www.japantimes.co.jp/business/2026/05/25/tech/china-huawei-chip-us-sanctions/",
-          "published_at": "Mon, 25 May 2026 16:08:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -4391,13 +4399,121 @@
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
-          "feed_label": "World",
+          "feed_label": "Top Stories",
           "title": "Russia's Lavrov Urges US Diplomat Evacuation From Kyiv In Call With Rubio",
           "summary": "According to the Russia's foreign ministry, Sergei Lavrov held a telephone conversation with US Secretary of State Marco Rubio on May 25.",
           "image_url": "https://c.ndtvimg.com/2026-02/ja5e99rc_sergei-lavrov_625x300_11_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
           "article_url": "https://www.ndtv.com/world-news/russias-sergei-lavrov-urges-us-diplomat-evacuation-from-kyiv-in-call-with-marco-rubio-11546833#publisher=newsstand",
           "published_at": "Tue, 26 May 2026 00:33:25 +0530",
           "cross_sections": []
+        },
+        {
+          "id": "bmR0di1jb25ncmVzcy1sb3N0",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Congress Lost Dalit Support For Delayed Action: Rahul Gandhi Ahead Of UP Polls",
+          "summary": "Sources present at the meeting revealed that Rahul Gandhi praised Bahujan Samaj Pary founder Kanshi Ram, noting that he succeeded in uniting the Dalit community and instilling a sense of self-confidence in them.",
+          "image_url": "https://c.ndtvimg.com/2026-05/2a10d4tg_rahul-gandhi_625x300_25_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+          "article_url": "https://www.ndtv.com/india-news/congress-lost-dalit-support-for-delayed-action-rahul-gandhi-ahead-of-up-polls-11546753#publisher=newsstand",
+          "published_at": "Tue, 26 May 2026 00:33:05 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di12aWpheS1hbm5vdW5j",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Vijay Announces Farm Loan Waivers, Extended Screening Of Movies",
+          "summary": "The waivers were announced after a high-level review meeting on the matter which was attended by Chief Minister Vijay.",
+          "image_url": "https://c.ndtvimg.com/2026-05/kreaohek_vijay-tvk_625x300_10_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+          "article_url": "https://www.ndtv.com/india-news/vijay-announces-farm-loan-waivers-extended-screening-of-movies-11546810#publisher=newsstand",
+          "published_at": "Tue, 26 May 2026 00:26:02 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di0zMDAtdG91cmlzdHMt",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "300 Tourists Rescued After Gulmarg Gondola Technical Issue Sparks Panic",
+          "summary": "A massive multi-agency rescue operation involving the Army, Jammu and Kashmir Police, paramilitary forces and Civil Defence teams was launched immediately to evacuate tourists trapped inside multiple chair cars.",
+          "image_url": "https://c.ndtvimg.com/2026-05/39tn3pg_gulmarg-gondola_625x300_25_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+          "article_url": "https://www.ndtv.com/india-news/300-tourists-rescued-after-gulmarg-gondola-technical-issue-sparks-panic-11546423#publisher=newsstand",
+          "published_at": "Tue, 26 May 2026 00:21:13 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1iaWctY2hhbmdlLWlu",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Big Change In Karnataka Soon? Siddaramaiah, DK Shivakumar Land In Delhi",
+          "summary": "The subject of discussion for the Delhi meeting, the 77-year-old Chief Minister said, is not known to him.",
+          "image_url": "https://c.ndtvimg.com/2026-05/ngc6jelk_siddaramaiah-shivakumar_625x300_16_May_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+          "article_url": "https://www.ndtv.com/india-news/big-change-in-karnataka-inside-track-on-siddaramaiah-vs-dk-shivakumar-tussle-11544140#publisher=newsstand",
+          "published_at": "Tue, 26 May 2026 00:16:51 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1hLWRlYXRoLXRocmVh",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "A Death Threat In Court, Then 2 Murders Within 2 Hours In Bihar",
+          "summary": "Tensions had been simmering between the two families for the past six months over issues involving harassment, physical altercations, and land disputes.",
+          "image_url": "https://c.ndtvimg.com/2026-05/kpdsnav8_nawada-double-murder_625x300_25_May_26.jpg",
+          "article_url": "https://www.ndtv.com/india-news/a-death-threat-in-court-then-2-murders-within-2-hours-in-bihar-11546780#publisher=newsstand",
+          "published_at": "Tue, 26 May 2026 00:11:31 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "bmR0di1jYmktdGFrZXMtb3Zl",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "CBI Takes Over Twisha Sharma Death Probe",
+          "summary": "The team of the Special Crime unit met the Bhopal police officials and collected the necessary documents and evidence.",
+          "image_url": "https://c.ndtvimg.com/2026-05/qe2giegc_image_160x120_23_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+          "article_url": "https://www.ndtv.com/india-news/twisha-sharma-death-case-supreme-court-verdict-cbi-takes-over-twisha-sharma-death-probe-giribala-singh-samarth-singh-11546777#publisher=newsstand",
+          "published_at": "Tue, 26 May 2026 00:06:00 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "bmR0di1hdmlhdGlvbi1ib2R5",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Aviation Body Issues Ebola Precaution Guidelines For Uganda, Congo Airlines",
+          "summary": "Airlines must ensure compliance with health screening requirements, including identification of suspected cases, immediate isolation measures and coordination with airport health authorities.",
+          "image_url": "https://c.ndtvimg.com/2021-12/u5ff2vj8_delhi-airport-ndtv_625x300_05_December_21.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+          "article_url": "https://www.ndtv.com/india-news/aviation-body-issues-ebola-precaution-guidelines-for-uganda-congo-airlines-11546754#publisher=newsstand",
+          "published_at": "Mon, 25 May 2026 23:56:31 +0530",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
           "id": "bmR0di13aGF0LWlyYW4sLXVz",
@@ -4421,7 +4537,7 @@
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Hormuz May Reopen 30 Days After Iran, US Strike Peace Deal: Report",
           "summary": "The U.S. and Iran are discussing a plan to open the Strait of Hormuz about 30 days after the two countries reach a deal to end hostilities, the Nikkei newspaper reported on Monday citing a Middle East diplomatic source.",
           "image_url": "https://c.ndtvimg.com/2026-04/mljoeh48_strait-of-hormuz_625x300_21_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
@@ -4432,26 +4548,12 @@
           ]
         },
         {
-          "id": "bmR0di1tYWRoeWEtcHJhZGVz",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Madhya Pradesh's Dhar To Get Maa Saraswati Lok, Raja Bhoj Research Institute",
-          "summary": "This comes days after the Madhya Pradesh High Court declared the disputed Bhojshala complex a temple dedicated to Goddess Saraswati.",
-          "image_url": "https://c.ndtvimg.com/2024-03/grs2st68_bhojsala_625x300_11_March_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-          "article_url": "https://www.ndtv.com/india-news/madhya-pradeshs-dhar-to-get-maa-saraswati-lok-raja-bhoj-research-institute-11546679#publisher=newsstand",
-          "published_at": "Mon, 25 May 2026 23:33:06 +0530",
-          "cross_sections": []
-        },
-        {
           "id": "bmR0di11cy1pcmFuLXdhci1s",
           "source_id": "ndtv",
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "US Iran War Live Updates: Hormuz May Reopen 30 Days After Iran, US Strike Peace Deal",
           "summary": "US Iran War Live Updates: Iran's top negotiator Mohammad Baqer Qalibaf said Iran's armed forces had rebuilt their capabilities during the ceasefire.",
           "image_url": "https://c.ndtvimg.com/2026-05/esjkf42g_strait-of-hormuz_625x300_19_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
@@ -4481,42 +4583,12 @@
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Trump Spotlights Asim Munir, Leaves Pak PM Out Of Abraham Accords Vision",
           "summary": "In a lengthy statement posted on Truth Social, Trump said negotiations with Iran were \"proceeding nicely\" and framed the moment as a potential turning point.",
           "image_url": "https://c.ndtvimg.com/2026-04/cum157rs_trump-shehbaz-sharif-asim-munir_625x300_13_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
           "article_url": "https://www.ndtv.com/world-news/donald-trump-abraham-accords-asim-munir-shehbaz-sharif-iran-us-no-shehbaz-sharif-in-trumps-abraham-accords-post-asim-munir-makes-the-cut-11546605#publisher=newsstand",
           "published_at": "Mon, 25 May 2026 23:26:24 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1hdC0zMi40LWRlZ3Jl",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "At 32.4 Degrees Celsius, Delhi Records Warmest May Night In 14 years",
-          "summary": "The maximum temperature at Safdarjung, the city's base station, settled at 43.5 degrees Celsius, 3.3 degrees above normal.",
-          "image_url": "https://c.ndtvimg.com/2020-10/lp7h9q9k_delhi-weather-delhi-cold-weather-pti-photo_625x300_31_October_20.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-          "article_url": "https://www.ndtv.com/india-news/at-32-4-degrees-celsius-delhi-records-warmest-may-night-in-14-years-11546482#publisher=newsstand",
-          "published_at": "Mon, 25 May 2026 23:22:12 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "bmR0di1leHBsYWluZWQ6LWhv",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Explained: How NEET Probe Is Unravelling Maharashtra's Coaching Economy",
-          "summary": "What began as allegations of irregularities in the NEET-UG examination has now expanded into a widening investigation involving coaching operators, school administrators, alleged middlemen, translators linked to the National Testing Agency.",
-          "image_url": "https://c.ndtvimg.com/2024-06/8kin8q6g_entrance-exam-generic_625x300_14_June_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-          "article_url": "https://www.ndtv.com/india-news/neet-probe-explained-how-neet-probe-is-unravelling-maharashtras-coaching-economy-11546290#publisher=newsstand",
-          "published_at": "Mon, 25 May 2026 23:07:34 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4533,34 +4605,6 @@
           "image_url": "https://c.ndtvimg.com/2026-05/5m4fel74_kristian-trend_625x300_25_May_26.jpeg",
           "article_url": "https://www.ndtv.com/world-news/uk-wellness-coach-dies-after-taking-drug-made-of-toxic-frog-secretion-during-cleansing-ritual-11546556#publisher=newsstand",
           "published_at": "Mon, 25 May 2026 23:06:11 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "bmR0di10d2lzaGEtc2hhcm1h",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Twisha Sharma Death Updates: CBI Registers Case, To Begin Investigation On Tuesday",
-          "summary": "Twisha Sharma Death Case Reaches Supreme Court Hearing LIVE Updates: A Supreme Court bench headed by Chief Justice of India Surya Kant, and Justices Joymalya Bagchi and Justice Vipul M Pancholi will hear the case.",
-          "image_url": "https://c.ndtvimg.com/2026-05/us2knu7s_twisha-sharma-case-samarth-singh-arrives-at-district-judges-courtroom-to-surrender_625x300_22_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-          "article_url": "https://www.ndtv.com/india-news/twisha-sharma-supreme-court-hearing-live-updates-supreme-court-takes-up-twisha-sharma-death-case-husband-samarth-singh-giribala-singh-dowry-bhopal-11542714#publisher=newsstand",
-          "published_at": "Mon, 25 May 2026 23:00:38 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "bmR0di0naS1wYWMtaGFkLW5v",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "'I-PAC Had No Manners, Spoke Rudely': Trinamool MP Kakoli Ghosh Dastidar",
-          "summary": "Kakoli Ghosh Dastidar attributed Trinamool's loss of five of the seven Assembly seats in the limits of Barasat Parliamentary constituency to the \"cumulative effect\" of anti-incumbency and Special Intensive Revision of electoral rolls.",
-          "image_url": "https://c.ndtvimg.com/2023-09/igjnbrko_kakoli-ghosh-dastidar-650_625x300_20_September_23.jpg",
-          "article_url": "https://www.ndtv.com/india-news/i-pac-had-no-manners-spoke-rudely-trinamool-mp-kakoli-ghosh-dastidar-11546514#publisher=newsstand",
-          "published_at": "Mon, 25 May 2026 22:33:00 +0530",
           "cross_sections": []
         },
         {
@@ -4587,6 +4631,76 @@
       "region": "Middle East & Africa",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "YWxqYXplZXJhLWV4LXNjb3R0",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Ex-Scottish National Party chief pleads guilty to embezzling funds",
+          "summary": "Peter Murrell admitted the offences at the High Court in Edinburgh after an investigation into the party's finances.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/5/25/ex-scottish-national-party-chief-pleads-guilty-to-embezzling-funds?traffic_source=rss",
+          "published_at": "Mon, 25 May 2026 20:07:52 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLXRydW1wLWRh",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Trump dangles normalisation amid pro-Israel criticism of possible Iran deal",
+          "summary": "US president says he is 'mandatorily requesting' that regional countries establish formal relations with Israel.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/5/25/trump-dangles-normalisation-amid-pro-israel-criticism-of-possible-iran-deal?traffic_source=rss",
+          "published_at": "Mon, 25 May 2026 19:59:37 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLXRoZS1raXN3",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "THE KISWA: BEYOND THE CLOTH",
+          "summary": "Every Muslim on earth has faced it in prayer. Billions have seen it in photos. Almost nobody knows its story.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/the-kiswa-beyond-the-cloth?traffic_source=rss",
+          "published_at": "Mon, 25 May 2026 19:25:03 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLWt5aXbigJlz",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Kyiv’s Chornobyl Museum devastated in overnight Russian missile attack",
+          "summary": "Kyiv's Chornobyl Museum devastated in overnight Russian missile attack.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/kyivs-chornobyl-museum-devastated-in-overnight-russian-missile-attack?traffic_source=rss",
+          "published_at": "Mon, 25 May 2026 19:19:37 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLWZhdGhlci1t",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Father mourns daughter killed in Israeli strike on Gaza",
+          "summary": "A six-year-old Palestinian girl was killed by an Israeli strike on a displacement camp in Khan Younis.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/father-mourns-daughter-killed-in-israeli-strike-on-gaza?traffic_source=rss",
+          "published_at": "Mon, 25 May 2026 19:12:58 +0000",
+          "cross_sections": []
+        },
         {
           "id": "YWxqYXplZXJhLWxlYmFub24t",
           "source_id": "aljazeera",
@@ -4627,80 +4741,6 @@
           "image_url": null,
           "article_url": "https://www.aljazeera.com/economy/2026/5/25/bolivias-embattled-president-says-will-take-a-50-percent-salary-cut?traffic_source=rss",
           "published_at": "Mon, 25 May 2026 18:31:09 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLW1leGljby10",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Mexico to host Iran team during 2026 FIFA World Cup amid US tensions",
-          "summary": "Mexican President Claudia Sheinbaum says United States did not want to host Iranian football team during tournament.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/5/25/mexico-says-it-will-host-iranian-team-during-2026-fifa-world-cup?traffic_source=rss",
-          "published_at": "Mon, 25 May 2026 18:11:02 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLWlzcmFlbC1l",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Israel escalates Gaza attacks as Netanyahu stalls ceasefire for polls",
-          "summary": "Analysts warn Netanyahu is exploiting a failing \"ceasefire\" to prolong the destruction of Gaza ahead of Israeli election",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/5/25/israel-escalates-gaza-attacks-as-netanyahu-stalls-ceasefire-for-polls?traffic_source=rss",
-          "published_at": "Mon, 25 May 2026 17:46:09 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXN1YmR1ZWQt",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Subdued Lebanon Liberation Day celebrations under new Israeli occupation",
-          "summary": "Twenty-six years after Israeli forces were driven out of southern Lebanon, fears of a new occupation have emerged.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/features/2026/5/25/subdued-lebanon-liberation-day-celebrations-under-new-israeli-occupation?traffic_source=rss",
-          "published_at": "Mon, 25 May 2026 17:39:54 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXR1bmlzaWFu",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Tunisian court hands presidential critic Sonia Dahmani new jail term",
-          "summary": "Lawyer convicted for the second time this year as President Saied's crackdown on dissent intensifies.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/5/25/tunisian-court-hands-presidential-critic-sonia-dahmani-new-jail-term?traffic_source=rss",
-          "published_at": "Mon, 25 May 2026 17:39:48 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLW1leGljby1z",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Mexico steps in to host Iran’s World Cup team after US refusal",
-          "summary": "Mexico says it has agreed to host Iran’s World Cup team after the US declined to allow the squad to stay.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/mexico-steps-in-to-host-irans-world-cup-team-after-us-refusal?traffic_source=rss",
-          "published_at": "Mon, 25 May 2026 17:31:01 +0000",
           "cross_sections": []
         }
       ]
@@ -5077,7 +5117,7 @@
         {
           "id": "ndtv",
           "name": "NDTV",
-          "count": 13
+          "count": 15
         }
       ]
     },
@@ -5111,17 +5151,98 @@
       "icon": "💻",
       "articles": [
         {
-          "id": "dGhlaGluZHUtcmFpbHdheXMt",
+          "id": "YmJjLW5ldGFueWFodS1zYXlz",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
+          "summary": "The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d385/live/20d8eb10-5879-11f1-8b8c-6d33e1d5abb6.jpg",
+          "article_url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 25 May 2026 20:40:15 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtaXBsLTIwMjYt",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Railways ‘CHIRAG’ - Centre for HR Excellence inaugurated at Moula-Ali",
+          "title": "IPL 2026 | Sensational slide, rampaging comeback and nail-biting finish",
+          "summary": "In the race to the playoffs, Punjab were duly punished after suffering six successive losses while Kolkata kept themselves alive until the last day; those who did not make the top-four cut will look back at missed opportunities",
+          "image_url": "https://th-i.thgim.com/public/incoming/7qph6q/article71022683.ece/alternates/LANDSCAPE_1200/26_RVM_0972.jpg",
+          "article_url": "https://www.thehindu.com/premium/sensational-sliderampagingcomeback-and-nail-biting-finish/article71022682.ece",
+          "published_at": "Tue, 26 May 2026 02:03:54 +0530",
+          "cross_sections": [
+            "tech",
+            "jobcuts"
+          ]
+        },
+        {
+          "id": "aW5jNDItYWZ0ZXItZmFjaW5n",
+          "source_id": "inc42",
+          "source_name": "Inc42",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "After Facing FIRs For Allegedly Blocking User Funds, MobiKwik Claims 90% Repayment",
+          "summary": "Days after FIRs were filed against fintech firms MobiKwik and Lendbox for allegedly blocking customer withdrawals on P2P lending platform…",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/Mobikwik-Business-ftr.jpg",
+          "article_url": "https://inc42.com/buzz/after-facing-firs-for-allegedly-blocking-user-funds-mobikwik-claims-90-repayment/",
+          "published_at": "Mon, 25 May 2026 20:30:39 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtaXJhbidzLXBy",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Iran's president orders reopening of international internet access, state media reports",
+          "summary": "Authorities ⁠initially imposed an internet blackout from January 8 in response to nationwide ‌anti-government protests before a new blackout was initiated following the start of U.S. and Israeli strikes against Iran on ‌February 28",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/international/irans-president-orders-reopening-of-international-internet-access-state-media-reports/article71022650.ece",
+          "published_at": "Tue, 26 May 2026 01:50:44 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Zm94LWlyYW4tc2lnbmFscy3i",
+          "source_id": "fox",
+          "source_name": "Fox News",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Iran signals ‘mass sacrifice’ in 'high stakes' Saddam-era warning amid Trump deal talks",
+          "summary": "Expert says Iran's Pezeshkian mapped a foundational wartime symbol onto current U.S. and Israel tensions, signaling Tehran won't back down easily.",
+          "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/iran-president-trump.jpg?ve=1&tl=1",
+          "article_url": "https://www.foxnews.com/world/iran-signals-mass-sacrifice-high-stakes-saddam-era-warning-amid-trump-deal-talks",
+          "published_at": "Mon, 25 May 2026 16:11:19 -0400",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtamFpc2FsbWVy",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Jaisalmer civic body swings into action, buries hundreds of cattle carcasses after public outrage",
           "summary": "",
           "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/telangana/railways-chirag-centre-for-hr-excellence-inaugurated-at-moula-ali/article71022235.ece",
-          "published_at": "Tue, 26 May 2026 00:27:39 +0530",
+          "article_url": "https://www.thehindu.com/news/national/rajasthan/jaisalmer-civic-body-swings-into-action-buries-hundreds-of-cattle-carcasses-after-public-outrage/article71021855.ece",
+          "published_at": "Tue, 26 May 2026 01:41:03 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5137,23 +5258,119 @@
           "summary": "The Canadian prime minister, who was the governor of the Bank of England when Britain voted to leave the European Union, said the Alberta referendum on separating from Canada could backfire.",
           "image_url": "https://static01.nyt.com/images/2026/05/25/multimedia/25int-carney-alberta-brexit-photo-qmbz/25int-carney-alberta-brexit-photo-qmbz-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/05/25/world/canada/mark-carney-alberta-referendum-brexit.html",
-          "published_at": "Mon, 25 May 2026 18:56:56 +0000",
+          "published_at": "Mon, 25 May 2026 19:33:36 +0000",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtY29pbWJhdG9y",
+          "id": "dmVudHVyZWJlYXQtd2h5LXBy",
+          "source_id": "venturebeat",
+          "source_name": "VentureBeat",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Why prompt debt, retrieval debt, and evaluation debt are quietly reshaping enterprise AI risk",
+          "summary": "Over the past two decades, technical debt meant outdated architecture, messy code, and poorly maintained documentation. That definition is no longer sufficient in the AI era, where failure modes are more subtle and often non-linear. AI systems are introducing new layers of technical debt that live a",
+          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5EPGNjSfIxe7zELYT7IVMw/798975854f7bad614de18713c7462cb0/Technical_debt.png?w=300&q=30",
+          "article_url": "https://venturebeat.com/technology/why-prompt-debt-retrieval-debt-and-evaluation-debt-are-quietly-reshaping-enterprise-ai-risk",
+          "published_at": "Mon, 25 May 2026 19:30:18 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtYmVuZ2FsdXJ1",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Coimbatore sexual assault-cum-murder: police aim to file chargesheet within 30 days",
+          "title": "Bengaluru: Toyota BizIntel Hub to come up at KWIN City with ₹1,200 cr. investment",
           "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/mnjfbi/article71022087.ece/alternates/LANDSCAPE_1200/Kannampalayam%20tank.jpg",
-          "article_url": "https://www.thehindu.com/news/cities/Coimbatore/sulur-minor-girl-sexual-assault-cum-murder-police-aim-to-file-chargesheet-within-30-days/article71022088.ece",
-          "published_at": "Tue, 26 May 2026 00:26:03 +0530",
+          "image_url": "https://th-i.thgim.com/public/incoming/7g7vwt/article71022189.ece/alternates/LANDSCAPE_1200/IMG_1476.JPG",
+          "article_url": "https://www.thehindu.com/news/national/karnataka/mou-signed-for-toyota-bizintel-hub-in-kwin-city-with-1200-crore-investment/article71022036.ece",
+          "published_at": "Tue, 26 May 2026 00:57:11 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25ldC1pJ3ZlLWdvdC10aGUt",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "I've Got the Hottest Remaining Memorial Day Deals Worth Your Time and Money",
+          "summary": "Memorial Day is nearing an end so now is the time to shop for any big-ticket items you've been putting off buying. From TVs to grills to mattresses, we've got you covered.",
+          "image_url": "https://www.cnet.com/a/img/resize/6726d17b363a4ba6b2ca644b74764382769c3809/hub/2026/05/21/1f8e459a-4cb4-4c08-9aa0-23f56a13a640/memorial-day-liveblog.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "article_url": "https://www.cnet.com/news-live/memorial-day-sales-live-blog-2026/",
+          "published_at": "Mon, 25 May 2026 19:22:37 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy1naWFudHMt",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Giants manager Shinnosuke Abe arrested for allegedly assaulting daughter",
+          "summary": "Abe, 47, who was apprehended at his home, admitted to the allegation against him.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/26/542399.jpg",
+          "article_url": "https://www.japantimes.co.jp/sports/2026/05/26/baseball/japanese-baseball/giants-shinnosuke-abe-arrested/",
+          "published_at": "Tue, 26 May 2026 04:21:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1jb25ncmVzcy1sb3N0",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Congress Lost Dalit Support For Delayed Action: Rahul Gandhi Ahead Of UP Polls",
+          "summary": "Sources present at the meeting revealed that Rahul Gandhi praised Bahujan Samaj Pary founder Kanshi Ram, noting that he succeeded in uniting the Dalit community and instilling a sense of self-confidence in them.",
+          "image_url": "https://c.ndtvimg.com/2026-05/2a10d4tg_rahul-gandhi_625x300_25_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+          "article_url": "https://www.ndtv.com/india-news/congress-lost-dalit-support-for-delayed-action-rahul-gandhi-ahead-of-up-polls-11546753#publisher=newsstand",
+          "published_at": "Tue, 26 May 2026 00:33:05 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di12aWpheS1hbm5vdW5j",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Vijay Announces Farm Loan Waivers, Extended Screening Of Movies",
+          "summary": "The waivers were announced after a high-level review meeting on the matter which was attended by Chief Minister Vijay.",
+          "image_url": "https://c.ndtvimg.com/2026-05/kreaohek_vijay-tvk_625x300_10_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+          "article_url": "https://www.ndtv.com/india-news/vijay-announces-farm-loan-waivers-extended-screening-of-movies-11546810#publisher=newsstand",
+          "published_at": "Tue, 26 May 2026 00:26:02 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di0zMDAtdG91cmlzdHMt",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "300 Tourists Rescued After Gulmarg Gondola Technical Issue Sparks Panic",
+          "summary": "A massive multi-agency rescue operation involving the Army, Jammu and Kashmir Police, paramilitary forces and Civil Defence teams was launched immediately to evacuate tourists trapped inside multiple chair cars.",
+          "image_url": "https://c.ndtvimg.com/2026-05/39tn3pg_gulmarg-gondola_625x300_25_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+          "article_url": "https://www.ndtv.com/india-news/300-tourists-rescued-after-gulmarg-gondola-technical-issue-sparks-panic-11546423#publisher=newsstand",
+          "published_at": "Tue, 26 May 2026 00:21:13 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5170,6 +5387,22 @@
           "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/laguardia-airport-photo-1.jpg?ve=1&tl=1",
           "article_url": "https://www.foxnews.com/tech/laguardia-airport-ai-hologram-answers-traveler-questions",
           "published_at": "Mon, 25 May 2026 14:51:11 -0400",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1iaWctY2hhbmdlLWlu",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Big Change In Karnataka Soon? Siddaramaiah, DK Shivakumar Land In Delhi",
+          "summary": "The subject of discussion for the Delhi meeting, the 77-year-old Chief Minister said, is not known to him.",
+          "image_url": "https://c.ndtvimg.com/2026-05/ngc6jelk_siddaramaiah-shivakumar_625x300_16_May_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+          "article_url": "https://www.ndtv.com/india-news/big-change-in-karnataka-inside-track-on-siddaramaiah-vs-dk-shivakumar-tussle-11544140#publisher=newsstand",
+          "published_at": "Tue, 26 May 2026 00:16:51 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5241,6 +5474,22 @@
           ]
         },
         {
+          "id": "bmR0di1hdmlhdGlvbi1ib2R5",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Aviation Body Issues Ebola Precaution Guidelines For Uganda, Congo Airlines",
+          "summary": "Airlines must ensure compliance with health screening requirements, including identification of suspected cases, immediate isolation measures and coordination with airport health authorities.",
+          "image_url": "https://c.ndtvimg.com/2021-12/u5ff2vj8_delhi-airport-ndtv_625x300_05_December_21.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+          "article_url": "https://www.ndtv.com/india-news/aviation-body-issues-ebola-precaution-guidelines-for-uganda-congo-airlines-11546754#publisher=newsstand",
+          "published_at": "Mon, 25 May 2026 23:56:31 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "bmR0di13aGF0LWlyYW4sLXVz",
           "source_id": "ndtv",
           "source_name": "NDTV",
@@ -5262,7 +5511,7 @@
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Hormuz May Reopen 30 Days After Iran, US Strike Peace Deal: Report",
           "summary": "The U.S. and Iran are discussing a plan to open the Strait of Hormuz about 30 days after the two countries reach a deal to end hostilities, the Nikkei newspaper reported on Monday citing a Middle East diplomatic source.",
           "image_url": "https://c.ndtvimg.com/2026-04/mljoeh48_strait-of-hormuz_625x300_21_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
@@ -5278,7 +5527,7 @@
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "US Iran War Live Updates: Hormuz May Reopen 30 Days After Iran, US Strike Peace Deal",
           "summary": "US Iran War Live Updates: Iran's top negotiator Mohammad Baqer Qalibaf said Iran's armed forces had rebuilt their capabilities during the ceasefire.",
           "image_url": "https://c.ndtvimg.com/2026-05/esjkf42g_strait-of-hormuz_625x300_19_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
@@ -5294,28 +5543,12 @@
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Trump Spotlights Asim Munir, Leaves Pak PM Out Of Abraham Accords Vision",
           "summary": "In a lengthy statement posted on Truth Social, Trump said negotiations with Iran were \"proceeding nicely\" and framed the moment as a potential turning point.",
           "image_url": "https://c.ndtvimg.com/2026-04/cum157rs_trump-shehbaz-sharif-asim-munir_625x300_13_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
           "article_url": "https://www.ndtv.com/world-news/donald-trump-abraham-accords-asim-munir-shehbaz-sharif-iran-us-no-shehbaz-sharif-in-trumps-abraham-accords-post-asim-munir-makes-the-cut-11546605#publisher=newsstand",
           "published_at": "Mon, 25 May 2026 23:26:24 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLWlzcmFlbC1l",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Israel escalates Gaza attacks as Netanyahu stalls ceasefire for polls",
-          "summary": "Analysts warn Netanyahu is exploiting a failing \"ceasefire\" to prolong the destruction of Gaza ahead of Israeli election",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/5/25/israel-escalates-gaza-attacks-as-netanyahu-stalls-ceasefire-for-polls?traffic_source=rss",
-          "published_at": "Mon, 25 May 2026 17:46:09 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5348,38 +5581,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e77a/live/157edd60-585b-11f1-9a33-c313bd26e03f.jpg",
           "article_url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 25 May 2026 17:42:26 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXR1bmlzaWFu",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Tunisian court hands presidential critic Sonia Dahmani new jail term",
-          "summary": "Lawyer convicted for the second time this year as President Saied's crackdown on dissent intensifies.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/5/25/tunisian-court-hands-presidential-critic-sonia-dahmani-new-jail-term?traffic_source=rss",
-          "published_at": "Mon, 25 May 2026 17:39:48 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1leHBsYWluZWQ6LWhv",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Explained: How NEET Probe Is Unravelling Maharashtra's Coaching Economy",
-          "summary": "What began as allegations of irregularities in the NEET-UG examination has now expanded into a widening investigation involving coaching operators, school administrators, alleged middlemen, translators linked to the National Testing Agency.",
-          "image_url": "https://c.ndtvimg.com/2024-06/8kin8q6g_entrance-exam-generic_625x300_14_June_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-          "article_url": "https://www.ndtv.com/india-news/neet-probe-explained-how-neet-probe-is-unravelling-maharashtras-coaching-economy-11546290#publisher=newsstand",
-          "published_at": "Mon, 25 May 2026 23:07:34 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5592,169 +5793,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "ZXVyb25ld3MtdG9reW8tZ292",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "News",
-          "title": "Tokyo governor urges global capitals to share best practices in Astana visit",
-          "summary": "Tokyo Governor Yuriko Koike discussed hydrogen energy, AI cooperation and urban resilience during visits to the Netherlands and Kazakhstan.",
-          "image_url": "https://images.euronews.com/articles/stories/09/77/11/71/696x392_cmsv2_c40e412e-d43f-5259-aae1-1854161bae4d-9771171.jpg",
-          "article_url": "http://www.euronews.com/2026/05/25/tokyo-governor-urges-global-capitals-to-share-best-practices-in-astana-visit",
-          "published_at": "Mon, 25 May 2026 17:26:41 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bWFpbGd1YXJkaWFuLWFmcmlj",
-          "source_id": "mailguardian",
-          "source_name": "Mail & Guardian",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Africa Day, and the Measure of a Continent",
-          "summary": "Africa Day should not be observed merely as a ritual of speeches and nostalgia. It should be approached as a test.",
-          "image_url": null,
-          "article_url": "https://mg.co.za/thought-leader/opinion/2026-05-25-africa-day-and-the-measure-of-a-continent/",
-          "published_at": "Mon, 25 May 2026 15:22:32 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZHctcG9wZS11cmdlcy0nZGlz",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Pope urges 'disarming' of AI in major manifesto",
-          "summary": "Pope Leo XIV called for artificial intelligence to be more strictly regulated, warning that it can help spread misinformation and normalize war. He also issued an unprecedented apology for the church's role in slavery.",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/pope-urges-disarming-of-ai-in-major-manifesto/a-77288369?maca=en-rss-en-top-1022-xml-mrss",
-          "published_at": "Mon, 25 May 2026 15:22:00 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "bWFpbGd1YXJkaWFuLW1pc2lu",
-          "source_id": "mailguardian",
-          "source_name": "Mail & Guardian",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Misinformation is coming for the anti-HIV jab. Let’s get ahead of it",
-          "summary": "A new HIV prevention injection could change the course of the epidemic — but only if people trust it. Research shows we can pre-empt the false claims forming around it. The window is open now",
-          "image_url": "https://mg.co.za/wp-content/uploads/2024/08/Bhekisisa_logo_hi_res-1000x223.jpg",
-          "article_url": "https://mg.co.za/health/2026-05-25-misinformation-is-coming-for-the-anti-hiv-jab-lets-get-ahead-of-it/",
-          "published_at": "Mon, 25 May 2026 15:20:05 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXR0ZWNoLXdpdGgtYWktbWFu",
-          "source_id": "ettech",
-          "source_name": "ETtech",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "With AI manifesto, Leo joins pantheon of popes who urged world to change",
-          "summary": "Pope Leo XIV has released a new document, \"Magnifica Humanitas,\" calling for global leaders to regulate artificial intelligence. This marks the latest in a long tradition of papal calls for social justice. The Pope warns that AI could spread misinformation and lead to conflict. His message emphasize",
-          "image_url": null,
-          "article_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/with-ai-manifesto-leo-joins-pantheon-of-popes-who-urged-world-to-change/articleshow/131312440.cms",
-          "published_at": "Mon, 25 May 2026 20:47:46 +0530",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "bWFpbGd1YXJkaWFuLeKAmGJy",
-          "source_id": "mailguardian",
-          "source_name": "Mail & Guardian",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "‘Brown Mogotsi attempted to bribe me’, says investigating officer",
-          "summary": "Investigating officer Alfred Ondendaal said Mogotsi asked if there was anything he could do for leniency during his bail application",
-          "image_url": null,
-          "article_url": "https://mg.co.za/news/2026-05-25-brown-mogotsi-attempted-to-bribe-me-says-investigating-officer/",
-          "published_at": "Mon, 25 May 2026 15:15:29 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LXBvcGUtbGVvLXdhcm5z",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical",
-          "summary": "The document marks a powerful foray by the leader of the Roman Catholic Church into the debate about the misuse or overuse of artificial intelligence.",
-          "image_url": "https://static01.nyt.com/images/2026/05/25/multimedia/25int-pope-encyclical-HFO-01-ktvm/25int-pope-encyclical-HFO-01-ktvm-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html",
-          "published_at": "Mon, 25 May 2026 15:14:03 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC10aGUtcG9w",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "The pope’s AI encyclical isn’t really about AI",
-          "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
-          "published_at": "Mon, 25 May 2026 15:09:41 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhldmVyZ2UtcG9wZS1sZW8t",
-          "source_id": "theverge",
-          "source_name": "The Verge",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
-          "summary": "Pope Leo XIV attends the presentation of his first Encyclical Letter \"Magnifica humanitas\" on May 25, 2026 in Vatican City, Vatican. | Getty Images\t\n\nPope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2278126608.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "article_url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
-          "published_at": "2026-05-25T15:05:07.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bWFpbGd1YXJkaWFuLWV0aGVr",
-          "source_id": "mailguardian",
-          "source_name": "Mail & Guardian",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "eThekwini corruption scrutiny could hurt ANC in November elections, analysts warn",
-          "summary": "The ANC faces mounting political pressure in eThekwini after municipal leaders were grilled by Parliament’s Scopa over R6.4 billion in irregular expenditure, governance failures and corruption allegations. Analysts warn the fallout could weaken the party before the local government elections in Nove",
-          "image_url": null,
-          "article_url": "https://mg.co.za/politics/2026-05-25-ethekwini-corruption-scrutiny-could-hurt-anc-in-november-elections-analysts-warn/",
-          "published_at": "Mon, 25 May 2026 15:04:19 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -5763,6 +5801,23 @@
       "name": "Global Job Cuts",
       "icon": "📉",
       "articles": [
+        {
+          "id": "dGhlaGluZHUtaXBsLTIwMjYt",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "IPL 2026 | Sensational slide, rampaging comeback and nail-biting finish",
+          "summary": "In the race to the playoffs, Punjab were duly punished after suffering six successive losses while Kolkata kept themselves alive until the last day; those who did not make the top-four cut will look back at missed opportunities",
+          "image_url": "https://th-i.thgim.com/public/incoming/7qph6q/article71022683.ece/alternates/LANDSCAPE_1200/26_RVM_0972.jpg",
+          "article_url": "https://www.thehindu.com/premium/sensational-sliderampagingcomeback-and-nail-biting-finish/article71022682.ece",
+          "published_at": "Tue, 26 May 2026 02:03:54 +0530",
+          "cross_sections": [
+            "tech",
+            "jobcuts"
+          ]
+        },
         {
           "id": "Y25iY3RlY2gtYWktd2VhbHRo",
           "source_id": "cnbctech",
@@ -6144,23 +6199,6 @@
           ]
         },
         {
-          "id": "dmVudHVyZWJlYXQtZW50ZXJw",
-          "source_id": "venturebeat",
-          "source_name": "VentureBeat",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Enterprise AI agents keep failing because they forget what they learned",
-          "summary": "RAG architectures are good at one thing: surfacing semantically relevant documents. That's also where they stop.\nA framework called a decision context graph addresses that gap by giving agents structured memory, time-aware reasoning, and explicit decision logic. Rippletide, a startup in the Neo4j ec",
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/XxEoqdkwC8dR16yuLD73f/b5b23fc19b843586548b74783aea01e6/u7277289442_An_AI_agent_is_sitting_at_a_desk._The_desk_is_cov_75a9078a-ea3d-421e-bf5d-23a650aab330_0.png?w=300&q=30",
-          "article_url": "https://venturebeat.com/orchestration/enterprise-ai-agents-keep-failing-because-they-forget-what-they-learned",
-          "published_at": "Thu, 21 May 2026 18:43:00 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "dG9pLWNoYXRncHQtd2FzLWRv",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -6181,7 +6219,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 10637,
+    "build_ms": 10304,
     "ai_enabled": true
   }
 }
