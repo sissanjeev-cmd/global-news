@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-28T20:04:26.476Z",
+  "last_updated": "2026-06-28T21:17:14.330Z",
   "total_articles": 298,
-  "new_this_run": 34,
+  "new_this_run": 21,
   "sources": [
     {
       "id": "techcrunch",
@@ -143,6 +143,22 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "dGhldmVyZ2Utc3Vuby1sYXVu",
+          "source_id": "theverge",
+          "source_name": "The Verge",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+          "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support.\nTo apply, artists need to be an unsigned sin",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "article_url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+          "published_at": "2026-06-28T20:27:36.000Z",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dGhldmVyZ2UtY2hpbmEtY2xh",
           "source_id": "theverge",
           "source_name": "The Verge",
@@ -245,22 +261,6 @@
           "article_url": "https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler",
           "published_at": "2026-06-27T21:20:32.000Z",
           "cross_sections": []
-        },
-        {
-          "id": "dGhldmVyZ2UtbWFyZ2FyZXQt",
-          "source_id": "theverge",
-          "source_name": "The Verge",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
-          "summary": "Margaret Atwood onstage at Detroit Opera House on January 26, 2026 | Photo: Monica Morgan/Getty Images\t\n\nMaraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at th",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2258417618.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "article_url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
-          "published_at": "2026-06-27T18:39:32.000Z",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -1322,20 +1322,6 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "bnl0LXZlbmV6dWVsYS1saXZl",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Venezuela Live Updates: Window to Find Survivors Is Closing as Rescuers Battle Through Aftershocks",
-          "summary": "More than three days after twin earthquakes devastated the Venezuelan coast, the rescue effort faced chaos and delays as the chances of finding survivors diminished.",
-          "image_url": "https://static01.nyt.com/images/2026/06/28/multimedia/28venez-200-tpwg/28venez-200-tpwg-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake",
-          "published_at": "Sun, 28 Jun 2026 19:56:02 +0000",
-          "cross_sections": []
-        },
-        {
           "id": "bnl0LW1pZGVhc3QtbGl2ZS11",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1346,10 +1332,24 @@
           "summary": "In a fourth day of hostilities, Iran said that it had targeted a U.S. naval base in Bahrain and a Kuwaiti air base with drones and missiles. No major damage or casualties were reported.",
           "image_url": "https://static01.nyt.com/images/2026/06/28/multimedia/28mideast-200-fbgh/28mideast-200-fbgh-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
-          "published_at": "Sun, 28 Jun 2026 19:48:27 +0000",
+          "published_at": "Sun, 28 Jun 2026 21:00:56 +0000",
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "bnl0LXZlbmV6dWVsYS1saXZl",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "Venezuela Live Updates: Window to Find Survivors Is Closing as Rescuers Battle Through Aftershocks",
+          "summary": "More than three days after twin earthquakes devastated the Venezuelan coast, the rescue effort faced chaos and delays as the chances of finding survivors diminished.",
+          "image_url": "https://static01.nyt.com/images/2026/06/28/multimedia/28venez-200-tpwg/28venez-200-tpwg-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake",
+          "published_at": "Sun, 28 Jun 2026 20:42:00 +0000",
+          "cross_sections": []
         },
         {
           "id": "bnl0LWlyYW4tcmlza3MtcGVh",
@@ -1671,6 +1671,20 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "Y25uLXRydW1wLXBsZWFkcy1u",
+          "source_id": "cnn",
+          "source_name": "CNN",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Trump pleads not guilty to 34 felony counts",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
+          "published_at": "2026-06-28T21:17:05.927Z",
+          "cross_sections": []
+        },
+        {
           "id": "Y25uLXJlYWQ6LXRydW1wLWlu",
           "source_id": "cnn",
           "source_name": "CNN",
@@ -1681,7 +1695,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-06-28T20:04:14.955Z",
+          "published_at": "2026-06-28T21:17:05.927Z",
           "cross_sections": []
         },
         {
@@ -1695,21 +1709,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-06-28T20:04:14.955Z",
-          "cross_sections": []
-        },
-        {
-          "id": "Y25uLXRydW1wLXBsZWFkcy1u",
-          "source_id": "cnn",
-          "source_name": "CNN",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Trump pleads not guilty to 34 felony counts",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-06-28T20:04:14.954Z",
+          "published_at": "2026-06-28T21:17:05.927Z",
           "cross_sections": []
         },
         {
@@ -2031,7 +2031,7 @@
           "summary": "Iran says it targeted U.S. military facilities in Kuwait and Bahrain following U.S. strikes on targets in and around the Strait of Hormuz.",
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/06/28/trump-threatens-iran-with-annihilation-kuwait-bahrain-report-attacks.html",
-          "published_at": "Sun, 28 Jun 2026 19:21:22 GMT",
+          "published_at": "Sun, 28 Jun 2026 20:57:32 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -2272,6 +2272,22 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "Zm94LWlyYW4tdGFyZ2V0cy11",
+          "source_id": "fox",
+          "source_name": "Fox News",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Iran targets US with psychological warfare campaign to manipulate Americans, embarrass Trump: experts",
+          "summary": "Iran's decapitated leadership has moved its influence operations to X, using covert digital proxies to undermine Trump's nuclear deal, analysts say.",
+          "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/Tehran-Regime-Talks.jpeg?ve=1&tl=1",
+          "article_url": "https://www.foxnews.com/world/iran-targets-us-psychological-warfare-campaign-manipulate-americans-embarrass-trump-experts",
+          "published_at": "Sun, 28 Jun 2026 16:37:34 -0400",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "Zm94LTMzLXJlc2N1ZWQtZnJv",
           "source_id": "fox",
           "source_name": "Fox News",
@@ -2444,20 +2460,6 @@
           ]
         },
         {
-          "id": "Zm94LXJ1YmlvLWFubm91bmNl",
-          "source_id": "fox",
-          "source_name": "Fox News",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Rubio announces framework deal between Israel and Lebanon as experts warn Iran will fight to sabotage it",
-          "summary": "Secretary of State Rubio and PM Netanyahu welcome U.S.-brokered framework agreement between Israel and Lebanon as a step toward lasting peace.",
-          "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/israel-lebanon-rubio.jpg?ve=1&tl=1",
-          "article_url": "https://www.foxnews.com/world/rubio-announces-framework-deal-between-israel-lebanon-experts-warn-iran-fight-sabotage",
-          "published_at": "Fri, 26 Jun 2026 18:13:23 -0400",
-          "cross_sections": []
-        },
-        {
           "id": "Zm94LWZveC1uZXdzLWFpLW5l",
           "source_id": "fox",
           "source_name": "Fox News",
@@ -2548,7 +2550,7 @@
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "Top Stories",
-          "title": "Agnew: Ben Stokes's exit is unconvential for an English great",
+          "title": "Agnew: Ben Stokes's exit is unconventional for an English great",
           "summary": "Ben Stokes' shock retirement as England captain during the third Test against New Zealand was unconventional - just like the great player himself, says Jonathan Agnew.",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1d2/live/efc09610-7306-11f1-8b3a-1977d6dee6ef.jpg",
           "article_url": "https://www.bbc.co.uk/sport/cricket/articles/clyw37kgjeeo?at_medium=RSS&at_campaign=rss",
@@ -3212,14 +3214,28 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "ZXVyb25ld3Mtam95LWFzLW1h",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Joy as man pulled from rubble three days after Venezuela quake",
+          "summary": "Spanish and international rescue teams pulled a survivor from the rubble four days after deadly earthquakes struck Venezuela. Search operations continue as crews race to find more survivors, with the death toll rising to more than 1,400.",
+          "image_url": "https://images.euronews.com/articles/stories/09/81/67/05/696x392_cmsv2_00e5d9c8-0eee-5ee5-bf09-28994428c860-9816705.jpg",
+          "article_url": "http://www.euronews.com/2026/06/28/joy-as-man-pulled-from-rubble-three-days-after-venezuela-quake",
+          "published_at": "Sun, 28 Jun 2026 23:00:12 +0200",
+          "cross_sections": []
+        },
+        {
           "id": "ZXVyb25ld3MtaXJhbi10aHJl",
           "source_id": "euronews",
           "source_name": "Euronews",
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "News",
-          "title": "Iran threatens total halt to talks amid intensive US air activity over Hormuz",
-          "summary": "The IRGC said the weekend US strikes violated the framework deal and warned that violating vessels would face a \"crushing response,\" as Euronews journalists in Doha observed US refuelling aircraft taking off for Hormuz in the same formation as the previous night's strikes.",
+          "title": "Iran threatens total halt to talks amid intensive US air activity near Hormuz",
+          "summary": "The IRGC said the weekend US strikes violated the framework deal and warned that violating vessels would face a \"crushing response,\" as Euronews journalists in Doha observed US refuelling aircraft taking off towards Hormuz in the same formation as the previous night's strikes.",
           "image_url": "https://images.euronews.com/articles/stories/09/81/66/85/696x392_cmsv2_8e965eef-27c6-54b8-a1bb-84cd7cf517e1-9816685.jpg",
           "article_url": "http://www.euronews.com/2026/06/28/iran-threatens-total-halt-to-talks-amid-intensive-us-air-activity-over-hormuz",
           "published_at": "Sun, 28 Jun 2026 21:17:39 +0200",
@@ -3306,22 +3322,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "ZXVyb25ld3MtYWxnZXJpYW5z",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "News",
-          "title": "Algerians celebrate as dramatic draw seals World Cup knockout spot",
-          "summary": "\"We wanted to take our revenge against Austria\": Algeria fans react in Algiers after the draw against Austria secured the Fennecs' place in the World Cup round of 32.",
-          "image_url": "https://images.euronews.com/articles/stories/09/81/63/25/696x392_cmsv2_a4633ec3-e561-551e-aab7-6aa689c720e4-9816325.jpg",
-          "article_url": "http://www.euronews.com/video/2026/06/28/algerians-celebrate-as-dramatic-draw-seals-world-cup-knockout-spot",
-          "published_at": "Sun, 28 Jun 2026 11:31:13 +0200",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -3401,7 +3401,7 @@
           "source_category": "Broadcaster",
           "feed_label": "Top Stories",
           "title": "Russia's Putin promises security as Ukraine ramps up attacks",
-          "summary": "The Russian leader condemned \"terrorist attacks on our territory and infrastructure facilities.\" Ukrainian attacks on Russia's oil refineries and weapons factories have caused massive disruption in recent weeks.",
+          "summary": "The Russian leader condemned what he called \"terrorist attacks on our territory and infrastructure facilities.\" Ukraine has targeted oil refineries and weapons factories, causing massive disruption in recent weeks.",
           "image_url": null,
           "article_url": "https://www.dw.com/en/russia-s-putin-promises-security-as-ukraine-ramps-up-attacks/a-77744239?maca=en-rss-en-top-1022-xml-mrss",
           "published_at": "Sun, 28 Jun 2026 14:58:00 GMT",
@@ -3570,6 +3570,50 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dG9pLXBtLW1vZGktaGFpbHMt",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "PM Modi hails fight against superstition that saved rare stork in Assam",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/pm-modi-hails-fight-against-superstition-that-saved-rare-stork-in-assam/articleshow/132058522.cms",
+          "published_at": "Mon, 29 Jun 2026 02:34:54 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLXBha2lzdGFuLWNhcnJp",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Pakistan carries out 'calibrated strikes' near Afghanistan border, 29 militants killed",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-carries-out-calibrated-strikes-near-afghanistan-border-29-militants-killed/articleshow/132058492.cms",
+          "published_at": "Mon, 29 Jun 2026 02:02:08 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dG9pLWdvdmVybm1lbnQtd2lk",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Government widens fight on anaemia, adds low birth weight babies",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/government-widens-fight-on-anaemia-adds-low-birth-weight-babies/articleshow/132058450.cms",
+          "published_at": "Mon, 29 Jun 2026 01:37:53 +0530",
+          "cross_sections": []
+        },
+        {
           "id": "dG9pLWluZGlhLXRvcHMtZWNv",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3628,52 +3672,6 @@
           "article_url": "https://timesofindia.indiatimes.com/sports/cricket/icc-womens-t20-world-cup/india-crash-out-of-womens-t20-world-cup-despite-harmanpreet-kaurs-heroics/articleshow/132056308.cms",
           "published_at": "Sun, 28 Jun 2026 23:15:52 +0530",
           "cross_sections": []
-        },
-        {
-          "id": "dG9pLWhpZGRlbi1zaWduYWwt",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Hidden signal Siya gave Chetan before he 'pushed' Ketan into gorge; police reveal chilling plot",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/sitting-down-hidden-signal-siya-gave-chetan-before-he-pushed-ketan-into-gorge-police-reveal-plot/articleshow/132056436.cms",
-          "published_at": "Sun, 28 Jun 2026 23:08:51 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dG9pLSdzZW50aW1lbnRzLWh1",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "'Sentiments hurt': Ayodhya lawyers refuse to defend Ram temple donation case accused",
-          "summary": "Eight individuals accused in the Ayodhya Ram Temple donation case face a significant hurdle as local lawyers have unanimously agreed not to represent them. The Faizabad Bar Association is set to formalize this decision, citing hurt sentiments over the alleged theft of temple offerings. Meanwhile, po",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/sentiments-hurt-ayodhya-lawyers-refuse-to-defend-ram-temple-donation-case-accused/articleshow/132053122.cms",
-          "published_at": "Sun, 28 Jun 2026 19:50:10 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLXB1dGluLWFkbWl0cy0n",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Putin admits 'difficult period' as Ukraine ramps up attacks deep inside Russia",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/world/europe/putin-admits-problems-as-ukraine-ramps-up-attacks-deep-inside-russia/articleshow/132052793.cms",
-          "published_at": "Sun, 28 Jun 2026 19:40:42 +0530",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "dG9pLWplZmYtYmV6b3MtdnMt",
@@ -3936,47 +3934,17 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dGhlaGluZHUtZHUtcmVjZWl2",
+          "id": "dGhlaGluZHUtYmloYXItb24t",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "DU receives 41,473 registrations on first day of UG admissions",
-          "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/bpzwmp/article71159000.ece/alternates/LANDSCAPE_1200/6270_17_6_2026_14_39_34_1_OPENHOUSEMIRANDAHOUSEDUDELHI2026_17_06_1.JPG",
-          "article_url": "https://www.thehindu.com/news/cities/Delhi/du-receives-41473-registrations-on-first-day-of-ug-admissions/article71159014.ece",
-          "published_at": "Mon, 29 Jun 2026 01:27:08 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtYWFwLWF0dGFj",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "AAP attacks govt. over top health official appointment",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/cities/Delhi/aap-attacks-govt-over-top-health-official-appointment/article71158875.ece",
-          "published_at": "Mon, 29 Jun 2026 01:26:55 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUteWFtdW5hLXJl",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Yamuna revival needs public support: Delhi CM",
-          "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/wle7kq/article71159008.ece/alternates/LANDSCAPE_1200/20260628392L.jpg",
-          "article_url": "https://www.thehindu.com/news/cities/Delhi/yamuna-revival-needs-public-support-delhi-cm/article71159007.ece",
-          "published_at": "Mon, 29 Jun 2026 01:26:43 +0530",
+          "title": "Bihar on verge of bankruptcy, says Tejashwi",
+          "summary": "While addressing the press at the party office, the Rashtriya Janata Dal (RJD) leader alleged that the state is facing extreme financial loss due to scams, corruption, revenue loss, widening fiscal deficit and mounting debt",
+          "image_url": "https://th-i.thgim.com/public/incoming/rcuvua/article71159030.ece/alternates/LANDSCAPE_1200/20260628179L.jpg",
+          "article_url": "https://www.thehindu.com/news/national/bihar/bihar-on-verge-of-bankruptcy-says-tejashwi/article71157817.ece",
+          "published_at": "Mon, 29 Jun 2026 02:34:27 +0530",
           "cross_sections": []
         },
         {
@@ -3986,11 +3954,11 @@
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Trump says reflecting pool \"in full use,\" public golf course building will begin",
-          "summary": "He said work ⁠would begin in September on a ​golf ‌course in Washington that will be open ‌to the ​public",
+          "title": "Trump says his renovation plans for golf course will have Washington hosting ‘major’ tournament",
+          "summary": "⁠The National Mall reflecting pool ‌is now “in full use” ‌after being ‌damaged, he said",
           "image_url": "https://th-i.thgim.com/public/incoming/h1w7ea/article71159012.ece/alternates/LANDSCAPE_1200/Trump_23447.jpg",
           "article_url": "https://www.thehindu.com/news/international/trump-says-reflecting-pool-in-full-use-public-golf-course-building-will-begin/article71159009.ece",
-          "published_at": "Mon, 29 Jun 2026 01:24:24 +0530",
+          "published_at": "Mon, 29 Jun 2026 02:30:21 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4006,52 +3974,86 @@
           "summary": "Neither nation has ever reached this stage; Canada makes four changes, while SA makes one",
           "image_url": null,
           "article_url": "https://www.thehindu.com/sport/football/south-africa-vs-canada-fifa-world-cup-knockout-stage-first-match-live-score-updates-june-29-2026/article71158853.ece",
-          "published_at": "Mon, 29 Jun 2026 01:18:43 +0530",
+          "published_at": "Mon, 29 Jun 2026 02:27:03 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUtdDIwLXdvcmxk",
+          "id": "dGhlaGluZHUtd2VzdC1hc2lh",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "T20 World Cup: The Perry-Gardner show ends Women in Blue’s run",
-          "summary": "It was a pity that Harmanpreet’s stunning knock, when India needed it desperately, ended in a losing cause",
-          "image_url": "https://th-i.thgim.com/public/incoming/oxpro8/article71158807.ece/alternates/LANDSCAPE_1200/Britain_T2__World_Cup_Womens_Cricket_62742.jpg",
-          "article_url": "https://www.thehindu.com/sport/cricket/womens-t20-world-cup-india-vs-australia-harmanpreet-kaur-ellyse-perry-match-report/article71158803.ece",
-          "published_at": "Mon, 29 Jun 2026 01:01:34 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtZ2JhLXJlY29y",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "GBA records 96.4% pulse polio coverage",
-          "summary": "",
+          "title": "West Asia war LIVE: U.S., Iran agree to halt attacks and hold talks in Doha this week, report says",
+          "summary": "The two sides anticipate meeting ‌on June 30 ​in Doha, ⁠Axios report said, to work ‌out their dispute over the Strait of Hormuz",
           "image_url": null,
-          "article_url": "https://www.thehindu.com/news/cities/bangalore/gba-records-964-pulse-polio-coverage/article71158508.ece",
-          "published_at": "Mon, 29 Jun 2026 00:57:02 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtYmpwLWEt4oCY",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "BJP a ‘factory of lies’, says Siddaramaiah in Mysuru",
-          "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/f4hojx/article71157868.ece/alternates/LANDSCAPE_1200/PTI01_06_2026_000234B.jpg",
-          "article_url": "https://www.thehindu.com/news/national/karnataka/bjp-a-factory-of-lies-says-siddaramaiah-in-mysuru/article71157656.ece",
-          "published_at": "Mon, 29 Jun 2026 00:48:23 +0530",
+          "article_url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-tehran-washington-ceasefire-live-updates-june-28-2026/article71156840.ece",
+          "published_at": "Mon, 29 Jun 2026 02:25:20 +0530",
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "dGhlaGluZHUtcGFraXN0YW4t",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Pakistan says it carried out ground operation, strikes along Afghan border; 29 militants killed",
+          "summary": "Pakistani forces carried out “calibrated strikes” against terrorist hideouts and safe havens in the border region",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/international/pakistan-ground-operation-strikes-afghanistan-border-casualties-updates/article71159048.ece",
+          "published_at": "Mon, 29 Jun 2026 02:16:16 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtaXJhbi13YXJu",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Iran warns ships not to bypass its chosen Hormuz route",
+          "summary": "At the moment, Iran insists ships transiting the strait pass through a corridor close to its own shores, though this week dozens of vessels have travelled along the opposite side of the waterway, hugging the Omani coast",
+          "image_url": "https://th-i.thgim.com/public/incoming/5dey32/article71159033.ece/alternates/LANDSCAPE_1200/2026-06-26T134326Z_1979541742_RC2N1MAO4YN7_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG",
+          "article_url": "https://www.thehindu.com/news/international/iran-warns-ships-not-to-bypass-its-chosen-hormuz-route/article71159031.ece",
+          "published_at": "Mon, 29 Jun 2026 01:53:09 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtZm9vZC1kZWxp",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Food delivery workers fear stigma amid drug link claims, police checks",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/l7c8at/article71158554.ece/alternates/LANDSCAPE_1200/6678_24-11-2020_12-3-36_2_FOOD_2.JPG",
+          "article_url": "https://www.thehindu.com/news/national/kerala/food-delivery-personnel-fear-stigma-as-police-intensify-check-under-operation-toofan/article71158501.ece",
+          "published_at": "Mon, 29 Jun 2026 01:39:22 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtY2FsbC1mb3It",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Call for strict licensing, deterrent action to prevent tipper lorry accidents",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/6eaoda/article71158485.ece/alternates/LANDSCAPE_1200/80686_23_6_2026_17_25_29_1_24TVKO_ACCIDENT.JPG",
+          "article_url": "https://www.thehindu.com/news/national/kerala/call-for-strict-licensing-deterrent-action-to-prevent-tipper-lorry-accidents/article71158262.ece",
+          "published_at": "Mon, 29 Jun 2026 01:38:43 +0530",
+          "cross_sections": []
         },
         {
           "id": "dGhlaGluZHUtYWNjZW50dXJl",
@@ -4531,13 +4533,43 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YWxqYXplZXJhLXByb3Rlc3Rl",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Protesters in Serbia doubt Vucic resignation will bring change",
+          "summary": "Thousands of protesters gathered in Serbia's Kraljevo, dismissing Aleksandar Vucic's pledge to resign.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/protesters-in-serbia-doubt-vucic-resignation-will-bring-change?traffic_source=rss",
+          "published_at": "Sun, 28 Jun 2026 20:29:18 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLXBvcGUtbGVv",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Pope Leo prays for Venezuela’s recovery after deadly quakes",
+          "summary": "Pope Leo expressed solidarity with Venezuelans after two deadly earthquakes claimed the lives of at least 1,400.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/pope-leo-prays-for-venezuelas-recovery-after-deadly-quakes?traffic_source=rss",
+          "published_at": "Sun, 28 Jun 2026 20:21:47 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YWxqYXplZXJhLWlzcmFlbC1r",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
           "source_region": "Middle East & Africa",
           "source_category": "Broadcaster",
           "feed_label": "All News",
-          "title": "Israel kills three Palestinians in Gaza as attacks on tents continue",
+          "title": "Israel kills four Palestinians in Gaza as attacks on tents continue",
           "summary": "Israeli forces restrict Palestinian worshippers at Al-Aqsa Mosque and block the call to prayer at the Ibrahimi Mosque.",
           "image_url": null,
           "article_url": "https://www.aljazeera.com/news/2026/6/28/israel-kills-three-palestinians-in-gaza-as-attacks-on-tents-continue?traffic_source=rss",
@@ -4615,36 +4647,6 @@
           "article_url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/israeli-forces-bulldoze-olive-groves-in-the-occupied-west-bank?traffic_source=rss",
           "published_at": "Sun, 28 Jun 2026 19:21:23 +0000",
           "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXN0YXJtZXIt",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Starmer couldn’t master the media. Can Burnham?",
-          "summary": "Keir Starmer’s rapid fall from power and Britain’s revolving door of leaders.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/the-listening-post/2026/6/28/starmer-couldnt-master-the-media-can-burnham?traffic_source=rss",
-          "published_at": "Sun, 28 Jun 2026 18:59:47 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXVzLWFuZC1p",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "US and Iran trade strikes days after peace agreement",
-          "summary": "Just days after signing a memorandum of understanding, the US and Iran have traded strikes.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-and-iran-trade-strikes-days-after-peace-agreement?traffic_source=rss",
-          "published_at": "Sun, 28 Jun 2026 18:55:53 +0000",
-          "cross_sections": []
         }
       ]
     },
@@ -4655,65 +4657,49 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "YXJhYm5ld3MtbWFsYXlzaWEt",
+          "id": "YXJhYm5ld3Mtc2F1ZGktaW5m",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Malaysia appoints new anti-graft chief",
-          "summary": "KUALA LUMPUR: Malaysia appointed on Saturday a former high court judge as the country’s new anti-graft czar to replace its outgoing chief who was dogged by allegations of abuse of power and illegal shareholding.\n\tThe appointment of Abdul Halim Aman comes as Prime Minister Anwar Ibrahim’s government ",
+          "title": "Saudi inflation remains contained at 1.8% in May: GASTAT",
+          "summary": "RIYADH: Saudi Arabia’s annual inflation rate edged up to 1.8 percent in May with housing rents continuing to drive price gains in the Kingdom, official data showed. \n\n\tAccording to the latest report released by the General Authority for Statistics, the Kingdom’s Consumer Price Index edged up 0.2 per",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641214/world",
-          "published_at": "Sat, 25 Apr 2026 09:04:41 +03",
+          "article_url": "https://www.arabnews.com/node/2647232/business-economy",
+          "published_at": "Mon, 15 Jun 2026 11:06:57 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtY2hpbmVzZS1w",
+          "id": "YXJhYm5ld3MtbGViYW5vbi13",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Chinese panda pair headed to US zoo",
-          "summary": "BEIJING: Two giant pandas from China are headed to Atlanta on a new 10-year conservation deal.\n\tPandas Ping Ping, a male, and Fu Shuang, a female, will live at Zoo Atlanta, China Wildlife Conservation Association said in a statement Friday.\n\tThe organization signed the research agreement with the Un",
+          "title": "Lebanon warns displaced against rushing home after US-Iran deal",
+          "summary": "BEIRUT/JERUSALEM: Authorities in southern Lebanon warned people displaced by three months of war between Israel and Hezbollah against rushing home on Monday despite a US-Iran deal to end the wider conflict, as Israel said it would not withdraw troops from the south.\n\n\tThe warning comes as Lebanon ha",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641211/offbeat",
-          "published_at": "Sat, 25 Apr 2026 08:04:58 +03",
+          "article_url": "https://www.arabnews.com/node/2647227/middle-east",
+          "published_at": "Mon, 15 Jun 2026 11:06:50 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtZGVzcGl0ZS1p",
+          "id": "YXJhYm5ld3MtaXNyYWVsLXNh",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Despite Iran tensions, King Charles III will follow his mother’s lead in celebrating US-UK bonds",
-          "summary": "LONDON: The challenge for King Charles III as he embarks on this week’s state visit to the US is, as always, to live up to his mother’s example.\n\tThe late Queen Elizabeth II wowed Congress in 1991 with a speech that celebrated the shared democratic traditions of Britain and the United States, quoted",
+          "title": "Israel says won’t withdraw troops from Lebanon, Syria, Gaza",
+          "summary": "JERUSALEM: Israel’s defense minister said Monday that Israeli forces would remain in Lebanon, Syria and Gaza indefinitely, hours after the United States and Iran agreed to end the Middle East war, including in Lebanon.\n\t“Prime Minister Benjamin Netanyahu and I are pursuing a clear policy under which",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641209/world",
-          "published_at": "Sat, 25 Apr 2026 08:04:24 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtdGhyZWUta2ls",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Three killed in clashes in India’s troubled northeast",
-          "summary": "NEW DELHI: Gun battles between rival ethnic groups in India’s troubled northeastern Manipur state killed three men, police said, the latest unrest in the far-flung region.\n\tManipur has seen periodic clashes for nearly three years between the predominantly Hindu Meitei majority and the mainly Christi",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641212/world",
-          "published_at": "Sat, 25 Apr 2026 08:04:10 +03",
+          "article_url": "https://www.arabnews.com/node/2647229/middle-east",
+          "published_at": "Mon, 15 Jun 2026 11:06:33 +03",
           "cross_sections": [
             "tech"
           ]
@@ -4725,60 +4711,73 @@
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Saudi Arabia’s events sector push on track despite disruptions, says industry veteran",
-          "summary": "RIYADH: Saudi Arabia’s push to position itself as a global events hub remains firmly on track despite geopolitical disruptions, according to one of the leading figures in the industry.\n\n\tThe US-Israel war with Iran has led to disruptions to many of the Kingdom’s flagship forums, with the Saudi Arabi",
+          "title": "Saudi Arabia, South Korea sign MoU to boost oil and gas cooperation",
+          "summary": "RIYADH: Saudi Arabia and South Korea signed a memorandum of understanding in Riyadh to enhance cooperation in the oil and gas sector and strengthen their broader energy partnership.\n\n\tEnergy Minister Prince Abdulaziz bin Salman met with South Korea’s Minister of Trade, Industry and Energy, Kim Jung-",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641206/business-economy",
-          "published_at": "Sat, 25 Apr 2026 07:04:43 +03",
+          "article_url": "https://www.arabnews.com/node/2647228/business-economy",
+          "published_at": "Mon, 15 Jun 2026 11:06:21 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtYXVzdHJhbGlh",
+          "id": "YXJhYm5ld3MteWFoeWEtYWJk",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Australia refuses repatriation help for citizens in Syria camp",
-          "summary": "SYDNEY: Australia refused to help repatriate citizens related to suspected Daesh militants on Saturday, following a report that some Australian families are trying to return home from a camp in Syria.\n\tNational broadcaster ABC said four Australian women and nine of their children and grandchildren h",
+          "title": "Yahya Abdul-Mateen II reflects on Marvel ‘Wonder Man’ role",
+          "summary": "DUBAI: US actor Yahya Abdul-Mateen II has reportedly said that “people see so much of themselves in (protagonist) Simon (Williams),” the role he plays in the Marvel series “Wonder Man.”: \n\n\tThe actor was known to comic book fans as DC’s Black Manta in the “Aquaman” movies and for his breakout role i",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641208/middle-east",
-          "published_at": "Sat, 25 Apr 2026 07:04:24 +03",
+          "article_url": "https://www.arabnews.com/node/2647230/lifestyle",
+          "published_at": "Mon, 15 Jun 2026 11:06:19 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtdXMtbWlsaXRh",
+          "id": "YXJhYm5ld3Mtc2hhbmluYS1z",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "US military says it struck vessel in Eastern Pacific, killing two",
-          "summary": "WASHINGTON: The US military said on Friday it struck a vessel in the Eastern Pacific, killing two people, in the latest such attack, condemned by rights groups as “extrajudicial killings” and described by Washington as targeting “narco-terrorists.”\n\tThe US Southern Command alleged that the vessel st",
+          "title": "Shanina Shaik is Australian fashion’s latest star",
+          "summary": "DUBAI: Part-Saudi model Shanina Shaik is promoting a clutch of Australian brands on social media, starring in a campaigns after hitting the runway at Australian Fashion Week earlier this year.\n\n\tThe model is quickly becoming the face of Australian fashion, with brands seemingly banking on her intern",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641203/world",
-          "published_at": "Sat, 25 Apr 2026 06:04:49 +03",
+          "article_url": "https://www.arabnews.com/node/2647231/lifestyle",
+          "published_at": "Mon, 15 Jun 2026 11:06:06 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3Mtc3RhcnR1cC13",
+          "id": "YXJhYm5ld3Mtbm9yd2F5LWNy",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Startup Wrap: MENA startups draw capital as AI bets continue to accelerate",
-          "summary": "RIYADH: Startups across the Middle East and North Africa saw new funding rounds over the past week, with acquisitions, and partnerships across artificial intelligence, fintech, gaming, and digital infrastructure.\n\n\tSaudi Arabia-based Signit raised $15 million in a series A round led by Raed Ventures",
+          "title": "Norway crown princess’s son sentenced to four years in prison for rape: court",
+          "summary": "OSLO: An Oslo court on Monday convicted Norwegian Crown Princess Mette-Marit’s son of two counts of rape, sentencing him to four years in prison in a high-profile scandal that has rocked the monarchy.\n\tMarius Borg Hoiby, 29, Mette-Marit’s son from a relationship prior to her 2001 marriage to Crown P",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641205/business-economy",
-          "published_at": "Sat, 25 Apr 2026 06:04:04 +03",
+          "article_url": "https://www.arabnews.com/node/2647222/world",
+          "published_at": "Mon, 15 Jun 2026 10:06:57 +03",
+          "cross_sections": []
+        },
+        {
+          "id": "YXJhYm5ld3MtZ3VsZiwtYXJh",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Gulf, Arab states welcome US-Iran deal to end war, reopen Hormuz",
+          "summary": "DUBAI: Gulf and Arab states welcomed on Monday a US-Iran agreement to end the war and reopen the Strait of Hormuz, expressing hope that the deal will pave the way for lasting regional stability and broader diplomatic engagement.\n\n\tSaudi Arabia welcomed the agreement between Washington and Tehran to ",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2647225/middle-east",
+          "published_at": "Mon, 15 Jun 2026 10:06:15 +03",
           "cross_sections": [
-            "tech",
-            "ai"
+            "tech"
           ]
         }
       ]
@@ -4948,17 +4947,177 @@
       "icon": "💻",
       "articles": [
         {
-          "id": "dGhlaGluZHUtYWFwLWF0dGFj",
+          "id": "dG9pLXBtLW1vZGktaGFpbHMt",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "PM Modi hails fight against superstition that saved rare stork in Assam",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/pm-modi-hails-fight-against-superstition-that-saved-rare-stork-in-assam/articleshow/132058522.cms",
+          "published_at": "Mon, 29 Jun 2026 02:34:54 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LW1pZGVhc3QtbGl2ZS11",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "Mideast Live Updates: Dispute Over Strait Deepens as U.S. and Iran Trade Attacks",
+          "summary": "In a fourth day of hostilities, Iran said that it had targeted a U.S. naval base in Bahrain and a Kuwaiti air base with drones and missiles. No major damage or casualties were reported.",
+          "image_url": "https://static01.nyt.com/images/2026/06/28/multimedia/28mideast-200-fbgh/28mideast-200-fbgh-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
+          "published_at": "Sun, 28 Jun 2026 21:00:56 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdHJ1bXAtc2F5",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "AAP attacks govt. over top health official appointment",
-          "summary": "",
+          "title": "Trump says his renovation plans for golf course will have Washington hosting ‘major’ tournament",
+          "summary": "⁠The National Mall reflecting pool ‌is now “in full use” ‌after being ‌damaged, he said",
+          "image_url": "https://th-i.thgim.com/public/incoming/h1w7ea/article71159012.ece/alternates/LANDSCAPE_1200/Trump_23447.jpg",
+          "article_url": "https://www.thehindu.com/news/international/trump-says-reflecting-pool-in-full-use-public-golf-course-building-will-begin/article71159009.ece",
+          "published_at": "Mon, 29 Jun 2026 02:30:21 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iYy1pcmFuLXRhbGtzLW9u",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Iran talks on hold after fighting breaks out and Trump once again threatens annihilation",
+          "summary": "Iran says it targeted U.S. military facilities in Kuwait and Bahrain following U.S. strikes on targets in and around the Strait of Hormuz.",
           "image_url": null,
-          "article_url": "https://www.thehindu.com/news/cities/Delhi/aap-attacks-govt-over-top-health-official-appointment/article71158875.ece",
-          "published_at": "Mon, 29 Jun 2026 01:26:55 +0530",
+          "article_url": "https://www.cnbc.com/2026/06/28/trump-threatens-iran-with-annihilation-kuwait-bahrain-report-attacks.html",
+          "published_at": "Sun, 28 Jun 2026 20:57:32 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtd2VzdC1hc2lh",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "West Asia war LIVE: U.S., Iran agree to halt attacks and hold talks in Doha this week, report says",
+          "summary": "The two sides anticipate meeting ‌on June 30 ​in Doha, ⁠Axios report said, to work ‌out their dispute over the Strait of Hormuz",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-tehran-washington-ceasefire-live-updates-june-28-2026/article71156840.ece",
+          "published_at": "Mon, 29 Jun 2026 02:25:20 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtcGFraXN0YW4t",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Pakistan says it carried out ground operation, strikes along Afghan border; 29 militants killed",
+          "summary": "Pakistani forces carried out “calibrated strikes” against terrorist hideouts and safe havens in the border region",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/international/pakistan-ground-operation-strikes-afghanistan-border-casualties-updates/article71159048.ece",
+          "published_at": "Mon, 29 Jun 2026 02:16:16 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Zm94LWlyYW4tdGFyZ2V0cy11",
+          "source_id": "fox",
+          "source_name": "Fox News",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Iran targets US with psychological warfare campaign to manipulate Americans, embarrass Trump: experts",
+          "summary": "Iran's decapitated leadership has moved its influence operations to X, using covert digital proxies to undermine Trump's nuclear deal, analysts say.",
+          "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/Tehran-Regime-Talks.jpeg?ve=1&tl=1",
+          "article_url": "https://www.foxnews.com/world/iran-targets-us-psychological-warfare-campaign-manipulate-americans-embarrass-trump-experts",
+          "published_at": "Sun, 28 Jun 2026 16:37:34 -0400",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhldmVyZ2Utc3Vuby1sYXVu",
+          "source_id": "theverge",
+          "source_name": "The Verge",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+          "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support.\nTo apply, artists need to be an unsigned sin",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "article_url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+          "published_at": "2026-06-28T20:27:36.000Z",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtaXJhbi13YXJu",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Iran warns ships not to bypass its chosen Hormuz route",
+          "summary": "At the moment, Iran insists ships transiting the strait pass through a corridor close to its own shores, though this week dozens of vessels have travelled along the opposite side of the waterway, hugging the Omani coast",
+          "image_url": "https://th-i.thgim.com/public/incoming/5dey32/article71159033.ece/alternates/LANDSCAPE_1200/2026-06-26T134326Z_1979541742_RC2N1MAO4YN7_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG",
+          "article_url": "https://www.thehindu.com/news/international/iran-warns-ships-not-to-bypass-its-chosen-hormuz-route/article71159031.ece",
+          "published_at": "Mon, 29 Jun 2026 01:53:09 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXBvcGUtbGVv",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Pope Leo prays for Venezuela’s recovery after deadly quakes",
+          "summary": "Pope Leo expressed solidarity with Venezuelans after two deadly earthquakes claimed the lives of at least 1,400.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/pope-leo-prays-for-venezuelas-recovery-after-deadly-quakes?traffic_source=rss",
+          "published_at": "Sun, 28 Jun 2026 20:21:47 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtZm9vZC1kZWxp",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Food delivery workers fear stigma amid drug link claims, police checks",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/l7c8at/article71158554.ece/alternates/LANDSCAPE_1200/6678_24-11-2020_12-3-36_2_FOOD_2.JPG",
+          "article_url": "https://www.thehindu.com/news/national/kerala/food-delivery-personnel-fear-stigma-as-police-intensify-check-under-operation-toofan/article71158501.ece",
+          "published_at": "Mon, 29 Jun 2026 01:39:22 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4975,38 +5134,6 @@
           "image_url": null,
           "article_url": "https://www.aljazeera.com/news/2026/6/28/hope-of-finding-more-venezuela-quake-survivors-fades-despite-late-rescues?traffic_source=rss",
           "published_at": "Sun, 28 Jun 2026 19:54:35 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtdHJ1bXAtc2F5",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Trump says reflecting pool \"in full use,\" public golf course building will begin",
-          "summary": "He said work ⁠would begin in September on a ​golf ‌course in Washington that will be open ‌to the ​public",
-          "image_url": "https://th-i.thgim.com/public/incoming/h1w7ea/article71159012.ece/alternates/LANDSCAPE_1200/Trump_23447.jpg",
-          "article_url": "https://www.thehindu.com/news/international/trump-says-reflecting-pool-in-full-use-public-golf-course-building-will-begin/article71159009.ece",
-          "published_at": "Mon, 29 Jun 2026 01:24:24 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LW1pZGVhc3QtbGl2ZS11",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Mideast Live Updates: Dispute Over Strait Deepens as U.S. and Iran Trade Attacks",
-          "summary": "In a fourth day of hostilities, Iran said that it had targeted a U.S. naval base in Bahrain and a Kuwaiti air base with drones and missiles. No major damage or casualties were reported.",
-          "image_url": "https://static01.nyt.com/images/2026/06/28/multimedia/28mideast-200-fbgh/28mideast-200-fbgh-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
-          "published_at": "Sun, 28 Jun 2026 19:48:27 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5050,7 +5177,7 @@
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "Top Stories",
-          "title": "Agnew: Ben Stokes's exit is unconvential for an English great",
+          "title": "Agnew: Ben Stokes's exit is unconventional for an English great",
           "summary": "Ben Stokes' shock retirement as England captain during the third Test against New Zealand was unconventional - just like the great player himself, says Jonathan Agnew.",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1d2/live/efc09610-7306-11f1-8b3a-1977d6dee6ef.jpg",
           "article_url": "https://www.bbc.co.uk/sport/cricket/articles/clyw37kgjeeo?at_medium=RSS&at_campaign=rss",
@@ -5076,22 +5203,6 @@
           ]
         },
         {
-          "id": "Y25iYy1pcmFuLXRhbGtzLW9u",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Iran talks on hold after fighting breaks out and Trump once again threatens annihilation",
-          "summary": "Iran says it targeted U.S. military facilities in Kuwait and Bahrain following U.S. strikes on targets in and around the Strait of Hormuz.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/06/28/trump-threatens-iran-with-annihilation-kuwait-bahrain-report-attacks.html",
-          "published_at": "Sun, 28 Jun 2026 19:21:22 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "YmJjLXR3by1ib3lzLXJlc2N1",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -5108,30 +5219,14 @@
           ]
         },
         {
-          "id": "dGhlaGluZHUtYmpwLWEt4oCY",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "BJP a ‘factory of lies’, says Siddaramaiah in Mysuru",
-          "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/f4hojx/article71157868.ece/alternates/LANDSCAPE_1200/PTI01_06_2026_000234B.jpg",
-          "article_url": "https://www.thehindu.com/news/national/karnataka/bjp-a-factory-of-lies-says-siddaramaiah-in-mysuru/article71157656.ece",
-          "published_at": "Mon, 29 Jun 2026 00:48:23 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "ZXVyb25ld3MtaXJhbi10aHJl",
           "source_id": "euronews",
           "source_name": "Euronews",
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "News",
-          "title": "Iran threatens total halt to talks amid intensive US air activity over Hormuz",
-          "summary": "The IRGC said the weekend US strikes violated the framework deal and warned that violating vessels would face a \"crushing response,\" as Euronews journalists in Doha observed US refuelling aircraft taking off for Hormuz in the same formation as the previous night's strikes.",
+          "title": "Iran threatens total halt to talks amid intensive US air activity near Hormuz",
+          "summary": "The IRGC said the weekend US strikes violated the framework deal and warned that violating vessels would face a \"crushing response,\" as Euronews journalists in Doha observed US refuelling aircraft taking off towards Hormuz in the same formation as the previous night's strikes.",
           "image_url": "https://images.euronews.com/articles/stories/09/81/66/85/696x392_cmsv2_8e965eef-27c6-54b8-a1bb-84cd7cf517e1-9816685.jpg",
           "article_url": "http://www.euronews.com/2026/06/28/iran-threatens-total-halt-to-talks-amid-intensive-us-air-activity-over-hormuz",
           "published_at": "Sun, 28 Jun 2026 21:17:39 +0200",
@@ -5154,22 +5249,6 @@
           "cross_sections": [
             "tech",
             "ai"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXN0YXJtZXIt",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Starmer couldn’t master the media. Can Burnham?",
-          "summary": "Keir Starmer’s rapid fall from power and Britain’s revolving door of leaders.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/the-listening-post/2026/6/28/starmer-couldnt-master-the-media-can-burnham?traffic_source=rss",
-          "published_at": "Sun, 28 Jun 2026 18:59:47 +0000",
-          "cross_sections": [
-            "tech"
           ]
         },
         {
@@ -5505,86 +5584,6 @@
           "image_url": "https://c.ndtvimg.com/2026-06/grmnjgpo_sammi-deen-baloch_625x300_28_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
           "article_url": "https://www.ndtv.com/world-news/17-years-of-silence-baloch-activists-open-letter-exposes-pak-forced-disappearances-11699323#publisher=newsstand",
           "published_at": "Sun, 28 Jun 2026 20:57:09 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZHctdWdhbmRhLW1pbGl0YXJ5",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Uganda military chief shuts media outlets, slams 'free press'",
-          "summary": "Muhoozi Kainerugaba said that he issued the order as he does not \"believe in a free press.\" He is the son of President Yoweri Museveni, who has held his grip on power for decades.",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/uganda-military-chief-shuts-media-outlets-slams-free-press/a-77744687?maca=en-rss-en-top-1022-xml-mrss",
-          "published_at": "Sun, 28 Jun 2026 15:24:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LWhlbGljb3B0ZXItY3Jh",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Helicopter Crash Near Major Saudi Oil Refinery Kills 14 People",
-          "summary": "The incident occurred near the Ras Tanura facility in the east of the country, a key export hub for oil transported through the Strait of Hormuz.",
-          "image_url": "https://static01.nyt.com/images/2026/06/28/multimedia/28int-saudi-crash-pqch/28int-saudi-crash-pqch-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/06/28/world/middleeast/deadly-helicopter-crash-saudi-arabia.html",
-          "published_at": "Sun, 28 Jun 2026 15:18:53 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy11a3JhaW5l",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Ukraine can’t afford a breakup with Poland over history",
-          "summary": "This is reckless statecraft at the service of domestic politics on both sides — only Poland isn't at war.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/29/547786.jpg",
-          "article_url": "https://www.japantimes.co.jp/commentary/2026/06/29/world/ukraine-poland-history/",
-          "published_at": "Mon, 29 Jun 2026 00:17:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy1hLXRhaXdh",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "A Taiwan crisis and America’s faltering industrial base",
-          "summary": "Weaknesses in the U.S. defense industrial base no longer represent a mere economic issue; they now pose an immediate strategic vulnerability.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/29/548662.jpg",
-          "article_url": "https://www.japantimes.co.jp/commentary/2026/06/29/world/taiwan-america-industrial-base/",
-          "published_at": "Mon, 29 Jun 2026 00:14:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy1hbWVyaWNhLWNhbid0",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "America can't get enough of protein. The dairy industry can't keep up",
-          "summary": "Demand for whey protein is off the charts as American diet trends change and GLP-1s boom, and the dairy industry is struggling to produce enough.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/06/28/america-cant-get-enough-protein-the-dairy-industry-cant-keep-up.html",
-          "published_at": "Sun, 28 Jun 2026 15:13:52 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -6028,23 +6027,6 @@
           ]
         },
         {
-          "id": "YXJhYm5ld3Mtc3RhcnR1cC13",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Startup Wrap: MENA startups draw capital as AI bets continue to accelerate",
-          "summary": "RIYADH: Startups across the Middle East and North Africa saw new funding rounds over the past week, with acquisitions, and partnerships across artificial intelligence, fintech, gaming, and digital infrastructure.\n\n\tSaudi Arabia-based Signit raised $15 million in a series A round led by Raed Ventures",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641205/business-economy",
-          "published_at": "Sat, 25 Apr 2026 06:04:04 +03",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "dG9pLWNoYXRncHQtd2FzLWRv",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -6065,7 +6047,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 12530,
+    "build_ms": 9357,
     "ai_enabled": true
   }
 }
