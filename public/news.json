@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-27T23:51:56.881Z",
-  "total_articles": 283,
-  "new_this_run": 19,
+  "last_updated": "2026-06-28T02:12:09.210Z",
+  "total_articles": 295,
+  "new_this_run": 42,
   "sources": [
     {
       "id": "techcrunch",
@@ -655,6 +655,20 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "Y25ldC1iZXN0LXN0YW5kaW5n",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Best Standing Desks of 2026",
+          "summary": "Add health benefits to your workday with a standing desk.",
+          "image_url": "https://www.cnet.com/a/img/resize/7ba622145a0adf5caa628547aebbc3e7c304bb31/hub/2021/02/10/c3eda738-df98-4946-90d3-e49b76a7fdbb/vari-electric-standing-desk.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "article_url": "https://www.cnet.com/news/best-standing-desk/",
+          "published_at": "Sat, 27 Jun 2026 22:43:00 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "Y25ldC1iZXN0LWRlc2tzLW9m",
           "source_id": "cnet",
           "source_name": "CNET",
@@ -1276,36 +1290,64 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "bnl0LXZlbmV6dWVsYS1saXZl",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Venezuela Live Updates: Window Narrowing to Find Survivors as Quake Death Toll Surpasses 1,400",
-          "summary": "International teams were joining search efforts on Saturday after twin earthquakes devastated northern Venezuela, leaving many people trapped under rubble.",
-          "image_url": "https://static01.nyt.com/images/2026/06/27/multimedia/27venezuela-quake-promo-4pm-vhqm-copy/27venezuela-quake-promo-230pm-vhqm-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake",
-          "published_at": "Sat, 27 Jun 2026 23:37:27 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bnl0LW1pZGVhc3QtbGl2ZS11",
           "source_id": "nyt",
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
           "feed_label": "World",
-          "title": "Mideast Live Updates: U.S. Strikes Iran Again, Testing Truce",
-          "summary": "U.S. forces carried out retaliatory airstrikes on Iran for the second straight night, saying the latest barrage was in retaliation for an attack on an oil tanker on Saturday.",
+          "title": "Mideast Live Updates: U.S. and Iran Trade More Strikes, Testing Truce",
+          "summary": "U.S. forces carried out more airstrikes on Iran, calling them a retaliation for an attack on an oil tanker. Iran’s military later said it had attacked American targets in Bahrain and Kuwait.",
           "image_url": "https://static01.nyt.com/images/2026/06/27/multimedia/27mideast-promo-4pm-hgkq-copy/27mideast-promo-12pm-hgkq-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz",
-          "published_at": "Sat, 27 Jun 2026 23:36:32 +0000",
+          "published_at": "Sun, 28 Jun 2026 02:07:52 +0000",
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "bnl0LWp1bGlhLWxldGxvdywt",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Julia Letlow, Lifted by Trump, Wins Republican Senate Runoff in Louisiana",
+          "summary": "If she reaches the Senate, Ms. Letlow would become the first G.O.P. woman to represent Louisiana in the chamber.",
+          "image_url": "https://static01.nyt.com/images/2026/06/27/multimedia/27pol-louisiana-senate-hfo-letlow-kpqh/27pol-louisiana-senate-hfo-letlow-kpqh-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/06/27/us/louisiana-senate-republican-runoff-results.html",
+          "published_at": "Sun, 28 Jun 2026 01:45:49 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LXZlbmV6dWVsYS1saXZl",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "Venezuela Live Updates: Chaotic Rush to Help Victims Delays Some Rescues",
+          "summary": "A surge of people rushed into the devastated earthquake zone to offer help in northern Venezuela, slowing the advance of emergency responders. The death toll linked to twin quakes earlier in the week surpassed 1,400.",
+          "image_url": "https://static01.nyt.com/images/2026/06/27/multimedia/27venezuela-quake-promo-4pm-vhqm-copy/27venezuela-quake-promo-230pm-vhqm-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake",
+          "published_at": "Sun, 28 Jun 2026 01:14:19 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LXByby10cmFuc2dlbmRl",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Pro-Transgender Candidate Is Chased From a Trans Rights Event Over Gaza",
+          "summary": "Scott Wiener, who is running to replace Nancy Pelosi, was surrounded by a small group of protesters shouting invective before a transgender march in San Francisco.",
+          "image_url": "https://static01.nyt.com/images/2026/06/27/multimedia/27nat-wiener-gaza-mfjg/27nat-wiener-gaza-mfjg-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/06/27/us/scott-wiener-trans-march-gaza-video.html",
+          "published_at": "Sun, 28 Jun 2026 00:00:58 +0000",
+          "cross_sections": []
         },
         {
           "id": "bnl0LXRydW1wLXBpY2tzLWxh",
@@ -1324,6 +1366,20 @@
           ]
         },
         {
+          "id": "bnl0LXdlLWNydW5jaGVkLXRo",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "We Crunched the Data: There’s a Grocery Price Emergency in America",
+          "summary": "We dug into the data, toured the country and ran surveys to find the biggest financial pressures people feel.",
+          "image_url": null,
+          "article_url": "https://www.nytimes.com/2026/06/27/opinion/grocery-prices-inflation.html",
+          "published_at": "Sat, 27 Jun 2026 20:57:10 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "bnl0LW5vdy1pdOKAmXMtZmly",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1340,12 +1396,26 @@
           ]
         },
         {
-          "id": "bnl0LXZvbHVudGVlcnMtYXJl",
+          "id": "bnl0LXJvYmJ5LWhvZmZtYW4t",
           "source_id": "nyt",
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
+          "title": "Robby Hoffman Will Always Feel Poor, No Matter How Rich She Gets",
+          "summary": "The comedian and actor says class and the way she grew up inform everything about the way she lives now.",
+          "image_url": "https://static01.nyt.com/images/2026/07/12/magazine/12mag-interview-hoffman/12mag-interview-hoffman-mediumSquareAt3X-v2.jpg",
+          "article_url": "https://www.nytimes.com/2026/06/27/magazine/robby-hoffman-interview.html",
+          "published_at": "Sat, 27 Jun 2026 19:11:38 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LXZvbHVudGVlcnMtYXJl",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "World",
           "title": "Volunteers Are Risking Their Lives to Stop Ebola. They Aren’t Always Welcome.",
           "summary": "Frontline Congolese workers who conduct safe burials are key to containing what experts fear could become the worst ever Ebola outbreak. They risk not just infection, but the anger of terrified communities.",
           "image_url": "https://static01.nyt.com/images/2026/06/18/multimedia/00intt-ebola-redcross-promo/00intt-ebola-redcross-21-pfmj-mediumSquareAt3X.jpg",
@@ -1372,6 +1442,22 @@
           ]
         },
         {
+          "id": "bnl0LWRlYWwtd2l0aC1pc3Jh",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Deal With Israel Divides Lebanese, Fueling Protests in Beirut",
+          "summary": "Supporters welcomed the agreement as a step toward curtailing Iran’s influence within Lebanon, but others took to the streets, calling it a capitulation.",
+          "image_url": "https://static01.nyt.com/images/2026/06/27/multimedia/27mideast-lebanon-fmbl/27mideast-lebanon-fmbl-mediumSquareAt3X-v2.jpg",
+          "article_url": "https://www.nytimes.com/2026/06/27/world/middleeast/lebanon-israel-deal-divisions-protests-beirut.html",
+          "published_at": "Sat, 27 Jun 2026 17:13:00 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "bnl0LXUucy4taXJhbi1kZWFs",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1383,38 +1469,6 @@
           "image_url": "https://static01.nyt.com/images/2026/06/27/multimedia/27mideast-iran-chgq/27mideast-iran-chgq-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/06/27/world/middleeast/us-iran-deal-vague-language.html",
           "published_at": "Sat, 27 Jun 2026 17:07:40 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LWluLXN0cmFpdC1vZi1o",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "In Strait of Hormuz, Renewed Strikes Threaten to Set Back Shipping Recovery",
-          "summary": "The attacks came after traffic through the Strait of Hormuz had reached the highest levels since the start of the U.S. war in Iran.",
-          "image_url": "https://static01.nyt.com/images/2026/06/27/multimedia/27BIZ-HORMUZ-SHIPPING-1-hpjw/27BIZ-HORMUZ-SHIPPING-1-hpjw-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/06/27/business/strait-of-hormuz-shipping-iran.html",
-          "published_at": "Sat, 27 Jun 2026 17:03:08 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LXJpZGluZy1pbnRvLTIw",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Riding Into 2028: On the Midterms Trail, Andy Beshear Eyes a Bigger Prize",
-          "summary": "The two-term Democratic governor of deep-red Kentucky, in demand as a surrogate in key 2026 races, talks horses, faith and family politics as he considers a run for the White House.",
-          "image_url": "https://static01.nyt.com/images/2026/06/18/us/pol-beshear-profile/pol-beshear-profile-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/06/27/us/politics/andy-beshear-kentucky-midterms-2028.html",
-          "published_at": "Sat, 27 Jun 2026 16:09:06 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -1478,20 +1532,6 @@
           ]
         },
         {
-          "id": "bnl0LXdoYXQtdG8td2F0Y2gt",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "What to Watch in Louisiana’s Republican Senate Runoff",
-          "summary": "Saturday’s election will be the latest test of President Trump’s influence in G.O.P. contests.",
-          "image_url": "https://static01.nyt.com/images/2026/06/27/us/27pol-louisiana-wtw/27pol-louisiana-wtw-mediumSquareAt3X.png",
-          "article_url": "https://www.nytimes.com/2026/06/27/us/politics/louisiana-senate-republican-runoff.html",
-          "published_at": "Sat, 27 Jun 2026 09:02:14 +0000",
-          "cross_sections": []
-        },
-        {
           "id": "bnl0LXUucy4tbG9vc2Vucy1y",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1507,20 +1547,6 @@
             "tech",
             "ai"
           ]
-        },
-        {
-          "id": "bnl0LWhvdy10aGUtcmVmbGVj",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "How the Reflecting Pool Turned Green: Missing ‘Bubblers’ and a Rush Job",
-          "summary": "Bulky “nanobubbler” machines were carted off ahead of a promotional event for President Trump’s Ultimate Fighting Championship birthday party.",
-          "image_url": "https://static01.nyt.com/images/2026/06/27/multimedia/27DC-REFLECTING-POOL-PROMO-hpjq/27DC-REFLECTING-POOL-PROMO-hpjq-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/06/26/us/politics/reflecting-pool-trump-algae.html",
-          "published_at": "Fri, 26 Jun 2026 23:45:58 +0000",
-          "cross_sections": []
         },
         {
           "id": "bnl0LW9tLW1hbGlrLC13aG9z",
@@ -1651,7 +1677,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-06-27T23:51:49.172Z",
+          "published_at": "2026-06-28T02:12:00.405Z",
           "cross_sections": []
         },
         {
@@ -1665,7 +1691,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-06-27T23:51:49.172Z",
+          "published_at": "2026-06-28T02:12:00.405Z",
           "cross_sections": []
         },
         {
@@ -1679,7 +1705,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-06-27T23:51:49.172Z",
+          "published_at": "2026-06-28T02:12:00.405Z",
           "cross_sections": []
         },
         {
@@ -2225,7 +2251,7 @@
           "source_category": "Broadcaster",
           "feed_label": "Tech",
           "title": "Empty envelopes in your mailbox? Do not scan that code",
-          "summary": "Empty envelopes arriving in your mailbox could be tied to brushing scams where sellers fake verified reviews using your address and personal data.",
+          "summary": "Empty envelopes arriving in your mailbox could be tied to brushing scams in which sellers fake verified reviews using your address and personal data.",
           "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/mailbox-fraud.jpeg?ve=1&tl=1",
           "article_url": "https://www.foxnews.com/tech/empty-envelopes-mailbox-scan-code",
           "published_at": "Sat, 27 Jun 2026 14:30:06 -0400",
@@ -2472,6 +2498,36 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YmJjLXVzLWxhdW5jaGVzLXN0",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "US launches strikes on Iran after second shipping attack",
+          "summary": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38a0/live/7c4274f0-727b-11f1-8e1d-bbbb1017d210.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 28 Jun 2026 01:22:03 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLWpvYi1kb25lLS0tYnV0",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Job done - but England will not win World Cup unless they improve",
+          "summary": "England did their job topping the group - but they can forget winning the World Cup if they do not improve, writes Phil McNulty.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f6f/live/7f115920-728b-11f1-8e1d-bbbb1017d210.jpg",
+          "article_url": "https://www.bbc.co.uk/sport/football/articles/cg4wnp592z1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 28 Jun 2026 01:05:27 GMT",
+          "cross_sections": []
+        },
+        {
           "id": "YmJjLWxpYi1kZW1zLWZhY2Ut",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2494,11 +2550,25 @@
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "Top Stories",
-          "title": "Clarke steps down as Scotland manager after World Cup exit",
+          "title": "Clarke steps down as Scotland boss after World Cup exit",
           "summary": "Steve Clarke resigns as Scotland head coach following the nation's group exit from the World Cup.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/281f/live/cb817fe0-7283-11f1-ad8e-b511163b3cf4.jpg",
           "article_url": "https://www.bbc.co.uk/sport/football/articles/c5yzq73x1p7o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 27 Jun 2026 23:37:18 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLXNjb3RsYW5kJ3MtaWxs",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Scotland's ill-fated World Cup story finally at a sorry end",
+          "summary": "BBC Sport Scotland's chief sportswriter Tom English sums up his verdict on the nation's World Cup exit.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3ee/live/5422d250-727e-11f1-96bd-63be35c265e8.jpg",
+          "article_url": "https://www.bbc.co.uk/sport/football/articles/c5yzdwz890go?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 27 Jun 2026 23:21:55 GMT",
           "cross_sections": []
         },
         {
@@ -2518,36 +2588,18 @@
           ]
         },
         {
-          "id": "YmJjLXVzLWNvbmR1Y3RzLXJl",
+          "id": "YmJjLWF1c3RyYWxpYS10by1k",
           "source_id": "bbc",
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "Top Stories",
-          "title": "US conducts retaliatory strikes on Iran after second shipping attack",
-          "summary": "The US said it had hit multiple targets \"in direct response to continued Iranian aggression against commercial shipping\".",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38a0/live/7c4274f0-727b-11f1-8e1d-bbbb1017d210.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 27 Jun 2026 23:06:40 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YmJjLXdoby1jb3VsZC1lbmds",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Who could England face in last 32 after qualifying for next round?",
-          "summary": "England secure top spot in group L and a World Cup last 32 tie against a third-placed team with a 2-0 win over Panama on Saturday.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/867c/live/668f4290-70f1-11f1-be4e-5da6babab635.jpg",
-          "article_url": "https://www.bbc.co.uk/sport/football/articles/c1wylljn12xo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 27 Jun 2026 23:03:28 GMT",
-          "cross_sections": [
-            "tech"
-          ]
+          "title": "Australia to double maximum penalty for platforms in breach of social media ban",
+          "summary": "Children under the age of 16 have been prevented from 10 key social media platforms in Australia since December 2025.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba8/live/f77e45a0-71d0-11f1-8281-1bc626104723.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c78yv5g74e9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 27 Jun 2026 22:34:11 GMT",
+          "cross_sections": []
         },
         {
           "id": "YmJjLWJ1cm5oYW0td2lsbC1u",
@@ -2657,7 +2709,7 @@
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
           "summary": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/798c/live/7e611570-719a-11f1-ac61-7d0e237a354c.jpg",
@@ -2696,20 +2748,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YmJjLWRvZXMtYS13b3JsZC1j",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Does a World Cup star have roots near you? Try our postcode lookup",
-          "summary": "Which World Cup stars have roots near you? Find out with our interactive lookup tool",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8613/live/bef2eea0-7209-11f1-b1db-af71d47507d6.png",
-          "article_url": "https://www.bbc.co.uk/news/articles/cn75y330kpjo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 26 Jun 2026 11:08:50 GMT",
-          "cross_sections": []
         },
         {
           "id": "YmJjLXRoZS1hYnVuZGFudC1i",
@@ -3172,6 +3210,123 @@
       ]
     },
     {
+      "id": "euronews",
+      "name": "Euronews",
+      "region": "Europe",
+      "category": "Broadcaster",
+      "articles": [
+        {
+          "id": "ZXVyb25ld3MtaXNyYWVsJ3Mt",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Israel's Netanyahu welcomes US-brokered Lebanon agreement as far right condemns it",
+          "summary": "Israel's National Security Minister Itamar Ben Gvir rejected the U.S.-brokered agreement, saying Lebanon could not be trusted to disarm Hezbollah..",
+          "image_url": "https://images.euronews.com/articles/stories/09/81/59/87/696x392_cmsv2_96f0e033-a181-56d1-9063-e2add9ead663-9815987.jpg",
+          "article_url": "http://www.euronews.com/2026/06/27/israels-netanyahu-welcomes-us-brokered-lebanon-agreement-as-far-right-condemns-it",
+          "published_at": "Sat, 27 Jun 2026 22:22:33 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtZXVyb3BlLXNl",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Europe send search and rescue personnel to Venezuela in response to massive quakes",
+          "summary": "The European Union has begun sending aid to Venezuela through its Civil Protection Mechanism in response to Wednesday's earthquakes of 7.2 and 7.5 magnitude, which have left more than 50,000 people missing, according to the UN.",
+          "image_url": "https://images.euronews.com/articles/stories/09/81/59/16/696x392_cmsv2_82b10802-2956-5fb9-97e3-4231650cd352-9815916.jpg",
+          "article_url": "http://www.euronews.com/my-europe/2026/06/27/europe-send-search-and-rescue-personnel-to-venezuela-in-response-to-massive-quakes",
+          "published_at": "Sat, 27 Jun 2026 18:53:46 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtbGF0ZXN0LW5l",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Latest news bulletin | June 27th, 2026 – Evening",
+          "summary": "Catch up with the most important stories from around Europe and beyond this June 27th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+          "image_url": "https://images.euronews.com/articles/stories/09/81/60/55/696x392_cmsv2_e80121ac-9152-5186-9dbe-e0276f97d1a7-9816055.jpg",
+          "article_url": "http://www.euronews.com/video/2026/06/27/latest-news-bulletin-june-27th-2026-evening",
+          "published_at": "Sat, 27 Jun 2026 18:00:29 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtMjAyNi1maWZh",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "2026 FIFA World Cup: Which third-place teams will reach the knockout stage?",
+          "summary": "The eight best third-place sides are determined first by points and then by goal difference, with the final standings to be decided on Saturday night.",
+          "image_url": "https://images.euronews.com/articles/stories/09/81/57/19/696x392_cmsv2_f976a851-221e-5170-8a58-47f9da682f97-9815719.jpg",
+          "article_url": "http://www.euronews.com/2026/06/27/2026-fifa-world-cup-which-third-place-teams-will-reach-the-knockout-stage",
+          "published_at": "Sat, 27 Jun 2026 16:01:26 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtYW50aHJvcGlj",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Anthropic cleared to restore Mythos 5 access to certain US organisations",
+          "summary": "\"We’re restoring access for these organizations quickly, and we’re continuing to work with the government to expand access to Mythos 5 and make Fable 5 available for general use again,\" the company said on Friday.",
+          "image_url": "https://images.euronews.com/articles/stories/09/81/59/22/696x392_cmsv2_abf395a7-3c1e-5044-82f2-2a443dcb1f2d-9815922.jpg",
+          "article_url": "http://www.euronews.com/2026/06/27/anthropic-cleared-to-restore-mythos-5-access-to-certain-us-organisations",
+          "published_at": "Sat, 27 Jun 2026 15:16:14 +0200",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3Mtd29tYW4tcmVz",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Woman rescued after car plunges into flooded sinkhole",
+          "summary": "A police officer rescued a woman after her car fell into a sinkhole caused by a burst water main in Virginia, US. Bodycam footage shows bystanders helping steady the officer as he pulled the driver to safety.",
+          "image_url": "https://images.euronews.com/articles/stories/09/81/58/43/696x392_cmsv2_dc9dbab2-8e22-5c23-a74b-4738284cc8e8-9815843.jpg",
+          "article_url": "http://www.euronews.com/video/2026/06/27/woman-rescued-after-car-plunges-into-flooded-sinkhole",
+          "published_at": "Sat, 27 Jun 2026 13:39:14 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtdWstbWFyaXRp",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "UK maritime agency raises Strait of Hormuz threat level after oil tanker reports being struck",
+          "summary": "It comes after the US military carried out strikes on Iran, which it said were in response to Iranian drone attacks on shipping in the Strait.",
+          "image_url": "https://images.euronews.com/articles/stories/09/81/58/15/696x392_cmsv2_4b70a9cd-bac6-5d9e-b98c-d9c17bd49676-9815815.jpg",
+          "article_url": "http://www.euronews.com/2026/06/27/uk-maritime-agency-raises-strait-of-hormuz-threat-level-after-oil-tanker-reports-being-str",
+          "published_at": "Sat, 27 Jun 2026 13:00:11 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        }
+      ]
+    },
+    {
       "id": "dw",
       "name": "DW News",
       "region": "Europe",
@@ -3387,49 +3542,47 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dG9pLW1pZGRsZS1lYXN0LXRl",
+          "id": "dG9pLXBtLW1vZGktaGFuZHMt",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Middle East tensions flare up: US strikes Iran after second ceasefire violation",
-          "summary": "The US launched fresh strikes on Iran after accusing Tehran of violating a ceasefire for a second consecutive day by attacking a commercial oil tanker near the Strait of Hormuz. This follows US retaliation for a drone attack on another vessel. Iran has warned of a \"practical response\" to the US acti",
+          "title": "PM Modi hands over Made-in-India patrol vessel, to Seychelles for maritime security",
+          "summary": "",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/world/middle-east/middle-east-tensions-flare-up-us-strikes-iran-after-second-ceasefire-violation/articleshow/132044147.cms",
-          "published_at": "Sun, 28 Jun 2026 04:50:15 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/india/pm-modi-hands-over-made-in-india-patrol-vessel-to-seychelles-for-maritime-security/articleshow/132044449.cms",
+          "published_at": "Sun, 28 Jun 2026 07:09:59 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dG9pLSd2aWdpbGFudCwtbGV0",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "'Vigilant, lethal, and ready': US unleashes fresh strikes on 10 Iranian military targets — video",
+          "summary": "US forces launched strikes on 10 Iranian military targets near the Strait of Hormuz following an Iranian drone attack on a commercial oil tanker. The operation, ordered by President Trump, targeted surveillance, communication, and drone facilities. This escalation occurs despite an interim ceasefire",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/world/us/vigilant-lethal-and-ready-us-unleashes-fresh-strikes-on-10-iranian-military-targets-video/articleshow/132044375.cms",
+          "published_at": "Sun, 28 Jun 2026 07:09:31 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dG9pLXN1cHJlbWUtY291cnQt",
+          "id": "dG9pLWZyb20tMjAxMS1mdWt1",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Supreme Court takes 14 years on criminal case, 2 convicts die waiting",
-          "summary": "",
+          "title": "From 2011 Fukushima nuclear disaster in Japan to GM at 14: The Ethan Vaz story",
+          "summary": "Born months after the Fukushima nuclear disaster forced his parents to leave Japan, Ethan Vaz's journey to becoming India's 96th Grandmaster at just 14 has been defined by sacrifice and remarkable family support. From replacing cartoons with chess to navigating financial uncertainty, Ethan's rise mi",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/supreme-court-takes-14-years-on-criminal-case-2-convicts-die-waiting/articleshow/132044102.cms",
-          "published_at": "Sun, 28 Jun 2026 04:15:05 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLW1vbnNvb24tb24tdGhl",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Monsoon on the back foot: IMD warns of over 10% rainfall deficit",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/rain-deficit-now-at-43-likely-to-end-at-over-10/articleshow/132044088.cms",
-          "published_at": "Sun, 28 Jun 2026 04:09:01 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/sports/chess/indias-96th-chess-grandmaster-from-2011-fukushima-nuclear-disaster-in-japan-to-gm-at-14-the-ethan-vaz-story/articleshow/132044384.cms",
+          "published_at": "Sun, 28 Jun 2026 06:46:45 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -3451,20 +3604,6 @@
           ]
         },
         {
-          "id": "dG9pLXBtLW1vZGktZ292dOKA",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "PM Modi govt’s silence on Gaza cost India morally, strategically: Sonia Gandhi",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/pm-modi-govts-silence-on-gaza-cost-india-morally-strategically-says-sonia-gandhi/articleshow/132042137.cms",
-          "published_at": "Sun, 28 Jun 2026 02:41:19 +0530",
-          "cross_sections": []
-        },
-        {
           "id": "dG9pLTctaW5kaWEtYm91bmQt",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3479,17 +3618,17 @@
           "cross_sections": []
         },
         {
-          "id": "dG9pLWhpc3RvcmljIS1hbmN5",
+          "id": "dG9pLXJhbS10ZW1wbGUtJ2Rv",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Historic! Ancy Sojan breaks Anju Bobby George's 22-year-old national record",
-          "summary": "Kerala's Ancy Sojan created history by breaking Anju Bobby George's 22-year-old national long jump record with a leap of 6.88m at the National Inter-State Athletics Championships in Bhubaneswar. In another landmark achievement, Sarvesh Kushare set a new national high jump record of 2.31m, surpassing",
+          "title": "Ram Temple 'donation theft': Cops suspect embezzlement may not have been isolated act",
+          "summary": "The Ram temple donation embezzlement probe has intensified, now scrutinizing bank officials involved in handling cash deposits. Police are seeking custody of eight arrested individuals for in-depth interrogation to uncover the full extent of the alleged scam and recover more funds. Investigators are",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/historic-ancy-sojan-breaks-anju-bobby-georges-22-year-old-national-record/articleshow/132038452.cms",
-          "published_at": "Sat, 27 Jun 2026 21:47:06 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/city/lucknow/donation-theft-probe-widens-as-bank-officials-come-under-lens/articleshow/132041755.cms",
+          "published_at": "Sun, 28 Jun 2026 00:44:21 +0530",
           "cross_sections": []
         },
         {
@@ -3504,6 +3643,22 @@
           "image_url": null,
           "article_url": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-told-zohran-mamdani-that-if-we-ran-amazon-like-new-york-city-runs-its-school-system-packages-delivery-would-take-weeks-canadian-billionaire-kevin-oleary-joins-the-debate-says-bezos-should-/articleshow/132032127.cms",
           "published_at": "Sat, 27 Jun 2026 15:17:35 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLW55LW1heW9yLXpvaHJh",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "NY Mayor Zohran Mamdani files motion to ban delivery app Motoclick: What lawsuit says",
+          "summary": "New York City is seeking to ban food delivery platform Motoclick for allegedly paying workers as little as $3.67 per hour, a fraction of the mandated $22.13 minimum wage. City officials filed a motion for a preliminary injunction, aiming to halt the company's operations unless it complies with labor",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/technology/tech-news/new-york-mayor-zohran-mamdani-files-motion-to-ban-delivery-app-motoclick-lawsuit-says-paying-new-york-delivery-workers-poverty-wages-is/articleshow/132012074.cms",
+          "published_at": "Fri, 26 Jun 2026 14:42:03 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -3759,25 +3914,11 @@
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "FIFA World Cup 2026 LIVE updates: Colombia vs Portugal final Group K match under way",
-          "summary": "Portugal would win Group K by beating Colombia; otherwise, Colombia wins the group",
+          "title": "FIFA World Cup 2026 LIVE: ALG VS AUT Group J match under way",
+          "summary": "Algeria and Austria look very strong to enter the knockouts",
           "image_url": null,
-          "article_url": "https://www.thehindu.com/sport/football/colombia-vs-portugal-fifa-world-cup-match-live-score-updates-june-28-2026/article71155753.ece",
-          "published_at": "Sun, 28 Jun 2026 05:10:33 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtdmxhxaFpYy1z",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Vlašic scores winner as Croatia beats Ghana 2-1 to reach World Cup knockout stage",
-          "summary": "Ghana had already clinched a spot in the round of 32 for the first time since 2010",
-          "image_url": "https://th-i.thgim.com/public/incoming/t20ehw/article71156010.ece/alternates/LANDSCAPE_1200/Ghana_Croatia_WCup_Soccer_62379.jpg",
-          "article_url": "https://www.thehindu.com/sport/football/vlasic-scores-winner-as-croatia-beats-ghana-2-1-to-reach-world-cup-knockout-stage/article71155823.ece",
-          "published_at": "Sun, 28 Jun 2026 05:07:00 +0530",
+          "article_url": "https://www.thehindu.com/sport/football/alg-vs-aut-fifa-world-cup-match-live-score-updates-june-28-2026/article71156803.ece",
+          "published_at": "Sun, 28 Jun 2026 07:38:43 +0530",
           "cross_sections": []
         },
         {
@@ -3787,27 +3928,55 @@
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "West Asia war LIVE: U.S. conducts further strikes against 'multiple targets' in Iran",
-          "summary": "Lebanon's President hopes U.S. will press Israel to withdraw from southern areas",
+          "title": "West Asia war LIVE: Trump warns Iran ‘will no longer exist’ if U.S. decides to escalate",
+          "summary": "The U.S. military says it struck 10 targets in Iran as ceasefire is strained by second day of attacks",
           "image_url": null,
-          "article_url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-washington-tehran-ceasefire-strait-of-hormuz-israel-lebanon-peace-deal-live-updates-june-27-2026/article71153161.ece",
-          "published_at": "Sun, 28 Jun 2026 04:57:52 +0530",
+          "article_url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-tehran-washington-ceasefire-live-updates-june-28-2026/article71156840.ece",
+          "published_at": "Sun, 28 Jun 2026 07:36:15 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtc3VmaS1zYWlu",
+          "id": "dGhlaGluZHUtInVrLWluZGlh",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Sufi saints and scholars learnt the ideals of co-existence from Indian scriptures: J&K L-G",
-          "summary": "Manoj Sinha also met with civil society groups, business leaders, and religious heads in Srinagar to discuss the upcoming Amarnath Yatra",
-          "image_url": "https://th-i.thgim.com/public/incoming/lc0e8c/article71155768.ece/alternates/LANDSCAPE_1200/PTI06_27_2026_000141B.jpg",
-          "article_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/sufi-saints-and-scholars-learnt-the-ideals-of-co-existence-from-indian-scriptures-jk-l-g/article71155192.ece",
-          "published_at": "Sun, 28 Jun 2026 04:01:14 +0530",
+          "title": "\"UK-India Free Trade Agreement will be India's most comprehensive agreement so far\": Piyush Goyal at UK-India Week 2026",
+          "summary": "\"UK-India Free Trade Agreement will be India's most comprehensive agreement so far\": Piyush Goyal at UK-India Week 2026",
+          "image_url": "https://th-i.thgim.com/public/incoming/5k5pqg/article71156875.ece/alternates/LANDSCAPE_1200/Piyush_Goyal1.jpg",
+          "article_url": "https://www.thehindu.com/brandhub/pr-release/uk-india-free-trade-agreement-will-be-indias-most-comprehensive-agreement-so-far-piyush-goyal-at-uk-india-week-2026/article71156877.ece",
+          "published_at": "Sun, 28 Jun 2026 07:30:13 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtZ2VybWFueSwt",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Germany, Denmark gripped by record temperatures as European heatwave moves east",
+          "summary": "Soaring temperatures put pressure on public infrastructure and dozens of deaths linked to heat",
+          "image_url": "https://th-i.thgim.com/public/incoming/5byerc/article71156861.ece/alternates/LANDSCAPE_1200/2026-06-27T175726Z_1426105147_RC2G2MA12WYR_RTRMADP_3_EUROPE-WEATHER-GERMANY.JPG",
+          "article_url": "https://www.thehindu.com/news/international/germany-denmark-gripped-by-record-temperatures-as-european-heatwave-moves-east/article71156854.ece",
+          "published_at": "Sun, 28 Jun 2026 07:27:24 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtaW5kaWHigJlz",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "India’s domestic cooks of the digital age",
+          "summary": "With employers choosing video links over family recipes, kitchen helpers are learning global flavours from YouTube and Reels — upskilling themselves and asking for better pay",
+          "image_url": "https://th-i.thgim.com/public/life-and-style/d5pnzv/article71153512.ece/alternates/LANDSCAPE_1200/Indian%20domestic%20cooks%20of%20the%20digital%20age",
+          "article_url": "https://www.thehindu.com/food/features/domestic-cooks-india-digital-age-cooking-youtube-videos-instagram-reels/article71140685.ece",
+          "published_at": "Sun, 28 Jun 2026 07:07:49 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -3950,6 +4119,64 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "amFwYW50aW1lcy1zcGVudC1u",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Spent nuclear fuel storage rate reaches up to 90% of capacity at some Japan reactors",
+          "summary": "A total of 15 reactors at nine plants have been restarted since the 2011 Fukushima disaster.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/28/548576.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/06/28/japan/spent-nuclear-fuel-amount/",
+          "published_at": "Sun, 28 Jun 2026 09:50:00 +0900",
+          "cross_sections": []
+        },
+        {
+          "id": "amFwYW50aW1lcy1tYWduaXR1",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Magnitude 6.1 earthquake strikes off coast of Iwate",
+          "summary": "The quake registered a lower 5 on the Japanese seismic intensity scale of 7 in Hachinohe, Aomori Prefecture. No tsunami warning was issued.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/28/548564.png",
+          "article_url": "https://www.japantimes.co.jp/news/2026/06/28/japan/iwate-earthquake-june-28/",
+          "published_at": "Sun, 28 Jun 2026 09:36:00 +0900",
+          "cross_sections": []
+        },
+        {
+          "id": "amFwYW50aW1lcy1icmF6aWwt",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Brazil and Japan head into World Cup clash looking to settle old scores",
+          "summary": "The fixture also carries a deeper historical thread, as Brazil has long been a reference point for Japanese soccer, a relationship embodied by former Japan manager Zico.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/28/548574.jpg",
+          "article_url": "https://www.japantimes.co.jp/sports/2026/06/28/soccer/world-cup/japan-brazil-knockout-preview/",
+          "published_at": "Sun, 28 Jun 2026 09:27:00 +0900",
+          "cross_sections": []
+        },
+        {
+          "id": "amFwYW50aW1lcy1qYXBhbi1l",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Japan embrace ‘underdog mentality’ for World Cup clash against Brazil",
+          "summary": "Japan, considered by some to be an outsider to go far at the tournament in North America, beat Carlo Ancelotti's side 3-2 in a home friendly in October.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/28/548573.jpg",
+          "article_url": "https://www.japantimes.co.jp/sports/2026/06/28/soccer/japan-underdog-mentality-brazil/",
+          "published_at": "Sun, 28 Jun 2026 08:59:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "amFwYW50aW1lcy11LnMuLWFu",
           "source_id": "japantimes",
           "source_name": "The Japan Times",
@@ -3966,110 +4193,50 @@
           ]
         },
         {
-          "id": "amFwYW50aW1lcy1pbi1reXVz",
+          "id": "amFwYW50aW1lcy12ZW5lenVl",
           "source_id": "japantimes",
           "source_name": "The Japan Times",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "In Kyushu’s far south, Senti.U sparks a culinary destination",
-          "summary": "Drawn by the quality of Kanoya's local produce, chef Yasuhiko Uchida relocated to the Osumi Peninsula. Now, his restaurant is a shining example of Kagoshima's culinary appeal.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/26/547580.jpg",
-          "article_url": "https://www.japantimes.co.jp/life/2026/06/28/food-drink/destination-restaurants-sentiu-kagoshima-italian-japanese-cuisine/",
-          "published_at": "Sun, 28 Jun 2026 08:05:00 +0900",
+          "title": "Venezuela quakes kill almost 1,500, with millions more in need",
+          "summary": "Facing public outrage at the response by local officials, Venezuela's U.S.-backed interim leader Delcy Rodriguez thanked other countries for the outpouring of aid.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/28/548568.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/06/28/world/venezuela-quakes-dead-1500/",
+          "published_at": "Sun, 28 Jun 2026 08:17:00 +0900",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "amFwYW50aW1lcy1zbWFzaC10",
+          "id": "amFwYW50aW1lcy1jaGluZXNl",
           "source_id": "japantimes",
           "source_name": "The Japan Times",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Smash tacos with bear-approved veggies",
-          "summary": "Alpine leeks are a forageable example of the \"sansai\" (wild edible plants) that make springtime a bounty of flavors across Japan's countryside — for humans and bear-kind alike.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/26/547602.jpg",
-          "article_url": "https://www.japantimes.co.jp/life/2026/06/28/food-drink/chitatap-smash-tacos-wild-vegetables-bears/",
-          "published_at": "Sun, 28 Jun 2026 08:00:00 +0900",
+          "title": "Chinese and Russian bombers, fighter jet stage joint patrol near Japan",
+          "summary": "China's Defense Ministry said the flight demonstrated the two countries' \"resolve and capability to jointly safeguard regional peace and stability.\"",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/28/548575.png",
+          "article_url": "https://www.japantimes.co.jp/news/2026/06/28/japan/china-russia-bombers-fighters-japan/",
+          "published_at": "Sun, 28 Jun 2026 08:17:00 +0900",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "amFwYW50aW1lcy1tYWduaXR1",
+          "id": "amFwYW50aW1lcy1tb3JlLXRl",
           "source_id": "japantimes",
           "source_name": "The Japan Times",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Magnitude 6.1 earthquake strikes off coast of Iwate",
-          "summary": "The quake registered a lower 5 on the Japanese seismic intensity scale of 7 in Hachinohe, Aomori Prefecture. No tsunami warning was issued.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/28/548564.png",
-          "article_url": "https://www.japantimes.co.jp/news/2026/06/28/japan/iwate-earthquake-june-28/",
-          "published_at": "Sun, 28 Jun 2026 06:57:00 +0900",
+          "title": "More temperature records shattered in Europe as deadly heat wave moves east",
+          "summary": "Preliminary all-time temperature records were set on Saturday in Germany, Denmark and the Czech Republic, and a new mark for the month of June in Switzerland.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/28/548577.JPG",
+          "article_url": "https://www.japantimes.co.jp/environment/2026/06/28/climate-change/temperature-records-europe/",
+          "published_at": "Sun, 28 Jun 2026 08:16:00 +0900",
           "cross_sections": []
-        },
-        {
-          "id": "amFwYW50aW1lcy1uYW9taS1v",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Naomi Osaka retires from Bad Homburg final due to injury days before Wimbledon",
-          "summary": "The Japanese No. 6 seed battled through an ankle injury in the first set but signaled she would be unable to continue one game into the second set.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/28/548562.JPG",
-          "article_url": "https://www.japantimes.co.jp/sports/2026/06/28/tennis/osaka-withdraws-from-final/",
-          "published_at": "Sun, 28 Jun 2026 06:08:00 +0900",
-          "cross_sections": []
-        },
-        {
-          "id": "amFwYW50aW1lcy1ob3ctYS1w",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "How a private collection of queer books becomes a cultural hot spot",
-          "summary": "Tokyo's queer-focussed bookstore Loneliness Books is a space for encounters and events for everyone, LGBTQ+ community and allies.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/28/548241.jpg",
-          "article_url": "https://www.japantimes.co.jp/culture/2026/06/28/books/tokyo-bookstore-loneliness-books/",
-          "published_at": "Sun, 28 Jun 2026 02:15:00 +0900",
-          "cross_sections": []
-        },
-        {
-          "id": "amFwYW50aW1lcy10d28tdHJv",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Two tropical storms bring heavy rains to parts of Japan",
-          "summary": "The two storms helped shatter June records for rain in a number of areas in eastern and southern Chiba Prefecture.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/27/548530.jpg",
-          "article_url": "https://www.japantimes.co.jp/news/2026/06/27/japan/tropical-storm-higos-mekkhala/",
-          "published_at": "Sat, 27 Jun 2026 21:06:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy1zaG91bGQt",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Should we fear an AI bubble bust?",
-          "summary": "Recent swings in tech stocks are reviving fears of an AI bubble — and some experts warn that if it pops, the fallout could be bigger than anything Wall Street has ever seen.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/27/548558.jpg",
-          "article_url": "https://www.japantimes.co.jp/business/2026/06/27/markets/ai-bubble-fears/",
-          "published_at": "Sat, 27 Jun 2026 18:49:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -4079,6 +4246,34 @@
       "region": "Asia-Pacific",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "bmR0di11cy1pcmFuLXdhci1s",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "US-Iran War Live Updates: US-Iran Exchange Strikes, Deal Under Pressure",
+          "summary": "US-Iran War Live Updates: The clashes brought new tension to the negotiating process meant to end a war launched by the United States and Israel at the end of February.",
+          "image_url": "https://c.ndtvimg.com/2026-06/bpcorkgg_us-iran-war-cost_625x300_15_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/world-news/us-iran-war-live-updates-donald-trump-us-iran-tehran-attack-each-other-violate-ceasefire-hormuz-jd-vance-11693760#publisher=newsstand",
+          "published_at": "Sun, 28 Jun 2026 07:24:28 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "bmR0di02LXRlcnJvcmlzdHMt",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "6 Terrorists Killed After Attack On Pak Army Base In Karachi, 4 Soldiers Dead",
+          "summary": "Pakistan has witnessed a surge in extremist attacks targeting police and security forces in recent years.",
+          "image_url": "https://c.ndtvimg.com/2026-06/c7l2pmjc_pakistan_625x300_27_June_26.jpg",
+          "article_url": "https://www.ndtv.com/world-news/explosion-gunfire-in-pakistans-karachi-3-army-rangers-dead-local-media-11696472#publisher=newsstand",
+          "published_at": "Sun, 28 Jun 2026 07:06:00 +0530",
+          "cross_sections": []
+        },
         {
           "id": "bmR0di1iYW5nbGFkZXNoLWNo",
           "source_id": "ndtv",
@@ -4256,22 +4451,6 @@
           "article_url": "https://www.ndtv.com/world-news/10-000-vespas-swarm-romes-historic-sites-to-mark-scooters-80th-anniversary-11696062#publisher=newsstand",
           "published_at": "Sat, 27 Jun 2026 20:54:44 +0530",
           "cross_sections": []
-        },
-        {
-          "id": "bmR0di1tYWNib29rLC1pcGFk",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "MacBook, iPad Price Hikes Only The Beginning: Here's What You May Pay Next",
-          "summary": "An unprecedented AI data centre boom is triggering a massive $670 billion surge in the global memory market, expanding it to $890 billion by 2026, according to Morgan Stanley.",
-          "image_url": "https://c.ndtvimg.com/2026-06/34giejbo_datafy_625x300_27_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/macbook-ipad-price-hikes-only-the-beginning-heres-what-you-may-pay-next-11695936#publisher=newsstand",
-          "published_at": "Sat, 27 Jun 2026 20:24:07 +0530",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -4281,6 +4460,38 @@
       "region": "Middle East & Africa",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "YWxqYXplZXJhLWFuZ2VyLWdy",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Anger grows in Venezuela as citizens blocked from aiding earthquake rescue",
+          "summary": "Anger is mounting in Venezuela after the military barred citizens from entering zones devastated by the earthquakes.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/anger-grows-in-venezuela-as-citizens-blocked-from-aiding-earthquake-rescue?traffic_source=rss",
+          "published_at": "Sun, 28 Jun 2026 00:09:46 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLWlyYW4td2Fy",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Iran war live: Air raid sirens in Bahrain, Kuwait as US bombs Sirik, Qeshm",
+          "summary": "US president threatens to 'militarily complete the job' as the US strikes Sirik and Qeshm Island over ship attacks.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss",
+          "published_at": "Sun, 28 Jun 2026 00:00:00 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "YWxqYXplZXJhLXVzLWxhdW5j",
           "source_id": "aljazeera",
@@ -4332,7 +4543,7 @@
           "source_region": "Middle East & Africa",
           "source_category": "Broadcaster",
           "feed_label": "All News",
-          "title": "Colombia vs Portugal LIVE: FIFA World Cup 2026",
+          "title": "Colombia vs Portugal LIVE 0-0: FIFA World Cup 2026",
           "summary": "Follow updates as the top two teams in Group K face off - including the build-up, analysis and live text commentary.",
           "image_url": null,
           "article_url": "https://www.aljazeera.com/sports/liveblog/2026/6/27/colombia-vs-portugal-live-fifa-world-cup-2026?traffic_source=rss",
@@ -4366,36 +4577,6 @@
           "article_url": "https://www.aljazeera.com/news/2026/6/27/another-powerful-4-8-magnitude-earthquake-hits-near-venezuela?traffic_source=rss",
           "published_at": "Sat, 27 Jun 2026 19:38:14 +0000",
           "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLWRyLWNvbmdv",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "DR Congo superfan denied US visa to support team at World Cup",
-          "summary": "Michel Kuka Mboladinga is iconic for his motionless tribute at DRC games, but a US World Cup repeat has been denied.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/sports/2026/6/27/dr-congo-superfan-denied-us-visa-to-support-team-at-world-cup?traffic_source=rss",
-          "published_at": "Sat, 27 Jun 2026 19:35:22 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXdoeS1pcy1j",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Why is Crimea critical to the Russia–Ukraine war?",
-          "summary": "Ukraine is intensifying attacks on Russian-controlled Crimea as Kyiv tries to pressure Moscow into ending the war.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/inside-story/2026/6/27/why-is-crimea-critical-to-the-russia-ukraine?traffic_source=rss",
-          "published_at": "Sat, 27 Jun 2026 19:22:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -4406,65 +4587,49 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "YXJhYm5ld3MtbWFsYXlzaWEt",
+          "id": "YXJhYm5ld3Mtc2F1ZGktaW5m",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Malaysia appoints new anti-graft chief",
-          "summary": "KUALA LUMPUR: Malaysia appointed on Saturday a former high court judge as the country’s new anti-graft czar to replace its outgoing chief who was dogged by allegations of abuse of power and illegal shareholding.\n\tThe appointment of Abdul Halim Aman comes as Prime Minister Anwar Ibrahim’s government ",
+          "title": "Saudi inflation remains contained at 1.8% in May: GASTAT",
+          "summary": "RIYADH: Saudi Arabia’s annual inflation rate edged up to 1.8 percent in May with housing rents continuing to drive price gains in the Kingdom, official data showed. \n\n\tAccording to the latest report released by the General Authority for Statistics, the Kingdom’s Consumer Price Index edged up 0.2 per",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641214/world",
-          "published_at": "Sat, 25 Apr 2026 09:04:41 +03",
+          "article_url": "https://www.arabnews.com/node/2647232/business-economy",
+          "published_at": "Mon, 15 Jun 2026 11:06:57 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtY2hpbmVzZS1w",
+          "id": "YXJhYm5ld3MtbGViYW5vbi13",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Chinese panda pair headed to US zoo",
-          "summary": "BEIJING: Two giant pandas from China are headed to Atlanta on a new 10-year conservation deal.\n\tPandas Ping Ping, a male, and Fu Shuang, a female, will live at Zoo Atlanta, China Wildlife Conservation Association said in a statement Friday.\n\tThe organization signed the research agreement with the Un",
+          "title": "Lebanon warns displaced against rushing home after US-Iran deal",
+          "summary": "BEIRUT/JERUSALEM: Authorities in southern Lebanon warned people displaced by three months of war between Israel and Hezbollah against rushing home on Monday despite a US-Iran deal to end the wider conflict, as Israel said it would not withdraw troops from the south.\n\n\tThe warning comes as Lebanon ha",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641211/offbeat",
-          "published_at": "Sat, 25 Apr 2026 08:04:58 +03",
+          "article_url": "https://www.arabnews.com/node/2647227/middle-east",
+          "published_at": "Mon, 15 Jun 2026 11:06:50 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtZGVzcGl0ZS1p",
+          "id": "YXJhYm5ld3MtaXNyYWVsLXNh",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Despite Iran tensions, King Charles III will follow his mother’s lead in celebrating US-UK bonds",
-          "summary": "LONDON: The challenge for King Charles III as he embarks on this week’s state visit to the US is, as always, to live up to his mother’s example.\n\tThe late Queen Elizabeth II wowed Congress in 1991 with a speech that celebrated the shared democratic traditions of Britain and the United States, quoted",
+          "title": "Israel says won’t withdraw troops from Lebanon, Syria, Gaza",
+          "summary": "JERUSALEM: Israel’s defense minister said Monday that Israeli forces would remain in Lebanon, Syria and Gaza indefinitely, hours after the United States and Iran agreed to end the Middle East war, including in Lebanon.\n\t“Prime Minister Benjamin Netanyahu and I are pursuing a clear policy under which",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641209/world",
-          "published_at": "Sat, 25 Apr 2026 08:04:24 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtdGhyZWUta2ls",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Three killed in clashes in India’s troubled northeast",
-          "summary": "NEW DELHI: Gun battles between rival ethnic groups in India’s troubled northeastern Manipur state killed three men, police said, the latest unrest in the far-flung region.\n\tManipur has seen periodic clashes for nearly three years between the predominantly Hindu Meitei majority and the mainly Christi",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641212/world",
-          "published_at": "Sat, 25 Apr 2026 08:04:10 +03",
+          "article_url": "https://www.arabnews.com/node/2647229/middle-east",
+          "published_at": "Mon, 15 Jun 2026 11:06:33 +03",
           "cross_sections": [
             "tech"
           ]
@@ -4476,60 +4641,73 @@
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Saudi Arabia’s events sector push on track despite disruptions, says industry veteran",
-          "summary": "RIYADH: Saudi Arabia’s push to position itself as a global events hub remains firmly on track despite geopolitical disruptions, according to one of the leading figures in the industry.\n\n\tThe US-Israel war with Iran has led to disruptions to many of the Kingdom’s flagship forums, with the Saudi Arabi",
+          "title": "Saudi Arabia, South Korea sign MoU to boost oil and gas cooperation",
+          "summary": "RIYADH: Saudi Arabia and South Korea signed a memorandum of understanding in Riyadh to enhance cooperation in the oil and gas sector and strengthen their broader energy partnership.\n\n\tEnergy Minister Prince Abdulaziz bin Salman met with South Korea’s Minister of Trade, Industry and Energy, Kim Jung-",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641206/business-economy",
-          "published_at": "Sat, 25 Apr 2026 07:04:43 +03",
+          "article_url": "https://www.arabnews.com/node/2647228/business-economy",
+          "published_at": "Mon, 15 Jun 2026 11:06:21 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtYXVzdHJhbGlh",
+          "id": "YXJhYm5ld3MteWFoeWEtYWJk",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Australia refuses repatriation help for citizens in Syria camp",
-          "summary": "SYDNEY: Australia refused to help repatriate citizens related to suspected Daesh militants on Saturday, following a report that some Australian families are trying to return home from a camp in Syria.\n\tNational broadcaster ABC said four Australian women and nine of their children and grandchildren h",
+          "title": "Yahya Abdul-Mateen II reflects on Marvel ‘Wonder Man’ role",
+          "summary": "DUBAI: US actor Yahya Abdul-Mateen II has reportedly said that “people see so much of themselves in (protagonist) Simon (Williams),” the role he plays in the Marvel series “Wonder Man.”: \n\n\tThe actor was known to comic book fans as DC’s Black Manta in the “Aquaman” movies and for his breakout role i",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641208/middle-east",
-          "published_at": "Sat, 25 Apr 2026 07:04:24 +03",
+          "article_url": "https://www.arabnews.com/node/2647230/lifestyle",
+          "published_at": "Mon, 15 Jun 2026 11:06:19 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtdXMtbWlsaXRh",
+          "id": "YXJhYm5ld3Mtc2hhbmluYS1z",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "US military says it struck vessel in Eastern Pacific, killing two",
-          "summary": "WASHINGTON: The US military said on Friday it struck a vessel in the Eastern Pacific, killing two people, in the latest such attack, condemned by rights groups as “extrajudicial killings” and described by Washington as targeting “narco-terrorists.”\n\tThe US Southern Command alleged that the vessel st",
+          "title": "Shanina Shaik is Australian fashion’s latest star",
+          "summary": "DUBAI: Part-Saudi model Shanina Shaik is promoting a clutch of Australian brands on social media, starring in a campaigns after hitting the runway at Australian Fashion Week earlier this year.\n\n\tThe model is quickly becoming the face of Australian fashion, with brands seemingly banking on her intern",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641203/world",
-          "published_at": "Sat, 25 Apr 2026 06:04:49 +03",
+          "article_url": "https://www.arabnews.com/node/2647231/lifestyle",
+          "published_at": "Mon, 15 Jun 2026 11:06:06 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3Mtc3RhcnR1cC13",
+          "id": "YXJhYm5ld3Mtbm9yd2F5LWNy",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Startup Wrap: MENA startups draw capital as AI bets continue to accelerate",
-          "summary": "RIYADH: Startups across the Middle East and North Africa saw new funding rounds over the past week, with acquisitions, and partnerships across artificial intelligence, fintech, gaming, and digital infrastructure.\n\n\tSaudi Arabia-based Signit raised $15 million in a series A round led by Raed Ventures",
+          "title": "Norway crown princess’s son sentenced to four years in prison for rape: court",
+          "summary": "OSLO: An Oslo court on Monday convicted Norwegian Crown Princess Mette-Marit’s son of two counts of rape, sentencing him to four years in prison in a high-profile scandal that has rocked the monarchy.\n\tMarius Borg Hoiby, 29, Mette-Marit’s son from a relationship prior to her 2001 marriage to Crown P",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641205/business-economy",
-          "published_at": "Sat, 25 Apr 2026 06:04:04 +03",
+          "article_url": "https://www.arabnews.com/node/2647222/world",
+          "published_at": "Mon, 15 Jun 2026 10:06:57 +03",
+          "cross_sections": []
+        },
+        {
+          "id": "YXJhYm5ld3MtZ3VsZiwtYXJh",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Gulf, Arab states welcome US-Iran deal to end war, reopen Hormuz",
+          "summary": "DUBAI: Gulf and Arab states welcomed on Monday a US-Iran agreement to end the war and reopen the Strait of Hormuz, expressing hope that the deal will pave the way for lasting regional stability and broader diplomatic engagement.\n\n\tSaudi Arabia welcomed the agreement between Washington and Tehran to ",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2647225/middle-east",
+          "published_at": "Mon, 15 Jun 2026 10:06:15 +03",
           "cross_sections": [
-            "tech",
-            "ai"
+            "tech"
           ]
         }
       ]
@@ -4569,7 +4747,7 @@
         {
           "id": "cnet",
           "name": "CNET",
-          "count": 7
+          "count": 8
         },
         {
           "id": "venturebeat",
@@ -4601,7 +4779,7 @@
         {
           "id": "nyt",
           "name": "The New York Times",
-          "count": 23
+          "count": 24
         },
         {
           "id": "cnn",
@@ -4628,12 +4806,17 @@
         {
           "id": "bbc",
           "name": "BBC News",
-          "count": 22
+          "count": 23
         },
         {
           "id": "guardian",
           "name": "The Guardian",
           "count": 23
+        },
+        {
+          "id": "euronews",
+          "name": "Euronews",
+          "count": 7
         },
         {
           "id": "dw",
@@ -4655,7 +4838,7 @@
         {
           "id": "thehindu",
           "name": "The Hindu",
-          "count": 12
+          "count": 13
         },
         {
           "id": "japantimes",
@@ -4665,7 +4848,7 @@
         {
           "id": "ndtv",
           "name": "NDTV",
-          "count": 13
+          "count": 14
         }
       ]
     },
@@ -4694,17 +4877,97 @@
       "icon": "💻",
       "articles": [
         {
-          "id": "YmJjLWxpYi1kZW1zLWZhY2Ut",
+          "id": "bnl0LW1pZGVhc3QtbGl2ZS11",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "Mideast Live Updates: U.S. and Iran Trade More Strikes, Testing Truce",
+          "summary": "U.S. forces carried out more airstrikes on Iran, calling them a retaliation for an attack on an oil tanker. Iran’s military later said it had attacked American targets in Bahrain and Kuwait.",
+          "image_url": "https://static01.nyt.com/images/2026/06/27/multimedia/27mideast-promo-4pm-hgkq-copy/27mideast-promo-12pm-hgkq-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz",
+          "published_at": "Sun, 28 Jun 2026 02:07:52 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtd2VzdC1hc2lh",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "West Asia war LIVE: Trump warns Iran ‘will no longer exist’ if U.S. decides to escalate",
+          "summary": "The U.S. military says it struck 10 targets in Iran as ceasefire is strained by second day of attacks",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-tehran-washington-ceasefire-live-updates-june-28-2026/article71156840.ece",
+          "published_at": "Sun, 28 Jun 2026 07:36:15 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLSd2aWdpbGFudCwtbGV0",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "'Vigilant, lethal, and ready': US unleashes fresh strikes on 10 Iranian military targets — video",
+          "summary": "US forces launched strikes on 10 Iranian military targets near the Strait of Hormuz following an Iranian drone attack on a commercial oil tanker. The operation, ordered by President Trump, targeted surveillance, communication, and drone facilities. This escalation occurs despite an interim ceasefire",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/world/us/vigilant-lethal-and-ready-us-unleashes-fresh-strikes-on-10-iranian-military-targets-video/articleshow/132044375.cms",
+          "published_at": "Sun, 28 Jun 2026 07:09:31 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtaW5kaWHigJlz",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "India’s domestic cooks of the digital age",
+          "summary": "With employers choosing video links over family recipes, kitchen helpers are learning global flavours from YouTube and Reels — upskilling themselves and asking for better pay",
+          "image_url": "https://th-i.thgim.com/public/life-and-style/d5pnzv/article71153512.ece/alternates/LANDSCAPE_1200/Indian%20domestic%20cooks%20of%20the%20digital%20age",
+          "article_url": "https://www.thehindu.com/food/features/domestic-cooks-india-digital-age-cooking-youtube-videos-instagram-reels/article71140685.ece",
+          "published_at": "Sun, 28 Jun 2026 07:07:49 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLXVzLWxhdW5jaGVzLXN0",
           "source_id": "bbc",
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "Top Stories",
-          "title": "Lib Dems face call for inquiry into deselection of election candidate",
-          "summary": "The party has admitted it unlawfully discriminated against David Campanale because of his religious beliefs.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d738/live/3d40a220-717e-11f1-a417-dfae8167aae6.png",
-          "article_url": "https://www.bbc.co.uk/news/articles/c4gypnyk788o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 27 Jun 2026 23:43:34 GMT",
+          "title": "US launches strikes on Iran after second shipping attack",
+          "summary": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38a0/live/7c4274f0-727b-11f1-8e1d-bbbb1017d210.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 28 Jun 2026 01:22:03 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLWZyb20tMjAxMS1mdWt1",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "From 2011 Fukushima nuclear disaster in Japan to GM at 14: The Ethan Vaz story",
+          "summary": "Born months after the Fukushima nuclear disaster forced his parents to leave Japan, Ethan Vaz's journey to becoming India's 96th Grandmaster at just 14 has been defined by sacrifice and remarkable family support. From replacing cartoons with chess to navigating financial uncertainty, Ethan's rise mi",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/sports/chess/indias-96th-chess-grandmaster-from-2011-fukushima-nuclear-disaster-in-japan-to-gm-at-14-the-ethan-vaz-story/articleshow/132044384.cms",
+          "published_at": "Sun, 28 Jun 2026 06:46:45 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4716,27 +4979,75 @@
           "source_region": "North America",
           "source_category": "Newspaper",
           "feed_label": "World",
-          "title": "Venezuela Live Updates: Window Narrowing to Find Survivors as Quake Death Toll Surpasses 1,400",
-          "summary": "International teams were joining search efforts on Saturday after twin earthquakes devastated northern Venezuela, leaving many people trapped under rubble.",
+          "title": "Venezuela Live Updates: Chaotic Rush to Help Victims Delays Some Rescues",
+          "summary": "A surge of people rushed into the devastated earthquake zone to offer help in northern Venezuela, slowing the advance of emergency responders. The death toll linked to twin quakes earlier in the week surpassed 1,400.",
           "image_url": "https://static01.nyt.com/images/2026/06/27/multimedia/27venezuela-quake-promo-4pm-vhqm-copy/27venezuela-quake-promo-230pm-vhqm-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake",
-          "published_at": "Sat, 27 Jun 2026 23:37:27 +0000",
+          "published_at": "Sun, 28 Jun 2026 01:14:19 +0000",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "bnl0LW1pZGVhc3QtbGl2ZS11",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
+          "id": "YWxqYXplZXJhLWFuZ2VyLWdy",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Anger grows in Venezuela as citizens blocked from aiding earthquake rescue",
+          "summary": "Anger is mounting in Venezuela after the military barred citizens from entering zones devastated by the earthquakes.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/anger-grows-in-venezuela-as-citizens-blocked-from-aiding-earthquake-rescue?traffic_source=rss",
+          "published_at": "Sun, 28 Jun 2026 00:09:46 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLWlyYW4td2Fy",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Iran war live: Air raid sirens in Bahrain, Kuwait as US bombs Sirik, Qeshm",
+          "summary": "US president threatens to 'militarily complete the job' as the US strikes Sirik and Qeshm Island over ship attacks.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss",
+          "published_at": "Sun, 28 Jun 2026 00:00:00 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy1qYXBhbi1l",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Mideast Live Updates: U.S. Strikes Iran Again, Testing Truce",
-          "summary": "U.S. forces carried out retaliatory airstrikes on Iran for the second straight night, saying the latest barrage was in retaliation for an attack on an oil tanker on Saturday.",
-          "image_url": "https://static01.nyt.com/images/2026/06/27/multimedia/27mideast-promo-4pm-hgkq-copy/27mideast-promo-12pm-hgkq-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz",
-          "published_at": "Sat, 27 Jun 2026 23:36:32 +0000",
+          "feed_label": "Latest",
+          "title": "Japan embrace ‘underdog mentality’ for World Cup clash against Brazil",
+          "summary": "Japan, considered by some to be an outsider to go far at the tournament in North America, beat Carlo Ancelotti's side 3-2 in a home friendly in October.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/28/548573.jpg",
+          "article_url": "https://www.japantimes.co.jp/sports/2026/06/28/soccer/japan-underdog-mentality-brazil/",
+          "published_at": "Sun, 28 Jun 2026 08:59:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLWxpYi1kZW1zLWZhY2Ut",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Lib Dems face call for inquiry into deselection of election candidate",
+          "summary": "The party has admitted it unlawfully discriminated against David Campanale because of his religious beliefs.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d738/live/3d40a220-717e-11f1-a417-dfae8167aae6.png",
+          "article_url": "https://www.bbc.co.uk/news/articles/c4gypnyk788o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 27 Jun 2026 23:43:34 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -4774,33 +5085,33 @@
           ]
         },
         {
-          "id": "dGhlaGluZHUtd2VzdC1hc2lh",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
+          "id": "amFwYW50aW1lcy12ZW5lenVl",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "West Asia war LIVE: U.S. conducts further strikes against 'multiple targets' in Iran",
-          "summary": "Lebanon's President hopes U.S. will press Israel to withdraw from southern areas",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-washington-tehran-ceasefire-strait-of-hormuz-israel-lebanon-peace-deal-live-updates-june-27-2026/article71153161.ece",
-          "published_at": "Sun, 28 Jun 2026 04:57:52 +0530",
+          "title": "Venezuela quakes kill almost 1,500, with millions more in need",
+          "summary": "Facing public outrage at the response by local officials, Venezuela's U.S.-backed interim leader Delcy Rodriguez thanked other countries for the outpouring of aid.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/28/548568.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/06/28/world/venezuela-quakes-dead-1500/",
+          "published_at": "Sun, 28 Jun 2026 08:17:00 +0900",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dG9pLW1pZGRsZS1lYXN0LXRl",
-          "source_id": "toi",
-          "source_name": "The Times of India",
+          "id": "amFwYW50aW1lcy1jaGluZXNl",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Middle East tensions flare up: US strikes Iran after second ceasefire violation",
-          "summary": "The US launched fresh strikes on Iran after accusing Tehran of violating a ceasefire for a second consecutive day by attacking a commercial oil tanker near the Strait of Hormuz. This follows US retaliation for a drone attack on another vessel. Iran has warned of a \"practical response\" to the US acti",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/world/middle-east/middle-east-tensions-flare-up-us-strikes-iran-after-second-ceasefire-violation/articleshow/132044147.cms",
-          "published_at": "Sun, 28 Jun 2026 04:50:15 +0530",
+          "feed_label": "Latest",
+          "title": "Chinese and Russian bombers, fighter jet stage joint patrol near Japan",
+          "summary": "China's Defense Ministry said the flight demonstrated the two countries' \"resolve and capability to jointly safeguard regional peace and stability.\"",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/28/548575.png",
+          "article_url": "https://www.japantimes.co.jp/news/2026/06/28/japan/china-russia-bombers-fighters-japan/",
+          "published_at": "Sun, 28 Jun 2026 08:17:00 +0900",
           "cross_sections": [
             "tech"
           ]
@@ -4822,70 +5133,6 @@
           ]
         },
         {
-          "id": "YmJjLXVzLWNvbmR1Y3RzLXJl",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "US conducts retaliatory strikes on Iran after second shipping attack",
-          "summary": "The US said it had hit multiple targets \"in direct response to continued Iranian aggression against commercial shipping\".",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38a0/live/7c4274f0-727b-11f1-8e1d-bbbb1017d210.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 27 Jun 2026 23:06:40 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy1pbi1reXVz",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "In Kyushu’s far south, Senti.U sparks a culinary destination",
-          "summary": "Drawn by the quality of Kanoya's local produce, chef Yasuhiko Uchida relocated to the Osumi Peninsula. Now, his restaurant is a shining example of Kagoshima's culinary appeal.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/26/547580.jpg",
-          "article_url": "https://www.japantimes.co.jp/life/2026/06/28/food-drink/destination-restaurants-sentiu-kagoshima-italian-japanese-cuisine/",
-          "published_at": "Sun, 28 Jun 2026 08:05:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YmJjLXdoby1jb3VsZC1lbmds",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Who could England face in last 32 after qualifying for next round?",
-          "summary": "England secure top spot in group L and a World Cup last 32 tie against a third-placed team with a 2-0 win over Panama on Saturday.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/867c/live/668f4290-70f1-11f1-be4e-5da6babab635.jpg",
-          "article_url": "https://www.bbc.co.uk/sport/football/articles/c1wylljn12xo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 27 Jun 2026 23:03:28 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy1zbWFzaC10",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Smash tacos with bear-approved veggies",
-          "summary": "Alpine leeks are a forageable example of the \"sansai\" (wild edible plants) that make springtime a bounty of flavors across Japan's countryside — for humans and bear-kind alike.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/26/547602.jpg",
-          "article_url": "https://www.japantimes.co.jp/life/2026/06/28/food-drink/chitatap-smash-tacos-wild-vegetables-bears/",
-          "published_at": "Sun, 28 Jun 2026 08:00:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "Y25iYy11LnMuLW1pbGl0YXJ5",
           "source_id": "cnbc",
           "source_name": "CNBC",
@@ -4897,54 +5144,6 @@
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/06/27/tanker-struck-in-strait-of-hormuz-as-us-iran-tensions-escalate.html",
           "published_at": "Sat, 27 Jun 2026 22:54:45 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLXN1cHJlbWUtY291cnQt",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Supreme Court takes 14 years on criminal case, 2 convicts die waiting",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/supreme-court-takes-14-years-on-criminal-case-2-convicts-die-waiting/articleshow/132044102.cms",
-          "published_at": "Sun, 28 Jun 2026 04:15:05 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLW1vbnNvb24tb24tdGhl",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Monsoon on the back foot: IMD warns of over 10% rainfall deficit",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/rain-deficit-now-at-43-likely-to-end-at-over-10/articleshow/132044088.cms",
-          "published_at": "Sun, 28 Jun 2026 04:09:01 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtc3VmaS1zYWlu",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Sufi saints and scholars learnt the ideals of co-existence from Indian scriptures: J&K L-G",
-          "summary": "Manoj Sinha also met with civil society groups, business leaders, and religious heads in Srinagar to discuss the upcoming Amarnath Yatra",
-          "image_url": "https://th-i.thgim.com/public/incoming/lc0e8c/article71155768.ece/alternates/LANDSCAPE_1200/PTI06_27_2026_000141B.jpg",
-          "article_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/sufi-saints-and-scholars-learnt-the-ideals-of-co-existence-from-indian-scriptures-jk-l-g/article71155192.ece",
-          "published_at": "Sun, 28 Jun 2026 04:01:14 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5030,28 +5229,12 @@
           ]
         },
         {
-          "id": "YWxqYXplZXJhLXdoeS1pcy1j",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Why is Crimea critical to the Russia–Ukraine war?",
-          "summary": "Ukraine is intensifying attacks on Russian-controlled Crimea as Kyiv tries to pressure Moscow into ending the war.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/inside-story/2026/6/27/why-is-crimea-critical-to-the-russia-ukraine?traffic_source=rss",
-          "published_at": "Sat, 27 Jun 2026 19:22:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bnl0LXZvbHVudGVlcnMtYXJl",
           "source_id": "nyt",
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Volunteers Are Risking Their Lives to Stop Ebola. They Aren’t Always Welcome.",
           "summary": "Frontline Congolese workers who conduct safe burials are key to containing what experts fear could become the worst ever Ebola outbreak. They risk not just infection, but the anger of terrified communities.",
           "image_url": "https://static01.nyt.com/images/2026/06/18/multimedia/00intt-ebola-redcross-promo/00intt-ebola-redcross-21-pfmj-mediumSquareAt3X.jpg",
@@ -5101,7 +5284,7 @@
           "source_category": "Broadcaster",
           "feed_label": "Tech",
           "title": "Empty envelopes in your mailbox? Do not scan that code",
-          "summary": "Empty envelopes arriving in your mailbox could be tied to brushing scams where sellers fake verified reviews using your address and personal data.",
+          "summary": "Empty envelopes arriving in your mailbox could be tied to brushing scams in which sellers fake verified reviews using your address and personal data.",
           "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/mailbox-fraud.jpeg?ve=1&tl=1",
           "article_url": "https://www.foxnews.com/tech/empty-envelopes-mailbox-scan-code",
           "published_at": "Sat, 27 Jun 2026 14:30:06 -0400",
@@ -5222,6 +5405,22 @@
           ]
         },
         {
+          "id": "bnl0LWRlYWwtd2l0aC1pc3Jh",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Deal With Israel Divides Lebanese, Fueling Protests in Beirut",
+          "summary": "Supporters welcomed the agreement as a step toward curtailing Iran’s influence within Lebanon, but others took to the streets, calling it a capitulation.",
+          "image_url": "https://static01.nyt.com/images/2026/06/27/multimedia/27mideast-lebanon-fmbl/27mideast-lebanon-fmbl-mediumSquareAt3X-v2.jpg",
+          "article_url": "https://www.nytimes.com/2026/06/27/world/middleeast/lebanon-israel-deal-divisions-protests-beirut.html",
+          "published_at": "Sat, 27 Jun 2026 17:13:00 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "bnl0LXUucy4taXJhbi1kZWFs",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -5254,17 +5453,17 @@
           ]
         },
         {
-          "id": "bnl0LWluLXN0cmFpdC1vZi1o",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "In Strait of Hormuz, Renewed Strikes Threaten to Set Back Shipping Recovery",
-          "summary": "The attacks came after traffic through the Strait of Hormuz had reached the highest levels since the start of the U.S. war in Iran.",
-          "image_url": "https://static01.nyt.com/images/2026/06/27/multimedia/27BIZ-HORMUZ-SHIPPING-1-hpjw/27BIZ-HORMUZ-SHIPPING-1-hpjw-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/06/27/business/strait-of-hormuz-shipping-iran.html",
-          "published_at": "Sat, 27 Jun 2026 17:03:08 +0000",
+          "id": "ZXVyb25ld3MtZXVyb3BlLXNl",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Europe send search and rescue personnel to Venezuela in response to massive quakes",
+          "summary": "The European Union has begun sending aid to Venezuela through its Civil Protection Mechanism in response to Wednesday's earthquakes of 7.2 and 7.5 magnitude, which have left more than 50,000 people missing, according to the UN.",
+          "image_url": "https://images.euronews.com/articles/stories/09/81/59/16/696x392_cmsv2_82b10802-2956-5fb9-97e3-4231650cd352-9815916.jpg",
+          "article_url": "http://www.euronews.com/my-europe/2026/06/27/europe-send-search-and-rescue-personnel-to-venezuela-in-response-to-massive-quakes",
+          "published_at": "Sat, 27 Jun 2026 18:53:46 +0200",
           "cross_sections": [
             "tech"
           ]
@@ -5314,22 +5513,6 @@
           "image_url": null,
           "article_url": "https://www.dw.com/en/ukraine-strikes-russian-weapons-plant-moscow-fuel-hub/a-77735059?maca=en-rss-en-world-4025-xml-mrss",
           "published_at": "Sat, 27 Jun 2026 16:41:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iY3RlY2gtdGhlLWFpLXRy",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "The AI trade cooled and oil sank. A closer look at Wall Street's volatile week",
-          "summary": "Micron finished the week in the red despite a blockbuster earnings report. But falling oil prices was good news for the fight against inflation.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/06/27/the-ai-trade-cooled-and-oil-sank-a-closer-look-at-wall-streets-volatile-week.html",
-          "published_at": "Sat, 27 Jun 2026 16:39:52 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -5411,6 +5594,23 @@
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
           "published_at": "Sat, 27 Jun 2026 14:00:00 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtYW50aHJvcGlj",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Anthropic cleared to restore Mythos 5 access to certain US organisations",
+          "summary": "\"We’re restoring access for these organizations quickly, and we’re continuing to work with the government to expand access to Mythos 5 and make Fable 5 available for general use again,\" the company said on Friday.",
+          "image_url": "https://images.euronews.com/articles/stories/09/81/59/22/696x392_cmsv2_abf395a7-3c1e-5044-82f2-2a443dcb1f2d-9815922.jpg",
+          "article_url": "http://www.euronews.com/2026/06/27/anthropic-cleared-to-restore-mythos-5-access-to-certain-us-organisations",
+          "published_at": "Sat, 27 Jun 2026 15:16:14 +0200",
           "cross_sections": [
             "tech",
             "ai"
@@ -5756,23 +5956,6 @@
           ]
         },
         {
-          "id": "YXJhYm5ld3Mtc3RhcnR1cC13",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Startup Wrap: MENA startups draw capital as AI bets continue to accelerate",
-          "summary": "RIYADH: Startups across the Middle East and North Africa saw new funding rounds over the past week, with acquisitions, and partnerships across artificial intelligence, fintech, gaming, and digital infrastructure.\n\n\tSaudi Arabia-based Signit raised $15 million in a series A round led by Raed Ventures",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641205/business-economy",
-          "published_at": "Sat, 25 Apr 2026 06:04:04 +03",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "dG9pLWNoYXRncHQtd2FzLWRv",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -5793,7 +5976,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 8797,
+    "build_ms": 9717,
     "ai_enabled": true
   }
 }
