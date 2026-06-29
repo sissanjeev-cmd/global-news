@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-28T23:44:42.887Z",
-  "total_articles": 307,
-  "new_this_run": 14,
+  "last_updated": "2026-06-29T01:54:26.179Z",
+  "total_articles": 300,
+  "new_this_run": 48,
   "sources": [
     {
       "id": "techcrunch",
@@ -535,6 +535,20 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "emRuZXQtaS1idWlsdC1hLXdo",
+          "source_id": "zdnet",
+          "source_name": "ZDNet",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "I built a whole-home ad blocker with a $7 ESP32-S3 board - and it took just minutes",
+          "summary": "Raspberry Pi boards have gotten expensive, so I found a cheap alternative in a tiny ESP32-S3 board.",
+          "image_url": null,
+          "article_url": "https://www.zdnet.com/article/how-i-block-ads-with-cheap-raspberry-pi-alternative/",
+          "published_at": "Mon, 29 Jun 2026 01:00:39 GMT",
+          "cross_sections": []
+        },
+        {
           "id": "emRuZXQteWVhcnMtb2YtbGl2",
           "source_id": "zdnet",
           "source_name": "ZDNet",
@@ -640,20 +654,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "emRuZXQtYmVzdC1idXkncy1n",
-          "source_id": "zdnet",
-          "source_name": "ZDNet",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Best Buy's gaming deals are still live after Prime Day - Nintendo Switch, PS5, and more",
-          "summary": "Best Buy's competing Prime Day 2026 gaming deals will run through Sunday with massive savings on Alienware, Nintendo Switch, and Lenovo tech.",
-          "image_url": null,
-          "article_url": "https://www.zdnet.com/article/best-buy-gaming-deals-amazon-prime-day-2026-still-live/",
-          "published_at": "Sat, 27 Jun 2026 14:00:18 GMT",
-          "cross_sections": []
         }
       ]
     },
@@ -914,6 +914,22 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "Y25iY3RlY2gtc2Ftc3VuZywt",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Samsung, SK Hynix shares fall as investors brace for reported $1.3 trillion spending plans",
+          "summary": "Shares of Samsung Electronics and SK Hynix plunged after reports surfaced that the pair are expected to unveil investment plans worth hundreds of billions of dollars.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3-reported-trillion-spending-plans.html",
+          "published_at": "Mon, 29 Jun 2026 01:35:51 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "Y25iY3RlY2gtdGhlLWFpLXRy",
           "source_id": "cnbctech",
           "source_name": "CNBC Technology",
@@ -1026,22 +1042,6 @@
             "tech",
             "ai"
           ]
-        },
-        {
-          "id": "Y25iY3RlY2gtbWV0YSdzLWZs",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Meta's flurry of AI initiatives this month hasn't helped lift the stock. What will?",
-          "summary": "Meta has to justify its AI spending to unlock the struggling stock.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/06/26/metas-flurry-of-ai-initiatives-this-month-hasnt-helped-lift-the-stock-what-will.html",
-          "published_at": "Fri, 26 Jun 2026 17:45:09 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -1051,6 +1051,117 @@
       "region": "IT Focus",
       "category": "Tech Media",
       "articles": [
+        {
+          "id": "ZXR0ZWNoLWFsdGVybmF0aXZl",
+          "source_id": "ettech",
+          "source_name": "ETtech",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Alternatives to OpenAI, Anthropic: With US prime AI off the table, India opts for fine China",
+          "summary": "Chinese open-source models, which were already popular among startups due to lower costs, may now make their way to large enterprises looking to avoid disruptions to top-dollar artificial intelligence projects. “The choice is pragmatic, not political,” said Nipun Kalra, managing director and senior ",
+          "image_url": null,
+          "article_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alternatives-to-openai-anthropic-with-us-prime-ai-off-the-table-india-opts-for-fine-china/articleshow/132057030.cms",
+          "published_at": "Mon, 29 Jun 2026 06:01:00 +0530",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "ZXR0ZWNoLXRyYXZlbC1vbi1y",
+          "source_id": "ettech",
+          "source_name": "ETtech",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Travel on recovery road as war cloud clears and oil dips: MakeMyTrip group CEO",
+          "summary": "MakeMyTrip group CEO Rajesh Magow said the optimism level among airlines is improving, and noted that commercial LPG supply in the country is being restored. \"The US looks like it wants to get out of the conflict one way or the other. There is hope now,\" he said. \"The recovery for long-haul and west",
+          "image_url": null,
+          "article_url": "https://economictimes.indiatimes.com/tech/technology/travel-on-recovery-road-as-war-cloud-clears-and-oil-dips-makemytrip-group-ceo/articleshow/132057286.cms",
+          "published_at": "Mon, 29 Jun 2026 06:00:00 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXR0ZWNoLWV0dGVjaC1xLWE6",
+          "source_id": "ettech",
+          "source_name": "ETtech",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "ETtech Q A: Delhivery looking to expand high-growth businesses, says CEO Sahil Barua",
+          "summary": "Gurugram-based Delhivery, which went public in May 2022, had been the bellwether for the performance of India’s ecommerce industry until the December 2025 listing of Meesho. Barua said that the company was increasingly witnessing vertical ecommerce players and direct-to-consumer (D2C) brands taking ",
+          "image_url": null,
+          "article_url": "https://economictimes.indiatimes.com/tech/technology/ettech-qa-delhivery-looking-to-expand-high-growth-businesses-says-ceo-sahil-barua/articleshow/132056100.cms",
+          "published_at": "Mon, 29 Jun 2026 06:00:00 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXR0ZWNoLWV0dGVjaC1pbnRl",
+          "source_id": "ettech",
+          "source_name": "ETtech",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "ETtech Interview: Logistics market can’t support more than three players, further consolidation likely: Delhivery's Sahil Barua",
+          "summary": "Delhivery is entering its next phase of growth, with CEO Sahil Barua betting on high-growth segments while continuing to push hard to expand margins. Four years after its listing and a year after acquiring Ecom Express, Barua says India’s logistics sector is headed for consolidation, arguing that th",
+          "image_url": null,
+          "article_url": "https://economictimes.indiatimes.com/tech/technology/ettech-interview-logistics-market-cant-support-more-than-3-players-more-consolidation-likely-says-delhiverys-sahil-barua/articleshow/132056080.cms",
+          "published_at": "Mon, 29 Jun 2026 06:00:00 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXR0ZWNoLXdoby1wYXlzLXdo",
+          "source_id": "ettech",
+          "source_name": "ETtech",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Who pays when Blockchain fails, ask experts flagging gaps",
+          "summary": "Unlike conventional digital systems, where responsibility typically rests with a platform operator, data controller or service provider, blockchain-based systems can distribute responsibility across developers, validators, node operators, enterprise users, intermediaries and public authorities. That",
+          "image_url": null,
+          "article_url": "https://economictimes.indiatimes.com/tech/technology/who-pays-when-blockchain-fails-ask-experts-flagging-gaps/articleshow/132056027.cms",
+          "published_at": "Mon, 29 Jun 2026 06:00:00 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXR0ZWNoLWFpLXN0YXJ0dXAt",
+          "source_id": "ettech",
+          "source_name": "ETtech",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "AI startup Rocket in talks to raise $40-50 million: sources",
+          "summary": "If completed at the current terms, the round will mark a sharp re-rating for the company less than a year after it raised $15 million from Salesforce Ventures, Accel and Together Fund at a valuation of around $60 million. The new capital is expected to be used to deepen Rocket’s AI capabilities, exp",
+          "image_url": null,
+          "article_url": "https://economictimes.indiatimes.com/tech/funding/ai-startup-rocket-in-talks-to-raise-40-50-million-sources/articleshow/132055768.cms",
+          "published_at": "Mon, 29 Jun 2026 06:00:00 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXR0ZWNoLWFtYXpvbiwtZmxp",
+          "source_id": "ettech",
+          "source_name": "ETtech",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Amazon, Flipkart spark quick commerce price war as Blinkit, Instamart hold the line",
+          "summary": "India’s quick-commerce market is back in a discounting spiral. Amazon and Flipkart are turning up the heat, but incumbents Blinkit and Swiggy Instamart are largely refusing to dive into the price war as they prioritise profitability, industry executives said.",
+          "image_url": null,
+          "article_url": "https://economictimes.indiatimes.com/tech/technology/amazon-flipkart-spark-quick-commerce-price-war-as-blinkit-instamart-hold-the-line/articleshow/132055705.cms",
+          "published_at": "Mon, 29 Jun 2026 06:00:00 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "ZXR0ZWNoLWJhaWR1J3MtYWkt",
           "source_id": "ettech",
@@ -1065,121 +1176,6 @@
           "published_at": "Mon, 29 Jun 2026 00:14:34 +0530",
           "cross_sections": [
             "tech"
-          ]
-        },
-        {
-          "id": "ZXR0ZWNoLWF1c3RyYWxpYSdz",
-          "source_id": "ettech",
-          "source_name": "ETtech",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Australia's Firmus Technologies strikes AI access deal with Nvidia",
-          "summary": "Firmus said the deal would see it buy Nvidia infrastructure and sell Nvidia‑powered cloud services ‌to \"AI Native\" ⁠customers, ⁠among others, in an agreement that would earn the U.S.-listed chip giant product ​revenue and a share of cloud revenue.",
-          "image_url": null,
-          "article_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/australias-firmus-technologies-strikes-ai-access-deal-with-nvidia/articleshow/132052795.cms",
-          "published_at": "Sun, 28 Jun 2026 19:38:38 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXR0ZWNoLWF1c3RyaWEtbG9i",
-          "source_id": "ettech",
-          "source_name": "ETtech",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Austria lobbies EU to host Anthropic AI after US curbs: Report",
-          "summary": "Austria ​is pushing ​the European Union to ‌consider ⁠hosting ⁠Anthropic ​AI system within its ​borders to ​counter efforts ⁠by ‌the ​U.S. ​to ⁠block foreigners from using ​the company's ​most advanced models, Bloomberg ‌News reported on ​Sunday.",
-          "image_url": null,
-          "article_url": "https://economictimes.indiatimes.com/tech/technology/austria-lobbies-eu-to-host-anthropic-ai-after-us-curbs-report/articleshow/132052140.cms",
-          "published_at": "Sun, 28 Jun 2026 19:15:38 +0530",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "ZXR0ZWNoLWVsb24tbXVzay1z",
-          "source_id": "ettech",
-          "source_name": "ETtech",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Elon Musk says Grok 4.5 is now in private beta, claims performance near or above Anthropic's Opus",
-          "summary": "Musk said reinforcement learning is continuing to improve the model and that \"Grok Build,\" xAI's coding-agent harness, is being refined daily. He framed the SpaceX and Tesla deployment as an internal proving ground before any wider release.",
-          "image_url": null,
-          "article_url": "https://economictimes.indiatimes.com/tech/technology/elon-musk-says-grok-4-5-is-now-in-private-beta-claims-performance-near-or-above-anthropics-opus/articleshow/132051646.cms",
-          "published_at": "Sun, 28 Jun 2026 18:24:16 +0530",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "ZXR0ZWNoLWlpdC1hbHVtbmkt",
-          "source_id": "ettech",
-          "source_name": "ETtech",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "IIT Alumni to provide AI training to migrant workers in Singapore",
-          "summary": "Supported by the Indian High Commission (HCI), the Indian Institutes of Technology Alumni Association - Singapore (IITAAS) on Sunday signed a Memorandum of Understanding (MOU) with the Migrant Workers' Centre (MWC).",
-          "image_url": null,
-          "article_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/iit-alumni-to-provide-ai-training-to-migrant-workers-in-singapore/articleshow/132050667.cms",
-          "published_at": "Sun, 28 Jun 2026 17:36:31 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXR0ZWNoLW1hcmstenVja2Vy",
-          "source_id": "ettech",
-          "source_name": "ETtech",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Mark Zuckerberg asks Meta to explore working with Polymarket and Kalshi: Report",
-          "summary": "The social media ​company's executives have said Arena, Meta's new prediction market app under development, will differ from Polymarket and Kalshi, which ​accept real-money wagers, because it will ⁠instead rely ‌on video-game-like \"points\", the report said.",
-          "image_url": null,
-          "article_url": "https://economictimes.indiatimes.com/tech/technology/mark-zuckerberg-asks-meta-to-explore-working-with-polymarket-and-kalshi-report/articleshow/132050026.cms",
-          "published_at": "Sun, 28 Jun 2026 16:51:52 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXR0ZWNoLWV1LWRlZmVuZHMt",
-          "source_id": "ettech",
-          "source_name": "ETtech",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "EU defends digital tax approach, says ready to act if Trump takes measures",
-          "summary": "\"Any ⁠taxes are ‌non-discriminatory ​by ​design and ⁠apply equally to all large companies, ​regardless of their ​origin\", a spokesperson said, adding that the bloc would respond ‌swiftly to unjustified unilateral measures, ​but remained ​open ⁠to a global solution in line with G7 ​agreements.",
-          "image_url": null,
-          "article_url": "https://economictimes.indiatimes.com/tech/technology/eu-defends-digital-tax-approach-says-ready-to-act-if-trump-takes-measures/articleshow/132049957.cms",
-          "published_at": "Sun, 28 Jun 2026 16:47:40 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXR0ZWNoLXVzLWNsb3NlLXRv",
-          "source_id": "ettech",
-          "source_name": "ETtech",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "US close to allowing Anthropic to restore Fable 5 model, Axios reports",
-          "summary": "Anthropic had abruptly disabled ​its most advanced AI models - Mythos 5 and Fable 5 - ​for all users after the government's June 12 export control order.",
-          "image_url": null,
-          "article_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-close-to-allowing-anthropic-to-restore-fable-5-model-axios-reports/articleshow/132049884.cms",
-          "published_at": "Sun, 28 Jun 2026 16:40:14 +0530",
-          "cross_sections": [
-            "tech",
-            "ai"
           ]
         }
       ]
@@ -1331,27 +1327,27 @@
           "source_region": "North America",
           "source_category": "Newspaper",
           "feed_label": "World",
-          "title": "Mideast Live Updates: Dispute Over Strait Deepens as U.S. and Iran Trade Attacks",
-          "summary": "In a fourth day of hostilities, Iran said that it had targeted a U.S. naval base in Bahrain and a Kuwaiti air base with drones and missiles. No major damage or casualties were reported.",
+          "title": "Mideast Live Updates: U.S. Indicates a Deal to Suspend Attacks in Strait but Iran Hasn’t Confirmed",
+          "summary": "A U.S. official said the U.S. and Iran agreed to halt attacks in the Strait of Hormuz and allow vessels to move freely. Hostilities in recent days have threatened a two-week-old cease-fire.",
           "image_url": "https://static01.nyt.com/images/2026/06/28/multimedia/28mideast-200-fbgh/28mideast-200-fbgh-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
-          "published_at": "Sun, 28 Jun 2026 23:36:13 +0000",
+          "published_at": "Mon, 29 Jun 2026 01:38:52 +0000",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "bnl0LXZlbmV6dWVsYS1saXZl",
+          "id": "bnl0LXJlc2N1ZXJzLWluLeKA",
           "source_id": "nyt",
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
           "feed_label": "World",
-          "title": "Venezuela Live Updates: Rescuers in ‘Critical Hours’ as Window to Find Survivors Closes",
+          "title": "Rescuers in ‘Critical Hours’ as Window to Find Survivors Closes",
           "summary": "More than three days after twin earthquakes devastated the Venezuelan coast, the rescue effort faced chaos and delays as the chances of finding survivors diminished.",
           "image_url": "https://static01.nyt.com/images/2026/06/28/multimedia/28venez-200-tpwg/28venez-200-tpwg-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake",
-          "published_at": "Sun, 28 Jun 2026 23:10:52 +0000",
+          "published_at": "Mon, 29 Jun 2026 01:07:57 +0000",
           "cross_sections": []
         },
         {
@@ -1682,7 +1678,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-06-28T23:44:34.105Z",
+          "published_at": "2026-06-29T01:54:17.787Z",
           "cross_sections": []
         },
         {
@@ -1696,7 +1692,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-06-28T23:44:34.105Z",
+          "published_at": "2026-06-29T01:54:17.787Z",
           "cross_sections": []
         },
         {
@@ -1710,7 +1706,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-06-28T23:44:34.105Z",
+          "published_at": "2026-06-29T01:54:17.787Z",
           "cross_sections": []
         },
         {
@@ -2022,6 +2018,36 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "Y25iYy1zYW1zdW5nLC1zay1o",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Samsung, SK Hynix shares fall as investors brace for reported $1.3 trillion spending plans",
+          "summary": "Shares of Samsung Electronics and SK Hynix plunged after reports surfaced that the pair are expected to unveil investment plans worth hundreds of billions of dollars.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3-reported-trillion-spending-plans.html",
+          "published_at": "Mon, 29 Jun 2026 01:35:51 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iYy1vaWwtanVtcHMtYmFj",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Oil jumps back above $70 as fresh U.S.-Iran clashes reignite Middle East supply fears",
+          "summary": "Oil edged higher on Monday after renewed military strikes between the U.S. and Iran reignited concerns over crude supplies from the Middle East.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/06/29/oil-prices-wti-brent-crude-us-iran-strikes-strait-hormuz-talks.html",
+          "published_at": "Mon, 29 Jun 2026 01:32:31 GMT",
+          "cross_sections": []
+        },
+        {
           "id": "Y25iYy1pcmFuLXRhbGtzLW9u",
           "source_id": "cnbc",
           "source_name": "CNBC",
@@ -2033,22 +2059,6 @@
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/06/28/trump-threatens-iran-with-annihilation-kuwait-bahrain-report-attacks.html",
           "published_at": "Sun, 28 Jun 2026 23:39:41 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy1hbWVyaWNhLWNhbid0",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "America can't get enough of protein. The dairy industry can't keep up",
-          "summary": "Demand for whey protein is off the charts as American diet trends change and GLP-1s boom, and the dairy industry is struggling to produce enough.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/06/28/america-cant-get-enough-protein-the-dairy-industry-cant-keep-up.html",
-          "published_at": "Sun, 28 Jun 2026 21:35:15 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -2149,22 +2159,6 @@
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html",
           "published_at": "Sat, 27 Jun 2026 15:00:01 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy10aGUtbWVtb3J5LXNo",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "The memory shortage shaking Apple and Microsoft is 'existential crisis' for smaller players",
-          "summary": "While Apple and Microsoft raise prices on key devices to help cover the soaring costs of memory, smaller consumer electronics companies are in dire straits.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/06/27/memory-crunch-shaking-apple-and-microsoft-existential-for-small-guys.html",
-          "published_at": "Sat, 27 Jun 2026 13:21:37 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -2529,6 +2523,54 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YmJjLXR3by1ib3lzLXB1bGxl",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend",
+          "summary": "With tens of thousands of people missing, relatives face another night waiting for news of loved ones as the crucial window for locating survivors closes.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd93/live/fc2f4510-7345-11f1-95e1-39c8d2c78f5f.png",
+          "article_url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 29 Jun 2026 01:23:32 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLXdoaXRlLXdvcmtpbmct",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "White working-class children failed by education system, says inquiry",
+          "summary": "The inquiry spoke to thousands of young people and their parents, as well as hundreds of teachers.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd5b/live/8eda9340-70a5-11f1-a074-f75fb10ee765.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cq51j10q601o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 29 Jun 2026 00:21:50 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLXRlbXBlcmF0dXJlcy10",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Temperatures to drop this week but relief from heat may be short-lived",
+          "summary": "Many will experience cooler air and some rain this week before a possible return to hot weather at the weekend.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a6/live/a394e670-72ce-11f1-b1db-af71d47507d6.jpg",
+          "article_url": "https://www.bbc.co.uk/weather/articles/c5yzq1q4zm8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 28 Jun 2026 23:54:51 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YmJjLWVtbWEtcmFkdWNhbnUt",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2555,22 +2597,6 @@
           "article_url": "https://www.bbc.co.uk/news/articles/c2ky95ndx92o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 28 Jun 2026 22:55:56 GMT",
           "cross_sections": []
-        },
-        {
-          "id": "YmJjLXR3by1ib3lzLXJlc2N1",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
-          "summary": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd93/live/fc2f4510-7345-11f1-95e1-39c8d2c78f5f.png",
-          "article_url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 28 Jun 2026 21:58:45 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "YmJjLWNocmlzLW1hc29uOi1i",
@@ -2601,22 +2627,6 @@
           "cross_sections": []
         },
         {
-          "id": "YmJjLWFnbmV3Oi1iZW4tc3Rv",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Agnew: Ben Stokes's exit is unconventional for an English great",
-          "summary": "Ben Stokes' shock retirement as England captain during the third Test against New Zealand was unconventional - just like the great player himself, says Jonathan Agnew.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1d2/live/efc09610-7306-11f1-8b3a-1977d6dee6ef.jpg",
-          "article_url": "https://www.bbc.co.uk/sport/cricket/articles/clyw37kgjeeo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 28 Jun 2026 19:33:07 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "YmJjLWVuZ2xhbmQtY2FwdGFp",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2644,22 +2654,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f645/live/c3ce2a40-72ed-11f1-a52b-4f9c73b26afb.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 28 Jun 2026 18:34:07 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YmJjLWNhdGhlcmluZS1jb21w",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Catherine completes Three Peaks Challenge to 'explore life beyond' cancer diagnosis",
-          "summary": "The Princess of Wales did the endurance event to raise awareness about \"holistic healthcare\" for cancer patients.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d746/live/763df840-731b-11f1-a489-2d4c87e59982.png",
-          "article_url": "https://www.bbc.co.uk/news/articles/cwydwgy7125o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 28 Jun 2026 18:05:35 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -2877,6 +2871,20 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "Z3VhcmRpYW4tdmVuZXp1ZWxh",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "Venezuela earthquake: father and son found alive in rubble after four days as death toll nears 1,500",
+          "summary": "President says ‘we always hold onto hope’ as discovery of earthquake survivors spurs fresh search efforts despite dwindling chances of survival\n\nMortuary in Caracas ‘overwhelmed’ as Venezuela struggles to respond after earthquakes\n\nA man and his teenage son were found alive under the rubble in Venez",
+          "image_url": "https://i.guim.co.uk/img/media/0ad9444932cbdc7b734e1aa78743948490f618a8/204_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=ade9484e42d4b6d971316f446900b8e1",
+          "article_url": "https://www.theguardian.com/world/2026/jun/29/venezuela-earthquake-death-toll-father-son-alive",
+          "published_at": "Mon, 29 Jun 2026 01:09:09 GMT",
+          "cross_sections": []
+        },
+        {
           "id": "Z3VhcmRpYW4t4oCYY3J5cHRv",
           "source_id": "guardian",
           "source_name": "The Guardian",
@@ -2923,20 +2931,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "Z3VhcmRpYW4tdmVuZXp1ZWxh",
-          "source_id": "guardian",
-          "source_name": "The Guardian",
-          "source_region": "Europe",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Venezuelan earthquakes test Trump’s new western hemisphere policy after gutting of USAID",
-          "summary": "Marco Rubio is scrambling to provide effective disaster response to country whose president US deposed in January\nThis week’s dual earthquakes in Venezuela are a test for the new era of American power in the western hemisphere, as the Trump administration scrambles to provide an effective disaster r",
-          "image_url": "https://i.guim.co.uk/img/media/ccacd3ccd1b84966144695f5a98392e8f47c26e0/10_0_3838_3072/master/3838.jpg?width=140&quality=85&auto=format&fit=max&s=c764916287fe27b50149381ceb784e3c",
-          "article_url": "https://www.theguardian.com/us-news/2026/jun/28/venezuelan-earthquakes-test-trumps-new-western-hemisphere-policy-after-gutting-of-usaid",
-          "published_at": "Sun, 28 Jun 2026 09:32:47 GMT",
-          "cross_sections": []
         },
         {
           "id": "Z3VhcmRpYW4tdHJ1bXAtdGhy",
@@ -3335,128 +3329,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "ZXVyb25ld3MtcG9ydHVnYWwt",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Portugal gains 725 super-rich residents in five years. Why is it a magnet for wealth?",
-          "summary": "In recent years, Portugal has seen a sharp rise in the number of ultra-wealthy residents, fuelled by property investment, international capital flows and the appeal of the Portuguese way of life.",
-          "image_url": "https://images.euronews.com/articles/stories/09/79/94/61/696x392_cmsv2_97685693-5a62-5d65-b27e-71a7c38dd3de-9799461.jpg",
-          "article_url": "http://www.euronews.com/business/2026/06/28/portugal-gains-725-super-rich-in-five-years-who-they-are-and-why-they-chose-the-country",
-          "published_at": "Sun, 28 Jun 2026 07:00:57 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtdXAtdG8tMTAw",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Up to 100,000 jobs and four plants: Volkswagen reportedly plans radical overhaul",
-          "summary": "Volkswagen is reportedly preparing what could become the most radical overhaul in its history. Up to 100,000 jobs could be cut worldwide, while four German plants could close.",
-          "image_url": "https://images.euronews.com/articles/stories/09/81/45/05/696x392_cmsv2_f17109ee-80ec-5705-973c-f46832df3046-9814505.jpg",
-          "article_url": "http://www.euronews.com/business/2026/06/26/100000-jobs-and-four-plants-volkswagen-reportedly-plans-radical-overhaul",
-          "published_at": "Fri, 26 Jun 2026 10:40:16 +0200",
-          "cross_sections": []
-        },
-        {
-          "id": "ZXVyb25ld3Mtd2hhdC1raW5n",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "What King Charles' historic tax disclosure reveals and what it hides",
-          "summary": "King Charles III has become the first reigning British monarch to make his personal tax bill public, lifting the lid on a slice of the royal finances that has stayed hidden for centuries, and confirming in the process that the sovereign ranks among the country's largest taxpayers.",
-          "image_url": "https://images.euronews.com/articles/stories/09/81/44/78/696x392_cmsv2_b2a8e2b8-73f2-5bfc-ac0d-62900fd8efe9-9814478.jpg",
-          "article_url": "http://www.euronews.com/business/2026/06/26/what-king-charles-historic-tax-disclosure-reveals-and-what-it-hides",
-          "published_at": "Fri, 26 Jun 2026 10:32:08 +0200",
-          "cross_sections": []
-        },
-        {
-          "id": "ZXVyb25ld3MtbWljcm9zb2Z0",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Microsoft and Apple raise prices as AI-driven chip shortages hit Xbox, Macs and iPads",
-          "summary": "Microsoft and Apple are raising prices for Xbox consoles, Macs and iPads as the AI boom sends memory chip costs soaring, with prices increasing by up to $300 (about €265) and as much as 25%, depending on the product.",
-          "image_url": "https://images.euronews.com/articles/stories/09/81/41/46/696x392_cmsv2_953216b4-ab05-5e5e-8199-739995fb4658-9814146.jpg",
-          "article_url": "http://www.euronews.com/business/2026/06/26/microsoft-and-apple-raise-prices-as-ai-driven-chip-shortages-hit-xbox-macs-and-ipads",
-          "published_at": "Fri, 26 Jun 2026 06:13:18 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtaG93LWRpZ2l0",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "How digital payments are reshaping a fast-growing digital banking market",
-          "summary": "As digital payments become mainstream in Uzbekistan, banks are expanding into lending, insurance and investment products to meet rising consumer demand.",
-          "image_url": "https://images.euronews.com/articles/stories/09/80/99/20/696x392_cmsv2_0230b37f-c92e-5002-b2a0-f40f21703df4-9809920.jpg",
-          "article_url": "http://www.euronews.com/business/2026/06/26/how-digital-payments-are-reshaping-a-fast-growing-digital-banking-market",
-          "published_at": "Fri, 26 Jun 2026 06:00:59 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtYmluYW5jZS10",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Binance to halt crypto services across EU countries after failing to secure MiCA approval",
-          "summary": "The world's largest crypto exchange is pulling out of multiple EU markets after withdrawing its Greek licence application before a June 30 deadline.",
-          "image_url": "https://images.euronews.com/articles/stories/09/81/40/42/696x392_cmsv2_ab5e7806-ef09-5429-a0ee-411da92a8b46-9814042.jpg",
-          "article_url": "http://www.euronews.com/business/2026/06/25/binance-to-halt-crypto-services-across-eu-countries-after-failing-to-secure-mica-approval",
-          "published_at": "Thu, 25 Jun 2026 20:43:44 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtZmVycmFyaSdz",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Ferrari's marketing boss quits after troubled EV debut as former BMW executive steps in",
-          "summary": "The man who shaped Ferrari's image for more than a decade is leaving the company weeks after the troubled unveiling of its first electric car, with a former BMW executive drafted in to steady the brand.",
-          "image_url": "https://images.euronews.com/articles/stories/09/81/30/23/696x392_cmsv2_fdc9eeb0-0584-5a41-b9b7-607b640c56b7-9813023.jpg",
-          "article_url": "http://www.euronews.com/business/2026/06/25/ferraris-marketing-boss-quits-after-troubled-ev-debut-as-former-bmw-executive-steps-in",
-          "published_at": "Thu, 25 Jun 2026 11:59:19 +0200",
-          "cross_sections": []
-        },
-        {
-          "id": "ZXVyb25ld3MtbWljcm9uLXBv",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Micron posts record results as AI boom drives 15-fold jump in net profit",
-          "summary": "The US chipmaker Micron Technology has reported quarterly revenue and profit far above Wall Street's expectations, as insatiable demand for the memory chips that power AI transformed the firm's fortunes.",
-          "image_url": "https://images.euronews.com/articles/stories/09/81/28/75/696x392_cmsv2_2699418c-20da-5dd7-a12d-b4129a674c99-9812875.jpg",
-          "article_url": "http://www.euronews.com/business/2026/06/25/micron-posts-record-results-as-ai-boom-drives-15-fold-jump-in-net-profit",
-          "published_at": "Thu, 25 Jun 2026 10:43:07 +0200",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -3466,6 +3338,34 @@
       "region": "Europe",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "ZHctcGFraXN0YW4tc2F5cy1p",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Pakistan says it struck militant targets in Afghanistan",
+          "summary": "The strikes come a day after an attack in the southern city of Karachi killed three paramilitary troops. There was no immediate response from Afghanistan's ruling Taliban.",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/pakistan-says-it-struck-militant-targets-in-afghanistan/a-77746747?maca=en-rss-en-top-1022-xml-mrss",
+          "published_at": "Mon, 29 Jun 2026 01:51:00 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "ZHctc2VyYmlhOi1wcm90ZXN0",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Serbia: Protests continue after Vucic says he will step down",
+          "summary": "Student-led demonstrations continued even after President Vucic announced his plan to resign within weeks. For more than 18 months, demonstrators have kept Vucic under pressure.",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/serbia-protests-continue-after-vucic-says-he-will-step-down/a-77746666?maca=en-rss-en-top-1022-xml-mrss",
+          "published_at": "Mon, 29 Jun 2026 00:02:00 GMT",
+          "cross_sections": []
+        },
         {
           "id": "ZHctd2lsbC1nZXJtYW55LWlt",
           "source_id": "dw",
@@ -3570,22 +3470,6 @@
           "image_url": null,
           "article_url": "https://www.dw.com/en/saudi-aramco-helicopter-crashes-all-14-passengers-killed/a-77744020?maca=en-rss-en-world-4025-xml-mrss",
           "published_at": "Sun, 28 Jun 2026 13:38:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZHctZnJhbmNlOi0xMS1raWxs",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "France: 11 killed in civilian plane crash",
-          "summary": "Police have urged people to \"strictly avoid\" the area around the airport in Tomblaine. The plane was reportedly carrying skydivers.",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/france-11-killed-in-civilian-plane-crash/a-77743392?maca=en-rss-en-top-1022-xml-mrss",
-          "published_at": "Sun, 28 Jun 2026 11:43:00 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -3705,18 +3589,20 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dG9pLWluLXRvcC1nZWFyOi1l",
+          "id": "dG9pLSdpLWRvbid0LWhhdmUt",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "In top gear: Electric passenger vehicle sales may cross 3 lakhs in 2026",
-          "summary": "",
+          "title": "'I don't have any more fight left in me': Ben Stokes reveals reason behind shock retirement",
+          "summary": "England captain Ben Stokes has revealed the profound emotional toll of the Ashes defeat as the primary reason for his international retirement.  He confessed to his wife that he felt \"no more fight\" left to overcome the disappointment.  Stokes cited overwhelming emotional, physical, and mental exhau",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/business/india-business/in-top-gear-electric-passenger-vehicle-sales-may-cross-3-lakhs-in-2026/articleshow/132060468.cms",
-          "published_at": "Mon, 29 Jun 2026 04:59:11 +0530",
-          "cross_sections": []
+          "article_url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-dont-think-i-have-any-more-fight-left-in-me-ben-stokes-reveals-heartbreaking-reason-behind-shock-england-retirement/articleshow/132060909.cms",
+          "published_at": "Mon, 29 Jun 2026 07:09:49 +0530",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
           "id": "dG9pLXBtLW1vZGkncy1zZXlj",
@@ -3747,13 +3633,13 @@
           "cross_sections": []
         },
         {
-          "id": "dG9pLXVzLC1pcmFuLWFncmVl",
+          "id": "dG9pLSdzdGFuZC1kb3duLWZv",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "US, Iran agree to halt attacks as fragile ceasefire holds; Qatar to host Hormuz talks on Tuesday",
+          "title": "'Stand down for now': US-Iran agree to halt attacks; Qatar to host Hormuz talks on Tuesday",
           "summary": "Amidst escalating tensions, the United States and Iran have agreed to a ceasefire and will resume talks in Doha, Qatar, to de-escalate the dispute over the Strait of Hormuz.  Following days of military exchanges, both nations will halt counter-strikes, allowing vessels to navigate freely. The discus",
           "image_url": null,
           "article_url": "https://timesofindia.indiatimes.com/world/us/us-iran-agree-to-halt-attacks-after-counter-strikes-qatar-to-host-hormuz-talks-on-tuesday/articleshow/132058740.cms",
@@ -3763,48 +3649,50 @@
           ]
         },
         {
-          "id": "dG9pLXBha2lzdGFuLWNhcnJp",
+          "id": "dG9pLWZpZmEtd2M6LXN0ZXBo",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Pakistan carries out 'calibrated strikes' near Afghanistan border, 29 militants killed",
-          "summary": "",
+          "title": "FIFA WC: Stephen Eustaquio's late stunner sends Canada into historic last 16",
+          "summary": "Canada secured a historic 1-0 victory over South Africa with a stunning 92nd-minute volley from Stephen Eustaquio at SoFi Stadium. This marks Canada's first-ever knockout stage win in World Cup history. Despite South Africa's strong defense, Eustaquio's late heroics propelled Canada into the Round o",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-carries-out-calibrated-strikes-near-afghanistan-border-29-militants-killed/articleshow/132058492.cms",
-          "published_at": "Mon, 29 Jun 2026 02:02:08 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/canada-vs-south-africa-fifa-world-cup-match-result-stephen-eustaquios-late-stunner-fires-canada-into-historic-wc-last-16/articleshow/132058555.cms",
+          "published_at": "Mon, 29 Jun 2026 03:07:01 +0530",
           "cross_sections": []
         },
         {
-          "id": "dG9pLW5vLXByZXNzdXJlLXdh",
+          "id": "dG9pLWFsbC1zaWtoLW1sYXMs",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "No pressure was put on Champat Rai to resign: VHP international president Alok Kumar",
-          "summary": "",
+          "title": "All Sikh MLAs, ministers to appear before Akal Takht today: Punjab CM Bhagwant Mann",
+          "summary": "Punjab Chief Minister Bhagwant Mann announced that all Sikh AAP MLAs and ministers will appear before the Akal Takht on Monday to present the government's stance on the new anti-sacrilege law. Mann reiterated his denial of involvement in a controversial sacrilege video, calling it fake and identifyi",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/no-pressure-was-put-on-champat-rai-to-resign-says-vhp-attacks-akhilesh-remark-on-ayodhya/articleshow/132058399.cms",
-          "published_at": "Mon, 29 Jun 2026 01:17:02 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/city/chandigarh/all-sikh-mlas-ministers-to-appear-before-akal-takht-today-mann/articleshow/132057346.cms",
+          "published_at": "Sun, 28 Jun 2026 23:49:00 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dG9pLWluZGlhLWNyYXNoLW91",
+          "id": "dG9pLWFzc2FtLXJhaWwtYnJp",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "India crash out of Women's T20 WC despite Harmanpreet's heroics",
-          "summary": "Australia knocked India out of the Women's T20 World Cup with a comfortable six-wicket win, thanks to a match-winning 100-run partnership between Ellyse Perry (56) and Ashleigh Gardner (53*). Earlier, Harmanpreet Kaur's explosive 56 off 27 balls helped India post 170/4, but the total proved insuffic",
+          "title": "Assam rail bridge partly collapses after heavy rain; train services suspended, villages cut off",
+          "summary": "Heavy rainfall and severe riverbank erosion have led to the partial collapse of a railway bridge over the Simen River in Assam's Dhemaji district, suspending train operations. Meanwhile, a separate iron bridge connecting Kemi and Oyan was washed away by floodwaters, disrupting connectivity and raisi",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/sports/cricket/icc-womens-t20-world-cup/india-crash-out-of-womens-t20-world-cup-despite-harmanpreet-kaurs-heroics/articleshow/132056308.cms",
-          "published_at": "Sun, 28 Jun 2026 23:15:52 +0530",
-          "cross_sections": []
+          "article_url": "https://timesofindia.indiatimes.com/city/guwahati/railway-bridge-partially-collapses-after-heavy-rain-in-assam-train-services-suspended-villages-cut-off/articleshow/132055267.cms",
+          "published_at": "Sun, 28 Jun 2026 22:22:14 +0530",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
           "id": "dG9pLWplZmYtYmV6b3MtdnMt",
@@ -4067,93 +3955,17 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dGhlaGluZHUtcGFraXN0YW4t",
+          "id": "dGhlaGluZHUtbGdidHFpYSst",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Pakistan says it carried out ground operation, strikes along Afghan border; 29 militants killed",
-          "summary": "Pakistani forces carried out “calibrated strikes” against terrorist hideouts and safe havens in the border region",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/international/pakistan-ground-operation-strikes-afghanistan-border-casualties-updates/article71159048.ece",
-          "published_at": "Mon, 29 Jun 2026 04:47:14 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtcnVzc2lhbi1h",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Russian attacks kill five in Ukraine, local officials say",
-          "summary": "Strikes on the southeastern city of Zaporizhzhia killed two people and injured ‌16, Regional Governor Ivan Fedorov said",
-          "image_url": "https://th-i.thgim.com/public/incoming/8rj7dq/article71159215.ece/alternates/LANDSCAPE_1200/2026-06-28T114454Z_2064720425_RC2Z2MADUUBK_RTRMADP_3_UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA.JPG",
-          "article_url": "https://www.thehindu.com/news/international/russia-strikes-ukraine-death-toll-updates/article71159214.ece",
-          "published_at": "Mon, 29 Jun 2026 04:31:23 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtd2VzdC1hc2lh",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "West Asia war LIVE: U.S., Iran agree to halt attacks and hold talks in Doha on June 30, report says",
-          "summary": "The two sides anticipate meeting to work ‌out dispute over Strait of Hormuz; Hezbollah says reserves right to 'defend its homeland' after Israeli strikes on Lebanon",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-tehran-washington-ceasefire-live-updates-june-28-2026/article71156840.ece",
-          "published_at": "Mon, 29 Jun 2026 04:14:52 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtd2ltYmxlZG9u",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Wimbledon 2026 | Emma Raducanu withdraws with leg injury",
-          "summary": "The 23-year-old ⁠former U.S. Open champion announced the decision on the eve of her first-round ‌match",
-          "image_url": "https://th-i.thgim.com/public/incoming/k2t7uo/article71159213.ece/alternates/LANDSCAPE_1200/2026-06-28T110004Z_1385157753_UP1EM6S0UK2TM_RTRMADP_3_TENNIS-WIMBLEDON.JPG",
-          "article_url": "https://www.thehindu.com/sport/tennis/wimbledon-2026-emma-raducanu-withdraws-with-leg-injury/article71159211.ece",
-          "published_at": "Mon, 29 Jun 2026 04:01:12 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtaXNyYWVsLWRl",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Israel destroys Hezbollah underground infrastructure in southern Lebanon",
-          "summary": "The U.S. was informed ahead of the attack, which targeted a 200-meter (656-ft)-long tunnel in the ‌town of Majdal Zoun, according to the statement from Israeli PM Netanyahu ‌and Defence Minister Israel Katz",
-          "image_url": "https://th-i.thgim.com/public/incoming/j9sjz4/article71159208.ece/alternates/LANDSCAPE_1200/Israel_Lebanon_55759.jpg",
-          "article_url": "https://www.thehindu.com/news/international/israel-destroys-hezbollah-underground-infrastructure-in-southern-lebanon/article71159206.ece",
-          "published_at": "Mon, 29 Jun 2026 03:21:07 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtZW5nbGFuZC1j",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "England captain Ben Stokes to retire from international cricket after New Zealand finale",
-          "summary": "It ends Stokes’ 15-year international career that peaked when he starred for England in its win over New Zealand in the 50-over World Cup final in 2019",
-          "image_url": "https://th-i.thgim.com/public/incoming/gnh2t7/article71158300.ece/alternates/LANDSCAPE_1200/2026-06-28T100433Z_717762648_UP1EM6S0RZJS1_RTRMADP_3_CRICKET-ENG-NZL.JPG",
-          "article_url": "https://www.thehindu.com/sport/cricket/england-captain-stokes-to-retire-from-international-cricket-after-new-zealand-finale/article71158292.ece",
-          "published_at": "Mon, 29 Jun 2026 03:04:22 +0530",
+          "title": "LGBTQIA+ community raises voice against new amendment Act at Chennai Pride",
+          "summary": "Apart from thousands of people who gathered at the march from Chennai, a few also joined from other parts of the world",
+          "image_url": "https://th-i.thgim.com/public/incoming/cgqrq5/article71158477.ece/alternates/LANDSCAPE_1200/DSC_0105.JPG",
+          "article_url": "https://www.thehindu.com/news/cities/chennai/lgbtqia-community-raises-voice-against-new-amendment-act-at-chennai-pride/article71158293.ece",
+          "published_at": "Mon, 29 Jun 2026 07:00:03 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4169,22 +3981,102 @@
           "summary": "The Canadians dominated play, taking 12 of 18 shots and seven of the eight on goal",
           "image_url": "https://th-i.thgim.com/public/incoming/l1phbg/article71159079.ece/alternates/LANDSCAPE_1200/APTOPIX_Canada_South_Africa_WCup_Soccer_631_8.jpg",
           "article_url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-canada-earn-first-knockout-win-on-stoppage-time-goal-against-south-africa/article71159075.ece",
-          "published_at": "Mon, 29 Jun 2026 03:03:26 +0530",
+          "published_at": "Mon, 29 Jun 2026 06:59:35 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUt4oCZaXTigJlz",
+          "id": "dGhlaGluZHUtbmV0YW55YWh1",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "’It’s unprofessional, I hate it’: Serena Williams on tennis’ anti-doping system",
-          "summary": "Williams’ first match at the grass-court Grand Slam since 2022 will take place on Tuesday (June 30) when she faces Maya Joint as part of her tennis comeback",
-          "image_url": "https://th-i.thgim.com/public/incoming/afc0nq/article71159069.ece/alternates/LANDSCAPE_1200/2026-06-28T151714Z_1307770321_UP1EM6S16GP3B_RTRMADP_3_TENNIS-WIMBLEDON.JPG",
-          "article_url": "https://www.thehindu.com/sport/tennis/serena-williams-on-tennis-anti-doping-system-wimbledon-open-2025/article71159068.ece",
-          "published_at": "Mon, 29 Jun 2026 02:54:33 +0530",
+          "title": "Netanyahu plans ‘broad national govt.’ after Israel vote",
+          "summary": "He also hailed the U.S.-brokered agreement with Lebanon, calling it a historic achievement that dealt a blow to arch-foes Iran and Hezbollah",
+          "image_url": "https://th-i.thgim.com/public/incoming/a77hkv/article71155762.ece/alternates/LANDSCAPE_1200/AFP_B8JH9KE.jpg",
+          "article_url": "https://www.thehindu.com/news/international/netanyahu-plans-broad-national-govt-after-israel-vote-lebanon-agreement/article71155614.ece",
+          "published_at": "Mon, 29 Jun 2026 06:52:43 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtd2VzdC1hc2lh",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "West Asia war updates: U.S., Iran agree to halt attacks and hold talks in Doha on June 30, report says",
+          "summary": "The two sides anticipate meeting to work ‌out dispute over Strait of Hormuz; Hezbollah says reserves right to 'defend its homeland' after Israeli strikes on Lebanon",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-tehran-washington-ceasefire-live-updates-june-28-2026/article71156840.ece",
+          "published_at": "Mon, 29 Jun 2026 06:47:30 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtaXNyYWVsLWRl",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Israel destroys Hezbollah underground infrastructure in southern Lebanon",
+          "summary": "The U.S. was informed ahead of the attack, which targeted a 200-meter (656-ft)-long tunnel in the ‌town of Majdal Zoun, according to the statement from Israeli PM Netanyahu ‌and Defence Minister Israel Katz",
+          "image_url": "https://th-i.thgim.com/public/incoming/j9sjz4/article71159208.ece/alternates/LANDSCAPE_1200/Israel_Lebanon_55759.jpg",
+          "article_url": "https://www.thehindu.com/news/international/israel-destroys-hezbollah-underground-infrastructure-in-southern-lebanon/article71159206.ece",
+          "published_at": "Mon, 29 Jun 2026 06:47:25 +0530",
           "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtaXJhbi1hdHRh",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Iran attacks Bahrain, Kuwait following U.S. strikes, threatens to end talks to end war",
+          "summary": "An interim deal between the U.S. and Iran to end the war called for the Strait, which once saw a fifth of the world's oil and natural gas pass through it, to see transits resume",
+          "image_url": "https://th-i.thgim.com/public/incoming/b5uqqg/article71157301.ece/alternates/LANDSCAPE_1200/AFP_B8JJ8MX.jpg",
+          "article_url": "https://www.thehindu.com/news/international/iran-attacks-bahrain-kuwait-following-us-strikes-threatens-to-end-talks-to-end-war/article71157259.ece",
+          "published_at": "Mon, 29 Jun 2026 06:45:38 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdS5zLiwtaXJh",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "U.S., Iran agree to ‘stand down’ and hold talks in Doha on June 30: report",
+          "summary": "U.S. official said technical ⁠talks ⁠are slated to continue on ​all ‌areas of MoU",
+          "image_url": "https://th-i.thgim.com/public/incoming/40qgr3/article71159861.ece/alternates/LANDSCAPE_1200/2026-06-26T132214Z_870724518_RC210LAZEPOJ_RTRMADP_3_IRAN-CRISIS-FERTILIZERS.JPG",
+          "article_url": "https://www.thehindu.com/news/international/us-iran-agree-to-halt-strikes-doha-talks-this-week-report-updates/article71159846.ece",
+          "published_at": "Mon, 29 Jun 2026 06:43:03 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtaXJhbi13YXJu",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Iran warns ships not to bypass its chosen Hormuz route",
+          "summary": "At the moment, Iran insists ships transiting the strait pass through a corridor close to its own shores, though this week dozens of vessels have travelled along the opposite side of the waterway, hugging the Omani coast",
+          "image_url": "https://th-i.thgim.com/public/incoming/5dey32/article71159033.ece/alternates/LANDSCAPE_1200/2026-06-26T134326Z_1979541742_RC2N1MAO4YN7_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG",
+          "article_url": "https://www.thehindu.com/news/international/iran-warns-ships-not-to-bypass-its-chosen-hormuz-route/article71159031.ece",
+          "published_at": "Mon, 29 Jun 2026 06:42:42 +0530",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
           "id": "dGhlaGluZHUtYWNjZW50dXJl",
@@ -4324,125 +4216,127 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "amFwYW50aW1lcy11Lmsu4oCZ",
+          "id": "amFwYW50aW1lcy1zZXJlbmEt",
           "source_id": "japantimes",
           "source_name": "The Japan Times",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "U.K.’s likely next leader Burnham to unveil plan to shift power from London",
-          "summary": "Burnham is ​currently the only declared candidate to take over from Starmer and could be installed in Downing Street within weeks.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/29/548682.jpg",
-          "article_url": "https://www.japantimes.co.jp/news/2026/06/29/world/politics/uk-leader-burnham-power-london/",
-          "published_at": "Mon, 29 Jun 2026 07:09:00 +0900",
+          "title": "Serena Williams looking forward to enjoyable and nervous return to Wimbledon",
+          "summary": "The 44-year-old American will face Australia's Maya Joint in the first round on Centre Court on Tuesday, marking her first appearance at Wimbledon since 2022.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/29/548708.JPG",
+          "article_url": "https://www.japantimes.co.jp/sports/2026/06/29/tennis/serena-enjoy-wimbledon-return/",
+          "published_at": "Mon, 29 Jun 2026 10:50:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy1ibHVlYmF5",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "BlueBay sees near-term risk in Japan AI stocks followed by rally",
+          "summary": "AI-related shares are likely to correct over the next two months but the sector may rebound next year on the prospect of favorable U.S. policy measures, says one portfolio manager.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/29/548703.jpg",
+          "article_url": "https://www.japantimes.co.jp/business/2026/06/29/companies/bluebay-asset-japan-ai-shares-bullish/",
+          "published_at": "Mon, 29 Jun 2026 10:45:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy13b3JsZC1j",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "World Cup pits Adidas and Nike in fight for soccer street cred",
+          "summary": "With the ambush marketing of reintroducing a vintage jersey in March, Adidas is playing up soccer's off-field appeal to score points in its perpetual battle with Nike.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/29/548688.jpg",
+          "article_url": "https://www.japantimes.co.jp/business/2026/06/29/companies/world-cup-adidas-nike-soccer/",
+          "published_at": "Mon, 29 Jun 2026 10:28:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy1ydXNzaWEt",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Russia will press on with front-line campaign regardless of Ukraine proposals: Putin",
+          "summary": "The Russian president maintains that Ukrainian strikes on Russian infrastructure do not affect the situation on the front lines.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/29/548694.JPG",
+          "article_url": "https://www.japantimes.co.jp/news/2026/06/29/world/politics/putin-russia-front-line-ukraine-proposals/",
+          "published_at": "Mon, 29 Jun 2026 10:24:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy1jcml0aWNh",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Critical rescue window closing in Venezuela as quake death toll nears 1,500",
+          "summary": "Emergency teams are searching for any remaining survivors after twin earthquakes caused nearly 200 buildings to completely collapse.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/29/548692.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/06/29/world/venezuela-quake-death-rescue-window/",
+          "published_at": "Mon, 29 Jun 2026 10:21:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy13aGF0LXlv",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "What Yokoze can teach Japan about rural revival",
+          "summary": "Faced with the same demographic pressures confronting other towns, Yokoze is experimenting with a different approach.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/29/547711.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/06/29/japan/society/japan-town-population-growth/",
+          "published_at": "Mon, 29 Jun 2026 10:00:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy11LmsuLWdy",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "U.K. grid issues another supply warning as heat tests network",
+          "summary": "The alert underscores the new extremes the grid must adapt to: in this case, a surge in cooling demand coinciding with low wind generation and reduced nuclear output.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/29/548686.jpg",
+          "article_url": "https://www.japantimes.co.jp/environment/2026/06/29/energy/uk-grid-supply-heat/",
+          "published_at": "Mon, 29 Jun 2026 09:37:00 +0900",
           "cross_sections": []
         },
         {
-          "id": "amFwYW50aW1lcy1pcmFuLWFu",
+          "id": "amFwYW50aW1lcy1oYWppbWUt",
           "source_id": "japantimes",
           "source_name": "The Japan Times",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Iran and U.S. agree to halt attacks and renew talks, Axios reports",
-          "summary": "A return to ‌diplomacy would ‌follow days of strikes and counterstrikes since an Iranian projectile hit a cargo vessel in the Strait of Hormuz on ​Thursday.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/29/548681.JPG",
-          "article_url": "https://www.japantimes.co.jp/news/2026/06/29/world/politics/iran-us-attacks-renew-talks/",
-          "published_at": "Mon, 29 Jun 2026 07:08:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy1pbnNpZGUt",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Inside Japan’s rigid adoption system, a British family finds a way",
-          "summary": "Beyond the paperwork and the language barrier, James Benstead says the hardest part about adopting in Japan was the waiting.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/28/548175.jpg",
-          "article_url": "https://www.japantimes.co.jp/community/2026/06/29/our-lives/british-family-japan-adoption/",
-          "published_at": "Mon, 29 Jun 2026 07:00:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy11a3JhaW5l",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Ukraine can’t afford a breakup with Poland over history",
-          "summary": "This is reckless statecraft at the service of domestic politics on both sides — only Poland isn't at war.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/29/547786.jpg",
-          "article_url": "https://www.japantimes.co.jp/commentary/2026/06/29/world/ukraine-poland-history/",
-          "published_at": "Mon, 29 Jun 2026 00:17:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy1hLXRhaXdh",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "A Taiwan crisis and America’s faltering industrial base",
-          "summary": "Weaknesses in the U.S. defense industrial base no longer represent a mere economic issue; they now pose an immediate strategic vulnerability.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/29/548662.jpg",
-          "article_url": "https://www.japantimes.co.jp/commentary/2026/06/29/world/taiwan-america-industrial-base/",
-          "published_at": "Mon, 29 Jun 2026 00:14:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy1mcmFuY2Ut",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "France has 1,000 excess deaths as heat wave sweeps across Europe",
-          "summary": "Of the deaths recorded since Wednesday, 85% were people aged 65 or higher",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/28/548659.JPG",
-          "article_url": "https://www.japantimes.co.jp/news/2026/06/28/world/france-1000-heat-deaths/",
-          "published_at": "Sun, 28 Jun 2026 20:51:00 +0900",
-          "cross_sections": []
-        },
-        {
-          "id": "amFwYW50aW1lcy1pbmRpYeKA",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "India’s gig workers pay the price for exposure to New Delhi’s hazardous air",
-          "summary": "The country's e-commerce industry runs on the efforts of millions of gig workers, but their health is at stake as Indian cities struggle to improve air quality.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/28/547222.jpg",
-          "article_url": "https://www.japantimes.co.jp/environment/2026/06/28/india-gig-workers-hazardous-air/",
-          "published_at": "Sun, 28 Jun 2026 18:15:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy1hLWZyZW5j",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "A French ship with close ties to Japan combines arts and sciences on the high seas",
-          "summary": "With research on microplastics and the health of coral reefs, the crew of the Tara are making a difference as the world's environmental issues mount.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/28/547832.jpg",
-          "article_url": "https://www.japantimes.co.jp/environment/2026/06/28/france-research-ship-japan/",
-          "published_at": "Sun, 28 Jun 2026 18:14:00 +0900",
+          "title": "Hajime Moriyasu to pick Japan’s penalty takers if clash with Brazil goes to shootout",
+          "summary": "Takefusa Kubo will not play after picking up an injury in the group stage.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/29/548693.jpg",
+          "article_url": "https://www.japantimes.co.jp/sports/2026/06/29/soccer/moriyasu-choose-japan-penalty-takers/",
+          "published_at": "Mon, 29 Jun 2026 09:29:00 +0900",
           "cross_sections": []
         }
       ]
@@ -4663,6 +4557,94 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YWxqYXplZXJhLXByYWlzZS1w",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Praise pours in for ‘true Canadian heroes’ after last-minute World Cup win",
+          "summary": "From the prime minister to sport celebrities and fans on social media, Canadians have revelled in their team's win.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/sports/2026/6/29/praise-pours-in-for-true-canadian-heroes-after-last-minute-world-cup-win?traffic_source=rss",
+          "published_at": "Mon, 29 Jun 2026 01:20:04 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXBha2lzdGFu",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Pakistan says its security forces killed 29 fighters along Afghan border",
+          "summary": "Strikes come a day after fighters armed with guns and explosives killed three soldiers in Karachi.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/6/29/pakistan-says-its-security-forces-killed-29-fighters-along-afghan-border?traffic_source=rss",
+          "published_at": "Mon, 29 Jun 2026 01:06:44 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLWZhdGhlci1h",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Father and son pulled out alive four days after Venezuela earthquake",
+          "summary": "ootage shows search and rescue workers pulling out father and son from under the rubble of a collapsed building.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/father-and-son-pulled-out-alive-four-days-after-venezuela-earthquake?traffic_source=rss",
+          "published_at": "Mon, 29 Jun 2026 00:41:32 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLXdoby1pcy1z",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Who is Stephen Eustaquio, who scored for Canada against South Africa?",
+          "summary": "Eustaquio flip-flopped between his home country and that of his parents throughout his youth and senior career.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/sports/2026/6/29/who-is-stephen-eustaquio-who-scored-for-canada-against-south-africa?traffic_source=rss",
+          "published_at": "Mon, 29 Jun 2026 00:27:03 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLeKAmGlmLWkt",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "‘If I am to die, let it be here’: Malawians fleeing unrest in South Africa",
+          "summary": "A mass return of Malawians from South Africa exposes the cost of migration, violence and broken livelihoods.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/6/29/if-i-am-to-die-let-it-be-here-malawians-fleeing-unrest-in-south-africa?traffic_source=rss",
+          "published_at": "Mon, 29 Jun 2026 00:19:47 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLWlyYW4td2Fy",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Iran war live: Tehran insists on control of Hormuz amid reports of US talks",
+          "summary": "Washington and Tehran have agreed to stop attacks and renew talks in the Qatari capital, Doha, Axios reports.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/liveblog/2026/6/29/iran-war-live-tehran-insists-on-control-of-hormuz-amid-reports-of-us-talks?traffic_source=rss",
+          "published_at": "Mon, 29 Jun 2026 00:00:00 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "YWxqYXplZXJhLWhlaWdodGVu",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
@@ -4689,94 +4671,6 @@
           "article_url": "https://www.aljazeera.com/sports/2026/6/28/ireland-upstage-world-champions-india-to-win-t20-series-at-home?traffic_source=rss",
           "published_at": "Sun, 28 Jun 2026 21:37:49 +0000",
           "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLWNhbmFkYS1z",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Canada score late to beat South Africa and reach last 16 at World Cup 2026",
-          "summary": "Stephen Eustaquio scores in stoppage time as Canada win first knockout match in a World Cup.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/sports/2026/6/28/canada-score-late-to-beat-south-africa-and-reach-last-16-at-world-cup-2026?traffic_source=rss",
-          "published_at": "Sun, 28 Jun 2026 21:36:53 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXByb3Rlc3Rl",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Protesters in Serbia doubt Vucic resignation will bring change",
-          "summary": "Thousands of protesters gathered in Serbia's Kraljevo, dismissing Aleksandar Vucic's pledge to resign.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/protesters-in-serbia-doubt-vucic-resignation-will-bring-change?traffic_source=rss",
-          "published_at": "Sun, 28 Jun 2026 20:29:18 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXBvcGUtbGVv",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Pope Leo prays for Venezuela’s recovery after deadly quakes",
-          "summary": "Pope Leo expressed solidarity with Venezuelans after two deadly earthquakes claimed the lives of at least 1,400.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/pope-leo-prays-for-venezuelas-recovery-after-deadly-quakes?traffic_source=rss",
-          "published_at": "Sun, 28 Jun 2026 20:21:47 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLWlzcmFlbC1r",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Israel kills four Palestinians in Gaza as attacks on tents continue",
-          "summary": "Israeli forces restrict Palestinian worshippers at Al-Aqsa Mosque and block the call to prayer at the Ibrahimi Mosque.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/6/28/israel-kills-three-palestinians-in-gaza-as-attacks-on-tents-continue?traffic_source=rss",
-          "published_at": "Sun, 28 Jun 2026 19:54:39 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLWhvcGUtb2Yt",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Hope of finding more Venezuela quake survivors fades despite late rescues",
-          "summary": "Those rescued include 60-year-old woman trapped for 86 hours, as tens of thousands still reported missing.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/6/28/hope-of-finding-more-venezuela-quake-survivors-fades-despite-late-rescues?traffic_source=rss",
-          "published_at": "Sun, 28 Jun 2026 19:54:35 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXdvcmxkLWN1",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "World Cup 2026: Top matches to watch in the Round of 32 knockout stage",
-          "summary": "We have finally reached the knockout stages of the 2026 World Cup - here is Al Jazeera's guide to the best matchups.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/sports/2026/6/28/world-cup-2026-top-matches-to-watch-in-the-round-of-32-knockout-stage?traffic_source=rss",
-          "published_at": "Sun, 28 Jun 2026 19:48:40 +0000",
-          "cross_sections": []
         }
       ]
     },
@@ -4787,65 +4681,49 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "YXJhYm5ld3MtbWFsYXlzaWEt",
+          "id": "YXJhYm5ld3Mtc2F1ZGktaW5m",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Malaysia appoints new anti-graft chief",
-          "summary": "KUALA LUMPUR: Malaysia appointed on Saturday a former high court judge as the country’s new anti-graft czar to replace its outgoing chief who was dogged by allegations of abuse of power and illegal shareholding.\n\tThe appointment of Abdul Halim Aman comes as Prime Minister Anwar Ibrahim’s government ",
+          "title": "Saudi inflation remains contained at 1.8% in May: GASTAT",
+          "summary": "RIYADH: Saudi Arabia’s annual inflation rate edged up to 1.8 percent in May with housing rents continuing to drive price gains in the Kingdom, official data showed. \n\n\tAccording to the latest report released by the General Authority for Statistics, the Kingdom’s Consumer Price Index edged up 0.2 per",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641214/world",
-          "published_at": "Sat, 25 Apr 2026 09:04:41 +03",
+          "article_url": "https://www.arabnews.com/node/2647232/business-economy",
+          "published_at": "Mon, 15 Jun 2026 11:06:57 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtY2hpbmVzZS1w",
+          "id": "YXJhYm5ld3MtbGViYW5vbi13",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Chinese panda pair headed to US zoo",
-          "summary": "BEIJING: Two giant pandas from China are headed to Atlanta on a new 10-year conservation deal.\n\tPandas Ping Ping, a male, and Fu Shuang, a female, will live at Zoo Atlanta, China Wildlife Conservation Association said in a statement Friday.\n\tThe organization signed the research agreement with the Un",
+          "title": "Lebanon warns displaced against rushing home after US-Iran deal",
+          "summary": "BEIRUT/JERUSALEM: Authorities in southern Lebanon warned people displaced by three months of war between Israel and Hezbollah against rushing home on Monday despite a US-Iran deal to end the wider conflict, as Israel said it would not withdraw troops from the south.\n\n\tThe warning comes as Lebanon ha",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641211/offbeat",
-          "published_at": "Sat, 25 Apr 2026 08:04:58 +03",
+          "article_url": "https://www.arabnews.com/node/2647227/middle-east",
+          "published_at": "Mon, 15 Jun 2026 11:06:50 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtZGVzcGl0ZS1p",
+          "id": "YXJhYm5ld3MtaXNyYWVsLXNh",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Despite Iran tensions, King Charles III will follow his mother’s lead in celebrating US-UK bonds",
-          "summary": "LONDON: The challenge for King Charles III as he embarks on this week’s state visit to the US is, as always, to live up to his mother’s example.\n\tThe late Queen Elizabeth II wowed Congress in 1991 with a speech that celebrated the shared democratic traditions of Britain and the United States, quoted",
+          "title": "Israel says won’t withdraw troops from Lebanon, Syria, Gaza",
+          "summary": "JERUSALEM: Israel’s defense minister said Monday that Israeli forces would remain in Lebanon, Syria and Gaza indefinitely, hours after the United States and Iran agreed to end the Middle East war, including in Lebanon.\n\t“Prime Minister Benjamin Netanyahu and I are pursuing a clear policy under which",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641209/world",
-          "published_at": "Sat, 25 Apr 2026 08:04:24 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtdGhyZWUta2ls",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Three killed in clashes in India’s troubled northeast",
-          "summary": "NEW DELHI: Gun battles between rival ethnic groups in India’s troubled northeastern Manipur state killed three men, police said, the latest unrest in the far-flung region.\n\tManipur has seen periodic clashes for nearly three years between the predominantly Hindu Meitei majority and the mainly Christi",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641212/world",
-          "published_at": "Sat, 25 Apr 2026 08:04:10 +03",
+          "article_url": "https://www.arabnews.com/node/2647229/middle-east",
+          "published_at": "Mon, 15 Jun 2026 11:06:33 +03",
           "cross_sections": [
             "tech"
           ]
@@ -4857,60 +4735,73 @@
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Saudi Arabia’s events sector push on track despite disruptions, says industry veteran",
-          "summary": "RIYADH: Saudi Arabia’s push to position itself as a global events hub remains firmly on track despite geopolitical disruptions, according to one of the leading figures in the industry.\n\n\tThe US-Israel war with Iran has led to disruptions to many of the Kingdom’s flagship forums, with the Saudi Arabi",
+          "title": "Saudi Arabia, South Korea sign MoU to boost oil and gas cooperation",
+          "summary": "RIYADH: Saudi Arabia and South Korea signed a memorandum of understanding in Riyadh to enhance cooperation in the oil and gas sector and strengthen their broader energy partnership.\n\n\tEnergy Minister Prince Abdulaziz bin Salman met with South Korea’s Minister of Trade, Industry and Energy, Kim Jung-",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641206/business-economy",
-          "published_at": "Sat, 25 Apr 2026 07:04:43 +03",
+          "article_url": "https://www.arabnews.com/node/2647228/business-economy",
+          "published_at": "Mon, 15 Jun 2026 11:06:21 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtYXVzdHJhbGlh",
+          "id": "YXJhYm5ld3MteWFoeWEtYWJk",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Australia refuses repatriation help for citizens in Syria camp",
-          "summary": "SYDNEY: Australia refused to help repatriate citizens related to suspected Daesh militants on Saturday, following a report that some Australian families are trying to return home from a camp in Syria.\n\tNational broadcaster ABC said four Australian women and nine of their children and grandchildren h",
+          "title": "Yahya Abdul-Mateen II reflects on Marvel ‘Wonder Man’ role",
+          "summary": "DUBAI: US actor Yahya Abdul-Mateen II has reportedly said that “people see so much of themselves in (protagonist) Simon (Williams),” the role he plays in the Marvel series “Wonder Man.”: \n\n\tThe actor was known to comic book fans as DC’s Black Manta in the “Aquaman” movies and for his breakout role i",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641208/middle-east",
-          "published_at": "Sat, 25 Apr 2026 07:04:24 +03",
+          "article_url": "https://www.arabnews.com/node/2647230/lifestyle",
+          "published_at": "Mon, 15 Jun 2026 11:06:19 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtdXMtbWlsaXRh",
+          "id": "YXJhYm5ld3Mtc2hhbmluYS1z",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "US military says it struck vessel in Eastern Pacific, killing two",
-          "summary": "WASHINGTON: The US military said on Friday it struck a vessel in the Eastern Pacific, killing two people, in the latest such attack, condemned by rights groups as “extrajudicial killings” and described by Washington as targeting “narco-terrorists.”\n\tThe US Southern Command alleged that the vessel st",
+          "title": "Shanina Shaik is Australian fashion’s latest star",
+          "summary": "DUBAI: Part-Saudi model Shanina Shaik is promoting a clutch of Australian brands on social media, starring in a campaigns after hitting the runway at Australian Fashion Week earlier this year.\n\n\tThe model is quickly becoming the face of Australian fashion, with brands seemingly banking on her intern",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641203/world",
-          "published_at": "Sat, 25 Apr 2026 06:04:49 +03",
+          "article_url": "https://www.arabnews.com/node/2647231/lifestyle",
+          "published_at": "Mon, 15 Jun 2026 11:06:06 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3Mtc3RhcnR1cC13",
+          "id": "YXJhYm5ld3Mtbm9yd2F5LWNy",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Startup Wrap: MENA startups draw capital as AI bets continue to accelerate",
-          "summary": "RIYADH: Startups across the Middle East and North Africa saw new funding rounds over the past week, with acquisitions, and partnerships across artificial intelligence, fintech, gaming, and digital infrastructure.\n\n\tSaudi Arabia-based Signit raised $15 million in a series A round led by Raed Ventures",
+          "title": "Norway crown princess’s son sentenced to four years in prison for rape: court",
+          "summary": "OSLO: An Oslo court on Monday convicted Norwegian Crown Princess Mette-Marit’s son of two counts of rape, sentencing him to four years in prison in a high-profile scandal that has rocked the monarchy.\n\tMarius Borg Hoiby, 29, Mette-Marit’s son from a relationship prior to her 2001 marriage to Crown P",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641205/business-economy",
-          "published_at": "Sat, 25 Apr 2026 06:04:04 +03",
+          "article_url": "https://www.arabnews.com/node/2647222/world",
+          "published_at": "Mon, 15 Jun 2026 10:06:57 +03",
+          "cross_sections": []
+        },
+        {
+          "id": "YXJhYm5ld3MtZ3VsZiwtYXJh",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Gulf, Arab states welcome US-Iran deal to end war, reopen Hormuz",
+          "summary": "DUBAI: Gulf and Arab states welcomed on Monday a US-Iran agreement to end the war and reopen the Strait of Hormuz, expressing hope that the deal will pave the way for lasting regional stability and broader diplomatic engagement.\n\n\tSaudi Arabia welcomed the agreement between Washington and Tehran to ",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2647225/middle-east",
+          "published_at": "Mon, 15 Jun 2026 10:06:15 +03",
           "cross_sections": [
-            "tech",
-            "ai"
+            "tech"
           ]
         }
       ]
@@ -5019,12 +4910,12 @@
         {
           "id": "euronews",
           "name": "Euronews",
-          "count": 15
+          "count": 7
         },
         {
           "id": "dw",
           "name": "DW News",
-          "count": 15
+          "count": 16
         }
       ]
     },
@@ -5080,6 +4971,439 @@
       "icon": "💻",
       "articles": [
         {
+          "id": "amFwYW50aW1lcy1zZXJlbmEt",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Serena Williams looking forward to enjoyable and nervous return to Wimbledon",
+          "summary": "The 44-year-old American will face Australia's Maya Joint in the first round on Centre Court on Tuesday, marking her first appearance at Wimbledon since 2022.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/29/548708.JPG",
+          "article_url": "https://www.japantimes.co.jp/sports/2026/06/29/tennis/serena-enjoy-wimbledon-return/",
+          "published_at": "Mon, 29 Jun 2026 10:50:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy1ibHVlYmF5",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "BlueBay sees near-term risk in Japan AI stocks followed by rally",
+          "summary": "AI-related shares are likely to correct over the next two months but the sector may rebound next year on the prospect of favorable U.S. policy measures, says one portfolio manager.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/29/548703.jpg",
+          "article_url": "https://www.japantimes.co.jp/business/2026/06/29/companies/bluebay-asset-japan-ai-shares-bullish/",
+          "published_at": "Mon, 29 Jun 2026 10:45:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLSdpLWRvbid0LWhhdmUt",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "'I don't have any more fight left in me': Ben Stokes reveals reason behind shock retirement",
+          "summary": "England captain Ben Stokes has revealed the profound emotional toll of the Ashes defeat as the primary reason for his international retirement.  He confessed to his wife that he felt \"no more fight\" left to overcome the disappointment.  Stokes cited overwhelming emotional, physical, and mental exhau",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-dont-think-i-have-any-more-fight-left-in-me-ben-stokes-reveals-heartbreaking-reason-behind-shock-england-retirement/articleshow/132060909.cms",
+          "published_at": "Mon, 29 Jun 2026 07:09:49 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LW1pZGVhc3QtbGl2ZS11",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "Mideast Live Updates: U.S. Indicates a Deal to Suspend Attacks in Strait but Iran Hasn’t Confirmed",
+          "summary": "A U.S. official said the U.S. and Iran agreed to halt attacks in the Strait of Hormuz and allow vessels to move freely. Hostilities in recent days have threatened a two-week-old cease-fire.",
+          "image_url": "https://static01.nyt.com/images/2026/06/28/multimedia/28mideast-200-fbgh/28mideast-200-fbgh-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
+          "published_at": "Mon, 29 Jun 2026 01:38:52 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iY3RlY2gtc2Ftc3VuZywt",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Samsung, SK Hynix shares fall as investors brace for reported $1.3 trillion spending plans",
+          "summary": "Shares of Samsung Electronics and SK Hynix plunged after reports surfaced that the pair are expected to unveil investment plans worth hundreds of billions of dollars.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3-reported-trillion-spending-plans.html",
+          "published_at": "Mon, 29 Jun 2026 01:35:51 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iYy1zYW1zdW5nLC1zay1o",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Samsung, SK Hynix shares fall as investors brace for reported $1.3 trillion spending plans",
+          "summary": "Shares of Samsung Electronics and SK Hynix plunged after reports surfaced that the pair are expected to unveil investment plans worth hundreds of billions of dollars.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3-reported-trillion-spending-plans.html",
+          "published_at": "Mon, 29 Jun 2026 01:35:51 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtbGdidHFpYSst",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "LGBTQIA+ community raises voice against new amendment Act at Chennai Pride",
+          "summary": "Apart from thousands of people who gathered at the march from Chennai, a few also joined from other parts of the world",
+          "image_url": "https://th-i.thgim.com/public/incoming/cgqrq5/article71158477.ece/alternates/LANDSCAPE_1200/DSC_0105.JPG",
+          "article_url": "https://www.thehindu.com/news/cities/chennai/lgbtqia-community-raises-voice-against-new-amendment-act-at-chennai-pride/article71158293.ece",
+          "published_at": "Mon, 29 Jun 2026 07:00:03 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy13b3JsZC1j",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "World Cup pits Adidas and Nike in fight for soccer street cred",
+          "summary": "With the ambush marketing of reintroducing a vintage jersey in March, Adidas is playing up soccer's off-field appeal to score points in its perpetual battle with Nike.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/29/548688.jpg",
+          "article_url": "https://www.japantimes.co.jp/business/2026/06/29/companies/world-cup-adidas-nike-soccer/",
+          "published_at": "Mon, 29 Jun 2026 10:28:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy1ydXNzaWEt",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Russia will press on with front-line campaign regardless of Ukraine proposals: Putin",
+          "summary": "The Russian president maintains that Ukrainian strikes on Russian infrastructure do not affect the situation on the front lines.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/29/548694.JPG",
+          "article_url": "https://www.japantimes.co.jp/news/2026/06/29/world/politics/putin-russia-front-line-ukraine-proposals/",
+          "published_at": "Mon, 29 Jun 2026 10:24:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLXR3by1ib3lzLXB1bGxl",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend",
+          "summary": "With tens of thousands of people missing, relatives face another night waiting for news of loved ones as the crucial window for locating survivors closes.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd93/live/fc2f4510-7345-11f1-95e1-39c8d2c78f5f.png",
+          "article_url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 29 Jun 2026 01:23:32 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtbmV0YW55YWh1",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Netanyahu plans ‘broad national govt.’ after Israel vote",
+          "summary": "He also hailed the U.S.-brokered agreement with Lebanon, calling it a historic achievement that dealt a blow to arch-foes Iran and Hezbollah",
+          "image_url": "https://th-i.thgim.com/public/incoming/a77hkv/article71155762.ece/alternates/LANDSCAPE_1200/AFP_B8JH9KE.jpg",
+          "article_url": "https://www.thehindu.com/news/international/netanyahu-plans-broad-national-govt-after-israel-vote-lebanon-agreement/article71155614.ece",
+          "published_at": "Mon, 29 Jun 2026 06:52:43 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy1jcml0aWNh",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Critical rescue window closing in Venezuela as quake death toll nears 1,500",
+          "summary": "Emergency teams are searching for any remaining survivors after twin earthquakes caused nearly 200 buildings to completely collapse.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/29/548692.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/06/29/world/venezuela-quake-death-rescue-window/",
+          "published_at": "Mon, 29 Jun 2026 10:21:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXByYWlzZS1w",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Praise pours in for ‘true Canadian heroes’ after last-minute World Cup win",
+          "summary": "From the prime minister to sport celebrities and fans on social media, Canadians have revelled in their team's win.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/sports/2026/6/29/praise-pours-in-for-true-canadian-heroes-after-last-minute-world-cup-win?traffic_source=rss",
+          "published_at": "Mon, 29 Jun 2026 01:20:04 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtd2VzdC1hc2lh",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "West Asia war updates: U.S., Iran agree to halt attacks and hold talks in Doha on June 30, report says",
+          "summary": "The two sides anticipate meeting to work ‌out dispute over Strait of Hormuz; Hezbollah says reserves right to 'defend its homeland' after Israeli strikes on Lebanon",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-tehran-washington-ceasefire-live-updates-june-28-2026/article71156840.ece",
+          "published_at": "Mon, 29 Jun 2026 06:47:30 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtaXJhbi1hdHRh",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Iran attacks Bahrain, Kuwait following U.S. strikes, threatens to end talks to end war",
+          "summary": "An interim deal between the U.S. and Iran to end the war called for the Strait, which once saw a fifth of the world's oil and natural gas pass through it, to see transits resume",
+          "image_url": "https://th-i.thgim.com/public/incoming/b5uqqg/article71157301.ece/alternates/LANDSCAPE_1200/AFP_B8JJ8MX.jpg",
+          "article_url": "https://www.thehindu.com/news/international/iran-attacks-bahrain-kuwait-following-us-strikes-threatens-to-end-talks-to-end-war/article71157259.ece",
+          "published_at": "Mon, 29 Jun 2026 06:45:38 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdS5zLiwtaXJh",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "U.S., Iran agree to ‘stand down’ and hold talks in Doha on June 30: report",
+          "summary": "U.S. official said technical ⁠talks ⁠are slated to continue on ​all ‌areas of MoU",
+          "image_url": "https://th-i.thgim.com/public/incoming/40qgr3/article71159861.ece/alternates/LANDSCAPE_1200/2026-06-26T132214Z_870724518_RC210LAZEPOJ_RTRMADP_3_IRAN-CRISIS-FERTILIZERS.JPG",
+          "article_url": "https://www.thehindu.com/news/international/us-iran-agree-to-halt-strikes-doha-talks-this-week-report-updates/article71159846.ece",
+          "published_at": "Mon, 29 Jun 2026 06:43:03 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtaXJhbi13YXJu",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Iran warns ships not to bypass its chosen Hormuz route",
+          "summary": "At the moment, Iran insists ships transiting the strait pass through a corridor close to its own shores, though this week dozens of vessels have travelled along the opposite side of the waterway, hugging the Omani coast",
+          "image_url": "https://th-i.thgim.com/public/incoming/5dey32/article71159033.ece/alternates/LANDSCAPE_1200/2026-06-26T134326Z_1979541742_RC2N1MAO4YN7_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG",
+          "article_url": "https://www.thehindu.com/news/international/iran-warns-ships-not-to-bypass-its-chosen-hormuz-route/article71159031.ece",
+          "published_at": "Mon, 29 Jun 2026 06:42:42 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy13aGF0LXlv",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "What Yokoze can teach Japan about rural revival",
+          "summary": "Faced with the same demographic pressures confronting other towns, Yokoze is experimenting with a different approach.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/29/547711.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/06/29/japan/society/japan-town-population-growth/",
+          "published_at": "Mon, 29 Jun 2026 10:00:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXR0ZWNoLWFsdGVybmF0aXZl",
+          "source_id": "ettech",
+          "source_name": "ETtech",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Alternatives to OpenAI, Anthropic: With US prime AI off the table, India opts for fine China",
+          "summary": "Chinese open-source models, which were already popular among startups due to lower costs, may now make their way to large enterprises looking to avoid disruptions to top-dollar artificial intelligence projects. “The choice is pragmatic, not political,” said Nipun Kalra, managing director and senior ",
+          "image_url": null,
+          "article_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alternatives-to-openai-anthropic-with-us-prime-ai-off-the-table-india-opts-for-fine-china/articleshow/132057030.cms",
+          "published_at": "Mon, 29 Jun 2026 06:01:00 +0530",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "ZXR0ZWNoLXRyYXZlbC1vbi1y",
+          "source_id": "ettech",
+          "source_name": "ETtech",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Travel on recovery road as war cloud clears and oil dips: MakeMyTrip group CEO",
+          "summary": "MakeMyTrip group CEO Rajesh Magow said the optimism level among airlines is improving, and noted that commercial LPG supply in the country is being restored. \"The US looks like it wants to get out of the conflict one way or the other. There is hope now,\" he said. \"The recovery for long-haul and west",
+          "image_url": null,
+          "article_url": "https://economictimes.indiatimes.com/tech/technology/travel-on-recovery-road-as-war-cloud-clears-and-oil-dips-makemytrip-group-ceo/articleshow/132057286.cms",
+          "published_at": "Mon, 29 Jun 2026 06:00:00 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXR0ZWNoLWV0dGVjaC1xLWE6",
+          "source_id": "ettech",
+          "source_name": "ETtech",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "ETtech Q A: Delhivery looking to expand high-growth businesses, says CEO Sahil Barua",
+          "summary": "Gurugram-based Delhivery, which went public in May 2022, had been the bellwether for the performance of India’s ecommerce industry until the December 2025 listing of Meesho. Barua said that the company was increasingly witnessing vertical ecommerce players and direct-to-consumer (D2C) brands taking ",
+          "image_url": null,
+          "article_url": "https://economictimes.indiatimes.com/tech/technology/ettech-qa-delhivery-looking-to-expand-high-growth-businesses-says-ceo-sahil-barua/articleshow/132056100.cms",
+          "published_at": "Mon, 29 Jun 2026 06:00:00 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXR0ZWNoLXdoby1wYXlzLXdo",
+          "source_id": "ettech",
+          "source_name": "ETtech",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Who pays when Blockchain fails, ask experts flagging gaps",
+          "summary": "Unlike conventional digital systems, where responsibility typically rests with a platform operator, data controller or service provider, blockchain-based systems can distribute responsibility across developers, validators, node operators, enterprise users, intermediaries and public authorities. That",
+          "image_url": null,
+          "article_url": "https://economictimes.indiatimes.com/tech/technology/who-pays-when-blockchain-fails-ask-experts-flagging-gaps/articleshow/132056027.cms",
+          "published_at": "Mon, 29 Jun 2026 06:00:00 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXR0ZWNoLWFpLXN0YXJ0dXAt",
+          "source_id": "ettech",
+          "source_name": "ETtech",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "AI startup Rocket in talks to raise $40-50 million: sources",
+          "summary": "If completed at the current terms, the round will mark a sharp re-rating for the company less than a year after it raised $15 million from Salesforce Ventures, Accel and Together Fund at a valuation of around $60 million. The new capital is expected to be used to deepen Rocket’s AI capabilities, exp",
+          "image_url": null,
+          "article_url": "https://economictimes.indiatimes.com/tech/funding/ai-startup-rocket-in-talks-to-raise-40-50-million-sources/articleshow/132055768.cms",
+          "published_at": "Mon, 29 Jun 2026 06:00:00 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXR0ZWNoLWFtYXpvbiwtZmxp",
+          "source_id": "ettech",
+          "source_name": "ETtech",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Amazon, Flipkart spark quick commerce price war as Blinkit, Instamart hold the line",
+          "summary": "India’s quick-commerce market is back in a discounting spiral. Amazon and Flipkart are turning up the heat, but incumbents Blinkit and Swiggy Instamart are largely refusing to dive into the price war as they prioritise profitability, industry executives said.",
+          "image_url": null,
+          "article_url": "https://economictimes.indiatimes.com/tech/technology/amazon-flipkart-spark-quick-commerce-price-war-as-blinkit-instamart-hold-the-line/articleshow/132055705.cms",
+          "published_at": "Mon, 29 Jun 2026 06:00:00 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXdoby1pcy1z",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Who is Stephen Eustaquio, who scored for Canada against South Africa?",
+          "summary": "Eustaquio flip-flopped between his home country and that of his parents throughout his youth and senior career.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/sports/2026/6/29/who-is-stephen-eustaquio-who-scored-for-canada-against-south-africa?traffic_source=rss",
+          "published_at": "Mon, 29 Jun 2026 00:27:03 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLXdoaXRlLXdvcmtpbmct",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "White working-class children failed by education system, says inquiry",
+          "summary": "The inquiry spoke to thousands of young people and their parents, as well as hundreds of teachers.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd5b/live/8eda9340-70a5-11f1-a074-f75fb10ee765.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cq51j10q601o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 29 Jun 2026 00:21:50 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLXRlbXBlcmF0dXJlcy10",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Temperatures to drop this week but relief from heat may be short-lived",
+          "summary": "Many will experience cooler air and some rain this week before a possible return to hot weather at the weekend.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a6/live/a394e670-72ce-11f1-b1db-af71d47507d6.jpg",
+          "article_url": "https://www.bbc.co.uk/weather/articles/c5yzq1q4zm8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 28 Jun 2026 23:54:51 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "Y25iYy1pcmFuLXRhbGtzLW9u",
           "source_id": "cnbc",
           "source_name": "CNBC",
@@ -5096,125 +5420,13 @@
           ]
         },
         {
-          "id": "bnl0LW1pZGVhc3QtbGl2ZS11",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Mideast Live Updates: Dispute Over Strait Deepens as U.S. and Iran Trade Attacks",
-          "summary": "In a fourth day of hostilities, Iran said that it had targeted a U.S. naval base in Bahrain and a Kuwaiti air base with drones and missiles. No major damage or casualties were reported.",
-          "image_url": "https://static01.nyt.com/images/2026/06/28/multimedia/28mideast-200-fbgh/28mideast-200-fbgh-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
-          "published_at": "Sun, 28 Jun 2026 23:36:13 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtcGFraXN0YW4t",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Pakistan says it carried out ground operation, strikes along Afghan border; 29 militants killed",
-          "summary": "Pakistani forces carried out “calibrated strikes” against terrorist hideouts and safe havens in the border region",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/international/pakistan-ground-operation-strikes-afghanistan-border-casualties-updates/article71159048.ece",
-          "published_at": "Mon, 29 Jun 2026 04:47:14 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtcnVzc2lhbi1h",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Russian attacks kill five in Ukraine, local officials say",
-          "summary": "Strikes on the southeastern city of Zaporizhzhia killed two people and injured ‌16, Regional Governor Ivan Fedorov said",
-          "image_url": "https://th-i.thgim.com/public/incoming/8rj7dq/article71159215.ece/alternates/LANDSCAPE_1200/2026-06-28T114454Z_2064720425_RC2Z2MADUUBK_RTRMADP_3_UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA.JPG",
-          "article_url": "https://www.thehindu.com/news/international/russia-strikes-ukraine-death-toll-updates/article71159214.ece",
-          "published_at": "Mon, 29 Jun 2026 04:31:23 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtd2VzdC1hc2lh",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "West Asia war LIVE: U.S., Iran agree to halt attacks and hold talks in Doha on June 30, report says",
-          "summary": "The two sides anticipate meeting to work ‌out dispute over Strait of Hormuz; Hezbollah says reserves right to 'defend its homeland' after Israeli strikes on Lebanon",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-tehran-washington-ceasefire-live-updates-june-28-2026/article71156840.ece",
-          "published_at": "Mon, 29 Jun 2026 04:14:52 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy1pcmFuLWFu",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Iran and U.S. agree to halt attacks and renew talks, Axios reports",
-          "summary": "A return to ‌diplomacy would ‌follow days of strikes and counterstrikes since an Iranian projectile hit a cargo vessel in the Strait of Hormuz on ​Thursday.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/29/548681.JPG",
-          "article_url": "https://www.japantimes.co.jp/news/2026/06/29/world/politics/iran-us-attacks-renew-talks/",
-          "published_at": "Mon, 29 Jun 2026 07:08:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy1pbnNpZGUt",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Inside Japan’s rigid adoption system, a British family finds a way",
-          "summary": "Beyond the paperwork and the language barrier, James Benstead says the hardest part about adopting in Japan was the waiting.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/28/548175.jpg",
-          "article_url": "https://www.japantimes.co.jp/community/2026/06/29/our-lives/british-family-japan-adoption/",
-          "published_at": "Mon, 29 Jun 2026 07:00:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YmJjLXR3by1ib3lzLXJlc2N1",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
-          "summary": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd93/live/fc2f4510-7345-11f1-95e1-39c8d2c78f5f.png",
-          "article_url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 28 Jun 2026 21:58:45 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLXVzLC1pcmFuLWFncmVl",
+          "id": "dG9pLSdzdGFuZC1kb3duLWZv",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "US, Iran agree to halt attacks as fragile ceasefire holds; Qatar to host Hormuz talks on Tuesday",
+          "title": "'Stand down for now': US-Iran agree to halt attacks; Qatar to host Hormuz talks on Tuesday",
           "summary": "Amidst escalating tensions, the United States and Iran have agreed to a ceasefire and will resume talks in Doha, Qatar, to de-escalate the dispute over the Strait of Hormuz.  Following days of military exchanges, both nations will halt counter-strikes, allowing vessels to navigate freely. The discus",
           "image_url": null,
           "article_url": "https://timesofindia.indiatimes.com/world/us/us-iran-agree-to-halt-attacks-after-counter-strikes-qatar-to-host-hormuz-talks-on-tuesday/articleshow/132058740.cms",
@@ -5273,38 +5485,6 @@
           ]
         },
         {
-          "id": "Y25iYy1hbWVyaWNhLWNhbid0",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "America can't get enough of protein. The dairy industry can't keep up",
-          "summary": "Demand for whey protein is off the charts as American diet trends change and GLP-1s boom, and the dairy industry is struggling to produce enough.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/06/28/america-cant-get-enough-protein-the-dairy-industry-cant-keep-up.html",
-          "published_at": "Sun, 28 Jun 2026 21:35:15 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtZW5nbGFuZC1j",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "England captain Ben Stokes to retire from international cricket after New Zealand finale",
-          "summary": "It ends Stokes’ 15-year international career that peaked when he starred for England in its win over New Zealand in the 50-over World Cup final in 2019",
-          "image_url": "https://th-i.thgim.com/public/incoming/gnh2t7/article71158300.ece/alternates/LANDSCAPE_1200/2026-06-28T100433Z_717762648_UP1EM6S0RZJS1_RTRMADP_3_CRICKET-ENG-NZL.JPG",
-          "article_url": "https://www.thehindu.com/sport/cricket/england-captain-stokes-to-retire-from-international-cricket-after-new-zealand-finale/article71158292.ece",
-          "published_at": "Mon, 29 Jun 2026 03:04:22 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bnl0LTEyLWhvdXJzLXdpdGgt",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -5348,70 +5528,6 @@
           "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
           "article_url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
           "published_at": "2026-06-28T20:27:36.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXBvcGUtbGVv",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Pope Leo prays for Venezuela’s recovery after deadly quakes",
-          "summary": "Pope Leo expressed solidarity with Venezuelans after two deadly earthquakes claimed the lives of at least 1,400.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/pope-leo-prays-for-venezuelas-recovery-after-deadly-quakes?traffic_source=rss",
-          "published_at": "Sun, 28 Jun 2026 20:21:47 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLWhvcGUtb2Yt",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Hope of finding more Venezuela quake survivors fades despite late rescues",
-          "summary": "Those rescued include 60-year-old woman trapped for 86 hours, as tens of thousands still reported missing.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/6/28/hope-of-finding-more-venezuela-quake-survivors-fades-despite-late-rescues?traffic_source=rss",
-          "published_at": "Sun, 28 Jun 2026 19:54:35 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLW5vLXByZXNzdXJlLXdh",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "No pressure was put on Champat Rai to resign: VHP international president Alok Kumar",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/no-pressure-was-put-on-champat-rai-to-resign-says-vhp-attacks-akhilesh-remark-on-ayodhya/articleshow/132058399.cms",
-          "published_at": "Mon, 29 Jun 2026 01:17:02 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YmJjLWFnbmV3Oi1iZW4tc3Rv",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Agnew: Ben Stokes's exit is unconventional for an English great",
-          "summary": "Ben Stokes' shock retirement as England captain during the third Test against New Zealand was unconventional - just like the great player himself, says Jonathan Agnew.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1d2/live/efc09610-7306-11f1-8b3a-1977d6dee6ef.jpg",
-          "article_url": "https://www.bbc.co.uk/sport/cricket/articles/clyw37kgjeeo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 28 Jun 2026 19:33:07 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -5496,231 +5612,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "ZXR0ZWNoLWJhaWR1J3MtYWkt",
-          "source_id": "ettech",
-          "source_name": "ETtech",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Baidu's AI chip unit Kunlunxin targets $50 billion Hong Kong IPO: Report",
-          "summary": "Investors have been asked to ‌buy chips ⁠with ⁠a value three to seven times the worth of their ​planned subscription in Kunlunxin's initial public offering shares, the report ​said.",
-          "image_url": null,
-          "article_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/baidus-ai-chip-unit-kunlunxin-targets-50-billion-hong-kong-ipo-report/articleshow/132057709.cms",
-          "published_at": "Mon, 29 Jun 2026 00:14:34 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1xYXRhcmktbmF0aW9u",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Qatari National Killed From Shrapnel Injuries Due To \"Military Operation\"",
-          "summary": "The ministry said the second individual was injured, adding that it located the missing vessel in the early hours of Sunday after search operations that started a day earlier.",
-          "image_url": "https://c.ndtvimg.com/2022-08/rbm5tbt8_do-not-cross-police-generic_625x300_23_August_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/qatari-national-killed-from-shrapnel-injuries-due-to-military-operation-11699849#publisher=newsstand",
-          "published_at": "Mon, 29 Jun 2026 00:07:14 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YmJjLWVsZXZlbi1raWxsZWQt",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
-          "summary": "The pilot and 10 passengers - including five first-time parachutists - died in the incident, local officials said.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f645/live/c3ce2a40-72ed-11f1-a52b-4f9c73b26afb.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 28 Jun 2026 18:34:07 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1iZWZvcmUtZW5nYWdl",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Before Engagement With Fort Murder Victim, Siya Goyal, Lover's Udaipur Trip",
-          "summary": "According to police sources, during questioning, Siya said she never wanted to marry Ketan Agarwal.",
-          "image_url": "https://c.ndtvimg.com/2026-06/g1f2nelk_siya-chetan_625x300_25_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/before-engagement-with-fort-murder-victim-siya-goyal-lovers-udaipur-trip-11699739#publisher=newsstand",
-          "published_at": "Sun, 28 Jun 2026 23:50:52 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di0yLWtpbGxlZCwtMi1p",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "2 Killed, 2 Injured In Lightning Strikes In Jharkhand",
-          "summary": "Two people, including a three-year-old girl, were killed and two others sustained burn injuries in incidents of lightning strikes in Jharkhand on Sunday, officials said.",
-          "image_url": "https://i.ndtvimg.com/i/2015-03/ambulance-generic_650x400_51425838004.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/2-killed-2-injured-in-lightning-strikes-in-jharkhand-11699798#publisher=newsstand",
-          "published_at": "Sun, 28 Jun 2026 23:46:56 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1ob3ctYS1yYXRzJy1u",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "How A Rats' Nest Led To Poison Pills At Mumbai's Muharram Procession",
-          "summary": "Police sources said Premji had conducted extensive research on Google and AI regarding the effects of various dosages of zinc phosphide on the human body and had easy access to Zinc Phosphide.",
-          "image_url": "https://c.ndtvimg.com/2026-06/16245psc_mumbai-toxic-pills-muharram_625x300_28_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/how-a-rats-nest-led-to-poison-pills-at-mumbais-muharram-procession-11699345#publisher=newsstand",
-          "published_at": "Sun, 28 Jun 2026 23:46:43 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YmJjLWNhdGhlcmluZS1jb21w",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Catherine completes Three Peaks Challenge to 'explore life beyond' cancer diagnosis",
-          "summary": "The Princess of Wales did the endurance event to raise awareness about \"holistic healthcare\" for cancer patients.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d746/live/763df840-731b-11f1-a489-2d4c87e59982.png",
-          "article_url": "https://www.bbc.co.uk/news/articles/cwydwgy7125o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 28 Jun 2026 18:05:35 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dmVudHVyZWJlYXQtcHJvbXB0",
-          "source_id": "venturebeat",
-          "source_name": "VentureBeat",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Prompt injection is exploiting enterprise AI's biggest design flaws by targeting agents, RAG pipelines and model routers",
-          "summary": "In the past two years, businesses have been trying to fit large language models (LLMs) into support, analytics, development, and internal automation like never before. \nAlong with the increasing adoption of AI technology, another trend is gaining momentum — cybercriminals are taking advantage of the",
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/761C8qLyC2XS0ZV0CCiPFE/d92b04f5a5c0cec56a5612a13d3f7e35/u7277289442_A_modern_interpretation_of_cybersecurity._3D_--ar_f806db26-b93b-427c-b0c9-42caa83dfe92_0.png?w=300&q=30",
-          "article_url": "https://venturebeat.com/security/prompt-injection-is-exploiting-enterprise-ais-biggest-design-flaws-by-targeting-agents-rag-pipelines-and-model-routers",
-          "published_at": "Sun, 28 Jun 2026 18:00:16 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "bmR0di10ZWhyYW4tZHViYWkt",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Tehran-Dubai Flight Services To Resume Tomorrow, Says Iranian Media",
-          "summary": "Dubai airport was repeatedly targeted by drones during the Middle East war, forcing it to suspend flights at times.",
-          "image_url": "https://i.ndtvimg.com/i/2016-02/airplane-generic_650x400_71455936251.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/tehran-dubai-flight-services-to-resume-tomorrow-says-iranian-media-11699721#publisher=newsstand",
-          "published_at": "Sun, 28 Jun 2026 23:14:21 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhldmVyZ2UtY2hpbmEtY2xh",
-          "source_id": "theverge",
-          "source_name": "The Verge",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "China claims the world&#8217;s fastest supercomputer",
-          "summary": "The LineShine supercomputer at the National Supercomputing Center in Shenzhen. | Photo: Liang Xu/Xinhua via Getty Images\t\n\nDespite trade restrictions, China has reclaimed the title of the world's fastest supercomputer for the first time since 2018. LineShine has pushed El Capitan out of number one o",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2283018388.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "article_url": "https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer",
-          "published_at": "2026-06-28T17:20:59.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZHctZ2VybWFueSdzLWRldmVs",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Germany's development aid strategy under fire",
-          "summary": "Days ahead of the launch of the North-South Commission, development aid organizations have urged the German government to reverse billions in cuts to development aid.",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/germany-s-development-aid-strategy-under-fire/a-77721928?maca=en-rss-en-top-1022-xml-mrss",
-          "published_at": "Sun, 28 Jun 2026 17:06:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC13cml0ZXIt",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
-          "summary": "Has Silicon Valley been building the wrong things?",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
-          "published_at": "Sun, 28 Jun 2026 17:03:16 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZHctcGFraXN0YW4ncy1nZW8t",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Pakistan's Geo News apologizes for Muharram broadcast",
-          "summary": "The broadcaster Geo News was handed a 15-day suspension for a documentary that was \"liable to hurt the religious sentiments of viewers,\" Pakistan's media watchdog said.",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/pakistan-s-geo-news-apologizes-for-muharram-broadcast/a-77744988?maca=en-rss-en-top-1022-xml-mrss",
-          "published_at": "Sun, 28 Jun 2026 16:38:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Zm94LTMzLXJlc2N1ZWQtZnJv",
-          "source_id": "fox",
-          "source_name": "Fox News",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "33 rescued from Venezuelan rubble: Survival window desperately fading with nearly 50,000 missing",
-          "summary": "Search and rescue crews race against time in La Guaira as 33 survivors are pulled from collapsed buildings while nearly 50,000 remain missing.",
-          "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/us-firefighters-venezuela-rescue.jpg?ve=1&tl=1",
-          "article_url": "https://www.foxnews.com/world/33-rescued-venezuelan-rubble-survival-window-desperately-fading-nearly-50000-missing",
-          "published_at": "Sun, 28 Jun 2026 12:25:25 -0400",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -5753,6 +5644,23 @@
       "name": "LLM & AI",
       "icon": "🤖",
       "articles": [
+        {
+          "id": "ZXR0ZWNoLWFsdGVybmF0aXZl",
+          "source_id": "ettech",
+          "source_name": "ETtech",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Alternatives to OpenAI, Anthropic: With US prime AI off the table, India opts for fine China",
+          "summary": "Chinese open-source models, which were already popular among startups due to lower costs, may now make their way to large enterprises looking to avoid disruptions to top-dollar artificial intelligence projects. “The choice is pragmatic, not political,” said Nipun Kalra, managing director and senior ",
+          "image_url": null,
+          "article_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alternatives-to-openai-anthropic-with-us-prime-ai-off-the-table-india-opts-for-fine-china/articleshow/132057030.cms",
+          "published_at": "Mon, 29 Jun 2026 06:01:00 +0530",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
         {
           "id": "dGhldmVyZ2UtY2hpbmHigJlz",
           "source_id": "theverge",
@@ -5821,23 +5729,6 @@
           ]
         },
         {
-          "id": "ZXR0ZWNoLWF1c3RyaWEtbG9i",
-          "source_id": "ettech",
-          "source_name": "ETtech",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Austria lobbies EU to host Anthropic AI after US curbs: Report",
-          "summary": "Austria ​is pushing ​the European Union to ‌consider ⁠hosting ⁠Anthropic ​AI system within its ​borders to ​counter efforts ⁠by ‌the ​U.S. ​to ⁠block foreigners from using ​the company's ​most advanced models, Bloomberg ‌News reported on ​Sunday.",
-          "image_url": null,
-          "article_url": "https://economictimes.indiatimes.com/tech/technology/austria-lobbies-eu-to-host-anthropic-ai-after-us-curbs-report/articleshow/132052140.cms",
-          "published_at": "Sun, 28 Jun 2026 19:15:38 +0530",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "bmR0di1jaGluYSdzLW5ldy1h",
           "source_id": "ndtv",
           "source_name": "NDTV",
@@ -5849,40 +5740,6 @@
           "image_url": "https://c.ndtvimg.com/2026-06/k001enu8_voice-ai-generic_625x300_21_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
           "article_url": "https://www.ndtv.com/world-news/chinas-new-ai-cybersecurity-tool-on-par-with-anthropics-mythos-11698619#publisher=newsstand",
           "published_at": "Sun, 28 Jun 2026 18:48:57 +0530",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "ZXR0ZWNoLWVsb24tbXVzay1z",
-          "source_id": "ettech",
-          "source_name": "ETtech",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Elon Musk says Grok 4.5 is now in private beta, claims performance near or above Anthropic's Opus",
-          "summary": "Musk said reinforcement learning is continuing to improve the model and that \"Grok Build,\" xAI's coding-agent harness, is being refined daily. He framed the SpaceX and Tesla deployment as an internal proving ground before any wider release.",
-          "image_url": null,
-          "article_url": "https://economictimes.indiatimes.com/tech/technology/elon-musk-says-grok-4-5-is-now-in-private-beta-claims-performance-near-or-above-anthropics-opus/articleshow/132051646.cms",
-          "published_at": "Sun, 28 Jun 2026 18:24:16 +0530",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "ZXR0ZWNoLXVzLWNsb3NlLXRv",
-          "source_id": "ettech",
-          "source_name": "ETtech",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "US close to allowing Anthropic to restore Fable 5 model, Axios reports",
-          "summary": "Anthropic had abruptly disabled ​its most advanced AI models - Mythos 5 and Fable 5 - ​for all users after the government's June 12 export control order.",
-          "image_url": null,
-          "article_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-close-to-allowing-anthropic-to-restore-fable-5-model-axios-reports/articleshow/132049884.cms",
-          "published_at": "Sun, 28 Jun 2026 16:40:14 +0530",
           "cross_sections": [
             "tech",
             "ai"
@@ -6161,23 +6018,6 @@
           ]
         },
         {
-          "id": "YXJhYm5ld3Mtc3RhcnR1cC13",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Startup Wrap: MENA startups draw capital as AI bets continue to accelerate",
-          "summary": "RIYADH: Startups across the Middle East and North Africa saw new funding rounds over the past week, with acquisitions, and partnerships across artificial intelligence, fintech, gaming, and digital infrastructure.\n\n\tSaudi Arabia-based Signit raised $15 million in a series A round led by Raed Ventures",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2641205/business-economy",
-          "published_at": "Sat, 25 Apr 2026 06:04:04 +03",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "dG9pLWNoYXRncHQtd2FzLWRv",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -6198,7 +6038,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 9884,
+    "build_ms": 9293,
     "ai_enabled": true
   }
 }
