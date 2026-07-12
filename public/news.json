@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-12T22:24:06.678Z",
+  "last_updated": "2026-07-12T23:13:23.536Z",
   "total_articles": 299,
-  "new_this_run": 32,
+  "new_this_run": 5,
   "sources": [
     {
       "id": "techcrunch",
@@ -47,7 +47,7 @@
           "source_category": "Tech Media",
           "feed_label": "Latest",
           "title": "This slushie machine was a lifesaver during NYC’s heat wave",
-          "summary": "Last weekend’s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed home and put the new Ninja Slushi Twist to the test. Ninja’s latest slushie machine builds on the popular",
+          "summary": "Ninja's latest slushie machine builds on the popularity of the original Slushi, but with a big upgrade.",
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
           "published_at": "Sat, 11 Jul 2026 22:00:00 +0000",
@@ -1314,6 +1314,22 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "bnl0LW1pY2hhZWwtY29oZW4t",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Michael Cohen Helped Convict Trump. Now, He’s Making Nice Again.",
+          "summary": "A previously unreported encounter last summer set the stage for a rapprochement between the president and his former fixer, who has so far avoided the diatribes and prosecutions that President Trump has directed at other critics.",
+          "image_url": "https://static01.nyt.com/images/2026/07/12/multimedia/12dc-cohen-zpqt/12dc-cohen-zpqt-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/07/12/us/politics/trump-cohen-meeting-show.html",
+          "published_at": "Sun, 12 Jul 2026 22:54:09 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "bnl0LWxpdmUtdXBkYXRlczot",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1324,7 +1340,7 @@
           "summary": "A fresh round of attacks by the U.S. on Sunday was the latest volley in a familiar pattern of back-and-forth strikes fueled by disputes over the Strait of Hormuz.",
           "image_url": "https://static01.nyt.com/images/2026/07/12/multimedia/12mideast-400-lfqj/12mideast-400-lfqj-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz",
-          "published_at": "Sun, 12 Jul 2026 22:18:35 +0000",
+          "published_at": "Sun, 12 Jul 2026 22:41:59 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -1373,22 +1389,6 @@
           "image_url": "https://static01.nyt.com/images/2026/07/12/multimedia/12dc-blanche-01-fgqk/12dc-blanche-01-fgqk-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/07/12/us/politics/todd-blanche-attorney-general-confirmation.html",
           "published_at": "Sun, 12 Jul 2026 19:32:19 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LW1pY2hhZWwtY29oZW4t",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Michael Cohen Helped Convict Trump. Now, He’s Making Nice Again.",
-          "summary": "A previously unreported encounter last summer set the stage for a rapprochement between the president and his former fixer, who has so far avoided the diatribes and prosecutions that President Trump has directed at other critics.",
-          "image_url": "https://static01.nyt.com/images/2026/07/12/multimedia/12dc-cohen-zpqt/12dc-cohen-zpqt-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/07/12/us/politics/trump-cohen-meeting-show.html",
-          "published_at": "Sun, 12 Jul 2026 19:08:31 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -1648,7 +1648,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-07-12T22:23:58.317Z",
+          "published_at": "2026-07-12T23:13:15.185Z",
           "cross_sections": []
         },
         {
@@ -1662,7 +1662,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-07-12T22:23:58.317Z",
+          "published_at": "2026-07-12T23:13:15.185Z",
           "cross_sections": []
         },
         {
@@ -1676,7 +1676,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-07-12T22:23:58.317Z",
+          "published_at": "2026-07-12T23:13:15.185Z",
           "cross_sections": []
         },
         {
@@ -1994,11 +1994,11 @@
           "source_region": "North America",
           "source_category": "Broadcaster",
           "feed_label": "Top News",
-          "title": "McConnell provides health update after long unexplained absence; says he suffered fall",
+          "title": "McConnell provides health update after long unexplained absence; says he suffered fall, pneumonia",
           "summary": "McConnell is the longest-serving party leader in Senate history.",
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/07/12/mcconnell-provides-health-update-after-long-unexplained-absence.html",
-          "published_at": "Sun, 12 Jul 2026 22:16:53 GMT",
+          "published_at": "Sun, 12 Jul 2026 22:51:13 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -2483,6 +2483,36 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YmJjLXRob3VzYW5kcy1tYXkt",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Thousands may have died in UK's exceptional May and June heatwaves",
+          "summary": "An early estimate suggests more than 2,700 people will have died from heat-related causes during the UK's exceptionally hot weather in recent months.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3908/live/2b02c5c0-7c3c-11f1-8ccc-df652c9169a7.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/czx5zy82n7no?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 12 Jul 2026 23:10:23 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLWF0LWxlYXN0LTI3LWtp",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "At least 27 killed in Bangkok bar fire",
+          "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b80/live/97127080-7e44-11f1-b976-0b9c15b0ccfc.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 12 Jul 2026 22:57:20 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YmJjLXVzLWluc2lzdHMtc3Ry",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2541,22 +2571,6 @@
           "article_url": "https://www.bbc.co.uk/news/articles/cq81l5gj54zo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 12 Jul 2026 20:33:54 GMT",
           "cross_sections": []
-        },
-        {
-          "id": "YmJjLWF0LWxlYXN0LTI3LWtp",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "At least 27 killed in Bangkok bar fire",
-          "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through blasting flames to escape.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51a3/live/23c24750-7e34-11f1-b976-0b9c15b0ccfc.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 12 Jul 2026 20:13:14 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "YmJjLXNpbm5lci1ob2xkcy1v",
@@ -2660,20 +2674,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e90d/live/996516b0-7dce-11f1-b976-0b9c15b0ccfc.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 12 Jul 2026 07:39:45 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "YmJjLXdlLWFyZS1saXZpbmct",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "We are living fewer years in good health: Is the NHS part of the problem?",
-          "summary": "What is driving the UK's fall in healthy life expectancy?",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b716/live/fb297cd0-7c64-11f1-b976-0b9c15b0ccfc.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/c8r2nz82z3vo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 12 Jul 2026 00:42:35 GMT",
           "cross_sections": []
         },
         {
@@ -3634,6 +3634,22 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dG9pLSd0by1ob2xkLWlyYW5p",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "'To hold Iranian forces accountable': US launches fresh strikes on Iran as tensions flare",
+          "summary": "United States forces conducted new strikes against Iran early Monday morning. These operations aimed to degrade Iran's capability to attack commercial shipping vessels. Iran reported explosions in southern provinces and condemned the United States' actions. The Strait of Hormuz remains a central poi",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/world/us/to-hold-iranian-forces-accountable-us-launches-fresh-strikes-on-iran-as-tensions-flare-over-hormuz-attacks/articleshow/132353945.cms",
+          "published_at": "Mon, 13 Jul 2026 04:13:56 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dG9pLWF5b2RoeWEtcmFtLXRl",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3728,20 +3744,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "dG9pLWNtLW9tYXItYWR1bGxh",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "CM Omar Adullah to BJP: Should I ask Trump for J K statehood?",
-          "summary": "Jammu and Kashmir Chief Minister Omar Abdullah expressed frustration over the delayed restoration of statehood. He questioned the central government's stance on protests and assembly discussions regarding this issue. Abdullah announced a protest at Jantar Mantar in New Delhi on July 20. He reminded ",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/cm-omar-adullah-to-bjp-should-i-ask-donald-trump-for-jammu-kashmir-statehood/articleshow/132351566.cms",
-          "published_at": "Mon, 13 Jul 2026 00:39:08 +0530",
-          "cross_sections": []
         },
         {
           "id": "dG9pLWplZmYtYmV6b3MnLWV4",
@@ -4002,6 +4004,38 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dGhlaGluZHUtZnJhbmNlLXZz",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "France vs Spain, FIFA World Cup: France do not fear Spain but respect their quality, players says",
+          "summary": "Spain have conceded only one ​goal in the entire tournament to reach the last ⁠four in search of a second World Cup title",
+          "image_url": "https://th-i.thgim.com/public/incoming/lw3ao1/article71215159.ece/alternates/LANDSCAPE_1200/Belgium_Spain_WCup_Soccer_83843.jpg",
+          "article_url": "https://www.thehindu.com/sport/football/france-vs-spain-fifa-world-cup-france-do-not-fear-spain-but-respect-their-quality-players-says/article71215029.ece",
+          "published_at": "Mon, 13 Jul 2026 04:24:26 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtYmloYXItY20t",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Bihar CM Samrat Choudhary inaugurates projects worth ₹1,047 crore",
+          "summary": "Mr. Choudhary said that Bihar’s economy was being significantly strengthened by promoting women’s economic empowerment and entrepreneurship.",
+          "image_url": "https://th-i.thgim.com/public/incoming/hep3jh/article71215158.ece/alternates/LANDSCAPE_1200/20260712179L.jpg",
+          "article_url": "https://www.thehindu.com/news/national/bihar/bihar-cm-samrat-choudhary-inaugurates-projects-worth-1047-crore/article71214404.ece",
+          "published_at": "Mon, 13 Jul 2026 03:35:50 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dGhlaGluZHUtcmFodWwtZHJh",
           "source_id": "thehindu",
           "source_name": "The Hindu",
@@ -4091,34 +4125,6 @@
           "image_url": null,
           "article_url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-ceasefire-donald-trump-tehran-attacks-strait-of-hormuz-ships-live-updates-july-12-2026/article71212951.ece",
           "published_at": "Mon, 13 Jul 2026 02:15:43 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtYXQtbGVhc3Qt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "At least 27 killed as fire breaks out at pub in Bangkok",
-          "summary": "Firefighters took about half an hour to bring the fire under control; cause of the fire is unknown and under investigation",
-          "image_url": "https://th-i.thgim.com/public/incoming/8oh1cj/article71215015.ece/alternates/LANDSCAPE_1200/Thailand_Fire_63912.jpg",
-          "article_url": "https://www.thehindu.com/news/international/bangkok-pub-fire-deaths-thailand-july-13-2026/article71215014.ece",
-          "published_at": "Mon, 13 Jul 2026 01:47:57 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtaXNyby1zdWNj",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "ISRO successfully carries out tests of Gaganyaan crew module systems",
-          "summary": "One of the tests involved separation of the ‘umbilical mechanism’ that serves as a link between the crew module, where astronauts live, and the service module that provides propulsion, says the agency",
-          "image_url": "https://th-i.thgim.com/public/news/national/kaw9xm/article71214997.ece/alternates/LANDSCAPE_1200/1_float.jpg",
-          "article_url": "https://www.thehindu.com/sci-tech/science/isro-successfully-carries-out-tests-of-gaganyaan-crew-module-systems/article71214549.ece",
-          "published_at": "Mon, 13 Jul 2026 01:45:03 +0530",
           "cross_sections": []
         },
         {
@@ -4530,6 +4536,22 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YWxqYXplZXJhLWRldGFpbmVk",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Detained by settlers, US Democrat Ro Khanna now faces pro-Israel attacks",
+          "summary": "Progressive congressman accuses Israeli military of 'lying' after settlers held up his van in the occupied West Bank.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/7/12/detained-by-settlers-us-democrat-ro-khanna-now-faces-pro-israel-attacks?traffic_source=rss",
+          "published_at": "Sun, 12 Jul 2026 21:59:36 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YWxqYXplZXJhLWlzcmFlbC1y",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
@@ -4628,22 +4650,6 @@
           "article_url": "https://www.aljazeera.com/news/2026/7/12/fire-engulfs-popular-bangkok-pub-killing-27-people-and-injuring-63?traffic_source=rss",
           "published_at": "Sun, 12 Jul 2026 20:48:37 +0000",
           "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXNpbm5lci1i",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Sinner beats Zverev to defend Wimbledon men’s singles tennis title",
-          "summary": "Italy's Jannik Sinner beats Germany's Alexander Zverev  6-7 (7-9) 7-6 (7-2) 6-3 6-4 to claim his fifth Grand Slam.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/sports/2026/7/12/sinner-beats-zverev-to-defend-wimbledon-mens-singles-tennis-title?traffic_source=rss",
-          "published_at": "Sun, 12 Jul 2026 20:20:37 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -4946,6 +4952,86 @@
       "icon": "💻",
       "articles": [
         {
+          "id": "YmJjLWF0LWxlYXN0LTI3LWtp",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "At least 27 killed in Bangkok bar fire",
+          "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b80/live/97127080-7e44-11f1-b976-0b9c15b0ccfc.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 12 Jul 2026 22:57:20 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtZnJhbmNlLXZz",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "France vs Spain, FIFA World Cup: France do not fear Spain but respect their quality, players says",
+          "summary": "Spain have conceded only one ​goal in the entire tournament to reach the last ⁠four in search of a second World Cup title",
+          "image_url": "https://th-i.thgim.com/public/incoming/lw3ao1/article71215159.ece/alternates/LANDSCAPE_1200/Belgium_Spain_WCup_Soccer_83843.jpg",
+          "article_url": "https://www.thehindu.com/sport/football/france-vs-spain-fifa-world-cup-france-do-not-fear-spain-but-respect-their-quality-players-says/article71215029.ece",
+          "published_at": "Mon, 13 Jul 2026 04:24:26 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LW1pY2hhZWwtY29oZW4t",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Michael Cohen Helped Convict Trump. Now, He’s Making Nice Again.",
+          "summary": "A previously unreported encounter last summer set the stage for a rapprochement between the president and his former fixer, who has so far avoided the diatribes and prosecutions that President Trump has directed at other critics.",
+          "image_url": "https://static01.nyt.com/images/2026/07/12/multimedia/12dc-cohen-zpqt/12dc-cohen-zpqt-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/07/12/us/politics/trump-cohen-meeting-show.html",
+          "published_at": "Sun, 12 Jul 2026 22:54:09 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iYy1tY2Nvbm5lbGwtcHJv",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "McConnell provides health update after long unexplained absence; says he suffered fall, pneumonia",
+          "summary": "McConnell is the longest-serving party leader in Senate history.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/07/12/mcconnell-provides-health-update-after-long-unexplained-absence.html",
+          "published_at": "Sun, 12 Jul 2026 22:51:13 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLSd0by1ob2xkLWlyYW5p",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "'To hold Iranian forces accountable': US launches fresh strikes on Iran as tensions flare",
+          "summary": "United States forces conducted new strikes against Iran early Monday morning. These operations aimed to degrade Iran's capability to attack commercial shipping vessels. Iran reported explosions in southern provinces and condemned the United States' actions. The Strait of Hormuz remains a central poi",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/world/us/to-hold-iranian-forces-accountable-us-launches-fresh-strikes-on-iran-as-tensions-flare-over-hormuz-attacks/articleshow/132353945.cms",
+          "published_at": "Mon, 13 Jul 2026 04:13:56 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "bnl0LWxpdmUtdXBkYXRlczot",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -4956,7 +5042,7 @@
           "summary": "A fresh round of attacks by the U.S. on Sunday was the latest volley in a familiar pattern of back-and-forth strikes fueled by disputes over the Strait of Hormuz.",
           "image_url": "https://static01.nyt.com/images/2026/07/12/multimedia/12mideast-400-lfqj/12mideast-400-lfqj-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz",
-          "published_at": "Sun, 12 Jul 2026 22:18:35 +0000",
+          "published_at": "Sun, 12 Jul 2026 22:41:59 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -4973,22 +5059,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e75/live/a70b6a10-7e07-11f1-afb0-9dae682daff3.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 12 Jul 2026 22:17:40 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy1tY2Nvbm5lbGwtcHJv",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "McConnell provides health update after long unexplained absence; says he suffered fall",
-          "summary": "McConnell is the longest-serving party leader in Senate history.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/07/12/mcconnell-provides-health-update-after-long-unexplained-absence.html",
-          "published_at": "Sun, 12 Jul 2026 22:16:53 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -5037,6 +5107,22 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8847/live/fa519f30-7e2c-11f1-91a9-7f19a8ed5bed.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 12 Jul 2026 22:08:07 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtYmloYXItY20t",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Bihar CM Samrat Choudhary inaugurates projects worth ₹1,047 crore",
+          "summary": "Mr. Choudhary said that Bihar’s economy was being significantly strengthened by promoting women’s economic empowerment and entrepreneurship.",
+          "image_url": "https://th-i.thgim.com/public/incoming/hep3jh/article71215158.ece/alternates/LANDSCAPE_1200/20260712179L.jpg",
+          "article_url": "https://www.thehindu.com/news/national/bihar/bihar-cm-samrat-choudhary-inaugurates-projects-worth-1047-crore/article71214404.ece",
+          "published_at": "Mon, 13 Jul 2026 03:35:50 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5101,6 +5187,22 @@
           "image_url": null,
           "article_url": "https://www.dw.com/en/iran-war-us-carries-out-fresh-strikes-near-strait-of-hormuz/live-77926628?maca=en-rss-en-top-1022-xml-mrss",
           "published_at": "Sun, 12 Jul 2026 22:01:00 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLWRldGFpbmVk",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Detained by settlers, US Democrat Ro Khanna now faces pro-Israel attacks",
+          "summary": "Progressive congressman accuses Israeli military of 'lying' after settlers held up his van in the occupied West Bank.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/7/12/detained-by-settlers-us-democrat-ro-khanna-now-faces-pro-israel-attacks?traffic_source=rss",
+          "published_at": "Sun, 12 Jul 2026 21:59:36 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5316,38 +5418,6 @@
           ]
         },
         {
-          "id": "YWxqYXplZXJhLXNpbm5lci1i",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Sinner beats Zverev to defend Wimbledon men’s singles tennis title",
-          "summary": "Italy's Jannik Sinner beats Germany's Alexander Zverev  6-7 (7-9) 7-6 (7-2) 6-3 6-4 to claim his fifth Grand Slam.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/sports/2026/7/12/sinner-beats-zverev-to-defend-wimbledon-mens-singles-tennis-title?traffic_source=rss",
-          "published_at": "Sun, 12 Jul 2026 20:20:37 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YmJjLWF0LWxlYXN0LTI3LWtp",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "At least 27 killed in Bangkok bar fire",
-          "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through blasting flames to escape.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51a3/live/23c24750-7e34-11f1-b976-0b9c15b0ccfc.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 12 Jul 2026 20:13:14 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "ZXVyb25ld3Mtc3BhaW4td2ls",
           "source_id": "euronews",
           "source_name": "Euronews",
@@ -5444,22 +5514,6 @@
           ]
         },
         {
-          "id": "bnl0LW1pY2hhZWwtY29oZW4t",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Michael Cohen Helped Convict Trump. Now, He’s Making Nice Again.",
-          "summary": "A previously unreported encounter last summer set the stage for a rapprochement between the president and his former fixer, who has so far avoided the diatribes and prosecutions that President Trump has directed at other critics.",
-          "image_url": "https://static01.nyt.com/images/2026/07/12/multimedia/12dc-cohen-zpqt/12dc-cohen-zpqt-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/07/12/us/politics/trump-cohen-meeting-show.html",
-          "published_at": "Sun, 12 Jul 2026 19:08:31 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "ZXR0ZWNoLW1ldGEtdG8tcHV0",
           "source_id": "ettech",
           "source_name": "ETtech",
@@ -5536,54 +5590,6 @@
           "image_url": "https://c.ndtvimg.com/2021-10/6e8i71v_missile-generic_650x400_17_October_21.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
           "article_url": "https://www.ndtv.com/world-news/us-iran-war-update-3-border-posts-offshore-oil-platform-attacked-in-kuwait-1-injured-11762403#publisher=newsstand",
           "published_at": "Sun, 12 Jul 2026 23:19:57 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZHctdWtyYWluZSdzLXplbGVu",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Ukraine's Zelenskyy swaps out prime minister in reshuffle",
-          "summary": "Ukraine's president announced a government shake up, with PM Yuliia Svyrydenko stepping down after a year in office.",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/ukraine-s-zelenskyy-swaps-out-prime-minister-in-reshuffle/a-77924657?maca=en-rss-en-world-4025-xml-mrss",
-          "published_at": "Sun, 12 Jul 2026 17:03:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LXRydW1wLXJlY2FsbHMt",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Trump Recalls Last Conversation With Lindsey Graham Before His Death",
-          "summary": "In an interview on Sunday, President Trump recounted his last conversation with Senator Lindsey Graham, hours before his death. Mr. Graham sounded “perfect,” he said.",
-          "image_url": "https://static01.nyt.com/images/2026/07/12/multimedia/12int-graham-trump-01-jwvt/12int-graham-trump-01-jwvt-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/07/12/us/politics/donald-trump-lindsey-graham-death-interview.html",
-          "published_at": "Sun, 12 Jul 2026 17:02:53 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di02MS15ZWFyLW9sZC1u",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "61-Year-Old Nearly Sucked Out Mid-Air On Ryanair Flight; New Video Shows Damaged Engine",
-          "summary": "The latest clip shows extensive damage to the engine's nacelle, or protective pod, with an engine blade missing.",
-          "image_url": "https://c.ndtvimg.com/2026-07/he7fmsig_ryanair-flight_625x300_12_July_26.jpeg",
-          "article_url": "https://www.ndtv.com/world-news/61-year-old-nearly-sucked-out-mid-air-on-ryanair-flight-new-video-shows-damaged-engine-11762237#publisher=newsstand",
-          "published_at": "Sun, 12 Jul 2026 22:15:50 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -6099,7 +6105,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 9916,
+    "build_ms": 9302,
     "ai_enabled": true
   }
 }
