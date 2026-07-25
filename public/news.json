@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-25T16:31:27.338Z",
-  "total_articles": 301,
-  "new_this_run": 37,
+  "last_updated": "2026-07-25T17:38:26.481Z",
+  "total_articles": 302,
+  "new_this_run": 26,
   "sources": [
     {
       "id": "techcrunch",
@@ -9,6 +9,22 @@
       "region": "IT Focus",
       "category": "Tech Media",
       "articles": [
+        {
+          "id": "dGVjaGNydW5jaC1rYWxzaGkt",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
+          "summary": "Kalshi claims the trailer is “defamatory” and contains “both fabricated documents and false and misleading statements.”",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/",
+          "published_at": "Sat, 25 Jul 2026 16:46:46 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "dGVjaGNydW5jaC1saWJyYXJp",
           "source_id": "techcrunch",
@@ -121,20 +137,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC13YXltby1y",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Waymo reportedly mulling a breakup with Uber",
-          "summary": "The contract between the two companies ends in May 2028, Uber told TechCrunch.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/",
-          "published_at": "Fri, 24 Jul 2026 20:43:35 +0000",
-          "cross_sections": []
         }
       ]
     },
@@ -1319,22 +1321,6 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "bnl0LWxpdmUtdXBkYXRlczot",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Live Updates: Hundreds of Thousands Flee as Fires Rage in Spain and France",
-          "summary": "Firefighters were racing to contain blazes that were moving closer to Madrid and Bordeaux.",
-          "image_url": "https://static01.nyt.com/images/2026/07/25/multimedia/25wildfires-live-promo-pglt/25wildfires-live-promo-pglt-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations",
-          "published_at": "Sat, 25 Jul 2026 16:26:57 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bnl0LXRyb3ktamFja3Nvbi1w",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1343,9 +1329,55 @@
           "feed_label": "Top Stories",
           "title": "Troy Jackson Picked to Replace Platner as Democratic Nominee in Maine Senate Race",
           "summary": "Mr. Jackson, a progressive former State Senate president, clinched the nomination at a hastily arranged state party convention.",
-          "image_url": "https://static01.nyt.com/images/2026/07/25/multimedia/25pol-maine-senate-pklg/25pol-maine-senate-pklg-mediumSquareAt3X.jpg",
+          "image_url": "https://static01.nyt.com/images/2026/07/25/multimedia/25pol-maine-senate-hfo-zqkp/25pol-maine-senate-hfo-zqkp-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/07/25/us/politics/troy-jackson-maine-senate-democrats-platner.html",
-          "published_at": "Sat, 25 Jul 2026 16:08:19 +0000",
+          "published_at": "Sat, 25 Jul 2026 17:32:39 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LWxpdmUtdXBkYXRlczot",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "Live Updates: Hundreds of Thousands Flee as Fires Rage in Spain and France",
+          "summary": "Firefighters were racing to contain blazes that were moving closer to Madrid and Bordeaux.",
+          "image_url": "https://static01.nyt.com/images/2026/07/25/multimedia/25europe-wildfires-promo-1245pm-vwbc/25europe-wildfires-promo-1245pm-vwbc-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations",
+          "published_at": "Sat, 25 Jul 2026 17:30:20 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LWNvbG9tYmlh4oCZcy10",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "Colombia’s Trump-Endorsed President-Elect Was Once Investigated by U.S. Authorities",
+          "summary": "Colombia’s president-elect, a lawyer, represented accused drug traffickers, among others. While living in Miami, he himself was investigated by U.S. authorities, though never charged.",
+          "image_url": "https://static01.nyt.com/images/2026/07/27/multimedia/00int-colombian-president-florida-glqf/00int-colombian-president-florida-glqf-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/07/25/world/americas/colombia-president-de-la-espriella-trump-us-investigation.html",
+          "published_at": "Sat, 25 Jul 2026 17:20:59 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LWluZGlh4oCZcy1lZHVj",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "India’s Education Minister Steps Down in Victory for Cockroach Party Protesters",
+          "summary": "The Cockroach Janta Party called an end to weeks of protests after the education minister resigned, a win for that movement even as deep-seated anger among young people remains.",
+          "image_url": "https://static01.nyt.com/images/2026/07/25/multimedia/25int-india-minister-btlh/25int-india-minister-btlh-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html",
+          "published_at": "Sat, 25 Jul 2026 17:07:41 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -1361,7 +1393,7 @@
           "summary": "Anthropic and OpenAI are clashing with the rest of the tech industry over whether “open-source” models from China should be freely available or restricted.",
           "image_url": "https://static01.nyt.com/images/2026/07/24/multimedia/00biz-ai-open-source-china-02-gtqc/00biz-ai-open-source-china-02-gtqc-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html",
-          "published_at": "Sat, 25 Jul 2026 15:36:44 +0000",
+          "published_at": "Sat, 25 Jul 2026 16:47:34 +0000",
           "cross_sections": [
             "tech",
             "ai"
@@ -1506,22 +1538,6 @@
           ]
         },
         {
-          "id": "bnl0LWluZGlh4oCZcy1lZHVj",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "India’s Education Minister Steps Down, Handing Win to Protesters",
-          "summary": "With Dharmendra Pradhan offering his resignation, the student protest movement achieved a major victory against the government of Prime Minister Narendra Modi.",
-          "image_url": "https://static01.nyt.com/images/2026/07/25/multimedia/25int-india-minister-btlh/25int-india-minister-btlh-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html",
-          "published_at": "Sat, 25 Jul 2026 11:06:44 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bnl0LXRhbmtlcnMtc2FpbC10",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1536,20 +1552,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "bnl0LWNvbG9tYmlh4oCZcy10",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Colombia’s Trump-Endorsed President-Elect Was Once Investigated by U.S. Authorities",
-          "summary": "While living in Miami, Colombia’s president-elect represented accused drug traffickers and money launderers. He himself was investigated by U.S. authorities, though never charged.",
-          "image_url": "https://static01.nyt.com/images/2026/07/27/multimedia/00int-colombian-president-florida-glqf/00int-colombian-president-florida-glqf-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/07/25/world/americas/colombia-president-de-la-espriella-trump-us-investigation.html",
-          "published_at": "Sat, 25 Jul 2026 09:00:23 +0000",
-          "cross_sections": []
         },
         {
           "id": "bnl0LWluLXJ1c2gtdG8tdHJh",
@@ -1681,7 +1683,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-07-25T16:31:19.047Z",
+          "published_at": "2026-07-25T17:38:17.852Z",
           "cross_sections": []
         },
         {
@@ -1695,7 +1697,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-07-25T16:31:19.047Z",
+          "published_at": "2026-07-25T17:38:17.852Z",
           "cross_sections": []
         },
         {
@@ -1709,7 +1711,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-07-25T16:31:19.047Z",
+          "published_at": "2026-07-25T17:38:17.852Z",
           "cross_sections": []
         },
         {
@@ -2536,6 +2538,38 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YmJjLWluZGlhJ3MtJ2NvY2ty",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "India's 'cockroach' protest called off after education minister quits",
+          "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba11/live/52ef7480-884d-11f1-a7ab-8b30adf0800a.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 25 Jul 2026 17:25:11 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLW1vcmUtdGhhbi0yNTAs",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "More than 250,000 flee wildfires in France and Spain",
+          "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8783/live/30d9e7b0-880f-11f1-afbe-b9a38c21b1d6.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 25 Jul 2026 17:13:40 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YmJjLXBvbGljZS1pbnZlc3Rp",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2671,20 +2705,6 @@
           "cross_sections": []
         },
         {
-          "id": "YmJjLXRleHRzLXJldmVhbC0x",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-          "summary": "Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f8b/live/a675bbc0-87b5-11f1-88ae-859397b768ed.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 25 Jul 2026 02:14:50 GMT",
-          "cross_sections": []
-        },
-        {
           "id": "YmJjLXRlbi1raWxsZWQtaW4t",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2712,20 +2732,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77ee/live/cd7c6030-82c3-11f1-b976-0b9c15b0ccfc.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 24 Jul 2026 23:31:11 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "YmJjLXRoZS1wb3AtYmFuZC13",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "The pop band who went from playing for rescue dogs to selling out arenas",
-          "summary": "Muna discuss disastrous gigs, putting political action into music and the meaning of \"queer pop\".",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/413b/live/d2c64430-876d-11f1-b430-afa19a42b819.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/ce85j65r4l2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 24 Jul 2026 23:01:10 GMT",
           "cross_sections": []
         },
         {
@@ -2794,7 +2800,7 @@
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "World",
+          "feed_label": "Technology",
           "title": "Trump vows to investigate EU over fining of US tech companies",
           "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92c8/live/180ebdb0-8787-11f1-9428-e17279226993.jpg",
@@ -3285,14 +3291,14 @@
           ]
         },
         {
-          "id": "ZXVyb25ld3MtdGhlLXRvbGwt",
+          "id": "ZXVyb25ld3MtdmVuZXp1ZWxh",
           "source_id": "euronews",
           "source_name": "Euronews",
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "News",
-          "title": "The toll of the tragedy one month after Venezuela's double earthquake",
-          "summary": "One month after twin earthquakes in Venezuela, the official toll is over 5,500 dead and 16,700 injured; damage is put at 19.6 billion dollars. Thousands remain homeless and the number of missing has not been updated since late June.",
+          "title": "Venezuela’s twin earthquakes: the toll one month later",
+          "summary": "One month after twin earthquakes struck Venezuela, the official death toll has surpassed 5,500, with 16,700 injured. Damage is estimated at $19.6 billion, while thousands remain homeless and the number of missing people has not been updated since late June.",
           "image_url": "https://images.euronews.com/articles/stories/09/85/07/09/696x392_cmsv2_933567dc-ce1d-537d-aa63-8bda5c5afa24-9850709.jpg",
           "article_url": "http://www.euronews.com/2026/07/25/the-toll-of-the-tragedy-one-month-after-venezuelas-double-earthquake",
           "published_at": "Sat, 25 Jul 2026 17:52:05 +0200",
@@ -3383,6 +3389,54 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "ZHctc2VyYmlhJ3MtbGdidHEr",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Serbia's LGBTQ+ community faces 'epidemic of violence'",
+          "summary": "Documented cases of violence against LGBTQ+ people in Serbia have never been higher. The attacks are part of a larger shift in society targeting marginalized people.",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/serbia-s-lgbtq-community-faces-epidemic-of-violence/a-78114343?maca=en-rss-en-top-1022-xml-mrss",
+          "published_at": "Sat, 25 Jul 2026 17:32:00 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZHctZXVyb3BlLXdpbGRmaXJl",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Europe wildfires rage on, forcing more than 250,000 from homes",
+          "summary": "From the outskirts of Bordeaux to communities near Madrid, fast-moving wildfires in France and Spain are driving mass evacuations, destroying homes, and claiming lives.",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/europe-wildfires-rage-on-forcing-more-than-250-000-from-homes/a-78109406?maca=en-rss-en-top-1022-xml-mrss",
+          "published_at": "Sat, 25 Jul 2026 17:05:00 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZHctbGVuYWNhcGF2aXItd2ls",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Lenacapavir will slow HIV infections if there's enough of it and it reaches at-risk groups",
+          "summary": "Lenacapavir is one injection, twice a year. It's a big improvement for people in high-risk groups, currently taking a pill a day against HIV infection. But its long-term impact depends on it reaching those very people.",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/lenacapavir-will-slow-hiv-infections-if-there-s-enough-of-it-and-it-reaches-at-risk-groups/a-78075943?maca=en-rss-en-top-1022-xml-mrss",
+          "published_at": "Sat, 25 Jul 2026 17:04:00 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "ZHctdG91ci1kZS1mcmFuY2Ut",
           "source_id": "dw",
           "source_name": "DW News",
@@ -3452,52 +3506,6 @@
           "image_url": null,
           "article_url": "https://www.dw.com/en/niger-still-seeking-stability-after-3-years-of-military-rule/a-78100030?maca=en-rss-en-world-4025-xml-mrss",
           "published_at": "Sat, 25 Jul 2026 09:00:00 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "ZHctZXVyb3BlLXdpbGRmaXJl",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Europe wildfires rage on, forcing 200,000 from homes",
-          "summary": "Hot, arid weather and strong winds have continued to fuel wildfires in France, Spain and Italy, devastating huge swaths of land and forcing mass evacuations. As national emergencies are declared, the danger remains.",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/europe-wildfires-rage-on-forcing-200-000-from-homes/a-78109406?maca=en-rss-en-top-1022-xml-mrss",
-          "published_at": "Sat, 25 Jul 2026 08:17:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZHctZWNvLXdpbnM6LWNpdGll",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Eco wins: Cities, creatures, and tech are saving the day",
-          "summary": "From an AI-powered cute little pangolin, heat mapping to cool down cities and animals reducing wildfire risks by doing their thing, these real-world climate hacks are helping communities stay ahead of a changing planet.",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/eco-wins-cities-creatures-and-tech-are-saving-the-day/a-78097358?maca=en-rss-en-top-1022-xml-mrss",
-          "published_at": "Sat, 25 Jul 2026 07:25:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZHctaW5kaWE6LWNvY2tyb2Fj",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "India: Cockroaches end protest after education minister Dharmendra Pradhan resigns",
-          "summary": "India's Cockroach movement says it is ending its protests following talks with the government. That's hours after Education Minister Dharmendra Pradhan announced his resignation. Follow DW.",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/india-cockroaches-end-protest-after-education-minister-dharmendra-pradhan-resigns/live-78108089?maca=en-rss-en-top-1022-xml-mrss",
-          "published_at": "Sat, 25 Jul 2026 06:21:00 GMT",
           "cross_sections": []
         },
         {
@@ -3574,6 +3582,36 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dG9pLSdteS1iYWQnOi1pc2hh",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "'My bad': Ishan Kishan's hilarious run-out blunder goes viral — Watch",
+          "summary": "Ishan Kishan's spectacular 81 powered India to a series-clinching T20 victory over Zimbabwe. He also provided amusement with a missed run-out opportunity during the match. India secured a commanding 90-run win, taking an unassailable 2-0 lead. Kishan's performance overshadowed a fielding lapse, whic",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/my-bad-ishan-kishans-hilarious-run-out-blunder-goes-viral-india-star-laughs-it-off-watch/articleshow/132630199.cms",
+          "published_at": "Sat, 25 Jul 2026 22:12:07 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLSd3aWxsLXRha2UtbGVn",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "'Will take legal action': CJP firm on punishing cops who used excessive force",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/will-take-legal-action-cjp-firm-on-punishing-cops-who-used-excessive-force/articleshow/132629974.cms",
+          "published_at": "Sat, 25 Jul 2026 21:54:05 +0530",
+          "cross_sections": []
+        },
+        {
           "id": "dG9pLeKAmGl0J3MtYWxsLWFi",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3590,36 +3628,6 @@
           ]
         },
         {
-          "id": "dG9pLWNoaWxkcmVuLXdpdGgt",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Children with guns: 12-year-olds trained, armed to man Tehran checkpoints",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/world/middle-east/children-with-guns-12-year-olds-trained-armed-to-man-tehran-checkpoints/articleshow/132629665.cms",
-          "published_at": "Sat, 25 Jul 2026 21:25:12 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLW9ubHktaW4tYW1lcmlj",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Only in America: Amid the roast, Trump toasts free speech",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/world/us/only-in-america-amid-the-roast-trump-toasts-free-speech/articleshow/132629604.cms",
-          "published_at": "Sat, 25 Jul 2026 21:14:38 +0530",
-          "cross_sections": []
-        },
-        {
           "id": "dG9pLXByYWxoYWQtam9zaGkt",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3634,17 +3642,17 @@
           "cross_sections": []
         },
         {
-          "id": "dG9pLXRpbS1kYXZpZC1xdWVz",
+          "id": "dG9pLXByYWRoYW4tb3V0LC1q",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Tim David questions Usman Tariq's action, gestures 'no-ball' after dismissal",
+          "title": "Pradhan out, Joshi in: CJP exits Jantar Mantar, exam reform Bill to enter LS - key points",
           "summary": "",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/sports/cricket/the-hundred/tim-david-questions-pakistan-bowler-usman-tariqs-bowling-action-gestures-no-ball-after-dismissal/articleshow/132626642.cms",
-          "published_at": "Sat, 25 Jul 2026 19:13:24 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/india/dharmendra-pradhan-steps-down-cjp-ends-protest-as-centre-assures-action-reforms-top-developments/articleshow/132627206.cms",
+          "published_at": "Sat, 25 Jul 2026 19:25:31 +0530",
           "cross_sections": []
         },
         {
@@ -3938,119 +3946,125 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dGhlaGluZHUtbnRwYy1ib2Fy",
+          "id": "dGhlaGluZHUtZGhhcm1lbmRy",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "NTPC board approves raising up to ₹12,000 crore via NCD issue",
-          "summary": "The company said the issuance period will commence from the date of passing of the special resolution until completion of one year thereof or the date of the next Annual General Meeting in the financial year 2027-28, whichever is earlier.",
-          "image_url": "https://th-i.thgim.com/public/incoming/2sdr6e/article71267209.ece/alternates/LANDSCAPE_1200/Bondada-EngineeG4EG4E9T0.5.jpg.jpg",
-          "article_url": "https://www.thehindu.com/business/ntpc-board-approves-raising-up-to-12000-crore-via-ncd-issue/article71267207.ece",
-          "published_at": "Sat, 25 Jul 2026 21:53:33 +0530",
+          "title": "Dharmendra Pradhan tenders resignation as Union Education Minister; CJP calls off protests",
+          "summary": "Protesters erupt in joy; President appoints Pralhad Joshi as new Education Minister; govt. promises compensation to kin of NEET aspirants who died by suicide and withdrawal of FIRs against protesters; CJP protest a signal to farmers, labourers, poor people to stand up to the govt., says Rahul; Kharg",
+          "image_url": "https://th-i.thgim.com/public/incoming/axhzuk/article71265717.ece/alternates/LANDSCAPE_1200/PTI09_23_2025_000210A.jpg",
+          "article_url": "https://www.thehindu.com/news/national/dharmendra-pradhan-quit-resign-as-union-education-minister-jantar-mantar-protest-july-25-2026/article71265711.ece",
+          "published_at": "Sat, 25 Jul 2026 22:45:40 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtbWl4ZWQtcmVz",
+          "id": "dGhlaGluZHUtaXQtaXMtcmFp",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Mixed response from farmers and villagers on the integrated textile park in Salem",
-          "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/o5gc3r/article71266363.ece/alternates/LANDSCAPE_1200/9868_25_7_2026_14_55_21_1_TEXTILE_2.JPEG",
-          "article_url": "https://www.thehindu.com/news/cities/Coimbatore/mixed-response-from-farmers-and-villagers-on-the-integrated-textile-park-in-salem/article71265822.ece",
-          "published_at": "Sat, 25 Jul 2026 21:53:23 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtd2F0Y2g6LWNl",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Watch: Celebrations erupt in Tamil Nadu after Dharmendra Pradhan’s exit",
-          "summary": "Tamil Nadu CJP celebrated the resignation of Union Education Minister Dharmendra Pradhan, calling it a victory for students and democratic resistance. The organization described the development as a significant moment in the fight for education rights and accountability.",
-          "image_url": "https://th-i.thgim.com/public/news/national/khbydj/article71267212.ece/alternates/LANDSCAPE_1200/NEWS%20VIDEOS%20Thumbnail%20new.png",
-          "article_url": "https://www.thehindu.com/videos/watch-celebrations-erupt-in-tamil-nadu-after-dharmendra-pradhans-exit/article71267213.ece",
-          "published_at": "Sat, 25 Jul 2026 21:52:50 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtc3ViLWluc3Bl",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Sub-inspectors get fresh training to run police stations as force gears up for SHO transition",
-          "summary": "A five-day training programme for prospective SHOs in Ernakulam Rural concluded on July 24, 2026; Kochi City police have completed the first round of training for officers identified to lead stations under the new system",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/kerala/sub-inspectors-get-fresh-training-to-run-police-stations-as-force-gears-up-for-sho-transition/article71266746.ece",
-          "published_at": "Sat, 25 Jul 2026 21:52:48 +0530",
+          "title": "It is raining feats at this school in Chetpet",
+          "summary": "At the ongoing MCC World Records Festival 2026, both individuals and teams are displaying a variety of incredible skillsets",
+          "image_url": "https://th-i.thgim.com/public/incoming/yj35ra/article71267131.ece/alternates/LANDSCAPE_1200/26dcangr_mcc2.jpg.jpeg",
+          "article_url": "https://www.thehindu.com/news/cities/chennai/it-is-raining-feats-at-this-school-in-chetpet/article71267124.ece",
+          "published_at": "Sat, 25 Jul 2026 22:45:39 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtYm5wLXBhcmli",
+          "id": "dGhlaGluZHUtb3Bwb3NpdGlv",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "BNP Paribas Cardif to acquire Warburg Pincus' 26% in Indiafirst Life",
-          "summary": "Post-deal, state-run Bank of Baroda will own 65% of the company, its public sector banking peer Union Bank of India will be at 9%, while the rest will be with BNP Paribas Cardif.",
-          "image_url": "https://th-i.thgim.com/public/incoming/w82vk7/article71267203.ece/alternates/LANDSCAPE_1200/BNP%20Paribas%20Cardif.jpg",
-          "article_url": "https://www.thehindu.com/business/bnp-paribas-cardif-to-acquire-warburg-pincus-26-pc-in-indiafirst-life/article71267200.ece",
-          "published_at": "Sat, 25 Jul 2026 21:52:47 +0530",
+          "title": "Opposition calls Pradhan’s resignation a victory for the youth",
+          "summary": "It is time to remove the government, says Lok Sabha Opposition leader Rahul Gandhi; Left parties seek reform in the education sector",
+          "image_url": "https://th-i.thgim.com/public/incoming/zbs3dj/article71267343.ece/alternates/LANDSCAPE_1200/RAHUL%20GANDHI%20PC%2011.JPG",
+          "article_url": "https://www.thehindu.com/news/national/opposition-calls-pradhans-resignation-a-victory-for-the-youth/article71266562.ece",
+          "published_at": "Sat, 25 Jul 2026 22:45:34 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUtY3JlZGl0LXRv",
+          "id": "dGhlaGluZHUtYW1pdC1zaGFo",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Credit to Gen Z for making the Centre bow down: Revanth Reddy",
+          "title": "Amit Shah ‘directly responsible’ for violence against students, says Rahul Gandhi",
+          "summary": "Claims Mr. Shah authorised use of lethal weapons on students; says PM should apologise; says Education Minister’s resignation is a “victory of our students”, but will not solve deeper crisis of education and employment in India",
+          "image_url": "https://th-i.thgim.com/public/incoming/mtjdsw/article71267338.ece/alternates/LANDSCAPE_1200/RAHUL%20GANDHI%20PC%209.JPG",
+          "article_url": "https://www.thehindu.com/news/national/students-are-indias-future-modi-is-past-past-can-never-fight-future-rahul-gandhi/article71265925.ece",
+          "published_at": "Sat, 25 Jul 2026 22:44:54 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtd2F0Y2g6LXdo",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Watch: Why is TN demanding #BanNEET while Delhi seeks accountability?",
+          "summary": "While students in Delhi are demanding accountability and reforms in NEET, protesters in Chennai continue to call for the exam’s complete abolition.",
+          "image_url": "https://th-i.thgim.com/public/incoming/6n75k6/article71267296.ece/alternates/LANDSCAPE_1200/mamata%204.png",
+          "article_url": "https://www.thehindu.com/videos/watch-why-is-tn-demanding-banneet-while-delhi-seeks-accountability/article71267335.ece",
+          "published_at": "Sat, 25 Jul 2026 22:43:08 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtZnJvbS1wcm90",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "From protest to celebration: Mood shifts at Freedom Park as Union Minister Pradhan resigns",
           "summary": "",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/telangana/credit-to-gen-z-for-making-the-centre-bow-down-revanth-reddy/article71267151.ece",
-          "published_at": "Sat, 25 Jul 2026 21:52:45 +0530",
+          "image_url": "https://th-i.thgim.com/public/incoming/bcbwu1/article71267319.ece/alternates/LANDSCAPE_1200/_JAI3536.JPG",
+          "article_url": "https://www.thehindu.com/news/cities/bangalore/from-protest-to-celebration-mood-shifts-at-freedom-park-as-union-minister-pradhan-resigns/article71266777.ece",
+          "published_at": "Sat, 25 Jul 2026 22:43:06 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUtbWluaXN0ZXIt",
+          "id": "dGhlaGluZHUtd2F0Y2g6LWRy",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Minister to release digital content for art education in schools",
-          "summary": "Based on the art education handbook, SIET has developed video lessons to guide children in various art activities",
-          "image_url": "https://th-i.thgim.com/public/incoming/ondyot/article71267182.ece/alternates/LANDSCAPE_1200/N.%20Samsudheen_2.JPG",
-          "article_url": "https://www.thehindu.com/news/national/kerala/minister-to-release-digital-content-for-art-education-in-schools/article71267084.ece",
-          "published_at": "Sat, 25 Jul 2026 21:52:38 +0530",
-          "cross_sections": []
+          "title": "Watch: Drop Shot Ep. 4 | Jana Nayagan Fever, The Keeper of the Wells & Gaurav Gupta’s Light Song",
+          "summary": "In this episode, we capture the excitement surrounding Vijay’s Jana Nayagan as fans celebrate what could be the actor’s final film and director H. Vinoth shares insights into the much-awaited release. \nWe then explore The Keeper of the Wells, as Chennai-based author Zhayynn James discusses his debut",
+          "image_url": "https://th-i.thgim.com/public/news/national/ebb04v/article71267292.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-25%20at%2010.26.36%E2%80%AFPM.png",
+          "article_url": "https://www.thehindu.com/videos/watch-drop-shot-ep-4-jana-nayagan-fever-the-keeper-of-the-wells-gaurav-guptas-light-song/article71267288.ece",
+          "published_at": "Sat, 25 Jul 2026 22:42:51 +0530",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
-          "id": "dGhlaGluZHUtamFudGFyLW1h",
+          "id": "dGhlaGluZHUtY2pwLXRvLWZv",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Jantar Mantar protest LIVE: President accepts Dharmendra Pradhan's resignation, Pralhad Joshi to take charge of Education Ministry",
-          "summary": "Victory of students who are future of India, says Rahul Gandhi after Dharmendra Pradhan's resignation; CJP marks ‘first victory’ after Pradhan’s resignation announcement, Abhijeet Dipke says two demands remain",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/jantar-mantar-delhi-student-protest-cjp-government-talks-sonam-wangchuk-hunger-strike-live-updates-july-25-2026/article71265108.ece",
-          "published_at": "Sat, 25 Jul 2026 21:49:10 +0530",
+          "title": "CJP to follow up on five-point education reform charter after four weeks",
+          "summary": "The government represented by Ministers J.P. Nadda and Jitendra Singh said they would examine the proposals and hold discussions with CJP representatives to determine the way forward",
+          "image_url": "https://th-i.thgim.com/public/news/national/jwzu33/article71266079.ece/alternates/LANDSCAPE_1200/d56868d7-9e01-4d97-b032-a668383a935c.jpg",
+          "article_url": "https://www.thehindu.com/news/national/cockroach-janta-party-withdraws-protest-after-centre-accepts-demands/article71266081.ece",
+          "published_at": "Sat, 25 Jul 2026 22:39:56 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4304,8 +4318,8 @@
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Seven & i abandons investment talks with Poland’s Zabka",
-          "summary": "Seven & i was unable to reach a deal that would be \"in the best interests\" of the company and its shareholders, it said in a statement Saturday.",
+          "title": "Seven & I abandons investment talks with Poland’s Zabka",
+          "summary": "Seven & I was unable to reach a deal that would be \"in the best interests\" of the company and its shareholders, it said in a statement Saturday.",
           "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/25/553494.JPG",
           "article_url": "https://www.japantimes.co.jp/business/2026/07/25/companies/seveni-investment-zabka/",
           "published_at": "Sat, 25 Jul 2026 12:05:00 +0900",
@@ -4322,47 +4336,17 @@
       "category": "Broadcaster",
       "articles": [
         {
-          "id": "bmR0di0nY29ja3JvYWNoJy10",
+          "id": "bmR0di1kaGFybWVuZHJhLXBy",
           "source_id": "ndtv",
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
           "feed_label": "Top Stories",
-          "title": "'Cockroach' To People's Movement: How The Student Protest Outgrew Founders",
-          "summary": "It ended where, in many ways, it had begun. Moments after Union Education Minister Dharmendra Pradhan resigned on Saturday, Abhijeet Dipke, founder of the Cockroach Janata Party (CJP), thanked Chief Justice Surya Kant.",
-          "image_url": "https://c.ndtvimg.com/2026-07/et3hqb0c_mumbai-cjp-protest-pti-_625x300_23_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/cockroach-to-peoples-movement-how-the-student-protest-outgrew-founders-11821825#publisher=newsstand",
-          "published_at": "Sat, 25 Jul 2026 21:13:01 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "bmR0di1vbi1jYW1lcmEsLWV4",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "On Camera, Ex-Union Minister's Daughter Slaps SBI Branch Manager In Chennai",
-          "summary": "According to officials, a complaint was filed against the woman for assaulting the SBI bank manager.",
-          "image_url": "https://c.ndtvimg.com/2026-07/h0tli2ts_slap_625x300_25_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/on-camera-ex-union-ministers-daughter-slaps-sbi-branch-manager-in-chennai-11821745#publisher=newsstand",
-          "published_at": "Sat, 25 Jul 2026 21:08:26 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di13aGF0LWlzLWJpdGNo",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "What Is Bitchat? Jack Dorsey's Offline Messaging App Under Spotlight",
-          "summary": "Bitchat is a decentralised peer-to-peer messaging application that allows users to exchange messages without an internet connection, mobile network, servers, phone numbers or email addresses.",
-          "image_url": "https://c.ndtvimg.com/2026-07/8buodmo8_bitchat_625x300_24_July_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/cjp-protest-what-is-bitchat-jack-dorseys-offline-messaging-app-under-spotlight-11819759#publisher=newsstand",
-          "published_at": "Sat, 25 Jul 2026 21:02:53 +0530",
+          "title": "Dharmendra Pradhan Resignation Live Updates: Accept Responsibility With Sense Of Duty, Humility: New Education Minister",
+          "summary": "Dharmendra Pradhan Resignation Live News Updates: CJP spokespersons Saurav Das and Ashutosh Ranka and Union ministers JP Nadda and Jitendra Singh held a joint press conference this evening, following the resignation of Dharmendra Pradhan as Union Education Minister.",
+          "image_url": "https://c.ndtvimg.com/2024-04/e9c7pgf8_pralhad-joshi_625x300_08_April_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/india-news/dharmendra-pradhan-resignation-live-updates-education-minister-resigns-over-neet-paper-leak-cjp-protest-news-abhijeet-dipke-jantar-mantar-protest-11820220#publisher=newsstand",
+          "published_at": "Sat, 25 Jul 2026 22:57:51 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4378,7 +4362,115 @@
           "summary": "The President's office, after accepting Dharmendra Pradhan's resignation, confirmed Pralhad Joshi's appointment in a communique this evening",
           "image_url": "https://c.ndtvimg.com/2022-02/i343ph9o_pralhad-joshi_625x300_03_February_22.jpg",
           "article_url": "https://www.ndtv.com/india-news/pralhad-joshi-gets-additional-charge-of-education-ministry-after-dharmendra-pradhan-resigns-11821626#publisher=newsstand",
-          "published_at": "Sat, 25 Jul 2026 20:45:37 +0530",
+          "published_at": "Sat, 25 Jul 2026 22:57:26 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di12aWRlbzotYXMtY2pw",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Video: As CJP Announces End Of Protest, Minister's \"Immediate Effect\" Reminder",
+          "summary": "Cockroach Janta Party called off the protest over exam paper leaks following the resignation of Dharmendra Pradhan as Union Education Minister",
+          "image_url": "https://c.ndtvimg.com/2026-07/mos5srk4_jp-nadda_625x300_25_July_26.jpeg",
+          "article_url": "https://www.ndtv.com/india-news/video-as-cjp-announces-end-of-protest-union-minister-jitendra-singh-immediate-effect-reminder-11822148#publisher=newsstand",
+          "published_at": "Sat, 25 Jul 2026 22:53:23 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "bmR0di1oaWdoLWNvdXJ0LXJl",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "High Court Rejects Maintenance Plea Of Woman Earning More Than Husband",
+          "summary": "The woman, who lives in New Jersey in the United States, earns Rs 8 lakh per month ($8,700) - a salary higher than that of her husband.",
+          "image_url": "https://c.ndtvimg.com/2026-07/khkusf7s_maintenance-plea_625x300_25_July_26.jpeg",
+          "article_url": "https://www.ndtv.com/india-news/high-court-rejects-maintenance-plea-of-woman-earning-more-than-husband-11822053#publisher=newsstand",
+          "published_at": "Sat, 25 Jul 2026 22:53:03 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1kZWxoaSdzLXJzLTcs",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Delhi's Rs 7,000-Crore Corridor Promises Faster Travel To Airport, Gurugram",
+          "summary": "A drive from Gurugram or West Delhi to South Delhi often means getting caught in traffic around Mahipalpur, Rangpuri or the airport. A new Rs 6,970-crore road corridor aims to change that.",
+          "image_url": "https://c.ndtvimg.com/2026-06/6mjas6rk_delhi-traffic_625x300_29_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/india-news/delhis-rs-7-000-crore-corridor-promises-faster-travel-to-airport-gurugram-11822040#publisher=newsstand",
+          "published_at": "Sat, 25 Jul 2026 22:38:03 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1hZnRlci1vdXRyYWdl",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "After Outrage, Rapid Action Force Bans Pellet Guns, Shock Weapons In Delhi: Sources",
+          "summary": "Sources said the Inspector General told RAF personnel and officers that the \"excessive use of force\" during the protest at the Jantar Mantar was \"unjustified\".",
+          "image_url": "https://c.ndtvimg.com/2026-07/5ifmshoo_rapid-action-force-raf-_625x300_25_July_26.jpeg",
+          "article_url": "https://www.ndtv.com/india-news/after-outrage-rapid-action-force-bans-pellet-guns-shock-weapons-in-delhi-sources-11822073#publisher=newsstand",
+          "published_at": "Sat, 25 Jul 2026 22:29:23 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di10ZWFyLWdhcy1jb250",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Tear Gas Containers And Hope For A Better Future: The Duality Of Protest",
+          "summary": "The government today assured CJP that police cases filed against students would be withdrawn and no action would be taken against them in future.",
+          "image_url": "https://c.ndtvimg.com/2026-07/phg5ps6o_cjp-protest-ndtv_625x300_25_July_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/india-news/dharmendra-pradhan-resignation-cockroach-janta-party-jantar-mantar-cjp-protest-tear-gas-containers-and-hope-for-a-better-future-the-duality-of-protest-11821913#publisher=newsstand",
+          "published_at": "Sat, 25 Jul 2026 22:27:14 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1zdHJpY3Rlci1hY3Rp",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Stricter Action, Fast-Track Courts: New Paper Leak Bill In Lok Sabha On Monday",
+          "summary": "Seeking to amend a two-year-old anti-paper leak law, a bill that proposes to set up fast-track courts in every state for speedy trials of accused and enhances punishment is set for introduction in the Lok Sabha on Monday.",
+          "image_url": "https://c.ndtvimg.com/2024-06/9mga7t98_lok-sabha-generic-ani-_625x300_26_June_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/india-news/stricter-action-fast-track-courts-new-paper-leak-bill-in-lok-sabha-on-monday-11821960#publisher=newsstand",
+          "published_at": "Sat, 25 Jul 2026 22:22:55 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "bmR0di1pcmFuLXRocmVhdC1m",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Iran Threat Forced Trump To Change Planes In Turkey During NATO Summit: Report",
+          "summary": "The threat from Iranian proxy forces surfaced while Trump was attending the NATO summit in Ankara. He had arrived aboard the new Qatari-donated Boeing 747-8 but was later advised by the Secret Service to leave on the older Air Force One instead.",
+          "image_url": "https://c.ndtvimg.com/2026-07/eajvcjig_trump-new-air-force-one_625x300_01_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/world-news/iran-threat-forced-trump-to-change-planes-in-turkey-during-nato-summit-report-11822038#publisher=newsstand",
+          "published_at": "Sat, 25 Jul 2026 22:21:51 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4389,58 +4481,12 @@
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Mojtaba \"More Interested\" In Developing Nuclear Weapons Than His Father: Report",
           "summary": "Mojtaba Khamenei has not publicly supported nuclear weapons, but US officials think that he and Iran’s new hard-line leadership may want to develop them.",
           "image_url": "https://c.ndtvimg.com/2026-03/7q84frf_mojtaba-khamenei-afp_625x300_11_March_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
           "article_url": "https://www.ndtv.com/world-news/iran-s-mojtaba-khamenei-more-interested-in-nuclear-weapons-than-his-father-report-11819621#publisher=newsstand",
           "published_at": "Sat, 25 Jul 2026 20:40:05 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "bmR0di1kaGFybWVuZHJhLXBy",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Dharmendra Pradhan Resignation Live Updates: Gates Of All Delhi Metro Stations Reopened After CJP Withdraws Protest",
-          "summary": "Dharmendra Pradhan Resignation Live News Updates: CJP spokespersons Saurav Das and Ashutosh Ranka and Union ministers JP Nadda and Jitendra Singh held a joint press conference this evening, following the resignation of Dharmendra Pradhan as Union Education Minister.",
-          "image_url": "https://c.ndtvimg.com/2026-07/kdrpvtck_cjp-presser_625x300_25_July_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/dharmendra-pradhan-resignation-live-updates-education-minister-resigns-over-neet-paper-leak-cjp-protest-news-abhijeet-dipke-jantar-mantar-protest-11820220#publisher=newsstand",
-          "published_at": "Sat, 25 Jul 2026 20:13:57 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1uZXctZWR1Y2F0aW9u",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "New Education Minister Could Be Named As Early As Today Or Tomorrow: Sources",
-          "summary": "Dharmendra Pradhan said he decided to step down as Union Education Minister in order to prevent anti-national forces from exploiting the situation in Jantar Mantar",
-          "image_url": "https://c.ndtvimg.com/2026-07/n17eccn_cjp-protest_625x300_25_July_26.jpeg",
-          "article_url": "https://www.ndtv.com/india-news/new-education-minister-could-be-named-as-early-as-today-or-tomorrow-sources-11821611#publisher=newsstand",
-          "published_at": "Sat, 25 Jul 2026 20:13:57 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1kaWQtY2pwJ3MtNzIt",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Did CJP's 72-Hour Ultimatum Trigger Dharmendra Pradhan Exit? Inside Story",
-          "summary": "According to sources familiar with the negotiations, the turning point came during the second round of talks between the Centre and CJP representatives on Friday.",
-          "image_url": "https://c.ndtvimg.com/2026-07/s8bqiads_dharmendra-pradhan_625x300_25_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/dharmendra-pradhan-resigns-cjp-did-cjps-72-hour-ultimatum-trigger-dharmendra-pradhan-exit-inside-story-11821546#publisher=newsstand",
-          "published_at": "Sat, 25 Jul 2026 20:08:29 +0530",
           "cross_sections": []
         },
         {
@@ -4533,20 +4579,6 @@
           "article_url": "https://www.ndtv.com/world-news/damanpreet-kaur-canada-murder-indian-woman-found-dead-at-canada-home-partner-ritish-kumar-arrested-for-murder-11819311#publisher=newsstand",
           "published_at": "Sat, 25 Jul 2026 09:24:59 +0530",
           "cross_sections": []
-        },
-        {
-          "id": "bmR0di0idGhpcmQtdGltZS1p",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "\"Third Time Is Better\": Donald Trump Wears \"2028\" At Press Gala Rerun",
-          "summary": "Donald Trump addressed the rescheduled White House correspondents dinner, three months after the event was disrupted by an assassination attempt.",
-          "image_url": "https://c.ndtvimg.com/2026-07/0rpn8a14_trump-2028_625x300_25_July_26.jpeg",
-          "article_url": "https://www.ndtv.com/world-news/donald-trump-wears-trump-2028-at-press-gala-rerun-at-press-gala-rerun-white-house-correspondents-dinner-11819307#publisher=newsstand",
-          "published_at": "Sat, 25 Jul 2026 09:24:01 +0530",
-          "cross_sections": []
         }
       ]
     },
@@ -4556,6 +4588,36 @@
       "region": "Middle East & Africa",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "YWxqYXplZXJhLWlyYW7igJlz",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Iran’s government spars with state TV as mediators push talks with US",
+          "summary": "Gov't accuses IRIB of 'censorship' after parts of president's speech not aired; station rejects 'improper attributions'.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss",
+          "published_at": "Sat, 25 Jul 2026 16:39:16 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXdvcmtlci1k",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Worker dies during reconstruction of Barcelona’s Camp Nou Stadium",
+          "summary": "Barcelona offer condolences to family of a 54-year-old man who died during Camp Nou redevelopment after blow to head.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/sports/2026/7/25/construction-worker-dies-in-accident-at-barcelonas-camp-nou-stadium?traffic_source=rss",
+          "published_at": "Sat, 25 Jul 2026 16:36:48 +0000",
+          "cross_sections": []
+        },
         {
           "id": "YWxqYXplZXJhLWluZGlhLXdp",
           "source_id": "aljazeera",
@@ -4645,34 +4707,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXdhci1vbi1p",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "War on Iran: Phase II: Day 14",
-          "summary": "War on Iran: Phase II: Day 14",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/war-on-iran-phase-ii-day-14?traffic_source=rss",
-          "published_at": "Sat, 25 Jul 2026 13:49:12 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLWYxLW5lZWRz",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "F1 needs better balance between business and sport, says Norris",
-          "summary": "Lando Norris speaks up ahead of Hungarian Grand Prix with drivers feeling new regulations have cramped their speed.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/sports/2026/7/25/f1-needs-better-balance-between-business-and-sport-says-norris?traffic_source=rss",
-          "published_at": "Sat, 25 Jul 2026 13:03:52 +0000",
-          "cross_sections": []
         }
       ]
     },
@@ -4946,7 +4980,7 @@
         {
           "id": "ndtv",
           "name": "NDTV",
-          "count": 15
+          "count": 16
         }
       ]
     },
@@ -4975,70 +5009,6 @@
       "icon": "💻",
       "articles": [
         {
-          "id": "bnl0LWxpdmUtdXBkYXRlczot",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Live Updates: Hundreds of Thousands Flee as Fires Rage in Spain and France",
-          "summary": "Firefighters were racing to contain blazes that were moving closer to Madrid and Bordeaux.",
-          "image_url": "https://static01.nyt.com/images/2026/07/25/multimedia/25wildfires-live-promo-pglt/25wildfires-live-promo-pglt-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations",
-          "published_at": "Sat, 25 Jul 2026 16:26:57 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtbnRwYy1ib2Fy",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "NTPC board approves raising up to ₹12,000 crore via NCD issue",
-          "summary": "The company said the issuance period will commence from the date of passing of the special resolution until completion of one year thereof or the date of the next Annual General Meeting in the financial year 2027-28, whichever is earlier.",
-          "image_url": "https://th-i.thgim.com/public/incoming/2sdr6e/article71267209.ece/alternates/LANDSCAPE_1200/Bondada-EngineeG4EG4E9T0.5.jpg.jpg",
-          "article_url": "https://www.thehindu.com/business/ntpc-board-approves-raising-up-to-12000-crore-via-ncd-issue/article71267207.ece",
-          "published_at": "Sat, 25 Jul 2026 21:53:33 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtc3ViLWluc3Bl",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Sub-inspectors get fresh training to run police stations as force gears up for SHO transition",
-          "summary": "A five-day training programme for prospective SHOs in Ernakulam Rural concluded on July 24, 2026; Kochi City police have completed the first round of training for officers identified to lead stations under the new system",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/kerala/sub-inspectors-get-fresh-training-to-run-police-stations-as-force-gears-up-for-sho-transition/article71266746.ece",
-          "published_at": "Sat, 25 Jul 2026 21:52:48 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtamFudGFyLW1h",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Jantar Mantar protest LIVE: President accepts Dharmendra Pradhan's resignation, Pralhad Joshi to take charge of Education Ministry",
-          "summary": "Victory of students who are future of India, says Rahul Gandhi after Dharmendra Pradhan's resignation; CJP marks ‘first victory’ after Pradhan’s resignation announcement, Abhijeet Dipke says two demands remain",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/jantar-mantar-delhi-student-protest-cjp-government-talks-sonam-wangchuk-hunger-strike-live-updates-july-25-2026/article71265108.ece",
-          "published_at": "Sat, 25 Jul 2026 21:49:10 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bnl0LXRyb3ktamFja3Nvbi1w",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -5047,9 +5017,394 @@
           "feed_label": "Top Stories",
           "title": "Troy Jackson Picked to Replace Platner as Democratic Nominee in Maine Senate Race",
           "summary": "Mr. Jackson, a progressive former State Senate president, clinched the nomination at a hastily arranged state party convention.",
-          "image_url": "https://static01.nyt.com/images/2026/07/25/multimedia/25pol-maine-senate-pklg/25pol-maine-senate-pklg-mediumSquareAt3X.jpg",
+          "image_url": "https://static01.nyt.com/images/2026/07/25/multimedia/25pol-maine-senate-hfo-zqkp/25pol-maine-senate-hfo-zqkp-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/07/25/us/politics/troy-jackson-maine-senate-democrats-platner.html",
-          "published_at": "Sat, 25 Jul 2026 16:08:19 +0000",
+          "published_at": "Sat, 25 Jul 2026 17:32:39 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZHctc2VyYmlhJ3MtbGdidHEr",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Serbia's LGBTQ+ community faces 'epidemic of violence'",
+          "summary": "Documented cases of violence against LGBTQ+ people in Serbia have never been higher. The attacks are part of a larger shift in society targeting marginalized people.",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/serbia-s-lgbtq-community-faces-epidemic-of-violence/a-78114343?maca=en-rss-en-top-1022-xml-mrss",
+          "published_at": "Sat, 25 Jul 2026 17:32:00 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LWxpdmUtdXBkYXRlczot",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "Live Updates: Hundreds of Thousands Flee as Fires Rage in Spain and France",
+          "summary": "Firefighters were racing to contain blazes that were moving closer to Madrid and Bordeaux.",
+          "image_url": "https://static01.nyt.com/images/2026/07/25/multimedia/25europe-wildfires-promo-1245pm-vwbc/25europe-wildfires-promo-1245pm-vwbc-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations",
+          "published_at": "Sat, 25 Jul 2026 17:30:20 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1kaGFybWVuZHJhLXBy",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Dharmendra Pradhan Resignation Live Updates: Accept Responsibility With Sense Of Duty, Humility: New Education Minister",
+          "summary": "Dharmendra Pradhan Resignation Live News Updates: CJP spokespersons Saurav Das and Ashutosh Ranka and Union ministers JP Nadda and Jitendra Singh held a joint press conference this evening, following the resignation of Dharmendra Pradhan as Union Education Minister.",
+          "image_url": "https://c.ndtvimg.com/2024-04/e9c7pgf8_pralhad-joshi_625x300_08_April_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/india-news/dharmendra-pradhan-resignation-live-updates-education-minister-resigns-over-neet-paper-leak-cjp-protest-news-abhijeet-dipke-jantar-mantar-protest-11820220#publisher=newsstand",
+          "published_at": "Sat, 25 Jul 2026 22:57:51 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1wcmFsaGFkLWpvc2hp",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Pralhad Joshi Appointed Education Minister After Dharmendra Pradhan Quits",
+          "summary": "The President's office, after accepting Dharmendra Pradhan's resignation, confirmed Pralhad Joshi's appointment in a communique this evening",
+          "image_url": "https://c.ndtvimg.com/2022-02/i343ph9o_pralhad-joshi_625x300_03_February_22.jpg",
+          "article_url": "https://www.ndtv.com/india-news/pralhad-joshi-gets-additional-charge-of-education-ministry-after-dharmendra-pradhan-resigns-11821626#publisher=newsstand",
+          "published_at": "Sat, 25 Jul 2026 22:57:26 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLWluZGlhJ3MtJ2NvY2ty",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "India's 'cockroach' protest called off after education minister quits",
+          "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba11/live/52ef7480-884d-11f1-a7ab-8b30adf0800a.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 25 Jul 2026 17:25:11 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1oaWdoLWNvdXJ0LXJl",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "High Court Rejects Maintenance Plea Of Woman Earning More Than Husband",
+          "summary": "The woman, who lives in New Jersey in the United States, earns Rs 8 lakh per month ($8,700) - a salary higher than that of her husband.",
+          "image_url": "https://c.ndtvimg.com/2026-07/khkusf7s_maintenance-plea_625x300_25_July_26.jpeg",
+          "article_url": "https://www.ndtv.com/india-news/high-court-rejects-maintenance-plea-of-woman-earning-more-than-husband-11822053#publisher=newsstand",
+          "published_at": "Sat, 25 Jul 2026 22:53:03 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtZGhhcm1lbmRy",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Dharmendra Pradhan tenders resignation as Union Education Minister; CJP calls off protests",
+          "summary": "Protesters erupt in joy; President appoints Pralhad Joshi as new Education Minister; govt. promises compensation to kin of NEET aspirants who died by suicide and withdrawal of FIRs against protesters; CJP protest a signal to farmers, labourers, poor people to stand up to the govt., says Rahul; Kharg",
+          "image_url": "https://th-i.thgim.com/public/incoming/axhzuk/article71265717.ece/alternates/LANDSCAPE_1200/PTI09_23_2025_000210A.jpg",
+          "article_url": "https://www.thehindu.com/news/national/dharmendra-pradhan-quit-resign-as-union-education-minister-jantar-mantar-protest-july-25-2026/article71265711.ece",
+          "published_at": "Sat, 25 Jul 2026 22:45:40 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtaXQtaXMtcmFp",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "It is raining feats at this school in Chetpet",
+          "summary": "At the ongoing MCC World Records Festival 2026, both individuals and teams are displaying a variety of incredible skillsets",
+          "image_url": "https://th-i.thgim.com/public/incoming/yj35ra/article71267131.ece/alternates/LANDSCAPE_1200/26dcangr_mcc2.jpg.jpeg",
+          "article_url": "https://www.thehindu.com/news/cities/chennai/it-is-raining-feats-at-this-school-in-chetpet/article71267124.ece",
+          "published_at": "Sat, 25 Jul 2026 22:45:39 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtYW1pdC1zaGFo",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Amit Shah ‘directly responsible’ for violence against students, says Rahul Gandhi",
+          "summary": "Claims Mr. Shah authorised use of lethal weapons on students; says PM should apologise; says Education Minister’s resignation is a “victory of our students”, but will not solve deeper crisis of education and employment in India",
+          "image_url": "https://th-i.thgim.com/public/incoming/mtjdsw/article71267338.ece/alternates/LANDSCAPE_1200/RAHUL%20GANDHI%20PC%209.JPG",
+          "article_url": "https://www.thehindu.com/news/national/students-are-indias-future-modi-is-past-past-can-never-fight-future-rahul-gandhi/article71265925.ece",
+          "published_at": "Sat, 25 Jul 2026 22:44:54 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLW1vcmUtdGhhbi0yNTAs",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "More than 250,000 flee wildfires in France and Spain",
+          "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8783/live/30d9e7b0-880f-11f1-afbe-b9a38c21b1d6.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 25 Jul 2026 17:13:40 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtd2F0Y2g6LXdo",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Watch: Why is TN demanding #BanNEET while Delhi seeks accountability?",
+          "summary": "While students in Delhi are demanding accountability and reforms in NEET, protesters in Chennai continue to call for the exam’s complete abolition.",
+          "image_url": "https://th-i.thgim.com/public/incoming/6n75k6/article71267296.ece/alternates/LANDSCAPE_1200/mamata%204.png",
+          "article_url": "https://www.thehindu.com/videos/watch-why-is-tn-demanding-banneet-while-delhi-seeks-accountability/article71267335.ece",
+          "published_at": "Sat, 25 Jul 2026 22:43:08 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtd2F0Y2g6LWRy",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Watch: Drop Shot Ep. 4 | Jana Nayagan Fever, The Keeper of the Wells & Gaurav Gupta’s Light Song",
+          "summary": "In this episode, we capture the excitement surrounding Vijay’s Jana Nayagan as fans celebrate what could be the actor’s final film and director H. Vinoth shares insights into the much-awaited release. \nWe then explore The Keeper of the Wells, as Chennai-based author Zhayynn James discusses his debut",
+          "image_url": "https://th-i.thgim.com/public/news/national/ebb04v/article71267292.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-25%20at%2010.26.36%E2%80%AFPM.png",
+          "article_url": "https://www.thehindu.com/videos/watch-drop-shot-ep-4-jana-nayagan-fever-the-keeper-of-the-wells-gaurav-guptas-light-song/article71267288.ece",
+          "published_at": "Sat, 25 Jul 2026 22:42:51 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtY2pwLXRvLWZv",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "CJP to follow up on five-point education reform charter after four weeks",
+          "summary": "The government represented by Ministers J.P. Nadda and Jitendra Singh said they would examine the proposals and hold discussions with CJP representatives to determine the way forward",
+          "image_url": "https://th-i.thgim.com/public/news/national/jwzu33/article71266079.ece/alternates/LANDSCAPE_1200/d56868d7-9e01-4d97-b032-a668383a935c.jpg",
+          "article_url": "https://www.thehindu.com/news/national/cockroach-janta-party-withdraws-protest-after-centre-accepts-demands/article71266081.ece",
+          "published_at": "Sat, 25 Jul 2026 22:39:56 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1kZWxoaSdzLXJzLTcs",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Delhi's Rs 7,000-Crore Corridor Promises Faster Travel To Airport, Gurugram",
+          "summary": "A drive from Gurugram or West Delhi to South Delhi often means getting caught in traffic around Mahipalpur, Rangpuri or the airport. A new Rs 6,970-crore road corridor aims to change that.",
+          "image_url": "https://c.ndtvimg.com/2026-06/6mjas6rk_delhi-traffic_625x300_29_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/india-news/delhis-rs-7-000-crore-corridor-promises-faster-travel-to-airport-gurugram-11822040#publisher=newsstand",
+          "published_at": "Sat, 25 Jul 2026 22:38:03 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LWluZGlh4oCZcy1lZHVj",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "India’s Education Minister Steps Down in Victory for Cockroach Party Protesters",
+          "summary": "The Cockroach Janta Party called an end to weeks of protests after the education minister resigned, a win for that movement even as deep-seated anger among young people remains.",
+          "image_url": "https://static01.nyt.com/images/2026/07/25/multimedia/25int-india-minister-btlh/25int-india-minister-btlh-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html",
+          "published_at": "Sat, 25 Jul 2026 17:07:41 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZHctZXVyb3BlLXdpbGRmaXJl",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Europe wildfires rage on, forcing more than 250,000 from homes",
+          "summary": "From the outskirts of Bordeaux to communities near Madrid, fast-moving wildfires in France and Spain are driving mass evacuations, destroying homes, and claiming lives.",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/europe-wildfires-rage-on-forcing-more-than-250-000-from-homes/a-78109406?maca=en-rss-en-top-1022-xml-mrss",
+          "published_at": "Sat, 25 Jul 2026 17:05:00 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZHctbGVuYWNhcGF2aXItd2ls",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Lenacapavir will slow HIV infections if there's enough of it and it reaches at-risk groups",
+          "summary": "Lenacapavir is one injection, twice a year. It's a big improvement for people in high-risk groups, currently taking a pill a day against HIV infection. But its long-term impact depends on it reaching those very people.",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/lenacapavir-will-slow-hiv-infections-if-there-s-enough-of-it-and-it-reaches-at-risk-groups/a-78075943?maca=en-rss-en-top-1022-xml-mrss",
+          "published_at": "Sat, 25 Jul 2026 17:04:00 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1hZnRlci1vdXRyYWdl",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "After Outrage, Rapid Action Force Bans Pellet Guns, Shock Weapons In Delhi: Sources",
+          "summary": "Sources said the Inspector General told RAF personnel and officers that the \"excessive use of force\" during the protest at the Jantar Mantar was \"unjustified\".",
+          "image_url": "https://c.ndtvimg.com/2026-07/5ifmshoo_rapid-action-force-raf-_625x300_25_July_26.jpeg",
+          "article_url": "https://www.ndtv.com/india-news/after-outrage-rapid-action-force-bans-pellet-guns-shock-weapons-in-delhi-sources-11822073#publisher=newsstand",
+          "published_at": "Sat, 25 Jul 2026 22:29:23 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di10ZWFyLWdhcy1jb250",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Tear Gas Containers And Hope For A Better Future: The Duality Of Protest",
+          "summary": "The government today assured CJP that police cases filed against students would be withdrawn and no action would be taken against them in future.",
+          "image_url": "https://c.ndtvimg.com/2026-07/phg5ps6o_cjp-protest-ndtv_625x300_25_July_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/india-news/dharmendra-pradhan-resignation-cockroach-janta-party-jantar-mantar-cjp-protest-tear-gas-containers-and-hope-for-a-better-future-the-duality-of-protest-11821913#publisher=newsstand",
+          "published_at": "Sat, 25 Jul 2026 22:27:14 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1pcmFuLXRocmVhdC1m",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Iran Threat Forced Trump To Change Planes In Turkey During NATO Summit: Report",
+          "summary": "The threat from Iranian proxy forces surfaced while Trump was attending the NATO summit in Ankara. He had arrived aboard the new Qatari-donated Boeing 747-8 but was later advised by the Secret Service to leave on the older Air Force One instead.",
+          "image_url": "https://c.ndtvimg.com/2026-07/eajvcjig_trump-new-air-force-one_625x300_01_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/world-news/iran-threat-forced-trump-to-change-planes-in-turkey-during-nato-summit-report-11822038#publisher=newsstand",
+          "published_at": "Sat, 25 Jul 2026 22:21:51 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LXNpbGljb24tdmFsbGV5",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Silicon Valley Splits Over Closing the Borders to Chinese A.I.",
+          "summary": "Anthropic and OpenAI are clashing with the rest of the tech industry over whether “open-source” models from China should be freely available or restricted.",
+          "image_url": "https://static01.nyt.com/images/2026/07/24/multimedia/00biz-ai-open-source-china-02-gtqc/00biz-ai-open-source-china-02-gtqc-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html",
+          "published_at": "Sat, 25 Jul 2026 16:47:34 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "dGVjaGNydW5jaC1rYWxzaGkt",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
+          "summary": "Kalshi claims the trailer is “defamatory” and contains “both fabricated documents and false and misleading statements.”",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/",
+          "published_at": "Sat, 25 Jul 2026 16:46:46 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLSdteS1iYWQnOi1pc2hh",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "'My bad': Ishan Kishan's hilarious run-out blunder goes viral — Watch",
+          "summary": "Ishan Kishan's spectacular 81 powered India to a series-clinching T20 victory over Zimbabwe. He also provided amusement with a missed run-out opportunity during the match. India secured a commanding 90-run win, taking an unassailable 2-0 lead. Kishan's performance overshadowed a fielding lapse, whic",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/my-bad-ishan-kishans-hilarious-run-out-blunder-goes-viral-india-star-laughs-it-off-watch/articleshow/132630199.cms",
+          "published_at": "Sat, 25 Jul 2026 22:12:07 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLWlyYW7igJlz",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Iran’s government spars with state TV as mediators push talks with US",
+          "summary": "Gov't accuses IRIB of 'censorship' after parts of president's speech not aired; station rejects 'improper attributions'.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss",
+          "published_at": "Sat, 25 Jul 2026 16:39:16 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5135,22 +5490,6 @@
           ]
         },
         {
-          "id": "dG9pLWNoaWxkcmVuLXdpdGgt",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Children with guns: 12-year-olds trained, armed to man Tehran checkpoints",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/world/middle-east/children-with-guns-12-year-olds-trained-armed-to-man-tehran-checkpoints/articleshow/132629665.cms",
-          "published_at": "Sat, 25 Jul 2026 21:25:12 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "YWxqYXplZXJhLXN5cmlhbi1m",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
@@ -5167,14 +5506,14 @@
           ]
         },
         {
-          "id": "ZXVyb25ld3MtdGhlLXRvbGwt",
+          "id": "ZXVyb25ld3MtdmVuZXp1ZWxh",
           "source_id": "euronews",
           "source_name": "Euronews",
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "News",
-          "title": "The toll of the tragedy one month after Venezuela's double earthquake",
-          "summary": "One month after twin earthquakes in Venezuela, the official toll is over 5,500 dead and 16,700 injured; damage is put at 19.6 billion dollars. Thousands remain homeless and the number of missing has not been updated since late June.",
+          "title": "Venezuela’s twin earthquakes: the toll one month later",
+          "summary": "One month after twin earthquakes struck Venezuela, the official death toll has surpassed 5,500, with 16,700 injured. Damage is estimated at $19.6 billion, while thousands remain homeless and the number of missing people has not been updated since late June.",
           "image_url": "https://images.euronews.com/articles/stories/09/85/07/09/696x392_cmsv2_933567dc-ce1d-537d-aa63-8bda5c5afa24-9850709.jpg",
           "article_url": "http://www.euronews.com/2026/07/25/the-toll-of-the-tragedy-one-month-after-venezuelas-double-earthquake",
           "published_at": "Sat, 25 Jul 2026 17:52:05 +0200",
@@ -5194,55 +5533,6 @@
           "image_url": null,
           "article_url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/the-battle-over-al-aqsa?traffic_source=rss",
           "published_at": "Sat, 25 Jul 2026 15:49:53 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1vbi1jYW1lcmEsLWV4",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "On Camera, Ex-Union Minister's Daughter Slaps SBI Branch Manager In Chennai",
-          "summary": "According to officials, a complaint was filed against the woman for assaulting the SBI bank manager.",
-          "image_url": "https://c.ndtvimg.com/2026-07/h0tli2ts_slap_625x300_25_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/on-camera-ex-union-ministers-daughter-slaps-sbi-branch-manager-in-chennai-11821745#publisher=newsstand",
-          "published_at": "Sat, 25 Jul 2026 21:08:26 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LXNpbGljb24tdmFsbGV5",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "Silicon Valley Splits Over Closing the Borders to Chinese A.I.",
-          "summary": "Anthropic and OpenAI are clashing with the rest of the tech industry over whether “open-source” models from China should be freely available or restricted.",
-          "image_url": "https://static01.nyt.com/images/2026/07/24/multimedia/00biz-ai-open-source-china-02-gtqc/00biz-ai-open-source-china-02-gtqc-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html",
-          "published_at": "Sat, 25 Jul 2026 15:36:44 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "bmR0di13aGF0LWlzLWJpdGNo",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "What Is Bitchat? Jack Dorsey's Offline Messaging App Under Spotlight",
-          "summary": "Bitchat is a decentralised peer-to-peer messaging application that allows users to exchange messages without an internet connection, mobile network, servers, phone numbers or email addresses.",
-          "image_url": "https://c.ndtvimg.com/2026-07/8buodmo8_bitchat_625x300_24_July_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/cjp-protest-what-is-bitchat-jack-dorseys-offline-messaging-app-under-spotlight-11819759#publisher=newsstand",
-          "published_at": "Sat, 25 Jul 2026 21:02:53 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5280,22 +5570,6 @@
           ]
         },
         {
-          "id": "bmR0di1wcmFsaGFkLWpvc2hp",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Pralhad Joshi Appointed Education Minister After Dharmendra Pradhan Quits",
-          "summary": "The President's office, after accepting Dharmendra Pradhan's resignation, confirmed Pralhad Joshi's appointment in a communique this evening",
-          "image_url": "https://c.ndtvimg.com/2022-02/i343ph9o_pralhad-joshi_625x300_03_February_22.jpg",
-          "article_url": "https://www.ndtv.com/india-news/pralhad-joshi-gets-additional-charge-of-education-ministry-after-dharmendra-pradhan-resigns-11821626#publisher=newsstand",
-          "published_at": "Sat, 25 Jul 2026 20:45:37 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "dGhldmVyZ2Utc3ludGgtaGlz",
           "source_id": "theverge",
           "source_name": "The Verge",
@@ -5307,38 +5581,6 @@
           "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Oli-Freke-photo.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
           "article_url": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
           "published_at": "2026-07-25T15:15:00.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1kaGFybWVuZHJhLXBy",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Dharmendra Pradhan Resignation Live Updates: Gates Of All Delhi Metro Stations Reopened After CJP Withdraws Protest",
-          "summary": "Dharmendra Pradhan Resignation Live News Updates: CJP spokespersons Saurav Das and Ashutosh Ranka and Union ministers JP Nadda and Jitendra Singh held a joint press conference this evening, following the resignation of Dharmendra Pradhan as Union Education Minister.",
-          "image_url": "https://c.ndtvimg.com/2026-07/kdrpvtck_cjp-presser_625x300_25_July_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/dharmendra-pradhan-resignation-live-updates-education-minister-resigns-over-neet-paper-leak-cjp-protest-news-abhijeet-dipke-jantar-mantar-protest-11820220#publisher=newsstand",
-          "published_at": "Sat, 25 Jul 2026 20:13:57 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1uZXctZWR1Y2F0aW9u",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "New Education Minister Could Be Named As Early As Today Or Tomorrow: Sources",
-          "summary": "Dharmendra Pradhan said he decided to step down as Union Education Minister in order to prevent anti-national forces from exploiting the situation in Jantar Mantar",
-          "image_url": "https://c.ndtvimg.com/2026-07/n17eccn_cjp-protest_625x300_25_July_26.jpeg",
-          "article_url": "https://www.ndtv.com/india-news/new-education-minister-could-be-named-as-early-as-today-or-tomorrow-sources-11821611#publisher=newsstand",
-          "published_at": "Sat, 25 Jul 2026 20:13:57 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5406,215 +5648,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "dGhldmVyZ2Utd2FybmVyLWJy",
-          "source_id": "theverge",
-          "source_name": "The Verge",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Warner Bros. is suing Amazon for poaching employees",
-          "summary": "Warner Bros. Discovery has filed suit against Amazon, accusing it of illegally poaching employees, including Pia Barlow, former senior VP for originals marketing. In the complaint, Warner says that \"Amazon has chosen to ride on the coattails of other well-established Hollywood mainstays,\" and that i",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB374_WARNER_BROS_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "article_url": "https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees",
-          "published_at": "2026-07-25T14:05:12.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iY3RlY2gtZnJvbS1zaWxp",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation",
-          "summary": "Distillation has long been a topic for AI wonks, but it's become a hot-button issue of late as techies and lawmakers debate how it should be regulated.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html",
-          "published_at": "Sat, 25 Jul 2026 14:03:03 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy1mcm9tLXNpbGljb24t",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation",
-          "summary": "Distillation has long been a topic for AI wonks, but it's become a hot-button issue of late as techies and lawmakers debate how it should be regulated.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html",
-          "published_at": "Sat, 25 Jul 2026 14:03:03 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LWZyb20tY2VsZWJyYXRp",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "From Celebration to Escalation: How Trump’s Iran Cease-Fire Collapsed",
-          "summary": "The U.S. deal with Iran signed in June initially appeared to be a success. It didn’t take long to fall apart.",
-          "image_url": "https://static01.nyt.com/images/2026/07/23/multimedia/00dc-strait01a-photo-lpgb/00dc-strait01a-photo-lpgb-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-cease-fire-collapse.html",
-          "published_at": "Sat, 25 Jul 2026 13:58:49 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LXdpbGRmaXJlLXNtb2tl",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Wildfire Smoke Chokes Skies in Spain and France",
-          "summary": "Hundreds of thousands of people, including residents as well as vacationers, were forced to evacuate or told to remain indoors.",
-          "image_url": "https://static01.nyt.com/images/2026/07/25/multimedia/25Int-Europe-Fires-Visual-thlq/25Int-Europe-Fires-Visual-thlq-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html",
-          "published_at": "Sat, 25 Jul 2026 13:44:37 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy1kb2VzLWNyeXB0by1t",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Does crypto make your portfolio less risky? Only if you do it right, experts say",
-          "summary": "There's a right way and a wrong way to use cryptocurrencies such as bitcoin for portfolio diversification, financial advisors and market analysts said.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/07/25/crypto-diversified-investment-portfolio.html",
-          "published_at": "Sat, 25 Jul 2026 13:30:01 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LXFyLWNvZGVzLW1ha2Ut",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "QR Codes Make Their Way Down Wedding Aisles",
-          "summary": "The technology, often associated with pandemic-era menus, is being used by more couples for ease, cost, expedience and sustainability.",
-          "image_url": null,
-          "article_url": "https://www.nytimes.com/2026/07/25/style/wedding-qr-codes.html",
-          "published_at": "Sat, 25 Jul 2026 13:10:29 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1vbmUtZmFs",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-          "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-          "published_at": "Sat, 25 Jul 2026 13:05:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Z3VhcmRpYW4tdGhlLWFpLWpv",
-          "source_id": "guardian",
-          "source_name": "The Guardian",
-          "source_region": "Europe",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "The AI jobs apocalypse probably isn’t coming anytime soon",
-          "summary": "Artificial intelligence  may not deliver on its promise of vast economic opportunity at a price that humanity is willing to pay\nIn March, Anthropic, the cutting-edge artificial intelligence business that gave us the chatbot Claude, published an analysis on the impact of AI on employment, to help us ",
-          "image_url": "https://i.guim.co.uk/img/media/e9dc22d7de9bd5d0f413d80dd7b363bb0c6517cc/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=99d354ad24863c70ca28ff1c7aa27c13",
-          "article_url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-          "published_at": "Sat, 25 Jul 2026 13:00:43 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "bnl0LXdoYXQtdG8ta25vdy1h",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "What to Know About the Wildfires Raging in Western Europe",
-          "summary": "Huge blazes have forced tens of thousands of residents and vacationers in France and Spain to evacuate.",
-          "image_url": "https://static01.nyt.com/images/2026/07/25/multimedia/25int-europe-fires-wtk-mjqc/25int-europe-fires-wtk-mjqc-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/07/25/world/europe/europe-fires-france-spain-what-to-know.html",
-          "published_at": "Sat, 25 Jul 2026 12:53:41 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLXF1YXNoaW5nLW9mLWZp",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Quashing of FIRs, compensation   5-point Charter: What Centre, CJP said in joint press meet",
-          "summary": "The Cockroach Janta Party ended its 36-day protest at Jantar Mantar. This decision followed three rounds of talks with the central government delegation. The government accepted two key demands, including the minister's resignation. All legal cases filed against protesters and organizers will now be",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/firs-against-protesters-to-be-quashed-compensation-to-be-given-5-point-charter-what-centre-cjp-said-in-joint-press-meet/articleshow/132625437.cms",
-          "published_at": "Sat, 25 Jul 2026 17:43:51 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LWlyYW4tam91cm5leS1y",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Iran Journey Reveals Society’s Wartime Defiance and Hope",
-          "summary": "From the capital, Tehran, to the holy city of Mashhad, the Iran I saw was a nation of many layers: defiant but also weary, despairing but hopeful.",
-          "image_url": "https://static01.nyt.com/images/2026/07/25/multimedia/25iran-01-gvkh/25iran-01-gvkh-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/07/25/world/middleeast/what-a-journey-through-wartime-iran-revealed.html",
-          "published_at": "Sat, 25 Jul 2026 12:11:26 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy1hbmFseXNpczotYS1w",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot",
-          "summary": "Evangelicals, labor unions and anti-AI-data-center activists are part of a groundswell worrying about how fast technology is changing.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/07/25/trump-ai-data-center-backlash.html",
-          "published_at": "Sat, 25 Jul 2026 12:00:02 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -5640,7 +5673,7 @@
           "summary": "Anthropic and OpenAI are clashing with the rest of the tech industry over whether “open-source” models from China should be freely available or restricted.",
           "image_url": "https://static01.nyt.com/images/2026/07/24/multimedia/00biz-ai-open-source-china-02-gtqc/00biz-ai-open-source-china-02-gtqc-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html",
-          "published_at": "Sat, 25 Jul 2026 15:36:44 +0000",
+          "published_at": "Sat, 25 Jul 2026 16:47:34 +0000",
           "cross_sections": [
             "tech",
             "ai"
@@ -6139,7 +6172,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 9321,
+    "build_ms": 9666,
     "ai_enabled": true
   }
 }
