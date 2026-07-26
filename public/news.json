@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-26T21:39:14.475Z",
-  "total_articles": 293,
-  "new_this_run": 26,
+  "last_updated": "2026-07-26T22:38:51.308Z",
+  "total_articles": 294,
+  "new_this_run": 13,
   "sources": [
     {
       "id": "techcrunch",
@@ -408,6 +408,22 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "YXJzdGVjaG5pY2EtZmlyc3Qt",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "First teaser for Apple TV's Neuromancer debuts at SDCC",
+          "summary": "Plus Mike Flanagan's Carrie teaser, trailers for Dark Matter S2 and Matchbox the Movie, and Marvel news.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/neuromancer-1152x648.jpg",
+          "article_url": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
+          "published_at": "Sun, 26 Jul 2026 19:48:43 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YXJzdGVjaG5pY2Etc2RjYy10",
           "source_id": "arstechnica",
           "source_name": "Ars Technica",
@@ -513,22 +529,6 @@
           "published_at": "Fri, 24 Jul 2026 21:25:15 +0000",
           "cross_sections": [
             "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtYW50aHJv",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-          "summary": "Models are improving quickly, but the cheaper options are often good enough.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/opus-5-1152x648.jpg",
-          "article_url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
-          "published_at": "Fri, 24 Jul 2026 21:05:51 +0000",
-          "cross_sections": [
             "ai"
           ]
         }
@@ -1289,17 +1289,17 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "bnl0LXRoZS1hY2NpZGVudGFs",
+          "id": "bnl0LW1lZXQtamVmZnJleS1l",
           "source_id": "nyt",
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "The Accidental Hero Who Faced Down India’s Government",
-          "summary": "Abhijeet Dipke founded the Cockroach Janta Party as a joke after a judge insulted young people. The idea snowballed into a generational movement that has challenged the country’s leaders.",
-          "image_url": "https://static01.nyt.com/images/2026/07/26/multimedia/26int-india-protests-dipke-01-ltqv/26int-india-protests-dipke-01-ltqv-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/07/26/world/asia/india-protests-cockroach-janta-party-abhijeet-dipke.html",
-          "published_at": "Sun, 26 Jul 2026 21:12:46 +0000",
+          "feed_label": "Top Stories",
+          "title": "Meet Jeffrey Epstein’s Girlfriend, Who Stands to Inherit Much of His Estate",
+          "summary": "Karyna Shuliak, 37, is a complicated and unusual figure in the disgraced financier’s world who has been trying to blend into obscurity since his death.",
+          "image_url": "https://static01.nyt.com/images/2026/07/26/business/00epstein-girlfriend/00epstein-girlfriend-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/07/26/business/jeffrey-epstein-girlfriend-estate.html",
+          "published_at": "Sun, 26 Jul 2026 22:37:32 +0000",
           "cross_sections": []
         },
         {
@@ -1313,10 +1313,40 @@
           "summary": "Firefighters are tackling fresh blazes while others have been contained, and hundreds of thousands of people have been forced to flee. A new heat wave forecast to hit Europe could make conditions worse.",
           "image_url": "https://static01.nyt.com/images/2026/07/26/multimedia/26euro-fire-400-bqcm/26euro-fire-400-bqcm-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/live/2026/07/26/world/france-spain-wildfires-evacutions",
-          "published_at": "Sun, 26 Jul 2026 20:59:08 +0000",
+          "published_at": "Sun, 26 Jul 2026 22:18:27 +0000",
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "bnl0LWJlcmxpbi1wcmlkZS1l",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
+          "summary": "The confrontation with the suspect in what has been described as a likely act of Islamist terrorism occurred as a large-scale manhunt was underway, the authorities said.",
+          "image_url": "https://static01.nyt.com/images/2026/07/26/multimedia/26int-berlin-attack-kjzb/26int-berlin-attack-kjzb-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
+          "published_at": "Sun, 26 Jul 2026 22:00:25 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LXRoZS1hY2NpZGVudGFs",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "The Accidental Hero Who Faced Down India’s Government",
+          "summary": "Abhijeet Dipke founded the Cockroach Janta Party as a joke after a judge insulted young people. The idea snowballed into a generational movement that has challenged the country’s leaders.",
+          "image_url": "https://static01.nyt.com/images/2026/07/26/multimedia/26int-india-protests-dipke-01-ltqv/26int-india-protests-dipke-01-ltqv-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/07/26/world/asia/india-protests-cockroach-janta-party-abhijeet-dipke.html",
+          "published_at": "Sun, 26 Jul 2026 21:12:46 +0000",
+          "cross_sections": []
         },
         {
           "id": "bnl0LWJlcmxpbi1wcmlkZS1h",
@@ -1335,50 +1365,20 @@
           ]
         },
         {
-          "id": "bnl0LWJlcmxpbi1wcmlkZS1l",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
-          "summary": "The confrontation with the suspect in what has been described as a likely act of Islamist terrorism occurred as a large-scale manhunt was underway, the authorities said.",
-          "image_url": "https://static01.nyt.com/images/2026/07/26/multimedia/26int-berlin-attack-kjzb/26int-berlin-attack-kjzb-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
-          "published_at": "Sun, 26 Jul 2026 19:07:03 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LXRydW1wLWlzLXB1c2hp",
+          "id": "bnl0LWluc2lkZS10aGUtcGhv",
           "source_id": "nyt",
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Trump Is Pushing Nuclear Energy, Including Saudi Deal. His Family and Supporters Could Benefit.",
-          "summary": "In some cases, no direct line can be drawn from the president’s domestic nuclear agenda to his family or close allies. But they have overlapping business ties that could position them for gains.",
-          "image_url": "https://static01.nyt.com/images/2026/07/24/us/dc-nucleartrump-1/dc-nucleartrump-1-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/07/26/us/politics/trump-nuclear-energy-agenda-saudi-deal.html",
-          "published_at": "Sun, 26 Jul 2026 17:47:40 +0000",
+          "title": "Inside the Phone-Throwing Drama at the Troubled, Broke Democratic Party",
+          "summary": "The Democrats should be well positioned to make gains in this year’s midterms. But inside party headquarters, every week brings paranoia, worries about money and, on occasion, emotional eruptions.",
+          "image_url": "https://static01.nyt.com/images/2026/07/26/multimedia/26pol-dnc-chaos-lqjm/26pol-dnc-chaos-lqjm-mediumSquareAt3X-v2.jpg",
+          "article_url": "https://www.nytimes.com/2026/07/26/us/politics/ken-martin-dnc-democrats.html",
+          "published_at": "Sun, 26 Jul 2026 17:31:21 +0000",
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "bnl0LXdoeS01MjktYWNjb3Vu",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Why 529 Accounts Make More Sense for Investing Than Trump Accounts",
-          "summary": "Most young children should have a Trump account. But that doesn’t mean families should prioritize saving in them.",
-          "image_url": "https://static01.nyt.com/images/2026/07/26/business/26Biz-Trump-Accounts/26Biz-Trump-Accounts-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/07/26/your-money/trump-accounts-529s-investing.html",
-          "published_at": "Sun, 26 Jul 2026 16:44:56 +0000",
-          "cross_sections": []
         },
         {
           "id": "bnl0LWUudS4tZGl2aWRlZC1v",
@@ -1386,7 +1386,7 @@
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "E.U. Divided Over Barring Imports From Israeli Settlements",
           "summary": "The discussion about restricting goods from Israeli settlements in occupied territories reflects a European split over whether and how to confront Israel.",
           "image_url": "https://static01.nyt.com/images/2026/07/15/multimedia/00int-EU-settlements-exports01-photo-pkqw/00int-EU-settlements-exports01-photo-pkqw-mediumSquareAt3X.jpg",
@@ -1419,7 +1419,7 @@
           "feed_label": "Top Stories",
           "title": "Employers Fear Labor Shortage as Many Immigrants Lose Protected Status",
           "summary": "A recent Supreme Court ruling cleared the way for the Trump administration to end a humanitarian program that has allowed about one million immigrants to work legally in the U.S.",
-          "image_url": "https://static01.nyt.com/images/2026/07/26/multimedia/26nat-immig-tps-2-zgjl/26nat-immig-tps-2-zgjl-mediumSquareAt3X.jpg",
+          "image_url": "https://static01.nyt.com/images/2026/07/26/multimedia/26nat-immig-tps-2-zgjl/26nat-immig-tps-2-zgjl-mediumSquareAt3X-v2.jpg",
           "article_url": "https://www.nytimes.com/2026/07/26/us/trump-tps-labor-shortage.html",
           "published_at": "Sun, 26 Jul 2026 16:10:07 +0000",
           "cross_sections": []
@@ -1453,22 +1453,6 @@
           "cross_sections": []
         },
         {
-          "id": "bnl0LXRydW1wLWhvbGRzLW9m",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Trump Holds Off on Major War Escalation Against Iran as Advisers Raise Concerns",
-          "summary": "Among the worries is that expanded hostilities could dangerously drain the diminished stockpile of air defense munitions in the Middle East.",
-          "image_url": "https://static01.nyt.com/images/2026/07/22/multimedia/22mideast-live-header-wchq/22mideast-live-header-wchq-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html",
-          "published_at": "Sun, 26 Jul 2026 13:57:39 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bnl0LXUucy4taXJhbi13YXIt",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1485,6 +1469,20 @@
           ]
         },
         {
+          "id": "bnl0LXdoYXQtdG8ta25vdy1h",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "What to Know About Iran and the Houthis",
+          "summary": "The Yemeni militant group opened a new front in the conflict between its backer, Tehran, and Washington, by announcing a blockade on Saudi shipping in a strategic waterway and attacking vessels.",
+          "image_url": "https://static01.nyt.com/images/2026/07/23/multimedia/23mideast-live-iran-houthis-topart1-vktp/23mideast-live-iran-houthis-topart1-vktp-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/07/23/world/middleeast/what-to-know-iran-houthis.html",
+          "published_at": "Sun, 26 Jul 2026 12:23:34 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "bnl0LXdoeS10aWt0b2vigJlz",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1499,6 +1497,20 @@
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "bnl0LXRoZS1iaWctcXVlc3Rp",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "The Big Questions About Jeffrey Epstein: What The Times Has Learned",
+          "summary": "Here is what we know about the sexual predator whose secrets spurred an international reckoning over money, power and complicity. Check back for updates.",
+          "image_url": null,
+          "article_url": "https://www.nytimes.com/article/jeffrey-epstein-sex-abuse-times-investigations.html",
+          "published_at": "Sun, 26 Jul 2026 09:05:12 +0000",
+          "cross_sections": []
         },
         {
           "id": "bnl0LWEtc29uLW9mLXdlYWx0",
@@ -1647,7 +1659,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-07-26T21:39:05.942Z",
+          "published_at": "2026-07-26T22:38:42.570Z",
           "cross_sections": []
         },
         {
@@ -1661,7 +1673,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-07-26T21:39:05.942Z",
+          "published_at": "2026-07-26T22:38:42.570Z",
           "cross_sections": []
         },
         {
@@ -1675,7 +1687,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-07-26T21:39:05.942Z",
+          "published_at": "2026-07-26T22:38:42.570Z",
           "cross_sections": []
         },
         {
@@ -2003,22 +2015,6 @@
           ]
         },
         {
-          "id": "Y25iYy1pbnNpZGUtdGhlLXMm",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Inside the S&P 500 AI boom, industrials are getting as rich as tech stocks",
-          "summary": "The industrials sector of the stock market is benefitting from the AI infrastructure boom with its P/E ratio up close to tech levels and investor flows strong.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/07/26/best-ai-stocks-market-sp500.html",
-          "published_at": "Sun, 26 Jul 2026 14:12:20 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "Y25iYy1ob3ctYWktd2VhbHRo",
           "source_id": "cnbc",
           "source_name": "CNBC",
@@ -2077,6 +2073,22 @@
           "article_url": "https://www.cnbc.com/2026/07/26/cocoa-prices-chocolate-lindt-barry-callebaut-nestle.html",
           "published_at": "Sun, 26 Jul 2026 05:00:01 GMT",
           "cross_sections": []
+        },
+        {
+          "id": "Y25iYy1idWZmZXR0LWZhdm9y",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Buffett favors an estate tax, but like virtually all billionaires, he won't be paying it",
+          "summary": "Warren Buffett believes he and other very wealthy Americans are under-taxed but by giving his fortune to charity, he won't be paying billions in potential levies to the government.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/07/25/buffett-favors-an-estate-tax-but-like-virtually-all-billionaires-he-wont-be-paying-it.html",
+          "published_at": "Sat, 25 Jul 2026 12:28:33 GMT",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
           "id": "Y25iYy1hbmFseXNpczotYS1w",
@@ -2246,6 +2258,20 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "Zm94LWV1cm9wZS13aWxsLW9u",
+          "source_id": "fox",
+          "source_name": "Fox News",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Europe will one day thank Trump for 'shaking' it out of its 'complacency': UK defense chief",
+          "summary": "Wes Streeting says Europe will ultimately thank President Trump for forcing NATO allies to end their overreliance on the U.S. for defense and security.",
+          "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Wes-Streeting-UK-Defense.jpg?ve=1&tl=1",
+          "article_url": "https://www.foxnews.com/world/europe-one-day-thank-trump-shaking-out-its-complacency-uk-defense-chief",
+          "published_at": "Sun, 26 Jul 2026 18:11:38 -0400",
+          "cross_sections": []
+        },
+        {
           "id": "Zm94LXRvcm9udG8tcG9saWNl",
           "source_id": "fox",
           "source_name": "Fox News",
@@ -2395,22 +2421,6 @@
           "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/f-16-nato.jpg?ve=1&tl=1",
           "article_url": "https://www.foxnews.com/world/romanian-f-16-shoots-down-drone-after-airspace-breach-marking-first-nato-ally",
           "published_at": "Fri, 24 Jul 2026 11:42:02 -0400",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Zm94LWNvdWxkLXRoaXMtYWZy",
-          "source_id": "fox",
-          "source_name": "Fox News",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Could this African nation become Trump's next terror target as jihadists close in on power?",
-          "summary": "Mali's gold and lithium deposits add a minerals dimension as Trump's team reportedly weighs strikes against al Qaeda-linked terrorists in the Sahel.",
-          "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/mali-military.jpg?ve=1&tl=1",
-          "article_url": "https://www.foxnews.com/world/could-african-nation-become-trumps-next-terror-target-jihadists-close-power",
-          "published_at": "Fri, 24 Jul 2026 11:00:59 -0400",
           "cross_sections": [
             "tech"
           ]
@@ -2580,6 +2590,20 @@
           "cross_sections": []
         },
         {
+          "id": "YmJjLXBvZ2FjYXItd2lucy1m",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Pogacar wins fifth Tour as Van der Poel takes stage",
+          "summary": "Slovenian Tadej Pogacar wins the Tour de France for a record-equalling fifth time.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a1a/live/facdf870-891f-11f1-ba41-9bff51dd5d72.jpg",
+          "article_url": "https://www.bbc.co.uk/sport/cycling/articles/c07r8d4d2z5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 26 Jul 2026 19:43:56 GMT",
+          "cross_sections": []
+        },
+        {
           "id": "YmJjLWJlcmxpbi1wcmlkZS1h",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2608,20 +2632,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YmJjLWFuZHktYnVybmhhbS1y",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Andy Burnham rules out early election in exclusive BBC interview",
-          "summary": "The new prime minister told Laura Kuenssberg that people \"voted for a manifesto\" that he would honour, when pressed on whether there will be an early general election.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/580c/live/d4fb7700-885a-11f1-b2ab-0dd01740f9f6.jpg",
-          "article_url": "https://www.bbc.co.uk/news/videos/c935kzyq6r4o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 26 Jul 2026 05:00:56 GMT",
-          "cross_sections": []
         },
         {
           "id": "YmJjLWJ1cm5oYW0tc2F5cy1o",
@@ -3487,20 +3497,32 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dG9pLWRpZC15b3UtYXBwcm92",
+          "id": "dG9pLWF0LW5vLXBvaW50LWRp",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Did you approve lethal force, pellet guns: Rahul Gandhi targets Amit Shah",
-          "summary": "",
+          "title": "At no point did government stop students from protesting: Nirmala Sitharaman",
+          "summary": "The government allowed student protests and focused on conducting the NEET re-examination promptly.  Culprits involved in paper leaks were arrested and brought before the judicial process.  A timely re-examination prevented a year's academic disruption for students.  Education Minister Dharmendra Pr",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/did-you-approve-lethal-force-pellet-guns-rahul-gandhi-to-amit-shah-bill-in-lok-sabha-today/articleshow/132648159.cms",
-          "published_at": "Mon, 27 Jul 2026 03:00:18 +0530",
-          "cross_sections": [
-            "tech"
-          ]
+          "article_url": "https://timesofindia.indiatimes.com/india/at-no-point-did-government-stop-students-from-protesting-nirmala-sitharaman/articleshow/132649820.cms",
+          "published_at": "Mon, 27 Jul 2026 03:50:01 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dG9pLWluZGlhLXNhdy1tb3Jl",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "India saw more than 5,000 child adoptions last year, highest in a decade",
+          "summary": "India saw a record 5,022 children adopted between April 2025 and March 2026. Domestic adoptions accounted for 4,603 children, while inter-country adoptions numbered 419. Special needs children adoption increased by twenty-five percent, reaching 392 last year. Adoptions of girls also rose by eight pe",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/india-saw-more-than-5000-adoptions-last-year-highest-in-a-decade/articleshow/132648316.cms",
+          "published_at": "Mon, 27 Jul 2026 03:15:45 +0530",
+          "cross_sections": []
         },
         {
           "id": "dG9pLWNqcCdzLXdpbi1mdWVs",
@@ -3575,20 +3597,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "dG9pLWZyb20tY2hpdGEtYW5k",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "From Chita Andolan to Jal Satyagrahas: Why the Ken-Betwa project has upset MP tribals",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/from-chita-andolan-to-jal-satyagrahas-why-the-ken-betwa-project-has-upset-mp-tribals/articleshow/132640634.cms",
-          "published_at": "Sun, 26 Jul 2026 17:29:56 +0530",
-          "cross_sections": []
         },
         {
           "id": "dG9pLXNlcmdleS1icmluLXNh",
@@ -3852,17 +3860,33 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dGhlaGluZHUtdS5zLi1hcHBl",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "U.S. appeals court upholds injunction that blocks Trump's order to create federal voter list",
+          "summary": "Donald Trump issued an executive order for the director of U.S. Citizenship and Immigration Services and the commissioner of the Social Security Administration to create a “state citizenship list” of eligible voters",
+          "image_url": "https://th-i.thgim.com/public/incoming/rl4rmt/article71270631.ece/alternates/LANDSCAPE_1200/iStock-1398821800.jpg",
+          "article_url": "https://www.thehindu.com/news/international/us-appeals-court-upholds-injunction-that-blocks-trumps-order-to-create-federal-voter-list/article71270630.ece",
+          "published_at": "Mon, 27 Jul 2026 03:54:48 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dGhlaGluZHUtc2VhcmNoLWZv",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Search for 17 missing crew after c",
+          "title": "Search for 17 missing crew after Vietnamese cargo ship sinks in South China Sea",
           "summary": "A search is underway for 17 people missing after a Vietnamese cargo ship carrying 62 people sank in bad weather in the disputed South China Sea",
           "image_url": "https://th-i.thgim.com/public/incoming/uzod9q/article71270515.ece/alternates/LANDSCAPE_1200/iStock-2232664613.jpg",
-          "article_url": "https://www.thehindu.com/news/international/search-for-17-missing-crew-after-c/article71270513.ece",
-          "published_at": "Mon, 27 Jul 2026 02:36:26 +0530",
+          "article_url": "https://www.thehindu.com/news/international/vietnamese-cargo-ship-sinks-in-south-china-sea/article71270513.ece",
+          "published_at": "Mon, 27 Jul 2026 03:43:56 +0530",
           "cross_sections": []
         },
         {
@@ -3947,22 +3971,6 @@
           "image_url": "https://th-i.thgim.com/public/incoming/wq3ret/article71269917.ece/alternates/LANDSCAPE_1200/11073_26_7_2026_19_10_2_1_27TVKZ1_DOG.JPEG",
           "article_url": "https://www.thehindu.com/news/national/kerala/finding-land-biggest-challenge-for-kozhikode-corporations-stray-dog-shelter-project/article71269623.ece",
           "published_at": "Mon, 27 Jul 2026 01:26:23 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtcmJpLXNlZXMt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "RBI sees rupee as undervalued; FCNR(B) inflows cross $32 billion",
-          "summary": "RBI Governor Sanjay Malhotra says inflation control remains the foremost priority; FCNR(B) deposits and foreign investment in government securities have strengthened India’s external position",
-          "image_url": "https://th-i.thgim.com/public/incoming/tu7mmn/article71270303.ece/alternates/LANDSCAPE_1200/BL27_Sanjay_Malhotra_RBI_Governer_12.jpg",
-          "article_url": "https://www.thehindu.com/business/Economy/rbi-sees-rupee-as-undervalued-fcnrb-inflows-cross-32-billion/article71270121.ece",
-          "published_at": "Mon, 27 Jul 2026 01:20:30 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4435,6 +4443,38 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YWxqYXplZXJhLXRydW1w4oCZ",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Trump’s border czar probes possible vetting failures after ICE shooting",
+          "summary": "ICE officer under review for alleged mental health struggles, violent behavior amid deadly shooting case in Maine.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/7/26/trumps-border-czar-suggests-vetting-failures-after-deadly-ice-shooting?traffic_source=rss",
+          "published_at": "Sun, 26 Jul 2026 21:59:53 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXdoYXTigJlz",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "What’s causing the unprecedented wildfires in Europe?",
+          "summary": "France and Spain have deployed thousands of firefighters, and neighbouring countries have sent help.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/inside-story/2026/7/26/whats-causing-the-unprecedented-wildfires-in-europe?traffic_source=rss",
+          "published_at": "Sun, 26 Jul 2026 21:17:57 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YWxqYXplZXJhLWlzcmFlbGkt",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
@@ -4523,36 +4563,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YWxqYXplZXJhLWFsLXNoYXJh",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Al-Sharaa outlines Syria’s approach to security with Israel and Lebanon",
-          "summary": "Syrian President Ahmed al-Sharaa said Damascus is working towards a security agreement with Israel.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-outlines-syrias-approach-to-security-with-israel-and-lebanon?traffic_source=rss",
-          "published_at": "Sun, 26 Jul 2026 19:27:57 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLTQ2LXBlb3Bs",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "46 people rescued from sunken ship in South China Sea",
-          "summary": "Footage shows rescuers pulling survivors from a Vietnamese vessel that sank in the South China Sea.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/46-people-rescued-from-sunken-ship-in-south-china-sea?traffic_source=rss",
-          "published_at": "Sun, 26 Jul 2026 19:22:45 +0000",
-          "cross_sections": []
         }
       ]
     },
@@ -4755,7 +4765,7 @@
         {
           "id": "nyt",
           "name": "The New York Times",
-          "count": 22
+          "count": 23
         },
         {
           "id": "cnn",
@@ -4853,6 +4863,70 @@
       "icon": "💻",
       "articles": [
         {
+          "id": "dGhlaGluZHUtdS5zLi1hcHBl",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "U.S. appeals court upholds injunction that blocks Trump's order to create federal voter list",
+          "summary": "Donald Trump issued an executive order for the director of U.S. Citizenship and Immigration Services and the commissioner of the Social Security Administration to create a “state citizenship list” of eligible voters",
+          "image_url": "https://th-i.thgim.com/public/incoming/rl4rmt/article71270631.ece/alternates/LANDSCAPE_1200/iStock-1398821800.jpg",
+          "article_url": "https://www.thehindu.com/news/international/us-appeals-court-upholds-injunction-that-blocks-trumps-order-to-create-federal-voter-list/article71270630.ece",
+          "published_at": "Mon, 27 Jul 2026 03:54:48 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LWV4dHJlbWUtaGVhdC1h",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "Extreme Heat and Strong Winds Fuel New Wildfires in France and Spain",
+          "summary": "Firefighters are tackling fresh blazes while others have been contained, and hundreds of thousands of people have been forced to flee. A new heat wave forecast to hit Europe could make conditions worse.",
+          "image_url": "https://static01.nyt.com/images/2026/07/26/multimedia/26euro-fire-400-bqcm/26euro-fire-400-bqcm-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/live/2026/07/26/world/france-spain-wildfires-evacutions",
+          "published_at": "Sun, 26 Jul 2026 22:18:27 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LWJlcmxpbi1wcmlkZS1l",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
+          "summary": "The confrontation with the suspect in what has been described as a likely act of Islamist terrorism occurred as a large-scale manhunt was underway, the authorities said.",
+          "image_url": "https://static01.nyt.com/images/2026/07/26/multimedia/26int-berlin-attack-kjzb/26int-berlin-attack-kjzb-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
+          "published_at": "Sun, 26 Jul 2026 22:00:25 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXRydW1w4oCZ",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Trump’s border czar probes possible vetting failures after ICE shooting",
+          "summary": "ICE officer under review for alleged mental health struggles, violent behavior amid deadly shooting case in Maine.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/7/26/trumps-border-czar-suggests-vetting-failures-after-deadly-ice-shooting?traffic_source=rss",
+          "published_at": "Sun, 26 Jul 2026 21:59:53 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YmJjLXBtLXBsZWRnZXMtY29u",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -4869,17 +4943,17 @@
           ]
         },
         {
-          "id": "dG9pLWRpZC15b3UtYXBwcm92",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Did you approve lethal force, pellet guns: Rahul Gandhi targets Amit Shah",
-          "summary": "",
+          "id": "YWxqYXplZXJhLXdoYXTigJlz",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "What’s causing the unprecedented wildfires in Europe?",
+          "summary": "France and Spain have deployed thousands of firefighters, and neighbouring countries have sent help.",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/did-you-approve-lethal-force-pellet-guns-rahul-gandhi-to-amit-shah-bill-in-lok-sabha-today/articleshow/132648159.cms",
-          "published_at": "Mon, 27 Jul 2026 03:00:18 +0530",
+          "article_url": "https://www.aljazeera.com/video/inside-story/2026/7/26/whats-causing-the-unprecedented-wildfires-in-europe?traffic_source=rss",
+          "published_at": "Sun, 26 Jul 2026 21:17:57 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -4949,22 +5023,6 @@
           ]
         },
         {
-          "id": "bnl0LWV4dHJlbWUtaGVhdC1h",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Extreme Heat and Strong Winds Fuel New Wildfires in France and Spain",
-          "summary": "Firefighters are tackling fresh blazes while others have been contained, and hundreds of thousands of people have been forced to flee. A new heat wave forecast to hit Europe could make conditions worse.",
-          "image_url": "https://static01.nyt.com/images/2026/07/26/multimedia/26euro-fire-400-bqcm/26euro-fire-400-bqcm-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/live/2026/07/26/world/france-spain-wildfires-evacutions",
-          "published_at": "Sun, 26 Jul 2026 20:59:08 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "YWxqYXplZXJhLWhvdXRoaXMt",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
@@ -5029,17 +5087,17 @@
           ]
         },
         {
-          "id": "dGhlaGluZHUtcmJpLXNlZXMt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
+          "id": "YXJzdGVjaG5pY2EtZmlyc3Qt",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
           "feed_label": "Latest",
-          "title": "RBI sees rupee as undervalued; FCNR(B) inflows cross $32 billion",
-          "summary": "RBI Governor Sanjay Malhotra says inflation control remains the foremost priority; FCNR(B) deposits and foreign investment in government securities have strengthened India’s external position",
-          "image_url": "https://th-i.thgim.com/public/incoming/tu7mmn/article71270303.ece/alternates/LANDSCAPE_1200/BL27_Sanjay_Malhotra_RBI_Governer_12.jpg",
-          "article_url": "https://www.thehindu.com/business/Economy/rbi-sees-rupee-as-undervalued-fcnrb-inflows-cross-32-billion/article71270121.ece",
-          "published_at": "Mon, 27 Jul 2026 01:20:30 +0530",
+          "title": "First teaser for Apple TV's Neuromancer debuts at SDCC",
+          "summary": "Plus Mike Flanagan's Carrie teaser, trailers for Dark Matter S2 and Matchbox the Movie, and Marvel news.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/neuromancer-1152x648.jpg",
+          "article_url": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
+          "published_at": "Sun, 26 Jul 2026 19:48:43 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5109,22 +5167,6 @@
           ]
         },
         {
-          "id": "YWxqYXplZXJhLWFsLXNoYXJh",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Al-Sharaa outlines Syria’s approach to security with Israel and Lebanon",
-          "summary": "Syrian President Ahmed al-Sharaa said Damascus is working towards a security agreement with Israel.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-outlines-syrias-approach-to-security-with-israel-and-lebanon?traffic_source=rss",
-          "published_at": "Sun, 26 Jul 2026 19:27:57 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bnl0LWJlcmxpbi1wcmlkZS1h",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -5136,22 +5178,6 @@
           "image_url": "https://static01.nyt.com/images/2026/07/26/multimedia/26xp-berlin-wwk1-qhbw/26xp-berlin-wwk1-qhbw-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
           "published_at": "Sun, 26 Jul 2026 19:10:51 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LWJlcmxpbi1wcmlkZS1l",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
-          "summary": "The confrontation with the suspect in what has been described as a likely act of Islamist terrorism occurred as a large-scale manhunt was underway, the authorities said.",
-          "image_url": "https://static01.nyt.com/images/2026/07/26/multimedia/26int-berlin-attack-kjzb/26int-berlin-attack-kjzb-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
-          "published_at": "Sun, 26 Jul 2026 19:07:03 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5317,17 +5343,17 @@
           ]
         },
         {
-          "id": "bnl0LXRydW1wLWlzLXB1c2hp",
+          "id": "bnl0LWluc2lkZS10aGUtcGhv",
           "source_id": "nyt",
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Trump Is Pushing Nuclear Energy, Including Saudi Deal. His Family and Supporters Could Benefit.",
-          "summary": "In some cases, no direct line can be drawn from the president’s domestic nuclear agenda to his family or close allies. But they have overlapping business ties that could position them for gains.",
-          "image_url": "https://static01.nyt.com/images/2026/07/24/us/dc-nucleartrump-1/dc-nucleartrump-1-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/07/26/us/politics/trump-nuclear-energy-agenda-saudi-deal.html",
-          "published_at": "Sun, 26 Jul 2026 17:47:40 +0000",
+          "title": "Inside the Phone-Throwing Drama at the Troubled, Broke Democratic Party",
+          "summary": "The Democrats should be well positioned to make gains in this year’s midterms. But inside party headquarters, every week brings paranoia, worries about money and, on occasion, emotional eruptions.",
+          "image_url": "https://static01.nyt.com/images/2026/07/26/multimedia/26pol-dnc-chaos-lqjm/26pol-dnc-chaos-lqjm-mediumSquareAt3X-v2.jpg",
+          "article_url": "https://www.nytimes.com/2026/07/26/us/politics/ken-martin-dnc-democrats.html",
+          "published_at": "Sun, 26 Jul 2026 17:31:21 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5473,22 +5499,6 @@
           "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/berlin-attack-display.jpg?ve=1&tl=1",
           "article_url": "https://www.foxnews.com/world/berlin-pride-attack-believed-act-islamic-terror-suspect-run-german-minister",
           "published_at": "Sun, 26 Jul 2026 11:20:50 -0400",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXR0ZWNoLXNoZWluLWZsYWdz",
-          "source_id": "ettech",
-          "source_name": "ETtech",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Shein flags tariff hits after posting quarterly loss ahead of Hong Kong IPO",
-          "summary": "The retailer won approval from the ​China Securities Regulatory Commission ⁠for its ‌Hong Kong listing on ​July ​10, clearing the way for ⁠a listing after failed attempts in ​New York and London.",
-          "image_url": null,
-          "article_url": "https://economictimes.indiatimes.com/tech/technology/shein-reveals-key-financials-ahead-of-hong-kong-ipo/articleshow/132643567.cms",
-          "published_at": "Sun, 26 Jul 2026 20:45:23 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5724,22 +5734,6 @@
           "published_at": "Fri, 24 Jul 2026 21:25:15 +0000",
           "cross_sections": [
             "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtYW50aHJv",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-          "summary": "Models are improving quickly, but the cheaper options are often good enough.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/opus-5-1152x648.jpg",
-          "article_url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
-          "published_at": "Fri, 24 Jul 2026 21:05:51 +0000",
-          "cross_sections": [
             "ai"
           ]
         },
@@ -5983,7 +5977,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 9852,
+    "build_ms": 10091,
     "ai_enabled": true
   }
 }
