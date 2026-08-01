@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-01T19:50:52.190Z",
-  "total_articles": 303,
-  "new_this_run": 23,
+  "last_updated": "2026-08-01T20:38:36.467Z",
+  "total_articles": 314,
+  "new_this_run": 37,
   "sources": [
     {
       "id": "techcrunch",
@@ -9,6 +9,22 @@
       "region": "IT Focus",
       "category": "Tech Media",
       "articles": [
+        {
+          "id": "dGVjaGNydW5jaC1qdWRnZS1k",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+          "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+          "published_at": "Sat, 01 Aug 2026 20:26:04 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "dGVjaGNydW5jaC15b3V0dWJl",
           "source_id": "techcrunch",
@@ -119,23 +135,6 @@
           "published_at": "Sat, 01 Aug 2026 13:36:54 +0000",
           "cross_sections": [
             "tech"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1vcGVuYWkt",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-          "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-          "published_at": "Fri, 31 Jul 2026 22:47:26 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
           ]
         }
       ]
@@ -1429,20 +1428,50 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "bnl0LWluLWRyb3BwaW5nLXJl",
+          "id": "bnl0LWlyYW4tcGxvdHRlZC13",
           "source_id": "nyt",
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath",
-          "summary": "Jeanine Pirro, the U.S. attorney in Washington, blamed shoddy construction, contradicting President Trump’s pet theory. Mr. Trump said he disagreed “100%” with her.",
-          "image_url": "https://static01.nyt.com/images/2026/08/01/multimedia/01DC-PIRRO-POOL-1-qbhg/01DC-PIRRO-POOL-1-qbhg-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html",
-          "published_at": "Sat, 01 Aug 2026 19:16:49 +0000",
+          "title": "Iran Plotted Wider War With Help of Its Proxies",
+          "summary": "During a fleeting truce, Iranians covertly devised a plan to raise the war’s costs for President Trump if U.S. forces attacked anew.",
+          "image_url": "https://static01.nyt.com/images/2026/08/02/multimedia/02int-Iran-Proxies-wkpm/02int-Iran-Proxies-wkpm-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html",
+          "published_at": "Sat, 01 Aug 2026 20:26:35 +0000",
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "bnl0LXRydW1wLWNhbGxzLWZv",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight",
+          "summary": "The president vowed to push for the payout fund if Senate Republicans fail to confirm Todd Blanche as attorney general, reigniting a dispute over the settlement.",
+          "image_url": "https://static01.nyt.com/images/2026/08/01/multimedia/01xp-fund-mgcj/01xp-fund-mgcj-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/01/us/politics/trump-todd-blanche-weaponization-payouts.html",
+          "published_at": "Sat, 01 Aug 2026 20:14:09 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LWlzcmFlbC1zYXlzLWl0",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
+          "summary": "The confrontation, over a strategic ridge in southern Lebanon, challenged a fragile cease-fire between Israel and the Iran-backed militant group.",
+          "image_url": "https://static01.nyt.com/images/2026/08/01/multimedia/01int-israel-lebanon-zqwt/01int-israel-lebanon-zqwt-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
+          "published_at": "Sat, 01 Aug 2026 20:14:08 +0000",
+          "cross_sections": []
         },
         {
           "id": "bnl0LW5pcm1hbC1wdXJqYSwt",
@@ -1455,23 +1484,53 @@
           "summary": "The British-Nepali mountaineer was one of 10 climbers who were struck by an avalanche on Thursday on Broad Peak, one of the world’s highest mountains.",
           "image_url": "https://static01.nyt.com/images/2026/08/01/multimedia/00xp-purja-HFO-1-hkfj/00xp-purja-HFO-1-hkfj-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/01/world/asia/nirmal-purja-dead-pakistan-avalanche.html",
-          "published_at": "Sat, 01 Aug 2026 18:47:13 +0000",
+          "published_at": "Sat, 01 Aug 2026 19:59:09 +0000",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "bnl0LWlyYW4tcGxvdHRlZC13",
+          "id": "bnl0LXNjb3BlLW9mLWhhY2tz",
           "source_id": "nyt",
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Iran Plotted Wider War With Help of Its Proxies",
-          "summary": "During a fleeting truce, Iranians covertly devised a plan to raise the war’s costs for President Trump if U.S. forces attacked anew.",
-          "image_url": "https://static01.nyt.com/images/2026/08/02/multimedia/02int-Iran-Proxies-wkpm/02int-Iran-Proxies-wkpm-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html",
-          "published_at": "Sat, 01 Aug 2026 16:42:34 +0000",
+          "title": "Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran",
+          "summary": "Michigan and Minnesota are among at least seven states coping with cyberattacks aimed at disrupting water systems nationwide.",
+          "image_url": "https://static01.nyt.com/images/2026/08/01/multimedia/01dc-cyberattack-topart-fgpz/01dc-cyberattack-topart-fgpz-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html",
+          "published_at": "Sat, 01 Aug 2026 19:54:48 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LXRpbWVsaW5lLW9mLXRy",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Timeline of Trump’s Lincoln Memorial Reflecting Pool Renovation Saga",
+          "summary": "President Trump vowed to restore the Reflecting Pool, a defining feature of Washington. Months later, it is empty and closed to the public.",
+          "image_url": "https://static01.nyt.com/images/2026/08/01/multimedia/01nat-reflecting-pool-timeline-topart-pqbf/01nat-reflecting-pool-timeline-topart-pqbf-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/01/us/reflecting-pool-trump-timeline.html",
+          "published_at": "Sat, 01 Aug 2026 19:52:51 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LWluLWRyb3BwaW5nLXJl",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath",
+          "summary": "Jeanine Pirro, the U.S. attorney in Washington, blamed shoddy construction, contradicting President Trump’s pet theory. Mr. Trump said he disagreed “100%” with her.",
+          "image_url": "https://static01.nyt.com/images/2026/08/01/multimedia/01DC-PIRRO-POOL-1-qbhg/01DC-PIRRO-POOL-1-qbhg-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html",
+          "published_at": "Sat, 01 Aug 2026 19:16:49 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -1514,44 +1573,12 @@
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
           "summary": "Most of those who came to the territory, a Spanish exclave in Africa, have returned across the border to Morocco. At least 67 people died trying to enter, the authorities said.",
           "image_url": "https://static01.nyt.com/images/2026/08/01/multimedia/01int-spain-ceuta-01-sub-lgtz/01int-spain-ceuta-01-sub-lgtz-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html",
           "published_at": "Sat, 01 Aug 2026 15:28:36 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LXNoZS12b3RlZC1mb3It",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "She Voted for a Justice Who Overturned Roe. Now it Haunts Her on the Trail.",
-          "summary": "Senator Susan Collins, who supports abortion rights, endorsed Brett Kavanaugh’s nomination for the Supreme Court. It has emerged as a major issue in her campaign for re-election.",
-          "image_url": "https://static01.nyt.com/images/2026/08/01/multimedia/01pol-collins-court-top-hwcv/01pol-collins-court-top-hwcv-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/01/us/politics/collins-kavanaugh-vote-roe-v-wade.html",
-          "published_at": "Sat, 01 Aug 2026 15:24:45 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LXNjb3BlLW9mLWhhY2tz",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran",
-          "summary": "Michigan and Minnesota are among at least seven states coping with cyberattacks aimed at disrupting water systems nationwide.",
-          "image_url": "https://static01.nyt.com/images/2026/08/01/multimedia/01dc-cyberattack-topart-fgpz/01dc-cyberattack-topart-fgpz-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html",
-          "published_at": "Sat, 01 Aug 2026 14:46:38 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -1567,7 +1594,7 @@
           "summary": "With none of President Trump’s aims accomplished and the Strait of Hormuz closed, U.S. allies see dysfunction and vulnerability from the war.",
           "image_url": "https://static01.nyt.com/images/2026/08/01/multimedia/01int-iran-defeat-assess-cwph/01int-iran-defeat-assess-cwph-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html",
-          "published_at": "Sat, 01 Aug 2026 14:46:19 +0000",
+          "published_at": "Sat, 01 Aug 2026 14:46:20 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -1608,7 +1635,7 @@
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Kuwait Says It Downed Iranian Drones as Mideast Braces for Possible Escalation",
           "summary": "The wave of strikes came as President Trump threatened to intensify the American campaign against Iran. U.S. embassies in the region warned of the “potential for unforeseen escalation.”",
           "image_url": "https://static01.nyt.com/images/2026/07/31/multimedia/01int-iran-strikes-placeholder/31mideast-blog-placeholder-01-lcpz-mediumSquareAt3X.jpg",
@@ -1779,7 +1806,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-08-01T19:50:44.142Z",
+          "published_at": "2026-08-01T20:38:28.143Z",
           "cross_sections": []
         },
         {
@@ -1793,7 +1820,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-08-01T19:50:44.142Z",
+          "published_at": "2026-08-01T20:38:28.143Z",
           "cross_sections": []
         },
         {
@@ -1807,7 +1834,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-08-01T19:50:44.142Z",
+          "published_at": "2026-08-01T20:38:28.143Z",
           "cross_sections": []
         },
         {
@@ -2119,6 +2146,20 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "Y25iYy1nb2xkbWFuLXRyYWRl",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
+          "summary": "In a new interview with CNBC, a Goldman exec breaks down what's driving stocks, where markets are headed, and how the bank’s equities desk fuels its growth.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
+          "published_at": "Sat, 01 Aug 2026 20:22:15 GMT",
+          "cross_sections": []
+        },
+        {
           "id": "Y25iYy1iZXJrc2hpcmUtaGF0",
           "source_id": "cnbc",
           "source_name": "CNBC",
@@ -2348,20 +2389,6 @@
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/07/31/private-consumer-companies-ipo.html",
           "published_at": "Fri, 31 Jul 2026 11:30:01 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "Y25iYy1jaGluYeKAmXMtdS5z",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "China’s U.S.-bound shipments fall in July after brief recovery, survey shows",
-          "summary": "The latest China Beige Book study found factory activity decelerated in July.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/07/30/china-us-exports-drop.html",
-          "published_at": "Thu, 30 Jul 2026 22:01:01 GMT",
           "cross_sections": []
         }
       ]
@@ -2631,17 +2658,47 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YmJjLXRvdXJpc3QtcGxhbmUt",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Tourist plane crashes in Peru, killing 13",
+          "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e78/live/b07d6b40-8de6-11f1-92c6-e748252fe919.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 01 Aug 2026 20:36:49 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLWNhbWJyaWRnZS1wcm9m",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Cambridge professor at centre of plagiarism row defends his work",
+          "summary": "Prof Jason Arday admitted errors in his work but said he was not a liar after attracting criticism online.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f74/live/00f620c0-8dc5-11f1-99b6-11db6bdc35da.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c78gmp7zylvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 01 Aug 2026 20:32:25 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YmJjLXRocmVlLWtpbGxlZC1p",
           "source_id": "bbc",
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "World",
-          "title": "Three killed in Moscow restaurant explosion",
-          "summary": "The deadly blast took place in a venue near the centre of the city, but the cause is currently unclear.",
+          "title": "Three killed in Moscow restaurant bombing",
+          "summary": "The deadly blast took place in a venue near the centre of the city, as a woman carrying explosives tried to enter.",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b3a/live/f29cb820-8dda-11f1-9d54-295807679b3c.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 01 Aug 2026 19:34:09 GMT",
+          "published_at": "Sat, 01 Aug 2026 20:20:44 GMT",
           "cross_sections": []
         },
         {
@@ -2793,20 +2850,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YmJjLWhlLXRob3VnaHQtYS1m",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "He thought a fitness supplement was safe, but it sent him into psychosis",
-          "summary": "Daniel Murphy's mental health spiralled after he took missold drugs which had been mixed with steroids.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8c6/live/dd498740-8c28-11f1-9488-69577cd5e4e0.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/c4gd82vvvdno?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 31 Jul 2026 23:42:03 GMT",
-          "cross_sections": []
         },
         {
           "id": "YmJjLXNuYXBjaGF0LWpvaW5z",
@@ -3401,6 +3444,128 @@
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "ZXVyb25ld3MtYnJpdGlzaC1v",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "British oil giant BP prepares to sell North Sea business",
+          "summary": "Amid higher windfall taxes and volatile global energy markets, BP's proposed sale could bring an end to around 60 years of North Sea production under the British energy giant’s ownership.",
+          "image_url": "https://images.euronews.com/articles/stories/09/85/73/85/696x392_cmsv2_74871934-6685-5a04-b90d-9756c59014d4-9857385.jpg",
+          "article_url": "http://www.euronews.com/business/2026/07/31/british-oil-giant-bp-launches-sale-of-north-sea-business",
+          "published_at": "Fri, 31 Jul 2026 10:48:47 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtYXBwbGUtc2hh",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Apple shares fall despite record revenue as outlook disappoints",
+          "summary": "Apple’s iPhone revenue jumped by almost 22% in the three months to June, but its forecast for the current quarter fell short of analysts’ expectations.",
+          "image_url": "https://images.euronews.com/articles/stories/09/85/72/15/696x392_cmsv2_a1c22803-9f2b-58e9-b86d-e2493287799b-9857215.jpg",
+          "article_url": "http://www.euronews.com/business/2026/07/31/apple-shares-fall-despite-record-revenue-as-outlook-disappoints",
+          "published_at": "Fri, 31 Jul 2026 07:40:11 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtdGltZS1pcy1y",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Time is running out: what trade concessions can the EU win from China?",
+          "summary": "With an October deadline unlikely to yield major concessions from Beijing given structural and leverage imbalances, EU-China trade tensions look set to keep escalating.",
+          "image_url": "https://images.euronews.com/articles/stories/09/85/53/22/696x392_cmsv2_18832b75-6f44-5187-a613-bcd5766169f0-9855322.jpg",
+          "article_url": "http://www.euronews.com/my-europe/2026/07/31/time-is-running-out-what-trade-concessions-can-the-eu-win-from-china",
+          "published_at": "Fri, 31 Jul 2026 07:00:25 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtZXUtZXhwZWN0",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "EU expected to probe Balkan construction material imports over suspected Chinese tariff-dodging",
+          "summary": "There are growing suspicions that certain open mesh fabrics are being made with Chinese glass fibre already hit by EU anti-dumping and anti-subsidy duties for unfair pricing and state support.",
+          "image_url": "https://images.euronews.com/articles/stories/09/85/62/02/696x392_cmsv2_7a66e8d3-6c31-50ce-b7dc-829755885dae-9856202.jpg",
+          "article_url": "http://www.euronews.com/my-europe/2026/07/30/eu-expected-to-probe-balkan-construction-material-imports-over-suspected-chinese-tariff-do",
+          "published_at": "Thu, 30 Jul 2026 12:57:56 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtaG93LXRoZS1o",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "How the heatwave is taking a toll on European industry as key waterways run low",
+          "summary": "Prolonged low water levels have forced several European industries, including oil refining, nuclear power and chemicals, to reduce output because of raw-material and cooling-water shortages.",
+          "image_url": "https://images.euronews.com/articles/stories/09/85/58/48/696x392_cmsv2_7dee097c-5ba5-5b4b-8249-7283f53cb115-9855848.jpg",
+          "article_url": "http://www.euronews.com/business/2026/07/30/how-the-heatwave-is-taking-a-toll-on-european-industry-as-key-waterways-run-low",
+          "published_at": "Thu, 30 Jul 2026 11:51:41 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtbWljcm9zb2Z0",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Microsoft posts record profit as shares surge 10%, while Meta disappoints",
+          "summary": "Microsoft reported record quarterly profit and forecast accelerating Azure growth, while Meta’s profit and margins were hit by severance costs and legal expenses.",
+          "image_url": "https://images.euronews.com/articles/stories/09/85/59/63/696x392_cmsv2_4c1f7df8-437b-5dba-b234-2eac26048cd3-9855963.jpg",
+          "article_url": "http://www.euronews.com/business/2026/07/30/microsoft-posts-record-profit-as-shares-surge-10-while-meta-disappoints",
+          "published_at": "Thu, 30 Jul 2026 11:00:19 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3Mtc2Ftc3VuZy1w",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Samsung profit jumps 1,814% as South Korean tech giants benefit from global AI boom",
+          "summary": "Operating profit at Samsung’s semiconductor division rose to more than 220 times its year-earlier level. However, the company warned that memory chip shortages could worsen next year as AI infrastructure expands rapidly.",
+          "image_url": "https://images.euronews.com/articles/stories/09/85/57/41/696x392_cmsv2_09d2004f-9af2-5406-a3d2-e06b775f09c4-9855741.jpg",
+          "article_url": "http://www.euronews.com/business/2026/07/30/samsung-profit-jumps-1814-as-south-korean-tech-giants-benefit-from-global-ai-boom",
+          "published_at": "Thu, 30 Jul 2026 07:48:53 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtcG9ydHVnYWw6",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Portugal: Air France-KLM and Lufthansa submit binding bids to buy TAP",
+          "summary": "The government is now expected to receive the report within 30 days and may ask investors to submit an improved final bid.",
+          "image_url": "https://images.euronews.com/articles/stories/09/85/54/41/696x392_cmsv2_1145a308-5193-53f9-b8a8-ec41cd78cb77-9855441.jpg",
+          "article_url": "http://www.euronews.com/business/2026/07/29/portugal-air-france-klm-and-lufthansa-submit-binding-bids-to-buy-tap",
+          "published_at": "Wed, 29 Jul 2026 18:45:12 +0200",
+          "cross_sections": [
+            "tech"
+          ]
         }
       ]
     },
@@ -3410,6 +3575,34 @@
       "region": "Europe",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "ZHctMTMtZGVhZC1hZnRlci1z",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "13 dead after small tourist plane crashes in Peru",
+          "summary": "The plane was taking tourists to see the Nazca Lines, a group of geoglyphs etched into the deserts of southern Peru.",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/13-dead-after-small-tourist-plane-crashes-in-peru/a-78204342?maca=en-rss-en-top-1022-xml-mrss",
+          "published_at": "Sat, 1 Aug 2026 20:36:00 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "ZHctaG93LWRvZXMtZWFzdGVy",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "How does eastern Europe commemorate the Roma Holocaust?",
+          "summary": "In 2015, the EU designated August 2 as the European Roma Holocaust Memorial Day. In Germany, the day is marked with memorial services, educational activites and public addresses. And in eastern Europe?",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/how-does-eastern-europe-commemorate-the-roma-holocaust/a-78183503?maca=en-rss-en-world-4025-xml-mrss",
+          "published_at": "Sat, 1 Aug 2026 20:08:00 GMT",
+          "cross_sections": []
+        },
         {
           "id": "ZHctZ2VybWFueSdzLWxvbmct",
           "source_id": "dw",
@@ -3483,20 +3676,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "ZHctZ3JlZWNlLWJhdHRsZXMt",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Greece battles wildfires, including near Athens",
-          "summary": "Firefighters were battling blazes in over 70 locations across Greece. Strong winds continue to fan the flames, adding to the firefighters' struggles.",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/greece-battles-wildfires-including-near-athens/a-78201243?maca=en-rss-en-top-1022-xml-mrss",
-          "published_at": "Sat, 1 Aug 2026 10:16:00 GMT",
-          "cross_sections": []
         },
         {
           "id": "ZHctd2FyLWluLXVrcmFpbmU6",
@@ -3619,22 +3798,6 @@
           "article_url": "https://www.dw.com/en/military-flare-up-between-houthis-and-saudi-arabia-challenges-relative-calm-in-yemen/a-78186262?maca=en-rss-en-world-4025-xml-mrss",
           "published_at": "Fri, 31 Jul 2026 11:15:00 GMT",
           "cross_sections": []
-        },
-        {
-          "id": "ZHctc3BhaW4ncy1wbS12aXNp",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Spain's PM visits Ceuta after thousands breached border",
-          "summary": "Thousands of people continued pouring into Ceuta from Morocco during the night, after Spanish police lost control of the border. The head of the city government estimated that 60,000 people had entered.",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/spain-s-pm-visits-ceuta-after-thousands-breached-border/a-78187002?maca=en-rss-en-world-4025-xml-mrss",
-          "published_at": "Fri, 31 Jul 2026 10:37:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -3644,6 +3807,36 @@
       "region": "Asia-Pacific",
       "category": "Newspaper",
       "articles": [
+        {
+          "id": "dG9pLWluZGlhLWNoaW5hLWJv",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "India-China border trade resumes after 6 years",
+          "summary": "India and China have reopened two key Himalayan trade routes after six years. Traditional border trade resumed Saturday through Lipulekh and Shipki La passes. Chinese authorities restricted the initial batch of traders to twenty people. Indian traders can export 36 categories of goods, while Chinese",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/india-china-border-trade-resumes-after-6-years/articleshow/132796671.cms",
+          "published_at": "Sun, 02 Aug 2026 01:53:36 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dG9pLWJlbmdhbC1zdGYtcHJv",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Bengal STF probe Jaish man's plot to create trouble at Jantar Mantar",
+          "summary": "West Bengal Police STF arrested Arpita Sarkar, girlfriend of suspected terrorist Hamim Mondal.  Investigators are probing their alleged plan to create disturbances at Jantar Mantar.  Hamim was reportedly working under instructions from Pakistani handlers via social media.  Arpita is also suspected o",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/city/kolkata/bengal-stf-probe-jaish-mans-plot-to-create-trouble-at-jantar-mantar/articleshow/132796666.cms",
+          "published_at": "Sun, 02 Aug 2026 01:49:11 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "dG9pLWluZGlhLXdpbi1zZXZl",
           "source_id": "toi",
@@ -3691,20 +3884,6 @@
           ]
         },
         {
-          "id": "dG9pLXJ0aS1hY3RpdmlzdC1z",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "RTI activist seeks probe into Dipke's father's finances; flags Rs 1cr CJP defence fund",
-          "summary": "An RTI activist has requested an inquiry into the finances of CJP founder Abhijeet Dipke's father. He also wrote to authorities regarding Kapil Sibal's announced legal defence fund. The activist questioned the unregistered CJP's operation as a political party. He asked the Election Commission to ver",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/city/surat/rti-activist-seeks-inquiry-into-abhijeet-dipkes-fathers-finances-flags-rs-1-crore-cjp-defence-fund/articleshow/132793506.cms",
-          "published_at": "Sat, 01 Aug 2026 22:24:17 +0530",
-          "cross_sections": []
-        },
-        {
           "id": "dG9pLXNwYWlu4oCZcy00OC1o",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3716,22 +3895,6 @@
           "image_url": null,
           "article_url": "https://timesofindia.indiatimes.com/world/europe/spains-48-hour-response-how-authorities-returned-thousands-of-illegal-migrants-to-morocco/articleshow/132793070.cms",
           "published_at": "Sat, 01 Aug 2026 21:55:34 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLTYta2lsbGVkLWluLWtl",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "6 killed in Kerala as heavy rain triggers landslides, floods; IMD issues red alert",
-          "summary": "Heavy rains lashed Kerala on Saturday, causing landslides and widespread flooding. Six people died in rain-related incidents, with several others rescued from affected areas. Authorities launched large-scale rescue and evacuation operations, setting up numerous relief camps for displaced residents. ",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/imd-red-alert-in-8-kerala-districts-as-heavy-rains-trigger-landslides-floods-6-killed/articleshow/132792885.cms",
-          "published_at": "Sat, 01 Aug 2026 21:34:09 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4013,124 +4176,126 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dGhlaGluZHUtdGhlLWhvcGVz",
+          "id": "dGhlaGluZHUtbW9yZS1jaG9p",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "The hopes of two families are dashed as terror attack leaves their sole breadwinners dead",
-          "summary": "Chhattisgarh Chief Minister Vishnu Deo Sai announces an ex gratiaassistance of ₹20 lakh each for the families of the two Chhattisgarh workers killed in a terror attack in Kelam area of south Kashmir’s Kulgam district late on Friday evening",
-          "image_url": "https://th-i.thgim.com/public/incoming/8j6io2/article71294474.ece/alternates/LANDSCAPE_1200/TH01-Vishnu-BasGVAF3T8OF.5.jpg.jpg",
-          "article_url": "https://www.thehindu.com/news/national/chhattisgarh/kulgam-terrorist-attack-chhattisgarh-government-declares-20-lakh-aid-for-kin-of-two-workers-killed/article71294437.ece",
-          "published_at": "Sun, 02 Aug 2026 01:15:52 +0530",
+          "title": "More choices for test centres among key changes for NEET (PG) 2026",
+          "summary": "The reforms are aimed at making the process more convenient for the candidates, according to the Union Health Ministry; a total of 2,73,183 candidates have registered for NEET (PG) 2026 which will be conducted in a single shift across around 340 cities and more than 1,300 examination centres",
+          "image_url": "https://th-i.thgim.com/public/incoming/7dw35i/article71295974.ece/alternates/LANDSCAPE_1200/20260620125L.jpg",
+          "article_url": "https://www.thehindu.com/news/national/more-choices-for-test-centres-among-key-changes-for-neet-pg-2026/article71295915.ece",
+          "published_at": "Sun, 02 Aug 2026 02:04:21 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtZG1rLXRvLWJv",
+          "id": "dGhlaGluZHUtMy1wZW9wbGUt",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "DMK to boycott verification of EVMs in Kolathur alleging lapses; plans to go to court",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/dmk-to-boycott-verification-of-evms-in-kolathur-alleging-lapses-plans-to-go-to-court/article71295501.ece",
-          "published_at": "Sun, 02 Aug 2026 01:13:46 +0530",
+          "title": "3 people killed, 15 wounded in Moscow restaurant explosion",
+          "summary": "At least 15 people were injured in the explosion and investigators, forensic experts and emergency services were working at the scene",
+          "image_url": "https://th-i.thgim.com/public/incoming/qpou9y/article71295969.ece/alternates/LANDSCAPE_1200/2026-08-01T190318Z_2059874848_RC2UPMAPZEQK_RTRMADP_3_RUSSIA-EXPLOSION.JPG",
+          "article_url": "https://www.thehindu.com/news/international/moscow-restaurant-explosion-in-russia-kills-people-injures-more-than-a-dozen/article71295966.ece",
+          "published_at": "Sun, 02 Aug 2026 01:43:57 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUtbm8tZXZpZGVu",
+          "id": "dGhlaGluZHUtc2FzaWthbGEs",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "No evidence of EVM tampering, says poll official on fourth day",
-          "summary": "“This is not re-counting. This is EVM Checking and Verification process,” Chennai District Election Officer and Greater Chennai Corporation Commissioner G.S. Sameeran said. “It is a 100% transparent exercise to establish the reliability of the EVMs.”",
-          "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/bah72x/article71295409.ece/alternates/LANDSCAPE_1200/KOL%20EVM%20AUG%201%20GSS.jpg",
-          "article_url": "https://www.thehindu.com/news/national/tamil-nadu/no-evidence-of-evm-tampering-says-poll-official-on-fourth-day/article71295402.ece",
-          "published_at": "Sun, 02 Aug 2026 01:13:21 +0530",
+          "title": "Sasikala, others booked over DYFI leader’s complaint",
+          "summary": "The accused reportedly circulated a video of the complainant and her friends, captioning it “MDMA comrades” and adding provocative remarks",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/national/kerala/sasikala-others-booked-over-dyfi-leaders-complaint/article71294918.ece",
+          "published_at": "Sun, 02 Aug 2026 01:43:25 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtYW5uYW1hbGFp",
+          "id": "dGhlaGluZHUtbXZkLWNyYWNr",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Annamalai requests the closure of 129 Tasmac retail shops",
-          "summary": "",
+          "title": "MVD cracks down on erring bike riders in Kochi",
+          "summary": "Of the 80 vehicles inspected, 35 had banned silencers, while 20 had other violations",
           "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/tamil-nadu/annamalai-requests-the-closure-of-129-tasmac-retail-shops/article71295123.ece",
-          "published_at": "Sun, 02 Aug 2026 01:10:18 +0530",
+          "article_url": "https://www.thehindu.com/news/national/kerala/mvd-cracks-down-on-erring-bike-riders-in-kochi/article71295094.ece",
+          "published_at": "Sun, 02 Aug 2026 01:42:01 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtY2FsbC1ncm93",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Call grows louder for new water tank at Thammanam in Kochi",
+          "summary": "The new tank at Thammanam was proposed following the partial collapse of the 1.35-crore-litre water tank, which had triggered a temporary drinking water crisis in the city",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/national/kerala/call-grows-louder-for-new-water-tank-atthammanam-in-kochi/article71294821.ece",
+          "published_at": "Sun, 02 Aug 2026 01:39:23 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtaGVhbHRoLW1p",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Health Minister inaugurates development projects at Ernakulam General Hospital",
+          "summary": "Minister inaugurates a tensile-roof walkway, a yard development and drainage project, and the Gastroenterology department at the General Hospital",
+          "image_url": "https://th-i.thgim.com/public/incoming/ona1xa/article71295588.ece/alternates/LANDSCAPE_1200/80968_1_8_2026_19_22_45_1_IMG_8301.JPEG",
+          "article_url": "https://www.thehindu.com/news/national/kerala/health-minister-inaugurates-development-projects-at-ernakulam-general-hospital/article71295393.ece",
+          "published_at": "Sun, 02 Aug 2026 01:34:18 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtcHJhc2hhbnQt",
+          "id": "dGhlaGluZHUtZGhpbXNhLeKA",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Prashant M. Wadnere posted as Water Resources Secretary",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/tamil-nadu/prashant-m-wadnere-posted-as-water-resources-secretary/article71294793.ece",
-          "published_at": "Sun, 02 Aug 2026 01:09:24 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtcy5uLm4uLXNh",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "S.N.N. Sankaralinga Iyer’s biography released in city",
-          "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/44ayby/article71295780.ece/alternates/LANDSCAPE_1200/2501_1_8_2026_17_32_33_3_DSC_3068.JPEG",
-          "article_url": "https://www.thehindu.com/news/national/tamil-nadu/snn-sankaralinga-iyers-biography-released-in-city/article71295641.ece",
-          "published_at": "Sun, 02 Aug 2026 01:07:23 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtdWFzLWItaW50",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "UAS-B introduces low-cost technology to farmers to produce biochar, trains them to improve soil health",
-          "summary": "The team from UAS-B has used a simple and portable drum technology that doesn’t cost much to produce biochar",
-          "image_url": "https://th-i.thgim.com/public/incoming/c347gs/article71246975.ece/alternates/LANDSCAPE_1200/IMG_Biochar_ready_for_ap_2_1_P4G553FU.jpg",
-          "article_url": "https://www.thehindu.com/news/national/karnataka/uas-b-introduces-low-cost-technology-to-farmers-to-produce-biochar-trains-them-to-improve-soil-health/article71185537.ece",
-          "published_at": "Sun, 02 Aug 2026 01:07:07 +0530",
+          "title": "Dhimsa ‘jamboree’ highlights tribal heritage of A.P. at Bhogapuram airport inaugural",
+          "summary": "Around 13,750 schoolchildren perform flawlessly and dances their way to Guinness World Records",
+          "image_url": "https://th-i.thgim.com/public/incoming/ol4nqx/article71295434.ece/alternates/LANDSCAPE_1200/10215_1_8_2026_18_13_30_1_WHATSAPPIMAGE2026_08_01AT53905PM.JPEG",
+          "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/dhimsa-jamboree-highlights-tribal-heritage-of-ap-at-bhogapuram-airport-inaugural/article71294600.ece",
+          "published_at": "Sun, 02 Aug 2026 01:22:37 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtdW5pb24tbWlu",
+          "id": "dGhlaGluZHUtdHJhd2xpbmct",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Union Minister reviews progress at Bhalswa, stresses Dec. 31 deadline",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/cities/Delhi/union-minister-reviews-progress-at-bhalswa-stresses-dec-31-deadline/article71295885.ece",
-          "published_at": "Sun, 02 Aug 2026 01:05:05 +0530",
-          "cross_sections": []
+          "title": "Trawling ban end fails to cheer fishers as adverse weather spoils their plans",
+          "summary": "The IMD had warned fishers against venturing out into the sea off Kerala, Karnataka, and Lakshadweep in view of possible gusty winds and inclement weather",
+          "image_url": "https://th-i.thgim.com/public/incoming/8aaoem/article71295662.ece/alternates/LANDSCAPE_1200/fishermen_01.JPG",
+          "article_url": "https://www.thehindu.com/news/national/kerala/trawling-ban-end-fails-to-cheer-coasts-as-adverse-weather-spoils-plans/article71295302.ece",
+          "published_at": "Sun, 02 Aug 2026 01:21:21 +0530",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
           "id": "dGhlaGluZHUtZ29vZ2xlLXRh",
@@ -4648,6 +4813,38 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YWxqYXplZXJhLWdyZWVjZS1i",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Greece battles raging wildfires as flames appear to ease in France",
+          "summary": "French wildfires show signs of easing, with containment efforts holding in Var and Gironde after destructive blazes.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/1/greece-battles-raging-wildfires-as-flames-appear-to-ease-in-france?traffic_source=rss",
+          "published_at": "Sat, 01 Aug 2026 20:24:19 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXJlY29yZC1i",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Record-breaking climber Nirmal Purja among those killed in avalanche",
+          "summary": "14 Peaks star Nirmal Purja has died in an avalanche while leading 10 climbers up Broad Peak mountain in Pakistan.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/record-record-breaking-climber-nirmal-purja-among-those-killed-in-avalanche?traffic_source=rss",
+          "published_at": "Sat, 01 Aug 2026 20:10:01 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YWxqYXplZXJhLXRydW1wLWRl",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
@@ -4685,7 +4882,7 @@
           "source_category": "Broadcaster",
           "feed_label": "All News",
           "title": "At least three killed in explosion near cafe in Russia’s Moscow",
-          "summary": "⁠Fifteen also ​injured ‌in the blast in Kudrinskaya Square, authorities say.",
+          "summary": "Fifteen also ​injured ‌in the blast in Kudrinskaya Square, authorities say.",
           "image_url": null,
           "article_url": "https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss",
           "published_at": "Sat, 01 Aug 2026 18:22:35 +0000",
@@ -4720,34 +4917,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YWxqYXplZXJhLWNhcmUtZm9y",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Care for a dirty soda? How this drink trend became a US obsession",
-          "summary": "How Utah novelty grew into national trend, fuelled by customisation, social media, desire for affordable social spaces.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/features/longform/2026/8/1/care-for-a-dirty-soda-how-this-drink-trend-became-a-us-obsession?traffic_source=rss",
-          "published_at": "Sat, 01 Aug 2026 17:37:34 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLWlzcmFlbGkt",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Israeli forces detain residents and demolish homes in southern Syria",
-          "summary": "Since Assad’s ouster, Israel has sent troops beyond the 1974 disengagement line into Syria's southern provinces.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israeli-forces-detain-residents-and-demolish-homes-in-southern-syria?traffic_source=rss",
-          "published_at": "Sat, 01 Aug 2026 17:28:52 +0000",
-          "cross_sections": []
         }
       ]
     },
@@ -4758,125 +4927,127 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "YXJhYm5ld3Mtc2F1ZGktaW5m",
+          "id": "YXJhYm5ld3MtYmlyZC1mbHUt",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Saudi inflation remains contained at 1.8% in May: GASTAT",
-          "summary": "RIYADH: Saudi Arabia’s annual inflation rate edged up to 1.8 percent in May with housing rents continuing to drive price gains in the Kingdom, official data showed. \n\n\tAccording to the latest report released by the General Authority for Statistics, the Kingdom’s Consumer Price Index edged up 0.2 per",
+          "title": "Bird flu kills 13,000 seal pups on remote Australian island",
+          "summary": "SYDNEY: A pathogenic strain of bird flu killed more than 13,000 elephant seal pups after infecting a breeding colony on a sub-Antarctic volcanic island, Australian scientists said Thursday.\n\tResearchers found the remote Heard and McDonald Islands littered with seal carcasses when they arrived on a r",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647232/business-economy",
-          "published_at": "Mon, 15 Jun 2026 11:06:57 +03",
+          "article_url": "https://www.arabnews.com/node/2647655/offbeat",
+          "published_at": "Thu, 18 Jun 2026 10:06:51 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtbGViYW5vbi13",
+          "id": "YXJhYm5ld3MtcmVjaXBlcy1m",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Lebanon warns displaced against rushing home after US-Iran deal",
-          "summary": "BEIRUT/JERUSALEM: Authorities in southern Lebanon warned people displaced by three months of war between Israel and Hezbollah against rushing home on Monday despite a US-Iran deal to end the wider conflict, as Israel said it would not withdraw troops from the south.\n\n\tThe warning comes as Lebanon ha",
+          "title": "Recipes for Success: Chef Robert Tsitaishvili talks simplicity, salt, and stories",
+          "summary": "DUBAI: Robert Tsitaishvili is the head chef of Qartuli, a Georgian restaurant in Downtown Dubai, where his goal, he says, is “to reinterpret Georgian culinary heritage for a contemporary audience.” \n\n\tTsitaishvili has more than 12 years of experience spanning hotels and restaurants across Georgia an",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647227/middle-east",
-          "published_at": "Mon, 15 Jun 2026 11:06:50 +03",
+          "article_url": "https://www.arabnews.com/node/2647653/lifestyle",
+          "published_at": "Thu, 18 Jun 2026 10:06:49 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtaXNyYWVsLXNh",
+          "id": "YXJhYm5ld3Mtb2lsLWZhbGxz",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Israel says won’t withdraw troops from Lebanon, Syria, Gaza",
-          "summary": "JERUSALEM: Israel’s defense minister said Monday that Israeli forces would remain in Lebanon, Syria and Gaza indefinitely, hours after the United States and Iran agreed to end the Middle East war, including in Lebanon.\n\t“Prime Minister Benjamin Netanyahu and I are pursuing a clear policy under which",
+          "title": "Oil falls to 3-1/2-month low after US, Iran sign ceasefire deal",
+          "summary": "BEIJING/SINGAPORE: Oil prices ​fell by more than $2 per barrel on Thursday after the US and Iran signed an interim agreement that ‌would end the Iran war, reopen the Strait of Hormuz and waive US sanctions on Tehran’s oil, boosting the oil supply outlook.\n\n\tBrent crude futures were down $2.14, or 2.",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647229/middle-east",
-          "published_at": "Mon, 15 Jun 2026 11:06:33 +03",
+          "article_url": "https://www.arabnews.com/node/2647650/business-economy",
+          "published_at": "Thu, 18 Jun 2026 10:06:46 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3Mtc2F1ZGktYXJh",
+          "id": "YXJhYm5ld3Mta2FuZS1kb3Vi",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Saudi Arabia, South Korea sign MoU to boost oil and gas cooperation",
-          "summary": "RIYADH: Saudi Arabia and South Korea signed a memorandum of understanding in Riyadh to enhance cooperation in the oil and gas sector and strengthen their broader energy partnership.\n\n\tEnergy Minister Prince Abdulaziz bin Salman met with South Korea’s Minister of Trade, Industry and Energy, Kim Jung-",
+          "title": "Kane double fires England World Cup bid as Ronaldo’s Portugal stumble",
+          "summary": "LOS ANGELES, United States: England launched their World Cup bid with a rollercoaster 4-2 win against Croatia on Wednesday as Cristiano Ronaldo and Portugal stumbled to a draw against the Democratic Republic of Congo.\n\tIn an enthralling Group L game at the Texas home of the Dallas Cowboys NFL team, ",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647228/business-economy",
-          "published_at": "Mon, 15 Jun 2026 11:06:21 +03",
+          "article_url": "https://www.arabnews.com/node/2647651/sport",
+          "published_at": "Thu, 18 Jun 2026 10:06:26 +03",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtbGluYS1naG90",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Lina Ghotmeh: ‘Being in AlUla, you start to understand all the beauty of the world’",
+          "summary": "ALULA: AlUla is no stranger to art. It is renowned as an “open-air natural museum” with 7,000 years of lived-in history. Even so, the upcoming AlUla Contemporary Art Museum, created as part of Saudi Vision 2030, is sure to be the talk of the town.",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2647649/lifestyle",
+          "published_at": "Thu, 18 Jun 2026 10:06:11 +03",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtYXVzdHJhbGlh",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Australia says net migration down as far-right popularity surges",
+          "summary": "SYDNEY: Australia’s immigration levels fell last year, official data showed on Thursday, as its center-left government seeks to combat an ascendent far-right riding a wave of public discontent over soaring housing prices and cost of living.\n\tNet overseas migration added 301,000 people to Australia’s",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2647652/world",
+          "published_at": "Thu, 18 Jun 2026 10:06:08 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MteWFoeWEtYWJk",
+          "id": "YXJhYm5ld3MtZGFpbHktdGVs",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Yahya Abdul-Mateen II reflects on Marvel ‘Wonder Man’ role",
-          "summary": "DUBAI: US actor Yahya Abdul-Mateen II has reportedly said that “people see so much of themselves in (protagonist) Simon (Williams),” the role he plays in the Marvel series “Wonder Man.”: \n\n\tThe actor was known to comic book fans as DC’s Black Manta in the “Aquaman” movies and for his breakout role i",
+          "title": "Daily Telegraph columnist argues Saudi Arabia should join G7",
+          "summary": "DUBAI: Saudi Arabia should be invited to join the Group of Seven nations as the organization adapts to a changing global order, according to a column published in the Daily Telegraph by former UK prime ministerial representative to Saudi Arabia Ken Costa.\n\n\tCosta argued that while the G7 was created",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647230/lifestyle",
-          "published_at": "Mon, 15 Jun 2026 11:06:19 +03",
+          "article_url": "https://www.arabnews.com/node/2647644/saudi-arabia",
+          "published_at": "Thu, 18 Jun 2026 09:06:26 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3Mtc2hhbmluYS1z",
+          "id": "YXJhYm5ld3MtdHJ1bXAsLW5l",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Shanina Shaik is Australian fashion’s latest star",
-          "summary": "DUBAI: Part-Saudi model Shanina Shaik is promoting a clutch of Australian brands on social media, starring in a campaigns after hitting the runway at Australian Fashion Week earlier this year.\n\n\tThe model is quickly becoming the face of Australian fashion, with brands seemingly banking on her intern",
+          "title": "Trump, Netanyahu clash over Iran strategy and Lebanon ceasefire",
+          "summary": "DUBAI: American President Donald Trump and Israeli Prime Minister Benjamin Netanyahu have found themselves at odds over Iran, Lebanon and the course of ongoing negotiations in the Middle East according to The Washington Post.",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647231/lifestyle",
-          "published_at": "Mon, 15 Jun 2026 11:06:06 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3Mtbm9yd2F5LWNy",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Norway crown princess’s son sentenced to four years in prison for rape: court",
-          "summary": "OSLO: An Oslo court on Monday convicted Norwegian Crown Princess Mette-Marit’s son of two counts of rape, sentencing him to four years in prison in a high-profile scandal that has rocked the monarchy.\n\tMarius Borg Hoiby, 29, Mette-Marit’s son from a relationship prior to her 2001 marriage to Crown P",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647222/world",
-          "published_at": "Mon, 15 Jun 2026 10:06:57 +03",
-          "cross_sections": []
-        },
-        {
-          "id": "YXJhYm5ld3MtZ3VsZiwtYXJh",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Gulf, Arab states welcome US-Iran deal to end war, reopen Hormuz",
-          "summary": "DUBAI: Gulf and Arab states welcomed on Monday a US-Iran agreement to end the war and reopen the Strait of Hormuz, expressing hope that the deal will pave the way for lasting regional stability and broader diplomatic engagement.\n\n\tSaudi Arabia welcomed the agreement between Washington and Tehran to ",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647225/middle-east",
-          "published_at": "Mon, 15 Jun 2026 10:06:15 +03",
+          "article_url": "https://www.arabnews.com/node/2647647/middle-east",
+          "published_at": "Thu, 18 Jun 2026 09:06:00 +03",
           "cross_sections": [
             "tech"
           ]
@@ -4955,7 +5126,7 @@
         {
           "id": "nyt",
           "name": "The New York Times",
-          "count": 21
+          "count": 23
         },
         {
           "id": "cnn",
@@ -4982,7 +5153,7 @@
         {
           "id": "bbc",
           "name": "BBC News",
-          "count": 20
+          "count": 21
         },
         {
           "id": "guardian",
@@ -4992,7 +5163,7 @@
         {
           "id": "euronews",
           "name": "Euronews",
-          "count": 5
+          "count": 13
         },
         {
           "id": "dw",
@@ -5053,17 +5224,225 @@
       "icon": "💻",
       "articles": [
         {
-          "id": "dGhlaGluZHUtdGhlLWhvcGVz",
+          "id": "dGhlaGluZHUtbW9yZS1jaG9p",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "The hopes of two families are dashed as terror attack leaves their sole breadwinners dead",
-          "summary": "Chhattisgarh Chief Minister Vishnu Deo Sai announces an ex gratiaassistance of ₹20 lakh each for the families of the two Chhattisgarh workers killed in a terror attack in Kelam area of south Kashmir’s Kulgam district late on Friday evening",
-          "image_url": "https://th-i.thgim.com/public/incoming/8j6io2/article71294474.ece/alternates/LANDSCAPE_1200/TH01-Vishnu-BasGVAF3T8OF.5.jpg.jpg",
-          "article_url": "https://www.thehindu.com/news/national/chhattisgarh/kulgam-terrorist-attack-chhattisgarh-government-declares-20-lakh-aid-for-kin-of-two-workers-killed/article71294437.ece",
-          "published_at": "Sun, 02 Aug 2026 01:15:52 +0530",
+          "title": "More choices for test centres among key changes for NEET (PG) 2026",
+          "summary": "The reforms are aimed at making the process more convenient for the candidates, according to the Union Health Ministry; a total of 2,73,183 candidates have registered for NEET (PG) 2026 which will be conducted in a single shift across around 340 cities and more than 1,300 examination centres",
+          "image_url": "https://th-i.thgim.com/public/incoming/7dw35i/article71295974.ece/alternates/LANDSCAPE_1200/20260620125L.jpg",
+          "article_url": "https://www.thehindu.com/news/national/more-choices-for-test-centres-among-key-changes-for-neet-pg-2026/article71295915.ece",
+          "published_at": "Sun, 02 Aug 2026 02:04:21 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLWNhbWJyaWRnZS1wcm9m",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Cambridge professor at centre of plagiarism row defends his work",
+          "summary": "Prof Jason Arday admitted errors in his work but said he was not a liar after attracting criticism online.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f74/live/00f620c0-8dc5-11f1-99b6-11db6bdc35da.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c78gmp7zylvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 01 Aug 2026 20:32:25 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LWlyYW4tcGxvdHRlZC13",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Iran Plotted Wider War With Help of Its Proxies",
+          "summary": "During a fleeting truce, Iranians covertly devised a plan to raise the war’s costs for President Trump if U.S. forces attacked anew.",
+          "image_url": "https://static01.nyt.com/images/2026/08/02/multimedia/02int-Iran-Proxies-wkpm/02int-Iran-Proxies-wkpm-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html",
+          "published_at": "Sat, 01 Aug 2026 20:26:35 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGVjaGNydW5jaC1qdWRnZS1k",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+          "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+          "published_at": "Sat, 01 Aug 2026 20:26:04 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLWdyZWVjZS1i",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Greece battles raging wildfires as flames appear to ease in France",
+          "summary": "French wildfires show signs of easing, with containment efforts holding in Var and Gironde after destructive blazes.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/1/greece-battles-raging-wildfires-as-flames-appear-to-ease-in-france?traffic_source=rss",
+          "published_at": "Sat, 01 Aug 2026 20:24:19 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLWJlbmdhbC1zdGYtcHJv",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Bengal STF probe Jaish man's plot to create trouble at Jantar Mantar",
+          "summary": "West Bengal Police STF arrested Arpita Sarkar, girlfriend of suspected terrorist Hamim Mondal.  Investigators are probing their alleged plan to create disturbances at Jantar Mantar.  Hamim was reportedly working under instructions from Pakistani handlers via social media.  Arpita is also suspected o",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/city/kolkata/bengal-stf-probe-jaish-mans-plot-to-create-trouble-at-jantar-mantar/articleshow/132796666.cms",
+          "published_at": "Sun, 02 Aug 2026 01:49:11 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LXRydW1wLWNhbGxzLWZv",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight",
+          "summary": "The president vowed to push for the payout fund if Senate Republicans fail to confirm Todd Blanche as attorney general, reigniting a dispute over the settlement.",
+          "image_url": "https://static01.nyt.com/images/2026/08/01/multimedia/01xp-fund-mgcj/01xp-fund-mgcj-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/01/us/politics/trump-todd-blanche-weaponization-payouts.html",
+          "published_at": "Sat, 01 Aug 2026 20:14:09 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtc2FzaWthbGEs",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Sasikala, others booked over DYFI leader’s complaint",
+          "summary": "The accused reportedly circulated a video of the complainant and her friends, captioning it “MDMA comrades” and adding provocative remarks",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/national/kerala/sasikala-others-booked-over-dyfi-leaders-complaint/article71294918.ece",
+          "published_at": "Sun, 02 Aug 2026 01:43:25 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXJlY29yZC1i",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Record-breaking climber Nirmal Purja among those killed in avalanche",
+          "summary": "14 Peaks star Nirmal Purja has died in an avalanche while leading 10 climbers up Broad Peak mountain in Pakistan.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/record-record-breaking-climber-nirmal-purja-among-those-killed-in-avalanche?traffic_source=rss",
+          "published_at": "Sat, 01 Aug 2026 20:10:01 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtaGVhbHRoLW1p",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Health Minister inaugurates development projects at Ernakulam General Hospital",
+          "summary": "Minister inaugurates a tensile-roof walkway, a yard development and drainage project, and the Gastroenterology department at the General Hospital",
+          "image_url": "https://th-i.thgim.com/public/incoming/ona1xa/article71295588.ece/alternates/LANDSCAPE_1200/80968_1_8_2026_19_22_45_1_IMG_8301.JPEG",
+          "article_url": "https://www.thehindu.com/news/national/kerala/health-minister-inaugurates-development-projects-at-ernakulam-general-hospital/article71295393.ece",
+          "published_at": "Sun, 02 Aug 2026 01:34:18 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LW5pcm1hbC1wdXJqYSwt",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "Nirmal Purja, Renowned Mountaineer, Is Found Dead After Pakistan Avalanche",
+          "summary": "The British-Nepali mountaineer was one of 10 climbers who were struck by an avalanche on Thursday on Broad Peak, one of the world’s highest mountains.",
+          "image_url": "https://static01.nyt.com/images/2026/08/01/multimedia/00xp-purja-HFO-1-hkfj/00xp-purja-HFO-1-hkfj-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/01/world/asia/nirmal-purja-dead-pakistan-avalanche.html",
+          "published_at": "Sat, 01 Aug 2026 19:59:09 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LXNjb3BlLW9mLWhhY2tz",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran",
+          "summary": "Michigan and Minnesota are among at least seven states coping with cyberattacks aimed at disrupting water systems nationwide.",
+          "image_url": "https://static01.nyt.com/images/2026/08/01/multimedia/01dc-cyberattack-topart-fgpz/01dc-cyberattack-topart-fgpz-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html",
+          "published_at": "Sat, 01 Aug 2026 19:54:48 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtZGhpbXNhLeKA",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Dhimsa ‘jamboree’ highlights tribal heritage of A.P. at Bhogapuram airport inaugural",
+          "summary": "Around 13,750 schoolchildren perform flawlessly and dances their way to Guinness World Records",
+          "image_url": "https://th-i.thgim.com/public/incoming/ol4nqx/article71295434.ece/alternates/LANDSCAPE_1200/10215_1_8_2026_18_13_30_1_WHATSAPPIMAGE2026_08_01AT53905PM.JPEG",
+          "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/dhimsa-jamboree-highlights-tribal-heritage-of-ap-at-bhogapuram-airport-inaugural/article71294600.ece",
+          "published_at": "Sun, 02 Aug 2026 01:22:37 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdHJhd2xpbmct",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Trawling ban end fails to cheer fishers as adverse weather spoils their plans",
+          "summary": "The IMD had warned fishers against venturing out into the sea off Kerala, Karnataka, and Lakshadweep in view of possible gusty winds and inclement weather",
+          "image_url": "https://th-i.thgim.com/public/incoming/8aaoem/article71295662.ece/alternates/LANDSCAPE_1200/fishermen_01.JPG",
+          "article_url": "https://www.thehindu.com/news/national/kerala/trawling-ban-end-fails-to-cheer-coasts-as-adverse-weather-spoils-plans/article71295302.ece",
+          "published_at": "Sun, 02 Aug 2026 01:21:21 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5083,54 +5462,6 @@
           "cross_sections": [
             "tech",
             "ai"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtbm8tZXZpZGVu",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "No evidence of EVM tampering, says poll official on fourth day",
-          "summary": "“This is not re-counting. This is EVM Checking and Verification process,” Chennai District Election Officer and Greater Chennai Corporation Commissioner G.S. Sameeran said. “It is a 100% transparent exercise to establish the reliability of the EVMs.”",
-          "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/bah72x/article71295409.ece/alternates/LANDSCAPE_1200/KOL%20EVM%20AUG%201%20GSS.jpg",
-          "article_url": "https://www.thehindu.com/news/national/tamil-nadu/no-evidence-of-evm-tampering-says-poll-official-on-fourth-day/article71295402.ece",
-          "published_at": "Sun, 02 Aug 2026 01:13:21 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtYW5uYW1hbGFp",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Annamalai requests the closure of 129 Tasmac retail shops",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/tamil-nadu/annamalai-requests-the-closure-of-129-tasmac-retail-shops/article71295123.ece",
-          "published_at": "Sun, 02 Aug 2026 01:10:18 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtdWFzLWItaW50",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "UAS-B introduces low-cost technology to farmers to produce biochar, trains them to improve soil health",
-          "summary": "The team from UAS-B has used a simple and portable drum technology that doesn’t cost much to produce biochar",
-          "image_url": "https://th-i.thgim.com/public/incoming/c347gs/article71246975.ece/alternates/LANDSCAPE_1200/IMG_Biochar_ready_for_ap_2_1_P4G553FU.jpg",
-          "article_url": "https://www.thehindu.com/news/national/karnataka/uas-b-introduces-low-cost-technology-to-farmers-to-produce-biochar-trains-them-to-improve-soil-health/article71185537.ece",
-          "published_at": "Sun, 02 Aug 2026 01:07:07 +0530",
-          "cross_sections": [
-            "tech"
           ]
         },
         {
@@ -5209,22 +5540,6 @@
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
           "published_at": "Sat, 01 Aug 2026 18:47:27 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LW5pcm1hbC1wdXJqYSwt",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Nirmal Purja, Renowned Mountaineer, Is Found Dead After Pakistan Avalanche",
-          "summary": "The British-Nepali mountaineer was one of 10 climbers who were struck by an avalanche on Thursday on Broad Peak, one of the world’s highest mountains.",
-          "image_url": "https://static01.nyt.com/images/2026/08/01/multimedia/00xp-purja-HFO-1-hkfj/00xp-purja-HFO-1-hkfj-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/01/world/asia/nirmal-purja-dead-pakistan-avalanche.html",
-          "published_at": "Sat, 01 Aug 2026 18:47:13 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5343,22 +5658,6 @@
           ]
         },
         {
-          "id": "bnl0LWlyYW4tcGxvdHRlZC13",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Iran Plotted Wider War With Help of Its Proxies",
-          "summary": "During a fleeting truce, Iranians covertly devised a plan to raise the war’s costs for President Trump if U.S. forces attacked anew.",
-          "image_url": "https://static01.nyt.com/images/2026/08/02/multimedia/02int-Iran-Proxies-wkpm/02int-Iran-Proxies-wkpm-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html",
-          "published_at": "Sat, 01 Aug 2026 16:42:34 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bnl0LWp1c3RpY2UtZGVwdC4t",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -5418,22 +5717,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fcf/live/7b087a70-8dbb-11f1-b8ee-9b3c26ad07bb.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 01 Aug 2026 16:16:16 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLTYta2lsbGVkLWluLWtl",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "6 killed in Kerala as heavy rain triggers landslides, floods; IMD issues red alert",
-          "summary": "Heavy rains lashed Kerala on Saturday, causing landslides and widespread flooding. Six people died in rain-related incidents, with several others rescued from affected areas. Authorities launched large-scale rescue and evacuation operations, setting up numerous relief camps for displaced residents. ",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/imd-red-alert-in-8-kerala-districts-as-heavy-rains-trigger-landslides-floods-6-killed/articleshow/132792885.cms",
-          "published_at": "Sat, 01 Aug 2026 21:34:09 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5540,7 +5823,7 @@
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
           "summary": "Most of those who came to the territory, a Spanish exclave in Africa, have returned across the border to Morocco. At least 67 people died trying to enter, the authorities said.",
           "image_url": "https://static01.nyt.com/images/2026/08/01/multimedia/01int-spain-ceuta-01-sub-lgtz/01int-spain-ceuta-01-sub-lgtz-mediumSquareAt3X.jpg",
@@ -5567,22 +5850,6 @@
           ]
         },
         {
-          "id": "bnl0LXNoZS12b3RlZC1mb3It",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "She Voted for a Justice Who Overturned Roe. Now it Haunts Her on the Trail.",
-          "summary": "Senator Susan Collins, who supports abortion rights, endorsed Brett Kavanaugh’s nomination for the Supreme Court. It has emerged as a major issue in her campaign for re-election.",
-          "image_url": "https://static01.nyt.com/images/2026/08/01/multimedia/01pol-collins-court-top-hwcv/01pol-collins-court-top-hwcv-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/01/us/politics/collins-kavanaugh-vote-roe-v-wade.html",
-          "published_at": "Sat, 01 Aug 2026 15:24:45 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "dGhldmVyZ2UtdHJ1bXAtYmxh",
           "source_id": "theverge",
           "source_name": "The Verge",
@@ -5594,102 +5861,6 @@
           "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2254307754.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
           "article_url": "https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran",
           "published_at": "2026-08-01T15:23:35.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di0yLWV4LWNvcHMtdG8t",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "2 Ex-Cops To Be Tried Under Anti-Terror Law For Antilia Bomb Scare, Murder",
-          "summary": "An SUV with explosives inside was found near billionaire industrialist Mukesh Ambani's residence 'Antilia' in south Mumbai on February 25, 2021.",
-          "image_url": "https://c.ndtvimg.com/2026-08/c3rilg9o_waze_625x300_01_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/2-ex-cops-to-be-tried-under-anti-terror-law-for-antilia-bomb-scare-murder-11853397#publisher=newsstand",
-          "published_at": "Sat, 01 Aug 2026 20:48:49 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di0ncHJpbmNlc3Mtb2Yt",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "'Princess Of Darkness': Woman Behind Trump's Fundraising Machine",
-          "summary": "O'Rourke is a well-established fundraiser based in Florida who worked on Trump's 2016 and 2020 campaigns before being chosen to lead fundraising for the entire 2024 campaign.",
-          "image_url": "https://c.ndtvimg.com/2026-08/2uh1tdo_trump-meridith_625x300_01_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/donald-trump-meredith-orourke-princess-of-darkness-woman-behind-trumps-fundraising-machine-11853521#publisher=newsstand",
-          "published_at": "Sat, 01 Aug 2026 20:44:59 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Zm94LWV4Y2x1c2l2ZTotaXNy",
-          "source_id": "fox",
-          "source_name": "Fox News",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Exclusive: Israeli President Herzog blasts Mamdani, praises Trump, sounds alarm on Iran",
-          "summary": "Israel's president praised Trump's deep support for the Jewish state and addressed Gaza and the board of peace, Karim Khan's ICC dismissal, U.S.-Israel relations and Zohran Mamdani's rhetoric.",
-          "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/isaac-herzog-fox-news-digital-interview-jerusalem.jpg?ve=1&tl=1",
-          "article_url": "https://www.foxnews.com/world/exclusive-israeli-president-herzog-blasts-mamdani-praises-trump-sounds-alarm-iran",
-          "published_at": "Sat, 01 Aug 2026 10:57:13 -0400",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1hbmlsLWFtYmFuaS1j",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Anil Ambani Charged For Causing Rs 1,800-Crore Loss To Provident Fund Body",
-          "summary": "The action follows a July 21 complaint from the Union Ministry of Labour and Employment alleging commission of offences of cheating, criminal conspiracy and causing wrongful loss to the Employees' Provident Fund Organisation (EPFO).",
-          "image_url": "https://c.ndtvimg.com/2021-08/fo97nvac_cbi-building-facebook_625x300_25_August_21.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/anil-ambani-charged-for-causing-rs-1-800-crore-loss-to-provident-fund-body-11853446#publisher=newsstand",
-          "published_at": "Sat, 01 Aug 2026 20:17:27 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LXNjb3BlLW9mLWhhY2tz",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran",
-          "summary": "Michigan and Minnesota are among at least seven states coping with cyberattacks aimed at disrupting water systems nationwide.",
-          "image_url": "https://static01.nyt.com/images/2026/08/01/multimedia/01dc-cyberattack-topart-fgpz/01dc-cyberattack-topart-fgpz-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html",
-          "published_at": "Sat, 01 Aug 2026 14:46:38 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LWluLWlyYW4sLXRoZS11",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear",
-          "summary": "With none of President Trump’s aims accomplished and the Strait of Hormuz closed, U.S. allies see dysfunction and vulnerability from the war.",
-          "image_url": "https://static01.nyt.com/images/2026/08/01/multimedia/01int-iran-defeat-assess-cwph/01int-iran-defeat-assess-cwph-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html",
-          "published_at": "Sat, 01 Aug 2026 14:46:19 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5838,23 +6009,6 @@
           "image_url": null,
           "article_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-finds-evidence-other-ai-agents-escaped-containment-as-it-widens-hacking-probe/articleshow/132780218.cms",
           "published_at": "Sat, 01 Aug 2026 08:33:02 +0530",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1vcGVuYWkt",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-          "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-          "published_at": "Fri, 31 Jul 2026 22:47:26 +0000",
           "cross_sections": [
             "tech",
             "ai"
@@ -6068,7 +6222,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 9622,
+    "build_ms": 9961,
     "ai_enabled": true
   }
 }
