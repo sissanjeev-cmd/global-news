@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-07T21:20:47.978Z",
-  "total_articles": 298,
-  "new_this_run": 32,
+  "last_updated": "2026-08-07T22:02:09.259Z",
+  "total_articles": 310,
+  "new_this_run": 49,
   "sources": [
     {
       "id": "techcrunch",
@@ -9,6 +9,22 @@
       "region": "IT Focus",
       "category": "Tech Media",
       "articles": [
+        {
+          "id": "dGVjaGNydW5jaC1hZnRlci1y",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+          "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+          "published_at": "Fri, 07 Aug 2026 21:30:11 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "dGVjaGNydW5jaC13YWNvbeKA",
           "source_id": "techcrunch",
@@ -49,7 +65,7 @@
           "source_category": "Tech Media",
           "feed_label": "Latest",
           "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-          "summary": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+          "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
           "published_at": "Fri, 07 Aug 2026 16:16:09 +0000",
@@ -114,22 +130,6 @@
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
           "published_at": "Fri, 07 Aug 2026 14:30:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1jaGluZXNl",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
-          "summary": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
-          "published_at": "Fri, 07 Aug 2026 14:28:31 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -405,6 +405,50 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "YXJzdGVjaG5pY2EtZmxlc2gt",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
+          "summary": "Six deaths reported among screwworm cases, one directly attributed to the flies.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae.jpg",
+          "article_url": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
+          "published_at": "Fri, 07 Aug 2026 21:09:00 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YXJzdGVjaG5pY2EtanVkZ2Ut",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
+          "summary": "New Mexico judge orders $567M fund to help address youth mental health crisis.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/boy-with-phone-1152x648-1760722441.jpg",
+          "article_url": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
+          "published_at": "Fri, 07 Aug 2026 19:49:27 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YXJzdGVjaG5pY2EtdGhlLXVs",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
+          "summary": "Fitted with telescopes, the plane did our longest imaging of the Sun's corona.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/The-scientists-and-the-equipments-for-the-mission-Credit-F-Claudel-1152x648.jpeg",
+          "article_url": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
+          "published_at": "Fri, 07 Aug 2026 19:00:17 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YXJzdGVjaG5pY2EtbmV3LW9m",
           "source_id": "arstechnica",
           "source_name": "Ars Technica",
@@ -482,53 +526,6 @@
           "article_url": "https://arstechnica.com/cars/2026/08/volkswagen-plans-to-win-america-back-with-a-pickup-report-says/",
           "published_at": "Fri, 07 Aug 2026 17:13:31 +0000",
           "cross_sections": []
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtcmVwb3J0",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Report: White House drafting executive order linking vaccines and autism",
-          "summary": "Trump determined to link life-saving shots to autism, despite science and political risk.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2236379853-1152x648.jpg",
-          "article_url": "https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/",
-          "published_at": "Fri, 07 Aug 2026 14:41:34 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtYWktY2hh",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "AI chatbots have failed people in crisis. Can that be fixed?",
-          "summary": "Clinicians and researchers say AI companies need to open up their safety data.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mentalhealthaichat-1152x648.jpg",
-          "article_url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
-          "published_at": "Fri, 07 Aug 2026 13:49:37 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtYnl0ZWRh",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "ByteDance trains massive AI model in bid to rival Anthropic",
-          "summary": "TikTok owner training a model with 10 trillion parameters.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/bytedance-1152x648.jpg",
-          "article_url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
-          "published_at": "Fri, 07 Aug 2026 13:29:22 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
         }
       ]
     },
@@ -920,6 +917,23 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "dmVudHVyZWJlYXQtZm91ci1h",
+          "source_id": "venturebeat",
+          "source_name": "VentureBeat",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks",
+          "summary": "As enterprise codebases grow, AI agents tasked with analyzing them are buckling under the weight of long-horizon tasks that require multiple interactions and tool calls. Dividing the work among a team of agents seems like the obvious fix, but it introduces a fatal flaw: most multi-agent systems are ",
+          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5XSt4gOHH2WQdbifIoXK6w/00bfc6d7266a45109f92821ac8555cec/Multi-agent_cooperation.jpg?w=300&q=30",
+          "article_url": "https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks",
+          "published_at": "Fri, 07 Aug 2026 21:45:39 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "dmVudHVyZWJlYXQtc3RhbmZv",
           "source_id": "venturebeat",
           "source_name": "VentureBeat",
@@ -1018,23 +1032,6 @@
           "published_at": "Thu, 06 Aug 2026 07:00:00 GMT",
           "cross_sections": [
             "tech"
-          ]
-        },
-        {
-          "id": "dmVudHVyZWJlYXQtbWV0YS1l",
-          "source_id": "venturebeat",
-          "source_name": "VentureBeat",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Meta enters the AI coding wars with Muse Spark 1.2 and Muse Code with persistent async background agents",
-          "summary": "Meta today released Muse Code, a terminal-based AI coding agent now in beta, alongside Muse Spark 1.2, a coding-focused update to its Muse Spark family of frontier models — a one-two punch that puts the company in direct competition with Anthropic's Claude Code, OpenAI's Codex, and the growing field",
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6O04LNAC5tze3POrf1sJIb/f662aa9a3b5329ec7d56034dc95a8fdf/ChatGPT_Image_Aug_5__2026__04_43_41_PM.png?w=300&q=30",
-          "article_url": "https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents",
-          "published_at": "Wed, 05 Aug 2026 21:00:10 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
           ]
         }
       ]
@@ -1559,7 +1556,7 @@
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
           "summary": "The agreement treats an attack on any of the countries as an attack on all, but in a region of volatile rivalries, it was unclear how it would work in practice.",
           "image_url": "https://static01.nyt.com/images/2026/08/07/multimedia/07int-Saudi-pact-qjcb/07int-Saudi-pact-qjcb-mediumSquareAt3X.jpg",
@@ -1639,6 +1636,22 @@
           "image_url": "https://static01.nyt.com/images/2026/08/07/multimedia/07int-iran-nukes-fkvj/07int-iran-nukes-fkvj-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/07/world/middleeast/iran-nuclear-program.html",
           "published_at": "Fri, 07 Aug 2026 13:18:35 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LXBvcGUtbGVvLXhpdi13",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Pope Leo XIV Was Elected. The Chicago White Sox Were Resurrected.",
+          "summary": "The elevation of Pope Leo XIV, a Chicago native and lifelong supporter of the Sox, was a godsend for a team failing on the field and with fans.",
+          "image_url": "https://static01.nyt.com/images/2026/08/05/multimedia/00biz-white-sox-pope--gwpj/00biz-white-sox-pope--gwpj-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/07/business/pope-leo-chicago-white-sox.html",
+          "published_at": "Fri, 07 Aug 2026 10:58:03 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -1815,7 +1828,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-08-07T21:20:39.299Z",
+          "published_at": "2026-08-07T22:02:00.618Z",
           "cross_sections": []
         },
         {
@@ -1829,7 +1842,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-08-07T21:20:39.299Z",
+          "published_at": "2026-08-07T22:02:00.618Z",
           "cross_sections": []
         },
         {
@@ -1843,7 +1856,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-08-07T21:20:39.299Z",
+          "published_at": "2026-08-07T22:02:00.618Z",
           "cross_sections": []
         },
         {
@@ -2662,6 +2675,50 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YmJjLWh1bnRlci1iaWRlbi10",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
+          "summary": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and spoke frankly on his father's declining health.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac11/live/b7a89160-929b-11f1-b6aa-e1ff997f01b8.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 07 Aug 2026 21:32:30 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLXdhdGNoOi1iYmMtYXNr",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
+          "summary": "The head of the football governing body has faced multiple calls to quit after his aborted attempt to sell private stakes in the World Cup.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97b3/live/cb908bb0-929b-11f1-b2ab-0dd01740f9f6.jpg",
+          "article_url": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 07 Aug 2026 21:24:17 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLXRoYWktcG0tdm93cy10",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+          "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3955/live/79cf1aa0-929e-11f1-b6aa-e1ff997f01b8.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 07 Aug 2026 21:19:27 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YmJjLXBvbGljZS1mYWlsaW5n",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2676,6 +2733,20 @@
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "YmJjLXNvcGhpYS1sYWZvcnRl",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Sophia Laforteza steps away from Katseye, the second member to depart this year",
+          "summary": "The announcement came comes after fellow bandmate Manon Bannerman went on a hiatus from the ensemble.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7e5/live/2f52b920-929c-11f1-b6aa-e1ff997f01b8.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c4g305dz0y9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 07 Aug 2026 21:05:45 GMT",
+          "cross_sections": []
         },
         {
           "id": "YmJjLWNvdW50ZXItdGVycm9y",
@@ -2724,20 +2795,6 @@
           ]
         },
         {
-          "id": "YmJjLXdhdGNoOi1iYmMtcXVl",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Watch: BBC questions Infantino over backing as Fifa president",
-          "summary": "The head of the football governing body has faced multiple calls to quit after his aborted attempt to sell private stakes in the World Cup.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97b3/live/cb908bb0-929b-11f1-b2ab-0dd01740f9f6.jpg",
-          "article_url": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 07 Aug 2026 20:12:26 GMT",
-          "cross_sections": []
-        },
-        {
           "id": "YmJjLXNlcmlhbC1zZXgtb2Zm",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2752,20 +2809,18 @@
           "cross_sections": []
         },
         {
-          "id": "YmJjLXBvbGl0aWNpYW5zLC1w",
+          "id": "YmJjLW9iZXNpdHktcmF0ZXMt",
           "source_id": "bbc",
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "Top Stories",
-          "title": "Politicians, private jets and power - the life of a Fifa president",
-          "summary": "Fifa president Gianni Infantino appears to be trying to return to business as usual after the failed World Cup private investment plan - but it may not be that easy.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2912/live/c99e72f0-928b-11f1-870d-5d08c49babb2.jpg",
-          "article_url": "https://www.bbc.co.uk/sport/football/articles/cx2rp0n9pydo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 07 Aug 2026 17:45:06 GMT",
-          "cross_sections": [
-            "tech"
-          ]
+          "title": "Obesity rates have doubled in England since 1993 - what's going on?",
+          "summary": "Around seven million more adults are living with obesity than would have been if obesity rates had stayed the same as 1993.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3036/live/4189fa30-9270-11f1-be40-e93959facbbc.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cd0xyl3yp2jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 07 Aug 2026 18:38:46 GMT",
+          "cross_sections": []
         },
         {
           "id": "YmJjLXNhdWRpLWFyYWJpYSwt",
@@ -2779,22 +2834,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa68/live/d3a158e0-9258-11f1-b9ff-37ae3aba3894.png",
           "article_url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 07 Aug 2026 17:42:54 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YmJjLXVzLWFwcGVhbHMtY291",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
-          "summary": "\"Whether or not a ⁠massive ballroom should be constructed is for Congress to decide,\" the appeals panel's ​majority said.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/027a/live/4b4f7dd0-9291-11f1-a7ab-8b30adf0800a.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 07 Aug 2026 17:41:30 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -2832,34 +2871,20 @@
           ]
         },
         {
-          "id": "YmJjLXNldmVuLWtpbGxlZC1h",
+          "id": "YmJjLWktd2FzLXN0YW5kaW5n",
           "source_id": "bbc",
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "World",
-          "title": "Seven killed after Thai student opens fire at home and school",
-          "summary": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfea/live/f48efef0-927f-11f1-870d-5d08c49babb2.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 07 Aug 2026 15:51:16 GMT",
+          "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
+          "summary": "The student says she feared never seeing her mother again after the attack killed five teachers.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a75/live/25959060-926f-11f1-be40-e93959facbbc.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 07 Aug 2026 14:20:27 GMT",
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YmJjLW1leGljby1hbmQtcGVy",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Mexico and Peru restore diplomatic relations after asylum row",
-          "summary": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfe5/live/40d88be0-926d-11f1-9f0c-8d4ddef91df6.png",
-          "article_url": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 07 Aug 2026 15:38:28 GMT",
-          "cross_sections": []
         },
         {
           "id": "YmJjLW1ldGEtZmluZWQtJDU2",
@@ -2867,28 +2892,12 @@
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "World",
+          "feed_label": "Technology",
           "title": "Meta fined $567m in largest child safety ruling against social media giant",
           "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1611/live/29966380-9240-11f1-b2ab-0dd01740f9f6.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 07 Aug 2026 09:22:03 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YmJjLXRydW1wLWFnYWluLXRy",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-          "summary": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be34/live/a73aa440-923b-11f1-af4d-5164294a85c7.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 07 Aug 2026 00:34:14 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -3008,6 +3017,22 @@
       "region": "Europe",
       "category": "Newspaper",
       "articles": [
+        {
+          "id": "Z3VhcmRpYW4tc3BhaW4tdG8t",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "Spain to introduce temporary border checks on visitors from Italy",
+          "summary": "Move comes in response to Rome imposing similar measures after mass migration rush to Ceuta\nSpain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imposing similar measures after a mass rush of people from Morocco into Ceuta.\nThe checks, which come “",
+          "image_url": "https://i.guim.co.uk/img/media/75ae6f04a27041388c7906e77e7634094837a21b/0_0_4492_3593/master/4492.jpg?width=140&quality=85&auto=format&fit=max&s=d9d12ea053a60daef93690c6b69b1cdb",
+          "article_url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
+          "published_at": "Fri, 07 Aug 2026 21:44:38 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "Z3VhcmRpYW4tdXMtcG9saWNl",
           "source_id": "guardian",
@@ -3213,22 +3238,6 @@
           ]
         },
         {
-          "id": "Z3VhcmRpYW4tbmlnZXJpYW4t",
-          "source_id": "guardian",
-          "source_name": "The Guardian",
-          "source_region": "Europe",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Nigerian security forces free more than 300 hostages in ‘largest single-day recovery’",
-          "summary": "President hails operation to rescue captives held in dense forests of Kainji Lake national park in north-central region\nNigerian security forces have rescued more than 300 abducted people in what the president, Bola Ahmed Tinubu, hailed as the largest single-day hostage recovery in the country’s his",
-          "image_url": "https://i.guim.co.uk/img/media/62045eac3aead8107b88f33dd07b04186a7000ca/0_0_3506_2805/master/3506.jpg?width=140&quality=85&auto=format&fit=max&s=426295a1242eb85d3a33c52b6eb776b7",
-          "article_url": "https://www.theguardian.com/world/2026/aug/06/nigerian-security-forces-free-hostages-abducted-by-militants",
-          "published_at": "Thu, 06 Aug 2026 12:40:32 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "Z3VhcmRpYW4tZGFuaXNoLXB1",
           "source_id": "guardian",
           "source_name": "The Guardian",
@@ -3379,6 +3388,250 @@
           "image_url": "https://i.guim.co.uk/img/media/93edb9c87b7eb6a98a213cee3de3a24230ae3481/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c958d462821fa2889088d28ee304021b",
           "article_url": "https://www.theguardian.com/business/2026/aug/04/stock-market-records-ai-profits-oil-prices-ease",
           "published_at": "Tue, 04 Aug 2026 20:56:59 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "euronews",
+      "name": "Euronews",
+      "region": "Europe",
+      "category": "Broadcaster",
+      "articles": [
+        {
+          "id": "ZXVyb25ld3MtdXMtYXBwZWFs",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "US appeals court orders halt to Trump ballroom construction without congressional approval",
+          "summary": "The US Court of Appeals for the DC Circuit, which had allowed construction to continue while it considered the case, agreed with a lower court that such a massive White House overhaul required the explicit consent of Congress.",
+          "image_url": "https://images.euronews.com/articles/stories/09/86/69/04/696x392_cmsv2_1abe1e51-f32a-5470-b767-0dce7379fd29-9866904.jpg",
+          "article_url": "http://www.euronews.com/2026/08/07/us-appeals-court-orders-halt-to-trump-ballroom-construction-without-congressional-approval",
+          "published_at": "Fri, 07 Aug 2026 20:55:15 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtdXMtc2VuYXRl",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "US Senate approves sweeping Russia sanctions bill targeting energy income",
+          "summary": "The package would impose sanctions on Russian officials, oligarchs, financial institutions and the so-called shadow fleet used to evade restrictions on Moscow's oil exports. It would also allow President Donald Trump to set tariffs of up to 500% on Russian imports, including gas and oil.",
+          "image_url": "https://images.euronews.com/articles/stories/09/86/68/80/696x392_cmsv2_e0d822bf-992e-51d3-bea1-1b430be5d049-9866880.jpg",
+          "article_url": "http://www.euronews.com/2026/08/07/us-senate-approves-sweeping-russia-sanctions-bill-targeting-energy-income",
+          "published_at": "Fri, 07 Aug 2026 20:20:21 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtbGF0ZXN0LW5l",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Latest news bulletin | August 7th, 2026 – Evening",
+          "summary": "Catch up with the most important stories from around Europe and beyond this August 7th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+          "image_url": "https://images.euronews.com/articles/stories/09/86/62/22/696x392_cmsv2_6d18c19b-4aaa-5e47-85e8-99f48fb69501-9866222.jpg",
+          "article_url": "http://www.euronews.com/video/2026/08/07/latest-news-bulletin-august-7th-2026-evening",
+          "published_at": "Fri, 07 Aug 2026 18:00:29 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3Mtd2lsZGZpcmUt",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Wildfire burns 100 hectares near Narbonne in France",
+          "summary": "Canadairs and helicopters battle a wildfire that has burned around 100 hectares in France's Corbières massif near Narbonne after a road accident.",
+          "image_url": "https://images.euronews.com/articles/stories/09/86/64/29/696x392_cmsv2_35e65f7f-d6fb-5ade-a7cf-5ff3e39f41e8-9866429.jpg",
+          "article_url": "http://www.euronews.com/video/2026/08/07/wildfire-burns-100-hectares-near-narbonne-in-france",
+          "published_at": "Fri, 07 Aug 2026 16:40:09 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3Mtdm9sa3N3YWdl",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Volkswagen’s top stakeholders call for immediate steps to boost competitiveness",
+          "summary": "As Volkswagen continues to deal with tariff impact and rising competition from Chinese carmakers, taking drastic cost-cutting and strategy steps have become all the more crucial to maintain its market position.",
+          "image_url": "https://images.euronews.com/articles/stories/09/86/64/83/696x392_cmsv2_ff209ee5-fc4e-509f-9e25-96d72222bf34-9866483.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/07/volkswagens-top-stakeholders-call-for-immediate-steps-to-boost-competitiveness",
+          "published_at": "Fri, 07 Aug 2026 15:38:03 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtdGFpd2FuLXRl",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Taiwan tests emergency response with air raid drill",
+          "summary": "Taiwan holds an air raid drill in Kaohsiung, stopping traffic and guiding residents as authorities test civilian emergency responses.",
+          "image_url": "https://images.euronews.com/articles/stories/09/86/63/51/696x392_cmsv2_b967770a-389a-5994-b11a-9f57c26dfb13-9866351.jpg",
+          "article_url": "http://www.euronews.com/video/2026/08/07/taiwan-tests-emergency-response-with-air-raid-drill",
+          "published_at": "Fri, 07 Aug 2026 15:36:27 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtcG9ydHVnYWw6",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Portugal: next week starts with sharp drop in fuel prices",
+          "summary": "Next week brings good news for drivers: a sharp drop in prices is expected, affecting both diesel and petrol at the pumps.",
+          "image_url": "https://images.euronews.com/articles/stories/09/86/59/59/696x392_cmsv2_5b96aa38-1676-5b1d-a83b-7a4ae9f42793-9865959.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/07/portugal-next-week-starts-with-sharp-drop-in-fuel-prices",
+          "published_at": "Fri, 07 Aug 2026 11:34:05 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3Mtc3JpLWxhbmth",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Sri Lanka deploys troops to contain growing prison unrest, minister says",
+          "summary": "Officials have attributed the growing unrest to acute overcrowding. Sri Lanka's prisons hold about four times their intended capacity.",
+          "image_url": "https://images.euronews.com/articles/stories/09/86/59/74/696x392_cmsv2_b14812a8-91cc-5a76-9839-35f32303d129-9865974.jpg",
+          "article_url": "http://www.euronews.com/2026/08/07/sri-lanka-deploys-troops-to-contain-growing-prison-unrest-minister-says",
+          "published_at": "Fri, 07 Aug 2026 10:43:06 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtYmVybGluLXVu",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Berlin unveils rainbow bench for Pride attack victims",
+          "summary": "Berlin officials and LGBTQ community members unveil a rainbow bench and plant a maple tree in Tiergarten to honour victims of the CSD attack.",
+          "image_url": "https://images.euronews.com/articles/stories/09/86/57/97/696x392_cmsv2_4e9e66bd-4c1d-5727-a947-b25ca89d8184-9865797.jpg",
+          "article_url": "http://www.euronews.com/video/2026/08/07/berlin-unveils-rainbow-bench-for-pride-attack-victims",
+          "published_at": "Fri, 07 Aug 2026 09:45:38 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtZHJpbmtzLWdp",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Drinks giant Diageo unveils $1bn in cost cuts to tackle slowing growth",
+          "summary": "The world's largest spirits maker has scrapped its medium-term growth target as new CEO Dave Lewis moves to reset performance after years of stagnant sales.",
+          "image_url": "https://images.euronews.com/articles/stories/09/86/52/16/696x392_cmsv2_bbde0010-cd5e-5f10-b4fb-ff0422fde2f7-9865216.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/07/drinks-giant-diageo-unveils-1bn-in-cost-cuts-to-tackle-slowing-growth",
+          "published_at": "Fri, 07 Aug 2026 09:15:33 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtYnVkZ2V0LWNh",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Budget carrier easyJet confirms €6.6 billion takeover by US private equity firm",
+          "summary": "EasyJet was founded by British-Cypriot entrepreneur Stelios Haji-Ioannou in 1995 as a no-frills airline offering low-cost fares to destinations across Europe.",
+          "image_url": "https://images.euronews.com/articles/stories/09/86/54/50/696x392_cmsv2_5b46182f-be69-53b6-bfd4-4aed7263b814-9865450.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/06/budget-carrier-easyjet-confirms-66-billion-takeover-bid-from-us-private-equity-firm",
+          "published_at": "Thu, 06 Aug 2026 19:40:36 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtZnJhbmNlLXRv",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "France to ban unsolicited telemarketing calls from next week",
+          "summary": "Despite a raft of measures in recent years, cold calls still plague daily life in France. The government has now opted for a tougher crackdown.",
+          "image_url": "https://images.euronews.com/articles/stories/09/86/51/39/696x392_cmsv2_95cd6771-8445-52e9-8883-1238c5ac009e-9865139.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/06/france-to-ban-cold-calling-from-11-august",
+          "published_at": "Thu, 06 Aug 2026 17:36:46 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtZGVjb2Rpbmct",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Decoding Nigeria’s crypto shift and transforming diaspora cash into capital {Business Africa}",
+          "summary": "Nigeria’s new Virtual Asset Council could reshape Africa’s digital economy and transform cross-border payments and how Africa’s $100 billion diaspora remittances could move from family support to long-term investment.",
+          "image_url": "https://images.euronews.com/articles/stories/09/84/23/36/696x392_cmsv2_3394aaa7-65fc-5060-8401-2ff26a9fda45-9842336.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/06/decoding-nigerias-crypto-shift-and-transforming-diaspora-cash-into-capital-business-africa",
+          "published_at": "Thu, 06 Aug 2026 15:08:20 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3Mtc3dpdGNoLTIt",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Switch 2 and Mario movie send Nintendo profits soaring by 54%",
+          "summary": "Kyoto-based games giant posts a jump in net profit for the April-June quarter, helped by continued demand for its Switch 2 console",
+          "image_url": "https://images.euronews.com/articles/stories/09/86/48/04/696x392_cmsv2_f5f43560-3d83-589c-86d2-ec69b3e419c2-9864804.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/06/switch-2-and-mario-movie-send-nintendo-profits-soaring-by-54",
+          "published_at": "Thu, 06 Aug 2026 13:02:53 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtaW5maW5lb24t",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Infineon hits revenue record: AI data centres drive growth",
+          "summary": "Once the problem child of the chip industry, Infineon has reinvented itself. Its semiconductors are now key components for electric cars, data centres and the energy transition.",
+          "image_url": "https://images.euronews.com/articles/stories/09/86/28/47/696x392_cmsv2_4dc06d7e-b330-5bf6-841d-e71cf23def07-9862847.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/05/infineon-hits-revenue-record-ai-data-centres-drive-growth",
+          "published_at": "Wed, 05 Aug 2026 10:11:57 +0200",
           "cross_sections": [
             "tech"
           ]
@@ -3564,31 +3817,33 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dG9pLXBvbGljZS1wdXQtdXAt",
+          "id": "dG9pLWluZGlhLXJlamVjdHMt",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Police put up posters of Lashkar commander across J K, declare Rs 15L reward",
-          "summary": "Authorities are on the hunt for Lashkar commander Mohammad Lateef Bhat throughout Kashmir and Jammu, offering a significant cash reward for information that can lead to his capture. Bhat has been linked to the targeted murders of a police officer and two migrants. In a separate incident, an SUV atte",
+          "title": "India rejects US criticism of FCRA Bill; MEA calls it 'internal matter'",
+          "summary": "The government is set to expedite the Foreign Contributions Regulation Act, which focuses on managing foreign funding for organizations. In contrast to criticism from a US Congressman regarding proposed changes, the administration remains resolute. Home Minister Amit Shah has met with church leaders",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/police-put-up-posters-of-lashkar-commander-across-jk-declare-rs-15l-reward/articleshow/133040695.cms",
-          "published_at": "Sat, 08 Aug 2026 00:00:16 +0530",
-          "cross_sections": []
+          "article_url": "https://timesofindia.indiatimes.com/india/fcra-bill-internal-matter-india-rejects-us-criticism/articleshow/133042254.cms",
+          "published_at": "Sat, 08 Aug 2026 03:21:51 +0530",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
-          "id": "dG9pLSdmYWtlLW5ld3MsLWFp",
+          "id": "dG9pLXVzLXNhbmN0aW9ucy1k",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "'Fake news, AI': MEA dismisses report of India requesting Israel defence pact",
-          "summary": "",
+          "title": "US sanctions Dubai-based crypto exchange over alleged IRGC funding",
+          "summary": "The United States sanctioned Dubai-based Shelbit for processing millions for Iran's state entities. This action targets sanctions evasion through cryptocurrency networks, as announced by the Treasury Department. Shelbit allegedly facilitated transactions for Iran's central bank and the IRGC. The exc",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/fake-news-ai-generated-mea-dismisses-report-of-india-requesting-defence-pact-with-israel-after-mecca-agreement/articleshow/133039889.cms",
-          "published_at": "Fri, 07 Aug 2026 23:27:00 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/world/us/us-sanctions-dubai-based-crypto-exchange-over-alleged-iran-sanctions-evasion-and-irgc-funding/articleshow/133042246.cms",
+          "published_at": "Sat, 08 Aug 2026 03:12:24 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -3930,127 +4185,109 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dGhlaGluZHUtY2hlbm5haS1i",
+          "id": "dGhlaGluZHUtYmVuZ2FsdXJ1",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Chennai-based Anicut Capital to invest in 20 startups with ₹175-crore fund",
-          "summary": "This fund is set to focus on Pre-e to Series A investments across deep-tech, enterprise-tech, consumer, and financial services startups",
-          "image_url": "https://th-i.thgim.com/public/incoming/aa3qey/article71280037.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-29%20at%2011.02.52.jpeg",
-          "article_url": "https://www.thehindu.com/news/cities/chennai/chennai-based-anicut-capital-to-invest-in-20-startups-with-175-crore-fund/article71279941.ece",
-          "published_at": "Sat, 08 Aug 2026 02:34:19 +0530",
+          "title": "Bengaluru’s ‘Freedom from Waste’ drive: C&D and inert waste to be cleared off streets from August 1",
+          "summary": "Bengaluru Solid Waste Management Ltd. has developed a dedicated app ‘Clearit’ for the purpose",
+          "image_url": "https://th-i.thgim.com/public/incoming/3q8jxc/article71277753.ece/alternates/LANDSCAPE_1200/After-footpath-GOLG8J184.3.jpg.jpg",
+          "article_url": "https://www.thehindu.com/news/cities/bangalore/debris-cd-and-inert-waste-to-be-cleared-off-streets-as-part-of-freedom-from-waste-drive-from-august-1/article71277209.ece",
+          "published_at": "Sat, 08 Aug 2026 03:10:42 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtYmpwLWJpZHMt",
+          "id": "dGhlaGluZHUtcmhpdGlrLWph",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "BJP bids to stave off JSP, RJD challenge as campaigning ends for Bankipur byelection",
-          "summary": "Candidates make final push to secure the seat in Bihar vacated by BJP national president Nitin Nabin following his election to the Rajya Sabha in April",
-          "image_url": "https://th-i.thgim.com/public/news/cities/Delhi/m5zhce/article71278664.ece/alternates/LANDSCAPE_1200/18_BM_JSP.jpg",
-          "article_url": "https://www.thehindu.com/news/national/bihar/bjp-bids-to-stave-off-jsp-rjd-challenge-as-campaigning-ends-for-bankipur-byelection/article71277579.ece",
-          "published_at": "Sat, 08 Aug 2026 02:32:26 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtYWhlYWQtb2Yt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Ahead of proposed strike, Haryana Energy Minister Anil Vij says talks with employees underway",
-          "summary": "Referring to their second demand regarding smart meters, Mr. Vij said that no tenders have yet been floated for the project and that the proposal is still under process",
-          "image_url": "https://th-i.thgim.com/public/incoming/z24as2/article71319345.ece/alternates/LANDSCAPE_1200/20260214374L.jpg",
-          "article_url": "https://www.thehindu.com/news/national/haryana/ahead-of-proposed-strike-haryana-energy-minister-anil-vij-says-talks-with-employees-underway/article71317758.ece",
-          "published_at": "Sat, 08 Aug 2026 02:30:48 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtc3RhdGUtaGln",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "State Highways expedites work on ₹24-crore high-level bridge across Then Pennar river in Tiruvannamalai",
-          "summary": "The new bridge will be funded under the Comprehensive Road Infrastructure Development Programme (CRIDP) 2024-25",
-          "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/8bs9df/article71277455.ece/alternates/LANDSCAPE_1200/bridge-53.jpeg",
-          "article_url": "https://www.thehindu.com/news/national/tamil-nadu/state-highways-expedites-work-on-24-crore-high-level-bridge-across-then-pennar-river-in-tiruvannamalai/article71277124.ece",
-          "published_at": "Sat, 08 Aug 2026 02:30:06 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtdGhlLWRlYmF0",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "The debate over NEET is bigger than exam integrity",
-          "summary": "",
-          "image_url": "https://th-i.thgim.com/public/education/vv94k2/article71276868.ece/alternates/LANDSCAPE_1200/image%203.jpg",
-          "article_url": "https://www.thehindu.com/education/the-debate-over-neet-is-bigger-than-exam-integrity/article71276690.ece",
-          "published_at": "Sat, 08 Aug 2026 02:29:40 +0530",
+          "title": "Rhitik Jassar Establishes ZTA Infrastructure as Flagship Company to Drive Healthcare, Education and Housing Projects",
+          "summary": "Meerut, Uttar Pradesh, India – Business Wire India",
+          "image_url": "https://th-i.thgim.com/public/incoming/w6l518/article71280353.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-29%20122055.png",
+          "article_url": "https://www.thehindu.com/brandhub/pr-release/rhitik-jassar-establishes-zta-infrastructure-as-flagship-company-to-drive-healthcare-education-and-housing-projects/article71280356.ece",
+          "published_at": "Sat, 08 Aug 2026 03:09:25 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUtMTUwLXllYXJz",
+          "id": "dGhlaGluZHUtYmF5ZXItc3Vw",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "150 years of the Indian Association for the Cultivation of Science",
-          "summary": "The IACS has cultivated a legacy of intellectual curiosity, scientific excellence, and national service that continues to inspire generations of researchers, Shekhar Mande writes",
-          "image_url": "https://th-i.thgim.com/public/children/fuevc6/article70683158.ece/alternates/LANDSCAPE_1200/Indian_Association_for_the_Cultivation_Of_Science_New_Gate.png",
-          "article_url": "https://www.thehindu.com/sci-tech/science/150-years-of-the-indian-association-for-the-cultivation-of-science/article71279655.ece",
-          "published_at": "Sat, 08 Aug 2026 02:29:35 +0530",
+          "title": "Bayer-Supported Phygital Telemedicine Programme, Implemented by Telerad Foundation, Wins FKCCI Global CSR and Sustainability Award 2026",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/e4pmbo/article71280373.ece/alternates/LANDSCAPE_1200/FKCCIAwardsTFJuly2026.jpg",
+          "article_url": "https://www.thehindu.com/brandhub/pr-release/bayer-supported-phygital-telemedicine-programme-implemented-by-telerad-foundation-wins-fkcci-global-csr-and-sustainability-award-2026/article71280372.ece",
+          "published_at": "Sat, 08 Aug 2026 03:09:23 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtYS5wLi1pbmtz",
+          "id": "dGhlaGluZHUtZ2VuZXNpcy1n",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "A.P. inks pact with AstraZeneca to set up Genomic Solutions Centre in Amaravati",
-          "summary": "The centre to use next-generation sequencing, AI, and genomic technologies to facilitate early cancer detection and recommend personalised treatment based on a patient's genetic profile; as part of project, AI-enabled X-ray systems to be installed in government hospitals to ensure proper diagnosis",
-          "image_url": "https://th-i.thgim.com/public/incoming/tsfydu/article71277465.ece/alternates/LANDSCAPE_1200/TDP-to-launch-dG35GABN2I.3.jpg.jpg",
-          "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-inks-pact-with-astrazeneca-to-set-up-genomic-solutions-centre-in-amaravati/article71276732.ece",
-          "published_at": "Sat, 08 Aug 2026 02:25:37 +0530",
+          "title": "Genesis Global School Inducts Founding Alumnus Rhitik Jassar to its Management Committee",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/1zcjjf/article71280336.ece/alternates/LANDSCAPE_1200/ggs.png",
+          "article_url": "https://www.thehindu.com/brandhub/pr-release/genesis-global-school-inducts-founding-alumnus-rhitik-jassar-to-its-management-committee/article71280337.ece",
+          "published_at": "Sat, 08 Aug 2026 03:09:21 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtcGx1cy1vbmUt",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Plus One student allegedly assaulted by seniors in Kerala’s Kannur; six suspended",
+          "summary": "Victim claims he was struck on the head with a stone",
+          "image_url": "https://th-i.thgim.com/public/incoming/geym1g/article71249816.ece/alternates/LANDSCAPE_1200/BL28_Sexual_assault.jpg",
+          "article_url": "https://www.thehindu.com/news/national/kerala/plus-one-student-allegedly-assaulted-by-seniors-in-keralas-kannur-six-suspended/article71279636.ece",
+          "published_at": "Sat, 08 Aug 2026 03:08:49 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtZm9ybWVyLXNi",
+          "id": "dGhlaGluZHUtZnJhbmNlLW9y",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Former SBI Chief GM to liquidate Paytm Payments Bank Ltd.",
-          "summary": "The RBI had cancelled PPBL’s banking licence three months ago",
-          "image_url": "https://th-i.thgim.com/public/incoming/82wm46/article71279877.ece/alternates/LANDSCAPE_1200/IMG_bl13_Paytm_2_1_I5DN7U90.jpg",
-          "article_url": "https://www.thehindu.com/business/former-sbi-chief-gm-to-liquidate-paytm-payments-bank-ltd/article71277047.ece",
-          "published_at": "Sat, 08 Aug 2026 02:19:23 +0530",
+          "title": "France orders 4,000 more evacuated as fires displace a third of a million across southwest Europe",
+          "summary": "Across France and Spain, roughly 3,30,000 people have been driven from homes and vacation sites by huge wildfires",
+          "image_url": "https://th-i.thgim.com/public/incoming/nc4tkh/article71279904.ece/alternates/LANDSCAPE_1200/AP07_29_2026_000060A.jpg",
+          "article_url": "https://www.thehindu.com/news/international/france-orders-more-evacuated-as-fires-displace-a-third-of-a-million-across-southwest-europe/article71279787.ece",
+          "published_at": "Sat, 08 Aug 2026 03:07:42 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtZ2JhLXRvLWlt",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "GBA to impose penalty of up to ₹1 lakh for Bengaluru plot owners not clearing garbage by August 15",
+          "summary": "The GBA had asked empty plot owners to clean up their sites on July 15 and set a deadline of August 15, giving one month’s time.",
+          "image_url": "https://th-i.thgim.com/public/incoming/nkrdwt/article71277574.ece/alternates/LANDSCAPE_1200/IMG_06dcadyr_Krishna_Nag_2_1_D7DDUUHB.jpg",
+          "article_url": "https://www.thehindu.com/news/cities/bangalore/penalty-of-up-to-1-lakh-for-plot-owners-not-clearing-garbage/article71277220.ece",
+          "published_at": "Sat, 08 Aug 2026 03:07:32 +0530",
           "cross_sections": []
         },
         {
@@ -4315,6 +4552,54 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "bmR0di11cy1jb3VydC1iYXJz",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "US Court Bars Pentagon From Adding WuXi AppTec To China Military List",
+          "summary": "A US judge on Friday barred the Defense Department from including Chinese biotechnology company WuXi AppTec Co on a list of companies believed to support Beijing's military, saying the government lacked evidence to justify the decision.",
+          "image_url": "https://c.ndtvimg.com/2026-08/tmg1c6ig_wuxi-apptec_625x300_08_August_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/world-news/us-court-bars-pentagon-from-adding-wuxi-apptec-to-china-military-list-11881694#publisher=newsstand",
+          "published_at": "Sat, 08 Aug 2026 02:23:12 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di10dXJrZXktc2F5cy1u",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Turkey Says New Defence Pact Does Not Contradict NATO Commitments",
+          "summary": "Turkey said on Friday that its new defence agreement with Pakistan and Saudi Arabia did not contradict its commitments to the NATO alliance.",
+          "image_url": "https://c.ndtvimg.com/2026-06/e8q9hh7_erdogan_625x300_12_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/world-news/turkey-says-new-defence-pact-does-not-contradict-nato-commitments-11881649#publisher=newsstand",
+          "published_at": "Sat, 08 Aug 2026 01:55:23 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1pbi10aXQtZm9yLXRh",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "In Tit-For-Tat Move, Spain Imposes Border Controls For Italy Over Ceuta",
+          "summary": "Spain will introduce temporary border checks on travellers from Italy in response to Rome imposing similar measures after a mass migrant rush into Ceuta, the interior ministry said on Friday.",
+          "image_url": "https://c.ndtvimg.com/2026-08/6euknhns_spain-ceuta-crisis_625x300_08_August_26.jpeg",
+          "article_url": "https://www.ndtv.com/world-news/in-tit-for-tat-move-spain-imposes-border-controls-for-italy-over-ceuta-crisis-11881614#publisher=newsstand",
+          "published_at": "Sat, 08 Aug 2026 01:17:05 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "bmR0di1hbnRpLWtoYWxpc3Rh",
           "source_id": "ndtv",
           "source_name": "NDTV",
@@ -4389,49 +4674,17 @@
           "cross_sections": []
         },
         {
-          "id": "bmR0di0iaXMtc2hlLWEtNS15",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "\"Is She A 5-Year-Old?\": Omar Abdullah On Biting Charge Against Iltija Mufti",
-          "summary": "The police case was filed after Iltija Mufti was accused of allegedly biting a police officer on duty during a PDP protest in Srinagar on Tuesday.",
-          "image_url": "https://c.ndtvimg.com/2024-04/4fcos4rk_omar-abdullah-ani_625x300_25_April_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/is-she-a-5-year-old-omar-abdullah-on-biting-charge-against-mehbooba-muftis-daughter-iltija-mufti-11881538#publisher=newsstand",
-          "published_at": "Sat, 08 Aug 2026 00:24:17 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bmR0di11cy1jb3VydC1oYWx0",
           "source_id": "ndtv",
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "US Court Halts Trump's Pet $400-Million White House Ballroom Project",
           "summary": "In a 2-1 decision, the US Court of Appeals sided with historic preservationists who sued to stop construction. The court said it would stay its own ruling for two weeks to allow the administration to appeal to the US Supreme Court.",
           "image_url": "https://c.ndtvimg.com/2026-06/r0j89cqg_trump-white-house-ballroom_625x300_17_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
           "article_url": "https://www.ndtv.com/world-news/us-court-halts-trumps-pet-400-million-white-house-ballroom-project-11881086#publisher=newsstand",
           "published_at": "Sat, 08 Aug 2026 00:24:09 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1pbmRpYS1oYXMtaW5p",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "India Has Initiated Efforts To Join 6th-Generation Fighter Jet Programme: Centre",
-          "summary": "The Ministry of Defence has told the panel that it has \"initiated efforts in a concerted manner to co-join the sixth-generation fighter aircraft development programme.\"",
-          "image_url": "https://c.ndtvimg.com/2026-03/o4c0rbno_fcas_625x300_19_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/amca-fcas-india-has-initiated-efforts-to-join-6th-generation-fighter-jet-programme-centre-11881535#publisher=newsstand",
-          "published_at": "Sat, 08 Aug 2026 00:23:44 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4467,52 +4720,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "bmR0di0iaG9ycmVuZG91cyI6",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "\"Horrendous\": Trump Says Will Challenge Ballroom Ruling At Supreme Court",
-          "summary": "An appeals court had earlier ordered the halting of the $400-million White House ballroom project.",
-          "image_url": "https://c.ndtvimg.com/2026-04/35422ock_ballroom-_625x300_03_April_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/horrendous-trump-says-will-challenge-ballroom-ruling-at-supreme-court-11881482#publisher=newsstand",
-          "published_at": "Fri, 07 Aug 2026 23:57:54 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1hbWlkLXByb3Rlc3Rz",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Amid Protests, Pak Defers Elections In 2 PoK Districts Days Before Polling",
-          "summary": "The third phase of elections was scheduled for August 10, but polling in Poonch and Palandri has been postponed, the election commission said.",
-          "image_url": "https://c.ndtvimg.com/2026-07/vdurbn64_pok_625x300_31_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/amid-protests-pak-defers-elections-in-2-pok-districts-days-before-polling-11881412#publisher=newsstand",
-          "published_at": "Fri, 07 Aug 2026 23:31:51 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di11cy1zZW5hdGUtcGFz",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "US Senate Passes Bill That May Penalise Countries Buying Russian Oil, Gas",
-          "summary": "The sweeping show of force from the Senate is the most substantial move yet during President Donald Trump's second term to shift the dynamic of the more than four-year war, which has now churned longer than World War I.",
-          "image_url": "https://i.ndtvimg.com/i/2018-03/putin-trump-reuters_650x400_71521582423.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/us-senate-passes-bill-that-may-penalise-countries-buying-russian-oil-gas-11881361#publisher=newsstand",
-          "published_at": "Fri, 07 Aug 2026 23:14:07 +0530",
-          "cross_sections": []
         }
       ]
     },
@@ -4522,6 +4729,50 @@
       "region": "Middle East & Africa",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "YWxqYXplZXJhLXVzLWFwcGVh",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "US appeals court halts White House ballroom construction",
+          "summary": "A federal appeals court has ordered President Donald Trump’s administration to halt construction on a ballroom project.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/us-appeals-court-halts-white-house-ballroom-construction?traffic_source=rss",
+          "published_at": "Fri, 07 Aug 2026 21:18:20 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXNvdXRoLWtv",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "South Koreans beat the heat with ‘silent disco’ pool party",
+          "summary": "South Koreans in Seoul cooled off with a silent disco pool party during a record-breaking heat wave.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/south-koreans-beat-the-heat-with-silent-disco-pool-party?traffic_source=rss",
+          "published_at": "Fri, 07 Aug 2026 21:12:45 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLWxlYmFub24t",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
+          "summary": "New Israeli attacks reported in southern Lebanon as Beirut offers optimism after the seventh round of discussions.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
+          "published_at": "Fri, 07 Aug 2026 21:02:31 +0000",
+          "cross_sections": []
+        },
         {
           "id": "YWxqYXplZXJhLWVib2xhLWNh",
           "source_id": "aljazeera",
@@ -4549,22 +4800,6 @@
           "article_url": "https://www.aljazeera.com/video/inside-story/2026/8/7/can-diplomacy-end-the-conflict-in-libya?traffic_source=rss",
           "published_at": "Fri, 07 Aug 2026 20:39:26 +0000",
           "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXVzLWFwcGVh",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "US appeals court upholds injunction pausing Trump’s White House ballroom",
-          "summary": "The two-judge majority underscored that the president needed congressional authority to move forward with his plans.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/8/7/us-appeals-court-upholds-injunction-pausing-trumps-white-house-ballroom?traffic_source=rss",
-          "published_at": "Fri, 07 Aug 2026 20:27:56 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "YWxqYXplZXJhLWNvbnRhbWlu",
@@ -4595,52 +4830,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXNldmVyYWwt",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
-          "summary": "Ukraine continues to strike warehouses and logistics hubs run by Wildberries, which it says aid Moscow's war efforts.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
-          "published_at": "Fri, 07 Aug 2026 18:54:55 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLWluc2lkZS10",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Inside the results: How redistricting shaped Tennessee’s primary election",
-          "summary": "Tennessee's party primaries saw incumbent Representative Andy Ogles ousted and set up a heated race for District 9.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/8/7/inside-the-results-how-redistricting-shaped-tennessees-primary-election?traffic_source=rss",
-          "published_at": "Fri, 07 Aug 2026 18:00:05 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLW5ldy1kZWxo",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "New Delhi on red alert as heavy rains pound the city",
-          "summary": "Heavy rains have pounded New Delhi and its surrounding towns, disrupting traffic and leaving commuters stranded.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/new-delhi-on-red-alert-as-heavy-rains-pound-the-city?traffic_source=rss",
-          "published_at": "Fri, 07 Aug 2026 17:19:06 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -4651,126 +4840,130 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "YXJhYm5ld3Mtc2F1ZGktaW5m",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Saudi inflation remains contained at 1.8% in May: GASTAT",
+          "summary": "RIYADH: Saudi Arabia’s annual inflation rate edged up to 1.8 percent in May with housing rents continuing to drive price gains in the Kingdom, official data showed. \n\n\tAccording to the latest report released by the General Authority for Statistics, the Kingdom’s Consumer Price Index edged up 0.2 per",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2647232/business-economy",
+          "published_at": "Mon, 15 Jun 2026 11:06:57 +03",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtbGViYW5vbi13",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Lebanon warns displaced against rushing home after US-Iran deal",
+          "summary": "BEIRUT/JERUSALEM: Authorities in southern Lebanon warned people displaced by three months of war between Israel and Hezbollah against rushing home on Monday despite a US-Iran deal to end the wider conflict, as Israel said it would not withdraw troops from the south.\n\n\tThe warning comes as Lebanon ha",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2647227/middle-east",
+          "published_at": "Mon, 15 Jun 2026 11:06:50 +03",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtaXNyYWVsLXNh",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Israel says won’t withdraw troops from Lebanon, Syria, Gaza",
+          "summary": "JERUSALEM: Israel’s defense minister said Monday that Israeli forces would remain in Lebanon, Syria and Gaza indefinitely, hours after the United States and Iran agreed to end the Middle East war, including in Lebanon.\n\t“Prime Minister Benjamin Netanyahu and I are pursuing a clear policy under which",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2647229/middle-east",
+          "published_at": "Mon, 15 Jun 2026 11:06:33 +03",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YXJhYm5ld3Mtc2F1ZGktYXJh",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Saudi Arabia condemn Iran&#039;s latest attack on the Gulf",
-          "summary": "RIYADH: Saudi Arabia's ministry of foreign affairs condemed Iran's latest attacks on the region in a statement on Sunday. \n\n\tThe ministry said this behavior is a violation of the principles of international law, the United Nations Charter, the Charter of the Organization of Islamic Cooperation.\n\n\t\"T",
+          "title": "Saudi Arabia, South Korea sign MoU to boost oil and gas cooperation",
+          "summary": "RIYADH: Saudi Arabia and South Korea signed a memorandum of understanding in Riyadh to enhance cooperation in the oil and gas sector and strengthen their broader energy partnership.\n\n\tEnergy Minister Prince Abdulaziz bin Salman met with South Korea’s Minister of Trade, Industry and Energy, Kim Jung-",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2650608/saudi-arabia",
-          "published_at": "Sun, 12 Jul 2026 12:07:59 +03",
+          "article_url": "https://www.arabnews.com/node/2647228/business-economy",
+          "published_at": "Mon, 15 Jun 2026 11:06:21 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtZml0Y2gtYWZm",
+          "id": "YXJhYm5ld3MteWFoeWEtYWJk",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Fitch affirms Saudi Arabia’s ‘A+’ rating with stable outlook",
-          "summary": "RIYADH: Fitch Ratings affirmed Saudi Arabia’s ‘A+’ sovereign credit rating with a stable outlook, citing strong fiscal buffers and external finances despite regional conflict and temporary trade disruptions.\n\n\tThe ratings agency said the Kingdom’s government debt and sovereign net foreign assets rem",
+          "title": "Yahya Abdul-Mateen II reflects on Marvel ‘Wonder Man’ role",
+          "summary": "DUBAI: US actor Yahya Abdul-Mateen II has reportedly said that “people see so much of themselves in (protagonist) Simon (Williams),” the role he plays in the Marvel series “Wonder Man.”: \n\n\tThe actor was known to comic book fans as DC’s Black Manta in the “Aquaman” movies and for his breakout role i",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2650607/business-economy",
-          "published_at": "Sun, 12 Jul 2026 12:07:46 +03",
+          "article_url": "https://www.arabnews.com/node/2647230/lifestyle",
+          "published_at": "Mon, 15 Jun 2026 11:06:19 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3Mtb21hbi1wb3N0",
+          "id": "YXJhYm5ld3Mtc2hhbmluYS1z",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Oman posts $5.4bn trade surplus by end of April",
-          "summary": "RIYADH: Oman’s trade balance recorded a surplus of 2.09 billion Omani rials ($5.4 billion) by the end of April, little changed from 2.11 billion rials in the same period of 2025, as merchandise exports continued to exceed imports during the first four months of the year. \n\n\tPreliminary data issued b",
+          "title": "Shanina Shaik is Australian fashion’s latest star",
+          "summary": "DUBAI: Part-Saudi model Shanina Shaik is promoting a clutch of Australian brands on social media, starring in a campaigns after hitting the runway at Australian Fashion Week earlier this year.\n\n\tThe model is quickly becoming the face of Australian fashion, with brands seemingly banking on her intern",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2650605/business-economy",
-          "published_at": "Sun, 12 Jul 2026 11:07:57 +03",
+          "article_url": "https://www.arabnews.com/node/2647231/lifestyle",
+          "published_at": "Mon, 15 Jun 2026 11:06:06 +03",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3Mtbm9yd2F5LWNy",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Norway crown princess’s son sentenced to four years in prison for rape: court",
+          "summary": "OSLO: An Oslo court on Monday convicted Norwegian Crown Princess Mette-Marit’s son of two counts of rape, sentencing him to four years in prison in a high-profile scandal that has rocked the monarchy.\n\tMarius Borg Hoiby, 29, Mette-Marit’s son from a relationship prior to her 2001 marriage to Crown P",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2647222/world",
+          "published_at": "Mon, 15 Jun 2026 10:06:57 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3Mt4oCZaW4tb3Vy",
+          "id": "YXJhYm5ld3MtZ3VsZiwtYXJh",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "’In our blood’: Palestinians keep horse culture alive against all odds",
-          "summary": "RAWABI: As Arabic rap thundered from loudspeakers and hundreds of spectators packed the stands in the occupied West Bank city of Rawabi, handlers put the finishing touches on gleaming Arabian stallions before leading them into the show ring.“Palestinians have a huge passion for Arabian horses,” said",
+          "title": "Gulf, Arab states welcome US-Iran deal to end war, reopen Hormuz",
+          "summary": "DUBAI: Gulf and Arab states welcomed on Monday a US-Iran agreement to end the war and reopen the Strait of Hormuz, expressing hope that the deal will pave the way for lasting regional stability and broader diplomatic engagement.\n\n\tSaudi Arabia welcomed the agreement between Washington and Tehran to ",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2650602/middle-east",
-          "published_at": "Sun, 12 Jul 2026 10:07:04 +03",
+          "article_url": "https://www.arabnews.com/node/2647225/middle-east",
+          "published_at": "Mon, 15 Jun 2026 10:06:15 +03",
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YXJhYm5ld3MtdXMtc2VuYXRv",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "US senator and Trump ally Lindsey Graham dies age 71",
-          "summary": "WASHINGTON: Prominent US Senator Lindsey Graham, a key ally of President Donald Trump, died on Saturday aged 71 following a “brief and sudden illness,” his office said in a statement on his official X account.\n\t“On the evening of Saturday, July 11, US Senator Lindsey Graham passed away from a brief ",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2650601/world",
-          "published_at": "Sun, 12 Jul 2026 09:07:36 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtaW4tc2ljaWx5",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "In Sicily, drones at work to predict volcanic eruptions",
-          "summary": "VULCANO PORTO: Hovering over the volcano, a buzzing drone pauses in front of a laser beam on the crater’s edge, as researchers test whether the devices can measure gases to predict eruptions.\n\tOn the Aeolian island of Vulcano, off the coast of Sicily, German researcher Marius Schaab, from the Techni",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2650600/world",
-          "published_at": "Sun, 12 Jul 2026 08:07:28 +03",
-          "cross_sections": []
-        },
-        {
-          "id": "YXJhYm5ld3MtZm9ybWVyLWVt",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Former emir of Qatar, Sheikh Hamad bin Khalifa Al Thani, dies at 74",
-          "summary": "DUBAI: ​Qatari former Emir Sheikh ‌Hamad bin ‌Khalifa ​Al ‌Thani ⁠has ​died ⁠at the ⁠age ‌of ‌74, ​the ‌nation’s Amiri Diwan, ‌its top ‌government body, said ⁠on ⁠Sunday.\n\n\t“With hearts steadfast in faith in God's decree and destiny, the Bureau of the Emir mourns the great loss to the nation of the ",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2650598/middle-east",
-          "published_at": "Sun, 12 Jul 2026 08:07:11 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtbWNncmVnb3It",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "McGregor loses in 69 seconds on UFC return from five-year layoff",
-          "summary": "LOS ANGELES: Former double world champion Conor McGregor lost to Max Holloway after only 69 seconds because of a right knee injury on Saturday, in his return to the Ultimate Fighting Championship after a five-year layoff.\n\tReferee Mike Beltran stopped the mixed martial arts welterweight contest at U",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2650597/sport",
-          "published_at": "Sun, 12 Jul 2026 08:07:04 +03",
-          "cross_sections": []
         }
       ]
     }
@@ -4846,7 +5039,7 @@
         {
           "id": "nyt",
           "name": "The New York Times",
-          "count": 23
+          "count": 24
         },
         {
           "id": "cnn",
@@ -4881,6 +5074,11 @@
           "count": 24
         },
         {
+          "id": "euronews",
+          "name": "Euronews",
+          "count": 15
+        },
+        {
           "id": "dw",
           "name": "DW News",
           "count": 11
@@ -4900,7 +5098,7 @@
         {
           "id": "thehindu",
           "name": "The Hindu",
-          "count": 16
+          "count": 15
         },
         {
           "id": "japantimes",
@@ -4910,7 +5108,7 @@
         {
           "id": "ndtv",
           "name": "NDTV",
-          "count": 13
+          "count": 11
         }
       ]
     },
@@ -4922,7 +5120,7 @@
         {
           "id": "aljazeera",
           "name": "Al Jazeera",
-          "count": 8
+          "count": 7
         },
         {
           "id": "arabnews",
@@ -4939,6 +5137,151 @@
       "icon": "💻",
       "articles": [
         {
+          "id": "dG9pLWluZGlhLXJlamVjdHMt",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "India rejects US criticism of FCRA Bill; MEA calls it 'internal matter'",
+          "summary": "The government is set to expedite the Foreign Contributions Regulation Act, which focuses on managing foreign funding for organizations. In contrast to criticism from a US Congressman regarding proposed changes, the administration remains resolute. Home Minister Amit Shah has met with church leaders",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/fcra-bill-internal-matter-india-rejects-us-criticism/articleshow/133042254.cms",
+          "published_at": "Sat, 08 Aug 2026 03:21:51 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dmVudHVyZWJlYXQtZm91ci1h",
+          "source_id": "venturebeat",
+          "source_name": "VentureBeat",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks",
+          "summary": "As enterprise codebases grow, AI agents tasked with analyzing them are buckling under the weight of long-horizon tasks that require multiple interactions and tool calls. Dividing the work among a team of agents seems like the obvious fix, but it introduces a fatal flaw: most multi-agent systems are ",
+          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5XSt4gOHH2WQdbifIoXK6w/00bfc6d7266a45109f92821ac8555cec/Multi-agent_cooperation.jpg?w=300&q=30",
+          "article_url": "https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks",
+          "published_at": "Fri, 07 Aug 2026 21:45:39 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "Z3VhcmRpYW4tc3BhaW4tdG8t",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "Spain to introduce temporary border checks on visitors from Italy",
+          "summary": "Move comes in response to Rome imposing similar measures after mass migration rush to Ceuta\nSpain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imposing similar measures after a mass rush of people from Morocco into Ceuta.\nThe checks, which come “",
+          "image_url": "https://i.guim.co.uk/img/media/75ae6f04a27041388c7906e77e7634094837a21b/0_0_4492_3593/master/4492.jpg?width=140&quality=85&auto=format&fit=max&s=d9d12ea053a60daef93690c6b69b1cdb",
+          "article_url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
+          "published_at": "Fri, 07 Aug 2026 21:44:38 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLXVzLXNhbmN0aW9ucy1k",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "US sanctions Dubai-based crypto exchange over alleged IRGC funding",
+          "summary": "The United States sanctioned Dubai-based Shelbit for processing millions for Iran's state entities. This action targets sanctions evasion through cryptocurrency networks, as announced by the Treasury Department. Shelbit allegedly facilitated transactions for Iran's central bank and the IRGC. The exc",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/world/us/us-sanctions-dubai-based-crypto-exchange-over-alleged-iran-sanctions-evasion-and-irgc-funding/articleshow/133042246.cms",
+          "published_at": "Sat, 08 Aug 2026 03:12:24 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtYmVuZ2FsdXJ1",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Bengaluru’s ‘Freedom from Waste’ drive: C&D and inert waste to be cleared off streets from August 1",
+          "summary": "Bengaluru Solid Waste Management Ltd. has developed a dedicated app ‘Clearit’ for the purpose",
+          "image_url": "https://th-i.thgim.com/public/incoming/3q8jxc/article71277753.ece/alternates/LANDSCAPE_1200/After-footpath-GOLG8J184.3.jpg.jpg",
+          "article_url": "https://www.thehindu.com/news/cities/bangalore/debris-cd-and-inert-waste-to-be-cleared-off-streets-as-part-of-freedom-from-waste-drive-from-august-1/article71277209.ece",
+          "published_at": "Sat, 08 Aug 2026 03:10:42 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtYmF5ZXItc3Vw",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Bayer-Supported Phygital Telemedicine Programme, Implemented by Telerad Foundation, Wins FKCCI Global CSR and Sustainability Award 2026",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/e4pmbo/article71280373.ece/alternates/LANDSCAPE_1200/FKCCIAwardsTFJuly2026.jpg",
+          "article_url": "https://www.thehindu.com/brandhub/pr-release/bayer-supported-phygital-telemedicine-programme-implemented-by-telerad-foundation-wins-fkcci-global-csr-and-sustainability-award-2026/article71280372.ece",
+          "published_at": "Sat, 08 Aug 2026 03:09:23 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtcGx1cy1vbmUt",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Plus One student allegedly assaulted by seniors in Kerala’s Kannur; six suspended",
+          "summary": "Victim claims he was struck on the head with a stone",
+          "image_url": "https://th-i.thgim.com/public/incoming/geym1g/article71249816.ece/alternates/LANDSCAPE_1200/BL28_Sexual_assault.jpg",
+          "article_url": "https://www.thehindu.com/news/national/kerala/plus-one-student-allegedly-assaulted-by-seniors-in-keralas-kannur-six-suspended/article71279636.ece",
+          "published_at": "Sat, 08 Aug 2026 03:08:49 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtZnJhbmNlLW9y",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "France orders 4,000 more evacuated as fires displace a third of a million across southwest Europe",
+          "summary": "Across France and Spain, roughly 3,30,000 people have been driven from homes and vacation sites by huge wildfires",
+          "image_url": "https://th-i.thgim.com/public/incoming/nc4tkh/article71279904.ece/alternates/LANDSCAPE_1200/AP07_29_2026_000060A.jpg",
+          "article_url": "https://www.thehindu.com/news/international/france-orders-more-evacuated-as-fires-displace-a-third-of-a-million-across-southwest-europe/article71279787.ece",
+          "published_at": "Sat, 08 Aug 2026 03:07:42 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGVjaGNydW5jaC1hZnRlci1y",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+          "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+          "published_at": "Fri, 07 Aug 2026 21:30:11 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dGVjaGNydW5jaC13YWNvbeKA",
           "source_id": "techcrunch",
           "source_name": "TechCrunch",
@@ -4950,6 +5293,38 @@
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
           "published_at": "Fri, 07 Aug 2026 21:20:00 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLXRoYWktcG0tdm93cy10",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+          "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3955/live/79cf1aa0-929e-11f1-b6aa-e1ff997f01b8.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 07 Aug 2026 21:19:27 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXVzLWFwcGVh",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "US appeals court halts White House ballroom construction",
+          "summary": "A federal appeals court has ordered President Donald Trump’s administration to halt construction on a ballroom project.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/us-appeals-court-halts-white-house-ballroom-construction?traffic_source=rss",
+          "published_at": "Fri, 07 Aug 2026 21:18:20 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -4971,54 +5346,6 @@
           ]
         },
         {
-          "id": "dGhlaGluZHUtY2hlbm5haS1i",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Chennai-based Anicut Capital to invest in 20 startups with ₹175-crore fund",
-          "summary": "This fund is set to focus on Pre-e to Series A investments across deep-tech, enterprise-tech, consumer, and financial services startups",
-          "image_url": "https://th-i.thgim.com/public/incoming/aa3qey/article71280037.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-29%20at%2011.02.52.jpeg",
-          "article_url": "https://www.thehindu.com/news/cities/chennai/chennai-based-anicut-capital-to-invest-in-20-startups-with-175-crore-fund/article71279941.ece",
-          "published_at": "Sat, 08 Aug 2026 02:34:19 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtYmpwLWJpZHMt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "BJP bids to stave off JSP, RJD challenge as campaigning ends for Bankipur byelection",
-          "summary": "Candidates make final push to secure the seat in Bihar vacated by BJP national president Nitin Nabin following his election to the Rajya Sabha in April",
-          "image_url": "https://th-i.thgim.com/public/news/cities/Delhi/m5zhce/article71278664.ece/alternates/LANDSCAPE_1200/18_BM_JSP.jpg",
-          "article_url": "https://www.thehindu.com/news/national/bihar/bjp-bids-to-stave-off-jsp-rjd-challenge-as-campaigning-ends-for-bankipur-byelection/article71277579.ece",
-          "published_at": "Sat, 08 Aug 2026 02:32:26 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtYWhlYWQtb2Yt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Ahead of proposed strike, Haryana Energy Minister Anil Vij says talks with employees underway",
-          "summary": "Referring to their second demand regarding smart meters, Mr. Vij said that no tenders have yet been floated for the project and that the proposal is still under process",
-          "image_url": "https://th-i.thgim.com/public/incoming/z24as2/article71319345.ece/alternates/LANDSCAPE_1200/20260214374L.jpg",
-          "article_url": "https://www.thehindu.com/news/national/haryana/ahead-of-proposed-strike-haryana-energy-minister-anil-vij-says-talks-with-employees-underway/article71317758.ece",
-          "published_at": "Sat, 08 Aug 2026 02:30:48 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "dGVjaGNydW5jaC1zZWN1cml0",
           "source_id": "techcrunch",
           "source_name": "TechCrunch",
@@ -5035,49 +5362,17 @@
           ]
         },
         {
-          "id": "dGhlaGluZHUtc3RhdGUtaGln",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
+          "id": "bmR0di11cy1jb3VydC1iYXJz",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
           "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "State Highways expedites work on ₹24-crore high-level bridge across Then Pennar river in Tiruvannamalai",
-          "summary": "The new bridge will be funded under the Comprehensive Road Infrastructure Development Programme (CRIDP) 2024-25",
-          "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/8bs9df/article71277455.ece/alternates/LANDSCAPE_1200/bridge-53.jpeg",
-          "article_url": "https://www.thehindu.com/news/national/tamil-nadu/state-highways-expedites-work-on-24-crore-high-level-bridge-across-then-pennar-river-in-tiruvannamalai/article71277124.ece",
-          "published_at": "Sat, 08 Aug 2026 02:30:06 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtMTUwLXllYXJz",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "150 years of the Indian Association for the Cultivation of Science",
-          "summary": "The IACS has cultivated a legacy of intellectual curiosity, scientific excellence, and national service that continues to inspire generations of researchers, Shekhar Mande writes",
-          "image_url": "https://th-i.thgim.com/public/children/fuevc6/article70683158.ece/alternates/LANDSCAPE_1200/Indian_Association_for_the_Cultivation_Of_Science_New_Gate.png",
-          "article_url": "https://www.thehindu.com/sci-tech/science/150-years-of-the-indian-association-for-the-cultivation-of-science/article71279655.ece",
-          "published_at": "Sat, 08 Aug 2026 02:29:35 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtYS5wLi1pbmtz",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "A.P. inks pact with AstraZeneca to set up Genomic Solutions Centre in Amaravati",
-          "summary": "The centre to use next-generation sequencing, AI, and genomic technologies to facilitate early cancer detection and recommend personalised treatment based on a patient's genetic profile; as part of project, AI-enabled X-ray systems to be installed in government hospitals to ensure proper diagnosis",
-          "image_url": "https://th-i.thgim.com/public/incoming/tsfydu/article71277465.ece/alternates/LANDSCAPE_1200/TDP-to-launch-dG35GABN2I.3.jpg.jpg",
-          "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-inks-pact-with-astrazeneca-to-set-up-genomic-solutions-centre-in-amaravati/article71276732.ece",
-          "published_at": "Sat, 08 Aug 2026 02:25:37 +0530",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "US Court Bars Pentagon From Adding WuXi AppTec To China Military List",
+          "summary": "A US judge on Friday barred the Defense Department from including Chinese biotechnology company WuXi AppTec Co on a list of companies believed to support Beijing's military, saying the government lacked evidence to justify the decision.",
+          "image_url": "https://c.ndtvimg.com/2026-08/tmg1c6ig_wuxi-apptec_625x300_08_August_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/world-news/us-court-bars-pentagon-from-adding-wuxi-apptec-to-china-military-list-11881694#publisher=newsstand",
+          "published_at": "Sat, 08 Aug 2026 02:23:12 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5147,17 +5442,17 @@
           ]
         },
         {
-          "id": "YWxqYXplZXJhLXVzLWFwcGVh",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
+          "id": "bmR0di10dXJrZXktc2F5cy1u",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "US appeals court upholds injunction pausing Trump’s White House ballroom",
-          "summary": "The two-judge majority underscored that the president needed congressional authority to move forward with his plans.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/8/7/us-appeals-court-upholds-injunction-pausing-trumps-white-house-ballroom?traffic_source=rss",
-          "published_at": "Fri, 07 Aug 2026 20:27:56 +0000",
+          "feed_label": "Top Stories",
+          "title": "Turkey Says New Defence Pact Does Not Contradict NATO Commitments",
+          "summary": "Turkey said on Friday that its new defence agreement with Pakistan and Saudi Arabia did not contradict its commitments to the NATO alliance.",
+          "image_url": "https://c.ndtvimg.com/2026-06/e8q9hh7_erdogan_625x300_12_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/world-news/turkey-says-new-defence-pact-does-not-contradict-nato-commitments-11881649#publisher=newsstand",
+          "published_at": "Sat, 08 Aug 2026 01:55:23 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5208,6 +5503,22 @@
           "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
           "article_url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
           "published_at": "2026-08-07T20:01:51.000Z",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1pbi10aXQtZm9yLXRh",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "In Tit-For-Tat Move, Spain Imposes Border Controls For Italy Over Ceuta",
+          "summary": "Spain will introduce temporary border checks on travellers from Italy in response to Rome imposing similar measures after a mass migrant rush into Ceuta, the interior ministry said on Friday.",
+          "image_url": "https://c.ndtvimg.com/2026-08/6euknhns_spain-ceuta-crisis_625x300_08_August_26.jpeg",
+          "article_url": "https://www.ndtv.com/world-news/in-tit-for-tat-move-spain-imposes-border-controls-for-italy-over-ceuta-crisis-11881614#publisher=newsstand",
+          "published_at": "Sat, 08 Aug 2026 01:17:05 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5293,6 +5604,22 @@
           ]
         },
         {
+          "id": "YXJzdGVjaG5pY2EtdGhlLXVs",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
+          "summary": "Fitted with telescopes, the plane did our longest imaging of the Sun's corona.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/The-scientists-and-the-equipments-for-the-mission-Credit-F-Claudel-1152x648.jpeg",
+          "article_url": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
+          "published_at": "Fri, 07 Aug 2026 19:00:17 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dGhldmVyZ2Utd2F0Y2hpbmct",
           "source_id": "theverge",
           "source_name": "The Verge",
@@ -5309,33 +5636,17 @@
           ]
         },
         {
-          "id": "YWxqYXplZXJhLXNldmVyYWwt",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
+          "id": "ZXVyb25ld3MtdXMtYXBwZWFs",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
-          "summary": "Ukraine continues to strike warehouses and logistics hubs run by Wildberries, which it says aid Moscow's war efforts.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
-          "published_at": "Fri, 07 Aug 2026 18:54:55 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di0iaXMtc2hlLWEtNS15",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "\"Is She A 5-Year-Old?\": Omar Abdullah On Biting Charge Against Iltija Mufti",
-          "summary": "The police case was filed after Iltija Mufti was accused of allegedly biting a police officer on duty during a PDP protest in Srinagar on Tuesday.",
-          "image_url": "https://c.ndtvimg.com/2024-04/4fcos4rk_omar-abdullah-ani_625x300_25_April_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/is-she-a-5-year-old-omar-abdullah-on-biting-charge-against-mehbooba-muftis-daughter-iltija-mufti-11881538#publisher=newsstand",
-          "published_at": "Sat, 08 Aug 2026 00:24:17 +0530",
+          "feed_label": "News",
+          "title": "US appeals court orders halt to Trump ballroom construction without congressional approval",
+          "summary": "The US Court of Appeals for the DC Circuit, which had allowed construction to continue while it considered the case, agreed with a lower court that such a massive White House overhaul required the explicit consent of Congress.",
+          "image_url": "https://images.euronews.com/articles/stories/09/86/69/04/696x392_cmsv2_1abe1e51-f32a-5470-b767-0dce7379fd29-9866904.jpg",
+          "article_url": "http://www.euronews.com/2026/08/07/us-appeals-court-orders-halt-to-trump-ballroom-construction-without-congressional-approval",
+          "published_at": "Fri, 07 Aug 2026 20:55:15 +0200",
           "cross_sections": [
             "tech"
           ]
@@ -5346,7 +5657,7 @@
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "US Court Halts Trump's Pet $400-Million White House Ballroom Project",
           "summary": "In a 2-1 decision, the US Court of Appeals sided with historic preservationists who sued to stop construction. The court said it would stay its own ruling for two weeks to allow the administration to appeal to the US Supreme Court.",
           "image_url": "https://c.ndtvimg.com/2026-06/r0j89cqg_trump-white-house-ballroom_625x300_17_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
@@ -5368,22 +5679,6 @@
           "image_url": "https://media.wired.com/photos/6a73a1931940912fe3731ad5/master/pass/Made-In-China-Christopher-Nolan-Interview-That-Broke-Chinese-Internet-Business.jpg",
           "article_url": "https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/",
           "published_at": "Fri, 07 Aug 2026 18:54:04 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1pbmRpYS1oYXMtaW5p",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "India Has Initiated Efforts To Join 6th-Generation Fighter Jet Programme: Centre",
-          "summary": "The Ministry of Defence has told the panel that it has \"initiated efforts in a concerted manner to co-join the sixth-generation fighter aircraft development programme.\"",
-          "image_url": "https://c.ndtvimg.com/2026-03/o4c0rbno_fcas_625x300_19_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/amca-fcas-india-has-initiated-efforts-to-join-6th-generation-fighter-jet-programme-centre-11881535#publisher=newsstand",
-          "published_at": "Sat, 08 Aug 2026 00:23:44 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5485,103 +5780,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "Z3VhcmRpYW4tanVkZ2UtYXBw",
-          "source_id": "guardian",
-          "source_name": "The Guardian",
-          "source_region": "Europe",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Judge approves Trump effort to end South Sudan TPS protections",
-          "summary": "Decision follows supreme court ruling that allowed US government to strip protections for Haitians and Syrians\nTemporary protected status (TPS) for hundreds of South Sudanese nationals in the United States is set to end after a federal judge ruled that the Trump administration can move forward with ",
-          "image_url": "https://i.guim.co.uk/img/media/9bd27b70fe701104ae96a61f3b5d9b87bdb4e4b4/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=c2ba89fc03967397614f10e34e06f647",
-          "article_url": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
-          "published_at": "Fri, 07 Aug 2026 18:34:34 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di0iaG9ycmVuZG91cyI6",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "\"Horrendous\": Trump Says Will Challenge Ballroom Ruling At Supreme Court",
-          "summary": "An appeals court had earlier ordered the halting of the $400-million White House ballroom project.",
-          "image_url": "https://c.ndtvimg.com/2026-04/35422ock_ballroom-_625x300_03_April_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/horrendous-trump-says-will-challenge-ballroom-ruling-at-supreme-court-11881482#publisher=newsstand",
-          "published_at": "Fri, 07 Aug 2026 23:57:54 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy1idXJnZXIta2luZy1v",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Burger King overtakes Wendy's as the nation's second-largest burger chain",
-          "summary": "Burger King is once again the second-largest burger chain in the U.S. by system-wide sales.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/07/burger-king-wendys-hamburger-restaurants.html",
-          "published_at": "Fri, 07 Aug 2026 18:19:39 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy1oZXJlLWFyZS10aHJl",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Here are three key takeaways from the disappointing July jobs report",
-          "summary": "Nonfarm payrolls in the U.S. unexpectedly declined in July, but so did the unemployment rate, leaving investors with mixed signals.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html",
-          "published_at": "Fri, 07 Aug 2026 18:09:18 GMT",
-          "cross_sections": [
-            "tech",
-            "jobcuts"
-          ]
-        },
-        {
-          "id": "bmR0di1hbWlkLXByb3Rlc3Rz",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Amid Protests, Pak Defers Elections In 2 PoK Districts Days Before Polling",
-          "summary": "The third phase of elections was scheduled for August 10, but polling in Poonch and Palandri has been postponed, the election commission said.",
-          "image_url": "https://c.ndtvimg.com/2026-07/vdurbn64_pok_625x300_31_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/amid-protests-pak-defers-elections-in-2-pok-districts-days-before-polling-11881412#publisher=newsstand",
-          "published_at": "Fri, 07 Aug 2026 23:31:51 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtbmV3LW9m",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
-          "summary": "19 new maps continue the story from MachineGames' other campaign additions.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/QUAKE_DLC_Xbox_TitledHero_1920x1080-02-JPG-9d514999ee7900fc9cfe-1600x900-1-1152x648-1786124877.jpg",
-          "article_url": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
-          "published_at": "Fri, 07 Aug 2026 18:00:02 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -5631,6 +5829,23 @@
       "name": "LLM & AI",
       "icon": "🤖",
       "articles": [
+        {
+          "id": "dmVudHVyZWJlYXQtZm91ci1h",
+          "source_id": "venturebeat",
+          "source_name": "VentureBeat",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks",
+          "summary": "As enterprise codebases grow, AI agents tasked with analyzing them are buckling under the weight of long-horizon tasks that require multiple interactions and tool calls. Dividing the work among a team of agents seems like the obvious fix, but it introduces a fatal flaw: most multi-agent systems are ",
+          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5XSt4gOHH2WQdbifIoXK6w/00bfc6d7266a45109f92821ac8555cec/Multi-agent_cooperation.jpg?w=300&q=30",
+          "article_url": "https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks",
+          "published_at": "Fri, 07 Aug 2026 21:45:39 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
         {
           "id": "Y25iY3RlY2gt4oCYc2Fhc3Bv",
           "source_id": "cnbctech",
@@ -5842,7 +6057,7 @@
           "source_category": "Tech Media",
           "feed_label": "Latest",
           "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-          "summary": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+          "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
           "published_at": "Fri, 07 Aug 2026 16:16:09 +0000",
@@ -5863,23 +6078,6 @@
           "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/524/openai-sam-altman-american-workers.jpg?ve=1&tl=1",
           "article_url": "https://www.foxnews.com/tech/ai-newsletter-company-accused-favoring-foreigners-over-american-workers",
           "published_at": "Fri, 07 Aug 2026 11:09:25 -0400",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtYnl0ZWRh",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "ByteDance trains massive AI model in bid to rival Anthropic",
-          "summary": "TikTok owner training a model with 10 trillion parameters.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/bytedance-1152x648.jpg",
-          "article_url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
-          "published_at": "Fri, 07 Aug 2026 13:29:22 +0000",
           "cross_sections": [
             "tech",
             "ai"
@@ -6039,23 +6237,6 @@
           ]
         },
         {
-          "id": "dmVudHVyZWJlYXQtbWV0YS1l",
-          "source_id": "venturebeat",
-          "source_name": "VentureBeat",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Meta enters the AI coding wars with Muse Spark 1.2 and Muse Code with persistent async background agents",
-          "summary": "Meta today released Muse Code, a terminal-based AI coding agent now in beta, alongside Muse Spark 1.2, a coding-focused update to its Muse Spark family of frontier models — a one-two punch that puts the company in direct competition with Anthropic's Claude Code, OpenAI's Codex, and the growing field",
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6O04LNAC5tze3POrf1sJIb/f662aa9a3b5329ec7d56034dc95a8fdf/ChatGPT_Image_Aug_5__2026__04_43_41_PM.png?w=300&q=30",
-          "article_url": "https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents",
-          "published_at": "Wed, 05 Aug 2026 21:00:10 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "Z3VhcmRpYW4tYWktbW9kZWxz",
           "source_id": "guardian",
           "source_name": "The Guardian",
@@ -6093,7 +6274,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 10133,
+    "build_ms": 9920,
     "ai_enabled": true
   }
 }
