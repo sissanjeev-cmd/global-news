@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-08T19:05:57.584Z",
+  "last_updated": "2026-08-08T19:41:39.944Z",
   "total_articles": 303,
-  "new_this_run": 26,
+  "new_this_run": 16,
   "sources": [
     {
       "id": "techcrunch",
@@ -9,6 +9,23 @@
       "region": "IT Focus",
       "category": "Tech Media",
       "articles": [
+        {
+          "id": "dGVjaGNydW5jaC1vcGVuYWkt",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "OpenAI acquires presentation startup NextSlide",
+          "summary": "NextSlide says its team members are now working on ChatGPT.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+          "published_at": "Sat, 08 Aug 2026 19:41:13 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
         {
           "id": "dGVjaGNydW5jaC14LXJlcGxh",
           "source_id": "techcrunch",
@@ -51,23 +68,6 @@
           "published_at": "Sat, 08 Aug 2026 15:00:00 +0000",
           "cross_sections": [
             "tech"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1vcGVuYWkt",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "OpenAI says it slowed Astra model development over security concerns",
-          "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-          "published_at": "Fri, 07 Aug 2026 22:48:24 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
           ]
         },
         {
@@ -116,23 +116,6 @@
           "published_at": "Fri, 07 Aug 2026 21:00:08 +0000",
           "cross_sections": [
             "tech"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1jbG91ZGZs",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-          "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-          "published_at": "Fri, 07 Aug 2026 16:16:09 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
           ]
         }
       ]
@@ -1436,6 +1419,22 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "bnl0LWlyYW4taXNzdWVzLWxp",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
+          "summary": "The head of Iran’s Supreme National Security Council said that the Strait of Hormuz would remain closed until the United States met certain conditions.",
+          "image_url": "https://static01.nyt.com/images/2026/08/08/multimedia/08int-iran-mwcl/08int-iran-mwcl-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
+          "published_at": "Sat, 08 Aug 2026 19:04:40 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "bnl0LW5ldy1hbWF6b24tZGF0",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1507,22 +1506,6 @@
           "image_url": "https://static01.nyt.com/images/2026/08/08/multimedia/08dc-blanche-03-kvjw/08dc-blanche-03-kvjw-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/08/us/politics/blanche-attorney-general-doj-trump-power.html",
           "published_at": "Sat, 08 Aug 2026 16:28:57 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LWlyYW4taXNzdWVzLWxp",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
-          "summary": "The head of Iran’s Supreme National Security Council said that the Strait of Hormuz would remain closed until the United States met certain conditions.",
-          "image_url": "https://static01.nyt.com/images/2026/08/08/multimedia/08int-iran-mwcl/08int-iran-mwcl-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
-          "published_at": "Sat, 08 Aug 2026 16:12:26 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -1790,7 +1773,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-08-08T19:05:49.259Z",
+          "published_at": "2026-08-08T19:41:31.685Z",
           "cross_sections": []
         },
         {
@@ -1804,7 +1787,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-08-08T19:05:49.259Z",
+          "published_at": "2026-08-08T19:41:31.685Z",
           "cross_sections": []
         },
         {
@@ -1818,7 +1801,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-08-08T19:05:49.259Z",
+          "published_at": "2026-08-08T19:41:31.685Z",
           "cross_sections": []
         },
         {
@@ -2608,6 +2591,22 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YmJjLWhvcm11ei10YWxrcy1w",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+          "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92dc/live/fa229770-934a-11f1-a35f-039358cea467.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 08 Aug 2026 19:18:57 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YmJjLWNoaWxkLWFtb25nLXRo",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2709,20 +2708,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcf2/live/be4e3d50-933e-11f1-a35f-039358cea467.jpg",
           "article_url": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 08 Aug 2026 15:51:11 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "YmJjLXR5cGhvb24tZG9scGhp",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
-          "summary": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb41/live/9cac3330-934a-11f1-a35f-039358cea467.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 08 Aug 2026 15:15:17 GMT",
           "cross_sections": []
         },
         {
@@ -3636,33 +3621,63 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dG9pLXNwYWluLXJlcGxhY2Vz",
+          "id": "dG9pLXNjaWVuY2UtbWluLWRl",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Spain replaces its India ambassador after row over use of funds for cultural events",
-          "summary": "",
+          "title": "Science min dedicates to nation first-of-its-kind ‘eco-educational hub’ in Lucknow",
+          "summary": "Union science minister Jitendra Singh launched the CSIR-NBRI eco-educational hub in Lucknow, a dynamic facility focusing on environmental education and the conservation of biodiversity. The hub includes an enlightening heritage trail that highlights India's botanical heritage and a specialised Bambo",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/world/europe/spain-replaces-its-india-ambassador-after-controversy-over-use-of-funds-for-cultural-events-report/articleshow/133057484.cms",
-          "published_at": "Sat, 08 Aug 2026 23:28:32 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/science/union-minister-jitendra-singh-dedicates-to-nation-first-of-its-kind-eco-educational-hub-in-lucknow/articleshow/133058869.cms",
+          "published_at": "Sun, 09 Aug 2026 01:02:12 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dG9pLSdzaG91bGRuJ3QtYmUt",
+          "id": "dG9pLXJlc3RvcmUtai1rLXN0",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "'Shouldn't be exclusive club': Pak minister seeks Nato-like Islamic military alliance",
-          "summary": "Pakistan's defense minister has put forth an innovative concept for an Islamic military coalition, reminiscent of NATO's structure. This initiative follows a newly established defense pact with Saudi Arabia and Turkey, ensuring collective protection against external attacks. By leveraging Saudi weal",
+          "title": "Restore J K statehood, says human rights forum",
+          "summary": "An advocacy group for human rights calls for the restoration of statehood and the repeal of the 2019 Reorganisation Act. They argue that statehood should not be contingent upon the regional security situation. The forum additionally demands statehood for Ladakh and its inclusion in the Sixth Schedul",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/world/pakistan/shouldnt-be-exclusive-club-pak-minister-seeks-nato-like-islamic-military-alliance/articleshow/133057146.cms",
-          "published_at": "Sat, 08 Aug 2026 23:20:01 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/india/restore-jk-statehood-says-human-rights-forum/articleshow/133057882.cms",
+          "published_at": "Sun, 09 Aug 2026 00:40:47 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dG9pLXJhaWRzLWluLWZvdXIt",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Raids in four Kashmir districts in anti-national narrative case",
+          "summary": "On Saturday, Counter Intelligence Kashmir executed raids at five locations spread across the districts of Baramulla, Bandipora, Anantnag, and Shopian. During these operations, several electronic and digital storage devices were confiscated as part of an investigation into an anti-national narrative.",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/raids-in-four-kashmir-districts-in-anti-national-narrative-case/articleshow/133057881.cms",
+          "published_at": "Sun, 09 Aug 2026 00:16:32 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLWZpci1hZ2FpbnN0LTE3",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "FIR against 17 for assaulting 4 transporting bovines in J K",
+          "summary": "Seventeen alleged cow vigilantes are facing legal action in Ramban after assaulting four men who were transporting bovines acquired from a police auction. The brutal incident, which occurred on August 4, resulted in one man suffering life-threatening injuries. This alarming event follows a fatal enc",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/fir-against-17-for-assaulting-4-transporting-bovines-in-jk/articleshow/133057884.cms",
+          "published_at": "Sat, 08 Aug 2026 23:39:36 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -3712,34 +3727,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "dG9pLSdzaG91bGQtaGF2ZS1n",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "'Should have gone to Ranchi': Rijiju takes dig at Rahul Gandhi over Prayagraj event",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/should-have-gone-to-ranchi-rijiju-takes-dig-at-rahul-gandhi-over-prayagraj-event/articleshow/133055553.cms",
-          "published_at": "Sat, 08 Aug 2026 21:35:10 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dG9pLeKAmG9yZ2Fucy11bmFi",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "‘Organs unable to cope’: Jharkhand student leader’s health worsens after 15-day fast",
-          "summary": "Student leader Devendra Nath Mahto is facing a critical decline in health as he continues his hunger strike to advocate for essential reforms in Jharkhand's recruitment examination system. In response to the protests, the government has pledged to take the demands seriously and has set up a dedicate",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/city/ranchi/my-bodys-organs-unable-to-cope-jharkhand-student-leaders-health-worsens-after-15-day-hunger-strike/articleshow/133053954.cms",
-          "published_at": "Sat, 08 Aug 2026 19:38:06 +0530",
-          "cross_sections": []
         },
         {
           "id": "dG9pLWVsb24tbXVzay1zYXlz",
@@ -4002,105 +3989,123 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dGhlaGluZHUtZ2F1aGF0aS1o",
+          "id": "dGhlaGluZHUtY2l0aXplbnMt",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Gauhati High Court seeks status quo on encroachment in Manas Tiger Reserve",
-          "summary": "One of the major encroachers is a seed farm under the Bodoland Territorial Council’s Agriculture Department, the petition by green activist Rohit Choudhury says",
-          "image_url": "https://th-i.thgim.com/public/incoming/rf5y8q/article71313329.ece/alternates/LANDSCAPE_1200/GAUHATI%20HIGH%20COURT.jpg",
-          "article_url": "https://www.thehindu.com/news/national/assam/gauhati-high-court-seeks-status-quo-on-encroachment-in-manas-tiger-reserve/article71312943.ece",
-          "published_at": "Sun, 09 Aug 2026 00:29:24 +0530",
+          "title": "Citizens of nowhere: G.B. Road’s sex workers at risk of exclusion in ongoing SIR",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/f2fi9d/article71322887.ece/alternates/LANDSCAPE_1200/08_GB_Road_07_08_Delhi.jpg",
+          "article_url": "https://www.thehindu.com/news/cities/Delhi/citizens-of-nowhere-gb-roads-sex-workers-at-risk-of-exclusion-in-ongoing-sir/article71322458.ece",
+          "published_at": "Sun, 09 Aug 2026 01:02:05 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUtY2VudHJlLXBh",
+          "id": "dGhlaGluZHUtYXNzb2NpYXRp",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Centre passes buck to M.P. govt. over tribals’ displacement due to Ken-Betwa project",
-          "summary": "This comes even as locals and tribal communities in the State’s Chhatarpur district have been protesting against the project for months, accusing authorities of forcibly evicting families even before the full compensation process has been completed",
-          "image_url": "https://th-i.thgim.com/public/incoming/dh0a4u/article71313380.ece/alternates/LANDSCAPE_1200/26th_mehul_GOVGGHLGA5FHE.3.jpg.jpg",
-          "article_url": "https://www.thehindu.com/news/national/centre-passes-buck-to-mp-govt-over-tribals-displacement-due-to-ken-betwa-project/article71313152.ece",
-          "published_at": "Sun, 09 Aug 2026 00:29:21 +0530",
+          "title": "Association urges government to set up separate welfare board for people living with HIV/AIDS",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/cities/chennai/association-urges-government-to-set-up-separate-welfare-board-for-people-living-with-hivaids/article71321788.ece",
+          "published_at": "Sun, 09 Aug 2026 00:59:46 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtY2FiYmllcywt",
+          "id": "dGhlaGluZHUtY2JpLWFycmVz",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Cabbies, gig workers threaten indefinite strike in Hyderabad from August 8",
-          "summary": "The strike warning by gig workers and app-based drivers comes on the heels of August 24 strike call given by autorickshaw drivers’ unions",
-          "image_url": "https://th-i.thgim.com/public/incoming/41q6pl/article71313354.ece/alternates/LANDSCAPE_1200/gig%20economy%20delivery%20partner%20%2002.jpg",
-          "article_url": "https://www.thehindu.com/news/cities/Hyderabad/cabbies-gig-workers-threaten-indefinite-strike-in-hyderabad-from-august-8/article71313277.ece",
-          "published_at": "Sun, 09 Aug 2026 00:29:19 +0530",
+          "title": "CBI arrests four accused persons in tech-support fraud case",
+          "summary": "The CBI raided 10 locations across Punjab and Delhi, including a call centre operated from the premises of the main accused in Mohali in the intervening night of August 5 and 6",
+          "image_url": "https://th-i.thgim.com/public/incoming/xy89jx/article71315277.ece/alternates/LANDSCAPE_1200/iStock-1447145892.jpg",
+          "article_url": "https://www.thehindu.com/news/national/cbi-arrests-four-accused-persons-in-tech-support-fraud-case/article71314883.ece",
+          "published_at": "Sun, 09 Aug 2026 00:58:55 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtY2hhbmRpZ2Fy",
+          "id": "dGhlaGluZHUtY2hpbmEtamFw",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Chandigarh University Hosts Punjab's State-Level Orientation Workshop for National Children's Science Congress-2026",
-          "summary": "Chandigarh University Hosts Punjab's State-Level Orientation Workshop for National Children's Science Congress-2026",
-          "image_url": "https://th-i.thgim.com/public/incoming/1zvvaj/article71313418.ece/alternates/LANDSCAPE_1200/PRESS-PIC-001-CU.jpg",
-          "article_url": "https://www.thehindu.com/brandhub/pr-release/chandigarh-university-hosts-punjabs-state-level-orientation-workshop-for-national-childrens-science-congress-2026/article71313419.ece",
-          "published_at": "Sun, 09 Aug 2026 00:29:16 +0530",
+          "title": "China-Japan tensions escalate after Tokyo labels Beijing as its 'greatest strategic challenge'",
+          "summary": "The white paper approved by Japan's cabinet on Tuesday (August 4) said China's growing military actions are Japan’s top security challenge and “must be addressed through overall national strength and cooperation with allies and like-minded nations”",
+          "image_url": "https://th-i.thgim.com/public/incoming/vmyr9y/article71315079.ece/alternates/LANDSCAPE_1200/2025-11-22T055100Z_1836420579_RC2ZMHAAHC5F_RTRMADP_3_CHINA-JAPAN.JPG",
+          "article_url": "https://www.thehindu.com/news/international/china-japan-tensions-escalate-after-tokyo-labels-beijing-as-its-greatest-strategic-challenge/article71315074.ece",
+          "published_at": "Sun, 09 Aug 2026 00:58:54 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdGVsYW5nYW5h",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Telangana extends industrial land conversion applications under HILTP till October",
+          "summary": "Announcing reopening of the application portal for three months from August 1, the government said the SRO rates prevailing prior to June 5 will apply",
+          "image_url": "https://th-i.thgim.com/public/incoming/mfxwoj/article71315273.ece/alternates/LANDSCAPE_1200/industrial%20areas%20Balanagar%2006.jpg",
+          "article_url": "https://www.thehindu.com/news/national/telangana/telangana-extends-industrial-land-conversion-applications-under-hiltp-till-october/article71314862.ece",
+          "published_at": "Sun, 09 Aug 2026 00:58:31 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtZ3VydW11cnRo",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Gurumurthy delivers YGP Centenary Year Memorial Lecture on Indian Civilisation",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/h5hqxq/article71315049.ece/alternates/LANDSCAPE_1200/4871_6_8_2026_18_0_6_1_DSC_9724.JPG",
+          "article_url": "https://www.thehindu.com/news/national/tamil-nadu/gurumurthy-delivers-ygp-centenary-year-memorial-lecture-on-indian-civilisation/article71313747.ece",
+          "published_at": "Sun, 09 Aug 2026 00:58:29 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUtdGFtaWwtbmFk",
+          "id": "dGhlaGluZHUtbGNjLXVyZ2Vz",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Tamil Nadu Budget 2026: TN-SHORE project offers fillip to mangrove afforestation, restoration in Kanniyakumari",
-          "summary": "The mangrove ecosystem at Manakudy estuary is a vital ecological habitat, supporting a rich diversity of aquatic species while serving as a seasonal refuge for several local and migratory birds.",
-          "image_url": "https://th-i.thgim.com/public/incoming/f83jgl/article71310268.ece/alternates/LANDSCAPE_1200/2315_23_3_2025_17_53_50_1_MANGROVES.JPG",
-          "article_url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-budget-2026-tn-shore-project-offers-fillip-to-mangrove-afforestation-restoration-in-kanniyakumari/article71309832.ece",
-          "published_at": "Sun, 09 Aug 2026 00:29:06 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtcmVsaWVmLWVm",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Relief effort for flood-affected people in Kerala",
+          "title": "LCC urges CM to grant government job to wife of doctor who died of COVID-19",
           "summary": "",
           "image_url": null,
-          "article_url": "https://www.thehindu.com/news/cities/Tiruchirapalli/relief-effort-for-flood-affected-people-in-kerala/article71312694.ece",
-          "published_at": "Sun, 09 Aug 2026 00:28:54 +0530",
+          "article_url": "https://www.thehindu.com/news/cities/chennai/lcc-urges-cm-to-grant-government-job-to-wife-of-doctor-who-died-of-covid-19/article71322068.ece",
+          "published_at": "Sun, 09 Aug 2026 00:58:27 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUtZmFybWVycywt",
+          "id": "dGhlaGluZHUta2FsYWJ1cmFn",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Farmers, TVK cadres welcome proposed College for Organic Agriculture near Kumbakonam",
+          "title": "Kalaburagi Rangayana’s repertory to stage Shantarasa’s novel-based play ‘Sannagowdasani’",
           "summary": "",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/cities/Tiruchirapalli/farmers-tvk-cadres-welcome-proposed-college-for-organic-agriculture-near-kumbakonam/article71313050.ece",
-          "published_at": "Sun, 09 Aug 2026 00:28:53 +0530",
+          "image_url": "https://th-i.thgim.com/public/incoming/9pi5cc/article71322882.ece/alternates/LANDSCAPE_1200/10258_8_8_2026_20_6_10_1_RANGAYANA_KALABURAGI_1.JPG",
+          "article_url": "https://www.thehindu.com/news/national/karnataka/kalaburagi-rangayanas-repertory-to-stage-shantarasas-novel-based-play-sannagowdasani/article71322171.ece",
+          "published_at": "Sun, 09 Aug 2026 00:58:21 +0530",
           "cross_sections": []
         },
         {
@@ -4587,6 +4592,50 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YWxqYXplZXJhLWF0LWxlYXN0",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "At least 200 people evacuated as wildfire rages near Lake Garda",
+          "summary": "At least 200 people have been evacuated after a wildfire broke out near Italy’s Lake Garda.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss",
+          "published_at": "Sat, 08 Aug 2026 19:13:03 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLWxlYmFuZXNl",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Lebanese soldiers injured while Israeli troops intrude on southern town",
+          "summary": "Soldiers disarm unexploded ordnance in Zawtar al-Gharbiyah, near where Israeli forces reportedly built an earth barrier.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss",
+          "published_at": "Sat, 08 Aug 2026 19:00:43 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLXVzLXNsYW1z",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "US slams Chinese ‘nature reserve’ as effort to claim South China Sea",
+          "summary": "US State Department accuses China of attempting to deny Filipino vessels access to fishing grounds in contested area.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/8/us-slams-chinese-nature-reserve-as-effort-to-claim-south-china-sea?traffic_source=rss",
+          "published_at": "Sat, 08 Aug 2026 18:57:53 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YWxqYXplZXJhLeKAmGRlYmls",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
@@ -4656,50 +4705,6 @@
           "image_url": null,
           "article_url": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss",
           "published_at": "Sat, 08 Aug 2026 17:14:09 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXNlcmJpYS1h",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
-          "summary": "Serbia says it will help rebuild Ukrainian cities and provide aid as the two countries deepen cooperation.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
-          "published_at": "Sat, 08 Aug 2026 17:05:17 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXNhdWRpLXBh",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?",
-          "summary": "The agreement names no adversary, but analysts say Iran and its regional network are central to the thinking behind it.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/8/8/saudi-pakistan-turkiye-pact-a-new-shield-or-strategic-signal?traffic_source=rss",
-          "published_at": "Sat, 08 Aug 2026 16:52:11 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXdoaWNoLXN0",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Which stars need to shine this season: Real Madrid, Barcelona, Man Utd, PSG",
-          "summary": "From the Premier League and La Liga to the UEFA Champions League, which players hold the key to their clubs' season?",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/sports/2026/8/8/which-stars-need-to-shine-this-season-real-madrid-barcelona-man-utd-psg?traffic_source=rss",
-          "published_at": "Sat, 08 Aug 2026 16:26:36 +0000",
           "cross_sections": []
         }
       ]
@@ -4846,7 +4851,7 @@
         {
           "id": "techcrunch",
           "name": "TechCrunch",
-          "count": 8
+          "count": 7
         },
         {
           "id": "theverge",
@@ -4967,7 +4972,7 @@
         {
           "id": "thehindu",
           "name": "The Hindu",
-          "count": 14
+          "count": 15
         },
         {
           "id": "japantimes",
@@ -5006,33 +5011,162 @@
       "icon": "💻",
       "articles": [
         {
-          "id": "dGhlaGluZHUtY2VudHJlLXBh",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
+          "id": "dGVjaGNydW5jaC1vcGVuYWkt",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "OpenAI acquires presentation startup NextSlide",
+          "summary": "NextSlide says its team members are now working on ChatGPT.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+          "published_at": "Sat, 08 Aug 2026 19:41:13 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "dG9pLXNjaWVuY2UtbWluLWRl",
+          "source_id": "toi",
+          "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Centre passes buck to M.P. govt. over tribals’ displacement due to Ken-Betwa project",
-          "summary": "This comes even as locals and tribal communities in the State’s Chhatarpur district have been protesting against the project for months, accusing authorities of forcibly evicting families even before the full compensation process has been completed",
-          "image_url": "https://th-i.thgim.com/public/incoming/dh0a4u/article71313380.ece/alternates/LANDSCAPE_1200/26th_mehul_GOVGGHLGA5FHE.3.jpg.jpg",
-          "article_url": "https://www.thehindu.com/news/national/centre-passes-buck-to-mp-govt-over-tribals-displacement-due-to-ken-betwa-project/article71313152.ece",
-          "published_at": "Sun, 09 Aug 2026 00:29:21 +0530",
+          "feed_label": "Top Stories",
+          "title": "Science min dedicates to nation first-of-its-kind ‘eco-educational hub’ in Lucknow",
+          "summary": "Union science minister Jitendra Singh launched the CSIR-NBRI eco-educational hub in Lucknow, a dynamic facility focusing on environmental education and the conservation of biodiversity. The hub includes an enlightening heritage trail that highlights India's botanical heritage and a specialised Bambo",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/science/union-minister-jitendra-singh-dedicates-to-nation-first-of-its-kind-eco-educational-hub-in-lucknow/articleshow/133058869.cms",
+          "published_at": "Sun, 09 Aug 2026 01:02:12 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtY2FiYmllcywt",
+          "id": "dGhlaGluZHUtYXNzb2NpYXRp",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Cabbies, gig workers threaten indefinite strike in Hyderabad from August 8",
-          "summary": "The strike warning by gig workers and app-based drivers comes on the heels of August 24 strike call given by autorickshaw drivers’ unions",
-          "image_url": "https://th-i.thgim.com/public/incoming/41q6pl/article71313354.ece/alternates/LANDSCAPE_1200/gig%20economy%20delivery%20partner%20%2002.jpg",
-          "article_url": "https://www.thehindu.com/news/cities/Hyderabad/cabbies-gig-workers-threaten-indefinite-strike-in-hyderabad-from-august-8/article71313277.ece",
-          "published_at": "Sun, 09 Aug 2026 00:29:19 +0530",
+          "title": "Association urges government to set up separate welfare board for people living with HIV/AIDS",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/cities/chennai/association-urges-government-to-set-up-separate-welfare-board-for-people-living-with-hivaids/article71321788.ece",
+          "published_at": "Sun, 09 Aug 2026 00:59:46 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtY2JpLWFycmVz",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "CBI arrests four accused persons in tech-support fraud case",
+          "summary": "The CBI raided 10 locations across Punjab and Delhi, including a call centre operated from the premises of the main accused in Mohali in the intervening night of August 5 and 6",
+          "image_url": "https://th-i.thgim.com/public/incoming/xy89jx/article71315277.ece/alternates/LANDSCAPE_1200/iStock-1447145892.jpg",
+          "article_url": "https://www.thehindu.com/news/national/cbi-arrests-four-accused-persons-in-tech-support-fraud-case/article71314883.ece",
+          "published_at": "Sun, 09 Aug 2026 00:58:55 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtY2hpbmEtamFw",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "China-Japan tensions escalate after Tokyo labels Beijing as its 'greatest strategic challenge'",
+          "summary": "The white paper approved by Japan's cabinet on Tuesday (August 4) said China's growing military actions are Japan’s top security challenge and “must be addressed through overall national strength and cooperation with allies and like-minded nations”",
+          "image_url": "https://th-i.thgim.com/public/incoming/vmyr9y/article71315079.ece/alternates/LANDSCAPE_1200/2025-11-22T055100Z_1836420579_RC2ZMHAAHC5F_RTRMADP_3_CHINA-JAPAN.JPG",
+          "article_url": "https://www.thehindu.com/news/international/china-japan-tensions-escalate-after-tokyo-labels-beijing-as-its-greatest-strategic-challenge/article71315074.ece",
+          "published_at": "Sun, 09 Aug 2026 00:58:54 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdGVsYW5nYW5h",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Telangana extends industrial land conversion applications under HILTP till October",
+          "summary": "Announcing reopening of the application portal for three months from August 1, the government said the SRO rates prevailing prior to June 5 will apply",
+          "image_url": "https://th-i.thgim.com/public/incoming/mfxwoj/article71315273.ece/alternates/LANDSCAPE_1200/industrial%20areas%20Balanagar%2006.jpg",
+          "article_url": "https://www.thehindu.com/news/national/telangana/telangana-extends-industrial-land-conversion-applications-under-hiltp-till-october/article71314862.ece",
+          "published_at": "Sun, 09 Aug 2026 00:58:31 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLWhvcm11ei10YWxrcy1w",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+          "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92dc/live/fa229770-934a-11f1-a35f-039358cea467.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 08 Aug 2026 19:18:57 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LWlyYW4taXNzdWVzLWxp",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
+          "summary": "The head of Iran’s Supreme National Security Council said that the Strait of Hormuz would remain closed until the United States met certain conditions.",
+          "image_url": "https://static01.nyt.com/images/2026/08/08/multimedia/08int-iran-mwcl/08int-iran-mwcl-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
+          "published_at": "Sat, 08 Aug 2026 19:04:40 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXVzLXNsYW1z",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "US slams Chinese ‘nature reserve’ as effort to claim South China Sea",
+          "summary": "US State Department accuses China of attempting to deny Filipino vessels access to fishing grounds in contested area.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/8/us-slams-chinese-nature-reserve-as-effort-to-claim-south-china-sea?traffic_source=rss",
+          "published_at": "Sat, 08 Aug 2026 18:57:53 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLXJhaWRzLWluLWZvdXIt",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Raids in four Kashmir districts in anti-national narrative case",
+          "summary": "On Saturday, Counter Intelligence Kashmir executed raids at five locations spread across the districts of Baramulla, Bandipora, Anantnag, and Shopian. During these operations, several electronic and digital storage devices were confiscated as part of an investigation into an anti-national narrative.",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/raids-in-four-kashmir-districts-in-anti-national-narrative-case/articleshow/133057881.cms",
+          "published_at": "Sun, 09 Aug 2026 00:16:32 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5049,6 +5183,22 @@
           "image_url": "https://static01.nyt.com/images/2026/08/08/multimedia/08CLI-AMAZON-jtbw/08CLI-AMAZON-jtbw-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
           "published_at": "Sat, 08 Aug 2026 18:17:02 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLWZpci1hZ2FpbnN0LTE3",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "FIR against 17 for assaulting 4 transporting bovines in J K",
+          "summary": "Seventeen alleged cow vigilantes are facing legal action in Ramban after assaulting four men who were transporting bovines acquired from a police auction. The brutal incident, which occurred on August 4, resulted in one man suffering life-threatening injuries. This alarming event follows a fatal enc",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/fir-against-17-for-assaulting-4-transporting-bovines-in-jk/articleshow/133057884.cms",
+          "published_at": "Sat, 08 Aug 2026 23:39:36 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5097,22 +5247,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab46/live/d545e110-931c-11f1-870d-5d08c49babb2.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 08 Aug 2026 17:58:42 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLXNwYWluLXJlcGxhY2Vz",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Spain replaces its India ambassador after row over use of funds for cultural events",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/world/europe/spain-replaces-its-india-ambassador-after-controversy-over-use-of-funds-for-cultural-events-report/articleshow/133057484.cms",
-          "published_at": "Sat, 08 Aug 2026 23:28:32 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5198,22 +5332,6 @@
           ]
         },
         {
-          "id": "dG9pLSdzaG91bGRuJ3QtYmUt",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "'Shouldn't be exclusive club': Pak minister seeks Nato-like Islamic military alliance",
-          "summary": "Pakistan's defense minister has put forth an innovative concept for an Islamic military coalition, reminiscent of NATO's structure. This initiative follows a newly established defense pact with Saudi Arabia and Turkey, ensuring collective protection against external attacks. By leveraging Saudi weal",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/world/pakistan/shouldnt-be-exclusive-club-pak-minister-seeks-nato-like-islamic-military-alliance/articleshow/133057146.cms",
-          "published_at": "Sat, 08 Aug 2026 23:20:01 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bmR0di1hbWFyaW5kZXItc2lu",
           "source_id": "ndtv",
           "source_name": "NDTV",
@@ -5273,22 +5391,6 @@
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/08/08/hunter-biden-says-joe-bidens-cancer-has-spread-is-very-debilitating.html",
           "published_at": "Sat, 08 Aug 2026 17:25:25 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXNlcmJpYS1h",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
-          "summary": "Serbia says it will help rebuild Ukrainian cities and provide aid as the two countries deepen cooperation.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
-          "published_at": "Sat, 08 Aug 2026 17:05:17 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5386,22 +5488,6 @@
           "image_url": "https://c.ndtvimg.com/2026-06/u51pdpi8_hormuz-tensions_625x300_29_June_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
           "article_url": "https://www.ndtv.com/world-news/iran-israel-middle-east-houthis-yemen-what-will-it-take-to-open-strait-of-hormuz-iran-issues-list-of-demands-11884369#publisher=newsstand",
           "published_at": "Sat, 08 Aug 2026 21:45:29 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LWlyYW4taXNzdWVzLWxp",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
-          "summary": "The head of Iran’s Supreme National Security Council said that the Strait of Hormuz would remain closed until the United States met certain conditions.",
-          "image_url": "https://static01.nyt.com/images/2026/08/08/multimedia/08int-iran-mwcl/08int-iran-mwcl-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
-          "published_at": "Sat, 08 Aug 2026 16:12:26 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5565,86 +5651,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "bmR0di0nY29sbGVjdG9yLW9m",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "'Collector Of Souls': Ukraine Mourns Volunteer Killed Recovering War Dead",
-          "summary": "An Orthodox Christian service was held at the Cathedral of Saint Volodymyr, in central Kyiv, where thousands of people gathered to pay their respects following his death in a landmine explosion during a recovery mission on August 5.",
-          "image_url": "https://c.ndtvimg.com/2026-08/mhrrh8f_oleksiy-yukov-afp-_625x300_08_August_26.jpeg",
-          "article_url": "https://www.ndtv.com/world-news/russia-ukraine-war-oleksiy-yukov-collector-of-souls-ukraine-mourns-volunteer-killed-recovering-war-dead-11884133#publisher=newsstand",
-          "published_at": "Sat, 08 Aug 2026 20:25:24 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1pcmFuLWNsYWltcy1o",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Iran Claims Hormuz Deal Close, But Adds Caveat For Opening Strait",
-          "summary": "A US official, who declined to be identified, said on Friday that Washington anticipated an agreement soon between Iran and Oman, which sit on either side of the strait, so that normal oil traffic could resume.",
-          "image_url": "https://c.ndtvimg.com/2026-06/eblmn2jg_strait-of-hormuz_625x300_19_June_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/iran-claims-hormuz-deal-close-but-adds-caveat-for-opening-strait-11884117#publisher=newsstand",
-          "published_at": "Sat, 08 Aug 2026 20:21:05 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LWFzLXRoYWlsYW5kLWdl",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "As Thailand Gets Known for Mass Shootings, Fresh Pledges to Fix Gun Laws",
-          "summary": "A rampage at a high school in Thailand on Friday was the latest episode of gun violence in a country that has grappled in recent years with several attacks.",
-          "image_url": "https://static01.nyt.com/images/2026/08/08/multimedia/08int-thailand-guns-02-lkgm/08int-thailand-guns-02-lkgm-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/08/world/asia/thailand-mass-shootings-gun-laws.html",
-          "published_at": "Sat, 08 Aug 2026 14:47:22 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Zm94LW5pZ2VyaWEncy1sYXJn",
-          "source_id": "fox",
-          "source_name": "Fox News",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Nigeria's largest rescue operation frees 308 hostages held by militants in Kwara State",
-          "summary": "Victims of a six-month jihadi kidnapping in Nigeria's Kwara State describe starvation, forced births, and burying fellow captives in a forest hideout.",
-          "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Hauwa_Saliu.jpg?ve=1&tl=1",
-          "article_url": "https://www.foxnews.com/world/nigerias-largest-rescue-operation-frees-308-hostages-held-militants-kwara-state",
-          "published_at": "Sat, 08 Aug 2026 10:33:38 -0400",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YmJjLXNwYWluLWltcG9zZXMt",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-          "summary": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/918c/live/9be54310-9331-11f1-8c55-af7610e137d7.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 08 Aug 2026 14:25:19 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -5659,6 +5665,23 @@
       "name": "LLM & AI",
       "icon": "🤖",
       "articles": [
+        {
+          "id": "dGVjaGNydW5jaC1vcGVuYWkt",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "OpenAI acquires presentation startup NextSlide",
+          "summary": "NextSlide says its team members are now working on ChatGPT.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+          "published_at": "Sat, 08 Aug 2026 19:41:13 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
         {
           "id": "Z3VhcmRpYW4tb3BlbmFpLXRv",
           "source_id": "guardian",
@@ -5756,23 +5779,6 @@
           "image_url": null,
           "article_url": "https://economictimes.indiatimes.com/tech/technology/apple-and-openai-escalate-legal-battle-over-devices/articleshow/133046522.cms",
           "published_at": "Sat, 08 Aug 2026 10:28:41 +0530",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1vcGVuYWkt",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "OpenAI says it slowed Astra model development over security concerns",
-          "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-          "published_at": "Fri, 07 Aug 2026 22:48:24 +0000",
           "cross_sections": [
             "tech",
             "ai"
@@ -5891,23 +5897,6 @@
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4KaZ8XJq6sjpxb51A5q7VT/2061c33e7cc4c52501ffd2c127c824e7/team-memory-smk1.jpg?w=300&q=30",
           "article_url": "https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong",
           "published_at": "Fri, 07 Aug 2026 16:30:29 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1jbG91ZGZs",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-          "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-          "published_at": "Fri, 07 Aug 2026 16:16:09 +0000",
           "cross_sections": [
             "tech",
             "ai"
@@ -6087,7 +6076,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 9074,
+    "build_ms": 9431,
     "ai_enabled": true
   }
 }
