@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-09T16:19:36.092Z",
-  "total_articles": 307,
-  "new_this_run": 28,
+  "last_updated": "2026-08-09T17:01:34.651Z",
+  "total_articles": 316,
+  "new_this_run": 29,
   "sources": [
     {
       "id": "techcrunch",
@@ -648,6 +648,20 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "Y25ldC1mcmFtZXdvcmvigJlz",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Framework’s Data Breach Revealed Customer Data: Here’s What to Know",
+          "summary": "The computer company has notified all customers of a data breach.",
+          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/51cfae18-44d4-4edc-95ef-ab8ad9e663d0.jpg",
+          "article_url": "https://www.cnet.com/tech/computing/frameworks-data-breach-revealed-customer-data-heres-what-to-know/",
+          "published_at": "2026-08-09T16:35:41.000Z",
+          "cross_sections": []
+        },
+        {
           "id": "Y25ldC04LXNuYWNrcy1hbmQt",
           "source_id": "cnet",
           "source_name": "CNET",
@@ -688,23 +702,6 @@
           "article_url": "https://www.cnet.com/tech/mobile/t-mobile-just-quietly-killed-its-better-value-phone-plan-after-less-than-a-year/",
           "published_at": "2026-08-07T18:49:43.000Z",
           "cross_sections": [
-            "ai"
-          ]
-        },
-        {
-          "id": "Y25ldC1kZXRhaWxzLWxlYWst",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Details Leak on OpenAI’s Doughnut-Shaped Speaker",
-          "summary": "The ChatGPT maker is reportedly working on a small, portable AI smart speaker, but it better not look too much like Apple’s designs.",
-          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2287606982.jpg",
-          "article_url": "https://www.cnet.com/tech/services-and-software/details-leak-openai-doughnut-shaped-speaker/",
-          "published_at": "2026-08-07T17:58:00.000Z",
-          "cross_sections": [
-            "tech",
             "ai"
           ]
         },
@@ -1431,6 +1428,36 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "bnl0LWlzcmFlbC1yZWplY3Rz",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Israel Rejects Trump’s 15-Point Plan to Disarm Hamas",
+          "summary": "President Trump’s Board of Peace announced an agreement last month that aimed at Hamas giving up its weapons alongside an Israeli withdrawal from Gaza.",
+          "image_url": "https://static01.nyt.com/images/2026/08/09/multimedia/09int-israel-gaza-wfkz/09int-israel-gaza-wfkz-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html",
+          "published_at": "Sun, 09 Aug 2026 16:39:14 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LW9iYW1hLWFuZC1hYmR1",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Obama and Abdul El-Sayed Spoke to Discuss Unity After Michigan Senate Primary",
+          "summary": "Dr. Abdul El-Sayed’s call with the former president comes as he tries to win over wary Democrats in Michigan’s high-stakes Senate race.",
+          "image_url": null,
+          "article_url": "https://www.nytimes.com/2026/08/09/us/politics/obama-abdul-el-sayed-michigan-senate.html",
+          "published_at": "Sun, 09 Aug 2026 16:27:16 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "bnl0LXN5cmlhLWFncmVlcy10",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1463,22 +1490,6 @@
           ]
         },
         {
-          "id": "bnl0LWlzcmFlbC1yZWplY3Rz",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Israel Rejects Trump’s 15-Point Plan to Disarm Hamas",
-          "summary": "President Trump’s Board of Peace announced an agreement last month that aimed at Hamas’s giving up its weapons alongside an Israeli withdrawal from Gaza.",
-          "image_url": "https://static01.nyt.com/images/2026/08/09/multimedia/09int-israel-gaza-wfkz/09int-israel-gaza-wfkz-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html",
-          "published_at": "Sun, 09 Aug 2026 15:48:57 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bnl0LWlyYW4sLWhvbGRpbmct",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1493,20 +1504,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "bnl0LW9iYW1hLWFuZC1hYmR1",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Obama and Abdul El-Sayed Spoke to Discuss Unity After Michigan Senate Primary",
-          "summary": "Dr. Abdul El-Sayed’s call with the former president comes as he tries to win over wary Democrats in Michigan’s high-stakes Senate race.",
-          "image_url": null,
-          "article_url": "https://www.nytimes.com/2026/08/09/us/politics/obama-abdul-el-sayed-michigan-senate.html",
-          "published_at": "Sun, 09 Aug 2026 14:18:20 +0000",
-          "cross_sections": []
         },
         {
           "id": "bnl0LW1pY2hpZ2FuLXNlbmF0",
@@ -1765,7 +1762,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-08-09T16:19:27.964Z",
+          "published_at": "2026-08-09T17:01:26.856Z",
           "cross_sections": []
         },
         {
@@ -1779,7 +1776,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-08-09T16:19:27.964Z",
+          "published_at": "2026-08-09T17:01:26.856Z",
           "cross_sections": []
         },
         {
@@ -1793,7 +1790,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-08-09T16:19:27.964Z",
+          "published_at": "2026-08-09T17:01:26.856Z",
           "cross_sections": []
         },
         {
@@ -2595,12 +2592,40 @@
       "category": "Broadcaster",
       "articles": [
         {
-          "id": "YmJjLWRyb25lcy1zcG90dGVk",
+          "id": "YmJjLW1hbi1hcnJlc3RlZC1h",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
+          "summary": "A nearby vessel rescued 12 people from the water before police arrived, the US Coast Guard says.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d79/live/103a7590-9405-11f1-a3c4-b3ff07dc0ce9.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 09 Aug 2026 16:46:18 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLXB1ZXJ0by1yaWNvLXJh",
           "source_id": "bbc",
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "World",
+          "title": "Puerto Rico rations water supplies due to intense drought",
+          "summary": "Hot weather and ageing infrastructure have led to the rationing, affecting hundreds of thousands of people.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f6f/live/8f493ea0-9407-11f1-a3c4-b3ff07dc0ce9.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 09 Aug 2026 16:43:23 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLWRyb25lcy1zcG90dGVk",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
           "title": "Drones spotted over German base days after Leipzig bomb incident",
           "summary": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e19/live/9f71d840-940d-11f1-870d-5d08c49babb2.png",
@@ -2651,22 +2676,6 @@
           "cross_sections": []
         },
         {
-          "id": "YmJjLXN1c3BlY3RlZC1jcmlt",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
-          "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6578/live/9e6e94f0-8bfd-11f1-a52a-dba993a97936.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 09 Aug 2026 12:39:18 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "YmJjLWFuY2llbnQtcm9tYW4t",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2693,22 +2702,6 @@
           "article_url": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 09 Aug 2026 04:32:06 GMT",
           "cross_sections": []
-        },
-        {
-          "id": "YmJjLW1vcmUtYXJlYXMtb2Yt",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "More areas of UK likely to move into drought as fifth heatwave builds",
-          "summary": "With no significant rain forecast in the coming week, more areas of England could move into drought status, as Simon King explains.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5808/live/74e44b40-9402-11f1-b2ab-0dd01740f9f6.jpg",
-          "article_url": "https://www.bbc.co.uk/weather/articles/c9d8vwg0197o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 09 Aug 2026 03:10:56 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "YmJjLWh1bmRyZWRzLWFycmVz",
@@ -3388,6 +3381,130 @@
           "article_url": "http://www.euronews.com/2026/08/09/nagasaki-81st-atomic-bomb-anniversary-unnerves-proponents-of-pacifism",
           "published_at": "Sun, 09 Aug 2026 12:41:25 +0200",
           "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3Mtdm9sa3N3YWdl",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Volkswagen’s top stakeholders call for immediate steps to boost competitiveness",
+          "summary": "As Volkswagen continues to deal with tariff impact and rising competition from Chinese carmakers, taking drastic cost-cutting and strategy steps have become all the more crucial to maintain its market position.",
+          "image_url": "https://images.euronews.com/articles/stories/09/86/64/83/696x392_cmsv2_ff209ee5-fc4e-509f-9e25-96d72222bf34-9866483.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/07/volkswagens-top-stakeholders-call-for-immediate-steps-to-boost-competitiveness",
+          "published_at": "Fri, 07 Aug 2026 15:38:03 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtcG9ydHVnYWw6",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Portugal: next week starts with sharp drop in fuel prices",
+          "summary": "Next week brings good news for drivers: a sharp drop in prices is expected, affecting both diesel and petrol at the pumps.",
+          "image_url": "https://images.euronews.com/articles/stories/09/86/59/59/696x392_cmsv2_5b96aa38-1676-5b1d-a83b-7a4ae9f42793-9865959.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/07/portugal-next-week-starts-with-sharp-drop-in-fuel-prices",
+          "published_at": "Fri, 07 Aug 2026 11:34:05 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtZHJpbmtzLWdp",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Drinks giant Diageo unveils $1bn in cost cuts to tackle slowing growth",
+          "summary": "The world's largest spirits maker has scrapped its medium-term growth target as new CEO Dave Lewis moves to reset performance after years of stagnant sales.",
+          "image_url": "https://images.euronews.com/articles/stories/09/86/52/16/696x392_cmsv2_bbde0010-cd5e-5f10-b4fb-ff0422fde2f7-9865216.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/07/drinks-giant-diageo-unveils-1bn-in-cost-cuts-to-tackle-slowing-growth",
+          "published_at": "Fri, 07 Aug 2026 09:15:33 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtYnVkZ2V0LWNh",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Budget carrier easyJet confirms €6.6 billion takeover by US private equity firm",
+          "summary": "EasyJet was founded by British-Cypriot entrepreneur Stelios Haji-Ioannou in 1995 as a no-frills airline offering low-cost fares to destinations across Europe.",
+          "image_url": "https://images.euronews.com/articles/stories/09/86/54/50/696x392_cmsv2_5b46182f-be69-53b6-bfd4-4aed7263b814-9865450.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/06/budget-carrier-easyjet-confirms-66-billion-takeover-bid-from-us-private-equity-firm",
+          "published_at": "Thu, 06 Aug 2026 19:40:36 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtZnJhbmNlLXRv",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "France to ban unsolicited telemarketing calls from next week",
+          "summary": "Despite a raft of measures in recent years, cold calls still plague daily life in France. The government has now opted for a tougher crackdown.",
+          "image_url": "https://images.euronews.com/articles/stories/09/86/51/39/696x392_cmsv2_95cd6771-8445-52e9-8883-1238c5ac009e-9865139.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/06/france-to-ban-cold-calling-from-11-august",
+          "published_at": "Thu, 06 Aug 2026 17:36:46 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtZGVjb2Rpbmct",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Decoding Nigeria’s crypto shift and transforming diaspora cash into capital {Business Africa}",
+          "summary": "Nigeria’s new Virtual Asset Council could reshape Africa’s digital economy and transform cross-border payments and how Africa’s $100 billion diaspora remittances could move from family support to long-term investment.",
+          "image_url": "https://images.euronews.com/articles/stories/09/84/23/36/696x392_cmsv2_3394aaa7-65fc-5060-8401-2ff26a9fda45-9842336.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/06/decoding-nigerias-crypto-shift-and-transforming-diaspora-cash-into-capital-business-africa",
+          "published_at": "Thu, 06 Aug 2026 15:08:20 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3Mtc3dpdGNoLTIt",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Switch 2 and Mario movie send Nintendo profits soaring by 54%",
+          "summary": "Kyoto-based games giant posts a jump in net profit for the April-June quarter, helped by continued demand for its Switch 2 console",
+          "image_url": "https://images.euronews.com/articles/stories/09/86/48/04/696x392_cmsv2_f5f43560-3d83-589c-86d2-ec69b3e419c2-9864804.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/06/switch-2-and-mario-movie-send-nintendo-profits-soaring-by-54",
+          "published_at": "Thu, 06 Aug 2026 13:02:53 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtaW5maW5lb24t",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Infineon hits revenue record: AI data centres drive growth",
+          "summary": "Once the problem child of the chip industry, Infineon has reinvented itself. Its semiconductors are now key components for electric cars, data centres and the energy transition.",
+          "image_url": "https://images.euronews.com/articles/stories/09/86/28/47/696x392_cmsv2_4dc06d7e-b330-5bf6-841d-e71cf23def07-9862847.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/05/infineon-hits-revenue-record-ai-data-centres-drive-growth",
+          "published_at": "Wed, 05 Aug 2026 10:11:57 +0200",
+          "cross_sections": [
+            "tech"
+          ]
         }
       ]
     },
@@ -3397,6 +3514,22 @@
       "region": "Europe",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "ZHctZGVubWFyazotc2V2ZXJh",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Denmark: Several wounded in suspected gang shooting",
+          "summary": "Police said they believed that the incident was linked to a \"settling of scores\" within criminal networks.",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/denmark-several-wounded-in-suspected-gang-shooting/a-78297276?maca=en-rss-en-top-1022-xml-mrss",
+          "published_at": "Sun, 9 Aug 2026 16:31:00 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "ZHctZ2VybWFueS1uZXdzOi1i",
           "source_id": "dw",
@@ -3500,22 +3633,6 @@
           "article_url": "https://www.dw.com/en/study-obesity-bigger-cancer-risk-than-previously-thought/a-78291063?maca=en-rss-en-top-1022-xml-mrss",
           "published_at": "Sun, 9 Aug 2026 09:00:00 GMT",
           "cross_sections": []
-        },
-        {
-          "id": "ZHctaW5kb25lc2lhOi1tb3Vu",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Indonesia: Mount Bromo wildfire grows, spurs park closure",
-          "summary": "Indonesian authorities have closed a popular national park until further notice. Strong winds and rough terrain are making it difficult for firefighters to extinguish the blaze.",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/indonesia-mount-bromo-wildfire-grows-spurs-park-closure/a-78293431?maca=en-rss-en-top-1022-xml-mrss",
-          "published_at": "Sun, 9 Aug 2026 08:38:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "ZHctYXVzdHJhbGlhOi1qZXRz",
@@ -3644,61 +3761,31 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dG9pLXdhdGNoOi1wbS1tb2Rp",
+          "id": "dG9pLXdpbGwta3VsZGVlcC15",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Watch: PM Modi meets CWG medallists, says ‘Jo khelega, woh khilega’",
-          "summary": "Prime Minister Narendra Modi met India’s Commonwealth Games 2026 medallists in New Delhi and congratulated them after the country finished fourth in Glasgow. Sharing a video, he wrote, \"Always #Cheer4Bharat.\" Modi told athletes, \"Jo khelega, woh khilega\" and led them in chanting \"Bharat Mata ki Jai.",
+          "title": "Will Kuldeep Yadav play? India coach reveals big selection headache ahead of Galle Test",
+          "summary": "India's spin bowling coach addressed worries about Kuldeep Yadav's fitness after the warm-up match, highlighting that Kuldeep bowled almost twenty overs before taking a precautionary break to evaluate his condition. Fellow spinners Jadeja and Suthar garnered extensive pitch experience with longer sp",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/watch-pm-modi-meets-cwg-medallists-says-jo-khelega-woh-khilega/articleshow/133070255.cms",
-          "published_at": "Sun, 09 Aug 2026 21:26:24 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLWVkLWRpcmVjdG9yLXJh",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "ED director Rahul Navin gets 1-year extension",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/ed-director-rahul-navin-gets-1-year-extension/articleshow/133070211.cms",
-          "published_at": "Sun, 09 Aug 2026 21:10:01 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/will-kuldeep-yadav-play-india-coach-reveals-big-selection-headache-ahead-of-galle-test/articleshow/133070219.cms",
+          "published_at": "Sun, 09 Aug 2026 21:08:09 +0530",
           "cross_sections": []
         },
         {
-          "id": "dG9pLSckMjAwLWJuLW1hcmtl",
+          "id": "dG9pLTYsNiw2IS1zaXJhai1n",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "'$200 bn market in 15 countries': Here's what India can do if US slaps 100% tariffs",
-          "summary": "As the US contemplates imposing substantial tariffs on Russian crude, India is strategically exploring alternative markets to bolster its exports. With fifteen potential markets worth an impressive two hundred billion dollars, Indian exporters are adapting to global challenges. In contrast to the US",
+          "title": "6,6,6! Siraj goes boom with 3 sixes in final over as India seal six-wicket win - Watch",
+          "summary": "Mohammed Siraj stunned Sri Lanka Cricket XI with an explosive 32 off 15 balls, smashing three consecutive sixes in the final over to seal India’s six-wicket win with three balls remaining. His unbeaten cameo included four sixes and a boundary. Yashasvi Jaiswal, Shubman Gill and Rishabh Pant also con",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/business/india-business/200-billion-market-in-15-countries-heres-what-india-can-do-if-us-slaps-100-tariffs/articleshow/133069941.cms",
-          "published_at": "Sun, 09 Aug 2026 20:45:58 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dG9pLXNhcmZhcmF6LWtoYW4t",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Sarfaraz Khan replaces Sai Sudharsan in India squad for Sri Lanka Tests",
-          "summary": "India's Test squad sees a new addition as Sarfaraz Khan steps in for the injured Sai Sudharsan ahead of the Sri Lanka series. Sudharsan is sidelined due to a toe injury. The selectors felt Sarfaraz's middle-order experience would be invaluable. After a warm-up triumph, the team gears up for the firs",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/sarfaraz-khan-replaces-sai-sudharsan-in-india-squad-for-sri-lanka-tests/articleshow/133069271.cms",
-          "published_at": "Sun, 09 Aug 2026 20:04:29 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/666-mohammed-siraj-goes-boom-with-3-sixes-in-final-over-as-india-seal-six-wicket-win-watch/articleshow/133069274.cms",
+          "published_at": "Sun, 09 Aug 2026 20:13:27 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -3715,6 +3802,20 @@
           "image_url": null,
           "article_url": "https://timesofindia.indiatimes.com/world/us/trump-ready-to-end-iran-war-without-nuclear-deal-tehrans-demands-complicate-exit-report/articleshow/133069218.cms",
           "published_at": "Sun, 09 Aug 2026 19:55:54 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dG9pLSd3ZS1rbm93LWhvdy10",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "'We know how to stand up to American ideas': Netanyahu rejects Trump's 15-point Gaza plan",
+          "summary": "Israel has turned down a US proposal regarding the peace process in Gaza, with Prime Minister Netanyahu firmly asserting that Hamas must be completely disarmed before any Israeli forces withdraw. He mentioned that discussions are ongoing with Washington. Conversely, Hamas demands a complete Israeli ",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/world/middle-east/we-know-how-to-stand-up-to-american-ideas-israeli-pm-netanyahu-rejects-trumps-15-point-gaza-plan/articleshow/133066764.cms",
+          "published_at": "Sun, 09 Aug 2026 17:14:59 +0530",
           "cross_sections": []
         },
         {
@@ -3735,18 +3836,20 @@
           ]
         },
         {
-          "id": "dG9pLXdoYXQtc2F1ZGktcGFr",
+          "id": "dG9pLXdoYXQtaGFwcGVucy1h",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "What Saudi-Pak-Turkey Mecca defence deal means for India's future military ops",
-          "summary": "The agreement comes as Saudi Arabia faces a difficult regional security environment shaped by the conflict involving Iran, Israel and the United States, threats from Iran-aligned groups and continuing concerns over the safety of energy infrastructure and maritime routes. Saudi Arabia has traditional",
+          "title": "What happens after you apply for an organ transplant?",
+          "summary": "From medical evaluation and registry enrolment to waitlist priority, organ matching, surgery and lifelong follow-up, the transplant process in India involves multiple clinical, regulatory and coordination stages before a patient receives an organ.",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/defence/news/can-india-still-pull-off-another-operation-sindoor-what-saudi-pak-turkey-mecca-defence-deal-means/articleshow/133065783.cms",
-          "published_at": "Sun, 09 Aug 2026 16:02:36 +0530",
-          "cross_sections": []
+          "article_url": "https://timesofindia.indiatimes.com/india/what-happens-after-you-apply-for-an-organ-transplant/articleshow/133063497.cms",
+          "published_at": "Sun, 09 Aug 2026 16:00:00 +0530",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
           "id": "dG9pLWluZGlhbi1uYXRpb25h",
@@ -3761,6 +3864,23 @@
           "article_url": "https://timesofindia.indiatimes.com/world/us/indian-man-accused-of-strangling-us-girlfriend-after-she-planned-to-end-relationship-arrested-in-germany/articleshow/133064980.cms",
           "published_at": "Sun, 09 Aug 2026 15:44:12 +0530",
           "cross_sections": []
+        },
+        {
+          "id": "dG9pLXdoYXQtaXMtYWktbW9k",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "What is AI model distillation and why is it becoming a US-China flashpoint?",
+          "summary": "The competition between the US and China in the realm of artificial intelligence has shifted focus towards harnessing model capabilities rather than merely their creation. AI model distillation enables smaller systems to mimic larger counterparts, which has sparked concerns over security. There are ",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/defence/international/what-is-ai-model-distillation-and-why-is-it-becoming-a-us-china-flashpoint/articleshow/133065118.cms",
+          "published_at": "Sun, 09 Aug 2026 15:22:15 +0530",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
         },
         {
           "id": "dG9pLXRlZW4taW5ub3ZhdG9y",
@@ -4007,82 +4127,78 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dGhlaGluZHUtaXJhbi1ndWFy",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Iran Guards say won't reopen Hormuz without U.S. meeting Tehran's demands",
-          "summary": "Iran's security chief Mohammad Bagher Zolghadr had laid out on Saturday a list of conditions for reopening the strait, including an end to the \"war and aggression against Iran and its allies in Lebanon, Palestine, Yemen and Iraq”",
-          "image_url": "https://th-i.thgim.com/public/incoming/kpx6gz/article71325708.ece/alternates/LANDSCAPE_1200/Proposed-HormuzG8DGBVR33.3.jpg.jpg",
-          "article_url": "https://www.thehindu.com/news/international/iran-guards-say-wont-reopen-hormuz-without-us-meeting-tehrans-demands/article71325696.ece",
-          "published_at": "Sun, 09 Aug 2026 21:44:48 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtbWluaXN0ZXIt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Minister flags off new bus services",
-          "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/aluway/article71325704.ece/alternates/LANDSCAPE_1200/2315_9_8_2026_17_17_47_2_THOOTHUKUDI_24.JPG",
-          "article_url": "https://www.thehindu.com/news/cities/Madurai/minister-flags-off-new-bus-services/article71325394.ece",
-          "published_at": "Sun, 09 Aug 2026 21:42:58 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtc3V2ZW5kdS1h",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Suvendu Adhikari orders fresh probe into R.G. Kar case",
-          "summary": "The Chief Minister directs the Commissioner of Police, Barrackpore, to investigate how the body of the victim was cremated without the family’s approval",
-          "image_url": "https://th-i.thgim.com/public/incoming/ph3tb/article71325194.ece/alternates/LANDSCAPE_1200/PTI07_19_2026_000469B.jpg",
-          "article_url": "https://www.thehindu.com/news/cities/kolkata/suvendu-orders-fresh-probe-into-rg-kar-rape-murder-case/article71325082.ece",
-          "published_at": "Sun, 09 Aug 2026 21:41:41 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "dGhlaGluZHUtamhhcmtoYW5k",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Jharkhand students protest LIVE updates: Students announce march to Assembly tomorrow; Jharkhand Governor accepts resignations of three JPSC members amid aspirants' protest",
-          "summary": "Demand for cancellation of JPSC exam met; will continue stir till demand for CBI probe met, say protesters after talks with Jharkhand government",
+          "title": "Jharkhand protests: Students march in Ranchi demanding exam cancellation",
+          "summary": "",
           "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-student-protest-jpsc-jssc-aspirants-demonstration-jmm-hemant-soren-ranchi-live-updates-august-9-2026/article71323953.ece",
-          "published_at": "Sun, 09 Aug 2026 21:40:11 +0530",
+          "article_url": "https://www.thehindu.com/videos/shorts/jharkhand-protests-students-march-in-ranchi-demanding-exam-cancellation/article71325788.ece",
+          "published_at": "Sun, 09 Aug 2026 22:26:05 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtc2FyZmFyYXot",
+          "id": "dGhlaGluZHUtcG9saWNlLXRv",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Sarfaraz Khan replaces injured Sai Sudharsan, back in Test squad",
-          "summary": "Mumbai batter included in India’s team for two-match series in Sri Lanka",
-          "image_url": "https://th-i.thgim.com/public/incoming/1jrwbv/article71325494.ece/alternates/LANDSCAPE_1200/11908_2_11_2024_12_38_17_1_DSC_5589.JPG",
-          "article_url": "https://www.thehindu.com/sport/cricket/sarfaraz-khan-replaces-injured-sai-sudharsan-back-in-test-squad/article71325195.ece",
-          "published_at": "Sun, 09 Aug 2026 21:39:19 +0530",
+          "title": "Police to seek custody of two accused in medico’s death case",
+          "summary": "East Godavari SP says charges may be altered based on findings of further probe",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/police-to-seek-custody-of-two-accused-in-medicos-death-case/article71325268.ece",
+          "published_at": "Sun, 09 Aug 2026 22:25:38 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtbm9taW5hdGlv",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Nomination deadline for PMRBP-2026 extended to August 15",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/nomination-deadline-for-pmrbp-2026-extended-to-august-15/article71325529.ece",
+          "published_at": "Sun, 09 Aug 2026 22:25:18 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUt4oCYeW91dGgt",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "‘Youth have buried Congress completely’: UP CM Yogi Adityanath",
+          "summary": "Addressing a public rally, Uttar Pradesh Chief Minister Yogi Adityanath criticized the Congress party, asserting that its downfall serves as a warning against the dangers of power intoxication and neglecting national revolutionaries.",
+          "image_url": "https://th-i.thgim.com/public/incoming/f0s7nc/article71325767.ece/alternates/LANDSCAPE_1200/20260809046L.jpg",
+          "article_url": "https://www.thehindu.com/videos/shorts/youth-have-buried-congress-completely-up-cm-yogi-adityanath/article71325783.ece",
+          "published_at": "Sun, 09 Aug 2026 22:24:06 +0530",
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "dGhlaGluZHUtbmluZS15ZWFy",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Nine-year-old boy locked in car dies of suffocation in Coimbatore",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/cities/Coimbatore/nine-year-old-boy-locked-in-car-dies-of-suffocation-in-coimbatore/article71325726.ece",
+          "published_at": "Sun, 09 Aug 2026 22:22:42 +0530",
+          "cross_sections": []
         },
         {
           "id": "dGhlaGluZHUtYmVuZ2FsdXJ1",
@@ -4091,25 +4207,39 @@
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Bengaluru: Man dies of cardiac arrest during Nandi Hills monsoon marathon",
+          "title": "Bengaluru: Suspected illegal immigrants produced before FRRO",
           "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/x5erlp/article71325690.ece/alternates/LANDSCAPE_1200/iStock-523699180.jpg",
-          "article_url": "https://www.thehindu.com/news/national/karnataka/bengaluru-man-dies-of-cardiac-arrest-during-nandi-hills-monsoon-marathon/article71325524.ece",
-          "published_at": "Sun, 09 Aug 2026 21:32:05 +0530",
+          "image_url": "https://th-i.thgim.com/public/incoming/k9lkmd/article71325778.ece/alternates/LANDSCAPE_1200/iStock-902369174.jpg",
+          "article_url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-suspected-illegal-immigrants-produced-before-frro/article71325715.ece",
+          "published_at": "Sun, 09 Aug 2026 22:22:01 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUtZXgtc2Vydmlj",
+          "id": "dGhlaGluZHUtdml6YWctcG9s",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Ex-serviceman cheated of ₹46.76 lakh, five arrested",
+          "title": "Vizag police deny rally permission for Green Visakha’s concerns over data centres",
           "summary": "",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/cities/Madurai/ex-serviceman-cheated-of-4676-lakh-five-arrested/article71325627.ece",
-          "published_at": "Sun, 09 Aug 2026 21:31:01 +0530",
+          "image_url": "https://th-i.thgim.com/public/incoming/14ve5v/article71325761.ece/alternates/LANDSCAPE_1200/VSP10_PROTEST%202.JPG",
+          "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/vizag-police-deny-rally-permission-for-green-visakhas-concerns-over-data-centres/article71325592.ece",
+          "published_at": "Sun, 09 Aug 2026 22:19:36 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtZW5zdXJlLXZi",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Ensure VB-G RAM G jobs for all eligible workers to check migration: Eshwar Khandre",
+          "summary": "Officials will be held responsible if people migrate owing to lack of employment, says Rural Development and Panchayat Raj Minister",
+          "image_url": "https://th-i.thgim.com/public/incoming/sjeh1w/article71324863.ece/alternates/LANDSCAPE_1200/10258_9_8_2026_18_13_13_1_ESHWAR_KHANDRE_1.JPEG",
+          "article_url": "https://www.thehindu.com/news/national/karnataka/ensure-vb-g-ram-g-jobs-for-all-eligible-workers-to-check-migration-eshwar-khandre/article71324813.ece",
+          "published_at": "Sun, 09 Aug 2026 22:18:32 +0530",
           "cross_sections": []
         },
         {
@@ -4633,6 +4763,96 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YWxqYXplZXJhLXdpbGRmaXJl",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Wildfires in Albania and Spain cause hundreds to evacuate",
+          "summary": "Wildfires have spread near Albania’s capital and in parts of southern Spain, prompting hundreds to evacuate.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfires-in-albania-and-spain-cause-hundreds-to-evacuate?traffic_source=rss",
+          "published_at": "Sun, 09 Aug 2026 16:41:00 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLWhvdy1pc3Jh",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "How Israel’s occupation fuels resistance",
+          "summary": "Israel is trapped in a cycle it created.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/how-israels-occupation-fuels-resistance?traffic_source=rss",
+          "published_at": "Sun, 09 Aug 2026 16:19:34 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLeKAmG5vLXN1",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "‘No surprise’: Netanyahu rejects US-backed Gaza plan",
+          "summary": "Palestinian politician Mustafa Barghouti says Netanyahu's rejection of the US-backed Gaza plan is no surprise.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss",
+          "published_at": "Sun, 09 Aug 2026 16:08:19 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLWluY3VtYmVu",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Incumbents secure Hawaii primary wins, defying progressive challengers",
+          "summary": "Their victories highlight ongoing clashes between centrist Democrats and more progressive candidates.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/9/incumbents-secure-hawaii-primary-wins-defying-progressive-challengers?traffic_source=rss",
+          "published_at": "Sun, 09 Aug 2026 16:07:23 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLW9tYXItbWFy",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Omar Marmoush scores two goals as Man City defeat Atletico Madrid in Seoul",
+          "summary": "Marmoush scores twice in three minutes as City rallies to beat Atletico in club friendly at the Seoul World Cup stadium.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/sports/2026/8/9/omar-marmoush-scores-two-goals-as-man-city-defeat-atletico-madrid-in-seoul?traffic_source=rss",
+          "published_at": "Sun, 09 Aug 2026 16:05:10 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLXVhZS1leHRy",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "UAE extradites alleged international crime boss Daniel Kinahan to Ireland",
+          "summary": "Daniel Kinahan is the latest alleged member of the multinational organised crime group to face charges in Dublin.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/9/uae-extradites-alleged-international-crime-boss-daniel-kinahan-to-ireland?traffic_source=rss",
+          "published_at": "Sun, 09 Aug 2026 16:00:50 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "YWxqYXplZXJhLXdhci1vbi1p",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
@@ -4660,94 +4880,6 @@
           "image_url": null,
           "article_url": "https://www.aljazeera.com/news/2026/8/9/pentagon-urges-faster-us-weapons-production-amid-stockpile-concerns?traffic_source=rss",
           "published_at": "Sun, 09 Aug 2026 15:38:56 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLWNvbmNlcm5z",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Concerns mount over integrity of Israel’s upcoming October elections",
-          "summary": "Poll shows 70 percent of Jewish Israelis fear election integrity risks as Netanyahu government faces mounting criticism.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss",
-          "published_at": "Sun, 09 Aug 2026 15:20:18 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLWdhemHigJlz",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Gaza’s children still struggling with hunger as another famine threatens",
-          "summary": "Youngsters are still feeling the effects of the 2025 famine, with another food emergency emerging.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/features/2026/8/9/gazas-children-still-struggling-with-hunger-as-another-famine-threatens?traffic_source=rss",
-          "published_at": "Sun, 09 Aug 2026 14:47:29 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLWdhemEtZW5n",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Gaza engineer builds animal shelters out of empty cans",
-          "summary": "Gaza engineer builds animal shelters out of empty cans",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/gaza-engineer-builds-animal-shelters-out-of-empty-cans?traffic_source=rss",
-          "published_at": "Sun, 09 Aug 2026 14:28:34 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXdoYXQtbm93",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "What now as Israel rejects Trump’s 15-point plan for Gaza?",
-          "summary": "As Netanyahu demands 'genuine' Hamas disarmament before considering pull-out from Gaza, a look at what happens next.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
-          "published_at": "Sun, 09 Aug 2026 14:26:30 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXRoZS1tZWNj",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "The Mecca pact is not just another regional alliance",
-          "summary": "It could set the stage for a profound transformation of regional security in the Gulf.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/opinions/2026/8/9/the-mecca-pact-is-not-just-another-regional-alliance?traffic_source=rss",
-          "published_at": "Sun, 09 Aug 2026 14:23:13 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXN5cmlhLXNh",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Syria says it reached deal with Moscow on future of Russian bases",
-          "summary": "Hmeimim airbase and Tartus naval base will become joint training and capacity-building centres under the agreement.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/8/9/syria-says-it-reached-deal-with-moscow-on-future-of-russian-bases?traffic_source=rss",
-          "published_at": "Sun, 09 Aug 2026 14:20:51 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -4997,7 +5129,7 @@
         {
           "id": "euronews",
           "name": "Euronews",
-          "count": 7
+          "count": 15
         },
         {
           "id": "dw",
@@ -5019,7 +5151,7 @@
         {
           "id": "thehindu",
           "name": "The Hindu",
-          "count": 15
+          "count": 16
         },
         {
           "id": "japantimes",
@@ -5058,17 +5190,97 @@
       "icon": "💻",
       "articles": [
         {
-          "id": "dGhlaGluZHUtaXJhbi1ndWFy",
+          "id": "dGhlaGluZHUtamhhcmtoYW5k",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Iran Guards say won't reopen Hormuz without U.S. meeting Tehran's demands",
-          "summary": "Iran's security chief Mohammad Bagher Zolghadr had laid out on Saturday a list of conditions for reopening the strait, including an end to the \"war and aggression against Iran and its allies in Lebanon, Palestine, Yemen and Iraq”",
-          "image_url": "https://th-i.thgim.com/public/incoming/kpx6gz/article71325708.ece/alternates/LANDSCAPE_1200/Proposed-HormuzG8DGBVR33.3.jpg.jpg",
-          "article_url": "https://www.thehindu.com/news/international/iran-guards-say-wont-reopen-hormuz-without-us-meeting-tehrans-demands/article71325696.ece",
-          "published_at": "Sun, 09 Aug 2026 21:44:48 +0530",
+          "title": "Jharkhand protests: Students march in Ranchi demanding exam cancellation",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/videos/shorts/jharkhand-protests-students-march-in-ranchi-demanding-exam-cancellation/article71325788.ece",
+          "published_at": "Sun, 09 Aug 2026 22:26:05 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUt4oCYeW91dGgt",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "‘Youth have buried Congress completely’: UP CM Yogi Adityanath",
+          "summary": "Addressing a public rally, Uttar Pradesh Chief Minister Yogi Adityanath criticized the Congress party, asserting that its downfall serves as a warning against the dangers of power intoxication and neglecting national revolutionaries.",
+          "image_url": "https://th-i.thgim.com/public/incoming/f0s7nc/article71325767.ece/alternates/LANDSCAPE_1200/20260809046L.jpg",
+          "article_url": "https://www.thehindu.com/videos/shorts/youth-have-buried-congress-completely-up-cm-yogi-adityanath/article71325783.ece",
+          "published_at": "Sun, 09 Aug 2026 22:24:06 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXdpbGRmaXJl",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Wildfires in Albania and Spain cause hundreds to evacuate",
+          "summary": "Wildfires have spread near Albania’s capital and in parts of southern Spain, prompting hundreds to evacuate.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfires-in-albania-and-spain-cause-hundreds-to-evacuate?traffic_source=rss",
+          "published_at": "Sun, 09 Aug 2026 16:41:00 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LWlzcmFlbC1yZWplY3Rz",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Israel Rejects Trump’s 15-Point Plan to Disarm Hamas",
+          "summary": "President Trump’s Board of Peace announced an agreement last month that aimed at Hamas giving up its weapons alongside an Israeli withdrawal from Gaza.",
+          "image_url": "https://static01.nyt.com/images/2026/08/09/multimedia/09int-israel-gaza-wfkz/09int-israel-gaza-wfkz-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html",
+          "published_at": "Sun, 09 Aug 2026 16:39:14 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZHctZGVubWFyazotc2V2ZXJh",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Denmark: Several wounded in suspected gang shooting",
+          "summary": "Police said they believed that the incident was linked to a \"settling of scores\" within criminal networks.",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/denmark-several-wounded-in-suspected-gang-shooting/a-78297276?maca=en-rss-en-top-1022-xml-mrss",
+          "published_at": "Sun, 9 Aug 2026 16:31:00 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLWhvdy1pc3Jh",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "How Israel’s occupation fuels resistance",
+          "summary": "Israel is trapped in a cycle it created.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/how-israels-occupation-fuels-resistance?traffic_source=rss",
+          "published_at": "Sun, 09 Aug 2026 16:19:34 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5090,49 +5302,17 @@
           ]
         },
         {
-          "id": "dGhlaGluZHUtc3V2ZW5kdS1h",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Suvendu Adhikari orders fresh probe into R.G. Kar case",
-          "summary": "The Chief Minister directs the Commissioner of Police, Barrackpore, to investigate how the body of the victim was cremated without the family’s approval",
-          "image_url": "https://th-i.thgim.com/public/incoming/ph3tb/article71325194.ece/alternates/LANDSCAPE_1200/PTI07_19_2026_000469B.jpg",
-          "article_url": "https://www.thehindu.com/news/cities/kolkata/suvendu-orders-fresh-probe-into-rg-kar-rape-murder-case/article71325082.ece",
-          "published_at": "Sun, 09 Aug 2026 21:41:41 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtamhhcmtoYW5k",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Jharkhand students protest LIVE updates: Students announce march to Assembly tomorrow; Jharkhand Governor accepts resignations of three JPSC members amid aspirants' protest",
-          "summary": "Demand for cancellation of JPSC exam met; will continue stir till demand for CBI probe met, say protesters after talks with Jharkhand government",
+          "id": "YWxqYXplZXJhLWluY3VtYmVu",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Incumbents secure Hawaii primary wins, defying progressive challengers",
+          "summary": "Their victories highlight ongoing clashes between centrist Democrats and more progressive candidates.",
           "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-student-protest-jpsc-jssc-aspirants-demonstration-jmm-hemant-soren-ranchi-live-updates-august-9-2026/article71323953.ece",
-          "published_at": "Sun, 09 Aug 2026 21:40:11 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtc2FyZmFyYXot",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Sarfaraz Khan replaces injured Sai Sudharsan, back in Test squad",
-          "summary": "Mumbai batter included in India’s team for two-match series in Sri Lanka",
-          "image_url": "https://th-i.thgim.com/public/incoming/1jrwbv/article71325494.ece/alternates/LANDSCAPE_1200/11908_2_11_2024_12_38_17_1_DSC_5589.JPG",
-          "article_url": "https://www.thehindu.com/sport/cricket/sarfaraz-khan-replaces-injured-sai-sudharsan-back-in-test-squad/article71325195.ece",
-          "published_at": "Sun, 09 Aug 2026 21:39:19 +0530",
+          "article_url": "https://www.aljazeera.com/news/2026/8/9/incumbents-secure-hawaii-primary-wins-defying-progressive-challengers?traffic_source=rss",
+          "published_at": "Sun, 09 Aug 2026 16:07:23 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5234,22 +5414,6 @@
           ]
         },
         {
-          "id": "dG9pLXdhdGNoOi1wbS1tb2Rp",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Watch: PM Modi meets CWG medallists, says ‘Jo khelega, woh khilega’",
-          "summary": "Prime Minister Narendra Modi met India’s Commonwealth Games 2026 medallists in New Delhi and congratulated them after the country finished fourth in Glasgow. Sharing a video, he wrote, \"Always #Cheer4Bharat.\" Modi told athletes, \"Jo khelega, woh khilega\" and led them in chanting \"Bharat Mata ki Jai.",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/watch-pm-modi-meets-cwg-medallists-says-jo-khelega-woh-khilega/articleshow/133070255.cms",
-          "published_at": "Sun, 09 Aug 2026 21:26:24 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bnl0LWhvdy1hLWRyb25lLeKA",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -5277,22 +5441,6 @@
           "image_url": null,
           "article_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-transformation-likely-to-accelerate-as-companies-shift-from-adoption-to-enterprise-wide-value-creation-report/articleshow/133069276.cms",
           "published_at": "Sun, 09 Aug 2026 21:24:13 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LWlzcmFlbC1yZWplY3Rz",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Israel Rejects Trump’s 15-Point Plan to Disarm Hamas",
-          "summary": "President Trump’s Board of Peace announced an agreement last month that aimed at Hamas’s giving up its weapons alongside an Israeli withdrawal from Gaza.",
-          "image_url": "https://static01.nyt.com/images/2026/08/09/multimedia/09int-israel-gaza-wfkz/09int-israel-gaza-wfkz-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html",
-          "published_at": "Sun, 09 Aug 2026 15:48:57 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5394,17 +5542,17 @@
           ]
         },
         {
-          "id": "dG9pLXNhcmZhcmF6LWtoYW4t",
+          "id": "dG9pLTYsNiw2IS1zaXJhai1n",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Sarfaraz Khan replaces Sai Sudharsan in India squad for Sri Lanka Tests",
-          "summary": "India's Test squad sees a new addition as Sarfaraz Khan steps in for the injured Sai Sudharsan ahead of the Sri Lanka series. Sudharsan is sidelined due to a toe injury. The selectors felt Sarfaraz's middle-order experience would be invaluable. After a warm-up triumph, the team gears up for the firs",
+          "title": "6,6,6! Siraj goes boom with 3 sixes in final over as India seal six-wicket win - Watch",
+          "summary": "Mohammed Siraj stunned Sri Lanka Cricket XI with an explosive 32 off 15 balls, smashing three consecutive sixes in the final over to seal India’s six-wicket win with three balls remaining. His unbeaten cameo included four sixes and a boundary. Yashasvi Jaiswal, Shubman Gill and Rishabh Pant also con",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/sarfaraz-khan-replaces-sai-sudharsan-in-india-squad-for-sri-lanka-tests/articleshow/133069271.cms",
-          "published_at": "Sun, 09 Aug 2026 20:04:29 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/666-mohammed-siraj-goes-boom-with-3-sixes-in-final-over-as-india-seal-six-wicket-win-watch/articleshow/133069274.cms",
+          "published_at": "Sun, 09 Aug 2026 20:13:27 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5438,38 +5586,6 @@
           "image_url": "https://c.ndtvimg.com/2026-07/7p7jlb7k_tg-mohandas_625x300_27_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
           "article_url": "https://www.ndtv.com/india-news/days-after-girls-enjoy-rape-remark-right-wing-activist-taken-into-custody-11886903#publisher=newsstand",
           "published_at": "Sun, 09 Aug 2026 19:57:37 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXdoYXQtbm93",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "What now as Israel rejects Trump’s 15-point plan for Gaza?",
-          "summary": "As Netanyahu demands 'genuine' Hamas disarmament before considering pull-out from Gaza, a look at what happens next.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
-          "published_at": "Sun, 09 Aug 2026 14:26:30 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXN5cmlhLXNh",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Syria says it reached deal with Moscow on future of Russian bases",
-          "summary": "Hmeimim airbase and Tartus naval base will become joint training and capacity-building centres under the agreement.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/8/9/syria-says-it-reached-deal-with-moscow-on-future-of-russian-bases?traffic_source=rss",
-          "published_at": "Sun, 09 Aug 2026 14:20:51 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5619,22 +5735,6 @@
           ]
         },
         {
-          "id": "YmJjLXN1c3BlY3RlZC1jcmlt",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
-          "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6578/live/9e6e94f0-8bfd-11f1-a52a-dba993a97936.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 09 Aug 2026 12:39:18 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "ZXR0ZWNoLWFwcGxlLXRlc3Rz",
           "source_id": "ettech",
           "source_name": "ETtech",
@@ -5694,6 +5794,39 @@
           "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
           "article_url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
           "published_at": "2026-08-09T12:00:00.000Z",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "ZHctdWtyYWluZS1hbmQtcnVz",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Ukraine and Russia exchange attacks as Kyiv buys new ATACMS",
+          "summary": "Overnight drone and missile attacks killed several and injured dozens more in both Ukraine and Russia. As Kyiv seeks to defend itself it has now reportedly finalized a deal to buy US missile systems from Turkey.",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/ukraine-and-russia-exchange-attacks-as-kyiv-buys-new-atacms/a-78294589?maca=en-rss-en-top-1022-xml-mrss",
+          "published_at": "Sun, 9 Aug 2026 11:53:00 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iY3RlY2gtaG93LWEtc21h",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+          "summary": "The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+          "published_at": "Sun, 09 Aug 2026 11:31:42 GMT",
           "cross_sections": [
             "tech",
             "ai"
@@ -5809,6 +5942,23 @@
           "image_url": null,
           "article_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-pauses-astra-ai-model-over-critical-cybersecurity-concerns/articleshow/133065840.cms",
           "published_at": "Sun, 09 Aug 2026 15:46:02 +0530",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "dG9pLXdoYXQtaXMtYWktbW9k",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "What is AI model distillation and why is it becoming a US-China flashpoint?",
+          "summary": "The competition between the US and China in the realm of artificial intelligence has shifted focus towards harnessing model capabilities rather than merely their creation. AI model distillation enables smaller systems to mimic larger counterparts, which has sparked concerns over security. There are ",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/defence/international/what-is-ai-model-distillation-and-why-is-it-becoming-a-us-china-flashpoint/articleshow/133065118.cms",
+          "published_at": "Sun, 09 Aug 2026 15:22:15 +0530",
           "cross_sections": [
             "tech",
             "ai"
@@ -5946,23 +6096,6 @@
           "article_url": "https://www.cnet.com/tech/mobile/t-mobile-just-quietly-killed-its-better-value-phone-plan-after-less-than-a-year/",
           "published_at": "2026-08-07T18:49:43.000Z",
           "cross_sections": [
-            "ai"
-          ]
-        },
-        {
-          "id": "Y25ldC1kZXRhaWxzLWxlYWst",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Details Leak on OpenAI’s Doughnut-Shaped Speaker",
-          "summary": "The ChatGPT maker is reportedly working on a small, portable AI smart speaker, but it better not look too much like Apple’s designs.",
-          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2287606982.jpg",
-          "article_url": "https://www.cnet.com/tech/services-and-software/details-leak-openai-doughnut-shaped-speaker/",
-          "published_at": "2026-08-07T17:58:00.000Z",
-          "cross_sections": [
-            "tech",
             "ai"
           ]
         },
@@ -6174,7 +6307,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 9841,
+    "build_ms": 9167,
     "ai_enabled": true
   }
 }
