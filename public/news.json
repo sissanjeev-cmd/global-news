@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-09T00:01:04.315Z",
-  "total_articles": 311,
-  "new_this_run": 12,
+  "last_updated": "2026-08-09T02:25:55.863Z",
+  "total_articles": 314,
+  "new_this_run": 32,
   "sources": [
     {
       "id": "techcrunch",
@@ -626,6 +626,20 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "Y25ldC10b2RheeKAmXMtbnl0",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Today’s NYT Connections Hints and Answers for Aug. 9, #1155",
+          "summary": "Here are hints and the answers for the NYT Connections puzzle No. 1155 for Aug. 9.",
+          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Main-Connections-art.webp",
+          "article_url": "https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answers-for-aug-9-1155/",
+          "published_at": "2026-08-08T20:00:00.000Z",
+          "cross_sections": []
+        },
+        {
           "id": "Y25ldC10LW1vYmlsZS1qdXN0",
           "source_id": "cnet",
           "source_name": "CNET",
@@ -671,22 +685,6 @@
           "article_url": "https://www.cnet.com/tech/services-and-software/weak-passwords-just-exposed-our-water-supply-to-iranian-hackers/",
           "published_at": "2026-08-07T17:39:50.000Z",
           "cross_sections": []
-        },
-        {
-          "id": "Y25ldC10cmV2b3Itbm9haC13",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Trevor Noah Will Host Google’s Pixel 11 Event Next Week",
-          "summary": "He’ll be among the many celebrities attending the launch party for the new Pixel devices.",
-          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2251284562.jpg",
-          "article_url": "https://www.cnet.com/tech/trevor-noah-host-for-google-pixel-11-event/",
-          "published_at": "2026-08-07T16:14:00.000Z",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "Y25ldC1p4oCZdmUtd2FpdGVk",
@@ -1025,11 +1023,11 @@
           "source_region": "IT Focus",
           "source_category": "Tech Media",
           "feed_label": "Technology",
-          "title": "Verizon mobile service down for thousands of customers in the U.S., Downdetector shows",
-          "summary": "Verizon recommended that customers who are still impacted by the outage restart their devices. The company did not provide ⁠a reason for ⁠the outage.",
+          "title": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
+          "summary": "Customers still having trouble with their service should restart their devices, the wireless carrier said. Verizon did not provide ⁠a reason for ⁠the outage.",
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
-          "published_at": "Sat, 08 Aug 2026 23:14:00 GMT",
+          "published_at": "Sun, 09 Aug 2026 00:36:19 GMT",
           "cross_sections": []
         },
         {
@@ -1415,22 +1413,6 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "bnl0LW1heC1taWxsZXIsLXJl",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Max Miller, Republican Accused of Abuse, Won’t Drop Out, Spokeswoman Says",
-          "summary": "Mr. Miller, who has faced pressure from fellow Republicans to end his campaign and avoid endangering a solidly red seat in Ohio, will stay in the race, his spokeswoman said.",
-          "image_url": "https://static01.nyt.com/images/2026/08/08/multimedia/08pol-miller-ohio-mzlg/08pol-miller-ohio-mzlg-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/08/us/politics/max-miller-ohio-republican.html",
-          "published_at": "Sat, 08 Aug 2026 22:30:07 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bnl0LWJhbGQtcmFuZ2Utd2ls",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1441,7 +1423,23 @@
           "summary": "The Bald Range fire has burned more than 25,000 acres in British Columbia. At one point, the fire spread more than 2,000 acres in about an hour, officials said.",
           "image_url": "https://static01.nyt.com/images/2026/08/08/multimedia/08xp-canadian-wildfire-01-kmbj/08xp-canadian-wildfire-01-kmbj-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html",
-          "published_at": "Sat, 08 Aug 2026 22:08:08 +0000",
+          "published_at": "Sun, 09 Aug 2026 01:12:03 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LW1heC1taWxsZXIsLXJl",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Max Miller, Republican Accused of Abuse, Won’t Drop Out, Spokeswoman Says",
+          "summary": "Mr. Miller, who has faced pressure from fellow Republicans to end his campaign and avoid endangering a solidly red seat in Ohio, will stay in the race, his spokeswoman said.",
+          "image_url": "https://static01.nyt.com/images/2026/08/08/multimedia/08pol-miller-ohio-mzlg/08pol-miller-ohio-mzlg-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/08/us/politics/max-miller-ohio-republican.html",
+          "published_at": "Sun, 09 Aug 2026 00:20:55 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -1471,7 +1469,7 @@
           "summary": "Hundreds of people attended a seven-day retreat in the Turkish countryside seeking transcendence through sema, the spiritual practice of whirling.",
           "image_url": null,
           "article_url": "https://www.nytimes.com/2026/08/08/world/europe/turkey-sema-whirling-dervish-islam.html",
-          "published_at": "Sat, 08 Aug 2026 20:29:48 +0000",
+          "published_at": "Sat, 08 Aug 2026 20:29:49 +0000",
           "cross_sections": []
         },
         {
@@ -1531,7 +1529,7 @@
           "summary": "The tech giant is investing in the natural-gas-burning power plant as part of a huge data center in Texas, even as it pledges to honor climate commitments.",
           "image_url": "https://static01.nyt.com/images/2026/08/08/multimedia/08CLI-AMAZON-jtbw/08CLI-AMAZON-jtbw-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
-          "published_at": "Sat, 08 Aug 2026 18:17:02 +0000",
+          "published_at": "Sat, 08 Aug 2026 18:17:03 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -1601,20 +1599,18 @@
           ]
         },
         {
-          "id": "bnl0LXRydW1wLW9mZmljaWFs",
+          "id": "bnl0LWxpbmRzZXktZ3JhaGFt",
           "source_id": "nyt",
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Trump Officials Under Pressure to Deport Haitians After Supreme Court Win on T.P.S. Program",
-          "summary": "The lack of visible raids aggressively targeting Haitians who lost temporary status has frustrated some of President Trump’s most fervent supporters.",
-          "image_url": "https://static01.nyt.com/images/2026/08/08/multimedia/08dc-tps-haiti-vqht/08dc-tps-haiti-vqht-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/08/us/politics/tps-haitians-deport.html",
-          "published_at": "Sat, 08 Aug 2026 09:02:15 +0000",
-          "cross_sections": [
-            "tech"
-          ]
+          "title": "Lindsey Graham Loved to Gab With Reporters. His Sister Won’t.",
+          "summary": "Senator Darline Graham, who took her brother’s place after his death and is now seeking to succeed him, has mostly declined to answer questions from reporters at the Capitol.",
+          "image_url": "https://static01.nyt.com/images/2026/07/24/multimedia/08dc-memo-graham/08dc-memo-graham-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/08/us/politics/darline-lindsey-graham-questions.html",
+          "published_at": "Sat, 08 Aug 2026 09:02:06 +0000",
+          "cross_sections": []
         },
         {
           "id": "bnl0LXBlbGxldC1ndW5zLC1z",
@@ -1773,7 +1769,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-08-09T00:00:56.162Z",
+          "published_at": "2026-08-09T02:25:46.952Z",
           "cross_sections": []
         },
         {
@@ -1787,7 +1783,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-08-09T00:00:56.162Z",
+          "published_at": "2026-08-09T02:25:46.952Z",
           "cross_sections": []
         },
         {
@@ -1801,7 +1797,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-08-09T00:00:56.162Z",
+          "published_at": "2026-08-09T02:25:46.952Z",
           "cross_sections": []
         },
         {
@@ -2119,11 +2115,11 @@
           "source_region": "North America",
           "source_category": "Broadcaster",
           "feed_label": "Top News",
-          "title": "Verizon mobile service down for thousands of customers in the U.S., Downdetector shows",
-          "summary": "Verizon recommended that customers who are still impacted by the outage restart their devices. The company did not provide ⁠a reason for ⁠the outage.",
+          "title": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
+          "summary": "Customers still having trouble with their service should restart their devices, the wireless carrier said. Verizon did not provide ⁠a reason for ⁠the outage.",
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
-          "published_at": "Sat, 08 Aug 2026 23:14:00 GMT",
+          "published_at": "Sun, 09 Aug 2026 00:36:19 GMT",
           "cross_sections": []
         },
         {
@@ -2603,6 +2599,36 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YmJjLWtlbGxpZS1icmlnaHQt",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Kellie Bright to leave EastEnders after 13 years",
+          "summary": "The former Old Vic landlady Linda Carter is set to leave Walford.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f457/live/cb829300-938d-11f1-b788-9fbad6065b57.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cre40875r9vo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 09 Aug 2026 00:53:54 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLXplbmRheWEtc2F3LW1l",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Zendaya saw me on the red carpet and her jaw dropped - I'm still in shock",
+          "summary": "TikTok creator Zainab Jiwa seems to be giving Hollywood A-listers on the red carpet a run for their money.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d83/live/def80170-9245-11f1-b2ab-0dd01740f9f6.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cq56j53g9yeo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 09 Aug 2026 00:39:27 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YmJjLWlzcmFlbC1hY2N1c2Vk",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2615,22 +2641,6 @@
           "article_url": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 08 Aug 2026 23:43:44 GMT",
           "cross_sections": []
-        },
-        {
-          "id": "YmJjLWhvdy13ZWlnaHQtbG9z",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "How weight-loss medication is changing relationships with alcohol",
-          "summary": "Some people using weight-loss drugs say their cravings for alcohol disappeared or they felt nauseous when they drank.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dba/live/f6aa7180-91a6-11f1-a7ab-8b30adf0800a.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/cr7kmlg0lxpo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 08 Aug 2026 23:30:06 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "YmJjLWtpbGxlZC1hLW1vbnRo",
@@ -2707,6 +2717,20 @@
           ]
         },
         {
+          "id": "YmJjLWF1c3RyYWxpYS1pcy10",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
+          "summary": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c811/live/dbfff410-90b9-11f1-a7ab-8b30adf0800a.png",
+          "article_url": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 08 Aug 2026 19:00:22 GMT",
+          "cross_sections": []
+        },
+        {
           "id": "YmJjLXVzLW9mZmVycy0kMWJu",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2728,29 +2752,13 @@
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
           "summary": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5d1/live/1c2a1c50-934e-11f1-8654-453c05ccaef9.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 08 Aug 2026 17:23:31 GMT",
           "cross_sections": []
-        },
-        {
-          "id": "YmJjLXN0dXJnZW9uLWhhc24n",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Sturgeon hasn't spoken to Murrell since he was jailed for embezzling SNP funds",
-          "summary": "The former first minister also told a podcast she would not visit her estranged husband in prison.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a4b/live/113aaac0-9345-11f1-a35f-039358cea467.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/cdx8jxqxyw0o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 08 Aug 2026 16:46:23 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "YmJjLXdhdGNoOi1tb21lbnQt",
@@ -3539,6 +3547,36 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "ZHctY2FuYWRhOi1icml0aXNo",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Canada: British Columbia declares emergency as fires spread",
+          "summary": "More than 20,000 people have been forced from their homes by out-of-control wildfires in Canada's British Columbia, where 105 blazes are currently burning.",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/canada-british-columbia-declares-emergency-as-fires-spread/a-78291841?maca=en-rss-en-top-1022-xml-mrss",
+          "published_at": "Sun, 9 Aug 2026 02:17:00 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "ZHctZmlmYS13YXJucy1hZ2Fp",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "FIFA warns against 'concerted effort' to undermine Gianni Infantino",
+          "summary": "Pressure is mounting on the FIFA president Gianni Infantino after plans to sell a stake in the World Cup collapsed and fresh allegations emerged relating to his time at UEFA.",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/fifa-warns-against-concerted-effort-to-undermine-gianni-infantino/a-78291551?maca=en-rss-en-top-1022-xml-mrss",
+          "published_at": "Sun, 9 Aug 2026 00:03:00 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "ZHctZ2VybWFueTotaW50ZXJp",
           "source_id": "dw",
           "source_name": "DW News",
@@ -3622,22 +3660,6 @@
           "image_url": null,
           "article_url": "https://www.dw.com/en/ukraine-russia-pounds-kyiv-as-zelenskyy-visits-serbia/a-78287715?maca=en-rss-en-top-1022-xml-mrss",
           "published_at": "Sat, 8 Aug 2026 14:10:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZHctaXJhbi13YXI6LWlyZ2Mt",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Iran war: IRGC says Hormuz to open if US accepts Iran's terms",
-          "summary": "Iran's Revolutionary Guard said the reopening of the vital Strait of Hormuz did not depend on the outcome of ongoing talks with Oman. DW has more.",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/iran-war-irgc-says-hormuz-to-open-if-us-accepts-iran-s-terms/live-78289364?maca=en-rss-en-top-1022-xml-mrss",
-          "published_at": "Sat, 8 Aug 2026 13:33:00 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -3739,32 +3761,64 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dG9pLXVzLXJlamVjdHMtY2hp",
+          "id": "dG9pLWNvbG9tYmlhLXJvY2tl",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "US rejects China’s attempt to enforce new restrictions at Scarborough Reef",
-          "summary": "The United States has firmly rejected China's maneuvers at Scarborough Reef, asserting that Beijing's environmental assertions are hindering Filipino fishermen from accessing their traditional fishing grounds. As a staunch ally in the Indo-Pacific, Washington stands in solidarity with the Philippine",
+          "title": "Colombia rocked by car bomb blast a day after new President takes charge",
+          "summary": "In southwestern Colombia, a car bomb detonated at a toll plaza on Saturday, just a day after Abelardo de la Espriella took office as president. The army promptly attributed the incident to dissident FARC factions, leaving two security guards injured. In response, President de la Espriella issued a s",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/world/us/us-rejects-chinas-scarborough-reef-measures-backs-philippines-in-south-china-sea-dispute/articleshow/133061044.cms",
-          "published_at": "Sun, 09 Aug 2026 05:02:22 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/world/rest-of-world/colombia-rocked-by-car-bomb-blast-a-day-after-new-president-abelardo-de-la-espriella-takes-charge/articleshow/133061382.cms",
+          "published_at": "Sun, 09 Aug 2026 07:28:35 +0530",
           "cross_sections": []
         },
         {
-          "id": "dG9pLWFnbmktNC1maWxscy1r",
+          "id": "dG9pLXBha2lzdGFuLWNyaWNr",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Agni-4 fills key gaps in India's missile arsenal, strengthens China deterrence",
-          "summary": "India successfully tested its Agni-4 medium-range ballistic missile last Thursday.  This missile bridges a critical gap in India's strategic deterrence capabilities.  The Agni-4 missile can carry nuclear and conventional payloads with a 4,000 km range.  It features an advanced heat shield and a prec",
+          "title": "Pakistan cricketers face ban after playing in ‘unsanctioned’ Zambia T20 league",
+          "summary": "A potential two-year ban looms for former Pakistan cricketers who participated in an unauthorised Zambian league. The Pakistan Cricket Board has reacted strongly, emphasising that all players must obtain proper approvals before playing. Reports suggest that some cricketers encountered significant tr",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/defence/agni-4-fills-crucial-gap-between-mid-range-missile-icbm-provides-india-strategic-deterrence-against-china/articleshow/133061017.cms",
-          "published_at": "Sun, 09 Aug 2026 04:29:32 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricketers-face-two-year-pcb-ban-after-playing-in-unsanctioned-zambia-t20-league/articleshow/133061347.cms",
+          "published_at": "Sun, 09 Aug 2026 07:12:43 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLWZvdXIta2lsbGVkLWlu",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Four killed in helicopter crash in Brazil's Rio de Janeiro",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/world/rest-of-world/four-killed-in-helicopter-crash-in-rio-de-janeiro/articleshow/133061331.cms",
+          "published_at": "Sun, 09 Aug 2026 07:07:02 +0530",
           "cross_sections": []
+        },
+        {
+          "id": "dG9pLWZpZmEtaGl0cy1iYWNr",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "FIFA hits back at ‘concerted effort’ to undermine Infantino amid fresh allegations",
+          "summary": "FIFA has come out in staunch defense of president Gianni Infantino, rebutting fresh allegations and widespread criticism. The organisation has accused unnamed detractors of orchestrating a campaign aimed at destabilising its leadership. While UEFA acknowledged a severance payment to a former employe",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/sports/football/top-stories/fifa-hits-back-at-concerted-effort-to-undermine-infantino-amid-fresh-allegations/articleshow/133061234.cms",
+          "published_at": "Sun, 09 Aug 2026 06:35:25 +0530",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
           "id": "dG9pLXZhbmNlLWNhbGxzLXBt",
@@ -3781,65 +3835,31 @@
           "cross_sections": []
         },
         {
-          "id": "dG9pLWdvdmVybm1lbnQtYXBw",
+          "id": "dG9pLWdvdmVybm1lbnQtc3Bl",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Government appoints 30 judges to high courts of Calcutta, MP, Karnataka, Madras",
-          "summary": "The law ministry notified thirty new judges for four high courts on Saturday. Madras High Court received fifteen appointments, while Calcutta got eight and Karnataka six. Judicial officers and advocates were elevated to the benches, with most appointed as additional judges. Over sixty lakh cases are",
+          "title": "Government spending on education below Unesco's 15% standard",
+          "summary": "India's education funding aligns with GDP standards but falls short of public spending goals. Completion rates for secondary schools lag behind national and UNESCO guidelines. This funding pattern emerges as countries shift focus from education financial targets. India's extensive education initiati",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/government-appoints-30-judges-to-high-courts-of-calcutta-mp-karnataka-madras/articleshow/133059982.cms",
-          "published_at": "Sun, 09 Aug 2026 03:40:08 +0530",
-          "cross_sections": [
-            "tech"
-          ]
+          "article_url": "https://timesofindia.indiatimes.com/india/govt-spending-on-education-below-unescos-15-standard/articleshow/133059254.cms",
+          "published_at": "Sun, 09 Aug 2026 03:16:40 +0530",
+          "cross_sections": []
         },
         {
-          "id": "dG9pLWNhcHRhaW4tb2YtdHVy",
+          "id": "dG9pLXdpbmctY29tbWFuZGVy",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Captain of turbulence-hit Phuket-Delhi flight may have failed dope test",
-          "summary": "During a turbulent flight from Phuket to Delhi, the captain of an Air India aircraft reportedly tested positive for psychoactive substances. The turbulence caused a significant scare, resulting in hospitalization for thirteen passengers and four crew members. The Directorate General of Civil Aviatio",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/captain-of-turbulence-hit-phuket-delhi-flight-may-have-failed-dope-test/articleshow/133059271.cms",
-          "published_at": "Sun, 09 Aug 2026 03:36:26 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLWlhZi13aW5nLWNvbW1h",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "IAF wing commander ‘honey-trapped’ by Pak operatives; charged for alleged info leak",
+          "title": "Wing Commander arrested for spying after being ‘honey-trapped’ by Pak operatives",
           "summary": "A Wing Commander in the Indian Air Force is currently under serious accusations of leaking critical defense information. It is reported that he fell victim to a honey trap orchestrated by operatives from Pakistani intelligence using social media. Allegations suggest he secretly installed software de",
           "image_url": null,
           "article_url": "https://timesofindia.indiatimes.com/defence/iaf-wing-commander-honey-trapped-by-pak-operatives-arrested-charged-for-allegedly-leaking-defence-info/articleshow/133058871.cms",
           "published_at": "Sun, 09 Aug 2026 01:18:52 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLWF1c3RyYWxpYS1wYWNl",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Australia pacer takes 8/25 as Bangladesh bowled out for 54, lose match by innings",
-          "summary": "Campbell Thompson was the main contributor to Bangladesh’s collapse, taking eight wickets for 25 runs in the second innings at Marrara Oval. The 22-year-old left-arm fast bowler had taken two wickets late on Friday before returning on Saturday morning to claim six more as Bangladesh lost eight wicke",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/sports/cricket/news/australia-pacer-takes-8/25-as-bangladesh-bowled-out-for-54-lose-match-by-an-innings/articleshow/133055344.cms",
-          "published_at": "Sat, 08 Aug 2026 21:47:12 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4105,108 +4125,141 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dGhlaGluZHUtdGhyZWUtZnJv",
+          "id": "dGhlaGluZHUtYW1pdC1zaGFo",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Three from Tumakuru die in accident near Kottigehara in Chikkamagaluru",
-          "summary": "The car rammed into the truck, filled with LPG cylinders, parked near a petrol bunk",
+          "title": "Amit Shah promises action to prevent deviations in arecanut markets",
+          "summary": "A delegation of people’s representatives from arecanut growing regions and CAMPCO meets Shah and Minister Nirmala Sitharaman",
+          "image_url": "https://th-i.thgim.com/public/news/cities/Mangalore/mp5nm3/article71321852.ece/alternates/LANDSCAPE_1200/PIC%201.jpeg",
+          "article_url": "https://www.thehindu.com/news/cities/Mangalore/amit-shah-promises-action-to-prevent-deviations-in-arecanut-markets/article71321845.ece",
+          "published_at": "Sun, 09 Aug 2026 07:48:58 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtc2VtaW5hci1o",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Seminar highlights relevance of contemporary short stories on social issues",
+          "summary": "Delivering the keynote address, noted writer and literary critic Adavaala Seshagiri Rao explains the artistic richness of Telugu short fiction and underlines its enduring relevance in contemporary society",
           "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/karnataka/karnataka-kottigehara-accident-several-killed/article71320457.ece",
-          "published_at": "Sun, 09 Aug 2026 05:05:53 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtaW5kaWEtY291",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "India counters China, formally names 27 places in Arunachal Pradesh",
-          "summary": "India has been dismissing Chinese efforts to assign “fictitious names” to Indian territory, asserting such attempts to create “baseless narratives” cannot alter “undeniable reality”",
-          "image_url": "https://th-i.thgim.com/public/incoming/p51l9o/article71319278.ece/alternates/LANDSCAPE_1200/IMG_INDO-CHINA_HINDU_211_2_1_5MDGK8OF.jpg",
-          "article_url": "https://www.thehindu.com/news/national/india-counters-china-formally-names-27-places-in-arunachal-pradesh/article71319173.ece",
-          "published_at": "Sun, 09 Aug 2026 05:03:50 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtbWV0YS1yYW1w",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Meta ramps up censorship of protest, political reels",
-          "summary": "Instagram posts by political party accounts, Cockroach Janta Party representatives, and ordinary protesters have all been blocked in India; Meta is even barring content it is not legally required to remove",
-          "image_url": "https://th-i.thgim.com/public/incoming/g4hpbe/article71319322.ece/alternates/LANDSCAPE_1200/CJP%20PROTEST%20DELHI_06_06_51.jpg",
-          "article_url": "https://www.thehindu.com/news/national/meta-ramps-up-censorship-of-protest-political-reels/article71317806.ece",
-          "published_at": "Sun, 09 Aug 2026 05:01:48 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtZGVhZGxpbmUt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Deadline passes, posters stay put on Ernakulam Collectorate walls",
-          "summary": "Five notice boards installed after service organisations agreed to use a common space for campaign materials; NGO Union says a single display point is impractical as employees use multiple entrances, while NGO Association says any deviation from the consensus would defeat the purpose of the initiati",
-          "image_url": "https://th-i.thgim.com/public/news/national/kerala/mv4om6/article71318490.ece/alternates/LANDSCAPE_1200/IMG20260804150342.jpg",
-          "article_url": "https://www.thehindu.com/news/national/kerala/deadline-passes-posters-stay-put-on-ernakulam-collectorate-walls/article71317852.ece",
-          "published_at": "Sun, 09 Aug 2026 04:59:31 +0530",
+          "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/seminar-highlights-relevance-of-contemporary-short-stories-on-social-issues/article71321591.ece",
+          "published_at": "Sun, 09 Aug 2026 07:48:54 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtaGVhdnktcmFp",
+          "id": "dGhlaGluZHUtYWJoaWplZXQt",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Heavy rain to continue; orange alert for seven districts on August 8",
-          "summary": "Pathanamthitta, Alappuzha, Kottayam, Kozhikode, Wayanad, Kannur and Kasaragod districts have been put on orange alert",
-          "image_url": "https://th-i.thgim.com/public/incoming/gytk0s/article71318853.ece/alternates/LANDSCAPE_1200/PTI08_02_2026_000393B.jpg",
-          "article_url": "https://www.thehindu.com/news/national/kerala/heavy-rain-to-continue-orange-alert-for-seven-districts-on-august-8/article71318578.ece",
-          "published_at": "Sun, 09 Aug 2026 04:56:21 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtcmVsaWVmLWNh",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Relief camps shut in Kerala’s Ernakulam as rain situation eases",
-          "summary": "The eastern parts of Ernakulam district received only light spells of rain on Friday",
-          "image_url": "https://th-i.thgim.com/public/incoming/w8cryr/article71319332.ece/alternates/LANDSCAPE_1200/Rain01.JPG",
-          "article_url": "https://www.thehindu.com/news/national/kerala/relief-camps-shut-in-keralas-ernakulam-as-rain-situation-eases/article71318829.ece",
-          "published_at": "Sun, 09 Aug 2026 04:56:11 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtcHJvdGVzdGlu",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Protesting students form 11-member team to hold talks with Jharkhand government",
-          "summary": "The protest enters 13th day; students say the agitation will continue until government takes concrete decision on their demands",
-          "image_url": "https://th-i.thgim.com/public/incoming/6wqkms/article71314838.ece/alternates/LANDSCAPE_1200/PTI08_06_2026_000404B.jpg",
-          "article_url": "https://www.thehindu.com/news/national/jharkhand/protesting-students-form-11-member-team-to-hold-talks-with-jharkhand-government/article71314619.ece",
-          "published_at": "Sun, 09 Aug 2026 04:55:46 +0530",
+          "title": "Abhijeet Dipke seeks removal of ‘rude’ cop from security duty at his home",
+          "summary": "CJP convenor Abhijeet Dipke confronted a police sub-inspector deployed at his Chhatrapati Sambhajinagar residence, accusing him of being rude to visitors and restricting people from meeting him.",
+          "image_url": "https://th-i.thgim.com/public/videos/wrmm8o/article71321894.ece/alternates/LANDSCAPE_1200/CJP%202.png",
+          "article_url": "https://www.thehindu.com/videos/abhijeet-dipke-seeks-removal-of-rude-cop-from-security-duty-at-his-home/article71321924.ece",
+          "published_at": "Sun, 09 Aug 2026 07:48:50 +0530",
           "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtd2h5LWthc2ht",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Why Kashmiri artist Azim Hassan paints home, memory and loss from China",
+          "summary": "From his studio in China, Azim Hassan paints Kashmir’s changing landscapes, fading traditions and the emotional echoes of conflict",
+          "image_url": "https://th-i.thgim.com/public/incoming/29y8q4/article71318234.ece/alternates/LANDSCAPE_1200/Untitled%20design%20-%202026-08-07T193827.592.jpg",
+          "article_url": "https://www.thehindu.com/society/azim-hassan-kashmiri-artist-paints-memory-loss-home-china/article71182012.ece",
+          "published_at": "Sun, 09 Aug 2026 07:48:05 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtc2hpcm9tYW5p",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Shiromani Akali Dal calls for ‘immediate’ implementation of women’s quota, backs delimitation",
+          "summary": "SAD president Sukhbir Singh Badal said the party also demands “fair and equitable Delimitation that ensures equal representation to all States”",
+          "image_url": "https://th-i.thgim.com/public/incoming/8b58gy/article71321259.ece/alternates/LANDSCAPE_1200/HPMGfnOa8AAtu_3.jpg",
+          "article_url": "https://www.thehindu.com/news/national/punjab/shiromani-akali-dal-calls-for-implementation-of-womens-reservation-bill-backs-delimitation/article71321207.ece",
+          "published_at": "Sun, 09 Aug 2026 07:47:54 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtZG1rLWRlbWFu",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "DMK demands Centre to withdraw FCRA Amendment Bill",
+          "summary": "A delegation of the Joint Action Forum on Minorities meets Union Home Minister and urges him to withdraw the Bill",
+          "image_url": "https://th-i.thgim.com/public/incoming/sso84u/article71321891.ece/alternates/LANDSCAPE_1200/10216_17_4_2026_22_33_56_3_17_04_2026_STALIN_4.JPG",
+          "article_url": "https://www.thehindu.com/news/cities/chennai/dmk-demands-centre-to-withdraw-fcra-amendment-bill/article71321523.ece",
+          "published_at": "Sun, 09 Aug 2026 07:47:18 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtaGlkZGVuLWVu",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Hidden environmental cost of powering growing digital and AI-world",
+          "summary": "Despite the astronomical water footprint of data centres, some States, which already have difficulties in meeting their water needs, have announced huge data centre projects.",
+          "image_url": "https://th-i.thgim.com/public/incoming/oqu8nw/article71322691.ece/alternates/LANDSCAPE_1200/11658_23_5_2026_16_23_2_1_1.JPG",
+          "article_url": "https://www.thehindu.com/business/Economy/hidden-environmental-cost-of-powering-growing-digital-and-ai-world/article71322001.ece",
+          "published_at": "Sun, 09 Aug 2026 07:46:49 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtZWQtbGF1bmNo",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "ED launches probe into financial irregularities at Belgavi-based Shivam Associates",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/national/karnataka/ed-launches-probe-into-financial-irregularities-at-belgavi-based-shivam-associates/article71318281.ece",
+          "published_at": "Sun, 09 Aug 2026 07:46:18 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtdGVhY2hpbmct",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Teaching AI to speak India",
+          "summary": "Artificial intelligence can chat, translate and answer questions but only if it understands your language. At IIT Madras, researchers at AI4Bharat are travelling across India, collecting voices, preserving dialects and teaching AI to understand the country’s incredible linguistic diversity.",
+          "image_url": "https://th-i.thgim.com/public/incoming/y693sa/article71280832.ece/alternates/LANDSCAPE_1200/iStock-1066071372.jpg",
+          "article_url": "https://www.thehindu.com/sci-tech/technology/internet/teaching-ai-to-speak-india/article71280380.ece",
+          "published_at": "Sun, 09 Aug 2026 05:45:19 +0530",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
         },
         {
           "id": "dGhlaGluZHUtd2h5LWlzLWl0",
@@ -4320,22 +4373,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "dGhlaGluZHUtc29ueS1hbm5v",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "Sony announces 115 inch Bravia 9II True RGB smart TV",
-          "summary": "Sony said that India’s smart TV market is moving towards larger screen sizes, above 55 inches, and it commands the segments",
-          "image_url": "https://th-i.thgim.com/public/sci-tech/technology/vp0e3b/article71301041.ece/alternates/LANDSCAPE_1200/20260803_130439.jpg",
-          "article_url": "https://www.thehindu.com/sci-tech/technology/gadgets/sony-announces-115-inch-bravia-9ii-true-rgb-smart-tv/article71301031.ece",
-          "published_at": "Sat, 08 Aug 2026 21:41:57 +0530",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -4345,6 +4382,64 @@
       "region": "Asia-Pacific",
       "category": "Newspaper",
       "articles": [
+        {
+          "id": "amFwYW50aW1lcy1maWZhLXdh",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "FIFA warns of efforts to undermine Gianni Infantino amid leadership crisis",
+          "summary": "The statement came amid an increasingly bitter standoff over Infantino's leadership.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/09/556279.JPG",
+          "article_url": "https://www.japantimes.co.jp/sports/2026/08/09/soccer/fifa-backs-infantino-against-allegations/",
+          "published_at": "Sun, 09 Aug 2026 09:50:00 +0900",
+          "cross_sections": []
+        },
+        {
+          "id": "amFwYW50aW1lcy1maWppYW4t",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Fijian rugby player dies after suffering suspected heatstroke in Japan",
+          "summary": "Japan has experienced an ​intense heatwave in ⁠recent weeks, with temperatures exceeding 40 degrees Celsius ⁠in some ​cities.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/09/556263.jpg",
+          "article_url": "https://www.japantimes.co.jp/sports/2026/08/09/more-sports/rugby-player-dies-heatstroke/",
+          "published_at": "Sun, 09 Aug 2026 09:38:00 +0900",
+          "cross_sections": []
+        },
+        {
+          "id": "amFwYW50aW1lcy12b2x1bnRl",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Volunteer activities fully start in quake-hit Kumamoto",
+          "summary": "As of 2 p.m. Saturday, 1,751 people were working as volunteers in afflicted areas.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/09/556257.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/08/09/japan/kumamoto-earthquake-volunteers/",
+          "published_at": "Sun, 09 Aug 2026 09:10:00 +0900",
+          "cross_sections": []
+        },
+        {
+          "id": "amFwYW50aW1lcy1sZHAtc2Vj",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "LDP secretary-general post emerges as focal point as Takaichi mulls changes",
+          "summary": "At a time when public support for her administration is falling, Takaichi may shake up her Cabinet and the LDP's executive lineup to reinforce her standing in the party.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/09/556262.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/08/09/japan/politics/japan-cabinet-ldp-reshuffles/",
+          "published_at": "Sun, 09 Aug 2026 09:05:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "amFwYW50aW1lcy1qYXBhbuKA",
           "source_id": "japantimes",
@@ -4374,94 +4469,34 @@
           "cross_sections": []
         },
         {
-          "id": "amFwYW50aW1lcy11LnMuLXNh",
+          "id": "amFwYW50aW1lcy13aGF0LXRv",
           "source_id": "japantimes",
           "source_name": "The Japan Times",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "U.S. says China’s Scarborough Shoal claim ‘destabilizing’ region",
-          "summary": "Beijing announced new rules for the area's management in recent days that prohibit fishing and mining without prior approval.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/09/556254.jpg",
-          "article_url": "https://www.japantimes.co.jp/news/2026/08/09/asia-pacific/politics/us-china-scarborough-shoal-destabilizing/",
-          "published_at": "Sun, 09 Aug 2026 07:43:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy1pcmFuLXNh",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Iran says deal on Strait of Hormuz is close but not enough to open waterway",
-          "summary": "Agreement between Iran and Oman over the strait, which separates the two countries, is seen as vital to a wider deal to end the war.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/09/556250.jpg",
-          "article_url": "https://www.japantimes.co.jp/news/2026/08/09/world/iran-oman-hormuz-deal/",
-          "published_at": "Sun, 09 Aug 2026 07:43:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy1hLXl1a2lv",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "A Yukio Mishima stage adaptation pulls genre-bending strings",
-          "summary": "A cross-cultural collaboration mixing bunraku puppetry, kabuki and literature is creating a new take on Yukio Mishima's novel.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/08/555909.jpg",
-          "article_url": "https://www.japantimes.co.jp/culture/2026/08/08/stage/kinkakuji-play-novel-adaptation-bunkamura/",
-          "published_at": "Sat, 08 Aug 2026 15:40:00 +0900",
+          "title": "What to expect from the new Saudi-Turkey-Pakistan deal",
+          "summary": "The alliance binds three Sunni powers — all allies of the United States — with a NATO-style clause that considers any attack on one country as an attack on all.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/09/556253.JPG",
+          "article_url": "https://www.japantimes.co.jp/news/2026/08/09/world/politics/saudi-turkey-pakistan-defense-focus/",
+          "published_at": "Sun, 09 Aug 2026 07:47:00 +0900",
           "cross_sections": []
         },
         {
-          "id": "amFwYW50aW1lcy1ydXNzaWHi",
+          "id": "amFwYW50aW1lcy11a3JhaW5l",
           "source_id": "japantimes",
           "source_name": "The Japan Times",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Russia’s only anti-war party eyes support boost at elections",
-          "summary": "While the liberal Yabloko party is unlikely to win any seats in elections next month, they nonetheless relish the opportunity to push their anti-war message on a national scale.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/08/556222.jpg",
-          "article_url": "https://www.japantimes.co.jp/news/2026/08/08/world/politics/russia-anti-war-party/",
-          "published_at": "Sat, 08 Aug 2026 15:33:00 +0900",
-          "cross_sections": []
-        },
-        {
-          "id": "amFwYW50aW1lcy1leG9kdXM6",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Exodus: West Bank hardships drive out Palestinian Christians",
-          "summary": "Since the Gaza war began, attacks by Israeli settlers on Palestinians in the West Bank have become an almost daily occurrence.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/08/556217.jpg",
-          "article_url": "https://www.japantimes.co.jp/news/2026/08/08/world/palestinian-christians-west-bank-exodus/",
-          "published_at": "Sat, 08 Aug 2026 15:20:00 +0900",
+          "title": "Ukraine denies targeting Bulgaria as drone explodes near pipeline",
+          "summary": "Drone-related incidents have become increasingly frequent across eastern European countries that are NATO members and supporters of Ukraine.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/09/556251.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/08/09/world/ukraine-bulgaria-drone-explodes/",
+          "published_at": "Sun, 09 Aug 2026 07:46:00 +0900",
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "amFwYW50aW1lcy1mb3JtZXIt",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Former Carp catcher wishes for peace 81 years after atomic bomb",
-          "summary": "During Hasebe's seven years as catcher, he saw his team grow amid struggles and felt the enthusiasm of Hiroshima residents for reviving the city.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/08/556215.jpg",
-          "article_url": "https://www.japantimes.co.jp/sports/2026/08/08/baseball/japanese-baseball/former-carp-catcher-peace/",
-          "published_at": "Sat, 08 Aug 2026 15:03:00 +0900",
-          "cross_sections": []
         }
       ]
     },
@@ -4708,6 +4743,68 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YWxqYXplZXJhLWlzcmFlbGkt",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Israeli settler attacks rise as West Bank residents lose land",
+          "summary": "Palestinians near Bethlehem describe daily settler attacks as violence rises across the West Bank.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
+          "published_at": "Sun, 09 Aug 2026 01:43:04 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLWh1bmdhcnkt",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Hungary nominates former Supreme Court chief Andras Baka for presidency",
+          "summary": "Andras Baka, a strong advocate for judicial independence, becomes governing party's pick for Hungary's next president.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss",
+          "published_at": "Sun, 09 Aug 2026 00:41:01 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLWlyYW4td2Fy",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz",
+          "summary": "IRGC sets conditions to reopen Strait of Hormuz as US seeks commitments to end attacks on ships in the waterway.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
+          "published_at": "Sun, 09 Aug 2026 00:00:00 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXR1cmtpeWUt",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Turkiye says Mecca defence pact not aimed at Iran",
+          "summary": "Turkiye says the Mecca defence pact with Saudi Arabia and Pakistan does not target Iran.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran?traffic_source=rss",
+          "published_at": "Sat, 08 Aug 2026 23:59:15 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YWxqYXplZXJhLXZhbmNlLXNh",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
@@ -4767,64 +4864,6 @@
           "image_url": null,
           "article_url": "https://www.aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president?traffic_source=rss",
           "published_at": "Sat, 08 Aug 2026 22:22:36 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXdpbGwtcGFr",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Will Pakistan-Saudi-Turkiye defence pact change US strategy?",
-          "summary": "Some experts say the deal precipitates a larger strategic shift in Middle East while others say it reinforces US goals.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/8/8/will-pakistan-saudi-turkiye-defence-pact-change-us-strategy?traffic_source=rss",
-          "published_at": "Sat, 08 Aug 2026 21:28:12 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXRydW1w4oCZ",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Trump’s Former Lawyer Is Now Attorney General",
-          "summary": "Todd Blanche, President Trump’s former lawyer, is now US attorney general.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/aje-onl-nf_todd-blanche-ag-080826?traffic_source=rss",
-          "published_at": "Sat, 08 Aug 2026 21:04:54 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXdoYXQtYXJl",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "What are the challenges facing the Mecca agreement?",
-          "summary": "Saudi Arabia turns to Turkiye and Pakistan for defence ties, raising questions overreliance on the US.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/inside-story/2026/8/8/challenges-facing-mecca-agreement?traffic_source=rss",
-          "published_at": "Sat, 08 Aug 2026 20:25:43 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLWF0LWxlYXN0",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "At least 200 people evacuated as wildfire rages near Lake Garda",
-          "summary": "At least 200 people have been evacuated after a wildfire broke out near Italy’s Lake Garda.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss",
-          "published_at": "Sat, 08 Aug 2026 19:13:03 +0000",
           "cross_sections": []
         }
       ]
@@ -5062,7 +5101,7 @@
         {
           "id": "bbc",
           "name": "BBC News",
-          "count": 22
+          "count": 23
         },
         {
           "id": "guardian",
@@ -5077,7 +5116,7 @@
         {
           "id": "dw",
           "name": "DW News",
-          "count": 13
+          "count": 14
         }
       ]
     },
@@ -5094,7 +5133,7 @@
         {
           "id": "thehindu",
           "name": "The Hindu",
-          "count": 15
+          "count": 16
         },
         {
           "id": "japantimes",
@@ -5133,6 +5172,215 @@
       "icon": "💻",
       "articles": [
         {
+          "id": "dGhlaGluZHUtc2VtaW5hci1o",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Seminar highlights relevance of contemporary short stories on social issues",
+          "summary": "Delivering the keynote address, noted writer and literary critic Adavaala Seshagiri Rao explains the artistic richness of Telugu short fiction and underlines its enduring relevance in contemporary society",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/seminar-highlights-relevance-of-contemporary-short-stories-on-social-issues/article71321591.ece",
+          "published_at": "Sun, 09 Aug 2026 07:48:54 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtd2h5LWthc2ht",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Why Kashmiri artist Azim Hassan paints home, memory and loss from China",
+          "summary": "From his studio in China, Azim Hassan paints Kashmir’s changing landscapes, fading traditions and the emotional echoes of conflict",
+          "image_url": "https://th-i.thgim.com/public/incoming/29y8q4/article71318234.ece/alternates/LANDSCAPE_1200/Untitled%20design%20-%202026-08-07T193827.592.jpg",
+          "article_url": "https://www.thehindu.com/society/azim-hassan-kashmiri-artist-paints-memory-loss-home-china/article71182012.ece",
+          "published_at": "Sun, 09 Aug 2026 07:48:05 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtc2hpcm9tYW5p",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Shiromani Akali Dal calls for ‘immediate’ implementation of women’s quota, backs delimitation",
+          "summary": "SAD president Sukhbir Singh Badal said the party also demands “fair and equitable Delimitation that ensures equal representation to all States”",
+          "image_url": "https://th-i.thgim.com/public/incoming/8b58gy/article71321259.ece/alternates/LANDSCAPE_1200/HPMGfnOa8AAtu_3.jpg",
+          "article_url": "https://www.thehindu.com/news/national/punjab/shiromani-akali-dal-calls-for-implementation-of-womens-reservation-bill-backs-delimitation/article71321207.ece",
+          "published_at": "Sun, 09 Aug 2026 07:47:54 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtaGlkZGVuLWVu",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Hidden environmental cost of powering growing digital and AI-world",
+          "summary": "Despite the astronomical water footprint of data centres, some States, which already have difficulties in meeting their water needs, have announced huge data centre projects.",
+          "image_url": "https://th-i.thgim.com/public/incoming/oqu8nw/article71322691.ece/alternates/LANDSCAPE_1200/11658_23_5_2026_16_23_2_1_1.JPG",
+          "article_url": "https://www.thehindu.com/business/Economy/hidden-environmental-cost-of-powering-growing-digital-and-ai-world/article71322001.ece",
+          "published_at": "Sun, 09 Aug 2026 07:46:49 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLWlzcmFlbGkt",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Israeli settler attacks rise as West Bank residents lose land",
+          "summary": "Palestinians near Bethlehem describe daily settler attacks as violence rises across the West Bank.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
+          "published_at": "Sun, 09 Aug 2026 01:43:04 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLXBha2lzdGFuLWNyaWNr",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Pakistan cricketers face ban after playing in ‘unsanctioned’ Zambia T20 league",
+          "summary": "A potential two-year ban looms for former Pakistan cricketers who participated in an unauthorised Zambian league. The Pakistan Cricket Board has reacted strongly, emphasising that all players must obtain proper approvals before playing. Reports suggest that some cricketers encountered significant tr",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricketers-face-two-year-pcb-ban-after-playing-in-unsanctioned-zambia-t20-league/articleshow/133061347.cms",
+          "published_at": "Sun, 09 Aug 2026 07:12:43 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LWJhbGQtcmFuZ2Utd2ls",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia",
+          "summary": "The Bald Range fire has burned more than 25,000 acres in British Columbia. At one point, the fire spread more than 2,000 acres in about an hour, officials said.",
+          "image_url": "https://static01.nyt.com/images/2026/08/08/multimedia/08xp-canadian-wildfire-01-kmbj/08xp-canadian-wildfire-01-kmbj-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html",
+          "published_at": "Sun, 09 Aug 2026 01:12:03 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLWZpZmEtaGl0cy1iYWNr",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "FIFA hits back at ‘concerted effort’ to undermine Infantino amid fresh allegations",
+          "summary": "FIFA has come out in staunch defense of president Gianni Infantino, rebutting fresh allegations and widespread criticism. The organisation has accused unnamed detractors of orchestrating a campaign aimed at destabilising its leadership. While UEFA acknowledged a severance payment to a former employe",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/sports/football/top-stories/fifa-hits-back-at-concerted-effort-to-undermine-infantino-amid-fresh-allegations/articleshow/133061234.cms",
+          "published_at": "Sun, 09 Aug 2026 06:35:25 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLXplbmRheWEtc2F3LW1l",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Zendaya saw me on the red carpet and her jaw dropped - I'm still in shock",
+          "summary": "TikTok creator Zainab Jiwa seems to be giving Hollywood A-listers on the red carpet a run for their money.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d83/live/def80170-9245-11f1-b2ab-0dd01740f9f6.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cq56j53g9yeo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 09 Aug 2026 00:39:27 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LW1heC1taWxsZXIsLXJl",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Max Miller, Republican Accused of Abuse, Won’t Drop Out, Spokeswoman Says",
+          "summary": "Mr. Miller, who has faced pressure from fellow Republicans to end his campaign and avoid endangering a solidly red seat in Ohio, will stay in the race, his spokeswoman said.",
+          "image_url": "https://static01.nyt.com/images/2026/08/08/multimedia/08pol-miller-ohio-mzlg/08pol-miller-ohio-mzlg-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/08/us/politics/max-miller-ohio-republican.html",
+          "published_at": "Sun, 09 Aug 2026 00:20:55 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdGVhY2hpbmct",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Teaching AI to speak India",
+          "summary": "Artificial intelligence can chat, translate and answer questions but only if it understands your language. At IIT Madras, researchers at AI4Bharat are travelling across India, collecting voices, preserving dialects and teaching AI to understand the country’s incredible linguistic diversity.",
+          "image_url": "https://th-i.thgim.com/public/incoming/y693sa/article71280832.ece/alternates/LANDSCAPE_1200/iStock-1066071372.jpg",
+          "article_url": "https://www.thehindu.com/sci-tech/technology/internet/teaching-ai-to-speak-india/article71280380.ece",
+          "published_at": "Sun, 09 Aug 2026 05:45:19 +0530",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy1sZHAtc2Vj",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "LDP secretary-general post emerges as focal point as Takaichi mulls changes",
+          "summary": "At a time when public support for her administration is falling, Takaichi may shake up her Cabinet and the LDP's executive lineup to reinforce her standing in the party.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/09/556262.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/08/09/japan/politics/japan-cabinet-ldp-reshuffles/",
+          "published_at": "Sun, 09 Aug 2026 09:05:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZHctZmlmYS13YXJucy1hZ2Fp",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "FIFA warns against 'concerted effort' to undermine Gianni Infantino",
+          "summary": "Pressure is mounting on the FIFA president Gianni Infantino after plans to sell a stake in the World Cup collapsed and fresh allegations emerged relating to his time at UEFA.",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/fifa-warns-against-concerted-effort-to-undermine-gianni-infantino/a-78291551?maca=en-rss-en-top-1022-xml-mrss",
+          "published_at": "Sun, 9 Aug 2026 00:03:00 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "ZHctZ2VybWFueTotaW50ZXJp",
           "source_id": "dw",
           "source_name": "DW News",
@@ -5149,33 +5397,33 @@
           ]
         },
         {
-          "id": "YmJjLWhvdy13ZWlnaHQtbG9z",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
+          "id": "YWxqYXplZXJhLWlyYW4td2Fy",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "How weight-loss medication is changing relationships with alcohol",
-          "summary": "Some people using weight-loss drugs say their cravings for alcohol disappeared or they felt nauseous when they drank.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dba/live/f6aa7180-91a6-11f1-a7ab-8b30adf0800a.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/cr7kmlg0lxpo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 08 Aug 2026 23:30:06 GMT",
+          "feed_label": "All News",
+          "title": "Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz",
+          "summary": "IRGC sets conditions to reopen Strait of Hormuz as US seeks commitments to end attacks on ships in the waterway.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
+          "published_at": "Sun, 09 Aug 2026 00:00:00 +0000",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtZGVhZGxpbmUt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Deadline passes, posters stay put on Ernakulam Collectorate walls",
-          "summary": "Five notice boards installed after service organisations agreed to use a common space for campaign materials; NGO Union says a single display point is impractical as employees use multiple entrances, while NGO Association says any deviation from the consensus would defeat the purpose of the initiati",
-          "image_url": "https://th-i.thgim.com/public/news/national/kerala/mv4om6/article71318490.ece/alternates/LANDSCAPE_1200/IMG20260804150342.jpg",
-          "article_url": "https://www.thehindu.com/news/national/kerala/deadline-passes-posters-stay-put-on-ernakulam-collectorate-walls/article71317852.ece",
-          "published_at": "Sun, 09 Aug 2026 04:59:31 +0530",
+          "id": "YWxqYXplZXJhLXR1cmtpeWUt",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Turkiye says Mecca defence pact not aimed at Iran",
+          "summary": "Turkiye says the Mecca defence pact with Saudi Arabia and Pakistan does not target Iran.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran?traffic_source=rss",
+          "published_at": "Sat, 08 Aug 2026 23:59:15 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5192,38 +5440,6 @@
           "image_url": null,
           "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/vance-says-us-destroyed-irans-nuclear-programme?traffic_source=rss",
           "published_at": "Sat, 08 Aug 2026 23:27:55 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtaGVhdnktcmFp",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Heavy rain to continue; orange alert for seven districts on August 8",
-          "summary": "Pathanamthitta, Alappuzha, Kottayam, Kozhikode, Wayanad, Kannur and Kasaragod districts have been put on orange alert",
-          "image_url": "https://th-i.thgim.com/public/incoming/gytk0s/article71318853.ece/alternates/LANDSCAPE_1200/PTI08_02_2026_000393B.jpg",
-          "article_url": "https://www.thehindu.com/news/national/kerala/heavy-rain-to-continue-orange-alert-for-seven-districts-on-august-8/article71318578.ece",
-          "published_at": "Sun, 09 Aug 2026 04:56:21 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtcmVsaWVmLWNh",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Relief camps shut in Kerala’s Ernakulam as rain situation eases",
-          "summary": "The eastern parts of Ernakulam district received only light spells of rain on Friday",
-          "image_url": "https://th-i.thgim.com/public/incoming/w8cryr/article71319332.ece/alternates/LANDSCAPE_1200/Rain01.JPG",
-          "article_url": "https://www.thehindu.com/news/national/kerala/relief-camps-shut-in-keralas-ernakulam-as-rain-situation-eases/article71318829.ece",
-          "published_at": "Sun, 09 Aug 2026 04:56:11 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5277,81 +5493,17 @@
           ]
         },
         {
-          "id": "amFwYW50aW1lcy11LnMuLXNh",
+          "id": "amFwYW50aW1lcy11a3JhaW5l",
           "source_id": "japantimes",
           "source_name": "The Japan Times",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "U.S. says China’s Scarborough Shoal claim ‘destabilizing’ region",
-          "summary": "Beijing announced new rules for the area's management in recent days that prohibit fishing and mining without prior approval.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/09/556254.jpg",
-          "article_url": "https://www.japantimes.co.jp/news/2026/08/09/asia-pacific/politics/us-china-scarborough-shoal-destabilizing/",
-          "published_at": "Sun, 09 Aug 2026 07:43:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy1pcmFuLXNh",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Iran says deal on Strait of Hormuz is close but not enough to open waterway",
-          "summary": "Agreement between Iran and Oman over the strait, which separates the two countries, is seen as vital to a wider deal to end the war.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/09/556250.jpg",
-          "article_url": "https://www.japantimes.co.jp/news/2026/08/09/world/iran-oman-hormuz-deal/",
-          "published_at": "Sun, 09 Aug 2026 07:43:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LW1heC1taWxsZXIsLXJl",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Max Miller, Republican Accused of Abuse, Won’t Drop Out, Spokeswoman Says",
-          "summary": "Mr. Miller, who has faced pressure from fellow Republicans to end his campaign and avoid endangering a solidly red seat in Ohio, will stay in the race, his spokeswoman said.",
-          "image_url": "https://static01.nyt.com/images/2026/08/08/multimedia/08pol-miller-ohio-mzlg/08pol-miller-ohio-mzlg-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/08/us/politics/max-miller-ohio-republican.html",
-          "published_at": "Sat, 08 Aug 2026 22:30:07 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLWdvdmVybm1lbnQtYXBw",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Government appoints 30 judges to high courts of Calcutta, MP, Karnataka, Madras",
-          "summary": "The law ministry notified thirty new judges for four high courts on Saturday. Madras High Court received fifteen appointments, while Calcutta got eight and Karnataka six. Judicial officers and advocates were elevated to the benches, with most appointed as additional judges. Over sixty lakh cases are",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/government-appoints-30-judges-to-high-courts-of-calcutta-mp-karnataka-madras/articleshow/133059982.cms",
-          "published_at": "Sun, 09 Aug 2026 03:40:08 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LWJhbGQtcmFuZ2Utd2ls",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia",
-          "summary": "The Bald Range fire has burned more than 25,000 acres in British Columbia. At one point, the fire spread more than 2,000 acres in about an hour, officials said.",
-          "image_url": "https://static01.nyt.com/images/2026/08/08/multimedia/08xp-canadian-wildfire-01-kmbj/08xp-canadian-wildfire-01-kmbj-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html",
-          "published_at": "Sat, 08 Aug 2026 22:08:08 +0000",
+          "title": "Ukraine denies targeting Bulgaria as drone explodes near pipeline",
+          "summary": "Drone-related incidents have become increasingly frequent across eastern European countries that are NATO members and supporters of Ukraine.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/09/556251.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/08/09/world/ukraine-bulgaria-drone-explodes/",
+          "published_at": "Sun, 09 Aug 2026 07:46:00 +0900",
           "cross_sections": [
             "tech"
           ]
@@ -5373,22 +5525,6 @@
           ]
         },
         {
-          "id": "dG9pLWNhcHRhaW4tb2YtdHVy",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Captain of turbulence-hit Phuket-Delhi flight may have failed dope test",
-          "summary": "During a turbulent flight from Phuket to Delhi, the captain of an Air India aircraft reportedly tested positive for psychoactive substances. The turbulence caused a significant scare, resulting in hospitalization for thirteen passengers and four crew members. The Directorate General of Civil Aviatio",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/captain-of-turbulence-hit-phuket-delhi-flight-may-have-failed-dope-test/articleshow/133059271.cms",
-          "published_at": "Sun, 09 Aug 2026 03:36:26 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "dGVjaGNydW5jaC1wbGFubmVk",
           "source_id": "techcrunch",
           "source_name": "TechCrunch",
@@ -5400,22 +5536,6 @@
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
           "published_at": "Sat, 08 Aug 2026 21:24:02 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXdoYXQtYXJl",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "What are the challenges facing the Mecca agreement?",
-          "summary": "Saudi Arabia turns to Turkiye and Pakistan for defence ties, raising questions overreliance on the US.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/inside-story/2026/8/8/challenges-facing-mecca-agreement?traffic_source=rss",
-          "published_at": "Sat, 08 Aug 2026 20:25:43 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5453,13 +5573,13 @@
           ]
         },
         {
-          "id": "dG9pLWlhZi13aW5nLWNvbW1h",
+          "id": "dG9pLXdpbmctY29tbWFuZGVy",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "IAF wing commander ‘honey-trapped’ by Pak operatives; charged for alleged info leak",
+          "title": "Wing Commander arrested for spying after being ‘honey-trapped’ by Pak operatives",
           "summary": "A Wing Commander in the Indian Air Force is currently under serious accusations of leaking critical defense information. It is reported that he fell victim to a honey trap orchestrated by operatives from Pakistani intelligence using social media. Allegations suggest he secretly installed software de",
           "image_url": null,
           "article_url": "https://timesofindia.indiatimes.com/defence/iaf-wing-commander-honey-trapped-by-pak-operatives-arrested-charged-for-allegedly-leaking-defence-info/articleshow/133058871.cms",
@@ -5593,7 +5713,7 @@
           "summary": "The tech giant is investing in the natural-gas-burning power plant as part of a huge data center in Texas, even as it pledges to honor climate commitments.",
           "image_url": "https://static01.nyt.com/images/2026/08/08/multimedia/08CLI-AMAZON-jtbw/08CLI-AMAZON-jtbw-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
-          "published_at": "Sat, 08 Aug 2026 18:17:02 +0000",
+          "published_at": "Sat, 08 Aug 2026 18:17:03 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5693,87 +5813,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "Z3VhcmRpYW4tb3BlbmFpLXRv",
-          "source_id": "guardian",
-          "source_name": "The Guardian",
-          "source_region": "Europe",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "OpenAI to pause some work on AI model Astra due to security concerns",
-          "summary": "Agent found to be able to find and exploit vulnerabilities without human intervention, and to carry out cyber-attacks\nOpenAI will pause some work on an artificial intelligence model because of security concerns, the company stated on Friday, following a series of incidents in which AI agents have es",
-          "image_url": "https://i.guim.co.uk/img/media/75370b7d2e86da8743ca26266a8659d6b1b70393/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=bf8b16025f2e29ec6571a13a66115169",
-          "article_url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
-          "published_at": "Sat, 08 Aug 2026 17:00:41 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "YmJjLXN0dXJnZW9uLWhhc24n",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Sturgeon hasn't spoken to Murrell since he was jailed for embezzling SNP funds",
-          "summary": "The former first minister also told a podcast she would not visit her estranged husband in prison.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a4b/live/113aaac0-9345-11f1-a35f-039358cea467.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/cdx8jxqxyw0o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 08 Aug 2026 16:46:23 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtZ292ZXJubWVu",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "Government to raise CSAM lapses, wrongful account action issue with Meta; global team in India on Aug 5-6",
-          "summary": "\"We would like to understand from Meta as to why some of these things have not been working the way they are supposed to work, and what the challenges are,\" says Mr. Krishnan",
-          "image_url": "https://th-i.thgim.com/public/incoming/3u0iw2/article71305147.ece/alternates/LANDSCAPE_1200/2026-07-30T113737Z_535547214_RC29C3ALMDTG_RTRMADP_3_INDIA-POLITICS-META.JPG",
-          "article_url": "https://www.thehindu.com/news/national/government-to-raise-csam-lapses-wrongful-account-action-issue-with-meta-global-team-in-india-on-aug-5-6/article71305095.ece",
-          "published_at": "Sat, 08 Aug 2026 21:59:02 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LWluLWNvbmZpcm1pbmct",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "In Confirming Blanche, Senators Endorse a Justice Dept. Under Trump’s Sway",
-          "summary": "Time and again, Todd Blanche has made it clear that he believes President Trump possesses a nearly limitless right to directly control the actions of the Justice Department.",
-          "image_url": "https://static01.nyt.com/images/2026/08/08/multimedia/08dc-blanche-03-kvjw/08dc-blanche-03-kvjw-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/08/us/politics/blanche-attorney-general-doj-trump-power.html",
-          "published_at": "Sat, 08 Aug 2026 16:28:57 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLWF1c3RyYWxpYS1wYWNl",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Australia pacer takes 8/25 as Bangladesh bowled out for 54, lose match by innings",
-          "summary": "Campbell Thompson was the main contributor to Bangladesh’s collapse, taking eight wickets for 25 runs in the second innings at Marrara Oval. The 22-year-old left-arm fast bowler had taken two wickets late on Friday before returning on Saturday morning to claim six more as Bangladesh lost eight wicke",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/sports/cricket/news/australia-pacer-takes-8/25-as-bangladesh-bowled-out-for-54-lose-match-by-an-innings/articleshow/133055344.cms",
-          "published_at": "Sat, 08 Aug 2026 21:47:12 +0530",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -5788,6 +5827,23 @@
       "name": "LLM & AI",
       "icon": "🤖",
       "articles": [
+        {
+          "id": "dGhlaGluZHUtdGVhY2hpbmct",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Teaching AI to speak India",
+          "summary": "Artificial intelligence can chat, translate and answer questions but only if it understands your language. At IIT Madras, researchers at AI4Bharat are travelling across India, collecting voices, preserving dialects and teaching AI to understand the country’s incredible linguistic diversity.",
+          "image_url": "https://th-i.thgim.com/public/incoming/y693sa/article71280832.ece/alternates/LANDSCAPE_1200/iStock-1066071372.jpg",
+          "article_url": "https://www.thehindu.com/sci-tech/technology/internet/teaching-ai-to-speak-india/article71280380.ece",
+          "published_at": "Sun, 09 Aug 2026 05:45:19 +0530",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
         {
           "id": "dGVjaGNydW5jaC1vcGVuYWkt",
           "source_id": "techcrunch",
@@ -6199,7 +6255,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 9336,
+    "build_ms": 10481,
     "ai_enabled": true
   }
 }
