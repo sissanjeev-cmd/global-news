@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-13T22:39:50.042Z",
-  "total_articles": 311,
-  "new_this_run": 23,
+  "last_updated": "2026-08-13T23:22:45.342Z",
+  "total_articles": 301,
+  "new_this_run": 14,
   "sources": [
     {
       "id": "techcrunch",
@@ -284,6 +284,23 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "d2lyZWQtdGhlLXNhZmV0eS1y",
+          "source_id": "wired",
+          "source_name": "Wired",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "The Safety Reckoning Inside OpenAI",
+          "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
+          "image_url": "https://media.wired.com/photos/6a7d0965c82d9b74df554e1c/master/pass/Model-Behavior-OpenAI-Dangerous-AI-Business.jpg",
+          "article_url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+          "published_at": "Thu, 13 Aug 2026 22:37:19 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "d2lyZWQtbWFyay16dWNrZXJi",
           "source_id": "wired",
           "source_name": "Wired",
@@ -388,20 +405,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "d2lyZWQtdGhlLTEwLWJlc3Qt",
-          "source_id": "wired",
-          "source_name": "Wired",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "The 10 Best Cooling Mattresses for Hot Sleepers (2026)",
-          "summary": "Nothing ruins a great night of sleep faster than getting too hot. We slept on a myriad of cooling mattresses to find which ones drew the heat away best.",
-          "image_url": "https://media.wired.com/photos/6a7cc1c13a5b3d150f1d8976/master/pass/The-Best-Cooling-Mattresses-for-Hot-Sleepers.jpg",
-          "article_url": "https://www.wired.com/gallery/best-cooling-mattress/",
-          "published_at": "Thu, 13 Aug 2026 09:35:00 +0000",
-          "cross_sections": []
         }
       ]
     },
@@ -674,17 +677,63 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "Y25ldC13aGF0c2FwcC1maWdo",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "WhatsApp Fights Back Against Scammers With New AI Alert Tool",
+          "summary": "Meta’s new Scam Alert tool will flag potential scam texts in WhatsApp while your messages stay encrypted.",
+          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/a32c25df-64fb-4668-aeb3-ce74282b3df7.jpg",
+          "article_url": "https://www.cnet.com/tech/whatsapp-meta-scam-alert-ai-tool/",
+          "published_at": "2026-08-13T22:45:26.000Z",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25ldC1wZXRzLWxlZnQtaW4t",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Pets Left in a Ruff Spot After Automatic Feeders Go Down",
+          "summary": "An outage affecting Petlibro automatic feeders left some pets hungry, customers report.",
+          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/da332ef6-d542-4427-8837-948a904aee34.jpg",
+          "article_url": "https://www.cnet.com/home/smart-home/pets-left-in-a-ruff-spot-after-automatic-feeders-go-down/",
+          "published_at": "2026-08-13T22:27:10.000Z",
+          "cross_sections": []
+        },
+        {
           "id": "Y25ldC1waXhlbC13YXRjaC01",
           "source_id": "cnet",
           "source_name": "CNET",
           "source_region": "IT Focus",
           "source_category": "Tech Media",
           "feed_label": "Latest",
-          "title": "Pixel Watch 5 Will Call Emergency Services if It Detects a Breathing Emergency",
-          "summary": "The new feature will be available on the Pixel Watch 4 as well.",
-          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/pixel-watch-5.jpg",
-          "article_url": "https://www.cnet.com/health/medical/pixel-watch-5-will-call-emergency-services-if-it-detects-a-breathing-emergency/",
-          "published_at": "2026-08-13T21:51:01.000Z",
+          "title": "Pixel Watch 5 vs. Galaxy Watch 9: Comparing Google and Samsung’s New Watches",
+          "summary": "Both new watches from Google and Samsung can work with any Android phone, but they have different features and perks.",
+          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/CNET-Group-Made-By-Google-34.jpg",
+          "article_url": "https://www.cnet.com/tech/mobile/pixel-watch-5-vs-galaxy-watch-9-comparing-google-and-samsungs-new-watches/",
+          "published_at": "2026-08-13T22:20:58.000Z",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25ldC11c2luZy1haS1zaG9w",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Using AI Shopping Carts Could Lead You to Spend More Money, Study Says",
+          "summary": "Smart screens mounted on shopping carts might change people’s behavior at grocery stores in a few interesting ways.",
+          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/IMG_1077.jpeg",
+          "article_url": "https://www.cnet.com/tech/using-ai-shopping-carts-could-lead-you-to-spend-more-money-study-says/",
+          "published_at": "2026-08-13T22:16:25.000Z",
           "cross_sections": [
             "tech"
           ]
@@ -734,66 +783,6 @@
           "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-chatTJB-billboard.jpg",
           "article_url": "https://www.cnet.com/tech/services-and-software/this-ai-chatbot-chat-tjb-was-just-one-busy-guy-and-he-has-hit-his-limit/",
           "published_at": "2026-08-13T20:46:55.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25ldC1pbnN0YWdyYW0taGFz",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Instagram Has a New Logo for Some Reason",
-          "summary": "Some users are already joking that the new logo reads “Instagzam.”",
-          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/instagram-new-logo.png",
-          "article_url": "https://www.cnet.com/news/social-media/instagram-has-a-new-logo-for-some-reason/",
-          "published_at": "2026-08-13T18:11:09.000Z",
-          "cross_sections": []
-        },
-        {
-          "id": "Y25ldC1lcXVpZmF4LWN1c3Rv",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Equifax Customers Can Claim Part of a $2.2M Class Action Settlement This Month",
-          "summary": "If you were one of the 37,000 affected customers, you have until Sept. 1 to file your claim.",
-          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2245677473.jpg",
-          "article_url": "https://www.cnet.com/tech/equifax-customers-claim-2m-class-action-settlement/",
-          "published_at": "2026-08-03T23:01:47.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25ldC10aGlzLSQzNS1jb2Zm",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "This $35 Coffee Maker Fits in My Pocket and Comes on All My Camping Trips",
-          "summary": "I’ve tested dozens of coffee makers. This portable unit with a unique design is my pick for campsite brewing.",
-          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/screenshot-2026-06-25-at-10-17-21pm_064f7b.png",
-          "article_url": "https://www.cnet.com/home/kitchen-and-household/this-35-coffee-maker-fits-in-my-pocket-and-comes-on-all-my-camping-trips/",
-          "published_at": "2026-07-14T13:00:00.000Z",
-          "cross_sections": []
-        },
-        {
-          "id": "Y25ldC1haXItZnJ5ZXItZnJp",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Air Fryer Fries Are Good. These Steps Make Them Otherworldly",
-          "summary": "A bowl of water and a microwave turns middling air fryer fries into something spectacular.",
-          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/golden-brown-with-crispy-edges_889007.jpg",
-          "article_url": "https://www.cnet.com/home/kitchen-and-household/air-fryer-fries-are-good-these-easy-steps-make-them-other-worldly/",
-          "published_at": "2026-06-05T14:00:28.000Z",
           "cross_sections": [
             "tech"
           ]
@@ -1071,6 +1060,20 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "Y25iY3RlY2gtcmVkZGl0LXN0",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Reddit stock jumps on inclusion in S&P 500",
+          "summary": "Reddit shares jumped on the company's inclusion in the S&P 500.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/13/reddit-shares-jump-11percent-on-inclusion-in-sp-500.html",
+          "published_at": "Thu, 13 Aug 2026 23:04:21 GMT",
+          "cross_sections": []
+        },
+        {
           "id": "Y25iY3RlY2gtY3JhbWVyLXNh",
           "source_id": "cnbctech",
           "source_name": "CNBC Technology",
@@ -1085,20 +1088,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "Y25iY3RlY2gtcmVkZGl0LXN0",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Reddit stock jumps on inclusion in S&P 500",
-          "summary": "Reddit shares jumped on the company's inclusion in the S&P 500.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/13/reddit-shares-jump-11percent-on-inclusion-in-sp-500.html",
-          "published_at": "Thu, 13 Aug 2026 21:56:29 GMT",
-          "cross_sections": []
         },
         {
           "id": "Y25iY3RlY2gtYXBwbGUncy10",
@@ -1466,6 +1455,34 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "bnl0LWp1ZGdlLWFmZmlybXMt",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Judge Affirms Settlement Allowing HPE’s Deal for Juniper",
+          "summary": "States had opposed an agreement allowing a Hewlett Packard Enterprise acquisition, calling the settlement ineffective and corrupt.",
+          "image_url": "https://static01.nyt.com/images/2026/08/13/multimedia/13biz-antitrust-states-jclf/13biz-antitrust-states-jclf-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/13/technology/hpe-juniper-justice-department-settlement.html",
+          "published_at": "Thu, 13 Aug 2026 22:50:07 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LXRydW1w4oCZcy1pbW1p",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Trump’s Immigration Spies",
+          "summary": "And California asks, “Are Jews an ethnic group?” Here’s the latest at the end of Thursday.",
+          "image_url": "https://static01.nyt.com/images/2026/08/13/multimedia/13evening-nl-minnesota-spies-jlgz/13evening-nl-minnesota-spies-jlgz-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/13/briefing/immigration-supremecourt-jews.html",
+          "published_at": "Thu, 13 Aug 2026 22:47:10 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "bnl0LWtlbm5lZHktY2VudGVy",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1609,20 +1626,6 @@
           ]
         },
         {
-          "id": "bnl0LXRydW1w4oCZcy1pbW1p",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Trump’s Immigration Policy Echoes 1920s Crackdown, but This Time Congress Isn’t Involved",
-          "summary": "U.S. leaders limited immigration amid economic and social turmoil. Historians see similarities to Trump’s crackdown, with a catch: He’s doing it without Congress.",
-          "image_url": "https://static01.nyt.com/images/2026/07/09/multimedia/00dc-immig-crackdown-wlmt/00dc-immig-crackdown-wlmt-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/13/us/politics/trump-immigration-crackdown.html",
-          "published_at": "Thu, 13 Aug 2026 18:08:37 +0000",
-          "cross_sections": []
-        },
-        {
           "id": "bnl0LeKAmGFuLWVuZ2xpc2gt",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1634,20 +1637,6 @@
           "image_url": "https://static01.nyt.com/images/2026/08/13/multimedia/13int-uk-heat-vqch/13int-uk-heat-vqch-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/13/world/europe/uk-heat-climate-change.html",
           "published_at": "Thu, 13 Aug 2026 17:52:04 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "bnl0LWhvdy1zdXByZW1lLWNv",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "How Supreme Court Oral Arguments Have Transformed Since Covid-Era Precautions",
-          "summary": "Live audio, a new format and new voices have transformed and unsettled the court’s signature public ceremony.",
-          "image_url": "https://static01.nyt.com/images/2026/08/12/multimedia/00dc-scotus-argumentd-fpgw/00dc-scotus-argumentd-fpgw-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/13/us/politics/supreme-court-changing-oral-arguments.html",
-          "published_at": "Thu, 13 Aug 2026 17:40:07 +0000",
           "cross_sections": []
         },
         {
@@ -1767,23 +1756,6 @@
           "cross_sections": []
         },
         {
-          "id": "bnl0LXRocml2ZS1ob2xkaW5n",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "Thrive Holdings, A.I.-Focused Buyer of Service Firms, Raises $2 Billion",
-          "summary": "The company, Thrive Holdings, acquires businesses to infuse them with artificial intelligence and drew interest from backers like SoftBank.",
-          "image_url": "https://static01.nyt.com/images/2026/08/12/multimedia/12db-kushner-htmz/12db-kushner-htmz-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/12/business/dealbook/thrive-holdings-ai-funding.html",
-          "published_at": "Thu, 13 Aug 2026 03:03:19 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "bnl0LWRyaXZlci1zZXRzLXJl",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1851,7 +1823,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-08-13T22:39:41.725Z",
+          "published_at": "2026-08-13T23:22:36.903Z",
           "cross_sections": []
         },
         {
@@ -1865,7 +1837,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-08-13T22:39:41.725Z",
+          "published_at": "2026-08-13T23:22:36.903Z",
           "cross_sections": []
         },
         {
@@ -1879,7 +1851,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-08-13T22:39:41.725Z",
+          "published_at": "2026-08-13T23:22:36.903Z",
           "cross_sections": []
         },
         {
@@ -2201,7 +2173,7 @@
           "summary": "Reddit shares jumped on the company's inclusion in the S&P 500.",
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/08/13/reddit-shares-jump-11percent-on-inclusion-in-sp-500.html",
-          "published_at": "Thu, 13 Aug 2026 21:56:29 GMT",
+          "published_at": "Thu, 13 Aug 2026 23:04:21 GMT",
           "cross_sections": []
         },
         {
@@ -2242,7 +2214,7 @@
           "source_name": "CNBC",
           "source_region": "North America",
           "source_category": "Broadcaster",
-          "feed_label": "Top News",
+          "feed_label": "World",
           "title": "These charts show why stocks keep rallying. Profit margins are the highest on record",
           "summary": "Recent FactSet data show that the rise in earnings is not coming from sales growth alone.",
           "image_url": null,
@@ -2353,7 +2325,7 @@
           "source_name": "CNBC",
           "source_region": "North America",
           "source_category": "Broadcaster",
-          "feed_label": "World",
+          "feed_label": "Top News",
           "title": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
           "summary": "Counterpoint Research looked at the NAND segment of memory chips, which is benefitting along with the larger DRAM segment from artificial intelligence demand.",
           "image_url": null,
@@ -2696,24 +2668,26 @@
           "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ef/live/60e60690-9733-11f1-bdbf-1b7b2a4a87a1.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 13 Aug 2026 22:02:54 GMT",
+          "published_at": "Thu, 13 Aug 2026 23:06:23 GMT",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YmJjLSdpLWxvc3QtJDE0LDAw",
+          "id": "YmJjLSd0d28tb3V0LW9mLWZv",
           "source_id": "bbc",
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "Technology",
-          "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
-          "summary": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11e4/live/79e44fc0-94a0-11f1-870d-5d08c49babb2.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 13 Aug 2026 22:00:10 GMT",
-          "cross_sections": []
+          "feed_label": "Top Stories",
+          "title": "'Two out of four, baby' - Hunt wins 200m as she eyes historic quadruple",
+          "summary": "Britain's Amy Hunt charges to 200m glory to secure her second European Championships gold medal - but the sprinter has her sights set on a historic quadruple in Birmingham.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3335/live/39022910-9765-11f1-9584-49b2d468a162.jpg",
+          "article_url": "https://www.bbc.co.uk/sport/athletics/articles/c1e1ype5q0do?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 13 Aug 2026 22:40:50 GMT",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
           "id": "YmJjLWVuZ2luZS1wYXJ0cy1z",
@@ -2727,22 +2701,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1623/live/fc15b5f0-975d-11f1-9240-c70a29f1c818.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
           "published_at": "Thu, 13 Aug 2026 21:43:47 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YmJjLWh1bnQtc3VyZ2VzLXRv",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Hunt surges to 200m glory to win second European gold",
-          "summary": "Britain's Amy Hunt charges to 200m glory to secure her second gold medal of the European Championships as Dina Asher-Smith claims bronze.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df66/live/61b400f0-975f-11f1-870d-5d08c49babb2.jpg",
-          "article_url": "https://www.bbc.co.uk/sport/athletics/articles/c1e1ype5q0do?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 13 Aug 2026 21:39:06 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -3016,6 +2974,23 @@
           "published_at": "Tue, 11 Aug 2026 23:03:52 GMT",
           "cross_sections": [
             "tech"
+          ]
+        },
+        {
+          "id": "YmJjLWFpLWFnZW50LWhhY2tz",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Technology",
+          "title": "AI agent hacks gym to get its user a spot in pilates class",
+          "summary": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b16/live/38886b20-9576-11f1-bfbd-3fe7d55dcf7b.png",
+          "article_url": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 11 Aug 2026 12:09:26 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
           ]
         }
       ]
@@ -3503,20 +3478,6 @@
           ]
         },
         {
-          "id": "ZXVyb25ld3Mtd2h5LWRvLXdv",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Why do women need 12 times their salary to buy a home, when men need only eight?",
-          "summary": "A consistent pay gap and more difficulties in saving for a deposit compared to men are some of the factors holding women back from home ownership.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/29/88/696x392_cmsv2_1782308c-026c-552d-bedf-aa207b57552c-9872988.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/13/why-do-women-need-12-times-their-salary-to-buy-a-home-when-men-need-only-eight",
-          "published_at": "Thu, 13 Aug 2026 14:33:29 +0200",
-          "cross_sections": []
-        },
-        {
           "id": "ZXVyb25ld3MtYXplcmJhaWph",
           "source_id": "euronews",
           "source_name": "Euronews",
@@ -3528,114 +3489,6 @@
           "image_url": "https://images.euronews.com/articles/stories/09/86/27/10/696x392_cmsv2_30ac061f-f8ec-5692-a928-979a80932d63-9862710.jpg",
           "article_url": "http://www.euronews.com/business/2026/08/13/azerbaijan-bets-on-the-pomegranate-as-its-next-big-export",
           "published_at": "Thu, 13 Aug 2026 14:14:53 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3Mtd2hhdC1pcy10",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "What is Truth API? The $100,000 feed that has landed Trump a lawsuit",
-          "summary": "Two press organisations have asked a Manhattan federal court to shut down Truth API, the service launched this month that sells Wall Street firms faster access to US President Donald Trump's Truth Social posts for up to $100,000 a month.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/27/21/696x392_cmsv2_d338d0d5-d456-50bb-82ac-21d9425bbd2d-9872721.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/13/what-is-truth-api-the-100000-feed-that-has-landed-trump-a-lawsuit",
-          "published_at": "Thu, 13 Aug 2026 12:28:11 +0200",
-          "cross_sections": []
-        },
-        {
-          "id": "ZXVyb25ld3MtZmluYW5jaWFs",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Financial sovereignty, digital euro and payment roaming: EU seeks alternatives to US cards",
-          "summary": "From the digital euro to private interoperability and Brazil's PIX, the race for sovereignty is on, but the real test is securing payment autonomy at home and abroad.",
-          "image_url": "https://images.euronews.com/articles/stories/09/85/97/56/696x392_cmsv2_5c003a56-b367-522f-b916-35bc14cbc86a-9859756.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/13/financial-sovereignty-digital-euro-and-payment-roaming-eu-seeks-alternatives-to-us-cards",
-          "published_at": "Thu, 13 Aug 2026 07:05:14 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtcmVudC1pbi1z",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Rent in Spain tops €1,100 for 80 m²: these are the priciest and cheapest cities",
-          "summary": "Renting an 80-square-metre home in Spain costs an average of 1,131 euros a month, but regional disparities are stark: from 600 euros in Jaen to 1,610 in San Sebastian.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/19/10/696x392_cmsv2_c2c2ed40-393a-578b-84bd-baffa30c7de7-9871910.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/12/rent-in-spain-tops-1100-for-80-m-these-are-the-priciest-and-cheapest-cities",
-          "published_at": "Wed, 12 Aug 2026 17:00:34 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtZXVyb3BlJ3Mt",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Europe's scorching summer could cost EU economies €180 billion",
-          "summary": "Extreme heat could cost EU economies around €180 billion this year, roughly 1% of GDP and almost exactly the growth the bloc had been expecting for 2026, with France facing the heaviest blow of the big member states.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/13/88/696x392_cmsv2_2a7843f1-9dc6-58b6-8e05-54f072eed58a-9871388.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/12/europes-scorching-summer-could-cost-eu-economies-180-billion",
-          "published_at": "Wed, 12 Aug 2026 12:24:14 +0200",
-          "cross_sections": []
-        },
-        {
-          "id": "ZXVyb25ld3MtaGVhdHdhdmVz",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Heatwaves push air conditioning to top of French property wish lists",
-          "summary": "French homebuyers now place much greater weight on a property's exposure, shutters, air conditioning, ventilation and nearby trees to shield them from heat.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/03/27/696x392_cmsv2_0be67938-0a20-5a6c-ac64-3599f6b1b957-9870327.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/11/heatwaves-in-france-is-thermal-comfort-becoming-a-new-property-criterion",
-          "published_at": "Tue, 11 Aug 2026 19:11:14 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtdGVjaC10aXRh",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Tech titan Jeff Bezos eyes Liverpool as more US moguls buy up UK teams",
-          "summary": "Several other US billionaires like Mark Walters and Todd Boehly also have stakes in UK football and other sports teams.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/03/98/696x392_cmsv2_f08257fc-99ab-5f04-86f5-1c9be0165d8a-9870398.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/11/tech-titan-jeff-bezos-eyes-liverpool-as-more-us-moguls-buy-up-uk-teams",
-          "published_at": "Tue, 11 Aug 2026 16:40:36 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtZXh0cmVtZS1o",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Extreme heat strains Italy's 'cheese banks,' where Parmigiano backs farm loans",
-          "summary": "Extreme heat is squeezing Italy's \"cheese banks\", the climate-controlled vaults in Emilia-Romagna where hundreds of thousands of Parmigiano Reggiano wheels sit as collateral for farm loans, pushing up energy bills and thinning the milk supply that fills them.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/03/26/696x392_cmsv2_c4e6fb16-5ae0-5f78-ab9d-5474d08b8c40-9870326.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/11/extreme-heat-strains-italys-cheese-banks-where-parmigiano-backs-farm-loans",
-          "published_at": "Tue, 11 Aug 2026 16:23:03 +0200",
           "cross_sections": [
             "tech"
           ]
@@ -3809,20 +3662,6 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dG9pLXVzLXNhdy1tb3N0LWNh",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "US saw most cases of attack on Indians abroad in 2021-25: MEA",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/us-saw-most-cases-of-attack-on-indians-abroad-in-2021-25-mea/articleshow/133224357.cms",
-          "published_at": "Fri, 14 Aug 2026 03:27:04 +0530",
-          "cross_sections": []
-        },
-        {
           "id": "dG9pLWNvbnN1bWVyLWZvcnVt",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3839,17 +3678,31 @@
           ]
         },
         {
-          "id": "dG9pLXVzLXNlbmRzLW5ldy1j",
+          "id": "dG9pLXdlLWFyZS1iZWdnYXJz",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "US sends new carrier to West Asia amid reports of sailors jumping overboard USS Lincoln",
+          "title": "We are beggars, must bring Venkateswara temple to JNU to generate funds: JNU VC",
+          "summary": "Draupadi First Feminist; JNU Historians Turned Facts Upside Down: VC",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/city/lucknow/jnu-vc-says-her-varsity-a-beggar-needs-venkateswara-temple-to-raise-funds/articleshow/133223676.cms",
+          "published_at": "Fri, 14 Aug 2026 01:01:45 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dG9pLXNhZC1jaGllZi1hc3Nh",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "SAD chief assailant a law graduate, ran snacks centre in Pune: Police",
           "summary": "",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/world/middle-east/us-rushes-new-carrier-to-middle-east-amid-reports-of-mental-health-crisis-on-uss-lincoln/articleshow/133223354.cms",
-          "published_at": "Fri, 14 Aug 2026 00:46:41 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/city/pune/sad-chief-assailant-a-law-graduate-ran-snacks-centre-in-pune-police/articleshow/133223449.cms",
+          "published_at": "Fri, 14 Aug 2026 00:45:58 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -3885,22 +3738,6 @@
           ]
         },
         {
-          "id": "dG9pLSduby1jbGVhci1pbmZv",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "'No clear info': Nepal PM claims Indian territory, but 'loses' 210-year-old treaty papers",
-          "summary": "Nepal's foreign minister announced that the country might have misplaced the original Sugauli Treaty papers, which played a critical role in establishing its borders with British India after the Anglo-Nepalese War. This comes at a time when border disputes with India have intensified. The government",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/no-clear-information-nepal-loses-papers-of-centuries-old-treaty-defining-borders-with-india/articleshow/133215575.cms",
-          "published_at": "Thu, 13 Aug 2026 20:28:23 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "dG9pLXVwLXBvbGxzOi1ob3ct",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3931,6 +3768,20 @@
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "dG9pLWluZGlhbi1pdC1zZWN0",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Indian IT sector job market is changing: What can get you hired   at a premium",
+          "summary": "Experts believe that the era of broad-based recruitment and hefty pay hikes in the Indian IT sector is over. Companies are now tightening hiring at the entry level, while at the same time competing to get experienced professionals in select areas.",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/business/india-business/indian-it-sector-job-market-is-changing-what-can-get-you-hired-at-a-premium/articleshow/133209023.cms",
+          "published_at": "Thu, 13 Aug 2026 16:52:28 +0530",
+          "cross_sections": []
         },
         {
           "id": "dG9pLXRlZW4taW5ub3ZhdG9y",
@@ -4177,6 +4028,68 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dGhlaGluZHUtdXR0YXItcHJh",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Uttar Pradesh government accelerates disposal of revenue cases",
+          "summary": "“Under Section 24, related to demarcation/measurement, 28,556 cases were pending as of December 31, 2025. From January 1 to July 31, 2026, 91,472 new cases were received, of which 39,645 cases were disposed,” a government statement said",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-government-accelerates-disposal-of-revenue-cases/article71342168.ece",
+          "published_at": "Fri, 14 Aug 2026 04:28:23 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdHdvLWFycmVz",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Two arrested after Muslim man dies following alleged assault by Kanwariyas",
+          "summary": "Hapur Police have arrested two men, Lokesh and Shivam, in connection with the death of 27-year-old Mohd Azeem, who died from injuries sustained during an alleged assault by kanwariyas following a road accident",
+          "image_url": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-telangana/pf2kam/article71152743.ece/alternates/LANDSCAPE_1200/P4-Marriage_GCHGMVG5V6GD.3.jpg.jpg",
+          "article_url": "https://www.thehindu.com/news/national/uttar-pradesh/two-arrested-after-muslim-man-dies-following-alleged-assault-by-kanwariyas/article71342269.ece",
+          "published_at": "Fri, 14 Aug 2026 04:25:10 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtaGVhbHRoLW1p",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Health Minister apologises after disability rights activists protest against his use of expression",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/national/tamil-nadu/health-minister-apologises-after-disability-rights-activists-protested-his-use-of-term/article71342468.ece",
+          "published_at": "Fri, 14 Aug 2026 04:19:20 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtYmVuZ2FsLWdv",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Bengal government withdraws Banga Bibhusan to BJP MP Nagendra Roy",
+          "summary": "Nagendra Roy was conferred the award in February this year by the Trinamool Congress government. A leader from Cooch Behar was nominated to the Upper House from West Bengal in July 2023 as a candidate backed by the BJP.",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/national/west-bengal/bengal-government-withdraws-banga-bibhusan-to-bjp-mp-nagendra-roy/article71341237.ece",
+          "published_at": "Fri, 14 Aug 2026 03:16:35 +0530",
+          "cross_sections": []
+        },
+        {
           "id": "dGhlaGluZHUtY29udHJpYnV0",
           "source_id": "thehindu",
           "source_name": "The Hindu",
@@ -4235,66 +4148,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "dGhlaGluZHUtZGRhLWlua3Mt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "DDA inks pact to develop 5-star hotel in Delhi’s Dwarka; opening set for 2030",
-          "summary": "It is the first of four special licence-fee projects to reach deal stage; expected to generate ₹6,000 crore revenue over 55 years and create 800 jobs",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/cities/Delhi/dda-inks-pact-to-develop-5-star-hotel-in-delhis-dwarka-opening-set-for-2030/article71342791.ece",
-          "published_at": "Fri, 14 Aug 2026 02:50:17 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtdHdvLWNoaWxk",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Two children drown in rainwater-filled pit in Delhi’s Narela",
-          "summary": "The boys, both residents of Bawana, had entered the pit to play and swim",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/cities/Delhi/two-children-drown-in-rainwater-filled-pit-in-delhis-narela/article71342092.ece",
-          "published_at": "Fri, 14 Aug 2026 02:46:16 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtaW5kZXBlbmRl",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Independence Day 2026: traffic snarls hit Delhi amid full-dress rehearsal restrictions; police on high alert",
-          "summary": "Road closures and diversions disrupt morning rush-hour commute as police intensify patrols, airport checks, and mock drills across the Capital",
-          "image_url": "https://th-i.thgim.com/public/incoming/hmtta7/article71341981.ece/alternates/LANDSCAPE_1200/PTI08_13_2026_000128A.jpg",
-          "article_url": "https://www.thehindu.com/news/cities/Delhi/independence-day-2026-traffic-snarls-hit-delhi-amid-full-dressrehearsal-restrictions-police-on-high-alert/article71341999.ece",
-          "published_at": "Fri, 14 Aug 2026 02:43:07 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtcHVuamFiLWFz",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Punjab Assembly polls: BJP’s pro-Sikh strategy gives AAP scope for Hindu outreach",
-          "summary": "With the BJP busy promoting its ‘pro-Sikh’ image and the Congress currently caught up in internal fighting, the AAP is trying to capture a share of the Hindu vote bank in Punjab",
-          "image_url": "https://th-i.thgim.com/public/incoming/d8aaha/article71342788.ece/alternates/LANDSCAPE_1200/PTI07_17_2026_000325B.jpg",
-          "article_url": "https://www.thehindu.com/news/national/punjab/punjab-assembly-polls-bjps-pro-sikh-strategy-gives-aap-scope-for-hindu-outreach/article71341421.ece",
-          "published_at": "Fri, 14 Aug 2026 02:38:34 +0530",
-          "cross_sections": []
         },
         {
           "id": "dGhlaGluZHUtaW5zdGFncmFt",
@@ -5019,7 +4872,7 @@
         {
           "id": "cnet",
           "name": "CNET",
-          "count": 8
+          "count": 7
         },
         {
           "id": "computerworld",
@@ -5056,7 +4909,7 @@
         {
           "id": "nyt",
           "name": "The New York Times",
-          "count": 24
+          "count": 23
         },
         {
           "id": "cnn",
@@ -5093,7 +4946,7 @@
         {
           "id": "euronews",
           "name": "Euronews",
-          "count": 16
+          "count": 8
         },
         {
           "id": "dw",
@@ -5154,6 +5007,119 @@
       "icon": "💻",
       "articles": [
         {
+          "id": "YmJjLWNvbmRpdGlvbnMtb24t",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+          "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ef/live/60e60690-9733-11f1-bdbf-1b7b2a4a87a1.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 13 Aug 2026 23:06:23 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdXR0YXItcHJh",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Uttar Pradesh government accelerates disposal of revenue cases",
+          "summary": "“Under Section 24, related to demarcation/measurement, 28,556 cases were pending as of December 31, 2025. From January 1 to July 31, 2026, 91,472 new cases were received, of which 39,645 cases were disposed,” a government statement said",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-government-accelerates-disposal-of-revenue-cases/article71342168.ece",
+          "published_at": "Fri, 14 Aug 2026 04:28:23 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdHdvLWFycmVz",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Two arrested after Muslim man dies following alleged assault by Kanwariyas",
+          "summary": "Hapur Police have arrested two men, Lokesh and Shivam, in connection with the death of 27-year-old Mohd Azeem, who died from injuries sustained during an alleged assault by kanwariyas following a road accident",
+          "image_url": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-telangana/pf2kam/article71152743.ece/alternates/LANDSCAPE_1200/P4-Marriage_GCHGMVG5V6GD.3.jpg.jpg",
+          "article_url": "https://www.thehindu.com/news/national/uttar-pradesh/two-arrested-after-muslim-man-dies-following-alleged-assault-by-kanwariyas/article71342269.ece",
+          "published_at": "Fri, 14 Aug 2026 04:25:10 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtaGVhbHRoLW1p",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Health Minister apologises after disability rights activists protest against his use of expression",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/national/tamil-nadu/health-minister-apologises-after-disability-rights-activists-protested-his-use-of-term/article71342468.ece",
+          "published_at": "Fri, 14 Aug 2026 04:19:20 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25ldC13aGF0c2FwcC1maWdo",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "WhatsApp Fights Back Against Scammers With New AI Alert Tool",
+          "summary": "Meta’s new Scam Alert tool will flag potential scam texts in WhatsApp while your messages stay encrypted.",
+          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/a32c25df-64fb-4668-aeb3-ce74282b3df7.jpg",
+          "article_url": "https://www.cnet.com/tech/whatsapp-meta-scam-alert-ai-tool/",
+          "published_at": "2026-08-13T22:45:26.000Z",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLSd0d28tb3V0LW9mLWZv",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "'Two out of four, baby' - Hunt wins 200m as she eyes historic quadruple",
+          "summary": "Britain's Amy Hunt charges to 200m glory to secure her second European Championships gold medal - but the sprinter has her sights set on a historic quadruple in Birmingham.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3335/live/39022910-9765-11f1-9584-49b2d468a162.jpg",
+          "article_url": "https://www.bbc.co.uk/sport/athletics/articles/c1e1ype5q0do?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 13 Aug 2026 22:40:50 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "d2lyZWQtdGhlLXNhZmV0eS1y",
+          "source_id": "wired",
+          "source_name": "Wired",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "The Safety Reckoning Inside OpenAI",
+          "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
+          "image_url": "https://media.wired.com/photos/6a7d0965c82d9b74df554e1c/master/pass/Model-Behavior-OpenAI-Dangerous-AI-Business.jpg",
+          "article_url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+          "published_at": "Thu, 13 Aug 2026 22:37:19 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "Y25iY3RlY2gtY3JhbWVyLXNh",
           "source_id": "cnbctech",
           "source_name": "CNBC Technology",
@@ -5170,6 +5136,38 @@
           ]
         },
         {
+          "id": "Y25ldC1waXhlbC13YXRjaC01",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Pixel Watch 5 vs. Galaxy Watch 9: Comparing Google and Samsung’s New Watches",
+          "summary": "Both new watches from Google and Samsung can work with any Android phone, but they have different features and perks.",
+          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/CNET-Group-Made-By-Google-34.jpg",
+          "article_url": "https://www.cnet.com/tech/mobile/pixel-watch-5-vs-galaxy-watch-9-comparing-google-and-samsungs-new-watches/",
+          "published_at": "2026-08-13T22:20:58.000Z",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25ldC11c2luZy1haS1zaG9w",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Using AI Shopping Carts Could Lead You to Spend More Money, Study Says",
+          "summary": "Smart screens mounted on shopping carts might change people’s behavior at grocery stores in a few interesting ways.",
+          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/IMG_1077.jpeg",
+          "article_url": "https://www.cnet.com/tech/using-ai-shopping-carts-could-lead-you-to-spend-more-money-study-says/",
+          "published_at": "2026-08-13T22:16:25.000Z",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dGVjaGNydW5jaC1pbnZlc3Rv",
           "source_id": "techcrunch",
           "source_name": "TechCrunch",
@@ -5181,22 +5179,6 @@
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
           "published_at": "Thu, 13 Aug 2026 22:12:40 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YmJjLWNvbmRpdGlvbnMtb24t",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-          "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ef/live/60e60690-9733-11f1-bdbf-1b7b2a4a87a1.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 13 Aug 2026 22:02:54 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -5245,22 +5227,6 @@
           "image_url": "https://static01.nyt.com/images/2026/08/13/multimedia/13nat-harvard-1-mbqh/13nat-harvard-1-mbqh-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/13/us/harvard-antisemitism-case-dismissed.html",
           "published_at": "Thu, 13 Aug 2026 21:52:36 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25ldC1waXhlbC13YXRjaC01",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Pixel Watch 5 Will Call Emergency Services if It Detects a Breathing Emergency",
-          "summary": "The new feature will be available on the Pixel Watch 4 as well.",
-          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/pixel-watch-5.jpg",
-          "article_url": "https://www.cnet.com/health/medical/pixel-watch-5-will-call-emergency-services-if-it-detects-a-breathing-emergency/",
-          "published_at": "2026-08-13T21:51:01.000Z",
           "cross_sections": [
             "tech"
           ]
@@ -5374,22 +5340,6 @@
           "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mico-copilot.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
           "article_url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
           "published_at": "2026-08-13T21:42:38.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YmJjLWh1bnQtc3VyZ2VzLXRv",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Hunt surges to 200m glory to win second European gold",
-          "summary": "Britain's Amy Hunt charges to 200m glory to secure her second gold medal of the European Championships as Dina Asher-Smith claims bronze.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df66/live/61b400f0-975f-11f1-870d-5d08c49babb2.jpg",
-          "article_url": "https://www.bbc.co.uk/sport/athletics/articles/c1e1ype5q0do?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 13 Aug 2026 21:39:06 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -5555,22 +5505,6 @@
           ]
         },
         {
-          "id": "dGhlaGluZHUtdHdvLWNoaWxk",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Two children drown in rainwater-filled pit in Delhi’s Narela",
-          "summary": "The boys, both residents of Bawana, had entered the pit to play and swim",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/cities/Delhi/two-children-drown-in-rainwater-filled-pit-in-delhis-narela/article71342092.ece",
-          "published_at": "Fri, 14 Aug 2026 02:46:16 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bnl0LWFub3RoZXItb3BlbmFp",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -5615,22 +5549,6 @@
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
           "published_at": "Thu, 13 Aug 2026 21:13:24 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtaW5kZXBlbmRl",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Independence Day 2026: traffic snarls hit Delhi amid full-dress rehearsal restrictions; police on high alert",
-          "summary": "Road closures and diversions disrupt morning rush-hour commute as police intensify patrols, airport checks, and mock drills across the Capital",
-          "image_url": "https://th-i.thgim.com/public/incoming/hmtta7/article71341981.ece/alternates/LANDSCAPE_1200/PTI08_13_2026_000128A.jpg",
-          "article_url": "https://www.thehindu.com/news/cities/Delhi/independence-day-2026-traffic-snarls-hit-delhi-amid-full-dressrehearsal-restrictions-police-on-high-alert/article71341999.ece",
-          "published_at": "Fri, 14 Aug 2026 02:43:07 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5731,70 +5649,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "ZHcta2VubmVkeS1jZW50ZXIt",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Kennedy Center board approves Trump name on facade, renovation plan",
-          "summary": "The move appears designed to circumvent a judge's ruling that the US president's name should be removed, potentially setting the stage for a new legal fight over the Kennedy Center's name and future.",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/kennedy-center-board-approves-trump-name-on-facade-renovation-plan/a-78359935?maca=en-rss-en-world-4025-xml-mrss",
-          "published_at": "Thu, 13 Aug 2026 20:33:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy1jcnVlbC1z",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Cruel summer: Searching for an escape from Japan’s extreme heat",
-          "summary": "From extreme heat and tropical nights to mountain escapes, a look at the Japanese vocabulary of summer.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/14/556562.jpg",
-          "article_url": "https://www.japantimes.co.jp/life/2026/08/14/language/heat-vocabulary-japanese/",
-          "published_at": "Fri, 14 Aug 2026 05:30:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1rZW5uZWR5LWNlbnRl",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Kennedy Center Board Votes To Restore Trump Name On Building: Reports",
-          "summary": "The venue's board of trustees, which is stacked with Trump allies, reportedly voted to approve a workaround by adding the inscription \"Restored and Renovated by President Donald J. Trump\" to the building.",
-          "image_url": "https://c.ndtvimg.com/2026-06/vvgaajn4_kennedy-center_625x300_13_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/kennedy-center-board-votes-to-restore-donald-trump-name-on-building-reports-11907390#publisher=newsstand",
-          "published_at": "Fri, 14 Aug 2026 01:50:28 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LWlzcmFlbGktc2V0dGxl",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Israeli Settlers Resume West Bank Siege After Eviction",
-          "summary": "The military’s failure to keep extremists away from two Palestinian families trapped in their West Bank homes made clear the chaos gripping the Israeli-occupied territory.",
-          "image_url": "https://static01.nyt.com/images/2026/08/13/multimedia/13int-westbank-1-gqkf/13int-westbank-1-gqkf-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/13/world/middleeast/west-bank-siege-israeli-settlers.html",
-          "published_at": "Thu, 13 Aug 2026 20:18:47 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -5809,6 +5663,23 @@
       "name": "LLM & AI",
       "icon": "🤖",
       "articles": [
+        {
+          "id": "d2lyZWQtdGhlLXNhZmV0eS1y",
+          "source_id": "wired",
+          "source_name": "Wired",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "The Safety Reckoning Inside OpenAI",
+          "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
+          "image_url": "https://media.wired.com/photos/6a7d0965c82d9b74df554e1c/master/pass/Model-Behavior-OpenAI-Dangerous-AI-Business.jpg",
+          "article_url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+          "published_at": "Thu, 13 Aug 2026 22:37:19 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
         {
           "id": "Y25ldC1vcGVuYWktbm93LWhh",
           "source_id": "cnet",
@@ -6234,29 +6105,12 @@
           ]
         },
         {
-          "id": "bnl0LXRocml2ZS1ob2xkaW5n",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "Thrive Holdings, A.I.-Focused Buyer of Service Firms, Raises $2 Billion",
-          "summary": "The company, Thrive Holdings, acquires businesses to infuse them with artificial intelligence and drew interest from backers like SoftBank.",
-          "image_url": "https://static01.nyt.com/images/2026/08/12/multimedia/12db-kushner-htmz/12db-kushner-htmz-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/12/business/dealbook/thrive-holdings-ai-funding.html",
-          "published_at": "Thu, 13 Aug 2026 03:03:19 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "Y25iYy10aGlzLWNoaW5lc2Ut",
           "source_id": "cnbc",
           "source_name": "CNBC",
           "source_region": "North America",
           "source_category": "Broadcaster",
-          "feed_label": "World",
+          "feed_label": "Top News",
           "title": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
           "summary": "Counterpoint Research looked at the NAND segment of memory chips, which is benefitting along with the larger DRAM segment from artificial intelligence demand.",
           "image_url": null,
@@ -6353,6 +6207,23 @@
           ]
         },
         {
+          "id": "YmJjLWFpLWFnZW50LWhhY2tz",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Technology",
+          "title": "AI agent hacks gym to get its user a spot in pilates class",
+          "summary": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b16/live/38886b20-9576-11f1-bfbd-3fe7d55dcf7b.png",
+          "article_url": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 11 Aug 2026 12:09:26 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "dG9pLWNoYXRncHQtd2FzLWRv",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -6373,7 +6244,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 10129,
+    "build_ms": 9751,
     "ai_enabled": true
   }
 }
