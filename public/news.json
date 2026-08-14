@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-14T20:19:58.340Z",
-  "total_articles": 305,
-  "new_this_run": 30,
+  "last_updated": "2026-08-14T20:51:54.395Z",
+  "total_articles": 315,
+  "new_this_run": 25,
   "sources": [
     {
       "id": "techcrunch",
@@ -9,6 +9,22 @@
       "region": "IT Focus",
       "category": "Tech Media",
       "articles": [
+        {
+          "id": "dGVjaGNydW5jaC1zZWxmLWRy",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Self-driving trucks are officially testing on California highways",
+          "summary": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+          "published_at": "Fri, 14 Aug 2026 20:37:49 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "dGVjaGNydW5jaC10aHJpdmXi",
           "source_id": "techcrunch",
@@ -115,22 +131,6 @@
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
           "published_at": "Fri, 14 Aug 2026 14:54:48 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1rb2ctaXMt",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Kog is going deeper to squeeze more inference out of GPUs",
-          "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-          "published_at": "Fri, 14 Aug 2026 14:50:11 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -1450,22 +1450,6 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "bnl0LWphc29uLWFyZGF5LC1j",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Reported Dead",
-          "summary": "The British police said a man had been found dead at a home linked to Mr. Arday, who resigned after the university announced an investigation into allegations of plagiarism and fabrication.",
-          "image_url": null,
-          "article_url": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html",
-          "published_at": "Fri, 14 Aug 2026 19:53:04 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bnl0LXRoZS01LWNvbmdyZXNz",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1476,7 +1460,7 @@
           "summary": "Some lawmakers and their families have traded millions of dollars worth of stocks since the start of this term.",
           "image_url": "https://static01.nyt.com/images/2026/08/14/multimedia/14dc-cong-stocks-list-gqlw/14dc-cong-stocks-list-gqlw-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/14/us/politics/biggest-stock-traders-congress.html",
-          "published_at": "Fri, 14 Aug 2026 19:46:35 +0000",
+          "published_at": "Fri, 14 Aug 2026 20:51:31 +0000",
           "cross_sections": []
         },
         {
@@ -1490,7 +1474,37 @@
           "summary": "Republican and Democratic challengers are both using the issue to attack members of Congress as unethical, seizing on a common practice that enrages voters.",
           "image_url": "https://static01.nyt.com/images/2026/08/14/multimedia/14dc-stocks-tzhv/14dc-stocks-tzhv-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/14/us/politics/stock-trading-congress.html",
-          "published_at": "Fri, 14 Aug 2026 19:45:33 +0000",
+          "published_at": "Fri, 14 Aug 2026 20:23:38 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LWlzLWl0LXNhZmUtdG8t",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Is It Safe to Eat Lettuce and Other Fresh Produce as Cyclospora Outbreak Wanes?",
+          "summary": "As the largest cyclospora outbreak in U.S. history wanes, experts weigh in on whether iceberg and other fresh produce are still a risk.",
+          "image_url": "https://static01.nyt.com/images/2026/08/13/multimedia/well-cyclo-eat-tfkq/well-cyclo-eat-tfkq-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/14/well/eat/cyclospora-lettuce-jalapenos-produce-safe.html",
+          "published_at": "Fri, 14 Aug 2026 20:11:47 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LWphc29uLWFyZGF5LC1j",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Reported Dead",
+          "summary": "The British police said a man had been found dead at a home linked to Mr. Arday, who resigned after the university announced an investigation into allegations of plagiarism and fabrication.",
+          "image_url": null,
+          "article_url": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html",
+          "published_at": "Fri, 14 Aug 2026 19:53:04 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -1512,12 +1526,28 @@
           ]
         },
         {
-          "id": "bnl0LWEtcHJvbWluZW50LW1l",
+          "id": "bnl0LWhvdy10aGUtbmV3LXlv",
           "source_id": "nyt",
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
+          "title": "How The New York Times Reported on Trump’s Air Force One Ruse in Turkey",
+          "summary": "President Trump’s Air Force One subterfuge duped potential adversaries — and the press. Here’s what happened.",
+          "image_url": "https://static01.nyt.com/images/2026/08/14/multimedia/14-insider-af1-03-ktgb/14-insider-af1-03-ktgb-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/14/insider/trump-air-force-one-decoy-reporters.html",
+          "published_at": "Fri, 14 Aug 2026 19:20:46 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LWEtcHJvbWluZW50LW1l",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "World",
           "title": "A Prominent Mexican Politician Says U.S. Revoked His Visa",
           "summary": "Andrés Manuel López Beltrán, a former president’s son, lashed out at the Trump administration after he said it canceled his visa, another flashpoint in the tense U.S.-Mexico relationship.",
           "image_url": "https://static01.nyt.com/images/2026/08/14/multimedia/14int-mexico-visa-hcvl/14int-mexico-visa-hcvl-mediumSquareAt3X.jpg",
@@ -1554,7 +1584,7 @@
           "summary": "Google enabled A.I. features for K-12 schools that have allowed student access to Gemini. Until this week, Google automatically enabled Gemini in Classroom only for students 18 or older.",
           "image_url": "https://static01.nyt.com/images/2026/08/13/multimedia/13Gemini-schools-wgzl/13Gemini-schools-wgzl-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html",
-          "published_at": "Fri, 14 Aug 2026 18:54:35 +0000",
+          "published_at": "Fri, 14 Aug 2026 18:54:36 +0000",
           "cross_sections": [
             "tech",
             "ai"
@@ -1654,7 +1684,7 @@
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
           "summary": "In the tiny nation, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government.",
           "image_url": "https://static01.nyt.com/images/2026/07/22/multimedia/22Moldova-Russia-Interference-06-hpzc/22Moldova-Russia-Interference-06-hpzc-mediumSquareAt3X.jpg",
@@ -1788,7 +1818,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-08-14T20:19:49.283Z",
+          "published_at": "2026-08-14T20:51:45.957Z",
           "cross_sections": []
         },
         {
@@ -1802,7 +1832,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-08-14T20:19:49.283Z",
+          "published_at": "2026-08-14T20:51:45.957Z",
           "cross_sections": []
         },
         {
@@ -1816,7 +1846,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-08-14T20:19:49.283Z",
+          "published_at": "2026-08-14T20:51:45.957Z",
           "cross_sections": []
         },
         {
@@ -2135,13 +2165,27 @@
           "source_category": "Broadcaster",
           "feed_label": "Top News",
           "title": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
-          "summary": "\"It will be a combination of economic isolation like ‌the world has ​never seen before, ​and ​the continued blockade in ‌the Strait of ​Hormuz,\" Bessent said.",
+          "summary": "The Trump administration is ratcheting up rhetorical pressure on Iran as the military conflict in Iran appears mired in a strategic stalemate.",
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html",
-          "published_at": "Fri, 14 Aug 2026 20:08:09 GMT",
+          "published_at": "Fri, 14 Aug 2026 20:47:41 GMT",
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "Y25iYy1iZXJrc2hpcmUtaGF0",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
+          "summary": "erkshire owned about 106 million Alphabet shares worth $37.9 billion at the end of June, according to a regulatory filing released Friday.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html",
+          "published_at": "Fri, 14 Aug 2026 20:44:10 GMT",
+          "cross_sections": []
         },
         {
           "id": "Y25iYy1nb2xkbWFu4oCZcy1s",
@@ -2343,20 +2387,6 @@
             "tech",
             "ai"
           ]
-        },
-        {
-          "id": "Y25iYy1zcGFjZXgtc2hvcnQt",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
-          "summary": "Short interest in SpaceX fell to about 11% of the company's publicly traded shares Wednesday, down sharply from a peak of 34% last week, according to S3.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/12/spacex-short-sellers-are-running-out-of-bullets-as-stock-rebounds-38percent-off-low.html",
-          "published_at": "Wed, 12 Aug 2026 19:15:54 GMT",
-          "cross_sections": []
         }
       ]
     },
@@ -2616,20 +2646,34 @@
       "category": "Broadcaster",
       "articles": [
         {
-          "id": "YmJjLWV4LWNhbWJyaWRnZS1w",
+          "id": "YmJjLWphc29uLWFyZGF5LC1l",
           "source_id": "bbc",
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "Top Stories",
-          "title": "Ex-Cambridge professor at centre of plagiarism row found dead",
-          "summary": "Jason Arday was found \"unresponsive\" at an address in Battersea, south London, on Friday afternoon, officials said.",
+          "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+          "summary": "Emergency services said a man was found \"unresponsive\" at an address in Battersea, south London, on Friday afternoon.",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1f2/live/c7b603c0-91a2-11f1-964d-6f76397ea067.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 14 Aug 2026 20:02:02 GMT",
+          "published_at": "Fri, 14 Aug 2026 20:32:55 GMT",
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "YmJjLWRvemVucy1pbmp1cmVk",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Dozens injured and thousands evacuated in Croatia wildfire",
+          "summary": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1535/live/7141a7f0-9806-11f1-8f19-057f099340f6.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 14 Aug 2026 20:22:56 GMT",
+          "cross_sections": []
         },
         {
           "id": "YmJjLWRlcmFpbGVkLWVzc2V4",
@@ -2691,20 +2735,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b53b/live/4aaee280-97eb-11f1-a76b-f1c27c51f3da.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 14 Aug 2026 19:17:16 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "YmJjLXRydW1wLWFza3Mtc3Vw",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Trump asks Supreme Court to allow ballroom work to continue",
-          "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50eb/live/f1f95720-97e9-11f1-a76b-f1c27c51f3da.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 14 Aug 2026 19:05:22 GMT",
           "cross_sections": []
         },
         {
@@ -3449,6 +3479,38 @@
           "cross_sections": []
         },
         {
+          "id": "ZXVyb25ld3MtbWFlcnNrLWJy",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Maersk brings back another shipping service through Suez, but wider return remains distant",
+          "summary": "The latest move is part of a cautious return to the Suez Canal, with four Maersk services switching back since early July, the most recent in mid-August, while nine others continue to sail around Africa.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/31/15/696x392_cmsv2_3efeeac5-d634-5e7b-b685-388c3fe60d48-9873115.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/14/maersk-returns-another-asia-europe-service-through-suez-but-wider-return-remains-distant",
+          "published_at": "Fri, 14 Aug 2026 15:20:22 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtZnVlbC1wcmlj",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Fuel prices: study says there is no \"profiteering by operators\"",
+          "summary": "An ERSE study found that in the first seven months of 2026 domestic prices broadly followed international costs, with no \"evidence of profiteering by operators\". Fuel prices are set to soar again next week.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/44/78/696x392_cmsv2_6525627f-2d40-5908-8393-21cf818ed299-9874478.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/14/fuel-prices-study-says-there-is-no-profiteering-by-operators",
+          "published_at": "Fri, 14 Aug 2026 15:05:18 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "ZXVyb25ld3MtcnVzc2lhLWph",
           "source_id": "euronews",
           "source_name": "Euronews",
@@ -3463,6 +3525,96 @@
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "ZXVyb25ld3MtdHJ1bXAtaW1w",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Trump imposes drone tariffs of up to 100% with a lower rate for the EU and UK",
+          "summary": "US President Donald Trump has imposed tariffs of up to 100% on imported drones and their components, with EU manufacturers facing a preferential rate of 15% and British firms 10%, in a measure meant to rebuild American production of a technology central to modern warfare.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/44/12/696x392_cmsv2_8780869d-556e-5936-97aa-69bf31cbae6f-9874412.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/14/trump-imposes-drone-tariffs-of-up-to-100-with-a-lower-rate-for-the-eu-and-uk",
+          "published_at": "Fri, 14 Aug 2026 12:45:07 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtdWJlci1hbmQt",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Uber and China’s Pony AI to launch over 2,000 robotaxis across Europe",
+          "summary": "The expanded partnership with blend a mobility platform, fleet management capacity and autonomous driving technology.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/41/01/696x392_cmsv2_03c5f02c-4724-5310-b98a-1e753dd8322b-9874101.jpg",
+          "article_url": "http://www.euronews.com/next/2026/08/14/uber-and-chinas-pony-ai-to-launch-over-2000-robotaxis-across-europe",
+          "published_at": "Fri, 14 Aug 2026 10:58:25 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtYnAtcmV0dXJu",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "BP returns to Venezuela with Gulf partners as post-Maduro energy opening speeds up",
+          "summary": "Venezuela has awarded BP a licence to develop the offshore Loran gas field alongside state-backed partners from the UAE and Qatar, marking the British company's return to a country whose energy sector has been reopening to foreign investors since US forces captured Nicolás Maduro.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/42/24/696x392_cmsv2_52859e51-2fe1-5b52-ab64-3cb3aa4fab1f-9874224.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/14/bp-returns-to-venezuela-with-gulf-partners-as-post-maduro-energy-opening-speeds-up",
+          "published_at": "Fri, 14 Aug 2026 10:54:18 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtYmF0dGVyeS1v",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Battery-only electric cars on the rise in Europe: Which countries lead?",
+          "summary": "The share of newly registered battery-only electric passenger cars is rising significantly in many European countries, but their share of the total car fleet remains very low in many countries.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/29/30/696x392_cmsv2_dbe4ee3c-1369-5c5d-88ff-1a1134f816d2-9872930.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/14/battery-only-electric-cars-are-on-the-rise-in-europe-which-countries-lead",
+          "published_at": "Fri, 14 Aug 2026 10:08:15 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3Mtd2h5LWRvLXdv",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Why do women need 12 times their salary to buy a home, when men need only eight?",
+          "summary": "A consistent pay gap and more difficulties in saving for a deposit compared to men are some of the factors holding women back from home ownership.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/29/88/696x392_cmsv2_1782308c-026c-552d-bedf-aa207b57552c-9872988.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/13/why-do-women-need-12-times-their-salary-to-buy-a-home-when-men-need-only-eight",
+          "published_at": "Thu, 13 Aug 2026 14:33:29 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3Mtd2hhdC1pcy10",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "What is Truth API? The $100,000 feed that has landed Trump a lawsuit",
+          "summary": "Two press organisations have asked a Manhattan federal court to shut down Truth API, the service launched this month that sells Wall Street firms faster access to US President Donald Trump's Truth Social posts for up to $100,000 a month.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/27/21/696x392_cmsv2_d338d0d5-d456-50bb-82ac-21d9425bbd2d-9872721.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/13/what-is-truth-api-the-100000-feed-that-has-landed-trump-a-lawsuit",
+          "published_at": "Thu, 13 Aug 2026 12:28:11 +0200",
+          "cross_sections": []
         }
       ]
     },
@@ -3480,7 +3632,7 @@
           "source_category": "Broadcaster",
           "feed_label": "World",
           "title": "Jason Arday: Ex-Cambridge professor found dead — reports",
-          "summary": "UK media is reporting that Jason Arday, the youngest ever black professor at Cambridge, was found unresponsive at an address in London. Arday had recently resigned in the midst of a plagiarism row.",
+          "summary": "UK media is reporting that Jason Arday, the youngest ever Black professor at Cambridge, was found unresponsive at an address in London. Arday had recently resigned in the midst of a plagiarism row.",
           "image_url": null,
           "article_url": "https://www.dw.com/en/jason-arday-ex-cambridge-professor-found-dead-reports/a-78377633?maca=en-rss-en-world-4025-xml-mrss",
           "published_at": "Fri, 14 Aug 2026 20:03:00 GMT",
@@ -3675,6 +3827,20 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dG9pLWphc29uLWFyZGF5LC1l",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/world/uk/jason-arday-ex-cambridge-professor-at-centre-of-plagiarism-row-found-dead/articleshow/133251434.cms",
+          "published_at": "Sat, 15 Aug 2026 01:42:23 +0530",
+          "cross_sections": []
+        },
+        {
           "id": "dG9pLeKAmGZpcnN0LWlzbGFt",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3686,20 +3852,6 @@
           "image_url": null,
           "article_url": "https://timesofindia.indiatimes.com/world/middle-east/first-islamic-republic-with-nuclear-weapons-netanyahus-sharp-rebuke-of-uk/articleshow/133251347.cms",
           "published_at": "Sat, 15 Aug 2026 01:25:21 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dG9pLWNqaSwtbmFsc2FyLXN0",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "CJI, Nalsar students have one query for BCI: ‘Who are you?’",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/cji-nalsar-students-have-one-query-for-bci-who-are-you/articleshow/133250785.cms",
-          "published_at": "Sat, 15 Aug 2026 00:35:14 +0530",
           "cross_sections": []
         },
         {
@@ -4039,6 +4191,50 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dGhlaGluZHUtZGVhdGgtb2Yt",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Death of wild boars raises concerns in Kerala’s Kasaragod",
+          "summary": "Carcasses of 10 animals found in Vorkady panchayat over the past two weeks; residents urge authorities to ensure that the carcasses are safely disposed of to prevent any possible health risk",
+          "image_url": "https://th-i.thgim.com/public/incoming/wa10lw/article71347308.ece/alternates/LANDSCAPE_1200/Wild%20Boar_03.jpg",
+          "article_url": "https://www.thehindu.com/news/national/kerala/death-of-wild-boars-raises-concerns-in-keralas-kasaragod/article71345879.ece",
+          "published_at": "Sat, 15 Aug 2026 02:09:47 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtMjEtY2JpLXBl",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "21 CBI personnel awarded medals for distinguished service",
+          "summary": "The President’s Medal for Distinguished Service was conferred on Assistant Inspector General of Police Shobha Dutta, Additional Superintendent of Police Manoj Banerjee, Additional Superintendent of Police Ginni Rana, Deputy Superintendent of Police Sanjay Kumar Samal,  Assistant Sub-Inspector Ramesh",
+          "image_url": "https://th-i.thgim.com/public/incoming/eqr6iv/article71259578.ece/alternates/LANDSCAPE_1200/CBI-files-chargGOCG7G67O.4.jpg.jpg",
+          "article_url": "https://www.thehindu.com/news/national/21-cbi-personnel-awarded-medals-for-distinguished-service/article71345107.ece",
+          "published_at": "Sat, 15 Aug 2026 02:07:29 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtamFzb24tYXJk",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Jason Arday, former Cambridge University professor at centre of plagiarism scandal, found dead",
+          "summary": "Arday died after being found unresponsive in south London, according to British media; the plagiarism scandal erupted after some academics and media reports accused Arday, who became Cambridge’s youngest black professor in 2023, of plagiarising parts of his doctoral thesis",
+          "image_url": "https://th-i.thgim.com/public/incoming/fpm89x/article71347281.ece/alternates/LANDSCAPE_1200/Jason-Arday-at-GFIGC4NU7.3.jpg.jpg",
+          "article_url": "https://www.thehindu.com/news/international/jason-arday-former-cambridge-university-professor-at-centre-of-plagiarism-scandal-found-dead-uk-media/article71347279.ece",
+          "published_at": "Sat, 15 Aug 2026 01:55:03 +0530",
+          "cross_sections": []
+        },
+        {
           "id": "dGhlaGluZHUtdGhyZWUtcG9s",
           "source_id": "thehindu",
           "source_name": "The Hindu",
@@ -4053,20 +4249,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "dGhlaGluZHUtamFzb24tYXJk",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Jason Arday, former Cambridge University professor at centre of plagiarism scandal, found dead: U.K. media",
-          "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/fpm89x/article71347281.ece/alternates/LANDSCAPE_1200/Jason-Arday-at-GFIGC4NU7.3.jpg.jpg",
-          "article_url": "https://www.thehindu.com/news/international/jason-arday-former-cambridge-university-professor-at-centre-of-plagiarism-scandal-found-dead-uk-media/article71347279.ece",
-          "published_at": "Sat, 15 Aug 2026 01:32:43 +0530",
-          "cross_sections": []
         },
         {
           "id": "dGhlaGluZHUt4oCYdmlzaHdh",
@@ -4124,34 +4306,6 @@
           "image_url": null,
           "article_url": "https://www.thehindu.com/news/cities/bangalore/couple-found-dead-at-their-house-in-bengalurus-rajagopalnagar/article71347196.ece",
           "published_at": "Sat, 15 Aug 2026 01:23:20 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtYWtoaWxlc2gt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Akhilesh takes potshots at U.P. govt.’s project on cow urine collection",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/uttar-pradesh/akhileshtakes-potshots-atupgovts-project-on-cow-urine-collection/article71347081.ece",
-          "published_at": "Sat, 15 Aug 2026 01:19:01 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtZGRhLXByb3Bv",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "DDA proposes higher FAR for slum revamp in Master Plan for Delhi-2047",
-          "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/z66xdn/article71347277.ece/alternates/LANDSCAPE_1200/CCI_HINDU_NEWSDESK_GR5PHAE4.1.II2",
-          "article_url": "https://www.thehindu.com/news/cities/Delhi/dda-proposes-higher-far-for-slum-revamp-in-master-plan-for-delhi-2047/article71347278.ece",
-          "published_at": "Sat, 15 Aug 2026 01:12:33 +0530",
           "cross_sections": []
         },
         {
@@ -4750,124 +4904,131 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "YXJhYm5ld3MtZ2F6YS1ib2Fy",
+          "id": "YXJhYm5ld3MtZmluYWwtZWxl",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Gaza Board of Peace official says plan is still operative",
-          "summary": "WASHINGTON: US President Donald Trump’s Gaza plan is still operative ​and discussions with Israel are continuing, a Board of Peace official said on Monday after Prime Minister Benjamin Netanyahu rejected an Israeli withdrawal until the Palestinian militant group Hamas is “genuinely disarmed.”\n\tNetan",
+          "title": "Final election phase begins in Pakistan-administered Kashmir despite banned group’s boycott call",
+          "summary": "MUZAFFARABAD, Pakistan: Voters went to the polls Monday in the final phase of elections for the legislative assembly in Pakistan-administered Kashmir, following weeks of violent protests and clashes with security forces that overshadowed campaigning in the disputed Himalayan region, officials said.\n",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654137/middle-east",
-          "published_at": "Mon, 10 Aug 2026 09:08:32 +03",
+          "article_url": "https://www.arabnews.com/node/2654152/world",
+          "published_at": "Tue, 11 Aug 2026 12:08:09 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtemVsZW5za3kt",
+          "id": "YXJhYm5ld3MtZW5yb2xsbWVu",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Zelensky congratulates Saudi Arabia’s crown prince on Makkah defense agreement",
-          "summary": "RIYADH: Ukrainian President Volodymyr Zelensky congratulated Saudi Arabia’s Crown Prince Mohammed bin Salman on Monday for the recent signing of a regional defense agreement.\n\n\tZelensky said he hopes the Makkah Joint Defense Agreement signed between Saudi Arabia, Turkiye and Pakistan last week will ",
+          "title": "Enrollment begins at Saudi-backed school for Gaza children",
+          "summary": "GAZA STRIP: Registration has opened for students seeking to enroll at Makkah School in the southern Gaza Strip, a Saudi-backed initiative aimed at helping children resume their education amid the devastation of the war, SPA has reported. \n\n\tThe school, supported by the King Salman Humanitarian Aid a",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654135/saudi-arabia",
-          "published_at": "Mon, 10 Aug 2026 08:08:11 +03",
+          "article_url": "https://www.arabnews.com/node/2654157/saudi-arabia",
+          "published_at": "Tue, 11 Aug 2026 02:08:54 +03",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtdHJ1bXAtaW5z",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Trump insists Netanyahu relationship ‘very good’ despite Gaza rift",
+          "summary": "WASHINGTON, United States: President Donald Trump insisted on Monday that his relationship with Prime Minister Benjamin Netanyahu is “very good” despite the Israeli leader’s rejection of a US-led Gaza plan.\n\t“The relationship is very good,” Trump said in response to a shouted question from a journal",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654154/world",
+          "published_at": "Tue, 11 Aug 2026 01:08:46 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtYWx0YW5mZWV0",
+          "id": "YXJhYm5ld3MtbGlieWHigJlz",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "ALTANFEETHI concludes participation in Como Cup 2026 in Italy",
-          "summary": "ALTANFEETHI concluded its participation in Como Cup 2026 in Como, Italy, as part of its partnership with AlUla Club. The six-day participation introduced ALTANFEETHI’s services and hospitality experience to an international audience.\n\n\tALTANFEETHI participated through a dedicated booth within the ev",
+          "title": "Libya’s central bank chief resigns",
+          "summary": "TRIPOLI: The governor of Libya’s central bank, Naji Issa, has resigned without giving a reason, several reports said on Monday.\n\tPrivate TV channel Al-Ahrar said Issa had confirmed his resignation.\n\tIssa and vice-governor Miree Al-Barasee were appointed by Libya’s parliament, which is based in the e",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654134/corporate-and-sponsored-content",
-          "published_at": "Mon, 10 Aug 2026 08:08:04 +03",
-          "cross_sections": []
-        },
-        {
-          "id": "YXJhYm5ld3MtdHJ1bXAtZGVt",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Trump demands Iran pay compensation for war dead and wounded",
-          "summary": "WASHINGTON: US President Donald Trump said Monday he would seek conflict compensation from Iran as part of any peace negotiations, citing attacks and atrocities stretching back decades allegedly backed or perpetrated by Tehran.\n\tIran is “asking for compensation for the damage done to them during the",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654132/middle-east",
-          "published_at": "Mon, 10 Aug 2026 07:08:59 +03",
+          "article_url": "https://www.arabnews.com/node/2654155/middle-east",
+          "published_at": "Tue, 11 Aug 2026 01:08:41 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtaXJhbi1zdXBy",
+          "id": "YXJhYm5ld3MtdHJ1bXDigJlz",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Iran supreme leader names Guards general Abdollahi military chief",
-          "summary": "TEHRAN: Iranian supreme leader Mojtaba Khamenei named Revolutionary Guards general Ali Abdollahi head of the country's armed forces on Monday, while also confirming a new commander of the Guards, putting his imprimatur on the country's military.\n\tAbdollahi had previously led the Khatam Al-Anbiya, Ir",
+          "title": "Trump’s Gaza plan hinges on Hamas disarmament, Israeli withdrawals",
+          "summary": "JERUSALEM: Donald Trump’s latest plan to end the Gaza war calls on Hamas to ‌lay down its arms as Israel withdraws from the territory, terms endorsed by the militants but rejected by Israel, which says it will not pull back until the group’s disarmament is complete.",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654129/middle-east",
-          "published_at": "Mon, 10 Aug 2026 07:08:36 +03",
+          "article_url": "https://www.arabnews.com/node/2654156/middle-east",
+          "published_at": "Tue, 11 Aug 2026 01:08:10 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3Mtc3BvcnRzLWJv",
+          "id": "YXJhYm5ld3MtY2FuLWFsLWJ1",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Sports Boulevard launches $186m fund to develop Urban Wadi assets",
-          "summary": "JEDDAH: The Sports Boulevard Real Estate Development and Investment Co. has signed agreements with Rikaz Properties to establish its third real estate investment fund, valued at more than $186 million, to develop key assets including a luxury five-star hotel in Riyadh’s Urban Wadi.\n\n\tThe fund will f",
+          "title": "Can Al-Burhan’s Sudanese national dialogue turn military gains into a political settlement?",
+          "summary": "LONDON: More than three years after Sudan descended into civil war, army chief Gen. Abdel Fattah Al-Burhan is pushing for a broad national dialogue aimed at rebuilding the country’s political institutions and laying the foundations for a civilian transition.\n\n\tTalks could begin as early as August, w",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654133/business-economy",
-          "published_at": "Mon, 10 Aug 2026 07:08:14 +03",
-          "cross_sections": []
-        },
-        {
-          "id": "YXJhYm5ld3MtdWtyYWluZeKA",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Ukraine’s Zelensky says up to 50,000 North Korean troops to be deployed in Russia",
-          "summary": "SEOUL: Ukrainian President Volodymyr Zelensky has ‌said up to 50,000 North Korean soldiers will be deployed in Russia to fight for Pyongyang’s ally, while calling on South Korea to provide support for ​its air defense.Zelensky said on X on Saturday that “a decision has been made for 30,000 to 50,000",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654131/world",
-          "published_at": "Mon, 10 Aug 2026 07:08:03 +03",
+          "article_url": "https://www.arabnews.com/node/2654150/middle-east",
+          "published_at": "Mon, 10 Aug 2026 11:08:33 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtaG91dGhpcy1s",
+          "id": "YXJhYm5ld3MtZmlyZS1icmVh",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Houthis launch new drone wave across Yemen’s government-held areas",
-          "summary": "AL-MUKALLA: At least two Yemeni government soldiers were killed in southern Yemen as the Houthis launched a new wave of drone attacks on government-controlled areas in Aden, Mocha and Shabwa.\n\n\tThe escalation came as the Yemeni army vowed on Monday to respond to Houthi drone and missile strikes on t",
+          "title": "Fire breaks out at Libya’s Zawiya refinery",
+          "summary": "TRIPOLI: A fire broke out on Monday ​in a diesel tank at Libya’s Zawiya refinery days after the facility was hit by drone.\n\n\tThe circumstances of Monday's fire remained unknown, Brega Petroleum Marketing Company said in a statement.\n\tBrega is owned by state oil firm National Oil Corporation (NOC) an",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654127/middle-east",
-          "published_at": "Mon, 10 Aug 2026 06:08:00 +03",
-          "cross_sections": []
+          "article_url": "https://www.arabnews.com/node/2654151/middle-east",
+          "published_at": "Mon, 10 Aug 2026 11:08:10 +03",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtdGVlbmFnZXIt",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Teenager dies trying to rescue swimmers at Alexandria beach",
+          "summary": "ALEXANDRIA: An 18-year-old man died while attempting to help rescue six people from drowning at El-Baitash beach in Alexandria, Egypt, on Saturday, local authorities said.\n\tThe Central Administration for Tourism and Resorts in Alexandria said on Sunday that the beach was among those closed to swimme",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654149/middle-east",
+          "published_at": "Mon, 10 Aug 2026 10:08:39 +03",
+          "cross_sections": [
+            "tech"
+          ]
         }
       ]
     }
@@ -4943,7 +5104,7 @@
         {
           "id": "nyt",
           "name": "The New York Times",
-          "count": 21
+          "count": 23
         },
         {
           "id": "cnn",
@@ -4980,7 +5141,7 @@
         {
           "id": "euronews",
           "name": "Euronews",
-          "count": 8
+          "count": 16
         },
         {
           "id": "dw",
@@ -5041,6 +5202,86 @@
       "icon": "💻",
       "articles": [
         {
+          "id": "Y25iYy11LnMuLXRvLXVzZS1l",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
+          "summary": "The Trump administration is ratcheting up rhetorical pressure on Iran as the military conflict in Iran appears mired in a strategic stalemate.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html",
+          "published_at": "Fri, 14 Aug 2026 20:47:41 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtZGVhdGgtb2Yt",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Death of wild boars raises concerns in Kerala’s Kasaragod",
+          "summary": "Carcasses of 10 animals found in Vorkady panchayat over the past two weeks; residents urge authorities to ensure that the carcasses are safely disposed of to prevent any possible health risk",
+          "image_url": "https://th-i.thgim.com/public/incoming/wa10lw/article71347308.ece/alternates/LANDSCAPE_1200/Wild%20Boar_03.jpg",
+          "article_url": "https://www.thehindu.com/news/national/kerala/death-of-wild-boars-raises-concerns-in-keralas-kasaragod/article71345879.ece",
+          "published_at": "Sat, 15 Aug 2026 02:09:47 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGVjaGNydW5jaC1zZWxmLWRy",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Self-driving trucks are officially testing on California highways",
+          "summary": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+          "published_at": "Fri, 14 Aug 2026 20:37:49 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLWphc29uLWFyZGF5LC1l",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+          "summary": "Emergency services said a man was found \"unresponsive\" at an address in Battersea, south London, on Friday afternoon.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1f2/live/c7b603c0-91a2-11f1-964d-6f76397ea067.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 14 Aug 2026 20:32:55 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LXN0b2NrLXRyYWRpbmct",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Stock Trading in Congress Becomes an Attack Line in Midterm Campaigns",
+          "summary": "Republican and Democratic challengers are both using the issue to attack members of Congress as unethical, seizing on a common practice that enrages voters.",
+          "image_url": "https://static01.nyt.com/images/2026/08/14/multimedia/14dc-stocks-tzhv/14dc-stocks-tzhv-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/14/us/politics/stock-trading-congress.html",
+          "published_at": "Fri, 14 Aug 2026 20:23:38 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "bmR0di1leC1jYW1icmlkZ2Ut",
           "source_id": "ndtv",
           "source_name": "NDTV",
@@ -5052,22 +5293,6 @@
           "image_url": "https://c.ndtvimg.com/2023-02/7tb1sd88_jason-arday-was-unable-to-speak-until-he-was-11-years-old_625x300_28_February_23.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
           "article_url": "https://www.ndtv.com/world-news/ex-cambridge-university-professor-jason-arday-found-dead-at-home-11912096#publisher=newsstand",
           "published_at": "Sat, 15 Aug 2026 01:40:40 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy11LnMuLXRvLXVzZS1l",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
-          "summary": "\"It will be a combination of economic isolation like ‌the world has ​never seen before, ​and ​the continued blockade in ‌the Strait of ​Hormuz,\" Bessent said.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html",
-          "published_at": "Fri, 14 Aug 2026 20:08:09 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -5153,22 +5378,6 @@
           ]
         },
         {
-          "id": "YmJjLWV4LWNhbWJyaWRnZS1w",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Ex-Cambridge professor at centre of plagiarism row found dead",
-          "summary": "Jason Arday was found \"unresponsive\" at an address in Battersea, south London, on Friday afternoon, officials said.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1f2/live/c7b603c0-91a2-11f1-964d-6f76397ea067.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 14 Aug 2026 20:02:02 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "dGhlaGluZHUt4oCYdmlzaHdh",
           "source_id": "thehindu",
           "source_name": "The Hindu",
@@ -5212,22 +5421,6 @@
           "image_url": null,
           "article_url": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html",
           "published_at": "Fri, 14 Aug 2026 19:53:04 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LXN0b2NrLXRyYWRpbmct",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Stock Trading in Congress Becomes an Attack Line in Midterm Campaigns",
-          "summary": "Republican and Democratic challengers are both using the issue to attack members of Congress as unethical, seizing on a common practice that enrages voters.",
-          "image_url": "https://static01.nyt.com/images/2026/08/14/multimedia/14dc-stocks-tzhv/14dc-stocks-tzhv-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/14/us/politics/stock-trading-congress.html",
-          "published_at": "Fri, 14 Aug 2026 19:45:33 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5297,6 +5490,22 @@
           ]
         },
         {
+          "id": "bnl0LWhvdy10aGUtbmV3LXlv",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "How The New York Times Reported on Trump’s Air Force One Ruse in Turkey",
+          "summary": "President Trump’s Air Force One subterfuge duped potential adversaries — and the press. Here’s what happened.",
+          "image_url": "https://static01.nyt.com/images/2026/08/14/multimedia/14-insider-af1-03-ktgb/14-insider-af1-03-ktgb-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/14/insider/trump-air-force-one-decoy-reporters.html",
+          "published_at": "Fri, 14 Aug 2026 19:20:46 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YmJjLW1hbmdpb25lLWFkbWl0",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -5334,7 +5543,7 @@
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "A Prominent Mexican Politician Says U.S. Revoked His Visa",
           "summary": "Andrés Manuel López Beltrán, a former president’s son, lashed out at the Trump administration after he said it canceled his visa, another flashpoint in the tense U.S.-Mexico relationship.",
           "image_url": "https://static01.nyt.com/images/2026/08/14/multimedia/14int-mexico-visa-hcvl/14int-mexico-visa-hcvl-mediumSquareAt3X.jpg",
@@ -5518,7 +5727,7 @@
           "summary": "Google enabled A.I. features for K-12 schools that have allowed student access to Gemini. Until this week, Google automatically enabled Gemini in Classroom only for students 18 or older.",
           "image_url": "https://static01.nyt.com/images/2026/08/13/multimedia/13Gemini-schools-wgzl/13Gemini-schools-wgzl-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html",
-          "published_at": "Fri, 14 Aug 2026 18:54:35 +0000",
+          "published_at": "Fri, 14 Aug 2026 18:54:36 +0000",
           "cross_sections": [
             "tech",
             "ai"
@@ -5635,54 +5844,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "dGhldmVyZ2UtZ29vZ2xlJiM4",
-          "source_id": "theverge",
-          "source_name": "The Verge",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Google&#8217;s best new camera feature is only for the Pixel 11 series",
-          "summary": "Arguably the coolest new photo feature for the Pixel 11 lineup is Google's new Camera Looks, which process image data differently at the sensor level to produce photos that don't have that \"smartphone\" look. The result is new styles like \"Digi,\" which mimics the style of photos taken by older digita",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-back-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "article_url": "https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones",
-          "published_at": "2026-08-14T17:34:14.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25ldC1hcHBsZeKAmXMtd2Fy",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Apple’s Warnings About Spyware Are Real, Don’t Ignore Them",
-          "summary": "“Mercenary spyware” isn’t targeted at everybody, but don’t skip the notification if you see it.",
-          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-538201212.jpg",
-          "article_url": "https://www.cnet.com/tech/apples-warnings-about-spyware-are-real-dont-ignore-them/",
-          "published_at": "2026-08-14T17:28:54.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJzdGVjaG5pY2Etc3VzcGVj",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "summary": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1793608536-1152x648.jpg",
-          "article_url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-          "published_at": "Fri, 14 Aug 2026 17:26:53 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -5777,7 +5938,7 @@
           "summary": "Google enabled A.I. features for K-12 schools that have allowed student access to Gemini. Until this week, Google automatically enabled Gemini in Classroom only for students 18 or older.",
           "image_url": "https://static01.nyt.com/images/2026/08/13/multimedia/13Gemini-schools-wgzl/13Gemini-schools-wgzl-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html",
-          "published_at": "Fri, 14 Aug 2026 18:54:35 +0000",
+          "published_at": "Fri, 14 Aug 2026 18:54:36 +0000",
           "cross_sections": [
             "tech",
             "ai"
@@ -6191,6 +6352,23 @@
           ]
         },
         {
+          "id": "YXJhYm5ld3MtZW5yb2xsbWVu",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Enrollment begins at Saudi-backed school for Gaza children",
+          "summary": "GAZA STRIP: Registration has opened for students seeking to enroll at Makkah School in the southern Gaza Strip, a Saudi-backed initiative aimed at helping children resume their education amid the devastation of the war, SPA has reported. \n\n\tThe school, supported by the King Salman Humanitarian Aid a",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654157/saudi-arabia",
+          "published_at": "Tue, 11 Aug 2026 02:08:54 +03",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "dG9pLWNoYXRncHQtd2FzLWRv",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -6211,7 +6389,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 10607,
+    "build_ms": 9319,
     "ai_enabled": true
   }
 }
