@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-16T12:15:17.201Z",
-  "total_articles": 297,
-  "new_this_run": 25,
+  "last_updated": "2026-08-16T13:01:04.414Z",
+  "total_articles": 304,
+  "new_this_run": 28,
   "sources": [
     {
       "id": "techcrunch",
@@ -906,6 +906,23 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "dmVudHVyZWJlYXQtZGVlcHNl",
+          "source_id": "venturebeat",
+          "source_name": "VentureBeat",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "DeepSeek's top-ranked V4 Flash stumbles on real agent tasks as its prices surge",
+          "summary": "DeepSeek's V4 Flash has topped model leaderboards and been hailed by developers as a \"total monster\" since its rollout. But in real-world testing, it completed just 53.8% of a batch of complex agent tasks. \nComposio ran the model through eight different agent harnesses, including Claude Code, Codex,",
+          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/YO11rLoN8OR9ZKXk99L3g/102fc5f215a65b1851a46b1309831c15/DeepSeek.png?w=300&q=30",
+          "article_url": "https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-real-agent-tasks-as-its-prices-surge",
+          "published_at": "Sun, 16 Aug 2026 13:00:00 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "dmVudHVyZWJlYXQtYW4tZXZh",
           "source_id": "venturebeat",
           "source_name": "VentureBeat",
@@ -972,23 +989,6 @@
           ]
         },
         {
-          "id": "dmVudHVyZWJlYXQtZGVlcHNl",
-          "source_id": "venturebeat",
-          "source_name": "VentureBeat",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "DeepSeek Harness launches as open source rival to Claude Code, alongside V4-Pro on API with higher prices",
-          "summary": "DeepSeek is expanding beyond the model layer and deeper into the software developers use to put AI agents to work.\nThe Chinese AI lab on Thursday launched the official version of DeepSeek-V4-Pro, an updated flagship model focused heavily on agentic workloads, alongside DeepSeek Harness v0.1, a new o",
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6hFdhAgllY0UvaVpl6BmLa/d6e4fff99189904b4a8a9f037e1fbb83/43530361-2311-45E8-BCF9-8DF972A298D8.png?w=300&q=30",
-          "article_url": "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices",
-          "published_at": "Thu, 13 Aug 2026 16:47:55 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "dmVudHVyZWJlYXQtd2h5LWNh",
           "source_id": "venturebeat",
           "source_name": "VentureBeat",
@@ -1000,23 +1000,6 @@
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7gbhCwja5N985q8VOA85UE/c8f8683d5ba63276b672c9312ece355e/2026-VB-Transform-Hotel-Nia-0089-X5.jpg?w=300&q=30",
           "article_url": "https://venturebeat.com/orchestration/why-capital-one-built-its-multi-agent-ai-platform-around-open-weight-models",
           "published_at": "Thu, 13 Aug 2026 14:00:00 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "dmVudHVyZWJlYXQtd3JpdGVy",
-          "source_id": "venturebeat",
-          "source_name": "VentureBeat",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Writer says its new Palmyra X6 model cuts AI agent costs by 52% as token spending surges",
-          "summary": "Writer, the enterprise AI agent platform used by Fortune 500 companies including Accenture, Uber, and Vanguard, released its new flagship model Palmyra X6 today, alongside a rebuilt agent orchestration \"harness\" and new governance tools designed to give IT leaders control over runaway token spending",
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6Zxh3IXctblxveNWHWZSCq/a0b7dbc4fc6a943d1191a203a4451255/Nuneybits_Vector_art_of_a_typewriter_printing_cheaper_faster_go_9a122ae4-9f67-48ad-adfe-0bf7d102809e.webp?w=300&q=30",
-          "article_url": "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges",
-          "published_at": "Thu, 13 Aug 2026 13:00:00 GMT",
           "cross_sections": [
             "tech",
             "ai"
@@ -1440,7 +1423,37 @@
           "summary": "A shooting at a U.S. Consulate has thrust a neighborhood with a troubled past into the center of an emerging criminal phenomenon: young guns for hire as gig workers in the underworld economy.",
           "image_url": "https://static01.nyt.com/images/2026/08/15/multimedia/15int-canada-guns-promo/15int-canada-guns-lfvm-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/16/world/canada/us-consulate-synagogue-shooting-toronto-canada.html",
-          "published_at": "Sun, 16 Aug 2026 11:09:23 +0000",
+          "published_at": "Sun, 16 Aug 2026 12:50:04 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LXllYXJzLW9mLXRydW1w",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Years of Trump Support Came Undone in 15 Minutes in an Airport.",
+          "summary": "The case represents a new front in President Trump’s mass deportation drive: arrests at airports of people who have active immigration cases and no criminal history.",
+          "image_url": "https://static01.nyt.com/images/2026/08/11/multimedia/00nat-immig-backfire-1-vhcm/00nat-immig-backfire-1-vhcm-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/16/us/trump-immigration-crackdown.html",
+          "published_at": "Sun, 16 Aug 2026 12:30:43 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LWhvdy1yZXB1YmxpY2Fu",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "How Republicans Embraced Brandon Herrera, a Texas Republican Candidate and Gun Influencer",
+          "summary": "Brandon Herrera, long an anti-establishment outsider, is trying to help the party defend a red-leaning House district in West Texas. It’s proving messy.",
+          "image_url": "https://static01.nyt.com/images/2026/08/16/multimedia/16pol-texas-youtuber-01-vkwh/16pol-texas-youtuber-01-vkwh-mediumSquareAt3X-v2.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/16/us/politics/herrera-trump-republican-texas-house.html",
+          "published_at": "Sun, 16 Aug 2026 12:18:14 +0000",
           "cross_sections": []
         },
         {
@@ -1504,22 +1517,6 @@
           ]
         },
         {
-          "id": "bnl0LWhlLXdhcy1hLW1hZ2Et",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "He Was a MAGA Patriot. ICE Took His Wife Away.",
-          "summary": "The case represents a new front in President Trump’s mass deportation drive: arrests at airports of people who have active immigration cases and no criminal history.",
-          "image_url": "https://static01.nyt.com/images/2026/08/11/multimedia/00nat-immig-backfire-1-vhcm/00nat-immig-backfire-1-vhcm-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/16/us/trump-immigration-crackdown.html",
-          "published_at": "Sun, 16 Aug 2026 09:01:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bnl0LXRoZS11LnMuLW1pbGl0",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1534,20 +1531,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "bnl0LWhvdy1yZXB1YmxpY2Fu",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "How Republicans Embraced Brandon Herrera, a Texas Republican Candidate and Gun Influencer",
-          "summary": "Brandon Herrera, long an anti-establishment outsider, is trying to help the party defend a red-leaning House district in West Texas. It’s proving messy.",
-          "image_url": "https://static01.nyt.com/images/2026/08/16/multimedia/16pol-texas-youtuber-01-vkwh/16pol-texas-youtuber-01-vkwh-mediumSquareAt3X-v2.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/16/us/politics/herrera-trump-republican-texas-house.html",
-          "published_at": "Sun, 16 Aug 2026 09:00:30 +0000",
-          "cross_sections": []
         },
         {
           "id": "bnl0LXRydW1w4oCZcy1vdGhl",
@@ -1766,7 +1749,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-08-16T12:15:08.921Z",
+          "published_at": "2026-08-16T13:00:55.426Z",
           "cross_sections": []
         },
         {
@@ -1780,7 +1763,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-08-16T12:15:08.921Z",
+          "published_at": "2026-08-16T13:00:55.426Z",
           "cross_sections": []
         },
         {
@@ -1794,7 +1777,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-08-16T12:15:08.921Z",
+          "published_at": "2026-08-16T13:00:55.426Z",
           "cross_sections": []
         },
         {
@@ -2360,6 +2343,20 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "Zm94LXdvcmxkJ3MtZmlyc3Qt",
+          "source_id": "fox",
+          "source_name": "Fox News",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Tech",
+          "title": "World's first solar-powered ambulance brings healthcare off-grid",
+          "summary": "Stella Juva, built by Solar Team Eindhoven students, functions as a solar-powered mobile clinic with medical equipment headed to Kenya for field testing.",
+          "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/solar-powered-ambulance.jpg?ve=1&tl=1",
+          "article_url": "https://www.foxnews.com/tech/worlds-first-solar-powered-ambulance-brings-healthcare-off-grid",
+          "published_at": "Sun, 16 Aug 2026 08:43:14 -0400",
+          "cross_sections": []
+        },
+        {
           "id": "Zm94LTgtdGhpbmdzLXdlLWxl",
           "source_id": "fox",
           "source_name": "Fox News",
@@ -2588,22 +2585,6 @@
           "article_url": "https://www.foxnews.com/tech/fired-texas-judge-speaks-dirty-water-firestorm-engulfs-town",
           "published_at": "Wed, 12 Aug 2026 14:15:57 -0400",
           "cross_sections": []
-        },
-        {
-          "id": "Zm94LWZha2UtcmVudGFsLWxp",
-          "source_id": "fox",
-          "source_name": "Fox News",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Tech",
-          "title": "Fake rental listing scams can cost you thousands",
-          "summary": "FBI real estate fraud complaints jumped from 9,359 in 2024 to 12,368 in 2025 as fake rental listing scams grow more convincing with stolen photos.",
-          "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/rental-home-sign-new-mexico.jpg?ve=1&tl=1",
-          "article_url": "https://www.foxnews.com/tech/fake-rental-listing-scams-cost-thousands",
-          "published_at": "Wed, 12 Aug 2026 08:31:20 -0400",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -2614,17 +2595,33 @@
       "category": "Broadcaster",
       "articles": [
         {
-          "id": "YmJjLXBlb3BsZS13aG8tZmxl",
+          "id": "YmJjLWh1cnJpY2FuZS1sYWxh",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
+          "summary": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/995d/live/6816b320-9944-11f1-a7ab-8b30adf0800a.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 16 Aug 2026 12:53:43 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLXRob3VzYW5kcy1kaXNw",
           "source_id": "bbc",
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "Top Stories",
-          "title": "People who fled Stourbridge fires start to return home",
-          "summary": "Many families are only just discovering the extent of damage to their homes for the first time.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5de8/live/5f9d3050-994b-11f1-8f52-c9b39dabc99d.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 16 Aug 2026 12:14:44 GMT",
+          "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+          "summary": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f8/live/fc58ea40-98ee-11f1-94a7-b9e415195b83.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 16 Aug 2026 12:37:21 GMT",
           "cross_sections": []
         },
         {
@@ -2636,12 +2633,42 @@
           "feed_label": "Top Stories",
           "title": "Murder inquiry after man bitten by dog dies",
           "summary": "Police appeal for two people who stopped to help the victim in Wakefield to come forward.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e391/live/460fff80-996b-11f1-aaab-c702cc6b4645.jpg",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d939/live/b9a45410-996f-11f1-aaab-c702cc6b4645.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 16 Aug 2026 11:57:41 GMT",
+          "published_at": "Sun, 16 Aug 2026 12:36:11 GMT",
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "YmJjLXdhdGNoOi1iYmMtdmlz",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
+          "summary": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ef6/live/8e3c33a0-9966-11f1-a7ab-8b30adf0800a.jpg",
+          "article_url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 16 Aug 2026 12:18:09 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLXBlb3BsZS13aG8tZmxl",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "People who fled Stourbridge fires start to return home",
+          "summary": "Many families are only just discovering the extent of damage to their homes for the first time.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a673/live/2ef14c90-995d-11f1-9712-2936f8c80214.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 16 Aug 2026 12:14:44 GMT",
+          "cross_sections": []
         },
         {
           "id": "YmJjLWV1cm9wZSdzLXRhbGxl",
@@ -2704,36 +2731,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YmJjLWh1cnJpY2FuZS1sYWxh",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
-          "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/995d/live/6816b320-9944-11f1-a7ab-8b30adf0800a.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 16 Aug 2026 08:49:32 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YmJjLXRob3VzYW5kcy1kaXNw",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-          "summary": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f8/live/fc58ea40-98ee-11f1-94a7-b9e415195b83.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 16 Aug 2026 08:23:38 GMT",
-          "cross_sections": []
         },
         {
           "id": "YmJjLWFyaWFuYS1ncmFuZGUt",
@@ -2806,22 +2803,6 @@
           "article_url": "https://www.bbc.co.uk/news/articles/c626d3xqd83o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 15 Aug 2026 23:42:33 GMT",
           "cross_sections": []
-        },
-        {
-          "id": "YmJjLWFteS1odW50LXByYWlz",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Amy Hunt praises 'superwomen' team after winning third European gold",
-          "summary": "Amy Hunt claims the third gold medal of her bid for a historic quadruple and Dina Asher-Smith makes history as Great Britain win two relay golds at the European Athletics Championships.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/297d/live/d940b150-98ee-11f1-94a7-b9e415195b83.jpg",
-          "article_url": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 15 Aug 2026 21:13:17 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "YmJjLW1vcm9jY28tZGV0YWlu",
@@ -3344,6 +3325,136 @@
       ]
     },
     {
+      "id": "euronews",
+      "name": "Euronews",
+      "region": "Europe",
+      "category": "Broadcaster",
+      "articles": [
+        {
+          "id": "ZXVyb25ld3MtbWFlcnNrLWJy",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Maersk brings back another shipping service through Suez, but wider return remains distant",
+          "summary": "The latest move is part of a cautious return to the Suez Canal, with four Maersk services switching back since early July, the most recent in mid-August, while nine others continue to sail around Africa.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/31/15/696x392_cmsv2_3efeeac5-d634-5e7b-b685-388c3fe60d48-9873115.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/14/maersk-returns-another-asia-europe-service-through-suez-but-wider-return-remains-distant",
+          "published_at": "Fri, 14 Aug 2026 15:20:22 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtZnVlbC1wcmlj",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Fuel prices: study says there is no \"profiteering by operators\"",
+          "summary": "An ERSE study found that in the first seven months of 2026 domestic prices broadly followed international costs, with no \"evidence of profiteering by operators\". Fuel prices are set to soar again next week.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/44/78/696x392_cmsv2_6525627f-2d40-5908-8393-21cf818ed299-9874478.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/14/fuel-prices-study-says-there-is-no-profiteering-by-operators",
+          "published_at": "Fri, 14 Aug 2026 15:05:18 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtdHJ1bXAtaW1w",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Trump imposes drone tariffs of up to 100% with a lower rate for the EU and UK",
+          "summary": "US President Donald Trump has imposed tariffs of up to 100% on imported drones and their components, with EU manufacturers facing a preferential rate of 15% and British firms 10%, in a measure meant to rebuild American production of a technology central to modern warfare.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/44/12/696x392_cmsv2_8780869d-556e-5936-97aa-69bf31cbae6f-9874412.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/14/trump-imposes-drone-tariffs-of-up-to-100-with-a-lower-rate-for-the-eu-and-uk",
+          "published_at": "Fri, 14 Aug 2026 12:45:07 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtdWJlci1hbmQt",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Uber and China’s Pony AI to launch over 2,000 robotaxis across Europe",
+          "summary": "The expanded partnership with blend a mobility platform, fleet management capacity and autonomous driving technology.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/41/01/696x392_cmsv2_03c5f02c-4724-5310-b98a-1e753dd8322b-9874101.jpg",
+          "article_url": "http://www.euronews.com/next/2026/08/14/uber-and-chinas-pony-ai-to-launch-over-2000-robotaxis-across-europe",
+          "published_at": "Fri, 14 Aug 2026 10:58:25 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtYnAtcmV0dXJu",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "BP returns to Venezuela with Gulf partners as post-Maduro energy opening speeds up",
+          "summary": "Venezuela has awarded BP a licence to develop the offshore Loran gas field alongside state-backed partners from the UAE and Qatar, marking the British company's return to a country whose energy sector has been reopening to foreign investors since US forces captured Nicolás Maduro.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/42/24/696x392_cmsv2_52859e51-2fe1-5b52-ab64-3cb3aa4fab1f-9874224.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/14/bp-returns-to-venezuela-with-gulf-partners-as-post-maduro-energy-opening-speeds-up",
+          "published_at": "Fri, 14 Aug 2026 10:54:18 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtYmF0dGVyeS1v",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Battery-only electric cars on the rise in Europe: Which countries lead?",
+          "summary": "The share of newly registered battery-only electric passenger cars is rising significantly in many European countries, but their share of the total car fleet remains very low in many countries.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/29/30/696x392_cmsv2_dbe4ee3c-1369-5c5d-88ff-1a1134f816d2-9872930.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/14/battery-only-electric-cars-are-on-the-rise-in-europe-which-countries-lead",
+          "published_at": "Fri, 14 Aug 2026 10:08:15 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3Mtd2h5LWRvLXdv",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Why do women need 12 times their salary to buy a home, when men need only eight?",
+          "summary": "A consistent pay gap and more difficulties in saving for a deposit compared to men are some of the factors holding women back from home ownership.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/29/88/696x392_cmsv2_1782308c-026c-552d-bedf-aa207b57552c-9872988.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/13/why-do-women-need-12-times-their-salary-to-buy-a-home-when-men-need-only-eight",
+          "published_at": "Thu, 13 Aug 2026 14:33:29 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3Mtd2hhdC1pcy10",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "What is Truth API? The $100,000 feed that has landed Trump a lawsuit",
+          "summary": "Two press organisations have asked a Manhattan federal court to shut down Truth API, the service launched this month that sells Wall Street firms faster access to US President Donald Trump's Truth Social posts for up to $100,000 a month.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/27/21/696x392_cmsv2_d338d0d5-d456-50bb-82ac-21d9425bbd2d-9872721.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/13/what-is-truth-api-the-100000-feed-that-has-landed-trump-a-lawsuit",
+          "published_at": "Thu, 13 Aug 2026 12:28:11 +0200",
+          "cross_sections": []
+        }
+      ]
+    },
+    {
       "id": "dw",
       "name": "DW News",
       "region": "Europe",
@@ -3560,6 +3671,66 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dG9pLWJhbmtpbS1kZXNjZW5k",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Bankim descendant seeks Sonia apology over ‘Vande Mataram’ row",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/bankim-descendant-seeks-sonia-apology-over-vande-mataram-row-/articleshow/133275818.cms",
+          "published_at": "Sun, 16 Aug 2026 18:20:39 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dG9pLWluZC12cy1zbDotdGhl",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "IND vs SL: The ninety minutes! Moving day comes early in gloomy Galle",
+          "summary": "A rain-hit Day 2 in Galle turned into a frantic 90 minutes as Sri Lanka's bowlers struck in quick succession, dismissing India's overnight batters and bringing the hosts back into the contest. Devdutt Padikkal's 167 and a crucial lower-order stand kept India in control, but the pitch is beginning to",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/the-ninety-minutes-moving-day-comes-early-in-gloomy-galle/articleshow/133275702.cms",
+          "published_at": "Sun, 16 Aug 2026 18:17:14 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLWNqcC1jbGFpbXMtcXVl",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "CJP claims questions on youth protests, NEET, police action disallowed in Lok Sabha",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/cjp-claims-questions-on-youth-protests-neet-police-action-disallowed-in-lok-sabha/articleshow/133275261.cms",
+          "published_at": "Sun, 16 Aug 2026 17:56:47 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLW5hc2HigJlzLW1vb24t",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Nasa’s Moon base: Too early to tell where India fits in",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/nasas-moon-base-too-early-to-tell-where-india-fits-in/articleshow/133275195.cms",
+          "published_at": "Sun, 16 Aug 2026 17:56:19 +0530",
+          "cross_sections": []
+        },
+        {
           "id": "dG9pLWZyb20tYnVybnQtY2Fz",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3576,50 +3747,20 @@
           ]
         },
         {
-          "id": "dG9pLSdodW1hbi1jb3N0LW9m",
+          "id": "dG9pLXBhZGlra2FsLWZhbGxz",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "'Human cost of relentless political hostility': Mamata on TMC leader's suicide",
-          "summary": "The former West Bengal CM Mamata Banerjee claimed that Asish Banerjee was \"repeatedly maligned, falsely accused and subjected to relentless pressure\". She said: The harassment and mental pressure he faced, despite his long record of public service, should make all of us pause and reflect on the huma",
+          "title": "Padikkal falls for 167, joins Dravid and Pujara in Sri Lanka record list",
+          "summary": "Devdutt Padikkal's remarkable 150-run milestone during a rain-interrupted Test match highlights his growing prowess as a cricketer. He joins the elite ranks of Rahul Dravid and Cheteshwar Pujara with this achievement from the number three position. The match faced multiple delays due to weather, and",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/human-cost-of-relentless-political-hostility-mamata-banerjee-on-tmc-leaders-suicide/articleshow/133274331.cms",
-          "published_at": "Sun, 16 Aug 2026 17:09:28 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/sports/cricket/news/devdutt-padikkal-falls-for-167-joins-rahul-dravid-and-chetashwar-pujara-in-sri-lanka-record-list/articleshow/133273452.cms",
+          "published_at": "Sun, 16 Aug 2026 16:01:14 +0530",
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "dG9pLXVwLW9mZmljZXJzLWlu",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "UP officers invoke Bhagat Singh, Buddha to explain duty, justice and use of force",
-          "summary": "During the Independence Day celebrations in Uttar Pradesh, two officers reflected on public service and the importance of accountability. One officer referenced Bhagat Singh to address the frustrations surrounding the justice system's inefficiencies. The other drew from a Gautama Buddha story to dis",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/city/lucknow/up-officers-invoke-bhagat-singh-buddha-to-explain-duty-justice-and-use-of-force/articleshow/133273921.cms",
-          "published_at": "Sun, 16 Aug 2026 16:37:22 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLSdkaWRuJ3QtY2FsbC1v",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "'Didn't call opposition leaders dimagi naxals': Rijiju on PM Modi's I-Day remarks",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/didnt-call-opposition-leaders-dimagi-naxals-rijiju-on-pm-modis-i-day-remarks/articleshow/133273350.cms",
-          "published_at": "Sun, 16 Aug 2026 15:57:03 +0530",
-          "cross_sections": []
         },
         {
           "id": "dG9pLXVzLWltbWlncmF0aW9u",
@@ -3638,51 +3779,18 @@
           ]
         },
         {
-          "id": "dG9pLWFpLWV4cHJlc3MtZmx5",
+          "id": "dG9pLSdnaXJscy1sYXVnaCwt",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "AI Express flyer's pistol 'accidentally' goes off at Varanasi airport; 2 injured",
-          "summary": "Two security screeners were injured at Varanasi airport on Sunday morning. A passenger's licensed pistol accidentally discharged during a routine weapons check. The incident occurred while the passenger was preparing to board a flight to Mumbai. Both injured personnel received immediate medical trea",
+          "title": "'Girls laugh, cry, then go numb': 608 flee Maha school amid 'mass hysteria'",
+          "summary": "Students fled a school in Melghat fearing spirits after experiencing laughing fits. Officials diagnosed the unusual behavior as mass psychogenic illness, a collective stress reaction. The incident highlighted existing management issues at the Doma village ashram school. Overcrowding and poor sanitat",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/city/lucknow/gunfire-at-varanasi-airport-passengers-pistol-goes-off-bullet-hits-surface-ricochet-injures-2/articleshow/133271656.cms",
-          "published_at": "Sun, 16 Aug 2026 13:03:02 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLWF0LWJjaS1oZWxtLWZv",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "At BCI helm for 14 years, Manan Kumar Mishra faces heat over professional conduct",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/at-bci-helm-for-14-years-manan-kumar-mishra-faces-heat-over-professional-conduct/articleshow/133268456.cms",
-          "published_at": "Sun, 16 Aug 2026 04:39:35 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/city/nagpur/girls-laughing-crying-then-going-numb-608-flee-maharashtra-school-amid-mass-hysteria/articleshow/133268961.cms",
+          "published_at": "Sun, 16 Aug 2026 07:48:33 +0530",
           "cross_sections": []
-        },
-        {
-          "id": "dG9pLW1hY2tlbnppZS1zY290",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "MacKenzie Scott helped abolish $40B in medical debt; how mechanics work",
-          "summary": "MacKenzie Scott's donations have enabled medical debt abolition across America. Her model allows acquiring debt at low costs and then forgiving it. This approach has inspired other billionaires to contribute millions to similar causes. While philanthropic efforts are scaling, policy reforms for medi",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-has-helped-abolish-40-billion-in-medical-debt-how-mechanics-work/articleshow/133240371.cms",
-          "published_at": "Fri, 14 Aug 2026 17:17:21 +0530",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
         },
         {
           "id": "dG9pLXRlZW4taW5ub3ZhdG9y",
@@ -3929,124 +4037,128 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dGhlaGluZHUtd2F0ZXItbGV2",
+          "id": "dGhlaGluZHUtbW90aGVyLXNv",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Water level in dams",
+          "title": "Mother-son duo who allegedly killed two women for gold arrested",
+          "summary": "The woman confessed during questioning that she had watched crime-related fiction and online content to understand how murders were committed and bodies disposed of, police said.",
+          "image_url": "https://th-i.thgim.com/public/news/national/telangana/x990sg/article71352671.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-16%20at%2016.47.59.jpeg",
+          "article_url": "https://www.thehindu.com/news/national/telangana/mother-son-duo-who-allegedly-killed-two-women-for-gold-arrested/article71352673.ece",
+          "published_at": "Sun, 16 Aug 2026 18:29:30 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtY2l2aWwtcG9s",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Civil police recruitment exam: 141 OMR sheets go missing from Vijayapura exam centre",
+          "summary": "KEA has written to the Deputy Commissioner and Chief Superintendent of Examinations, Vijayapura District, seeking a detailed report on the incident",
+          "image_url": "https://th-i.thgim.com/public/incoming/phn022/article71352872.ece/alternates/LANDSCAPE_1200/KEA-named-recruGN5GBHV8F.3.jpg.jpg",
+          "article_url": "https://www.thehindu.com/news/national/karnataka/civil-police-recruitment-exam-141-omr-sheets-go-missing-from-vijayapura-exam-centre/article71345257.ece",
+          "published_at": "Sun, 16 Aug 2026 18:28:40 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtYmFkbWludG9u",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Badminton Worlds: Indian hopes rest on Sindhu, Satwik-Chirag pair",
+          "summary": "Ayush takes on defending champion Shi in the opening round; Lakshya attempts to script history",
+          "image_url": "https://th-i.thgim.com/public/incoming/ormafs/article71352786.ece/alternates/LANDSCAPE_1200/52_Badminton_World_Championship_16_08_Delhi.jpg",
+          "article_url": "https://www.thehindu.com/sport/other-sports/badminton-worlds-indian-hopes-rest-on-sindhu-satwik-chirag-pair/article71352618.ece",
+          "published_at": "Sun, 16 Aug 2026 18:26:32 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtbWFqb3ItZmly",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Major fire engulfs commercial building in Thoothukudi",
           "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/uyolty/article71352721.ece/alternates/LANDSCAPE_1200/Water-level-in-GV4GAUHGA.3.jpg.jpg",
-          "article_url": "https://www.thehindu.com/news/cities/Madurai/water-level-in-dams/article71352480.ece",
-          "published_at": "Sun, 16 Aug 2026 17:35:22 +0530",
+          "image_url": "https://th-i.thgim.com/public/incoming/i4cq0x/article71352865.ece/alternates/LANDSCAPE_1200/9865_16_8_2026_12_57_57_4_DSC_8059.JPG",
+          "article_url": "https://www.thehindu.com/news/cities/Madurai/major-fire-engulfs-commercial-building-in-thoothukudi/article71352761.ece",
+          "published_at": "Sun, 16 Aug 2026 18:26:31 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUtbWFuc2EtbXVz",
+          "id": "dGhlaGluZHUtZnNzYWktc2F5",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Mansa Musa pleases",
+          "title": "FSSAI says 6 food companies rectified misleading claims, trade marks after its crackdown",
+          "summary": "In a social media post, the Food Safety and Standards Authority of India (FSSAI) informed that six Food Business Operators (FBOs) have taken prompt corrective actions following notices from the regulator",
+          "image_url": "https://th-i.thgim.com/public/incoming/pf09fb/article71352843.ece/alternates/LANDSCAPE_1200/FSSAI-takes-actG13GC8OKQ.4.jpg.jpg",
+          "article_url": "https://www.thehindu.com/news/national/fssai-says-6-food-companies-rectified-misleading-claims-trade-marks-after-its-crackdown/article71352810.ece",
+          "published_at": "Sun, 16 Aug 2026 18:26:12 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtbnRwYy1rYXlh",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "NTPC Kayamkulam celebrates Independence Day",
+          "summary": "Krishnakali Sinha, president of the Navjyothi Ladies Club, appreciated the role of NTPC Kayamkulam in generating renewable energy through its floating solar plant",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/national/kerala/ntpc-kayamkulam-celebrates-independence-day/article71352696.ece",
+          "published_at": "Sun, 16 Aug 2026 18:23:28 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtY2hhbW9saS10",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Chamoli tunnel flooding: Rescue operation continues for two trapped workers",
+          "summary": "Rescue operations continue for two workers trapped inside the flooded THDC tunnel in Uttarakhand’s Chamoli district. SDRF officials said slush, debris and darkness inside the tunnel are hampering the search, while Chief Minister Pushkar Singh Dhami has ordered a magisterial inquiry into the incident",
+          "image_url": "https://th-i.thgim.com/public/videos/hyfdkz/article71352849.ece/alternates/LANDSCAPE_1200/_chamoli.png",
+          "article_url": "https://www.thehindu.com/videos/chamoli-tunnel-flooding-rescue-operation-continues-for-two-trapped-workers/article71352858.ece",
+          "published_at": "Sun, 16 Aug 2026 18:22:19 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtd2VzdC1iZW5n",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "West Bengal STF arrests three in Coochbehar over suspected Pakistan-ISI links",
           "summary": "",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/sport/races/mansa-musa-pleases/article71352683.ece",
-          "published_at": "Sun, 16 Aug 2026 17:34:19 +0530",
+          "image_url": "https://th-i.thgim.com/public/incoming/905w91/article71352236.ece/alternates/LANDSCAPE_1200/iStock-1905024012%202.jpg",
+          "article_url": "https://www.thehindu.com/news/cities/kolkata/west-bengal-stf-arrests-three-in-coochbehar-over-suspected-pakistan-isi-links/article71352182.ece",
+          "published_at": "Sun, 16 Aug 2026 12:30:36 +0530",
           "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtZGluZGlndWwt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Dindigul reader’s mail",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/cities/Madurai/dindigul-readers-mail/article71352522.ece",
-          "published_at": "Sun, 16 Aug 2026 17:28:03 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtcmF1dC1kZWZl",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Raut defends Rahul over his remarks against Amit Shah",
-          "summary": "The Lok Sabha secretariat has sought a response from Rahul Gandhi to two separate complaints of \"breach of privilege\" filed by BJP MPs Anurag Thakur and Sanjay Jaiswal for his remarks against Amit Shah during a debate on the anti-paper leak bill",
-          "image_url": "https://th-i.thgim.com/public/incoming/2wrl7e/article71352662.ece/alternates/LANDSCAPE_1200/PTI01_05_2026_000359B.jpg",
-          "article_url": "https://www.thehindu.com/news/national/raut-defends-rahul-over-his-remarks-against-amit-shah/article71352650.ece",
-          "published_at": "Sun, 16 Aug 2026 17:25:58 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtY29tbXV0ZXJz",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Commuters voice concern over insufficient traffic regulations near Women and Child Hospital",
-          "summary": "The absence of a traffic signal and irregular posting of police personnel to streamline the movement of vehicles at the junction in front of the hospital have become a cause for concern for motorists",
-          "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/w33chv/article71342339.ece/alternates/LANDSCAPE_1200/image.jpg",
-          "article_url": "https://www.thehindu.com/news/cities/puducherry/commuters-voice-concern-over-insufficient-traffic-regulations-near-women-and-child-hospital/article71340856.ece",
-          "published_at": "Sun, 16 Aug 2026 17:16:34 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtaW4taXZmLC1h",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "In IVF, an unrecognised contributor gets the spotlight: Jean Purdy",
-          "summary": "Purdy was the first to recognise and describe the formation of the early human blastocyst – the cluster of cells that forms five or six days after a sperm fertilises an egg, in the culture, a key milestone in pre-implantation development",
-          "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/dyb91r/article71352661.ece/alternates/LANDSCAPE_1200/image_1786879888790280.png",
-          "article_url": "https://www.thehindu.com/sci-tech/health/in-ivf-an-unrecognised-contributor-gets-the-spotlight-jean-purdy/article71352639.ece",
-          "published_at": "Sun, 16 Aug 2026 17:16:31 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtd2VzdC1hc2lh",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "West Asia war LIVE: Israel vows to go after Hezbollah as it names another killed",
-          "summary": "Israeli strikes on August 15 killed 11 people in southern Lebanon, according to authorities, in the deadliest attacks since a deal was reached in June aimed at ending hostilities",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/international/iran-us-west-asia-war-strait-of-hormuz-donald-trump-live-updates-on-august-16-2026/article71351835.ece",
-          "published_at": "Sun, 16 Aug 2026 17:07:34 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUta2VyYWxhLXBv",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Kerala police are investigating Instagram and YouTube 'educational channels' that offer test-paper clues to lure anxious school students taking Onam mid-term examinations",
-          "summary": "An estimated 40 lakh school students  are taking the Onam examinations, which will conclude on August 20. On August 16, the General Education department petitioned State Police Chief to conduct a detailed criminal inquiry into Instagram and YouTube channels that lure students by promising definitive",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/kerala/kerala-police-are-investigating-instagram-and-youtube-educational-channels-that-offer-test-paper-clues-to-lure-anxious-school-students-taking-onam-mid-term-examinations/article71352558.ece",
-          "published_at": "Sun, 16 Aug 2026 17:06:06 +0530",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "dGhlaGluZHUtbWV0YS1yZWd1",
@@ -4191,6 +4303,36 @@
           ]
         },
         {
+          "id": "amFwYW50aW1lcy1wdXRpbi1j",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Putin can’t break down NATO’s door. He’s trying the window",
+          "summary": "Also expect more nuclear threats. Putin has been rattling that saber for the past four years, mostly through the public pronouncements.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/16/557210.JPG",
+          "article_url": "https://www.japantimes.co.jp/commentary/2026/08/16/world/putin-breaking-down-natos-door/",
+          "published_at": "Sun, 16 Aug 2026 19:25:00 +0900",
+          "cross_sections": []
+        },
+        {
+          "id": "amFwYW50aW1lcy1pcmFuaWFu",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Iranian parliament votes to further criminalize interviews with ‘hostile media’",
+          "summary": "Interviews with other foreign media would require notification ⁠to the intelligence ministry.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/16/557602.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/08/16/world/iran-foreign-media-laws/",
+          "published_at": "Sun, 16 Aug 2026 19:07:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "amFwYW50aW1lcy3igJhub3Jt",
           "source_id": "japantimes",
           "source_name": "The Japan Times",
@@ -4262,38 +4404,6 @@
           "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/16/557183.jpg",
           "article_url": "https://www.japantimes.co.jp/community/2026/08/16/voices/russian-diaspora-anti-war-protests/",
           "published_at": "Sun, 16 Aug 2026 16:43:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy1zZWJhc3Rp",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Sebastian Coe says LA 28 organizers have to find right balance with U.S. government",
-          "summary": "\"The balance is keeping the politicians on the bus, but not letting them anywhere near the steering wheel,\" Coe said.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/16/557460.jpg",
-          "article_url": "https://www.japantimes.co.jp/olympics/2026/08/16/coe-los-angeles-olympics/",
-          "published_at": "Sun, 16 Aug 2026 16:36:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy1mb3JtdWxh",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Formula E aiming to have female drivers within two to three years",
-          "summary": "Formula E has featured three female competitors — ⁠one more than in 76 years of the Formula One championship.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/16/557577.jpg",
-          "article_url": "https://www.japantimes.co.jp/sports/2026/08/16/more-sports/forumulae-adding-female-drivers/",
-          "published_at": "Sun, 16 Aug 2026 16:35:00 +0900",
           "cross_sections": [
             "tech"
           ]
@@ -4502,6 +4612,20 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YWxqYXplZXJhLWJlbGdpdW3i",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Belgium’s largest wildfire on record spreads towards German border",
+          "summary": "Largest recorded wildfire in Belgium forces 600 residents to evacuate as blaze spreads towards German border towns.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss",
+          "published_at": "Sun, 16 Aug 2026 12:35:31 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "YWxqYXplZXJhLeKAmHNwZWFy",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
@@ -4602,20 +4726,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXRoZS1wb3N0",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "The post-Hormuz era offers Africa a great opportunity",
-          "summary": "But to capture its benefits, the continent needs to develop an effective, common maritime policy.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/opinions/2026/8/16/the-post-hormuz-era-offers-africa-a-great-opportunity?traffic_source=rss",
-          "published_at": "Sun, 16 Aug 2026 10:09:32 +0000",
-          "cross_sections": []
         }
       ]
     },
@@ -4799,7 +4909,7 @@
         {
           "id": "venturebeat",
           "name": "VentureBeat",
-          "count": 7
+          "count": 6
         },
         {
           "id": "cnbctech",
@@ -4861,6 +4971,11 @@
           "count": 24
         },
         {
+          "id": "euronews",
+          "name": "Euronews",
+          "count": 8
+        },
+        {
           "id": "dw",
           "name": "DW News",
           "count": 13
@@ -4919,6 +5034,215 @@
       "icon": "💻",
       "articles": [
         {
+          "id": "dmVudHVyZWJlYXQtZGVlcHNl",
+          "source_id": "venturebeat",
+          "source_name": "VentureBeat",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "DeepSeek's top-ranked V4 Flash stumbles on real agent tasks as its prices surge",
+          "summary": "DeepSeek's V4 Flash has topped model leaderboards and been hailed by developers as a \"total monster\" since its rollout. But in real-world testing, it completed just 53.8% of a batch of complex agent tasks. \nComposio ran the model through eight different agent harnesses, including Claude Code, Codex,",
+          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/YO11rLoN8OR9ZKXk99L3g/102fc5f215a65b1851a46b1309831c15/DeepSeek.png?w=300&q=30",
+          "article_url": "https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-real-agent-tasks-as-its-prices-surge",
+          "published_at": "Sun, 16 Aug 2026 13:00:00 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtbW90aGVyLXNv",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Mother-son duo who allegedly killed two women for gold arrested",
+          "summary": "The woman confessed during questioning that she had watched crime-related fiction and online content to understand how murders were committed and bodies disposed of, police said.",
+          "image_url": "https://th-i.thgim.com/public/news/national/telangana/x990sg/article71352671.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-16%20at%2016.47.59.jpeg",
+          "article_url": "https://www.thehindu.com/news/national/telangana/mother-son-duo-who-allegedly-killed-two-women-for-gold-arrested/article71352673.ece",
+          "published_at": "Sun, 16 Aug 2026 18:29:30 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtY2l2aWwtcG9s",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Civil police recruitment exam: 141 OMR sheets go missing from Vijayapura exam centre",
+          "summary": "KEA has written to the Deputy Commissioner and Chief Superintendent of Examinations, Vijayapura District, seeking a detailed report on the incident",
+          "image_url": "https://th-i.thgim.com/public/incoming/phn022/article71352872.ece/alternates/LANDSCAPE_1200/KEA-named-recruGN5GBHV8F.3.jpg.jpg",
+          "article_url": "https://www.thehindu.com/news/national/karnataka/civil-police-recruitment-exam-141-omr-sheets-go-missing-from-vijayapura-exam-centre/article71345257.ece",
+          "published_at": "Sun, 16 Aug 2026 18:28:40 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtYmFkbWludG9u",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Badminton Worlds: Indian hopes rest on Sindhu, Satwik-Chirag pair",
+          "summary": "Ayush takes on defending champion Shi in the opening round; Lakshya attempts to script history",
+          "image_url": "https://th-i.thgim.com/public/incoming/ormafs/article71352786.ece/alternates/LANDSCAPE_1200/52_Badminton_World_Championship_16_08_Delhi.jpg",
+          "article_url": "https://www.thehindu.com/sport/other-sports/badminton-worlds-indian-hopes-rest-on-sindhu-satwik-chirag-pair/article71352618.ece",
+          "published_at": "Sun, 16 Aug 2026 18:26:32 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtZnNzYWktc2F5",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "FSSAI says 6 food companies rectified misleading claims, trade marks after its crackdown",
+          "summary": "In a social media post, the Food Safety and Standards Authority of India (FSSAI) informed that six Food Business Operators (FBOs) have taken prompt corrective actions following notices from the regulator",
+          "image_url": "https://th-i.thgim.com/public/incoming/pf09fb/article71352843.ece/alternates/LANDSCAPE_1200/FSSAI-takes-actG13GC8OKQ.4.jpg.jpg",
+          "article_url": "https://www.thehindu.com/news/national/fssai-says-6-food-companies-rectified-misleading-claims-trade-marks-after-its-crackdown/article71352810.ece",
+          "published_at": "Sun, 16 Aug 2026 18:26:12 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLWh1cnJpY2FuZS1sYWxh",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
+          "summary": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/995d/live/6816b320-9944-11f1-a7ab-8b30adf0800a.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 16 Aug 2026 12:53:43 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtbnRwYy1rYXlh",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "NTPC Kayamkulam celebrates Independence Day",
+          "summary": "Krishnakali Sinha, president of the Navjyothi Ladies Club, appreciated the role of NTPC Kayamkulam in generating renewable energy through its floating solar plant",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/national/kerala/ntpc-kayamkulam-celebrates-independence-day/article71352696.ece",
+          "published_at": "Sun, 16 Aug 2026 18:23:28 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtY2hhbW9saS10",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Chamoli tunnel flooding: Rescue operation continues for two trapped workers",
+          "summary": "Rescue operations continue for two workers trapped inside the flooded THDC tunnel in Uttarakhand’s Chamoli district. SDRF officials said slush, debris and darkness inside the tunnel are hampering the search, while Chief Minister Pushkar Singh Dhami has ordered a magisterial inquiry into the incident",
+          "image_url": "https://th-i.thgim.com/public/videos/hyfdkz/article71352849.ece/alternates/LANDSCAPE_1200/_chamoli.png",
+          "article_url": "https://www.thehindu.com/videos/chamoli-tunnel-flooding-rescue-operation-continues-for-two-trapped-workers/article71352858.ece",
+          "published_at": "Sun, 16 Aug 2026 18:22:19 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLWluZC12cy1zbDotdGhl",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "IND vs SL: The ninety minutes! Moving day comes early in gloomy Galle",
+          "summary": "A rain-hit Day 2 in Galle turned into a frantic 90 minutes as Sri Lanka's bowlers struck in quick succession, dismissing India's overnight batters and bringing the hosts back into the contest. Devdutt Padikkal's 167 and a crucial lower-order stand kept India in control, but the pitch is beginning to",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/the-ninety-minutes-moving-day-comes-early-in-gloomy-galle/articleshow/133275702.cms",
+          "published_at": "Sun, 16 Aug 2026 18:17:14 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLW11cmRlci1pbnF1aXJ5",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Murder inquiry after man bitten by dog dies",
+          "summary": "Police appeal for two people who stopped to help the victim in Wakefield to come forward.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d939/live/b9a45410-996f-11f1-aaab-c702cc6b4645.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 16 Aug 2026 12:36:11 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LXllYXJzLW9mLXRydW1w",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Years of Trump Support Came Undone in 15 Minutes in an Airport.",
+          "summary": "The case represents a new front in President Trump’s mass deportation drive: arrests at airports of people who have active immigration cases and no criminal history.",
+          "image_url": "https://static01.nyt.com/images/2026/08/11/multimedia/00nat-immig-backfire-1-vhcm/00nat-immig-backfire-1-vhcm-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/16/us/trump-immigration-crackdown.html",
+          "published_at": "Sun, 16 Aug 2026 12:30:43 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLWNqcC1jbGFpbXMtcXVl",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "CJP claims questions on youth protests, NEET, police action disallowed in Lok Sabha",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/cjp-claims-questions-on-youth-protests-neet-police-action-disallowed-in-lok-sabha/articleshow/133275261.cms",
+          "published_at": "Sun, 16 Aug 2026 17:56:47 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLXdhdGNoOi1iYmMtdmlz",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
+          "summary": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ef6/live/8e3c33a0-9966-11f1-a7ab-8b30adf0800a.jpg",
+          "article_url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 16 Aug 2026 12:18:09 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "bmR0di0nZmxpZXItc2FpZC1n",
           "source_id": "ndtv",
           "source_name": "NDTV",
@@ -4949,54 +5273,6 @@
           "cross_sections": [
             "tech",
             "ai"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtZGluZGlndWwt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Dindigul reader’s mail",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/cities/Madurai/dindigul-readers-mail/article71352522.ece",
-          "published_at": "Sun, 16 Aug 2026 17:28:03 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YmJjLW11cmRlci1pbnF1aXJ5",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Murder inquiry after man bitten by dog dies",
-          "summary": "Police appeal for two people who stopped to help the victim in Wakefield to come forward.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e391/live/460fff80-996b-11f1-aaab-c702cc6b4645.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 16 Aug 2026 11:57:41 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtcmF1dC1kZWZl",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Raut defends Rahul over his remarks against Amit Shah",
-          "summary": "The Lok Sabha secretariat has sought a response from Rahul Gandhi to two separate complaints of \"breach of privilege\" filed by BJP MPs Anurag Thakur and Sanjay Jaiswal for his remarks against Amit Shah during a debate on the anti-paper leak bill",
-          "image_url": "https://th-i.thgim.com/public/incoming/2wrl7e/article71352662.ece/alternates/LANDSCAPE_1200/PTI01_05_2026_000359B.jpg",
-          "article_url": "https://www.thehindu.com/news/national/raut-defends-rahul-over-his-remarks-against-amit-shah/article71352650.ece",
-          "published_at": "Sun, 16 Aug 2026 17:25:58 +0530",
-          "cross_sections": [
-            "tech"
           ]
         },
         {
@@ -5065,54 +5341,6 @@
           ]
         },
         {
-          "id": "dG9pLSdodW1hbi1jb3N0LW9m",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "'Human cost of relentless political hostility': Mamata on TMC leader's suicide",
-          "summary": "The former West Bengal CM Mamata Banerjee claimed that Asish Banerjee was \"repeatedly maligned, falsely accused and subjected to relentless pressure\". She said: The harassment and mental pressure he faced, despite his long record of public service, should make all of us pause and reflect on the huma",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/human-cost-of-relentless-political-hostility-mamata-banerjee-on-tmc-leaders-suicide/articleshow/133274331.cms",
-          "published_at": "Sun, 16 Aug 2026 17:09:28 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtd2VzdC1hc2lh",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "West Asia war LIVE: Israel vows to go after Hezbollah as it names another killed",
-          "summary": "Israeli strikes on August 15 killed 11 people in southern Lebanon, according to authorities, in the deadliest attacks since a deal was reached in June aimed at ending hostilities",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/international/iran-us-west-asia-war-strait-of-hormuz-donald-trump-live-updates-on-august-16-2026/article71351835.ece",
-          "published_at": "Sun, 16 Aug 2026 17:07:34 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUta2VyYWxhLXBv",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Kerala police are investigating Instagram and YouTube 'educational channels' that offer test-paper clues to lure anxious school students taking Onam mid-term examinations",
-          "summary": "An estimated 40 lakh school students  are taking the Onam examinations, which will conclude on August 20. On August 16, the General Education department petitioned State Police Chief to conduct a detailed criminal inquiry into Instagram and YouTube channels that lure students by promising definitive",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/kerala/kerala-police-are-investigating-instagram-and-youtube-educational-channels-that-offer-test-paper-clues-to-lure-anxious-school-students-taking-onam-mid-term-examinations/article71352558.ece",
-          "published_at": "Sun, 16 Aug 2026 17:06:06 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "YmJjLWV1cm9wZSdzLXRhbGxl",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -5140,22 +5368,6 @@
           "image_url": null,
           "article_url": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss",
           "published_at": "Sun, 16 Aug 2026 11:14:23 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLXVwLW9mZmljZXJzLWlu",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "UP officers invoke Bhagat Singh, Buddha to explain duty, justice and use of force",
-          "summary": "During the Independence Day celebrations in Uttar Pradesh, two officers reflected on public service and the importance of accountability. One officer referenced Bhagat Singh to address the frustrations surrounding the justice system's inefficiencies. The other drew from a Gautama Buddha story to dis",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/city/lucknow/up-officers-invoke-bhagat-singh-buddha-to-explain-duty-justice-and-use-of-force/articleshow/133273921.cms",
-          "published_at": "Sun, 16 Aug 2026 16:37:22 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5257,6 +5469,22 @@
           ]
         },
         {
+          "id": "dG9pLXBhZGlra2FsLWZhbGxz",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Padikkal falls for 167, joins Dravid and Pujara in Sri Lanka record list",
+          "summary": "Devdutt Padikkal's remarkable 150-run milestone during a rain-interrupted Test match highlights his growing prowess as a cricketer. He joins the elite ranks of Rahul Dravid and Cheteshwar Pujara with this achievement from the number three position. The match faced multiple delays due to weather, and",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/sports/cricket/news/devdutt-padikkal-falls-for-167-joins-rahul-dravid-and-chetashwar-pujara-in-sri-lanka-record-list/articleshow/133273452.cms",
+          "published_at": "Sun, 16 Aug 2026 16:01:14 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "d2lyZWQtc29tZW9uZS1maW5h",
           "source_id": "wired",
           "source_name": "Wired",
@@ -5300,6 +5528,22 @@
           "image_url": "https://c.ndtvimg.com/2026-08/s1fquhak_gen-z-job-crisis_625x300_14_August_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
           "article_url": "https://www.ndtv.com/india-news/gen-z-job-crisis-india-youth-unemployment-economy-neet-protest-education-11909735#publisher=newsstand",
           "published_at": "Sun, 16 Aug 2026 15:46:34 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy1pcmFuaWFu",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Iranian parliament votes to further criminalize interviews with ‘hostile media’",
+          "summary": "Interviews with other foreign media would require notification ⁠to the intelligence ministry.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/16/557602.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/08/16/world/iran-foreign-media-laws/",
+          "published_at": "Sun, 16 Aug 2026 19:07:00 +0900",
           "cross_sections": [
             "tech"
           ]
@@ -5417,22 +5661,6 @@
           ]
         },
         {
-          "id": "bnl0LWhlLXdhcy1hLW1hZ2Et",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "He Was a MAGA Patriot. ICE Took His Wife Away.",
-          "summary": "The case represents a new front in President Trump’s mass deportation drive: arrests at airports of people who have active immigration cases and no criminal history.",
-          "image_url": "https://static01.nyt.com/images/2026/08/11/multimedia/00nat-immig-backfire-1-vhcm/00nat-immig-backfire-1-vhcm-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/16/us/trump-immigration-crackdown.html",
-          "published_at": "Sun, 16 Aug 2026 09:01:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bnl0LXRoZS11LnMuLW1pbGl0",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -5444,118 +5672,6 @@
           "image_url": "https://static01.nyt.com/images/2026/08/15/multimedia/15dc-trump-ai-kgfl/15dc-trump-ai-kgfl-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html",
           "published_at": "Sun, 16 Aug 2026 09:00:49 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LXRydW1w4oCZcy1vdGhl",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Trump’s Other Hold on the Americas: The Visa",
-          "summary": "As part of its expansionist approach to the Western Hemisphere, the Trump administration is trying to reassert its dominance, one U.S. visa at a time.",
-          "image_url": "https://static01.nyt.com/images/2026/08/05/multimedia/00int-latam-visas-vbmq/00int-latam-visas-vbmq-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/16/world/americas/trump-americas-visas.html",
-          "published_at": "Sun, 16 Aug 2026 09:00:11 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YmJjLWh1cnJpY2FuZS1sYWxh",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
-          "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/995d/live/6816b320-9944-11f1-a7ab-8b30adf0800a.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 16 Aug 2026 08:49:32 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LWNob2xlcmEtb3V0YnJl",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City",
-          "summary": "Civil war and military rule have weakened Myanmar’s health care system, while heavy monsoon rains have increased the risk of waterborne disease.",
-          "image_url": "https://static01.nyt.com/images/2026/08/16/multimedia/16int-myanmar-cholera-vcmj/16int-myanmar-cholera-vcmj-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/16/world/asia/cholera-outbreak-yangon-myanmar.html",
-          "published_at": "Sun, 16 Aug 2026 08:44:45 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLXVzLWltbWlncmF0aW9u",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "US immigration authority: These forms will be rejected from September 15",
-          "summary": "USCIS will introduce new editions of immigration forms I-539 and I-765. These revised forms will be effective starting September 15, 2026. Applications submitted using older forms after this date will be rejected. This change aligns with a recently published immigration rule. USCIS emphasizes there ",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/technology/tech-news/us-immigration-authority-to-h1-b-visa-holders-students-and-other-visa-holders-these-forms-will-be-rejected-starting-september-15/articleshow/133272195.cms",
-          "published_at": "Sun, 16 Aug 2026 13:59:56 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1ydXNzaWFuLWVzY29y",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Russian Escort Planted Trash Bin Bomb That Killed Ukrainian Defector: Report",
-          "summary": "Margarita Reut have been accused of carrying out the attack that killed Robert Shageev, a high-ranking Ukrainian defector who later served as an officer in the Kremlin's Black Sea Fleet.",
-          "image_url": "https://c.ndtvimg.com/2026-08/hu7q3bc_robert-shageev-margarita-reut_625x300_16_August_26.jpeg",
-          "article_url": "https://www.ndtv.com/world-news/robert-shageev-margarita-reut-russia-ukraine-war-russian-escort-planted-trash-bin-bomb-that-killed-ukrainian-defector-report-11916335#publisher=newsstand",
-          "published_at": "Sun, 16 Aug 2026 13:55:57 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy3igJhub3Jt",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "‘Normal guy’ turned killer over U.S. insurance industry grievances",
-          "summary": "The case laid bare deep frustration and anger with America's privatized medical system that Mangione said failed him after a back injury.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/16/557597.JPG",
-          "article_url": "https://www.japantimes.co.jp/news/2026/08/16/world/crime-legal/luigi-mangione-killer-us-insurance/",
-          "published_at": "Sun, 16 Aug 2026 17:18:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy1sYWtlcnMt",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Lakers sale highlights sports gold rush among billionaires in North America",
-          "summary": "The Lakers deal is the latest in a series of team sales at record or near-record prices across ⁠North America.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/16/557475.jpg",
-          "article_url": "https://www.japantimes.co.jp/sports/2026/08/16/basketball/lakers-gold-rush-north-america/",
-          "published_at": "Sun, 16 Aug 2026 17:03:00 +0900",
           "cross_sections": [
             "tech"
           ]
@@ -5591,6 +5707,23 @@
       "name": "LLM & AI",
       "icon": "🤖",
       "articles": [
+        {
+          "id": "dmVudHVyZWJlYXQtZGVlcHNl",
+          "source_id": "venturebeat",
+          "source_name": "VentureBeat",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "DeepSeek's top-ranked V4 Flash stumbles on real agent tasks as its prices surge",
+          "summary": "DeepSeek's V4 Flash has topped model leaderboards and been hailed by developers as a \"total monster\" since its rollout. But in real-world testing, it completed just 53.8% of a batch of complex agent tasks. \nComposio ran the model through eight different agent harnesses, including Claude Code, Codex,",
+          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/YO11rLoN8OR9ZKXk99L3g/102fc5f215a65b1851a46b1309831c15/DeepSeek.png?w=300&q=30",
+          "article_url": "https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-real-agent-tasks-as-its-prices-surge",
+          "published_at": "Sun, 16 Aug 2026 13:00:00 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
         {
           "id": "dGhldmVyZ2Utcm9ndWUtYWkt",
           "source_id": "theverge",
@@ -5879,23 +6012,6 @@
           ]
         },
         {
-          "id": "dG9pLW1hY2tlbnppZS1zY290",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "MacKenzie Scott helped abolish $40B in medical debt; how mechanics work",
-          "summary": "MacKenzie Scott's donations have enabled medical debt abolition across America. Her model allows acquiring debt at low costs and then forgiving it. This approach has inspired other billionaires to contribute millions to similar causes. While philanthropic efforts are scaling, policy reforms for medi",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-has-helped-abolish-40-billion-in-medical-debt-how-mechanics-work/articleshow/133240371.cms",
-          "published_at": "Fri, 14 Aug 2026 17:17:21 +0530",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "Y29tcHV0ZXJ3b3JsZC1hcHBs",
           "source_id": "computerworld",
           "source_name": "Computerworld",
@@ -5980,23 +6096,6 @@
           ]
         },
         {
-          "id": "dmVudHVyZWJlYXQtZGVlcHNl",
-          "source_id": "venturebeat",
-          "source_name": "VentureBeat",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "DeepSeek Harness launches as open source rival to Claude Code, alongside V4-Pro on API with higher prices",
-          "summary": "DeepSeek is expanding beyond the model layer and deeper into the software developers use to put AI agents to work.\nThe Chinese AI lab on Thursday launched the official version of DeepSeek-V4-Pro, an updated flagship model focused heavily on agentic workloads, alongside DeepSeek Harness v0.1, a new o",
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6hFdhAgllY0UvaVpl6BmLa/d6e4fff99189904b4a8a9f037e1fbb83/43530361-2311-45E8-BCF9-8DF972A298D8.png?w=300&q=30",
-          "article_url": "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices",
-          "published_at": "Thu, 13 Aug 2026 16:47:55 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "Y25iYy0nYmlnLXNob3J0Jy1p",
           "source_id": "cnbc",
           "source_name": "CNBC",
@@ -6025,23 +6124,6 @@
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7gbhCwja5N985q8VOA85UE/c8f8683d5ba63276b672c9312ece355e/2026-VB-Transform-Hotel-Nia-0089-X5.jpg?w=300&q=30",
           "article_url": "https://venturebeat.com/orchestration/why-capital-one-built-its-multi-agent-ai-platform-around-open-weight-models",
           "published_at": "Thu, 13 Aug 2026 14:00:00 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "dmVudHVyZWJlYXQtd3JpdGVy",
-          "source_id": "venturebeat",
-          "source_name": "VentureBeat",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Writer says its new Palmyra X6 model cuts AI agent costs by 52% as token spending surges",
-          "summary": "Writer, the enterprise AI agent platform used by Fortune 500 companies including Accenture, Uber, and Vanguard, released its new flagship model Palmyra X6 today, alongside a rebuilt agent orchestration \"harness\" and new governance tools designed to give IT leaders control over runaway token spending",
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6Zxh3IXctblxveNWHWZSCq/a0b7dbc4fc6a943d1191a203a4451255/Nuneybits_Vector_art_of_a_typewriter_printing_cheaper_faster_go_9a122ae4-9f67-48ad-adfe-0bf7d102809e.webp?w=300&q=30",
-          "article_url": "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges",
-          "published_at": "Thu, 13 Aug 2026 13:00:00 GMT",
           "cross_sections": [
             "tech",
             "ai"
@@ -6136,7 +6218,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 9204,
+    "build_ms": 9942,
     "ai_enabled": true
   }
 }
