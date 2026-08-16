@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-16T20:55:47.921Z",
-  "total_articles": 301,
-  "new_this_run": 13,
+  "last_updated": "2026-08-16T21:10:17.205Z",
+  "total_articles": 299,
+  "new_this_run": 22,
   "sources": [
     {
       "id": "techcrunch",
@@ -9,6 +9,22 @@
       "region": "IT Focus",
       "category": "Tech Media",
       "articles": [
+        {
+          "id": "dGVjaGNydW5jaC1zdHJpcGUt",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+          "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+          "published_at": "Sun, 16 Aug 2026 20:57:04 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "dGVjaGNydW5jaC13aHktcGVv",
           "source_id": "techcrunch",
@@ -102,22 +118,6 @@
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
           "published_at": "Sat, 15 Aug 2026 16:10:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1ldmVyeS1m",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Every fusion startup that has raised over $100M",
-          "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
-          "published_at": "Sat, 15 Aug 2026 13:15:20 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -1770,7 +1770,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-08-16T20:55:40.095Z",
+          "published_at": "2026-08-16T21:10:09.085Z",
           "cross_sections": []
         },
         {
@@ -1784,7 +1784,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-08-16T20:55:40.095Z",
+          "published_at": "2026-08-16T21:10:09.085Z",
           "cross_sections": []
         },
         {
@@ -1798,7 +1798,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-08-16T20:55:40.095Z",
+          "published_at": "2026-08-16T21:10:09.085Z",
           "cross_sections": []
         },
         {
@@ -2138,20 +2138,6 @@
           "cross_sections": []
         },
         {
-          "id": "Y25iYy10b3Atd2FsbC1zdHJl",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Top Wall Street analysts like these 3 dividend stocks for steady income",
-          "summary": "Investors looking for steady income can add dividend-paying energy stocks to their portfolios.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/16/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
-          "published_at": "Sun, 16 Aug 2026 11:58:15 GMT",
-          "cross_sections": []
-        },
-        {
           "id": "Y25iYy1zZWNyZXQtb3V0cGVy",
           "source_id": "cnbc",
           "source_name": "CNBC",
@@ -2196,6 +2182,20 @@
           "cross_sections": [
             "ai"
           ]
+        },
+        {
+          "id": "Y25iYy1hb2Mtc2F5cy1zaGUn",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "AOC says she's been saving up to freeze her eggs. Here's how much the procedure can cost",
+          "summary": "AOC is highlighting the cost of freezing her eggs. Here's what to know about health insurance coverage, state laws and taxes associated with the process.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/15/aoc-egg-freezing-costs-insurance-taxes.html",
+          "published_at": "Sat, 15 Aug 2026 14:35:01 GMT",
+          "cross_sections": []
         },
         {
           "id": "Y25iYy1kZXBsZXRlZC1zdHJh",
@@ -3323,125 +3323,93 @@
       "category": "Broadcaster",
       "articles": [
         {
-          "id": "ZXVyb25ld3MtbWFlcnNrLWJy",
+          "id": "ZXVyb25ld3MtbGF0ZXN0LW5l",
           "source_id": "euronews",
           "source_name": "Euronews",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Maersk brings back another shipping service through Suez, but wider return remains distant",
-          "summary": "The latest move is part of a cautious return to the Suez Canal, with four Maersk services switching back since early July, the most recent in mid-August, while nine others continue to sail around Africa.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/31/15/696x392_cmsv2_3efeeac5-d634-5e7b-b685-388c3fe60d48-9873115.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/14/maersk-returns-another-asia-europe-service-through-suez-but-wider-return-remains-distant",
-          "published_at": "Fri, 14 Aug 2026 15:20:22 +0200",
+          "feed_label": "News",
+          "title": "Latest news bulletin | August 16th, 2026 – Evening",
+          "summary": "Catch up with the most important stories from around Europe and beyond this August 16th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/63/26/696x392_cmsv2_35c0eb4f-1b09-56dd-8b87-9a5e186bcea0-9876326.jpg",
+          "article_url": "http://www.euronews.com/video/2026/08/16/latest-news-bulletin-august-16th-2026-evening",
+          "published_at": "Sun, 16 Aug 2026 18:00:29 +0200",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "ZXVyb25ld3MtZnVlbC1wcmlj",
+          "id": "ZXVyb25ld3Mtd29ybGTigJlz",
           "source_id": "euronews",
           "source_name": "Euronews",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Fuel prices: study says there is no \"profiteering by operators\"",
-          "summary": "An ERSE study found that in the first seven months of 2026 domestic prices broadly followed international costs, with no \"evidence of profiteering by operators\". Fuel prices are set to soar again next week.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/44/78/696x392_cmsv2_6525627f-2d40-5908-8393-21cf818ed299-9874478.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/14/fuel-prices-study-says-there-is-no-profiteering-by-operators",
-          "published_at": "Fri, 14 Aug 2026 15:05:18 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtdHJ1bXAtaW1w",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Trump imposes drone tariffs of up to 100% with a lower rate for the EU and UK",
-          "summary": "US President Donald Trump has imposed tariffs of up to 100% on imported drones and their components, with EU manufacturers facing a preferential rate of 15% and British firms 10%, in a measure meant to rebuild American production of a technology central to modern warfare.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/44/12/696x392_cmsv2_8780869d-556e-5936-97aa-69bf31cbae6f-9874412.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/14/trump-imposes-drone-tariffs-of-up-to-100-with-a-lower-rate-for-the-eu-and-uk",
-          "published_at": "Fri, 14 Aug 2026 12:45:07 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtdWJlci1hbmQt",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Uber and China’s Pony AI to launch over 2,000 robotaxis across Europe",
-          "summary": "The expanded partnership with blend a mobility platform, fleet management capacity and autonomous driving technology.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/41/01/696x392_cmsv2_03c5f02c-4724-5310-b98a-1e753dd8322b-9874101.jpg",
-          "article_url": "http://www.euronews.com/next/2026/08/14/uber-and-chinas-pony-ai-to-launch-over-2000-robotaxis-across-europe",
-          "published_at": "Fri, 14 Aug 2026 10:58:25 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtYnAtcmV0dXJu",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "BP returns to Venezuela with Gulf partners as post-Maduro energy opening speeds up",
-          "summary": "Venezuela has awarded BP a licence to develop the offshore Loran gas field alongside state-backed partners from the UAE and Qatar, marking the British company's return to a country whose energy sector has been reopening to foreign investors since US forces captured Nicolás Maduro.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/42/24/696x392_cmsv2_52859e51-2fe1-5b52-ab64-3cb3aa4fab1f-9874224.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/14/bp-returns-to-venezuela-with-gulf-partners-as-post-maduro-energy-opening-speeds-up",
-          "published_at": "Fri, 14 Aug 2026 10:54:18 +0200",
+          "feed_label": "News",
+          "title": "World’s Ugliest Dog contest crowns its 2026 winner",
+          "summary": "Jinny Lu, a rescued pug originally from South Korea, has won the 50th annual World’s Ugliest Dog Contest in Santa Rosa, California.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/62/01/696x392_cmsv2_b058fe06-2593-59a8-bf90-8bc25ba365b8-9876201.jpg",
+          "article_url": "http://www.euronews.com/video/2026/08/16/worlds-ugliest-dog-contest-crowns-its-2026-winner",
+          "published_at": "Sun, 16 Aug 2026 14:27:48 +0200",
           "cross_sections": []
         },
         {
-          "id": "ZXVyb25ld3MtYmF0dGVyeS1v",
+          "id": "ZXVyb25ld3MtY29yZ2lzLXJh",
           "source_id": "euronews",
           "source_name": "Euronews",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Battery-only electric cars on the rise in Europe: Which countries lead?",
-          "summary": "The share of newly registered battery-only electric passenger cars is rising significantly in many European countries, but their share of the total car fleet remains very low in many countries.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/29/30/696x392_cmsv2_dbe4ee3c-1369-5c5d-88ff-1a1134f816d2-9872930.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/14/battery-only-electric-cars-are-on-the-rise-in-europe-which-countries-lead",
-          "published_at": "Fri, 14 Aug 2026 10:08:15 +0200",
+          "feed_label": "News",
+          "title": "Corgis race, bark and dress up at quirky competition in Vilnius",
+          "summary": "Around 150 corgis from nine countries gathered in Vilnius for a day of races, agility challenges and costume contests, with US-owned corgi “GG” taking the 2026 title.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/61/72/696x392_cmsv2_b4d399ee-21cf-504e-832d-ea5be12738f6-9876172.jpg",
+          "article_url": "http://www.euronews.com/video/2026/08/16/corgis-race-bark-and-dress-up-at-quirky-competition-in-vilnius",
+          "published_at": "Sun, 16 Aug 2026 14:01:39 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtdGFsaWJhbi1t",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Taliban mark five-year anniversary of regaining power in Afghanistan",
+          "summary": "Hundreds of supporters gathered outside the former US embassy, with flowers thrown down from military helicopters.  Critics of the Taliban, however, fear worsening human rights abuses.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/59/82/696x392_cmsv2_8f114dd6-089c-5d66-a0af-3203b0e54649-9875982.jpg",
+          "article_url": "http://www.euronews.com/2026/08/16/taliban-mark-five-year-anniversary-of-regaining-power-in-afghanistan",
+          "published_at": "Sun, 16 Aug 2026 13:57:24 +0200",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "ZXVyb25ld3Mtd2h5LWRvLXdv",
+          "id": "ZXVyb25ld3MtYXQtbGVhc3Qt",
           "source_id": "euronews",
           "source_name": "Euronews",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Why do women need 12 times their salary to buy a home, when men need only eight?",
-          "summary": "A consistent pay gap and more difficulties in saving for a deposit compared to men are some of the factors holding women back from home ownership.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/29/88/696x392_cmsv2_1782308c-026c-552d-bedf-aa207b57552c-9872988.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/13/why-do-women-need-12-times-their-salary-to-buy-a-home-when-men-need-only-eight",
-          "published_at": "Thu, 13 Aug 2026 14:33:29 +0200",
-          "cross_sections": []
+          "feed_label": "News",
+          "title": "At least 12 people killed in Polish tourist bus crash in Hungary",
+          "summary": "The driver was detained and media quoted police as saying he had fallen asleep at the wheel when the bus crashed.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/59/51/696x392_cmsv2_0a6908b4-e0b3-52e0-9e53-9922ca258d3c-9875951.jpg",
+          "article_url": "http://www.euronews.com/2026/08/16/at-least-12-people-killed-in-a-polish-tourist-bus-crash-in-hungary",
+          "published_at": "Sun, 16 Aug 2026 09:22:21 +0200",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
-          "id": "ZXVyb25ld3Mtd2hhdC1pcy10",
+          "id": "ZXVyb25ld3MtZXVyb3Bl4oCZ",
           "source_id": "euronews",
           "source_name": "Euronews",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "What is Truth API? The $100,000 feed that has landed Trump a lawsuit",
-          "summary": "Two press organisations have asked a Manhattan federal court to shut down Truth API, the service launched this month that sells Wall Street firms faster access to US President Donald Trump's Truth Social posts for up to $100,000 a month.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/27/21/696x392_cmsv2_d338d0d5-d456-50bb-82ac-21d9425bbd2d-9872721.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/13/what-is-truth-api-the-100000-feed-that-has-landed-trump-a-lawsuit",
-          "published_at": "Thu, 13 Aug 2026 12:28:11 +0200",
+          "feed_label": "News",
+          "title": "Europe’s tallest Virgin Mary statue unveiled in Polish village",
+          "summary": "A 55.6-metre Virgin Mary statue has been inaugurated in a small Polish village, with hundreds attending a ceremony featuring a Mass, traditional music and helicopters scattering rose petals.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/58/26/696x392_cmsv2_7e78b3b9-82d4-54c2-a62f-a4de1869655a-9875826.jpg",
+          "article_url": "http://www.euronews.com/video/2026/08/15/europes-tallest-virgin-mary-statue-unveiled-in-polish-village",
+          "published_at": "Sat, 15 Aug 2026 21:59:30 +0200",
           "cross_sections": []
         }
       ]
@@ -4012,6 +3980,50 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dGhlaGluZHUtYWZ0ZXItamhh",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "After Jharkhand protesters burn Soren, Rahul effigies, State Government calls for fourth round of talks",
+          "summary": "Protesters say Congress had promised to withdraw support from the JMM-led regime if the demand for a CBI probe was not addressed by August 15",
+          "image_url": "https://th-i.thgim.com/public/incoming/z72ghz/article71353938.ece/alternates/LANDSCAPE_1200/PTI08_16_2026_000487A.jpg",
+          "article_url": "https://www.thehindu.com/news/national/jharkhand/after-jharkhand-protesters-burn-soren-rahul-effigies-state-government-calls-them-for-fourth-round-of-talks/article71353578.ece",
+          "published_at": "Mon, 17 Aug 2026 02:27:15 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtamhhcmtoYW5k",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Jharkhand exam stir: Protesters announce CM residence gherao on August 20 to seek Hemant Soren’s resignation",
+          "summary": "The students accuse JMM-Congress of playing politics; ask Congress to withdraw support from JMM-led coalition",
+          "image_url": "https://th-i.thgim.com/public/incoming/izhxiz/article71350762.ece/alternates/LANDSCAPE_1200/PTI08_15_2026_000703A.jpg",
+          "article_url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-students-demand-congress-to-withdraw-support-from-jmm-coalition-cm-sorens-resignation/article71350761.ece",
+          "published_at": "Mon, 17 Aug 2026 02:19:16 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtY2lzZi1vZmZp",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "CISF official confronted in Delhi Metro for photographing woman; suspended",
+          "summary": "CISF Delhi Metro has said that the concerned personnel has been placed under suspension with immediate effect, and a detailed inquiry has been ordered",
+          "image_url": "https://th-i.thgim.com/public/incoming/hhljxa/article71353932.ece/alternates/LANDSCAPE_1200/two%20frame%208.jpg",
+          "article_url": "https://www.thehindu.com/news/cities/Delhi/cisf-official-confronted-in-delhi-metro-for-photographing-woman-suspended/article71353931.ece",
+          "published_at": "Mon, 17 Aug 2026 02:02:26 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dGhlaGluZHUtd2VzdC1hc2lh",
           "source_id": "thehindu",
           "source_name": "The Hindu",
@@ -4082,54 +4094,6 @@
           "article_url": "https://www.thehindu.com/news/cities/Delhi/mcd-sanitation-worker-killed-waste-collection-vehicles-to-stay-off-roads/article71353203.ece",
           "published_at": "Mon, 17 Aug 2026 01:26:55 +0530",
           "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtc2FiYXJpLXJh",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Sabari rail project: landowners meet Minister, Chalakudy MP",
-          "summary": "A section of the landowners, whose holdings have remained effectively frozen for nearly three decades, met Higher Education Minister Roji M. John and Chalakudy MP Benny Behanan on Sunday and submitted a memorandum seeking their intervention.",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/kerala/sabari-rail-project-delay-leaves-landowners-in-limbo/article71353248.ece",
-          "published_at": "Mon, 17 Aug 2026 01:21:08 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtY29uZ3Jlc3Mt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Congress protests in Kalaburagi against ‘purification’ ritual at Kharge’s rally venue in Uttarakhand",
-          "summary": "Party leaders condemn alleged caste discrimination in Uttarakhand, burn tyres during demonstration",
-          "image_url": "https://th-i.thgim.com/public/incoming/fkmt7w/article71353381.ece/alternates/LANDSCAPE_1200/10258_16_8_2026_20_25_12_1_CONGRESS_PROTEST_AGAINST_PURIFICATION_1.JPG",
-          "article_url": "https://www.thehindu.com/news/national/karnataka/congress-protests-in-kalaburagi-against-purification-ritual-at-kharges-rally-venue-in-uttarakhand/article71353343.ece",
-          "published_at": "Mon, 17 Aug 2026 00:54:01 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUta2FybmF0YWth",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Karnataka government has failed to mitigate drought, says Kumaraswamy; opens handloom products market",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/karnataka/karnataka-government-has-failed-to-mitigate-drought-says-kumaraswamy-opens-handloom-products-market/article71353661.ece",
-          "published_at": "Mon, 17 Aug 2026 00:52:54 +0530",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "dGhlaGluZHUtbWV0YS1yZWd1",
@@ -4580,6 +4544,52 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YWxqYXplZXJhLXVzLWFkbWly",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "US admiral praises USS Lincoln crew amid reported mental health concerns",
+          "summary": "Politicians voiced alarm over mental health struggles on carrier, with reports of sailors attempting to jump overboard.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/16/us-admiral-praises-uss-lincoln-crew-amid-reported-mental-health-concerns?traffic_source=rss",
+          "published_at": "Sun, 16 Aug 2026 20:46:01 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLWJyYXppbDot",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Brazil: Lula, Bolsonaro return to strongholds to launch runs for president",
+          "summary": "Lula and Bolsonaro appeal to Brazil’s women voters with promises to combat rising femicide and gender violence.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/16/brazil-lula-bolsonaro-return-to-strongholds-to-launch-runs-for-president?traffic_source=rss",
+          "published_at": "Sun, 16 Aug 2026 20:36:32 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXVzLWlyYW4t",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "US-Iran MoU is set to expire: What to know",
+          "summary": "Both sides accused the other of violating the June agreement shortly after it was signed.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/16/us-iran-mou-is-set-to-expire-what-to-know?traffic_source=rss",
+          "published_at": "Sun, 16 Aug 2026 20:28:21 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "YWxqYXplZXJhLXNlbmVnYWzi",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
@@ -4640,53 +4650,6 @@
           "article_url": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
           "published_at": "Sun, 16 Aug 2026 19:23:28 +0000",
           "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLWZvcm1lci1p",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone",
-          "summary": "Former Israeli captive Rom Braslavski asked Ben Gvir to allow him to execute Palestinian prisoners by hanging.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss",
-          "published_at": "Sun, 16 Aug 2026 17:46:21 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLWlzcmFlbGkt",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Israeli army besieges Palestinian homes in occupied West Bank",
-          "summary": "Israeli troops have raided the village of Qusra, south of Nablus, in the occupied West Bank.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
-          "published_at": "Sun, 16 Aug 2026 17:45:52 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXdoeS1hcmUt",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Why are sandwiches more regulated than AI?",
-          "summary": "Futurist Max Tegmark wonders why sandwiches are more regulated than artificial intelligence in the US.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/16/why-are-sandwiches-more-regulated-than-ai?traffic_source=rss",
-          "published_at": "Sun, 16 Aug 2026 17:36:02 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
         }
       ]
     },
@@ -4697,128 +4660,127 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "YXJhYm5ld3MtZmluYWwtZWxl",
+          "id": "YXJhYm5ld3MtYmlyZC1mbHUt",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Final election phase begins in Pakistan-administered Kashmir despite banned group’s boycott call",
-          "summary": "MUZAFFARABAD, Pakistan: Voters went to the polls Monday in the final phase of elections for the legislative assembly in Pakistan-administered Kashmir, following weeks of violent protests and clashes with security forces that overshadowed campaigning in the disputed Himalayan region, officials said.\n",
+          "title": "Bird flu kills 13,000 seal pups on remote Australian island",
+          "summary": "SYDNEY: A pathogenic strain of bird flu killed more than 13,000 elephant seal pups after infecting a breeding colony on a sub-Antarctic volcanic island, Australian scientists said Thursday.\n\tResearchers found the remote Heard and McDonald Islands littered with seal carcasses when they arrived on a r",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654152/world",
-          "published_at": "Tue, 11 Aug 2026 12:08:09 +03",
+          "article_url": "https://www.arabnews.com/node/2647655/offbeat",
+          "published_at": "Thu, 18 Jun 2026 10:06:51 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtZW5yb2xsbWVu",
+          "id": "YXJhYm5ld3MtcmVjaXBlcy1m",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Enrollment begins at Saudi-backed school for Gaza children",
-          "summary": "GAZA STRIP: Registration has opened for students seeking to enroll at Makkah School in the southern Gaza Strip, a Saudi-backed initiative aimed at helping children resume their education amid the devastation of the war, SPA has reported. \n\n\tThe school, supported by the King Salman Humanitarian Aid a",
+          "title": "Recipes for Success: Chef Robert Tsitaishvili talks simplicity, salt, and stories",
+          "summary": "DUBAI: Robert Tsitaishvili is the head chef of Qartuli, a Georgian restaurant in Downtown Dubai, where his goal, he says, is “to reinterpret Georgian culinary heritage for a contemporary audience.” \n\n\tTsitaishvili has more than 12 years of experience spanning hotels and restaurants across Georgia an",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654157/saudi-arabia",
-          "published_at": "Tue, 11 Aug 2026 02:08:54 +03",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtdHJ1bXAtaW5z",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Trump insists Netanyahu relationship ‘very good’ despite Gaza rift",
-          "summary": "WASHINGTON, United States: President Donald Trump insisted on Monday that his relationship with Prime Minister Benjamin Netanyahu is “very good” despite the Israeli leader’s rejection of a US-led Gaza plan.\n\t“The relationship is very good,” Trump said in response to a shouted question from a journal",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654154/world",
-          "published_at": "Tue, 11 Aug 2026 01:08:46 +03",
+          "article_url": "https://www.arabnews.com/node/2647653/lifestyle",
+          "published_at": "Thu, 18 Jun 2026 10:06:49 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtbGlieWHigJlz",
+          "id": "YXJhYm5ld3Mtb2lsLWZhbGxz",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Libya’s central bank chief resigns",
-          "summary": "TRIPOLI: The governor of Libya’s central bank, Naji Issa, has resigned without giving a reason, several reports said on Monday.\n\tPrivate TV channel Al-Ahrar said Issa had confirmed his resignation.\n\tIssa and vice-governor Miree Al-Barasee were appointed by Libya’s parliament, which is based in the e",
+          "title": "Oil falls to 3-1/2-month low after US, Iran sign ceasefire deal",
+          "summary": "BEIJING/SINGAPORE: Oil prices ​fell by more than $2 per barrel on Thursday after the US and Iran signed an interim agreement that ‌would end the Iran war, reopen the Strait of Hormuz and waive US sanctions on Tehran’s oil, boosting the oil supply outlook.\n\n\tBrent crude futures were down $2.14, or 2.",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654155/middle-east",
-          "published_at": "Tue, 11 Aug 2026 01:08:41 +03",
+          "article_url": "https://www.arabnews.com/node/2647650/business-economy",
+          "published_at": "Thu, 18 Jun 2026 10:06:46 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtdHJ1bXDigJlz",
+          "id": "YXJhYm5ld3Mta2FuZS1kb3Vi",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Trump’s Gaza plan hinges on Hamas disarmament, Israeli withdrawals",
-          "summary": "JERUSALEM: Donald Trump’s latest plan to end the Gaza war calls on Hamas to ‌lay down its arms as Israel withdraws from the territory, terms endorsed by the militants but rejected by Israel, which says it will not pull back until the group’s disarmament is complete.",
+          "title": "Kane double fires England World Cup bid as Ronaldo’s Portugal stumble",
+          "summary": "LOS ANGELES, United States: England launched their World Cup bid with a rollercoaster 4-2 win against Croatia on Wednesday as Cristiano Ronaldo and Portugal stumbled to a draw against the Democratic Republic of Congo.\n\tIn an enthralling Group L game at the Texas home of the Dallas Cowboys NFL team, ",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654156/middle-east",
-          "published_at": "Tue, 11 Aug 2026 01:08:10 +03",
+          "article_url": "https://www.arabnews.com/node/2647651/sport",
+          "published_at": "Thu, 18 Jun 2026 10:06:26 +03",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtbGluYS1naG90",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Lina Ghotmeh: ‘Being in AlUla, you start to understand all the beauty of the world’",
+          "summary": "ALULA: AlUla is no stranger to art. It is renowned as an “open-air natural museum” with 7,000 years of lived-in history. Even so, the upcoming AlUla Contemporary Art Museum, created as part of Saudi Vision 2030, is sure to be the talk of the town.",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2647649/lifestyle",
+          "published_at": "Thu, 18 Jun 2026 10:06:11 +03",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtYXVzdHJhbGlh",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Australia says net migration down as far-right popularity surges",
+          "summary": "SYDNEY: Australia’s immigration levels fell last year, official data showed on Thursday, as its center-left government seeks to combat an ascendent far-right riding a wave of public discontent over soaring housing prices and cost of living.\n\tNet overseas migration added 301,000 people to Australia’s",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2647652/world",
+          "published_at": "Thu, 18 Jun 2026 10:06:08 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtY2FuLWFsLWJ1",
+          "id": "YXJhYm5ld3MtZGFpbHktdGVs",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Can Al-Burhan’s Sudanese national dialogue turn military gains into a political settlement?",
-          "summary": "LONDON: More than three years after Sudan descended into civil war, army chief Gen. Abdel Fattah Al-Burhan is pushing for a broad national dialogue aimed at rebuilding the country’s political institutions and laying the foundations for a civilian transition.\n\n\tTalks could begin as early as August, w",
+          "title": "Daily Telegraph columnist argues Saudi Arabia should join G7",
+          "summary": "DUBAI: Saudi Arabia should be invited to join the Group of Seven nations as the organization adapts to a changing global order, according to a column published in the Daily Telegraph by former UK prime ministerial representative to Saudi Arabia Ken Costa.\n\n\tCosta argued that while the G7 was created",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654150/middle-east",
-          "published_at": "Mon, 10 Aug 2026 11:08:33 +03",
+          "article_url": "https://www.arabnews.com/node/2647644/saudi-arabia",
+          "published_at": "Thu, 18 Jun 2026 09:06:26 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtZmlyZS1icmVh",
+          "id": "YXJhYm5ld3MtdHJ1bXAsLW5l",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Fire breaks out at Libya’s Zawiya refinery",
-          "summary": "TRIPOLI: A fire broke out on Monday ​in a diesel tank at Libya’s Zawiya refinery days after the facility was hit by drone.\n\n\tThe circumstances of Monday's fire remained unknown, Brega Petroleum Marketing Company said in a statement.\n\tBrega is owned by state oil firm National Oil Corporation (NOC) an",
+          "title": "Trump, Netanyahu clash over Iran strategy and Lebanon ceasefire",
+          "summary": "DUBAI: American President Donald Trump and Israeli Prime Minister Benjamin Netanyahu have found themselves at odds over Iran, Lebanon and the course of ongoing negotiations in the Middle East according to The Washington Post.",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654151/middle-east",
-          "published_at": "Mon, 10 Aug 2026 11:08:10 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtdGVlbmFnZXIt",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Teenager dies trying to rescue swimmers at Alexandria beach",
-          "summary": "ALEXANDRIA: An 18-year-old man died while attempting to help rescue six people from drowning at El-Baitash beach in Alexandria, Egypt, on Saturday, local authorities said.\n\tThe Central Administration for Tourism and Resorts in Alexandria said on Sunday that the beach was among those closed to swimme",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654149/middle-east",
-          "published_at": "Mon, 10 Aug 2026 10:08:39 +03",
+          "article_url": "https://www.arabnews.com/node/2647647/middle-east",
+          "published_at": "Thu, 18 Jun 2026 09:06:00 +03",
           "cross_sections": [
             "tech"
           ]
@@ -4934,7 +4896,7 @@
         {
           "id": "euronews",
           "name": "Euronews",
-          "count": 8
+          "count": 6
         },
         {
           "id": "dw",
@@ -4995,6 +4957,38 @@
       "icon": "💻",
       "articles": [
         {
+          "id": "dGVjaGNydW5jaC1zdHJpcGUt",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+          "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+          "published_at": "Sun, 16 Aug 2026 20:57:04 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXVzLWFkbWly",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "US admiral praises USS Lincoln crew amid reported mental health concerns",
+          "summary": "Politicians voiced alarm over mental health struggles on carrier, with reports of sailors attempting to jump overboard.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/16/us-admiral-praises-uss-lincoln-crew-amid-reported-mental-health-concerns?traffic_source=rss",
+          "published_at": "Sun, 16 Aug 2026 20:46:01 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dmVudHVyZWJlYXQtY3V0dGlu",
           "source_id": "venturebeat",
           "source_name": "VentureBeat",
@@ -5009,6 +5003,38 @@
           "cross_sections": [
             "tech",
             "ai"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLWJyYXppbDot",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Brazil: Lula, Bolsonaro return to strongholds to launch runs for president",
+          "summary": "Lula and Bolsonaro appeal to Brazil’s women voters with promises to combat rising femicide and gender violence.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/16/brazil-lula-bolsonaro-return-to-strongholds-to-launch-runs-for-president?traffic_source=rss",
+          "published_at": "Sun, 16 Aug 2026 20:36:32 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtY2lzZi1vZmZp",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "CISF official confronted in Delhi Metro for photographing woman; suspended",
+          "summary": "CISF Delhi Metro has said that the concerned personnel has been placed under suspension with immediate effect, and a detailed inquiry has been ordered",
+          "image_url": "https://th-i.thgim.com/public/incoming/hhljxa/article71353932.ece/alternates/LANDSCAPE_1200/two%20frame%208.jpg",
+          "article_url": "https://www.thehindu.com/news/cities/Delhi/cisf-official-confronted-in-delhi-metro-for-photographing-woman-suspended/article71353931.ece",
+          "published_at": "Mon, 17 Aug 2026 02:02:26 +0530",
+          "cross_sections": [
+            "tech"
           ]
         },
         {
@@ -5092,22 +5118,6 @@
           ]
         },
         {
-          "id": "dGhlaGluZHUtc2FiYXJpLXJh",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Sabari rail project: landowners meet Minister, Chalakudy MP",
-          "summary": "A section of the landowners, whose holdings have remained effectively frozen for nearly three decades, met Higher Education Minister Roji M. John and Chalakudy MP Benny Behanan on Sunday and submitted a memorandum seeking their intervention.",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/kerala/sabari-rail-project-delay-leaves-landowners-in-limbo/article71353248.ece",
-          "published_at": "Mon, 17 Aug 2026 01:21:08 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "YWxqYXplZXJhLWVyZG9nYW4t",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
@@ -5119,38 +5129,6 @@
           "image_url": null,
           "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss",
           "published_at": "Sun, 16 Aug 2026 19:29:31 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtY29uZ3Jlc3Mt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Congress protests in Kalaburagi against ‘purification’ ritual at Kharge’s rally venue in Uttarakhand",
-          "summary": "Party leaders condemn alleged caste discrimination in Uttarakhand, burn tyres during demonstration",
-          "image_url": "https://th-i.thgim.com/public/incoming/fkmt7w/article71353381.ece/alternates/LANDSCAPE_1200/10258_16_8_2026_20_25_12_1_CONGRESS_PROTEST_AGAINST_PURIFICATION_1.JPG",
-          "article_url": "https://www.thehindu.com/news/national/karnataka/congress-protests-in-kalaburagi-against-purification-ritual-at-kharges-rally-venue-in-uttarakhand/article71353343.ece",
-          "published_at": "Mon, 17 Aug 2026 00:54:01 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUta2FybmF0YWth",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Karnataka government has failed to mitigate drought, says Kumaraswamy; opens handloom products market",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/karnataka/karnataka-government-has-failed-to-mitigate-drought-says-kumaraswamy-opens-handloom-products-market/article71353661.ece",
-          "published_at": "Mon, 17 Aug 2026 00:52:54 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5365,39 +5343,6 @@
           ]
         },
         {
-          "id": "YWxqYXplZXJhLWlzcmFlbGkt",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Israeli army besieges Palestinian homes in occupied West Bank",
-          "summary": "Israeli troops have raided the village of Qusra, south of Nablus, in the occupied West Bank.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
-          "published_at": "Sun, 16 Aug 2026 17:45:52 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXdoeS1hcmUt",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Why are sandwiches more regulated than AI?",
-          "summary": "Futurist Max Tegmark wonders why sandwiches are more regulated than artificial intelligence in the US.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/16/why-are-sandwiches-more-regulated-than-ai?traffic_source=rss",
-          "published_at": "Sun, 16 Aug 2026 17:36:02 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "dGhldmVyZ2UtYW1hem9uLWlz",
           "source_id": "theverge",
           "source_name": "The Verge",
@@ -5522,6 +5467,22 @@
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
           "published_at": "Sun, 16 Aug 2026 16:04:00 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtbGF0ZXN0LW5l",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Latest news bulletin | August 16th, 2026 – Evening",
+          "summary": "Catch up with the most important stories from around Europe and beyond this August 16th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/63/26/696x392_cmsv2_35c0eb4f-1b09-56dd-8b87-9a5e186bcea0-9876326.jpg",
+          "article_url": "http://www.euronews.com/video/2026/08/16/latest-news-bulletin-august-16th-2026-evening",
+          "published_at": "Sun, 16 Aug 2026 18:00:29 +0200",
           "cross_sections": [
             "tech"
           ]
@@ -5699,23 +5660,6 @@
           "image_url": null,
           "article_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-to-tell-partners-they-must-pick-sides-in-ai-race-with-china/articleshow/133280365.cms",
           "published_at": "Sun, 16 Aug 2026 23:25:06 +0530",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXdoeS1hcmUt",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Why are sandwiches more regulated than AI?",
-          "summary": "Futurist Max Tegmark wonders why sandwiches are more regulated than artificial intelligence in the US.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/16/why-are-sandwiches-more-regulated-than-ai?traffic_source=rss",
-          "published_at": "Sun, 16 Aug 2026 17:36:02 +0000",
           "cross_sections": [
             "tech",
             "ai"
@@ -6161,23 +6105,6 @@
           ]
         },
         {
-          "id": "YXJhYm5ld3MtZW5yb2xsbWVu",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Enrollment begins at Saudi-backed school for Gaza children",
-          "summary": "GAZA STRIP: Registration has opened for students seeking to enroll at Makkah School in the southern Gaza Strip, a Saudi-backed initiative aimed at helping children resume their education amid the devastation of the war, SPA has reported. \n\n\tThe school, supported by the King Salman Humanitarian Aid a",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654157/saudi-arabia",
-          "published_at": "Tue, 11 Aug 2026 02:08:54 +03",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "dG9pLWNoYXRncHQtd2FzLWRv",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -6198,7 +6125,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 8519,
+    "build_ms": 9189,
     "ai_enabled": true
   }
 }
