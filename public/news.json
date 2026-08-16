@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-16T16:40:53.974Z",
-  "total_articles": 303,
-  "new_this_run": 38,
+  "last_updated": "2026-08-16T16:57:48.714Z",
+  "total_articles": 311,
+  "new_this_run": 17,
   "sources": [
     {
       "id": "techcrunch",
@@ -9,6 +9,23 @@
       "region": "IT Focus",
       "category": "Tech Media",
       "articles": [
+        {
+          "id": "dGVjaGNydW5jaC1hbnRocm9w",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+          "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+          "published_at": "Sun, 16 Aug 2026 16:53:51 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
         {
           "id": "dGVjaGNydW5jaC10ZWNoY3J1",
           "source_id": "techcrunch",
@@ -39,23 +56,6 @@
           "published_at": "Sat, 15 Aug 2026 21:29:19 +0000",
           "cross_sections": [
             "tech"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1hbnRocm9w",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-          "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-          "published_at": "Sat, 15 Aug 2026 18:58:39 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
           ]
         },
         {
@@ -119,22 +119,6 @@
           "article_url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
           "published_at": "Fri, 14 Aug 2026 22:43:24 +0000",
           "cross_sections": []
-        },
-        {
-          "id": "dGVjaGNydW5jaC1zZWxmLWRy",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Self-driving trucks are officially testing on California highways",
-          "summary": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
-          "published_at": "Fri, 14 Aug 2026 20:37:49 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -1154,6 +1138,22 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "ZXR0ZWNoLWNyeXB0by13YWxs",
+          "source_id": "ettech",
+          "source_name": "ETtech",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Crypto wallet provider SafePal discloses data breach affecting nearly 40,000 users' order information",
+          "summary": "An authorization flaw in the order tracking ‌system allowed access ⁠to ⁠another customer's order information between March 2, 2025, and April 11, ​2026, SafePal said in a statement.",
+          "image_url": null,
+          "article_url": "https://economictimes.indiatimes.com/tech/technology/crypto-wallet-provider-safepal-discloses-data-breach-affecting-nearly-40000-users-order-information/articleshow/133278729.cms",
+          "published_at": "Sun, 16 Aug 2026 22:08:03 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "ZXR0ZWNoLWVjb21tZXJjZS1v",
           "source_id": "ettech",
           "source_name": "ETtech",
@@ -1749,7 +1749,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-08-16T16:40:45.638Z",
+          "published_at": "2026-08-16T16:57:40.022Z",
           "cross_sections": []
         },
         {
@@ -1763,7 +1763,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-08-16T16:40:45.638Z",
+          "published_at": "2026-08-16T16:57:40.022Z",
           "cross_sections": []
         },
         {
@@ -1777,7 +1777,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-08-16T16:40:45.638Z",
+          "published_at": "2026-08-16T16:57:40.022Z",
           "cross_sections": []
         },
         {
@@ -3410,6 +3410,128 @@
           "article_url": "http://www.euronews.com/video/2026/08/15/europes-tallest-virgin-mary-statue-unveiled-in-polish-village",
           "published_at": "Sat, 15 Aug 2026 21:59:30 +0200",
           "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtbWFlcnNrLWJy",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Maersk brings back another shipping service through Suez, but wider return remains distant",
+          "summary": "The latest move is part of a cautious return to the Suez Canal, with four Maersk services switching back since early July, the most recent in mid-August, while nine others continue to sail around Africa.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/31/15/696x392_cmsv2_3efeeac5-d634-5e7b-b685-388c3fe60d48-9873115.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/14/maersk-returns-another-asia-europe-service-through-suez-but-wider-return-remains-distant",
+          "published_at": "Fri, 14 Aug 2026 15:20:22 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtZnVlbC1wcmlj",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Fuel prices: study says there is no \"profiteering by operators\"",
+          "summary": "An ERSE study found that in the first seven months of 2026 domestic prices broadly followed international costs, with no \"evidence of profiteering by operators\". Fuel prices are set to soar again next week.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/44/78/696x392_cmsv2_6525627f-2d40-5908-8393-21cf818ed299-9874478.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/14/fuel-prices-study-says-there-is-no-profiteering-by-operators",
+          "published_at": "Fri, 14 Aug 2026 15:05:18 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtdHJ1bXAtaW1w",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Trump imposes drone tariffs of up to 100% with a lower rate for the EU and UK",
+          "summary": "US President Donald Trump has imposed tariffs of up to 100% on imported drones and their components, with EU manufacturers facing a preferential rate of 15% and British firms 10%, in a measure meant to rebuild American production of a technology central to modern warfare.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/44/12/696x392_cmsv2_8780869d-556e-5936-97aa-69bf31cbae6f-9874412.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/14/trump-imposes-drone-tariffs-of-up-to-100-with-a-lower-rate-for-the-eu-and-uk",
+          "published_at": "Fri, 14 Aug 2026 12:45:07 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtdWJlci1hbmQt",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Uber and China’s Pony AI to launch over 2,000 robotaxis across Europe",
+          "summary": "The expanded partnership with blend a mobility platform, fleet management capacity and autonomous driving technology.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/41/01/696x392_cmsv2_03c5f02c-4724-5310-b98a-1e753dd8322b-9874101.jpg",
+          "article_url": "http://www.euronews.com/next/2026/08/14/uber-and-chinas-pony-ai-to-launch-over-2000-robotaxis-across-europe",
+          "published_at": "Fri, 14 Aug 2026 10:58:25 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtYnAtcmV0dXJu",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "BP returns to Venezuela with Gulf partners as post-Maduro energy opening speeds up",
+          "summary": "Venezuela has awarded BP a licence to develop the offshore Loran gas field alongside state-backed partners from the UAE and Qatar, marking the British company's return to a country whose energy sector has been reopening to foreign investors since US forces captured Nicolás Maduro.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/42/24/696x392_cmsv2_52859e51-2fe1-5b52-ab64-3cb3aa4fab1f-9874224.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/14/bp-returns-to-venezuela-with-gulf-partners-as-post-maduro-energy-opening-speeds-up",
+          "published_at": "Fri, 14 Aug 2026 10:54:18 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtYmF0dGVyeS1v",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Battery-only electric cars on the rise in Europe: Which countries lead?",
+          "summary": "The share of newly registered battery-only electric passenger cars is rising significantly in many European countries, but their share of the total car fleet remains very low in many countries.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/29/30/696x392_cmsv2_dbe4ee3c-1369-5c5d-88ff-1a1134f816d2-9872930.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/14/battery-only-electric-cars-are-on-the-rise-in-europe-which-countries-lead",
+          "published_at": "Fri, 14 Aug 2026 10:08:15 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3Mtd2h5LWRvLXdv",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Why do women need 12 times their salary to buy a home, when men need only eight?",
+          "summary": "A consistent pay gap and more difficulties in saving for a deposit compared to men are some of the factors holding women back from home ownership.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/29/88/696x392_cmsv2_1782308c-026c-552d-bedf-aa207b57552c-9872988.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/13/why-do-women-need-12-times-their-salary-to-buy-a-home-when-men-need-only-eight",
+          "published_at": "Thu, 13 Aug 2026 14:33:29 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3Mtd2hhdC1pcy10",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "What is Truth API? The $100,000 feed that has landed Trump a lawsuit",
+          "summary": "Two press organisations have asked a Manhattan federal court to shut down Truth API, the service launched this month that sells Wall Street firms faster access to US President Donald Trump's Truth Social posts for up to $100,000 a month.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/27/21/696x392_cmsv2_d338d0d5-d456-50bb-82ac-21d9425bbd2d-9872721.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/13/what-is-truth-api-the-100000-feed-that-has-landed-trump-a-lawsuit",
+          "published_at": "Thu, 13 Aug 2026 12:28:11 +0200",
+          "cross_sections": []
         }
       ]
     },
@@ -3674,20 +3796,6 @@
           ]
         },
         {
-          "id": "dG9pLXZhbmRlLW1hdGFyYW0t",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Vande Mataram row: Shah takes 'sin' jibe at Sonia; Cong says 'diverting attention'",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/vande-mataram-row-amit-shah-takes-sin-jibe-at-sonia-congress-says-minister-diverting-attention/articleshow/133276357.cms",
-          "published_at": "Sun, 16 Aug 2026 19:00:16 +0530",
-          "cross_sections": []
-        },
-        {
           "id": "dG9pLeKAmHJhbmtpbmdzLWRv",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3702,6 +3810,20 @@
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "dG9pLXBhcmxpYW1lbnQtYXQt",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Parliament at a standstill, protests on streets: The Monsoon session story",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/parliament-at-a-standstill-protests-on-streets-the-monsoon-session-story/articleshow/133272926.cms",
+          "published_at": "Sun, 16 Aug 2026 15:23:12 +0530",
+          "cross_sections": []
         },
         {
           "id": "dG9pLSdzdGF5LWF3YXktZnJv",
@@ -3979,18 +4101,68 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dGhlaGluZHUtbmV3LWNvYWwt",
+          "id": "dGhlaGluZHUtYmFkbWludG9u",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "New coal blocks to further strengthen SCCL, says CMD",
+          "title": "Badminton Worlds: Indian hopes rest on Sindhu, Satwik-Chirag pair",
+          "summary": "Ayush takes on defending champion Shi in the opening round; Lakshya attempts to script history",
+          "image_url": "https://th-i.thgim.com/public/incoming/ormafs/article71352786.ece/alternates/LANDSCAPE_1200/52_Badminton_World_Championship_16_08_Delhi.jpg",
+          "article_url": "https://www.thehindu.com/sport/other-sports/badminton-worlds-indian-hopes-rest-on-sindhu-satwik-chirag-pair/article71352618.ece",
+          "published_at": "Sun, 16 Aug 2026 22:20:03 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtZHVyYW5kLWN1",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Durand Cup: SC Delhi turns the tables on Raengdai, meets East Bengal",
           "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/yo4ep8/article71353719.ece/alternates/LANDSCAPE_1200/PTI08_16_2026_000497B.jpg",
+          "article_url": "https://www.thehindu.com/sport/football/durand-cup-sc-delhi-turns-the-tables-on-raengdai-meets-east-bengal/article71353722.ece",
+          "published_at": "Sun, 16 Aug 2026 22:19:24 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtaXJhbi1vZmZl",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Iran offers $30,000 bounty for killing, capturing U.S. soldiers",
+          "summary": "There has been no known deployment of U.S. ground forces in Iran during the West Asia war, except for a rescue mission in April for a downed American airman",
+          "image_url": "https://th-i.thgim.com/public/incoming/rk3evr/article71353711.ece/alternates/LANDSCAPE_1200/2026-01-07T132152Z_345822309_RC2NVIA2UN31_RTRMADP_3_IRAN-ECONOMY.JPG",
+          "article_url": "https://www.thehindu.com/news/international/iran-offers-30000-bounty-for-killing-capturing-us-soldiers/article71353679.ece",
+          "published_at": "Sun, 16 Aug 2026 22:18:59 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtc3BhbmlzaC1q",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Spanish jet downs drone in Romania after airspace breach",
+          "summary": "A growing number of drones have crossed into NATO states in eastern Europe as Russia pursues its invasion of Ukraine.",
           "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/telangana/new-coal-blocks-to-further-strengthen-sccl-says-cmd/article71350382.ece",
-          "published_at": "Sun, 16 Aug 2026 22:05:01 +0530",
-          "cross_sections": []
+          "article_url": "https://www.thehindu.com/news/international/spanish-jet-downs-drone-in-romania-after-airspace-breach/article71353694.ece",
+          "published_at": "Sun, 16 Aug 2026 22:18:50 +0530",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
           "id": "dGhlaGluZHUtanVuaW9yLWRv",
@@ -4003,97 +4175,51 @@
           "summary": "Emergency services, including in the Intensive Care Unit, Casualty and Labour Room in 19 govt. medical colleges in State likely to be affected; Andhra Pradesh Junior Doctors' Association says it was forced to intensify the ongoing agitation as the State government failed to respond to its demands",
           "image_url": "https://th-i.thgim.com/public/incoming/pij0lt/article71353384.ece/alternates/LANDSCAPE_1200/0003Docs.jpg",
           "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/junior-doctors-in-ap-to-withdraw-emergency-services-from-monday-demanding-stipend-hike/article71352771.ece",
-          "published_at": "Sun, 16 Aug 2026 22:04:54 +0530",
+          "published_at": "Sun, 16 Aug 2026 22:17:04 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtZWxldmVuLWhl",
+          "id": "dGhlaGluZHUtcmVzaWRlbnRz",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Eleven held for attacking youth over love proposal",
+          "title": "Residents protest delay in Teegalaguttapalli ROB works in Karimnagar",
           "summary": "",
           "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/eleven/article71353615.ece",
-          "published_at": "Sun, 16 Aug 2026 22:01:44 +0530",
+          "article_url": "https://www.thehindu.com/news/national/telangana/residents-protest-delay-in-teegalaguttapalli-rob-works-in-karimnagar/article71353587.ece",
+          "published_at": "Sun, 16 Aug 2026 22:16:11 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUtd2F0Y2g6LWNv",
+          "id": "dGhlaGluZHUtbWFueS1pbml0",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Watch: Congress will ensure Lok Sabha seats remains 543",
-          "summary": "Congress leader Praveen Chakravarty says the party will ensure that the number of Lok Sabha seats remains at 543 amid the ongoing debate over delimitation and the future allocation of parliamentary seats.",
-          "image_url": "https://th-i.thgim.com/public/incoming/ljb4j4/article71353670.ece/alternates/LANDSCAPE_1200/maxresdefault.jpg",
-          "article_url": "https://www.thehindu.com/videos/watch-congress-will-ensure-lok-sabha-seats-remains-543/article71353672.ece",
-          "published_at": "Sun, 16 Aug 2026 21:59:56 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtd2h5LXRoZS12",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Why the Visakhapatnam airport shut, and what still flies from INS Dega",
-          "summary": "The 10.45 p.m. IndiGo to Delhi was the final scheduled service from the civil enclave at INS Dega. From 12.01 a.m. on Monday, every airline flight moves to Bhogapuram, and the code VTZ moves with them",
-          "image_url": "https://th-i.thgim.com/public/news/national/andhra-pradesh/jaqga/article71353542.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-16%20at%207.25.15%20PM%201.jpeg",
-          "article_url": "https://www.thehindu.com/news/cities/Visakhapatnam/why-the-visakhapatnam-airport-shut-and-what-still-flies-from-ins-dega/article71352471.ece",
-          "published_at": "Sun, 16 Aug 2026 21:57:30 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtdHJhZmZpYy1h",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Traffic around KBR Park goes one-way with 10 U-turn points and 13 exits from August 18",
-          "summary": "The lane-change and U-turn points are located at TG Study Circle, BRS Bhavan, Omega Hospital, Jana Reddy, Apollo Cradle, Taj Mahal, Phoenix Building, Road No. 65, Mantri Towers and Cream Stone.",
-          "image_url": "https://th-i.thgim.com/public/incoming/cn7cr1/article71353666.ece/alternates/LANDSCAPE_1200/map.jpg",
-          "article_url": "https://www.thehindu.com/news/national/telangana/traffic-around-kbr-park-goes-one-way-with-10-u-turn-points-and-13-exits-from-august-18/article71353309.ece",
-          "published_at": "Sun, 16 Aug 2026 21:57:19 +0530",
+          "title": "Many initiatives in the pipeline to transform tourism sector in Tamil Nadu, say Ministers",
+          "summary": "River tourism to be promoted by connecting the Cauvery and the Thamirabarani; government considering giving free travel facilities for senior citizens to make tourism inclusive and accessible",
+          "image_url": "https://th-i.thgim.com/public/incoming/zggdzl/article71353691.ece/alternates/LANDSCAPE_1200/TH%20TRI-1%203.jpg",
+          "article_url": "https://www.thehindu.com/news/national/tamil-nadu/many-initiatives-in-the-pipeline-to-transform-tourism-sector-in-tamil-nadu-say-ministers/article71353558.ece",
+          "published_at": "Sun, 16 Aug 2026 22:11:50 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUt4oCYd2Utd2Vy",
+          "id": "dGhlaGluZHUtam51LXZpY2Ut",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "‘We were never seen as a mind, only as a vote’: Neha Bora on India’s student resistance and the fight for democracy",
-          "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/7sstsw/article71353650.ece/alternates/LANDSCAPE_1200/_DSC3099.JPG",
-          "article_url": "https://www.thehindu.com/news/cities/Hyderabad/we-were-never-seen-as-a-mind-only-as-a-vote-neha-bora-on-indias-student-resistance-and-the-fight-for-democracy/article71353537.ece",
-          "published_at": "Sun, 16 Aug 2026 21:55:17 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtYWlsdS1kZW1h",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "AILU demands resignation of BCI chairman",
-          "summary": "The Union demanded the resignation of the BCI chairman over the controversial order barring the enrolment of NALSAR students.",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/cities/Kochi/ailu-demands-resignation-of-bci-chairman/article71353235.ece",
-          "published_at": "Sun, 16 Aug 2026 21:51:27 +0530",
+          "title": "JNU Vice-Chancellor terms allegations of irregularities in recruitment a ‘malicious campaign’",
+          "summary": "Santishree Dhulipudi Pandit says there is no evidence. JNU administration says disgruntled left-leaning JNUTA figures are behind the 'political campaign’ to embarrass the varsity and the Centre, in the wake of defeats in the Delhi HC involving two ‘urban Naxal’ cases",
+          "image_url": "https://th-i.thgim.com/public/incoming/jxdw19/article71353690.ece/alternates/LANDSCAPE_1200/JNU_DSC_0247.jpg",
+          "article_url": "https://www.thehindu.com/news/cities/Delhi/jnu-vice-chancellor-terms-allegations-of-irregularities-in-recruitment-a-malicious-campaign/article71353126.ece",
+          "published_at": "Sun, 16 Aug 2026 22:10:47 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4599,7 +4725,7 @@
           "source_category": "Broadcaster",
           "feed_label": "All News",
           "title": "Arsenal cruise to 3-0 win over Manchester City in Community Shield",
-          "summary": "Premier League champions hand new ​City boss Enzo Maresca a humbling defeat ⁠in his first game in ​charge.",
+          "summary": "Premier League champions hand new ​City boss Enzo Maresca a humbling defeat ⁠in his first football game in ​charge.",
           "image_url": null,
           "article_url": "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
           "published_at": "Sun, 16 Aug 2026 16:17:36 +0000",
@@ -4858,7 +4984,7 @@
         {
           "id": "techcrunch",
           "name": "TechCrunch",
-          "count": 8
+          "count": 7
         },
         {
           "id": "theverge",
@@ -4903,7 +5029,7 @@
         {
           "id": "ettech",
           "name": "ETtech",
-          "count": 7
+          "count": 8
         },
         {
           "id": "inc42",
@@ -4957,7 +5083,7 @@
         {
           "id": "euronews",
           "name": "Euronews",
-          "count": 6
+          "count": 14
         },
         {
           "id": "dw",
@@ -5018,6 +5144,87 @@
       "icon": "💻",
       "articles": [
         {
+          "id": "dGVjaGNydW5jaC1hbnRocm9w",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+          "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+          "published_at": "Sun, 16 Aug 2026 16:53:51 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtYmFkbWludG9u",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Badminton Worlds: Indian hopes rest on Sindhu, Satwik-Chirag pair",
+          "summary": "Ayush takes on defending champion Shi in the opening round; Lakshya attempts to script history",
+          "image_url": "https://th-i.thgim.com/public/incoming/ormafs/article71352786.ece/alternates/LANDSCAPE_1200/52_Badminton_World_Championship_16_08_Delhi.jpg",
+          "article_url": "https://www.thehindu.com/sport/other-sports/badminton-worlds-indian-hopes-rest-on-sindhu-satwik-chirag-pair/article71352618.ece",
+          "published_at": "Sun, 16 Aug 2026 22:20:03 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtZHVyYW5kLWN1",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Durand Cup: SC Delhi turns the tables on Raengdai, meets East Bengal",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/yo4ep8/article71353719.ece/alternates/LANDSCAPE_1200/PTI08_16_2026_000497B.jpg",
+          "article_url": "https://www.thehindu.com/sport/football/durand-cup-sc-delhi-turns-the-tables-on-raengdai-meets-east-bengal/article71353722.ece",
+          "published_at": "Sun, 16 Aug 2026 22:19:24 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtaXJhbi1vZmZl",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Iran offers $30,000 bounty for killing, capturing U.S. soldiers",
+          "summary": "There has been no known deployment of U.S. ground forces in Iran during the West Asia war, except for a rescue mission in April for a downed American airman",
+          "image_url": "https://th-i.thgim.com/public/incoming/rk3evr/article71353711.ece/alternates/LANDSCAPE_1200/2026-01-07T132152Z_345822309_RC2NVIA2UN31_RTRMADP_3_IRAN-ECONOMY.JPG",
+          "article_url": "https://www.thehindu.com/news/international/iran-offers-30000-bounty-for-killing-capturing-us-soldiers/article71353679.ece",
+          "published_at": "Sun, 16 Aug 2026 22:18:59 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtc3BhbmlzaC1q",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Spanish jet downs drone in Romania after airspace breach",
+          "summary": "A growing number of drones have crossed into NATO states in eastern Europe as Russia pursues its invasion of Ukraine.",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/international/spanish-jet-downs-drone-in-romania-after-airspace-breach/article71353694.ece",
+          "published_at": "Sun, 16 Aug 2026 22:18:50 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dGhlaGluZHUtanVuaW9yLWRv",
           "source_id": "thehindu",
           "source_name": "The Hindu",
@@ -5028,55 +5235,39 @@
           "summary": "Emergency services, including in the Intensive Care Unit, Casualty and Labour Room in 19 govt. medical colleges in State likely to be affected; Andhra Pradesh Junior Doctors' Association says it was forced to intensify the ongoing agitation as the State government failed to respond to its demands",
           "image_url": "https://th-i.thgim.com/public/incoming/pij0lt/article71353384.ece/alternates/LANDSCAPE_1200/0003Docs.jpg",
           "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/junior-doctors-in-ap-to-withdraw-emergency-services-from-monday-demanding-stipend-hike/article71352771.ece",
-          "published_at": "Sun, 16 Aug 2026 22:04:54 +0530",
+          "published_at": "Sun, 16 Aug 2026 22:17:04 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtd2F0Y2g6LWNv",
+          "id": "dGhlaGluZHUtam51LXZpY2Ut",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Watch: Congress will ensure Lok Sabha seats remains 543",
-          "summary": "Congress leader Praveen Chakravarty says the party will ensure that the number of Lok Sabha seats remains at 543 amid the ongoing debate over delimitation and the future allocation of parliamentary seats.",
-          "image_url": "https://th-i.thgim.com/public/incoming/ljb4j4/article71353670.ece/alternates/LANDSCAPE_1200/maxresdefault.jpg",
-          "article_url": "https://www.thehindu.com/videos/watch-congress-will-ensure-lok-sabha-seats-remains-543/article71353672.ece",
-          "published_at": "Sun, 16 Aug 2026 21:59:56 +0530",
+          "title": "JNU Vice-Chancellor terms allegations of irregularities in recruitment a ‘malicious campaign’",
+          "summary": "Santishree Dhulipudi Pandit says there is no evidence. JNU administration says disgruntled left-leaning JNUTA figures are behind the 'political campaign’ to embarrass the varsity and the Centre, in the wake of defeats in the Delhi HC involving two ‘urban Naxal’ cases",
+          "image_url": "https://th-i.thgim.com/public/incoming/jxdw19/article71353690.ece/alternates/LANDSCAPE_1200/JNU_DSC_0247.jpg",
+          "article_url": "https://www.thehindu.com/news/cities/Delhi/jnu-vice-chancellor-terms-allegations-of-irregularities-in-recruitment-a-malicious-campaign/article71353126.ece",
+          "published_at": "Sun, 16 Aug 2026 22:10:47 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtd2h5LXRoZS12",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
+          "id": "ZXR0ZWNoLWNyeXB0by13YWxs",
+          "source_id": "ettech",
+          "source_name": "ETtech",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
           "feed_label": "Latest",
-          "title": "Why the Visakhapatnam airport shut, and what still flies from INS Dega",
-          "summary": "The 10.45 p.m. IndiGo to Delhi was the final scheduled service from the civil enclave at INS Dega. From 12.01 a.m. on Monday, every airline flight moves to Bhogapuram, and the code VTZ moves with them",
-          "image_url": "https://th-i.thgim.com/public/news/national/andhra-pradesh/jaqga/article71353542.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-16%20at%207.25.15%20PM%201.jpeg",
-          "article_url": "https://www.thehindu.com/news/cities/Visakhapatnam/why-the-visakhapatnam-airport-shut-and-what-still-flies-from-ins-dega/article71352471.ece",
-          "published_at": "Sun, 16 Aug 2026 21:57:30 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtYWlsdS1kZW1h",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "AILU demands resignation of BCI chairman",
-          "summary": "The Union demanded the resignation of the BCI chairman over the controversial order barring the enrolment of NALSAR students.",
+          "title": "Crypto wallet provider SafePal discloses data breach affecting nearly 40,000 users' order information",
+          "summary": "An authorization flaw in the order tracking ‌system allowed access ⁠to ⁠another customer's order information between March 2, 2025, and April 11, ​2026, SafePal said in a statement.",
           "image_url": null,
-          "article_url": "https://www.thehindu.com/news/cities/Kochi/ailu-demands-resignation-of-bci-chairman/article71353235.ece",
-          "published_at": "Sun, 16 Aug 2026 21:51:27 +0530",
+          "article_url": "https://economictimes.indiatimes.com/tech/technology/crypto-wallet-provider-safepal-discloses-data-breach-affecting-nearly-40000-users-order-information/articleshow/133278729.cms",
+          "published_at": "Sun, 16 Aug 2026 22:08:03 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5595,72 +5786,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "dGhldmVyZ2Utcm9ndWUtYWkt",
-          "source_id": "theverge",
-          "source_name": "The Verge",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Rogue AI aren’t science fiction anymore",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started \nIt all started in July, when one of OpenAI's autonomou",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "article_url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-          "published_at": "2026-08-16T12:00:00.000Z",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtdGFsaWJhbi1t",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "News",
-          "title": "Taliban mark five-year anniversary of regaining power in Afghanistan",
-          "summary": "Hundreds of supporters gathered outside the former US embassy, with flowers thrown down from military helicopters.  Critics of the Taliban, however, fear worsening human rights abuses.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/59/82/696x392_cmsv2_8f114dd6-089c-5d66-a0af-3203b0e54649-9875982.jpg",
-          "article_url": "http://www.euronews.com/2026/08/16/taliban-mark-five-year-anniversary-of-regaining-power-in-afghanistan",
-          "published_at": "Sun, 16 Aug 2026 13:57:24 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1maXJzdC1haS1wcm90",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "First AI Protester Sent To Jail Tells OpenAI, Anthropic And Meta To \"Regain Your Humanity\"",
-          "summary": "Kaufman has defended the protest as necessary, saying she believes the rapid development of advanced AI could pose a serious threat to humanity.",
-          "image_url": "https://c.ndtvimg.com/2026-08/hj7odlpo_wynd-kaufmyn_625x300_16_August_26.jpeg",
-          "article_url": "https://www.ndtv.com/world-news/first-ai-protester-sent-to-jail-tells-openai-anthropic-and-meta-to-regain-your-humanity-11917304#publisher=newsstand",
-          "published_at": "Sun, 16 Aug 2026 17:14:27 +0530",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "bmR0di1pcmFuLWV4ZWN1dGVz",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Iran Executes Another Protester, This Time A Man Who Ran Over Cops",
-          "summary": "The number of executions in Iran has risen since the start of the Middle East war, which broke out on February 28 with US-Israeli strikes against Iran.",
-          "image_url": "https://c.ndtvimg.com/2026-01/lo94eehs_iran-protests-_625x300_11_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/iran-executes-another-protester-this-time-a-man-who-ran-over-cops-11917323#publisher=newsstand",
-          "published_at": "Sun, 16 Aug 2026 17:12:46 +0530",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -5693,6 +5818,23 @@
       "name": "LLM & AI",
       "icon": "🤖",
       "articles": [
+        {
+          "id": "dGVjaGNydW5jaC1hbnRocm9w",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+          "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+          "published_at": "Sun, 16 Aug 2026 16:53:51 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
         {
           "id": "dGhldmVyZ2UtY2hhdGdwdOKA",
           "source_id": "theverge",
@@ -5807,23 +5949,6 @@
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5i7p6do1zSmoo71Z58g81z/271b2f52cede8bfb4b801d4dafdc70d9/u7277289442_A_teacher_is_sitting_at_a_desk._View_from_behind._0f474f7c-90c2-4350-85cd-0f23e41636c4_0.png?w=300&q=30",
           "article_url": "https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong",
           "published_at": "Sat, 15 Aug 2026 19:00:00 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1hbnRocm9w",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-          "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-          "published_at": "Sat, 15 Aug 2026 18:58:39 +0000",
           "cross_sections": [
             "tech",
             "ai"
@@ -6204,7 +6329,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 9646,
+    "build_ms": 9375,
     "ai_enabled": true
   }
 }
