@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-16T22:08:33.468Z",
+  "last_updated": "2026-08-16T22:33:48.573Z",
   "total_articles": 308,
-  "new_this_run": 3,
+  "new_this_run": 7,
   "sources": [
     {
       "id": "techcrunch",
@@ -1403,6 +1403,20 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "bnl0LWxpZWNodGVuc3RlaW4t",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "Liechtenstein Changes Its Law to Allow Women to Ascend the Throne",
+          "summary": "The move puts the principality in the majority among nearby nations with royal families.",
+          "image_url": "https://static01.nyt.com/images/2026/08/16/multimedia/16int-Liechtenstein-Royals-blhq/16int-Liechtenstein-Royals-blhq-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/16/world/europe/liechtenstein-royal-succession-women.html",
+          "published_at": "Sun, 16 Aug 2026 22:10:54 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "bnl0LWt1c2huZXItbWVldHMt",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1521,20 +1535,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "bnl0LXdpdGgtcHJpZXN0cy1z",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "With Priests Scarce in Rural Italy, an African Pastor Is Filling the Void",
-          "summary": "Immigrants have long eased labor shortages on farms and factories in Italy. But churches also need foreign-born priests, like the Rev. Vincent Souly of the Ivory Coast.",
-          "image_url": "https://static01.nyt.com/images/2026/07/02/multimedia/02int-italy-priest-pkwl-promo/02int-italy-priest-pkwl-promo-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/16/world/europe/italy-priest-shortage.html",
-          "published_at": "Sun, 16 Aug 2026 13:42:50 +0000",
-          "cross_sections": []
         },
         {
           "id": "bnl0LXRoZS11LnMuLW1pbGl0",
@@ -1771,7 +1771,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-08-16T22:08:24.937Z",
+          "published_at": "2026-08-16T22:33:40.594Z",
           "cross_sections": []
         },
         {
@@ -1785,7 +1785,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-08-16T22:08:24.937Z",
+          "published_at": "2026-08-16T22:33:40.594Z",
           "cross_sections": []
         },
         {
@@ -1799,7 +1799,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-08-16T22:08:24.937Z",
+          "published_at": "2026-08-16T22:33:40.594Z",
           "cross_sections": []
         },
         {
@@ -2169,22 +2169,6 @@
           ]
         },
         {
-          "id": "Y25iYy1hbnRocm9waWMtcmV2",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
-          "summary": "The jump in revenue underscores the rapid growth of the Claude chatbot maker as it prepares for a potential blockbuster initial public offering.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-          "published_at": "Sat, 15 Aug 2026 14:45:31 GMT",
-          "cross_sections": [
-            "ai"
-          ]
-        },
-        {
           "id": "Y25iYy1hb2Mtc2F5cy1zaGUn",
           "source_id": "cnbc",
           "source_name": "CNBC",
@@ -2227,6 +2211,22 @@
           "article_url": "https://www.cnbc.com/2026/08/15/cash-money-market-funds-bonds.html",
           "published_at": "Sat, 15 Aug 2026 12:30:01 GMT",
           "cross_sections": []
+        },
+        {
+          "id": "Y25iYy1pLWRyb3ZlLXRlc2xh",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare",
+          "summary": "Rivian is trying to catch up to Tesla's \"hands-free\" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
+          "published_at": "Sat, 15 Aug 2026 12:00:01 GMT",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
           "id": "Y25iYy1iZXJrc2hpcmUtaGF0",
@@ -2620,7 +2620,7 @@
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "World",
+          "feed_label": "Top Stories",
           "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
           "summary": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43fc/live/4a1c1570-99b9-11f1-870d-5d08c49babb2.jpg",
@@ -2678,7 +2678,7 @@
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
           "summary": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbb6/live/70fefcb0-9992-11f1-a7ab-8b30adf0800a.jpg",
@@ -3736,6 +3736,22 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dG9pLWUtY29saS1mb3VuZC1p",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "E coli found in drinking water, rail stations lack basic facilities: CAG",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/e-coli-found-in-drinking-water-rail-stations-lack-basic-facilities-cag/articleshow/133283882.cms",
+          "published_at": "Mon, 17 Aug 2026 03:56:35 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dG9pLWhvdy1wbS1tb2RpLWhh",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3794,33 +3810,17 @@
           ]
         },
         {
-          "id": "dG9pLWV4YW0tY29uZHVjdGlu",
+          "id": "dG9pLW5hdnktc2FpbG9yLC13",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Exam-conducting body NTA admits errors, orders fresh NET test for 3 subjects",
-          "summary": "National Testing Agency acknowledged extensive errors in UGC-NET English, Commerce, and Sociology papers. Fresh examinations for these three subjects have been ordered by the agency. These re-tests are scheduled to take place on September 9 and 10. The decision came after multiple complaints regardi",
+          "title": "Navy sailor, wife and 2 kids found dead in Mumbai home; police suspect murder-suicide",
+          "summary": "",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/nta-admits-errors-orders-fresh-net-for-3-subjects/articleshow/133277880.cms",
-          "published_at": "Sun, 16 Aug 2026 20:51:14 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLSdoZS1zYWlkLXBpc3Rv",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "'He said pistol was unloaded': Injured staff on Varanasi airport firing incident",
-          "summary": "Two cargo screeners were injured when a passenger's pistol accidentally discharged during security checks. The passenger claimed the weapon was unloaded before he pressed the trigger to show them. One screener sustained an injury to his left hand, while the other was hit in both legs. The incident o",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/city/varanasi/he-said-it-was-unloaded-2-screeners-recall-varanasi-airport-accidental-firing-incident/articleshow/133275911.cms",
-          "published_at": "Sun, 16 Aug 2026 18:53:28 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/city/mumbai/navy-sailor-wife-and-2-kids-found-dead-in-mumbai-home-police-suspect-murder-suicide/articleshow/133277605.cms",
+          "published_at": "Sun, 16 Aug 2026 21:06:51 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4101,6 +4101,22 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dGhlaGluZHUtdHJ1bXAtb3Jk",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
+          "summary": "U.S. and South Korean forces were set to practise joint operations, but Trump’s comment followed his claim that South Korea refused to help in denuclearising Iran",
+          "image_url": "https://th-i.thgim.com/public/incoming/74cqaq/article71354067.ece/alternates/LANDSCAPE_1200/Trump_93_39.jpg",
+          "article_url": "https://www.thehindu.com/news/international/trump-orders-pentagon-to-scale-back-joint-exercises-with-south-korea/article71354064.ece",
+          "published_at": "Mon, 17 Aug 2026 03:55:47 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dGhlaGluZHUtaXBzLW9mZmlj",
           "source_id": "thehindu",
           "source_name": "The Hindu",
@@ -4202,20 +4218,6 @@
           "image_url": null,
           "article_url": "https://www.thehindu.com/news/cities/Delhi/over-half-of-ddas-narela-flats-booked-on-first-day/article71353925.ece",
           "published_at": "Mon, 17 Aug 2026 01:30:39 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtYWNjdXNlZC1p",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Accused in Lal Bagh murder case nabbed after 550-km chase",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/cities/Delhi/accused-in-lal-bagh-murder-case-nabbed-after-550-km-chase/article71353161.ece",
-          "published_at": "Mon, 17 Aug 2026 01:28:43 +0530",
           "cross_sections": []
         },
         {
@@ -4345,6 +4347,22 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "amFwYW50aW1lcy10cnVtcC1v",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Trump orders ‘inappropriate’ U.S.-South Korean military drills scaled back",
+          "summary": "Citing his ties with North Korea's Kim Jong Un, as well as Seoul's decision not to join U.S.-led actions against Iran, Trump said he was \"not happy\" with the current situation.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/17/557681.JPG",
+          "article_url": "https://www.japantimes.co.jp/news/2026/08/17/asia-pacific/politics/us-south-korea-military-exercises-trump/",
+          "published_at": "Mon, 17 Aug 2026 07:01:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "amFwYW50aW1lcy1zb3V0aC1r",
           "source_id": "japantimes",
           "source_name": "The Japan Times",
@@ -4446,22 +4464,6 @@
           "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/16/557475.jpg",
           "article_url": "https://www.japantimes.co.jp/sports/2026/08/16/basketball/lakers-gold-rush-north-america/",
           "published_at": "Sun, 16 Aug 2026 17:03:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy11bnJlbGVu",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Unrelenting Russian anti-war protesters in Japan fight through inescapable doubt",
-          "summary": "After 4½ years of protesting a war that appears to have no end in sight, Russian residents of Japan are adamant their work is still crucial to the cause.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/16/557183.jpg",
-          "article_url": "https://www.japantimes.co.jp/community/2026/08/16/voices/russian-diaspora-anti-war-protests/",
-          "published_at": "Sun, 16 Aug 2026 16:43:00 +0900",
           "cross_sections": [
             "tech"
           ]
@@ -4667,6 +4669,20 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YWxqYXplZXJhLXdoYXQtY291",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "What could stop Israeli settler attacks on Palestinians?",
+          "summary": "Violence in the occupied West Bank has intensified under Israel's far-right Netanyahu government.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss",
+          "published_at": "Sun, 16 Aug 2026 21:54:58 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "YWxqYXplZXJhLWh1bmRyZWRz",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
@@ -4775,20 +4791,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXVzLWlyYW4t",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "US-Iran MoU is set to expire: What to know",
-          "summary": "Both sides accused the other of violating the June agreement shortly after it was signed.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/8/16/us-iran-mou-is-set-to-expire-what-to-know?traffic_source=rss",
-          "published_at": "Sun, 16 Aug 2026 20:28:21 +0000",
-          "cross_sections": []
         }
       ]
     },
@@ -5096,12 +5098,60 @@
       "icon": "💻",
       "articles": [
         {
+          "id": "dG9pLWUtY29saS1mb3VuZC1p",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "E coli found in drinking water, rail stations lack basic facilities: CAG",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/e-coli-found-in-drinking-water-rail-stations-lack-basic-facilities-cag/articleshow/133283882.cms",
+          "published_at": "Mon, 17 Aug 2026 03:56:35 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdHJ1bXAtb3Jk",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
+          "summary": "U.S. and South Korean forces were set to practise joint operations, but Trump’s comment followed his claim that South Korea refused to help in denuclearising Iran",
+          "image_url": "https://th-i.thgim.com/public/incoming/74cqaq/article71354067.ece/alternates/LANDSCAPE_1200/Trump_93_39.jpg",
+          "article_url": "https://www.thehindu.com/news/international/trump-orders-pentagon-to-scale-back-joint-exercises-with-south-korea/article71354064.ece",
+          "published_at": "Mon, 17 Aug 2026 03:55:47 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy10cnVtcC1v",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Trump orders ‘inappropriate’ U.S.-South Korean military drills scaled back",
+          "summary": "Citing his ties with North Korea's Kim Jong Un, as well as Seoul's decision not to join U.S.-led actions against Iran, Trump said he was \"not happy\" with the current situation.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/17/557681.JPG",
+          "article_url": "https://www.japantimes.co.jp/news/2026/08/17/asia-pacific/politics/us-south-korea-military-exercises-trump/",
+          "published_at": "Mon, 17 Aug 2026 07:01:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YmJjLXRydW1wLXNheXMtdXMt",
           "source_id": "bbc",
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "World",
+          "feed_label": "Top Stories",
           "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
           "summary": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43fc/live/4a1c1570-99b9-11f1-870d-5d08c49babb2.jpg",
@@ -5690,54 +5740,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YmJjLWVtZXJnZW5jeS1waG9u",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Emergency phone alert put domestic abuse victims at risk, campaigners say",
-          "summary": "The alert took many by surprise when it was sent to millions of phones on Friday night - but it may have also put vulnerable people at risk.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd08/live/b5a2dc20-9987-11f1-a4eb-59b79ff5ff4f.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/cwyllkz80dlo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 16 Aug 2026 15:53:21 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZHctdWtyYWluZS1hdHRhY2tz",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Ukraine attacks Wildberries, Russia's biggest online market",
-          "summary": "Since mid-July, Ukraine has been targeting warehouses of Russia's largest online retailer Wildberries almost every day. Ukraine says it's disrupting front-line shipments. But experts say it's disrupting Russia's economy.",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/ukraine-attacks-wildberries-russia-s-biggest-online-market/a-78384605?maca=en-rss-en-world-4025-xml-mrss",
-          "published_at": "Sun, 16 Aug 2026 15:45:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YmJjLWNhbGxzLWZvci1wdWJs",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Calls for public inquiry into Jason Arday 'witch hunt'",
-          "summary": "Lord Simon Woolley said Arday had been \"hounded\" by the media and pursued relentlessly.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f467/live/1a793ee0-996b-11f1-870d-5d08c49babb2.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/cwymmp30711o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 16 Aug 2026 15:33:02 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -5947,22 +5949,6 @@
           "source_region": "IT Focus",
           "source_category": "Tech Media",
           "feed_label": "Technology",
-          "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
-          "summary": "The jump in revenue underscores the rapid growth of the Claude chatbot maker as it prepares for a potential blockbuster initial public offering.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-          "published_at": "Sat, 15 Aug 2026 14:45:31 GMT",
-          "cross_sections": [
-            "ai"
-          ]
-        },
-        {
-          "id": "Y25iYy1hbnRocm9waWMtcmV2",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
           "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
           "summary": "The jump in revenue underscores the rapid growth of the Claude chatbot maker as it prepares for a potential blockbuster initial public offering.",
           "image_url": null,
@@ -6281,7 +6267,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 9661,
+    "build_ms": 9276,
     "ai_enabled": true
   }
 }
