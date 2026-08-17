@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-17T11:57:21.742Z",
-  "total_articles": 298,
-  "new_this_run": 14,
+  "last_updated": "2026-08-17T12:29:33.146Z",
+  "total_articles": 305,
+  "new_this_run": 42,
   "sources": [
     {
       "id": "techcrunch",
@@ -354,20 +354,6 @@
           ]
         },
         {
-          "id": "d2lyZWQtc2Ftc3VuZy1nYWxh",
-          "source_id": "wired",
-          "source_name": "Wired",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Samsung Galaxy Z Fold8 and Galaxy Z Fold8 Ultra Review: The Right Shape",
-          "summary": "Nearly a decade after its debut, Samsung’s Galaxy Fold finally comes into its own.",
-          "image_url": "https://media.wired.com/photos/6a7fe9a3cf7e32811238974b/master/pass/Samsung-Galaxy-Z-Fold8-Ultra-(left)-and-Z-Fold8-(right)-SOURCE-Julian-Chokkattu.jpg",
-          "article_url": "https://www.wired.com/review/samsung-galaxy-z-fold8-and-z-fold8-ultra/",
-          "published_at": "Sun, 16 Aug 2026 11:00:00 +0000",
-          "cross_sections": []
-        },
-        {
           "id": "d2lyZWQtYXN0cm9ub21lcnMt",
           "source_id": "wired",
           "source_name": "Wired",
@@ -378,6 +364,20 @@
           "summary": "An object observed by the James Webb Space Telescope lends credence to a strange explanation for the mysterious red spots in the early universe.",
           "image_url": "https://media.wired.com/photos/6a7f4c716a3123db993a937f/master/pass/MIT-BlackHoleStar-01-press_0.jpg",
           "article_url": "https://www.wired.com/story/black-hole-stars-are-becoming-less-hypothetical/",
+          "published_at": "Sun, 16 Aug 2026 11:00:00 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "d2lyZWQtc2Ftc3VuZy1nYWxh",
+          "source_id": "wired",
+          "source_name": "Wired",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Samsung Galaxy Z Fold8 and Galaxy Z Fold8 Ultra Review: The Right Shape",
+          "summary": "Nearly a decade after its debut, Samsung’s Galaxy Fold finally comes into its own.",
+          "image_url": "https://media.wired.com/photos/6a7fe9a3cf7e32811238974b/master/pass/Samsung-Galaxy-Z-Fold8-Ultra-(left)-and-Z-Fold8-(right)-SOURCE-Julian-Chokkattu.jpg",
+          "article_url": "https://www.wired.com/review/samsung-galaxy-z-fold8-and-z-fold8-ultra/",
           "published_at": "Sun, 16 Aug 2026 11:00:00 +0000",
           "cross_sections": []
         }
@@ -520,6 +520,22 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "emRuZXQtdGhpcy1nb29nbGUt",
+          "source_id": "zdnet",
+          "source_name": "ZDNet",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "This Google Play Store trick saved me over $100 on the Pixel 11 Pro XL - here's how",
+          "summary": "Here's how I saved hundreds on a new phone and watch in just a few seconds.",
+          "image_url": null,
+          "article_url": "https://www.zdnet.com/article/this-google-play-store-trick-might-save-you-up-to-175-on-the-pixel-11-heres-how-to-do-it/",
+          "published_at": "Mon, 17 Aug 2026 12:04:21 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "emRuZXQtZ29vZ2xlLXdvcmtz",
           "source_id": "zdnet",
           "source_name": "ZDNet",
@@ -613,22 +629,6 @@
           "cross_sections": [
             "tech",
             "ai"
-          ]
-        },
-        {
-          "id": "emRuZXQtaS10ZXN0ZWQtYW4t",
-          "source_id": "zdnet",
-          "source_name": "ZDNet",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "I tested an Android app that lets anyone fight censorship - and shows your impact in real time",
-          "summary": "Most apps make our personal lives easier. This one helps the oppressed communicate by turning your phone into a Tor proxy. No technical knowledge needed.",
-          "image_url": null,
-          "article_url": "https://www.zdnet.com/article/snowflake-volunteer-censorship-fighting-android-app-tor/",
-          "published_at": "Fri, 14 Aug 2026 16:15:34 GMT",
-          "cross_sections": [
-            "tech"
           ]
         }
       ]
@@ -758,6 +758,144 @@
       ]
     },
     {
+      "id": "computerworld",
+      "name": "Computerworld",
+      "region": "IT Focus",
+      "category": "Tech Media",
+      "articles": [
+        {
+          "id": "Y29tcHV0ZXJ3b3JsZC1leGNo",
+          "source_id": "computerworld",
+          "source_name": "Computerworld",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Exchange CU1 delayed further as Microsoft races to verify AI-found flaws",
+          "summary": "AI-based assistants and agents are generally supposed to expedite software development lifecycles. For Microsoft’s Exchange team, it may be doing the opposite, in turn leaving enterprise IT teams waiting for an update that will require extensive compatibility testing before implementation.\nIn respon",
+          "image_url": "https://www.computerworld.com/wp-content/uploads/2026/08/4210454-0-70084900-1786966014-shutterstock_2662877349.jpg?quality=50&strip=all",
+          "article_url": "https://www.computerworld.com/article/4210454/exchange-cu1-delayed-further-as-microsoft-races-to-verify-ai-found-flaws.html",
+          "published_at": "Mon, 17 Aug 2026 11:25:52 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y29tcHV0ZXJ3b3JsZC1hdWd1",
+          "source_id": "computerworld",
+          "source_name": "Computerworld",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "August’s Patch Tuesday is a monster: 751 fixes, with an exploited Windows flaw",
+          "summary": "Microsoft’s August 2026 Patch Tuesday closes at 751 CVE entries (across all product families), with 108 rated as critical. One flaw is already exploited, CVE-2026-68820, an elevation of privilege in the Windows WinSock driver (afd.sys). Two more were disclosed but not exploited, CVE-2026-62832 (User",
+          "image_url": "https://www.computerworld.com/wp-content/uploads/2026/08/4209847-0-43510200-1786724848-clint-patterson-jCY4oEMA3o-unsplash.jpg?quality=50&strip=all",
+          "article_url": "https://www.computerworld.com/article/4209847/august-patch-tuesday-is-a-monster-751-fixes-with-an-exploited-windows-flaw.html",
+          "published_at": "Fri, 14 Aug 2026 16:23:00 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y29tcHV0ZXJ3b3JsZC1vcGVu",
+          "source_id": "computerworld",
+          "source_name": "Computerworld",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "OpenAI loses its AI ethics lead",
+          "summary": "OpenAI has lost its AI ethics lead Chloé Bakalar just a year after she joined the company, the Financial Times reported. Bakalar has maintained a silence and has yet to update her LinkedIn profile, but if her departure is confirmed then it will add to the list of OpenAI executives who have quit in r",
+          "image_url": "https://www.computerworld.com/wp-content/uploads/2026/08/4209796-0-99380500-1786713712-OpenAI-signage-shutterstock_2427127537.jpg?quality=50&strip=all",
+          "article_url": "https://www.computerworld.com/article/4209796/openai-loses-its-ai-ethics-lead.html",
+          "published_at": "Fri, 14 Aug 2026 13:20:49 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "Y29tcHV0ZXJ3b3JsZC1tZXRh",
+          "source_id": "computerworld",
+          "source_name": "Computerworld",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Meta gives up control of Chinese AI startup Manus after eight months",
+          "summary": "Chinese AI company Manus has laid out its plans to operate as an independent company following the reversal of its acquisition by Meta.\nThe US social media company agreed to buy Manus last year but Chinese regulators quickly opened an investigation into the deal, as they were concerned that it viola",
+          "image_url": "https://www.computerworld.com/wp-content/uploads/2026/08/4209728-0-70317400-1786712984-shutterstock_2298419527.jpg?quality=50&strip=all",
+          "article_url": "https://www.computerworld.com/article/4209728/meta-gives-up-control-of-chinese-ai-startup-manus-after-eight-months.html",
+          "published_at": "Fri, 14 Aug 2026 13:04:42 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y29tcHV0ZXJ3b3JsZC1taWNy",
+          "source_id": "computerworld",
+          "source_name": "Computerworld",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Microsoft brings Copilot apps together ahead of ‘super app’ overhaul",
+          "summary": "Microsoft will bring its two Copilot apps into a unified interface for consumer and work users, part of a wider drive to create a Copilot “super app” that consolidates various features.\nUntil now, Microsoft has offered two Copilot apps across web, desktop and mobile platforms: a simplified, consumer",
+          "image_url": "https://www.computerworld.com/wp-content/uploads/2026/08/4209764-0-42421100-1786714271-Microsoft-Copilot.webp",
+          "article_url": "https://www.computerworld.com/article/4209764/microsoft-brings-copilot-apps-together-ahead-of-super-app-overhaul.html",
+          "published_at": "Fri, 14 Aug 2026 12:40:10 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y29tcHV0ZXJ3b3JsZC1hcHBs",
+          "source_id": "computerworld",
+          "source_name": "Computerworld",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Apple cracks China with Alibaba for iPhone AI",
+          "summary": "Apple recently posted and removed details explaining how Mac users in China could set up their computers to work with Alibaba’s Qwen AI. Now, Reuters has confirmed long-held speculation that Apple has revisited its Google Gemini AI playbook and built its own proprietary AI model for China with suppo",
+          "image_url": "https://www.computerworld.com/wp-content/uploads/2026/08/4209632-0-14037000-1786705546-Apple-services-hero.jpg?quality=50&strip=all",
+          "article_url": "https://www.computerworld.com/article/4209632/apple-cracks-china-with-alibaba-for-iphone-ai.html",
+          "published_at": "Fri, 14 Aug 2026 11:04:35 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "Y29tcHV0ZXJ3b3JsZC1ob3ct",
+          "source_id": "computerworld",
+          "source_name": "Computerworld",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "How to replace Edge as the default browser in Windows — and why you shouldn’t",
+          "summary": "Microsoft has been struggling to get people to use its Edge browser for years. Even though the company made Edge the default browser in Windows 10, users left in droves, most of them flocking to Google Chrome — and with good reason. The original version of Edge was underpowered, had difficult-to-use",
+          "image_url": "https://www.computerworld.com/wp-content/uploads/2026/08/1713244-0-40760600-1786705434-edge-browser-logo_microsoft-100816808-orig.jpg?quality=50&strip=all",
+          "article_url": "https://www.computerworld.com/article/1713244/how-to-replace-edge-as-windows-default-browser.html",
+          "published_at": "Fri, 14 Aug 2026 11:00:00 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y29tcHV0ZXJ3b3JsZC1kZWVw",
+          "source_id": "computerworld",
+          "source_name": "Computerworld",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "DeepSeek raises some V4 prices by more than 10x as AI demand strains capacity",
+          "summary": "One of AI vendor DeepSeek’s biggest selling points has been its ultra-low price point, but that party’s about to end.\nThe Chinese model provider is raising API pricing for its V4 model family by notable margins, in some cases by more than 1,100%. The increases may not be that dramatic for all, thoug",
+          "image_url": "https://www.computerworld.com/wp-content/uploads/2026/08/4209468-0-41047300-1786673925-shutterstock_2570454171.jpg?quality=50&strip=all",
+          "article_url": "https://www.computerworld.com/article/4209468/deepseek-raises-some-v4-prices-by-more-than-10x-as-ai-demand-strains-capacity-2.html",
+          "published_at": "Fri, 14 Aug 2026 02:17:48 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        }
+      ]
+    },
+    {
       "id": "venturebeat",
       "name": "VentureBeat",
       "region": "IT Focus",
@@ -872,6 +1010,36 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "Y25iY3RlY2gtaS1kcm92ZS10",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare",
+          "summary": "Rivian is trying to catch up to Tesla's \"hands-free\" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
+          "published_at": "Mon, 17 Aug 2026 12:06:19 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iY3RlY2gtbWV0YS1mYWNl",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
+          "summary": "Less than two weeks after a loss in New Mexico, Meta faces a much bigger legal test in a case being co-led by California's attorney general.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
+          "published_at": "Mon, 17 Aug 2026 12:00:01 GMT",
+          "cross_sections": []
+        },
+        {
           "id": "Y25iY3RlY2gtYWxpYmFiYS1h",
           "source_id": "cnbctech",
           "source_name": "CNBC Technology",
@@ -937,22 +1105,6 @@
           ]
         },
         {
-          "id": "Y25iY3RlY2gtaS1kcm92ZS10",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare",
-          "summary": "Rivian is trying to catch up to Tesla's \"hands-free\" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
-          "published_at": "Sat, 15 Aug 2026 12:00:01 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "Y25iY3RlY2gtb3BlbmFpLWNm",
           "source_id": "cnbctech",
           "source_name": "CNBC Technology",
@@ -983,23 +1135,6 @@
           "published_at": "Fri, 14 Aug 2026 21:45:19 GMT",
           "cross_sections": [
             "tech"
-          ]
-        },
-        {
-          "id": "Y25iY3RlY2gtb3BlbmFpLXRh",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
-          "summary": "OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
-          "published_at": "Fri, 14 Aug 2026 19:07:11 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
           ]
         }
       ]
@@ -1147,6 +1282,20 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "aW5jNDItdGFibGUtc3BhY2Ut",
+          "source_id": "inc42",
+          "source_name": "Inc42",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Table Space DRHP: A Look At Shareholding Pattern & Key Executives",
+          "summary": "Last week, Table Space filed its DRHP with the SEBI, proposing a fresh issue of shares worth up to ₹800…",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/ftr-14-2.jpg",
+          "article_url": "https://inc42.com/buzz/table-space-drhp-a-look-at-shareholding-pattern-key-executives/",
+          "published_at": "Mon, 17 Aug 2026 11:25:49 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "aW5jNDItc25hYmJpdC1yb3Bl",
           "source_id": "inc42",
           "source_name": "Inc42",
@@ -1170,7 +1319,7 @@
           "source_category": "Tech Media",
           "feed_label": "Latest",
           "title": "PhysicsWallah Jumps 9.5% After Q1 Results, JPMorgan & JM Financial Upgrade Rating",
-          "summary": "Shares of edtech company Physics Wallah rallied as much as 9.5% to an intraday high of ₹128.35 apiece on the…",
+          "summary": "Update| August 17, 17:32 IST Shares of Physics Wallah ended today’s session 2.4% higher at ₹120.10 apiece on the BSE.…",
           "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/11/PhysicsWallah-IPO-ftr-2.jpg",
           "article_url": "https://inc42.com/buzz/physicswallah-jumps-9-5-after-q1-results-jpmorgan-jm-financial-upgrade-rating/",
           "published_at": "Mon, 17 Aug 2026 07:36:58 +0000",
@@ -1198,7 +1347,7 @@
           "source_category": "Tech Media",
           "feed_label": "Latest",
           "title": "Zaggle Plunges 20% To Hit Lower Circuit After Q1 Profit Slump",
-          "summary": "Shares of fintech SaaS company Zaggle Prepaid Ocean Services plunged 20% during the intraday trading today to ₹160.45 apiece, hitting…",
+          "summary": "Update | August 17,  17:29 IST Shares of Zaggle ended today’s session at ₹160.45 apiece on the BSE, remaining locked…",
           "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/02/zaggle-zepto-featured-1-1.jpeg",
           "article_url": "https://inc42.com/buzz/zaggle-plunges-20-to-hit-lower-circuit-after-q1-profit-slump/",
           "published_at": "Mon, 17 Aug 2026 06:00:01 +0000",
@@ -1251,20 +1400,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "aW5jNDItcmRpLWZ1bmQtcm93",
-          "source_id": "inc42",
-          "source_name": "Inc42",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "RDI Fund Row: Deeptech Investors Seek More Transparency, Independent Oversight",
-          "summary": "For India’s deeptech sector, the government’s deeptech-focused ₹1 Lakh Cr Research, Development and Innovation (RDI) fund was supposed to be…",
-          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/ftr-16-1.jpg",
-          "article_url": "https://inc42.com/buzz/rdi-fund-row-deeptech-investors-seek-more-transparency-independent-oversight/",
-          "published_at": "Sun, 16 Aug 2026 11:06:37 +0000",
-          "cross_sections": []
         }
       ]
     },
@@ -1345,7 +1480,7 @@
           "source_region": "North America",
           "source_category": "Newspaper",
           "feed_label": "World",
-          "title": "Kushner Meets Netanyahu in Effort to Break Logjam Over Gaza",
+          "title": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
           "summary": "Prime Minister Benjamin Netanyahu of Israel has refused to pull back the country’s military until Hamas fully disarms. But the Trump administration is under pressure to show progress.",
           "image_url": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-kushner-netanyah-02-jzpv/17int-kushner-netanyah-02-jzpv-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
@@ -1587,7 +1722,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-08-17T11:57:13.058Z",
+          "published_at": "2026-08-17T12:29:24.788Z",
           "cross_sections": []
         },
         {
@@ -1601,7 +1736,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-08-17T11:57:13.058Z",
+          "published_at": "2026-08-17T12:29:24.788Z",
           "cross_sections": []
         },
         {
@@ -1615,7 +1750,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-08-17T11:57:13.058Z",
+          "published_at": "2026-08-17T12:29:24.788Z",
           "cross_sections": []
         },
         {
@@ -1937,10 +2072,38 @@
           "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
-          "published_at": "Mon, 17 Aug 2026 11:55:48 GMT",
+          "published_at": "Mon, 17 Aug 2026 12:28:44 GMT",
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "Y25iYy0nZG9uJ3QtZ2V0LXRv",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "'Don't get too comfortable': Wall Street’s ‘fear gauge’ hits 2026 low — here's why it's unlikely to last",
+          "summary": "A falling VIX points to growing investor complacency ahead of a traditionally turbulent time for markets, strategists warn.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/17/stock-market-volatility-vix-wall-street.html",
+          "published_at": "Mon, 17 Aug 2026 12:19:50 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "Y25iYy1tZXRhLWZhY2VzLeKA",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
+          "summary": "Less than two weeks after a loss in New Mexico, Meta faces a much bigger legal test in a case being co-led by California's attorney general.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
+          "published_at": "Mon, 17 Aug 2026 12:00:01 GMT",
+          "cross_sections": []
         },
         {
           "id": "Y25iYy1hbGliYWJhLWFuc3dl",
@@ -2019,34 +2182,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "Y25iYy1mZXJyYXJpLWx1Y2U6",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Ferrari Luce: Polarizing EV becomes a $40 million collector’s item",
-          "summary": "The auction of the Luce comes nearly three months after Ferrari unveiled its first fully electric car, which was priced at 550,000 euros (roughly $640,000).",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/17/ferrari-luce-electric-car-autos.html",
-          "published_at": "Mon, 17 Aug 2026 06:52:23 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "Y25iYy1iZXR3ZWVuLWVhcm4t",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Between earn-nothing cash, broken long-term bonds, these are the safety trades of 2026 market",
-          "summary": "Investors have flocked to short-term investments like ultra-short bond funds in anticipation of a stock market correction and with long-term bonds broken.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/15/cash-money-market-funds-bonds.html",
-          "published_at": "Sat, 15 Aug 2026 12:30:01 GMT",
-          "cross_sections": []
         },
         {
           "id": "Y25iYy1iZXJrc2hpcmUtaGF0",
@@ -2180,6 +2315,20 @@
       "region": "North America",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "Zm94LXRydW1wLWNvbmZpcm1z",
+          "source_id": "fox",
+          "source_name": "Fox News",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Trump confirms IRGC backchannel, but calls for Iran's 'white flag of surrender'",
+          "summary": "Trump confirmed a direct backchannel with the IRGC for peace talks and issued an extraordinary bombing warning to Oman as the ceasefire expires.",
+          "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/donald-trump-phone-oval-office.jpg?ve=1&tl=1",
+          "article_url": "https://www.foxnews.com/world/trump-confirms-irgc-backchannel-calls-irans-white-flag-surrender",
+          "published_at": "Mon, 17 Aug 2026 08:10:59 -0400",
+          "cross_sections": []
+        },
         {
           "id": "Zm94LWF1c3RyYWxpYS1zZXRz",
           "source_id": "fox",
@@ -2366,22 +2515,6 @@
           "cross_sections": []
         },
         {
-          "id": "Zm94LWZhcmFnZS1wdXRzLXNl",
-          "source_id": "fox",
-          "source_name": "Fox News",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Farage puts seat on the line over ‘establishment hit job’ — voters send him right back",
-          "summary": "Nigel Farage reclaimed his Clacton seat with 22,239 votes, but the parliamentary investigation into his undeclared £5 million gift is now active again.",
-          "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/nigel_farage.jpg?ve=1&tl=1",
-          "article_url": "https://www.foxnews.com/world/farage-puts-seat-line-over-establishment-hit-job-voters-send-him-right-back",
-          "published_at": "Fri, 14 Aug 2026 12:52:57 -0400",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "Zm94LXRoZS1zY2FtbWVyLWF0",
           "source_id": "fox",
           "source_name": "Fox News",
@@ -2437,17 +2570,17 @@
       "category": "Broadcaster",
       "articles": [
         {
-          "id": "YmJjLXBvc3QtbW9ydGVtcy1k",
+          "id": "YmJjLXRydW1wLWVudm95LWt1",
           "source_id": "bbc",
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "Top Stories",
-          "title": "Post-mortems due on five boys killed in crash on wrong side of motorway that injured four in Ireland",
-          "summary": "Three women and a child who were in a second car are being treated in hospital for serious injuries.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a34b/live/3d8de100-99fd-11f1-a7ab-8b30adf0800a.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 17 Aug 2026 11:51:50 GMT",
+          "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+          "summary": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d39/live/056878c0-9a2b-11f1-b650-3b3c4c4b08b3.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 17 Aug 2026 12:27:11 GMT",
           "cross_sections": []
         },
         {
@@ -2459,9 +2592,51 @@
           "feed_label": "Top Stories",
           "title": "Reform UK benefits ban for foreign nationals would include EU citizens",
           "summary": "The move would require renegotiating the UK's Brexit deal and could risk stripping British expats living in the EU of similar rights.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f668/live/6dbb32a0-99ae-11f1-9b60-95a3fcadaf8d.jpg",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8ca/live/418b4860-9a34-11f1-aed2-8d6da8d75094.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cly555430nno?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 17 Aug 2026 11:37:49 GMT",
+          "published_at": "Mon, 17 Aug 2026 12:24:27 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLXRvcC16YW1iaWFuLW9w",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Top Zambian opposition figures arrested days after presidential vote",
+          "summary": "The leading opposition candidate calls allegations of a planned insurrection as \"total fabrications\".",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4885/live/b3a7d990-9a02-11f1-ad4f-c7824f9e4997.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 17 Aug 2026 12:11:13 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLWNhbWJyaWRnZS1jaGFu",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Cambridge chancellor criticises 'racist feeding frenzy' around Jason Arday",
+          "summary": "Jason Arday, the former University of Cambridge professor at the centre of a plagiarism row, was found dead last week.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f467/live/1a793ee0-996b-11f1-870d-5d08c49babb2.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/clyxklg3xypo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 17 Aug 2026 12:01:37 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLXBvc3QtbW9ydGVtcy1k",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Post-mortems due on five boys killed in crash on wrong side of motorway that injured four in Ireland",
+          "summary": "Three women and a child who were in a second car are being treated in hospital for serious injuries.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a34b/live/3d8de100-99fd-11f1-a7ab-8b30adf0800a.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 17 Aug 2026 11:51:50 GMT",
           "cross_sections": []
         },
         {
@@ -2479,20 +2654,6 @@
           "cross_sections": []
         },
         {
-          "id": "YmJjLXRydW1wLWVudm95LWt1",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-          "summary": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d39/live/056878c0-9a2b-11f1-b650-3b3c4c4b08b3.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 17 Aug 2026 11:16:31 GMT",
-          "cross_sections": []
-        },
-        {
           "id": "YmJjLXVrcmFpbmlhbi1zdHJp",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2507,34 +2668,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YmJjLWNhbWJyaWRnZS1jaGFu",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Cambridge chancellor criticises 'racist feeding frenzy' around Jason Arday",
-          "summary": "Jason Arday, the former University of Cambridge professor at the centre of a plagiarism row, was found dead last week.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f467/live/1a793ee0-996b-11f1-870d-5d08c49babb2.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/clyxklg3xypo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 17 Aug 2026 11:04:44 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "YmJjLXRvcC16YW1iaWFuLW9w",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Top Zambian opposition figures arrested days after presidential vote",
-          "summary": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4885/live/b3a7d990-9a02-11f1-ad4f-c7824f9e4997.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 17 Aug 2026 10:57:09 GMT",
-          "cross_sections": []
         },
         {
           "id": "YmJjLWFpZC1zaG9ydGFnZXMt",
@@ -3172,6 +3305,20 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "ZXVyb25ld3MtZnJvbS1iZWlu",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "From being single to soaring costs and war: Why Iranian women are freezing their eggs",
+          "summary": "“I don’t want to lose time.” That is a common concern among some Iranian women considering freezing their eggs.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/64/15/696x392_cmsv2_2a9bfe9b-4cd5-59ed-bfd4-756cae0dcc17-9876415.jpg",
+          "article_url": "http://www.euronews.com/2026/08/17/from-being-single-to-soaring-costs-and-war-why-iranian-women-are-freezing-their-eggs",
+          "published_at": "Mon, 17 Aug 2026 13:59:33 +0200",
+          "cross_sections": []
+        },
+        {
           "id": "ZXVyb25ld3MtbGF0ZXN0LW5l",
           "source_id": "euronews",
           "source_name": "Euronews",
@@ -3262,18 +3409,20 @@
           ]
         },
         {
-          "id": "ZXVyb25ld3MtYmVuLWd2aXIt",
+          "id": "ZXVyb25ld3MtZG9ncy1yZWNl",
           "source_id": "euronews",
           "source_name": "Euronews",
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "News",
-          "title": "Ben-Gvir calls for killing of '30 to 40' Palestinians in Gaza nightly in taped interview with former hostage",
-          "summary": "In a taped interview, the far-right national security minister also advocated for encouraging the mass emigration of the Gaza Strip, saying he views the territory as entirely Israeli.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/64/97/696x392_cmsv2_a1909a58-21ec-581d-81ce-dbdbcc5a2a6b-9876497.jpg",
-          "article_url": "http://www.euronews.com/2026/08/17/ben-gvir-calls-for-killing-of-30-to-40-palestinians-in-gaza-nightly-in-taped-interview-wit",
-          "published_at": "Mon, 17 Aug 2026 06:42:23 +0200",
-          "cross_sections": []
+          "title": "Dogs receive holy water blessing in Bolivia ceremony",
+          "summary": "Dogs and owners attend a Saint Roch Mass in La Paz, Bolivia, where pets receive blessings and worshippers honour animals that have died.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/68/88/696x392_cmsv2_af3e174d-b079-5ae9-b361-135b6d436581-9876888.jpg",
+          "article_url": "http://www.euronews.com/video/2026/08/17/dogs-receive-holy-water-blessing-in-bolivia-ceremony",
+          "published_at": "Mon, 17 Aug 2026 07:01:08 +0200",
+          "cross_sections": [
+            "tech"
+          ]
         }
       ]
     },
@@ -3284,16 +3433,32 @@
       "category": "Broadcaster",
       "articles": [
         {
-          "id": "ZHctcHV0aW4tdmlzaXRlZC1r",
+          "id": "ZHctbWlkZGxlLWVhc3QtdXBk",
           "source_id": "dw",
           "source_name": "DW News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "Top Stories",
+          "title": "Middle East updates: Kushner meets Netanyahu in Jerusalem",
+          "summary": "The meeting comes amid a stalled post-war Gaza plan and after an Israeli minister called for more Palestinians to be killed in the enclave. Meanwhile, Iran says it is finalizing a deal with Oman on the Strait of Hormuz.",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/middle-east-updates-kushner-meets-netanyahu-in-jerusalem/live-78396539?maca=en-rss-en-top-1022-xml-mrss",
+          "published_at": "Mon, 17 Aug 2026 12:01:00 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZHctcHV0aW4tdmlzaXRlZC1r",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
           "title": "Putin visited Kuril to 'punish' Japan over Ukraine stance",
           "summary": "Analysts have said a visit by Russia's leader to a disputed island chain sent a \"message\" to Japan, which for decades has sought to reclaim control of the territory.",
           "image_url": null,
-          "article_url": "https://www.dw.com/en/putin-visited-kuril-to-punish-japan-over-ukraine-stance/a-78398035?maca=en-rss-en-top-1022-xml-mrss",
+          "article_url": "https://www.dw.com/en/putin-visited-kuril-to-punish-japan-over-ukraine-stance/a-78398035?maca=en-rss-en-world-4025-xml-mrss",
           "published_at": "Mon, 17 Aug 2026 11:47:00 GMT",
           "cross_sections": [
             "tech"
@@ -3388,20 +3553,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "ZHctZ2VybWFueS1uZXdzOi1i",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Germany news: Belgium blaze kept out of Germany for now",
-          "summary": "Some residents in the Eifel town of Monschau were evacuated as a massive fire in Belgium threatened to cross the border. Meanwhile, shipping shortfalls amid low river water levels could hit the construction industry.",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/germany-news-belgium-blaze-kept-out-of-germany-for-now/live-78391144?maca=en-rss-en-top-1022-xml-mrss",
-          "published_at": "Mon, 17 Aug 2026 06:42:00 GMT",
-          "cross_sections": []
         },
         {
           "id": "ZHctdXMtYWN0cmVzcy1oYXlk",
@@ -3510,22 +3661,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "ZHctcnVzc2lhbnMtc25hcC11",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Russians snap up new homes built on Ukraine 'graveyard'",
-          "summary": "Russia is constructing high-rises in the occupied Ukrainian city of Mariupol, on the sites of buildings it destroyed. Who's buying these properties? And what happened to the Ukrainians who used to lived here?",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/russians-snap-up-new-homes-built-on-ukraine-graveyard/a-78360176?maca=en-rss-en-world-4025-xml-mrss",
-          "published_at": "Sat, 15 Aug 2026 11:50:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -3536,18 +3671,50 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dG9pLW5pdGluLW5hYmluLWdl",
+          "id": "dG9pLXRlY2gtY2VvLXdoby1m",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Nitin Nabin gets a new team: Amit Malviya out as BJP IT cell chief",
+          "title": "Tech CEO who fired 900 workers on Zoom call asks board for his job back for $1 salary",
+          "summary": "Vishal Garg seeks reinstatement as Better Home & Finance CEO after his termination. He offers to work for one dollar annually until the company achieves profitability. Garg acknowledges past execution issues and the damage from the 2021 Zoom layoffs. He believes Daniel Lewis, his replacement, lacked",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/technology/tech-news/tech-ceo-who-sacked-employees-in-a-79-second-zoom-call-has-been-fired-tells-company-board-i-want-my-job-back-willing-to-work-for-/articleshow/133295575.cms",
+          "published_at": "Mon, 17 Aug 2026 17:08:24 +0530",
+          "cross_sections": [
+            "jobcuts"
+          ]
+        },
+        {
+          "id": "dG9pLWJqcC1yZWppZzotYW1p",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "BJP rejig: Amit Malviya removed as IT cell chief after 11 yrs; Mhaske takes over",
           "summary": "",
           "image_url": null,
           "article_url": "https://timesofindia.indiatimes.com/india/nitin-nabin-gets-a-new-team-amit-malviya-out-as-bjp-it-cell-chief/articleshow/133295201.cms",
           "published_at": "Mon, 17 Aug 2026 17:02:15 +0530",
           "cross_sections": []
+        },
+        {
+          "id": "dG9pLXNtcml0aS1pcmFuaSdz",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Smriti Irani's big comeback: Why BJP has turned to its 'giant killer'",
+          "summary": "Smriti Irani is reappointed as a general secretary for the BJP's national team, a move that highlights the party's strategic push in Uttar Pradesh ahead of upcoming elections. Following setbacks in the recent Lok Sabha elections, her previous success in Amethi positions her as a critical asset. This",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/smriti-irani-gets-key-party-role-why-bjp-has-turned-to-its-giant-killer-before-up-elections/articleshow/133295057.cms",
+          "published_at": "Mon, 17 Aug 2026 16:58:16 +0530",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
           "id": "dG9pLWphZGVqYS1zY3JpcHRz",
@@ -3561,38 +3728,6 @@
           "image_url": null,
           "article_url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/ravindra-jadeja-scripts-history-with-350th-test-wicket-joins-kapil-botham-vettori-in-elite-club/articleshow/133295183.cms",
           "published_at": "Mon, 17 Aug 2026 16:53:11 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLSdibGVuZC1vZi1leHBl",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "'Blend of experience   energy': PM Modi, Nabin congratulate BJP's new office-bearers",
-          "summary": "Prime Minister Narendra Modi commended the newly appointed national office-bearers of the Bharatiya Janata Party. He highlighted the team's blend of experience, vitality, and strong grassroots ties. Nitin Nabin leads this refreshed squad, which features thirteen vice presidents and a new treasurer, ",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/blend-of-experience-energy-pm-modi-nabin-congratulate-bjps-new-national-office-bearers/articleshow/133294226.cms",
-          "published_at": "Mon, 17 Aug 2026 16:19:37 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLWUyMC1wZXRyb2wtcm93",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "E20 petrol row: Bring back lower blend of ethanol fuel at pumps, says CEA Nageswaran",
-          "summary": "While the article said available evidence does not substantiate concerns that E20 is damaging engines, it acknowledged potential problems involving older vehicles. \"India has roughly 75 to 80 million older two-wheelers ... older rubber ⁠seals that are not rated for ethanol are a separate problem ...",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/business/india-business/e20-petrol-row-bring-back-lower-blend-of-ethanol-fuel-at-pumps-says-chief-economic-adviser-nageswaran/articleshow/133294019.cms",
-          "published_at": "Mon, 17 Aug 2026 16:18:52 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -3614,6 +3749,22 @@
           ]
         },
         {
+          "id": "dG9pLXVwLWF0cy1hcnJlc3Rz",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "UP ATS arrests man linked to Jaish-e-Mohammed sending funds to Pakistan",
+          "summary": "In a significant operation, the Uttar Pradesh ATS apprehended a resident of Bihar due to suspected ties with Jaish-e-Mohammed. He reportedly solicited donations for a madrasa while attempting to funnel funds to Pakistan. Intelligence assessments highlighted his connections with Maulana Masood Azhar,",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/city/lucknow/up-ats-arrests-man-linked-to-jaish-e-mohammed-sending-funds-to-pakistan/articleshow/133293234.cms",
+          "published_at": "Mon, 17 Aug 2026 15:51:01 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dG9pLWJqcC1hbm5vdW5jZXMt",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3628,35 +3779,18 @@
           "cross_sections": []
         },
         {
-          "id": "dG9pLWluZGlh4oCZcy1iaWdn",
+          "id": "dG9pLW1hY2tlbnppZS1zY290",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "India’s biggest urban problem might not be potholes. It could be us",
-          "summary": "Indian cities invest heavily in infrastructure, yet many problems arise from everyday human behavior.  Overflowing bins and parked cars on sidewalks highlight this ongoing civic failure.  Traffic rule violations and littering demonstrate a cultural contradiction in public space treatment.  Keeping c",
+          "title": "MacKenzie Scott helped abolish $40bn in medical debt; how mechanics work",
+          "summary": "MacKenzie Scott's philanthropic efforts have made a significant impact by enabling the cancellation of medical debt across the United States. By purchasing and eliminating patient debt at a minimal cost, she has set a precedent that encourages other wealthy individuals to invest in similar initiativ",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/city/indias-biggest-urban-problem-might-not-be-potholes-it-could-be-us/articleshow/133292002.cms",
-          "published_at": "Mon, 17 Aug 2026 14:58:25 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-has-helped-abolish-40-billion-in-medical-debt-how-mechanics-work/articleshow/133240371.cms",
+          "published_at": "Fri, 14 Aug 2026 17:17:21 +0530",
           "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLXVzLXRvLXRlbGwtZG96",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "US to tell dozens of countries: Choose us or China, no ‘à la carte’ option",
-          "summary": "The United States is encouraging nations to choose their artificial intelligence development partners wisely. Countries that align themselves with China's technological model will face exclusion from the Pax Silica initiative. This strategy is designed to safeguard essential supply chains for AI tec",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/technology/tech-news/america-is-getting-ready-to-send-letter-to-dozens-of-countries-telling-them-you-can-go-with-us-or-china-it-cannot-be-/articleshow/133288972.cms",
-          "published_at": "Mon, 17 Aug 2026 12:04:46 +0530",
-          "cross_sections": [
-            "tech",
             "ai"
           ]
         },
@@ -3905,128 +4039,124 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dGhlaGluZHUtYmpwLXJlc2h1",
+          "id": "dGhlaGluZHUtZm9sbG93aW5n",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "BJP reshuffle: Ram Madhav, Smriti Irani, Biplab Deb in new national team; Piyush Goyal named treasurer",
-          "summary": "Former Uttarakhand CM Tirath Singh Rawat, former Union Minister Bharti Pawar, Manpreet Singh Badal, and Tariq Mansoor also named as vice-presidents",
-          "image_url": "https://th-i.thgim.com/public/incoming/a5wmgu/article71355830.ece/alternates/LANDSCAPE_1200/DSC_6666.JPG",
-          "article_url": "https://www.thehindu.com/news/national/bjp-reshuffle-vasundhara-raje-ram-madhav-smriti-irani-vice-presidents-general-secretaries-organisational-overhaul/article71355824.ece",
-          "published_at": "Mon, 17 Aug 2026 17:22:04 +0530",
+          "title": "Following Karnataka HC order, ASI asks mutt to stop construction at prohibited area of historic Hoysala monument in Shivamogga’s Kudli",
+          "summary": "Though the ASI had issued notices on February 7, 2025, and February 18, 2025, directing that construction be stopped immediately, the mutt continued the construction even after.",
+          "image_url": "https://th-i.thgim.com/public/incoming/3136xe/article71356185.ece/alternates/LANDSCAPE_1200/9911_17_8_2026_17_2_6_3_KUDLIMATHA05.JPG",
+          "article_url": "https://www.thehindu.com/news/national/karnataka/following-karnataka-hc-order-asi-asks-mutt-to-stop-construction-at-prohibited-area-of-historic-hoysala-monument-in-shivamoggas-kudli/article71356059.ece",
+          "published_at": "Mon, 17 Aug 2026 17:52:43 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUtc3RhdGVzLWNh",
+          "id": "dGhlaGluZHUtYS11bmlmb3Jt",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "States can't create blockades in elephant corridors: SC",
-          "summary": "Justice Bagchi said the practice of using fireballs and spikes in West Bengal is prevalent because the elephants come from Nepal and through West Bengal they go to Jharkhand and other States",
-          "image_url": "https://th-i.thgim.com/public/incoming/wx5udi/article71356108.ece/alternates/LANDSCAPE_1200/peria_9869_12_8_2026_19_49_59_3_DSC5400%201.JPG",
-          "article_url": "https://www.thehindu.com/news/national/states-cant-create-blockades-in-elephant-corridors-sc/article71356053.ece",
-          "published_at": "Mon, 17 Aug 2026 17:21:32 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtYmFkbWludG9u",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Badminton Worlds: Indian hopes rest on Sindhu, Satwik-Chirag pair",
-          "summary": "Ayush takes on defending champion Shi in the opening round; Lakshya attempts to script history",
-          "image_url": "https://th-i.thgim.com/public/incoming/ormafs/article71352786.ece/alternates/LANDSCAPE_1200/52_Badminton_World_Championship_16_08_Delhi.jpg",
-          "article_url": "https://www.thehindu.com/sport/other-sports/badminton-worlds-indian-hopes-rest-on-sindhu-satwik-chirag-pair/article71352618.ece",
-          "published_at": "Mon, 17 Aug 2026 17:20:36 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtZ2VuLi1kaGly",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Gen. Dhiraj Seth conferred honorary rank of General of Nepali Army",
-          "summary": "The ceremony, a tradition sustained across successive generations of military leadership, underscores the continuity of the distinctive military relationship between the two armies, the Indian Army said",
-          "image_url": "https://th-i.thgim.com/public/incoming/lhb3rh/article71356086.ece/alternates/LANDSCAPE_1200/PTI08_17_2026_000269B.jpg",
-          "article_url": "https://www.thehindu.com/news/national/gen-dhiraj-seth-conferred-honorary-rank-of-general-of-nepali-army/article71356041.ece",
-          "published_at": "Mon, 17 Aug 2026 17:20:30 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtYW5kaHJhLXBy",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Andhra Pradesh Assembly LIVE: 11 of 14 DSCs held during my tenure, says Chandrababu Naidu",
-          "summary": "The session is expected to run for four days, to Thursday; Amaravati works, Polavaram, rainfall deficit and farmers' issues are expected to be addressed",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-assembly-monsoon-session-live-updates-august-17-2026/article71355330.ece",
-          "published_at": "Mon, 17 Aug 2026 17:18:47 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtd2VzdC1hc2lh",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "West Asia war LIVE: Trump says Iran cannot have a nuclear weapon",
-          "summary": "Very happy to see that Saudi Arabia, Turkiye, and Pakistan have recently, and finally, signed the Mecca Joint Defence Agreement, said U.S. President Donald Trump",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/international/iran-us-west-asia-war-strait-of-hormuz-donald-trump-live-updates-on-august-17-2026/article71354691.ece",
-          "published_at": "Mon, 17 Aug 2026 17:17:25 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtc2V2ZW4tZGVh",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Seven dead in stampede at temple in Bihar’s Lakhisarai",
-          "summary": "Eyewitnesses say that two trains full of devotees had reached Lakhisarai railway station, and the devotees, mostly women, rushed to offer sacred water to Lord Shiva; they add that the stampede happened due to lack of crowd management and rumour of an electric pole snapping",
-          "image_url": "https://th-i.thgim.com/public/incoming/kak8gi/article71354824.ece/alternates/LANDSCAPE_1200/PTI08_17_2026_000009B.jpg",
-          "article_url": "https://www.thehindu.com/news/national/bihar/ashok-dham-temple-stampede-lakhisarai-august-17-2026/article71354800.ece",
-          "published_at": "Mon, 17 Aug 2026 17:15:01 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtbmlmdHktZmFs",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Nifty falls for 5th day; Sensex drops 281 points amid rising crude oil prices",
-          "summary": "Brent crude, the global oil benchmark, climbed 1.11% to $89.50 per barrel.",
-          "image_url": "https://th-i.thgim.com/public/incoming/hve1uz/article71356071.ece/alternates/LANDSCAPE_1200/2026-04-09T030400Z_1004012662_RC2ELKAQ3XI6_RTRMADP_3_INDIA-SECTORS-BOFA.JPG",
-          "article_url": "https://www.thehindu.com/business/markets/nifty-falls-for-5th-day-sensex-drops-281-points-amid-rising-crude-oil-prices/article71356042.ece",
-          "published_at": "Mon, 17 Aug 2026 17:13:05 +0530",
+          "title": "A uniform 50% increase in Lok Sabha seats is pulling the wool over someone’s eyes: Praveen Chakravarty",
+          "summary": "Commenting on the Gen Z protests that led to the resignation of Union Education Minister Dharmendra Pradhan, he says the younger generation seek a radical change and don’t like the entrenched politics of the establishment",
+          "image_url": "https://th-i.thgim.com/public/incoming/rb0jur/article71355718.ece/alternates/LANDSCAPE_1200/8.jpg",
+          "article_url": "https://www.thehindu.com/news/national/tamil-nadu/a-uniform-50-increase-in-ls-seats-is-pulling-the-wool-over-someones-eyes-says-praveen-chakravarty/article71353328.ece",
+          "published_at": "Mon, 17 Aug 2026 17:50:50 +0530",
           "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtZ3Jhbml0ZS1z",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Granite stones fall at Mumbai Metro 9 site; contractor, consultants fined ₹12.5 crore",
+          "summary": "MMRDA clarified that “no granite stones fell on or directly struck any school vehicle during the incident”. “No students were present in the vehicle at the time of the incident, and no injuries were reported,” it said",
+          "image_url": "https://th-i.thgim.com/public/incoming/77jlxb/article70139382.ece/alternates/LANDSCAPE_1200/PTI10_08_2025_000130B.jpg",
+          "article_url": "https://www.thehindu.com/news/national/maharashtra/granite-stones-fall-at-mumbai-metro-9-site-contractor-consultants-fined-125-crore/article71355900.ece",
+          "published_at": "Mon, 17 Aug 2026 17:47:12 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUta2FybmF0YWth",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Karnataka Chief Minister’s effigy garlanded with footwear in Coimbatore over killing of three Tamils",
+          "summary": "Officials attached to the intelligence wing of the Coimbatore City Police said they were in the efforts to identify the location and the persons who placed the effigy. Further investigation is on.",
+          "image_url": "https://th-i.thgim.com/public/incoming/8zuikl/article71356151.ece/alternates/LANDSCAPE_1200/2085_17_8_2026_16_55_36_1_EFFIGY.JPEG",
+          "article_url": "https://www.thehindu.com/news/national/tamil-nadu/karnataka-chief-ministers-effigy-garlanded-with-footwear-in-coimbatore-over-killing-of-three-tamils/article71355919.ece",
+          "published_at": "Mon, 17 Aug 2026 17:46:28 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtYXV0by1yaWNr",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Auto-rickshaw driver from Vizag wins accolades for offering free transport service to pregnant women",
+          "summary": "Sundar Rao has helped 9,423 pregnant women reach hospital in time for delivery since the year 2000, and has developed contacts with ASHA workers and ANMs who call him whenever a need arises",
+          "image_url": "https://th-i.thgim.com/public/incoming/o6k28j/article71353115.ece/alternates/LANDSCAPE_1200/6726_16_8_2026_18_52_19_1_01AUTO.JPG",
+          "article_url": "https://www.thehindu.com/news/cities/Visakhapatnam/auto-rickshaw-driver-from-vizag-wins-accolades-for-offering-free-transport-service-to-pregnant-women/article71352857.ece",
+          "published_at": "Mon, 17 Aug 2026 17:44:21 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtYWF2aW7igJlz",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Aavin’s automatic milk vending machine launched in Udhagamandalam",
+          "summary": "The revived initiative is aimed at reducing plastic waste from milk sachets in the Nilgiris",
+          "image_url": "https://th-i.thgim.com/public/incoming/96glj0/article71356197.ece/alternates/LANDSCAPE_1200/10214_17_8_2026_11_13_8_1__SAT3805_1.JPG",
+          "article_url": "https://www.thehindu.com/news/national/tamil-nadu/aavins-automatic-milk-vending-machine-launched-in-udhagamandalam/article71355458.ece",
+          "published_at": "Mon, 17 Aug 2026 17:43:42 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtaW5kaWEsLXUu",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "India, U.S. navies conclude Explosive Ordnance Disposal exercise in Kochi",
+          "summary": "Subject matter expert exchanges covered real-time threats from improvised explosive devices (IEDs), render-safe procedures, mine neutralisation and the use of unmanned underwater systems, the Indian Navy says in a statement",
+          "image_url": "https://th-i.thgim.com/public/incoming/5265e0/article71356156.ece/alternates/LANDSCAPE_1200/PTI08_09_2026_000348B.jpg",
+          "article_url": "https://www.thehindu.com/news/national/india-us-navies-conclude-eod-exercise-in-kochi/article71356056.ece",
+          "published_at": "Mon, 17 Aug 2026 17:41:45 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtY29tcGxhaW50",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Complaint lodged against BJP leader Nainar Nagenthran for defamatory remarks against Tamil Nadu CM Vijay’s mother",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/33o9tq/article71350724.ece/alternates/LANDSCAPE_1200/Nainar%20Nagendran.jpg",
+          "article_url": "https://www.thehindu.com/news/national/tamil-nadu/complaint-lodged-against-bjp-leader-nainar-nagenthran-for-defamatory-remarks-against-tamil-nadu-cm-vijays-mother/article71350181.ece",
+          "published_at": "Mon, 17 Aug 2026 17:40:12 +0530",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
           "id": "dGhlaGluZHUtJ3Blb3BsZS1j",
@@ -4281,6 +4411,52 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "bmR0di0idXMtd2lsbC1ib21i",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "\"US Will Bomb The S*** Out Of Oman If It Gets In Way\": Trump's Hormuz Warning",
+          "summary": "Over the recent weeks, Iranian diplomats have been in negotiations with officials from Oman to manage shipping through the Strait of Hormuz.",
+          "image_url": "https://c.ndtvimg.com/2026-04/43mcr2e_trump-hormuz_625x300_02_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/world-news/us-iran-war-strait-of-hormuz-us-will-bomb-the-s-out-of-oman-if-it-gets-in-way-trumps-hormuz-warning-11921263#publisher=newsstand",
+          "published_at": "Mon, 17 Aug 2026 17:48:44 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1vcGluaW9uOi1vcGlu",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Opinion: Opinion | First Pak, Now Bangladesh: Why Turkey Is Becoming India's New Security Headache",
+          "summary": "A recent article in Turkish media illustrates how Ankara is turning into a strategic threat for India and its neighbourhood",
+          "image_url": "https://c.ndtvimg.com/recep-tayyip-erdogan_afp_650_625x300_1530704449785.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/opinion/first-pak-now-bangladesh-why-turkey-is-becoming-indias-new-security-headache-11921385#publisher=newsstand",
+          "published_at": "Mon, 17 Aug 2026 17:39:37 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1pbmRpYW4tYXJteS1j",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Indian Army Chief Awarded Honorary General Rank Of Nepal Army",
+          "summary": "General Dhiraj Seth arrived in Nepal on Sunday on a four-day official visit at the invitation of his Nepalese Army counterpart General Ashok Raj Sigdel.",
+          "image_url": "https://c.ndtvimg.com/2026-08/qtjvsqrc_honorary-general-of-nepal-army-_625x300_17_August_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/world-news/indian-army-chief-general-dhiraj-seth-awarded-honorary-general-rank-of-nepal-army-11921239#publisher=newsstand",
+          "published_at": "Mon, 17 Aug 2026 17:19:24 +0530",
+          "cross_sections": []
+        },
+        {
           "id": "bmR0di1hbWl0LW1hbHZpeWEt",
           "source_id": "ndtv",
           "source_name": "NDTV",
@@ -4427,22 +4603,6 @@
           ]
         },
         {
-          "id": "bmR0di1vcGluaW9uOi1vcGlu",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Opinion: Opinion | 4,800 Indians Removed, 51,000 ICE Arrests: What's Happening In Trump's America?",
-          "summary": "According to Stop AAPI Hate, Indians are now one of the most targeted groups by ICE, with the highest number of arrests, detentions, and deportations out of all Asian and Pacific Islanders.",
-          "image_url": "https://c.ndtvimg.com/2025-01/n74kuf2c_deportation_625x300_25_January_25.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/opinion/over-1-700-in-a-year-how-indians-are-becoming-one-of-us-most-deported-groups-11919983#publisher=newsstand",
-          "published_at": "Mon, 17 Aug 2026 13:02:55 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bmR0di11cy1pcmFuLWNlYXNl",
           "source_id": "ndtv",
           "source_name": "NDTV",
@@ -4457,52 +4617,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "bmR0di1uZHR2LXdvcmxkLXRv",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "NDTV World To Launch 'Anviksha' Dialogue Series In Nepal On August 27",
-          "summary": "The first edition of NDTV Anviksha: Ideas Across Borders' will feature political leaders, diplomats, business figures, actors and sportspersons from India and Nepal.",
-          "image_url": "https://c.ndtvimg.com/2026-08/e2cfvvnc_ndtv-world-anviksha_625x300_17_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/ndtv-world-to-launch-anviksha-dialogue-series-in-nepal-on-august-27-shashi-tharoor-manisha-koirala-among-speakers-at-india-nepal-dialogue-11909271#publisher=newsstand",
-          "published_at": "Mon, 17 Aug 2026 12:09:02 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "bmR0di0iZGlzYXN0ZXIiOi00",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "\"Disaster\": 4 Renaissance-Era Paintings Stolen From Italian Museum",
-          "summary": "The thieves bypassed alarm and security systems on Saturday evening at the MuMe museum to make off with three of the five surviving panels of the San Gregorio Polyptych, dated to 1473.",
-          "image_url": "https://c.ndtvimg.com/2026-08/m1t18eb8_museum-theft_625x300_17_August_26.jpeg",
-          "article_url": "https://www.ndtv.com/world-news/disaster-4-renaissance-era-paintings-stolen-from-italian-museum-11918415#publisher=newsstand",
-          "published_at": "Mon, 17 Aug 2026 11:21:57 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1ob3ctYS1mYWtlLWly",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "How A Fake Iran Nuke Claim From Indian Account Angered Team Trump, Netanyahu",
-          "summary": "Iran's nuclear programme has drawn international scrutiny for three decades, though Tehran insists it is for civilian purposes only.",
-          "image_url": "https://c.ndtvimg.com/2026-08/thtmmk1g_trump-mojtaba-khamenei_625x300_13_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/iran-us-war-israel-netanyahu-made-big-claim-about-irans-nuclear-plan-his-source-was-a-fake-post-11918376#publisher=newsstand",
-          "published_at": "Mon, 17 Aug 2026 09:17:07 +0530",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -4512,6 +4626,36 @@
       "region": "Middle East & Africa",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "YWxqYXplZXJhLWphc29uLWFy",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Jason Arday’s death is institutional murder",
+          "summary": "Arday was subjected to a vicious campaign fuelled by anti-Black racism.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/opinions/2026/8/17/jason-ardays-death-is-institutional-murder?traffic_source=rss",
+          "published_at": "Mon, 17 Aug 2026 12:08:03 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXVzLWlyYW4t",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "US-Iran Memorandum of Understanding expires: How and why it fell apart",
+          "summary": "Trump deemed the MoU 'over' within a month of it being signed, as the two sides traded attacks despite a 'ceasefire'.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart?traffic_source=rss",
+          "published_at": "Mon, 17 Aug 2026 12:07:23 +0000",
+          "cross_sections": []
+        },
         {
           "id": "YWxqYXplZXJhLWFyc2VuYWwt",
           "source_id": "aljazeera",
@@ -4599,36 +4743,6 @@
           "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/indian-temple-stampede-kills-seven-people-and-injures-dozens?traffic_source=rss",
           "published_at": "Mon, 17 Aug 2026 10:54:40 +0000",
           "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLWlzLWNoaW5h",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Is China encroaching upon Indian territory in Arunachal Pradesh?",
-          "summary": "India and China are tangled in yet another border dispute, angering locals in the eastern state of Arunachal Pradesh.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/8/17/is-china-encroaching-upon-indian-territory-in-arunachal-pradesh-2?traffic_source=rss",
-          "published_at": "Mon, 17 Aug 2026 10:51:49 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXdhdGNoOi15",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Watch: Young chef, 16, cooking up gourmet meals in Gaza",
-          "summary": "Yasser Ayad, 16, has become a culinary star on social media as he cooks traiditional Palestinain dishes in Gaza.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/features/2026/8/17/watch-young-chef-16-cooking-up-gourmet-meals-in-gaza?traffic_source=rss",
-          "published_at": "Mon, 17 Aug 2026 10:51:03 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -4639,131 +4753,124 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "YXJhYm5ld3MtZmluYWwtZWxl",
+          "id": "YXJhYm5ld3MtZ2F6YS1ib2Fy",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Final election phase begins in Pakistan-administered Kashmir despite banned group’s boycott call",
-          "summary": "MUZAFFARABAD, Pakistan: Voters went to the polls Monday in the final phase of elections for the legislative assembly in Pakistan-administered Kashmir, following weeks of violent protests and clashes with security forces that overshadowed campaigning in the disputed Himalayan region, officials said.\n",
+          "title": "Gaza Board of Peace official says plan is still operative",
+          "summary": "WASHINGTON: US President Donald Trump’s Gaza plan is still operative ​and discussions with Israel are continuing, a Board of Peace official said on Monday after Prime Minister Benjamin Netanyahu rejected an Israeli withdrawal until the Palestinian militant group Hamas is “genuinely disarmed.”\n\tNetan",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654152/world",
-          "published_at": "Tue, 11 Aug 2026 12:08:09 +03",
+          "article_url": "https://www.arabnews.com/node/2654137/middle-east",
+          "published_at": "Mon, 10 Aug 2026 09:08:32 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtZW5yb2xsbWVu",
+          "id": "YXJhYm5ld3MtemVsZW5za3kt",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Enrollment begins at Saudi-backed school for Gaza children",
-          "summary": "GAZA STRIP: Registration has opened for students seeking to enroll at Makkah School in the southern Gaza Strip, a Saudi-backed initiative aimed at helping children resume their education amid the devastation of the war, SPA has reported. \n\n\tThe school, supported by the King Salman Humanitarian Aid a",
+          "title": "Zelensky congratulates Saudi Arabia’s crown prince on Makkah defense agreement",
+          "summary": "RIYADH: Ukrainian President Volodymyr Zelensky congratulated Saudi Arabia’s Crown Prince Mohammed bin Salman on Monday for the recent signing of a regional defense agreement.\n\n\tZelensky said he hopes the Makkah Joint Defense Agreement signed between Saudi Arabia, Turkiye and Pakistan last week will ",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654157/saudi-arabia",
-          "published_at": "Tue, 11 Aug 2026 02:08:54 +03",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtdHJ1bXAtaW5z",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Trump insists Netanyahu relationship ‘very good’ despite Gaza rift",
-          "summary": "WASHINGTON, United States: President Donald Trump insisted on Monday that his relationship with Prime Minister Benjamin Netanyahu is “very good” despite the Israeli leader’s rejection of a US-led Gaza plan.\n\t“The relationship is very good,” Trump said in response to a shouted question from a journal",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654154/world",
-          "published_at": "Tue, 11 Aug 2026 01:08:46 +03",
+          "article_url": "https://www.arabnews.com/node/2654135/saudi-arabia",
+          "published_at": "Mon, 10 Aug 2026 08:08:11 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtbGlieWHigJlz",
+          "id": "YXJhYm5ld3MtYWx0YW5mZWV0",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Libya’s central bank chief resigns",
-          "summary": "TRIPOLI: The governor of Libya’s central bank, Naji Issa, has resigned without giving a reason, several reports said on Monday.\n\tPrivate TV channel Al-Ahrar said Issa had confirmed his resignation.\n\tIssa and vice-governor Miree Al-Barasee were appointed by Libya’s parliament, which is based in the e",
+          "title": "ALTANFEETHI concludes participation in Como Cup 2026 in Italy",
+          "summary": "ALTANFEETHI concluded its participation in Como Cup 2026 in Como, Italy, as part of its partnership with AlUla Club. The six-day participation introduced ALTANFEETHI’s services and hospitality experience to an international audience.\n\n\tALTANFEETHI participated through a dedicated booth within the ev",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654155/middle-east",
-          "published_at": "Tue, 11 Aug 2026 01:08:41 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtdHJ1bXDigJlz",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Trump’s Gaza plan hinges on Hamas disarmament, Israeli withdrawals",
-          "summary": "JERUSALEM: Donald Trump’s latest plan to end the Gaza war calls on Hamas to ‌lay down its arms as Israel withdraws from the territory, terms endorsed by the militants but rejected by Israel, which says it will not pull back until the group’s disarmament is complete.",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654156/middle-east",
-          "published_at": "Tue, 11 Aug 2026 01:08:10 +03",
+          "article_url": "https://www.arabnews.com/node/2654134/corporate-and-sponsored-content",
+          "published_at": "Mon, 10 Aug 2026 08:08:04 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtY2FuLWFsLWJ1",
+          "id": "YXJhYm5ld3MtdHJ1bXAtZGVt",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Can Al-Burhan’s Sudanese national dialogue turn military gains into a political settlement?",
-          "summary": "LONDON: More than three years after Sudan descended into civil war, army chief Gen. Abdel Fattah Al-Burhan is pushing for a broad national dialogue aimed at rebuilding the country’s political institutions and laying the foundations for a civilian transition.\n\n\tTalks could begin as early as August, w",
+          "title": "Trump demands Iran pay compensation for war dead and wounded",
+          "summary": "WASHINGTON: US President Donald Trump said Monday he would seek conflict compensation from Iran as part of any peace negotiations, citing attacks and atrocities stretching back decades allegedly backed or perpetrated by Tehran.\n\tIran is “asking for compensation for the damage done to them during the",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654150/middle-east",
-          "published_at": "Mon, 10 Aug 2026 11:08:33 +03",
+          "article_url": "https://www.arabnews.com/node/2654132/middle-east",
+          "published_at": "Mon, 10 Aug 2026 07:08:59 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtZmlyZS1icmVh",
+          "id": "YXJhYm5ld3MtaXJhbi1zdXBy",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Fire breaks out at Libya’s Zawiya refinery",
-          "summary": "TRIPOLI: A fire broke out on Monday ​in a diesel tank at Libya’s Zawiya refinery days after the facility was hit by drone.\n\n\tThe circumstances of Monday's fire remained unknown, Brega Petroleum Marketing Company said in a statement.\n\tBrega is owned by state oil firm National Oil Corporation (NOC) an",
+          "title": "Iran supreme leader names Guards general Abdollahi military chief",
+          "summary": "TEHRAN: Iranian supreme leader Mojtaba Khamenei named Revolutionary Guards general Ali Abdollahi head of the country's armed forces on Monday, while also confirming a new commander of the Guards, putting his imprimatur on the country's military.\n\tAbdollahi had previously led the Khatam Al-Anbiya, Ir",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654151/middle-east",
-          "published_at": "Mon, 10 Aug 2026 11:08:10 +03",
+          "article_url": "https://www.arabnews.com/node/2654129/middle-east",
+          "published_at": "Mon, 10 Aug 2026 07:08:36 +03",
+          "cross_sections": []
+        },
+        {
+          "id": "YXJhYm5ld3Mtc3BvcnRzLWJv",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Sports Boulevard launches $186m fund to develop Urban Wadi assets",
+          "summary": "JEDDAH: The Sports Boulevard Real Estate Development and Investment Co. has signed agreements with Rikaz Properties to establish its third real estate investment fund, valued at more than $186 million, to develop key assets including a luxury five-star hotel in Riyadh’s Urban Wadi.\n\n\tThe fund will f",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654133/business-economy",
+          "published_at": "Mon, 10 Aug 2026 07:08:14 +03",
+          "cross_sections": []
+        },
+        {
+          "id": "YXJhYm5ld3MtdWtyYWluZeKA",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Ukraine’s Zelensky says up to 50,000 North Korean troops to be deployed in Russia",
+          "summary": "SEOUL: Ukrainian President Volodymyr Zelensky has ‌said up to 50,000 North Korean soldiers will be deployed in Russia to fight for Pyongyang’s ally, while calling on South Korea to provide support for ​its air defense.Zelensky said on X on Saturday that “a decision has been made for 30,000 to 50,000",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654131/world",
+          "published_at": "Mon, 10 Aug 2026 07:08:03 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtdGVlbmFnZXIt",
+          "id": "YXJhYm5ld3MtaG91dGhpcy1s",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Teenager dies trying to rescue swimmers at Alexandria beach",
-          "summary": "ALEXANDRIA: An 18-year-old man died while attempting to help rescue six people from drowning at El-Baitash beach in Alexandria, Egypt, on Saturday, local authorities said.\n\tThe Central Administration for Tourism and Resorts in Alexandria said on Sunday that the beach was among those closed to swimme",
+          "title": "Houthis launch new drone wave across Yemen’s government-held areas",
+          "summary": "AL-MUKALLA: At least two Yemeni government soldiers were killed in southern Yemen as the Houthis launched a new wave of drone attacks on government-controlled areas in Aden, Mocha and Shabwa.\n\n\tThe escalation came as the Yemeni army vowed on Monday to respond to Houthi drone and missile strikes on t",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654149/middle-east",
-          "published_at": "Mon, 10 Aug 2026 10:08:39 +03",
-          "cross_sections": [
-            "tech"
-          ]
+          "article_url": "https://www.arabnews.com/node/2654127/middle-east",
+          "published_at": "Mon, 10 Aug 2026 06:08:00 +03",
+          "cross_sections": []
         }
       ]
     }
@@ -4802,6 +4909,11 @@
         {
           "id": "cnet",
           "name": "CNET",
+          "count": 8
+        },
+        {
+          "id": "computerworld",
+          "name": "Computerworld",
           "count": 8
         },
         {
@@ -4871,12 +4983,12 @@
         {
           "id": "euronews",
           "name": "Euronews",
-          "count": 7
+          "count": 8
         },
         {
           "id": "dw",
           "name": "DW News",
-          "count": 16
+          "count": 15
         }
       ]
     },
@@ -4903,7 +5015,7 @@
         {
           "id": "ndtv",
           "name": "NDTV",
-          "count": 15
+          "count": 14
         }
       ]
     },
@@ -4942,87 +5054,167 @@
           "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
-          "published_at": "Mon, 17 Aug 2026 11:55:48 GMT",
+          "published_at": "Mon, 17 Aug 2026 12:28:44 GMT",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtc3RhdGVzLWNh",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
+          "id": "bmR0di0idXMtd2lsbC1ib21i",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
           "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "States can't create blockades in elephant corridors: SC",
-          "summary": "Justice Bagchi said the practice of using fireballs and spikes in West Bengal is prevalent because the elephants come from Nepal and through West Bengal they go to Jharkhand and other States",
-          "image_url": "https://th-i.thgim.com/public/incoming/wx5udi/article71356108.ece/alternates/LANDSCAPE_1200/peria_9869_12_8_2026_19_49_59_3_DSC5400%201.JPG",
-          "article_url": "https://www.thehindu.com/news/national/states-cant-create-blockades-in-elephant-corridors-sc/article71356053.ece",
-          "published_at": "Mon, 17 Aug 2026 17:21:32 +0530",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "\"US Will Bomb The S*** Out Of Oman If It Gets In Way\": Trump's Hormuz Warning",
+          "summary": "Over the recent weeks, Iranian diplomats have been in negotiations with officials from Oman to manage shipping through the Strait of Hormuz.",
+          "image_url": "https://c.ndtvimg.com/2026-04/43mcr2e_trump-hormuz_625x300_02_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/world-news/us-iran-war-strait-of-hormuz-us-will-bomb-the-s-out-of-oman-if-it-gets-in-way-trumps-hormuz-warning-11921263#publisher=newsstand",
+          "published_at": "Mon, 17 Aug 2026 17:48:44 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtYmFkbWludG9u",
+          "id": "dGhlaGluZHUtZ3Jhbml0ZS1z",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Badminton Worlds: Indian hopes rest on Sindhu, Satwik-Chirag pair",
-          "summary": "Ayush takes on defending champion Shi in the opening round; Lakshya attempts to script history",
-          "image_url": "https://th-i.thgim.com/public/incoming/ormafs/article71352786.ece/alternates/LANDSCAPE_1200/52_Badminton_World_Championship_16_08_Delhi.jpg",
-          "article_url": "https://www.thehindu.com/sport/other-sports/badminton-worlds-indian-hopes-rest-on-sindhu-satwik-chirag-pair/article71352618.ece",
-          "published_at": "Mon, 17 Aug 2026 17:20:36 +0530",
+          "title": "Granite stones fall at Mumbai Metro 9 site; contractor, consultants fined ₹12.5 crore",
+          "summary": "MMRDA clarified that “no granite stones fell on or directly struck any school vehicle during the incident”. “No students were present in the vehicle at the time of the incident, and no injuries were reported,” it said",
+          "image_url": "https://th-i.thgim.com/public/incoming/77jlxb/article70139382.ece/alternates/LANDSCAPE_1200/PTI10_08_2025_000130B.jpg",
+          "article_url": "https://www.thehindu.com/news/national/maharashtra/granite-stones-fall-at-mumbai-metro-9-site-contractor-consultants-fined-125-crore/article71355900.ece",
+          "published_at": "Mon, 17 Aug 2026 17:47:12 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtZ2VuLi1kaGly",
+          "id": "dGhlaGluZHUta2FybmF0YWth",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Gen. Dhiraj Seth conferred honorary rank of General of Nepali Army",
-          "summary": "The ceremony, a tradition sustained across successive generations of military leadership, underscores the continuity of the distinctive military relationship between the two armies, the Indian Army said",
-          "image_url": "https://th-i.thgim.com/public/incoming/lhb3rh/article71356086.ece/alternates/LANDSCAPE_1200/PTI08_17_2026_000269B.jpg",
-          "article_url": "https://www.thehindu.com/news/national/gen-dhiraj-seth-conferred-honorary-rank-of-general-of-nepali-army/article71356041.ece",
-          "published_at": "Mon, 17 Aug 2026 17:20:30 +0530",
+          "title": "Karnataka Chief Minister’s effigy garlanded with footwear in Coimbatore over killing of three Tamils",
+          "summary": "Officials attached to the intelligence wing of the Coimbatore City Police said they were in the efforts to identify the location and the persons who placed the effigy. Further investigation is on.",
+          "image_url": "https://th-i.thgim.com/public/incoming/8zuikl/article71356151.ece/alternates/LANDSCAPE_1200/2085_17_8_2026_16_55_36_1_EFFIGY.JPEG",
+          "article_url": "https://www.thehindu.com/news/national/tamil-nadu/karnataka-chief-ministers-effigy-garlanded-with-footwear-in-coimbatore-over-killing-of-three-tamils/article71355919.ece",
+          "published_at": "Mon, 17 Aug 2026 17:46:28 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtYW5kaHJhLXBy",
+          "id": "dGhlaGluZHUtYWF2aW7igJlz",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Andhra Pradesh Assembly LIVE: 11 of 14 DSCs held during my tenure, says Chandrababu Naidu",
-          "summary": "The session is expected to run for four days, to Thursday; Amaravati works, Polavaram, rainfall deficit and farmers' issues are expected to be addressed",
+          "title": "Aavin’s automatic milk vending machine launched in Udhagamandalam",
+          "summary": "The revived initiative is aimed at reducing plastic waste from milk sachets in the Nilgiris",
+          "image_url": "https://th-i.thgim.com/public/incoming/96glj0/article71356197.ece/alternates/LANDSCAPE_1200/10214_17_8_2026_11_13_8_1__SAT3805_1.JPG",
+          "article_url": "https://www.thehindu.com/news/national/tamil-nadu/aavins-automatic-milk-vending-machine-launched-in-udhagamandalam/article71355458.ece",
+          "published_at": "Mon, 17 Aug 2026 17:43:42 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtY29tcGxhaW50",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Complaint lodged against BJP leader Nainar Nagenthran for defamatory remarks against Tamil Nadu CM Vijay’s mother",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/33o9tq/article71350724.ece/alternates/LANDSCAPE_1200/Nainar%20Nagendran.jpg",
+          "article_url": "https://www.thehindu.com/news/national/tamil-nadu/complaint-lodged-against-bjp-leader-nainar-nagenthran-for-defamatory-remarks-against-tamil-nadu-cm-vijays-mother/article71350181.ece",
+          "published_at": "Mon, 17 Aug 2026 17:40:12 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1vcGluaW9uOi1vcGlu",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Opinion: Opinion | First Pak, Now Bangladesh: Why Turkey Is Becoming India's New Security Headache",
+          "summary": "A recent article in Turkish media illustrates how Ankara is turning into a strategic threat for India and its neighbourhood",
+          "image_url": "https://c.ndtvimg.com/recep-tayyip-erdogan_afp_650_625x300_1530704449785.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/opinion/first-pak-now-bangladesh-why-turkey-is-becoming-indias-new-security-headache-11921385#publisher=newsstand",
+          "published_at": "Mon, 17 Aug 2026 17:39:37 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLWphc29uLWFy",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Jason Arday’s death is institutional murder",
+          "summary": "Arday was subjected to a vicious campaign fuelled by anti-Black racism.",
           "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-assembly-monsoon-session-live-updates-august-17-2026/article71355330.ece",
-          "published_at": "Mon, 17 Aug 2026 17:18:47 +0530",
+          "article_url": "https://www.aljazeera.com/opinions/2026/8/17/jason-ardays-death-is-institutional-murder?traffic_source=rss",
+          "published_at": "Mon, 17 Aug 2026 12:08:03 +0000",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtd2VzdC1hc2lh",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "West Asia war LIVE: Trump says Iran cannot have a nuclear weapon",
-          "summary": "Very happy to see that Saudi Arabia, Turkiye, and Pakistan have recently, and finally, signed the Mecca Joint Defence Agreement, said U.S. President Donald Trump",
+          "id": "Y25iY3RlY2gtaS1kcm92ZS10",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare",
+          "summary": "Rivian is trying to catch up to Tesla's \"hands-free\" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have.",
           "image_url": null,
-          "article_url": "https://www.thehindu.com/news/international/iran-us-west-asia-war-strait-of-hormuz-donald-trump-live-updates-on-august-17-2026/article71354691.ece",
-          "published_at": "Mon, 17 Aug 2026 17:17:25 +0530",
+          "article_url": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
+          "published_at": "Mon, 17 Aug 2026 12:06:19 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "emRuZXQtdGhpcy1nb29nbGUt",
+          "source_id": "zdnet",
+          "source_name": "ZDNet",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "This Google Play Store trick saved me over $100 on the Pixel 11 Pro XL - here's how",
+          "summary": "Here's how I saved hundreds on a new phone and watch in just a few seconds.",
+          "image_url": null,
+          "article_url": "https://www.zdnet.com/article/this-google-play-store-trick-might-save-you-up-to-175-on-the-pixel-11-heres-how-to-do-it/",
+          "published_at": "Mon, 17 Aug 2026 12:04:21 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZHctbWlkZGxlLWVhc3QtdXBk",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Middle East updates: Kushner meets Netanyahu in Jerusalem",
+          "summary": "The meeting comes amid a stalled post-war Gaza plan and after an Israeli minister called for more Palestinians to be killed in the enclave. Meanwhile, Iran says it is finalizing a deal with Oman on the Strait of Hormuz.",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/middle-east-updates-kushner-meets-netanyahu-in-jerusalem/live-78396539?maca=en-rss-en-top-1022-xml-mrss",
+          "published_at": "Mon, 17 Aug 2026 12:01:00 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -5033,28 +5225,12 @@
           "source_name": "DW News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Putin visited Kuril to 'punish' Japan over Ukraine stance",
           "summary": "Analysts have said a visit by Russia's leader to a disputed island chain sent a \"message\" to Japan, which for decades has sought to reclaim control of the territory.",
           "image_url": null,
-          "article_url": "https://www.dw.com/en/putin-visited-kuril-to-punish-japan-over-ukraine-stance/a-78398035?maca=en-rss-en-top-1022-xml-mrss",
+          "article_url": "https://www.dw.com/en/putin-visited-kuril-to-punish-japan-over-ukraine-stance/a-78398035?maca=en-rss-en-world-4025-xml-mrss",
           "published_at": "Mon, 17 Aug 2026 11:47:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtc2V2ZW4tZGVh",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Seven dead in stampede at temple in Bihar’s Lakhisarai",
-          "summary": "Eyewitnesses say that two trains full of devotees had reached Lakhisarai railway station, and the devotees, mostly women, rushed to offer sacred water to Lord Shiva; they add that the stampede happened due to lack of crowd management and rumour of an electric pole snapping",
-          "image_url": "https://th-i.thgim.com/public/incoming/kak8gi/article71354824.ece/alternates/LANDSCAPE_1200/PTI08_17_2026_000009B.jpg",
-          "article_url": "https://www.thehindu.com/news/national/bihar/ashok-dham-temple-stampede-lakhisarai-august-17-2026/article71354800.ece",
-          "published_at": "Mon, 17 Aug 2026 17:15:01 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5074,6 +5250,38 @@
           "cross_sections": [
             "tech",
             "ai"
+          ]
+        },
+        {
+          "id": "dG9pLXNtcml0aS1pcmFuaSdz",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Smriti Irani's big comeback: Why BJP has turned to its 'giant killer'",
+          "summary": "Smriti Irani is reappointed as a general secretary for the BJP's national team, a move that highlights the party's strategic push in Uttar Pradesh ahead of upcoming elections. Following setbacks in the recent Lok Sabha elections, her previous success in Amethi positions her as a critical asset. This",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/smriti-irani-gets-key-party-role-why-bjp-has-turned-to-its-giant-killer-before-up-elections/articleshow/133295057.cms",
+          "published_at": "Mon, 17 Aug 2026 16:58:16 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y29tcHV0ZXJ3b3JsZC1leGNo",
+          "source_id": "computerworld",
+          "source_name": "Computerworld",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Exchange CU1 delayed further as Microsoft races to verify AI-found flaws",
+          "summary": "AI-based assistants and agents are generally supposed to expedite software development lifecycles. For Microsoft’s Exchange team, it may be doing the opposite, in turn leaving enterprise IT teams waiting for an update that will require extensive compatibility testing before implementation.\nIn respon",
+          "image_url": "https://www.computerworld.com/wp-content/uploads/2026/08/4210454-0-70084900-1786966014-shutterstock_2662877349.jpg?quality=50&strip=all",
+          "article_url": "https://www.computerworld.com/article/4210454/exchange-cu1-delayed-further-as-microsoft-races-to-verify-ai-found-flaws.html",
+          "published_at": "Mon, 17 Aug 2026 11:25:52 +0000",
+          "cross_sections": [
+            "tech"
           ]
         },
         {
@@ -5286,22 +5494,6 @@
           ]
         },
         {
-          "id": "YWxqYXplZXJhLXdhdGNoOi15",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Watch: Young chef, 16, cooking up gourmet meals in Gaza",
-          "summary": "Yasser Ayad, 16, has become a culinary star on social media as he cooks traiditional Palestinain dishes in Gaza.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/features/2026/8/17/watch-young-chef-16-cooking-up-gourmet-meals-in-gaza?traffic_source=rss",
-          "published_at": "Mon, 17 Aug 2026 10:51:03 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "ZHctZ2VybWFueSdzLWFmZC1p",
           "source_id": "dw",
           "source_name": "DW News",
@@ -5313,38 +5505,6 @@
           "image_url": null,
           "article_url": "https://www.dw.com/en/germany-s-afd-is-labeled-far-right-populist-or-extremist/a-78395043?maca=en-rss-en-top-1022-xml-mrss",
           "published_at": "Mon, 17 Aug 2026 10:51:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLSdibGVuZC1vZi1leHBl",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "'Blend of experience   energy': PM Modi, Nabin congratulate BJP's new office-bearers",
-          "summary": "Prime Minister Narendra Modi commended the newly appointed national office-bearers of the Bharatiya Janata Party. He highlighted the team's blend of experience, vitality, and strong grassroots ties. Nitin Nabin leads this refreshed squad, which features thirteen vice presidents and a new treasurer, ",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/blend-of-experience-energy-pm-modi-nabin-congratulate-bjps-new-national-office-bearers/articleshow/133294226.cms",
-          "published_at": "Mon, 17 Aug 2026 16:19:37 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLWUyMC1wZXRyb2wtcm93",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "E20 petrol row: Bring back lower blend of ethanol fuel at pumps, says CEA Nageswaran",
-          "summary": "While the article said available evidence does not substantiate concerns that E20 is damaging engines, it acknowledged potential problems involving older vehicles. \"India has roughly 75 to 80 million older two-wheelers ... older rubber ⁠seals that are not rated for ethanol are a separate problem ...",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/business/india-business/e20-petrol-row-bring-back-lower-blend-of-ethanol-fuel-at-pumps-says-chief-economic-adviser-nageswaran/articleshow/133294019.cms",
-          "published_at": "Mon, 17 Aug 2026 16:18:52 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5446,13 +5606,29 @@
           ]
         },
         {
+          "id": "dG9pLXVwLWF0cy1hcnJlc3Rz",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "UP ATS arrests man linked to Jaish-e-Mohammed sending funds to Pakistan",
+          "summary": "In a significant operation, the Uttar Pradesh ATS apprehended a resident of Bihar due to suspected ties with Jaish-e-Mohammed. He reportedly solicited donations for a madrasa while attempting to funnel funds to Pakistan. Intelligence assessments highlighted his connections with Maulana Masood Azhar,",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/city/lucknow/up-ats-arrests-man-linked-to-jaish-e-mohammed-sending-funds-to-pakistan/articleshow/133293234.cms",
+          "published_at": "Mon, 17 Aug 2026 15:51:01 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "bnl0LWt1c2huZXItbWVldHMt",
           "source_id": "nyt",
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
           "feed_label": "World",
-          "title": "Kushner Meets Netanyahu in Effort to Break Logjam Over Gaza",
+          "title": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
           "summary": "Prime Minister Benjamin Netanyahu of Israel has refused to pull back the country’s military until Hamas fully disarms. But the Trump administration is under pressure to show progress.",
           "image_url": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-kushner-netanyah-02-jzpv/17int-kushner-netanyah-02-jzpv-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
@@ -5508,70 +5684,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "bnl0LXUucy4tYW5kLWlyYW4t",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "U.S. and Iran Blow Past War Deadline, and the Rise of Islamophobia in Texas",
-          "summary": "Plus, Hayden Panettiere dies at 36.",
-          "image_url": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-iran-mou-headline-cvbh/17int-iran-mou-headline-cvbh-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/17/podcasts/the-headlines/us-iran-deadline-war-islamophobia-texas.html",
-          "published_at": "Mon, 17 Aug 2026 10:00:15 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtJ3Blb3BsZS1j",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "'People could get hurt': Conservationists decry AI wildlife visuals",
-          "summary": "Conservationists say AI visuals portraying wild animals as cute or cuddly make it harder for social media users to discern what is real and can fuel exploitation",
-          "image_url": "https://th-i.thgim.com/public/incoming/z7xfv1/article71355724.ece/alternates/LANDSCAPE_1200/AFP_B6MC6TE.jpg",
-          "article_url": "https://www.thehindu.com/sci-tech/energy-and-environment/people-could-get-hurt-conservationists-decry-ai-wildlife-visuals/article71355713.ece",
-          "published_at": "Mon, 17 Aug 2026 15:26:04 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy1ydXNzaWEtdGFyZ2V0",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Russia targets Danube port after one of Ukraine’s largest aerial attacks of the war",
-          "summary": "Russia struck port infrastructure in Ukraine’s Odesa region, damaging a Togo-flagged civilian vessel near Izmail after Kyiv launched a major drone attack on Moscow.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/17/ukraine-war-russia-putin-moscow.html",
-          "published_at": "Mon, 17 Aug 2026 09:46:08 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy1iZXR3ZWVu",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Between cartel threats and U.S. airstrikes, Ecuador fishers have nowhere to hide",
-          "summary": "Drug cartels have turned the small ports of Ecuador's Manabi province into a cocaine-trafficking hub, extorting local fishers who are prized for their navigation skills.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/17/557803.JPG",
-          "article_url": "https://www.japantimes.co.jp/news/2026/08/17/world/society/ecuador-fishermen-cartel-us-airstrikes/",
-          "published_at": "Mon, 17 Aug 2026 18:43:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -5580,6 +5692,22 @@
       "name": "Global Job Cuts",
       "icon": "📉",
       "articles": [
+        {
+          "id": "dG9pLXRlY2gtY2VvLXdoby1m",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Tech CEO who fired 900 workers on Zoom call asks board for his job back for $1 salary",
+          "summary": "Vishal Garg seeks reinstatement as Better Home & Finance CEO after his termination. He offers to work for one dollar annually until the company achieves profitability. Garg acknowledges past execution issues and the damage from the 2021 Zoom layoffs. He believes Daniel Lewis, his replacement, lacked",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/technology/tech-news/tech-ceo-who-sacked-employees-in-a-79-second-zoom-call-has-been-fired-tells-company-board-i-want-my-job-back-willing-to-work-for-/articleshow/133295575.cms",
+          "published_at": "Mon, 17 Aug 2026 17:08:24 +0530",
+          "cross_sections": [
+            "jobcuts"
+          ]
+        },
         {
           "id": "Z3VhcmRpYW4tdW5lbXBsb3ll",
           "source_id": "guardian",
@@ -5651,23 +5779,6 @@
           "article_url": "https://www.thehindu.com/sci-tech/technology/anthropic-releases-more-info-about-claude-ai-watermarking-amid-user-confusion/article71355224.ece",
           "published_at": "Mon, 17 Aug 2026 14:34:25 +0530",
           "cross_sections": [
-            "ai"
-          ]
-        },
-        {
-          "id": "dG9pLXVzLXRvLXRlbGwtZG96",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "US to tell dozens of countries: Choose us or China, no ‘à la carte’ option",
-          "summary": "The United States is encouraging nations to choose their artificial intelligence development partners wisely. Countries that align themselves with China's technological model will face exclusion from the Pax Silica initiative. This strategy is designed to safeguard essential supply chains for AI tec",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/technology/tech-news/america-is-getting-ready-to-send-letter-to-dozens-of-countries-telling-them-you-can-go-with-us-or-china-it-cannot-be-/articleshow/133288972.cms",
-          "published_at": "Mon, 17 Aug 2026 12:04:46 +0530",
-          "cross_sections": [
-            "tech",
             "ai"
           ]
         },
@@ -5926,23 +6037,6 @@
           ]
         },
         {
-          "id": "Y25iY3RlY2gtb3BlbmFpLXRh",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
-          "summary": "OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
-          "published_at": "Fri, 14 Aug 2026 19:07:11 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "bnl0LWdvb2dsZS10dXJucy1v",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -5971,6 +6065,56 @@
           "image_url": null,
           "article_url": "https://www.zdnet.com/article/google-meet-take-notes-in-person-meetings-how-it-works/",
           "published_at": "Fri, 14 Aug 2026 16:54:29 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "Y29tcHV0ZXJ3b3JsZC1vcGVu",
+          "source_id": "computerworld",
+          "source_name": "Computerworld",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "OpenAI loses its AI ethics lead",
+          "summary": "OpenAI has lost its AI ethics lead Chloé Bakalar just a year after she joined the company, the Financial Times reported. Bakalar has maintained a silence and has yet to update her LinkedIn profile, but if her departure is confirmed then it will add to the list of OpenAI executives who have quit in r",
+          "image_url": "https://www.computerworld.com/wp-content/uploads/2026/08/4209796-0-99380500-1786713712-OpenAI-signage-shutterstock_2427127537.jpg?quality=50&strip=all",
+          "article_url": "https://www.computerworld.com/article/4209796/openai-loses-its-ai-ethics-lead.html",
+          "published_at": "Fri, 14 Aug 2026 13:20:49 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "dG9pLW1hY2tlbnppZS1zY290",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "MacKenzie Scott helped abolish $40bn in medical debt; how mechanics work",
+          "summary": "MacKenzie Scott's philanthropic efforts have made a significant impact by enabling the cancellation of medical debt across the United States. By purchasing and eliminating patient debt at a minimal cost, she has set a precedent that encourages other wealthy individuals to invest in similar initiativ",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-has-helped-abolish-40-billion-in-medical-debt-how-mechanics-work/articleshow/133240371.cms",
+          "published_at": "Fri, 14 Aug 2026 17:17:21 +0530",
+          "cross_sections": [
+            "ai"
+          ]
+        },
+        {
+          "id": "Y29tcHV0ZXJ3b3JsZC1hcHBs",
+          "source_id": "computerworld",
+          "source_name": "Computerworld",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Apple cracks China with Alibaba for iPhone AI",
+          "summary": "Apple recently posted and removed details explaining how Mac users in China could set up their computers to work with Alibaba’s Qwen AI. Now, Reuters has confirmed long-held speculation that Apple has revisited its Google Gemini AI playbook and built its own proprietary AI model for China with suppo",
+          "image_url": "https://www.computerworld.com/wp-content/uploads/2026/08/4209632-0-14037000-1786705546-Apple-services-hero.jpg?quality=50&strip=all",
+          "article_url": "https://www.computerworld.com/article/4209632/apple-cracks-china-with-alibaba-for-iphone-ai.html",
+          "published_at": "Fri, 14 Aug 2026 11:04:35 +0000",
           "cross_sections": [
             "tech",
             "ai"
@@ -6095,23 +6239,6 @@
           ]
         },
         {
-          "id": "YXJhYm5ld3MtZW5yb2xsbWVu",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Enrollment begins at Saudi-backed school for Gaza children",
-          "summary": "GAZA STRIP: Registration has opened for students seeking to enroll at Makkah School in the southern Gaza Strip, a Saudi-backed initiative aimed at helping children resume their education amid the devastation of the war, SPA has reported. \n\n\tThe school, supported by the King Salman Humanitarian Aid a",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654157/saudi-arabia",
-          "published_at": "Tue, 11 Aug 2026 02:08:54 +03",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "dG9pLWNoYXRncHQtd2FzLWRv",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -6132,7 +6259,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 16255,
+    "build_ms": 9841,
     "ai_enabled": true
   }
 }
