@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-17T15:39:32.926Z",
-  "total_articles": 302,
-  "new_this_run": 45,
+  "last_updated": "2026-08-17T15:57:07.617Z",
+  "total_articles": 309,
+  "new_this_run": 31,
   "sources": [
     {
       "id": "techcrunch",
@@ -398,6 +398,36 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "YXJzdGVjaG5pY2EtdGhpcy1z",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "This sub-$7,000 sportscar might be just what the future needs",
+          "summary": "The Gasolini AR1 uses 2-cylinder Honda bike engine, and an EV is underway, too.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/0.png-1152x648.jpeg",
+          "article_url": "https://arstechnica.com/cars/2026/08/the-opposite-of-a-hypercar-is-fun-meet-the-gasolini-ar1/",
+          "published_at": "Mon, 17 Aug 2026 15:01:25 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YXJzdGVjaG5pY2EtbnZpZGlh",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Nvidia discloses $21B stake in SpaceX",
+          "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_116f79c4-b712-471b-b46a-ace5e4d7dda4.avif",
+          "article_url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+          "published_at": "Mon, 17 Aug 2026 14:22:54 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YXJzdGVjaG5pY2EtbWVldC10",
           "source_id": "arstechnica",
           "source_name": "Ars Technica",
@@ -490,36 +520,6 @@
           "article_url": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
           "published_at": "Sat, 15 Aug 2026 11:09:57 +0000",
           "cross_sections": []
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtdnVsbmVy",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
-          "summary": "Screen-sharing bug lets remote hackers log in without a password.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/macbook-pro-1152x648.jpg",
-          "article_url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
-          "published_at": "Fri, 14 Aug 2026 18:32:14 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtZmlyc3Qt",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
-          "summary": "Airline-backed venture aims to develop a hybrid-electric commercial aircraft.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/x1-632-1152x648.jpg",
-          "article_url": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
-          "published_at": "Fri, 14 Aug 2026 18:00:23 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -776,6 +776,22 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "Y29tcHV0ZXJ3b3JsZC11cy1j",
+          "source_id": "computerworld",
+          "source_name": "Computerworld",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "US confounds Apple’s memory supply challenge",
+          "summary": "US Commerce Secretary Howard Lutnick is “not in favor” of Apple’s plan to alleviate the impact of rapid memory price inflation by purchasing RAM made in China for use in devices sold there. \nTrade by US firms with the biggest Chinese memory manufacturers, CXMT and Yangtze Memory Technologies, is res",
+          "image_url": "https://www.computerworld.com/wp-content/uploads/2026/08/4210562-0-49596600-1786981200-apple-park-photo-1-building-trees.jpg?quality=50&strip=all",
+          "article_url": "https://www.computerworld.com/article/4210562/us-confounds-apples-memory-supply-challenge.html",
+          "published_at": "Mon, 17 Aug 2026 15:38:54 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "Y29tcHV0ZXJ3b3JsZC1tb2J1",
           "source_id": "computerworld",
           "source_name": "Computerworld",
@@ -887,22 +903,6 @@
           "cross_sections": [
             "tech",
             "ai"
-          ]
-        },
-        {
-          "id": "Y29tcHV0ZXJ3b3JsZC1ob3ct",
-          "source_id": "computerworld",
-          "source_name": "Computerworld",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "How to replace Edge as the default browser in Windows — and why you shouldn’t",
-          "summary": "Microsoft has been struggling to get people to use its Edge browser for years. Even though the company made Edge the default browser in Windows 10, users left in droves, most of them flocking to Google Chrome — and with good reason. The original version of Edge was underpowered, had difficult-to-use",
-          "image_url": "https://www.computerworld.com/wp-content/uploads/2026/08/1713244-0-40760600-1786705434-edge-browser-logo_microsoft-100816808-orig.jpg?quality=50&strip=all",
-          "article_url": "https://www.computerworld.com/article/1713244/how-to-replace-edge-as-windows-default-browser.html",
-          "published_at": "Fri, 14 Aug 2026 11:00:00 +0000",
-          "cross_sections": [
-            "tech"
           ]
         }
       ]
@@ -1440,6 +1440,23 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "bnl0LWFpLXNsb3AtaXMtZXZl",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.",
+          "summary": "Spotify, LinkedIn and others are trying to dig out of a digital sewage heap full of low-quality content made with artificial intelligence.",
+          "image_url": "https://static01.nyt.com/images/2026/08/17/business/00biz-ai-slop/00biz-ai-slop-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/17/technology/ai-slop.html",
+          "published_at": "Mon, 17 Aug 2026 15:36:10 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "bnl0LWhvdXRoaXMtY2xhaW0t",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1531,22 +1548,6 @@
           "image_url": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-skorea-trump-promo-ctkj/17int-skorea-trump-promo-ctkj-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html",
           "published_at": "Mon, 17 Aug 2026 10:57:47 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LXdoby1pcy10aGUtbmV3",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Who Is the New White House Counsel?",
-          "summary": "President Trump appointed his former personal lawyer Will Scharf as White House counsel. Maggie Haberman, our White House correspondent, explains how Scharf might help the president avoid congressional oversight at a critical time.",
-          "image_url": null,
-          "article_url": "https://www.nytimes.com/video/us/100000011088612/who-is-the-new-white-house-counsel.html",
-          "published_at": "Mon, 17 Aug 2026 10:33:59 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -1703,23 +1704,6 @@
           "article_url": "https://www.nytimes.com/2026/08/13/technology/hpe-juniper-justice-department-settlement.html",
           "published_at": "Thu, 13 Aug 2026 22:50:07 +0000",
           "cross_sections": []
-        },
-        {
-          "id": "bnl0LWFub3RoZXItb3BlbmFp",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "Another OpenAI Executive, Denise Dresser, Departs the A.I. Start-Up",
-          "summary": "Denise Dresser, who was previously the C.E.O. of Slack, is the latest in a string of executives to leave the artificial intelligence start-up.",
-          "image_url": "https://static01.nyt.com/images/2026/08/13/multimedia/13biz-openai-exec-Denise-Dresser-1-mvjl/13biz-openai-exec-Denise-Dresser-1-mvjl-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/13/technology/openai-executive-departure-denise-dresser.html",
-          "published_at": "Thu, 13 Aug 2026 21:15:41 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
         }
       ]
     },
@@ -1729,20 +1713,6 @@
       "region": "North America",
       "category": "Broadcaster",
       "articles": [
-        {
-          "id": "Y25uLXRydW1wLXBsZWFkcy1u",
-          "source_id": "cnn",
-          "source_name": "CNN",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Trump pleads not guilty to 34 felony counts",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-08-17T15:39:23.744Z",
-          "cross_sections": []
-        },
         {
           "id": "Y25uLXJlYWQ6LXRydW1wLWlu",
           "source_id": "cnn",
@@ -1754,7 +1724,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-08-17T15:39:23.744Z",
+          "published_at": "2026-08-17T15:56:59.035Z",
           "cross_sections": []
         },
         {
@@ -1768,7 +1738,21 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-08-17T15:39:23.744Z",
+          "published_at": "2026-08-17T15:56:59.035Z",
+          "cross_sections": []
+        },
+        {
+          "id": "Y25uLXRydW1wLXBsZWFkcy1u",
+          "source_id": "cnn",
+          "source_name": "CNN",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Trump pleads not guilty to 34 felony counts",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
+          "published_at": "2026-08-17T15:56:59.034Z",
           "cross_sections": []
         },
         {
@@ -2090,10 +2074,42 @@
           "summary": "Maran Nalluswami, Synchrony's chief strategy officer, told CNBC it will probably take six to 12 months to get payments fully integrated into ChatGPT.",
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
-          "published_at": "Mon, 17 Aug 2026 15:28:45 GMT",
+          "published_at": "Mon, 17 Aug 2026 15:52:22 GMT",
           "cross_sections": [
             "tech",
             "ai"
+          ]
+        },
+        {
+          "id": "Y25iYy1udmlkaWEtZmluYW5j",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Nvidia financing initiative follows SEC guidance that takes sponsors off the hook for data center investments",
+          "summary": "Recent SEC instructions on data center bonds appear applicable to the recent Nvidia financing move, lawyers say.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/17/nvidia-financing-initiative-follows-sec-guidance-taking-sponsors-off-the-hook.html",
+          "published_at": "Mon, 17 Aug 2026 15:51:32 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iYy1zdXByZW1lLWNvdXJ0",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
+          "summary": "President Trump was held civilly liable in the case by a New York federal jury for defaming and sexually abusing the writer E. Jean Carroll.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html",
+          "published_at": "Mon, 17 Aug 2026 15:50:19 GMT",
+          "cross_sections": [
+            "tech"
           ]
         },
         {
@@ -2114,22 +2130,6 @@
           ]
         },
         {
-          "id": "Y25iYy1vaWwtcHJpY2VzLXJp",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
-          "summary": "The U.S.-Iran deal was supposed to open the Strait of Hormuz while they negotiated a final deal on Tehran's nuclear program within 60 days.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
-          "published_at": "Mon, 17 Aug 2026 15:25:43 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "Y25iYy1vcGVuYWkncy1icm9j",
           "source_id": "cnbc",
           "source_name": "CNBC",
@@ -2144,22 +2144,6 @@
           "cross_sections": [
             "tech",
             "ai"
-          ]
-        },
-        {
-          "id": "Y25iYy1zdXByZW1lLWNvdXJ0",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
-          "summary": "President Trump was held civilly liable in the case by a New York federal jury for defaming and sexually abusing the writer E. Jean Carroll.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html",
-          "published_at": "Mon, 17 Aug 2026 14:51:24 GMT",
-          "cross_sections": [
-            "tech"
           ]
         },
         {
@@ -2321,6 +2305,20 @@
       "region": "North America",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "Zm94LXJ1c3NpYW4tc3RhdGUt",
+          "source_id": "fox",
+          "source_name": "Fox News",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Russian state economist fired after stark warning about Moscow’s economic future",
+          "summary": "VEB.RF, Russian state development bank, economist Andrei Klepach warned Russia is losing the war of attrition before his firing, as the European Union prepares sweeping sanctions.",
+          "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Andrei-Klepach.jpg?ve=1&tl=1",
+          "article_url": "https://www.foxnews.com/world/russian-state-economist-fired-after-stark-warning-about-moscows-economic-future",
+          "published_at": "Mon, 17 Aug 2026 11:43:35 -0400",
+          "cross_sections": []
+        },
         {
           "id": "Zm94LXRydW1wLWNvbmZpcm1z",
           "source_id": "fox",
@@ -2491,22 +2489,6 @@
           ]
         },
         {
-          "id": "Zm94LWNvbnN0cnVjdGlvbi13",
-          "source_id": "fox",
-          "source_name": "Fox News",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Construction workers uncover $10 million in gold while building sewer under former brewery",
-          "summary": "Construction workers in Belgium discovered $10 million in gold coins and bars while building a sewer, but a finder's fee remains uncertain.",
-          "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/GOLD-FOUND-IN-BELGIUM.gif",
-          "article_url": "https://www.foxnews.com/world/construction-workers-uncover-10-million-gold-building-sewer-former-brewery",
-          "published_at": "Fri, 14 Aug 2026 21:09:08 -0400",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "Zm94LWNoZWFwLXR2LWJveGVz",
           "source_id": "fox",
           "source_name": "Fox News",
@@ -2576,6 +2558,22 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YmJjLXN1cHJlbWUtY291cnQt",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll  sex abuse case",
+          "summary": "The US president has already paid the writer over $5m in damages in the assault and defamation case.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8678/live/aa573860-9a50-11f1-96c4-e7f87215742d.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 17 Aug 2026 15:33:42 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YmJjLWJveSwtc2V2ZW4sLWFt",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2596,9 +2594,9 @@
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "Top Stories",
-          "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
-          "summary": "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cbd/live/ce084930-9a40-11f1-a86b-519b4d19bbee.jpg",
+          "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran issue",
+          "summary": "The US and Oman have separately been negotiating to reopen the Strait of Hormuz, a waterway that has been closed during the US war with Iran.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0845/live/0d9a0730-9a52-11f1-aed2-8d6da8d75094.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 17 Aug 2026 14:59:02 GMT",
           "cross_sections": []
@@ -2645,20 +2643,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd38/live/07503aa0-9a22-11f1-a291-b542ee92de7c.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 17 Aug 2026 14:24:58 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "YmJjLXRvcC16YW1iaWFuLW9w",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Top Zambian opposition figures arrested days after presidential vote",
-          "summary": "The leading opposition candidate calls allegations of a planned insurrection \"total fabrications\".",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4885/live/b3a7d990-9a02-11f1-ad4f-c7824f9e4997.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 17 Aug 2026 14:23:04 GMT",
           "cross_sections": []
         },
         {
@@ -3281,6 +3265,64 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "ZXVyb25ld3MtNywyMDAtZWdn",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "7,200 eggs cracked for giant omelette at Belgian festival",
+          "summary": "Volunteers cook a 7,200-egg omelette in a four-metre pan over an open fire at the Giant Omelette Festival in Malmedy, Belgium.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/74/24/696x392_cmsv2_fb9593e2-3c57-594b-8581-2e2a0d1094d7-9877424.jpg",
+          "article_url": "http://www.euronews.com/video/2026/08/17/7200-eggs-cracked-for-giant-omelette-at-belgian-festival",
+          "published_at": "Mon, 17 Aug 2026 17:39:12 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtaGF5ZGVuLXBh",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Hayden Panettiere: Authorities investigating cause of death as US media speculate on 'overdose'",
+          "summary": "Actress Hayden Panettiere has died at the age of 36. US media is speculating on the cause of death, with People magazine reporting officials discussed \"overdose\" in dispatch audio.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/76/05/696x392_cmsv2_5aec66aa-2050-58c5-86b2-26be21debbe0-9877605.jpg",
+          "article_url": "http://www.euronews.com/2026/08/17/hayden-panettiere-authorities-investigating-cause-of-death-as-us-media-speculate-on-overdo",
+          "published_at": "Mon, 17 Aug 2026 17:22:36 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtdHJ1bXAtdGhy",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Trump threatens to bomb Oman if it impedes US-Iran Strait of Hormuz talks",
+          "summary": "Tehran has been locked in ongoing talks with Oman over establishing a secure passage for commercial shipping through the Strait, which usually carries around a quarter of the world’s seaborne oil trade.",
+          "image_url": "https://images.euronews.com/articles/stories/09/86/77/14/696x392_cmsv2_e8cfdf20-ad74-5ed1-bb17-995cab5f2d2b-9867714.jpg",
+          "article_url": "http://www.euronews.com/2026/08/17/trump-threatens-to-bomb-oman-if-it-impedes-us-iran-strait-of-hormuz-talks",
+          "published_at": "Mon, 17 Aug 2026 15:28:15 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtdmVuZXp1ZWxh",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Venezuela seeks return of 31 tonnes of gold worth €4bn from Bank of England",
+          "summary": "After two weeks of US-brokered talks, Venezuela's government and opposition agreed to jointly seek $4bn in gold held by the Bank of England since 2018, to fund reconstruction after June's earthquakes.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/60/30/696x392_cmsv2_8c215d9e-5f52-53cd-bbe8-50197ad393b5-9876030.jpg",
+          "article_url": "http://www.euronews.com/2026/08/17/venezuela-seeks-return-of-31-tonnes-of-gold-worth-4bn-from-bank-of-england",
+          "published_at": "Mon, 17 Aug 2026 15:09:27 +0200",
+          "cross_sections": []
+        },
+        {
           "id": "ZXVyb25ld3MtcmV2b2x1dC1p",
           "source_id": "euronews",
           "source_name": "Euronews",
@@ -3297,6 +3339,52 @@
           ]
         },
         {
+          "id": "ZXVyb25ld3MteWVtZW4tcmlz",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Yemen risks return to 'full-scale conflict' if Houthi strikes continue, UN rights chief warns",
+          "summary": "Earlier this month, the Houthi rebels launched their deadliest attacks in years, killing 58 government troops, according to a military source, mainly in the oil-rich Marib province.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/74/20/696x392_cmsv2_91afcfa9-5dab-56d2-ae51-bb8a69dea493-9877420.jpg",
+          "article_url": "http://www.euronews.com/2026/08/17/yemen-risks-return-to-full-scale-conflict-if-houthi-strikes-continue-un-rights-chief-warns",
+          "published_at": "Mon, 17 Aug 2026 14:56:34 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3Mtd2h5LWlyYW5p",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Why Iranian women freeze eggs they may never be allowed to use",
+          "summary": "Single women in Iran can legally store frozen eggs but cannot use them without a husband, leaving many paying two months' salary for a procedure whose annual storage costs have quadrupled since 2022, in a country simultaneously pushing pronatalist policies and experiencing a 9% drop in births.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/64/15/696x392_cmsv2_2a9bfe9b-4cd5-59ed-bfd4-756cae0dcc17-9876415.jpg",
+          "article_url": "http://www.euronews.com/2026/08/17/from-being-single-to-soaring-costs-and-war-why-iranian-women-are-freezing-their-eggs",
+          "published_at": "Mon, 17 Aug 2026 13:59:33 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtbGF0ZXN0LW5l",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Latest news bulletin | August 17th, 2026 – Midday",
+          "summary": "Catch up with the most important stories from around Europe and beyond this August 17th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/70/28/696x392_cmsv2_86cb23d9-b8c2-5f04-b9b1-7503c8c8872e-9877028.jpg",
+          "article_url": "http://www.euronews.com/video/2026/08/17/latest-news-bulletin-august-17th-2026-midday",
+          "published_at": "Mon, 17 Aug 2026 12:00:16 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "ZXVyb25ld3MtZmVycmFyaeKA",
           "source_id": "euronews",
           "source_name": "Euronews",
@@ -3308,6 +3396,20 @@
           "image_url": "https://images.euronews.com/articles/stories/09/87/68/51/696x392_cmsv2_75827373-c847-5b6b-8efd-5ea561bd4cfa-9876851.jpg",
           "article_url": "http://www.euronews.com/business/2026/08/17/ferraris-first-ev-sells-for-record-40-million-at-auction",
           "published_at": "Mon, 17 Aug 2026 11:32:59 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtYXQtbGVhc3Qt",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "At least seven killed in stampede at Hindu temple in India",
+          "summary": "Panic reportedly broke out among thousands of worshippers after rumours that an electricity pole had fallen on devotees.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/67/80/696x392_cmsv2_09c76887-098b-5861-a428-748e644bf191-9876780.jpg",
+          "article_url": "http://www.euronews.com/2026/08/17/at-least-seven-killed-in-stampede-at-hindu-temple-in-india",
+          "published_at": "Mon, 17 Aug 2026 10:35:54 +0200",
           "cross_sections": []
         },
         {
@@ -3525,8 +3627,8 @@
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "Top Stories",
-          "title": "Germany's AfD is labeled far-right, populist or extremist",
-          "summary": "Right-wing, far-right, fascist: Many terms are being thrown around in the debate about the AfD. What do they mean, and how appropriate are they when discussing the AfD? DW has this glossary.",
+          "title": "Germany's AfD is labeled far right, populist or extremist",
+          "summary": "Right wing, far right, fascist: Many terms are being thrown around in the debate about the AfD. What do they mean, and how appropriate are they when discussing the AfD? DW has a glossary.",
           "image_url": null,
           "article_url": "https://www.dw.com/en/germany-s-afd-is-labeled-far-right-populist-or-extremist/a-78395043?maca=en-rss-en-top-1022-xml-mrss",
           "published_at": "Mon, 17 Aug 2026 10:51:00 GMT",
@@ -3603,6 +3705,20 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dG9pLXRydW1wJ3MtZm9yZWln",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Trump's foreign policy: Strongmen on speed dial, allies and partners on notice",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/world/us/what-donald-trumps-low-key-iran-strategy-means/articleshow/133300842.cms",
+          "published_at": "Mon, 17 Aug 2026 21:09:31 +0530",
+          "cross_sections": []
+        },
+        {
           "id": "dG9pLWhvY2tleS13YzotaW5k",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3614,6 +3730,22 @@
           "image_url": null,
           "article_url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/hockey-world-cup-indias-32-year-england-jinx-continues-as-late-goals-seal-2-4-defeat/articleshow/133300556.cms",
           "published_at": "Mon, 17 Aug 2026 20:51:50 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLW9uZ2MtZ2V0cy11cy1s",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "ONGC gets US licence to expand Venezuela operations, boost oil output",
+          "summary": "ONGC has successfully obtained approval from the US Treasury, allowing it to further extend its oil operations in Venezuela. The newly acquired license significantly reduces sanctions-related barriers, paving the way for increased investments and production capabilities. With this development, ONGC ",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/business/india-business/ongc-gets-us-licence-to-expand-venezuela-operations-boost-oil-output-and-investments/articleshow/133300426.cms",
+          "published_at": "Mon, 17 Aug 2026 20:47:28 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -3647,22 +3779,6 @@
           "cross_sections": []
         },
         {
-          "id": "dG9pLXdhdGNoOi1zYXVkaS1t",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Watch: Saudi military ship struck by missile in Red Sea; Houthis claim attack",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/world/middle-east/houthis-escalate-red-sea-attacks-ballistic-missile-strikes-saudi-military-ship-four-escort-boats/articleshow/133298716.cms",
-          "published_at": "Mon, 17 Aug 2026 19:17:35 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "dG9pLXRlY2gtY2VvLXdoby1m",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3691,22 +3807,6 @@
           "article_url": "https://timesofindia.indiatimes.com/india/nitin-nabin-gets-a-new-team-amit-malviya-out-as-bjp-it-cell-chief/articleshow/133295201.cms",
           "published_at": "Mon, 17 Aug 2026 17:02:15 +0530",
           "cross_sections": []
-        },
-        {
-          "id": "dG9pLXNtcml0aS1pcmFuaSdz",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Smriti Irani's big comeback: Why BJP has turned to its 'giant killer'",
-          "summary": "Smriti Irani is reappointed as a general secretary for the BJP's national team, a move that highlights the party's strategic push in Uttar Pradesh ahead of upcoming elections. Following setbacks in the recent Lok Sabha elections, her previous success in Amethi positions her as a critical asset. This",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/smriti-irani-gets-key-party-role-why-bjp-has-turned-to-its-giant-killer-before-up-elections/articleshow/133295057.cms",
-          "published_at": "Mon, 17 Aug 2026 16:58:16 +0530",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "dG9pLXVzLWRlc3Ryb3llci13",
@@ -3969,119 +4069,121 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dGhlaGluZHUtd2UtZ290LXRo",
+          "id": "dGhlaGluZHUtMjAtcGFzc2Vu",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "We got the results in the end: Manav Suthar",
-          "summary": "Suthar, who made his debut against Afghanistan earlier this year, grabbed four wickets",
-          "image_url": "https://th-i.thgim.com/public/incoming/7s7kx3/article71357371.ece/alternates/LANDSCAPE_1200/20260817058L.jpg",
-          "article_url": "https://www.thehindu.com/sport/cricket/we-got-the-results-in-the-end-manav-suthar/article71357181.ece",
-          "published_at": "Mon, 17 Aug 2026 21:01:40 +0530",
+          "title": "20 passengers injured in TGSRTC bus-lorry collision in Jagtial district",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/national/telangana/20-passengers-injured-in-tgsrtc-bus-lorry-collision-in-jagtial-district/article71357384.ece",
+          "published_at": "Mon, 17 Aug 2026 21:23:32 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtbml0aW4tbmFi",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Nitin Nabin announces his team; Smriti Irani, Ram Madhav make a comeback, Amit Malviya out",
+          "summary": "The appointment with the most sharp signalling, however, appears to be in the BJP’s social media team. After a long stint at the helm, Amit Malviya will no longer be in charge. Deepak Mhaskey from Chhattisgarh replaces him.",
+          "image_url": "https://th-i.thgim.com/public/latest-news/na3c0w/article71357462.ece/alternates/LANDSCAPE_1200/Mhaskey.jpg",
+          "article_url": "https://www.thehindu.com/news/national/bjp-reshuffle-vasundhara-raje-ram-madhav-smriti-irani-vice-presidents-general-secretaries-organisational-overhaul/article71355824.ece",
+          "published_at": "Mon, 17 Aug 2026 21:23:31 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtaWNnLXVyZ2Vk",
+          "id": "dGhlaGluZHUtZWR1Y2F0aW9u",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "ICG urged to launch search ops for 8 missing fisherfolk, SDMA alerted",
-          "summary": "At least eight fishermen have lost contact with their families since August 7 after they ventured into deep-sea fishing in the Bay of Bengal from the Odalarevu boat landing centre in the Dr. B.R. Ambedkar Konaseema district",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/icg-urged-to-launch-search-ops-for-8-missing-fisherfolk-sdma-alerted/article71356396.ece",
-          "published_at": "Mon, 17 Aug 2026 21:01:38 +0530",
+          "title": "Education Minister Pralhad Joshi tells NTA to audit examination processes, submit corrective action report",
+          "summary": "Pralhad Joshi was informed that “in the wake of recent issues”, the NTA has removed more than 50 staff and advertised for 10 new professional leadership positions",
+          "image_url": "https://th-i.thgim.com/public/incoming/p7vkw1/article71357432.ece/alternates/LANDSCAPE_1200/20260817557L.jpg",
+          "article_url": "https://www.thehindu.com/news/national/education-minister-pralhad-joshi-tells-nta-to-audit-examination-processes-submit-corrective-action-report/article71356772.ece",
+          "published_at": "Mon, 17 Aug 2026 21:22:53 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUtbGljLWRvbmF0",
+          "id": "dGhlaGluZHUtYW5pbWFsLXdl",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "LIC donates ₹3.19 crore in medical equipment to Rayalaseema hospitals",
+          "title": "Animal Welfare Board instructs Hosur Corporation to halt sterilisation surgeries",
           "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/7sify5/article71357338.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-17%20at%2019.50.11.jpeg",
-          "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/lic-donates-319-crore-in-medical-equipment-to-rayalaseema-hospitals/article71356898.ece",
-          "published_at": "Mon, 17 Aug 2026 21:01:13 +0530",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/cities/Coimbatore/animal-welfare-board-instructs-hosur-corporation-to-halt-sterilisation-surgeries/article71356925.ece",
+          "published_at": "Mon, 17 Aug 2026 21:22:45 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUtdGhyZWUtbWln",
+          "id": "dGhlaGluZHUtbWFkdXJhaS1k",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Three migrant workers killed in road accident in Kattathurai",
+          "title": "Madurai District Police to auction 14 vehicles on August 22",
           "summary": "",
           "image_url": null,
-          "article_url": "https://www.thehindu.com/news/cities/Madurai/three-migrant-workers-killed-in-road-accident-in-kattathurai/article71357283.ece",
-          "published_at": "Mon, 17 Aug 2026 21:01:04 +0530",
+          "article_url": "https://www.thehindu.com/news/cities/Madurai/madurai-district-police-to-auction-14-vehicles-on-august-22/article71357337.ece",
+          "published_at": "Mon, 17 Aug 2026 21:19:27 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtY3BpLWxlYWRl",
+          "id": "dGhlaGluZHUtaW5kaWEtamFw",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "CPI leader urges TVK-led government to fulfil poll promises as it completes 100 days",
-          "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/fz0vrs/article71357373.ece/alternates/LANDSCAPE_1200/2085_17_8_2026_18_35_41_2_22.JPG",
-          "article_url": "https://www.thehindu.com/news/cities/Coimbatore/cpi-leader-urges-tvk-led-government-to-fulfil-poll-promises-as-it-completes-100-days/article71356079.ece",
-          "published_at": "Mon, 17 Aug 2026 21:00:49 +0530",
+          "title": "India-Japan defence ties in focus as Rajnath, Koizumi to meet on August 20",
+          "summary": "The Japanese Defence Minister is expected to discuss cooperation on defence equipment, including Japan’s planned export of UNICORN stealth communication system",
+          "image_url": "https://th-i.thgim.com/public/incoming/lodeo/article71357454.ece/alternates/LANDSCAPE_1200/Japan_Controversial_Shrine_84778.jpg",
+          "article_url": "https://www.thehindu.com/news/national/india-japan-defence-ties-in-focus-as-rajnath-koizumi-to-meet-on-august-20/article71357158.ece",
+          "published_at": "Mon, 17 Aug 2026 21:17:44 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUtYS5wLi1hc3Nl",
+          "id": "dGhlaGluZHUtY3Npci1paWN0",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "A.P. Assembly passes Bill for Uniform Mutation Fees in ULBs",
+          "title": "CSIR-IICT partners Re Sustainability for environmental technology research",
           "summary": "",
           "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-assembly-passes-bill-for-uniform-mutation-fees-in-ulbs/article71356895.ece",
-          "published_at": "Mon, 17 Aug 2026 21:00:43 +0530",
-          "cross_sections": []
+          "article_url": "https://www.thehindu.com/news/cities/Hyderabad/csir-iict-partners-re-sustainability-for-environmental-technology-research/article71355652.ece",
+          "published_at": "Mon, 17 Aug 2026 21:16:30 +0530",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
-          "id": "dGhlaGluZHUtc2FmZS1mb29k",
+          "id": "dGhlaGluZHUtZGlnaXRhbC10",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Safe food to be ensured during Onam season in Kerala",
+          "title": "Digital transformation firm opens office, plans to expand operations",
           "summary": "",
           "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/kerala/safe-food-to-be-ensured-during-onam-season-in-kerala/article71357017.ece",
-          "published_at": "Mon, 17 Aug 2026 20:59:38 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtbWFuLWZyb20t",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Man from Madurai found murdered near Thirupuvanam in Sivaganga district",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/cities/Madurai/man-from-madurai-found-murdered-near-thirupuvanam-in-sivaganga-district/article71357316.ece",
-          "published_at": "Mon, 17 Aug 2026 20:59:13 +0530",
+          "article_url": "https://www.thehindu.com/news/cities/Hyderabad//article71356890.ece",
+          "published_at": "Mon, 17 Aug 2026 21:15:48 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4591,6 +4693,22 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YWxqYXplZXJhLXJpZ2h0cy1n",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Rights group urges FIFA to block Infantino re-election bid over term limits",
+          "summary": "FairSquare says the FIFA president should not be able to run again under the world football organisation's statutes.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/sports/2026/8/17/rights-group-urges-fifa-to-block-infantino-re-election-bid-over-term-limits?traffic_source=rss",
+          "published_at": "Mon, 17 Aug 2026 15:21:47 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YWxqYXplZXJhLXBvbGljZS1l",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
@@ -4697,20 +4815,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YWxqYXplZXJhLWZyZW5jaC1z",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "French Serie A footballer Yael Trepy in intensive care after near-drowning",
-          "summary": "Italian media reports that the Cagliari forward was rescued after swallowing a lot of water in a swimming pool in Porto Cervo.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/sports/2026/8/17/french-serie-a-footballer-yael-trepy-in-intensive-care-after-near-drowning?traffic_source=rss",
-          "published_at": "Mon, 17 Aug 2026 13:24:57 +0000",
-          "cross_sections": []
         }
       ]
     },
@@ -4720,85 +4824,6 @@
       "region": "Middle East & Africa",
       "category": "Newspaper",
       "articles": [
-        {
-          "id": "YXJhYm5ld3MtZmluYWwtZWxl",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Final election phase begins in Pakistan-administered Kashmir despite banned group’s boycott call",
-          "summary": "MUZAFFARABAD, Pakistan: Voters went to the polls Monday in the final phase of elections for the legislative assembly in Pakistan-administered Kashmir, following weeks of violent protests and clashes with security forces that overshadowed campaigning in the disputed Himalayan region, officials said.\n",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654152/world",
-          "published_at": "Tue, 11 Aug 2026 12:08:09 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtZW5yb2xsbWVu",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Enrollment begins at Saudi-backed school for Gaza children",
-          "summary": "GAZA STRIP: Registration has opened for students seeking to enroll at Makkah School in the southern Gaza Strip, a Saudi-backed initiative aimed at helping children resume their education amid the devastation of the war, SPA has reported. \n\n\tThe school, supported by the King Salman Humanitarian Aid a",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654157/saudi-arabia",
-          "published_at": "Tue, 11 Aug 2026 02:08:54 +03",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtdHJ1bXAtaW5z",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Trump insists Netanyahu relationship ‘very good’ despite Gaza rift",
-          "summary": "WASHINGTON, United States: President Donald Trump insisted on Monday that his relationship with Prime Minister Benjamin Netanyahu is “very good” despite the Israeli leader’s rejection of a US-led Gaza plan.\n\t“The relationship is very good,” Trump said in response to a shouted question from a journal",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654154/world",
-          "published_at": "Tue, 11 Aug 2026 01:08:46 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtbGlieWHigJlz",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Libya’s central bank chief resigns",
-          "summary": "TRIPOLI: The governor of Libya’s central bank, Naji Issa, has resigned without giving a reason, several reports said on Monday.\n\tPrivate TV channel Al-Ahrar said Issa had confirmed his resignation.\n\tIssa and vice-governor Miree Al-Barasee were appointed by Libya’s parliament, which is based in the e",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654155/middle-east",
-          "published_at": "Tue, 11 Aug 2026 01:08:41 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtdHJ1bXDigJlz",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Trump’s Gaza plan hinges on Hamas disarmament, Israeli withdrawals",
-          "summary": "JERUSALEM: Donald Trump’s latest plan to end the Gaza war calls on Hamas to ‌lay down its arms as Israel withdraws from the territory, terms endorsed by the militants but rejected by Israel, which says it will not pull back until the group’s disarmament is complete.",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654156/middle-east",
-          "published_at": "Tue, 11 Aug 2026 01:08:10 +03",
-          "cross_sections": []
-        },
         {
           "id": "YXJhYm5ld3MtY2FuLWFsLWJ1",
           "source_id": "arabnews",
@@ -4832,6 +4857,38 @@
           ]
         },
         {
+          "id": "YXJhYm5ld3MtaXNyYWVsaS1z",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Israeli settler attack on Al-Mughayyir highlights surge in West Bank violence",
+          "summary": "RAMALLAH: Israeli settlers, under the protection of Israeli occupation forces, have attacked the village of Al-Mughayyir, northeast of Ramallah.\n\n\tAmin Abu Aliya, the head of the Al-Mughayyir Village Council, said that settlers attacked Palestinian farmers in the eastern plain area and local residen",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654145/middle-east",
+          "published_at": "Mon, 10 Aug 2026 10:08:48 +03",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3Mtc3lyaWFuLWxl",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Syrian leader receives UN refugee chief in Damascus",
+          "summary": "DAMASCUS: President Ahmad Al-Sharaa received UN High Commissioner for Refugees Barham Salih and his accompanying delegation at the People’s Palace in Damascus on Monday, in the presence of Minister of Foreign Affairs and Expatriates Asaad Hassan Al-Shaibani.\n\tThe meeting focused on ways to strengthe",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654147/middle-east",
+          "published_at": "Mon, 10 Aug 2026 10:08:45 +03",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YXJhYm5ld3MtdGVlbmFnZXIt",
           "source_id": "arabnews",
           "source_name": "Arab News",
@@ -4846,6 +4903,52 @@
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "YXJhYm5ld3MtaGlzdG9yaWMt",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Historic trails, dramatic peaks position Taif as Saudi Arabia’s emerging hiking capital",
+          "summary": "MAKKAH: Cradled among dramatic mountain ridges, lush valleys and cool highland breezes, Taif is rapidly cementing its reputation as one of Saudi Arabia’s premier outdoor destinations — with mountain hiking leading its eco-tourism surge.\n\n\tDriven by growing domestic interest in outdoor recreation und",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654143/saudi-arabia",
+          "published_at": "Mon, 10 Aug 2026 10:08:37 +03",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3Mtd2hhdC13ZS1h",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "What We Are Reading Today: ‘Silk Roads, Steppe Roads’ by Jonathan Karam Skaff",
+          "summary": "“Silk Roads, Steppe Roads” takes the reader on a journey to three sites in northwestern China and Mongolia to investigate medieval Chinese tombs containing evidence of Eastern Eurasian cultural contacts and exchanges. \n\n\tThe construction, artifacts, and texts on paper and stone found at these tombs ",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654146/books",
+          "published_at": "Mon, 10 Aug 2026 10:08:22 +03",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtYWwtbmFzc3It",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Al-Nassr fans worried ahead of new season but Ange might be the man to steer them to glory",
+          "summary": "RIYADH: It is not a good time to be an Al-Nassr fan. While that might sound like a bizarre statement to make, considering the club ended a seven-year title drought by beating Al-Hilal to the Saudi Pro League title last season, they face a stark reality as they prepare to defend their title.",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654148/sport",
+          "published_at": "Mon, 10 Aug 2026 10:08:19 +03",
+          "cross_sections": []
         }
       ]
     }
@@ -4921,7 +5024,7 @@
         {
           "id": "nyt",
           "name": "The New York Times",
-          "count": 18
+          "count": 17
         },
         {
           "id": "cnn",
@@ -4958,7 +5061,7 @@
         {
           "id": "euronews",
           "name": "Euronews",
-          "count": 8
+          "count": 16
         },
         {
           "id": "dw",
@@ -5019,49 +5122,17 @@
       "icon": "💻",
       "articles": [
         {
-          "id": "dGhlaGluZHUtd2UtZ290LXRo",
+          "id": "dGhlaGluZHUtbml0aW4tbmFi",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "We got the results in the end: Manav Suthar",
-          "summary": "Suthar, who made his debut against Afghanistan earlier this year, grabbed four wickets",
-          "image_url": "https://th-i.thgim.com/public/incoming/7s7kx3/article71357371.ece/alternates/LANDSCAPE_1200/20260817058L.jpg",
-          "article_url": "https://www.thehindu.com/sport/cricket/we-got-the-results-in-the-end-manav-suthar/article71357181.ece",
-          "published_at": "Mon, 17 Aug 2026 21:01:40 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtdGhyZWUtbWln",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Three migrant workers killed in road accident in Kattathurai",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/cities/Madurai/three-migrant-workers-killed-in-road-accident-in-kattathurai/article71357283.ece",
-          "published_at": "Mon, 17 Aug 2026 21:01:04 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtbWFuLWZyb20t",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Man from Madurai found murdered near Thirupuvanam in Sivaganga district",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/cities/Madurai/man-from-madurai-found-murdered-near-thirupuvanam-in-sivaganga-district/article71357316.ece",
-          "published_at": "Mon, 17 Aug 2026 20:59:13 +0530",
+          "title": "Nitin Nabin announces his team; Smriti Irani, Ram Madhav make a comeback, Amit Malviya out",
+          "summary": "The appointment with the most sharp signalling, however, appears to be in the BJP’s social media team. After a long stint at the helm, Amit Malviya will no longer be in charge. Deepak Mhaskey from Chhattisgarh replaces him.",
+          "image_url": "https://th-i.thgim.com/public/latest-news/na3c0w/article71357462.ece/alternates/LANDSCAPE_1200/Mhaskey.jpg",
+          "article_url": "https://www.thehindu.com/news/national/bjp-reshuffle-vasundhara-raje-ram-madhav-smriti-irani-vice-presidents-general-secretaries-organisational-overhaul/article71355824.ece",
+          "published_at": "Mon, 17 Aug 2026 21:23:31 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5077,10 +5148,139 @@
           "summary": "Maran Nalluswami, Synchrony's chief strategy officer, told CNBC it will probably take six to 12 months to get payments fully integrated into ChatGPT.",
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
-          "published_at": "Mon, 17 Aug 2026 15:28:45 GMT",
+          "published_at": "Mon, 17 Aug 2026 15:52:22 GMT",
           "cross_sections": [
             "tech",
             "ai"
+          ]
+        },
+        {
+          "id": "Y25iYy1udmlkaWEtZmluYW5j",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Nvidia financing initiative follows SEC guidance that takes sponsors off the hook for data center investments",
+          "summary": "Recent SEC instructions on data center bonds appear applicable to the recent Nvidia financing move, lawyers say.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/17/nvidia-financing-initiative-follows-sec-guidance-taking-sponsors-off-the-hook.html",
+          "published_at": "Mon, 17 Aug 2026 15:51:32 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iYy1zdXByZW1lLWNvdXJ0",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
+          "summary": "President Trump was held civilly liable in the case by a New York federal jury for defaming and sexually abusing the writer E. Jean Carroll.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html",
+          "published_at": "Mon, 17 Aug 2026 15:50:19 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtbWFkdXJhaS1k",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Madurai District Police to auction 14 vehicles on August 22",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/cities/Madurai/madurai-district-police-to-auction-14-vehicles-on-august-22/article71357337.ece",
+          "published_at": "Mon, 17 Aug 2026 21:19:27 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtY3Npci1paWN0",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "CSIR-IICT partners Re Sustainability for environmental technology research",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/cities/Hyderabad/csir-iict-partners-re-sustainability-for-environmental-technology-research/article71355652.ece",
+          "published_at": "Mon, 17 Aug 2026 21:16:30 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtZGlnaXRhbC10",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Digital transformation firm opens office, plans to expand operations",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/cities/Hyderabad//article71356890.ece",
+          "published_at": "Mon, 17 Aug 2026 21:15:48 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y29tcHV0ZXJ3b3JsZC11cy1j",
+          "source_id": "computerworld",
+          "source_name": "Computerworld",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "US confounds Apple’s memory supply challenge",
+          "summary": "US Commerce Secretary Howard Lutnick is “not in favor” of Apple’s plan to alleviate the impact of rapid memory price inflation by purchasing RAM made in China for use in devices sold there. \nTrade by US firms with the biggest Chinese memory manufacturers, CXMT and Yangtze Memory Technologies, is res",
+          "image_url": "https://www.computerworld.com/wp-content/uploads/2026/08/4210562-0-49596600-1786981200-apple-park-photo-1-building-trees.jpg?quality=50&strip=all",
+          "article_url": "https://www.computerworld.com/article/4210562/us-confounds-apples-memory-supply-challenge.html",
+          "published_at": "Mon, 17 Aug 2026 15:38:54 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LWFpLXNsb3AtaXMtZXZl",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.",
+          "summary": "Spotify, LinkedIn and others are trying to dig out of a digital sewage heap full of low-quality content made with artificial intelligence.",
+          "image_url": "https://static01.nyt.com/images/2026/08/17/business/00biz-ai-slop/00biz-ai-slop-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/17/technology/ai-slop.html",
+          "published_at": "Mon, 17 Aug 2026 15:36:10 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "YmJjLXN1cHJlbWUtY291cnQt",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll  sex abuse case",
+          "summary": "The US president has already paid the writer over $5m in damages in the assault and defamation case.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8678/live/aa573860-9a50-11f1-96c4-e7f87215742d.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 17 Aug 2026 15:33:42 GMT",
+          "cross_sections": [
+            "tech"
           ]
         },
         {
@@ -5118,22 +5318,6 @@
           ]
         },
         {
-          "id": "Y25iYy1vaWwtcHJpY2VzLXJp",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
-          "summary": "The U.S.-Iran deal was supposed to open the Strait of Hormuz while they negotiated a final deal on Tehran's nuclear program within 60 days.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
-          "published_at": "Mon, 17 Aug 2026 15:25:43 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bmR0di0nZG9uJ3QtYmVnJzot",
           "source_id": "ndtv",
           "source_name": "NDTV",
@@ -5161,6 +5345,38 @@
           "image_url": null,
           "article_url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/hockey-world-cup-indias-32-year-england-jinx-continues-as-late-goals-seal-2-4-defeat/articleshow/133300556.cms",
           "published_at": "Mon, 17 Aug 2026 20:51:50 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXJpZ2h0cy1n",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Rights group urges FIFA to block Infantino re-election bid over term limits",
+          "summary": "FairSquare says the FIFA president should not be able to run again under the world football organisation's statutes.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/sports/2026/8/17/rights-group-urges-fifa-to-block-infantino-re-election-bid-over-term-limits?traffic_source=rss",
+          "published_at": "Mon, 17 Aug 2026 15:21:47 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLW9uZ2MtZ2V0cy11cy1s",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "ONGC gets US licence to expand Venezuela operations, boost oil output",
+          "summary": "ONGC has successfully obtained approval from the US Treasury, allowing it to further extend its oil operations in Venezuela. The newly acquired license significantly reduces sanctions-related barriers, paving the way for increased investments and production capabilities. With this development, ONGC ",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/business/india-business/ongc-gets-us-licence-to-expand-venezuela-operations-boost-oil-output-and-investments/articleshow/133300426.cms",
+          "published_at": "Mon, 17 Aug 2026 20:47:28 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5329,22 +5545,6 @@
           ]
         },
         {
-          "id": "Y25iYy1zdXByZW1lLWNvdXJ0",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
-          "summary": "President Trump was held civilly liable in the case by a New York federal jury for defaming and sexually abusing the writer E. Jean Carroll.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html",
-          "published_at": "Mon, 17 Aug 2026 14:51:24 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "Y25iYy10cnVtcC10aHJlYXRl",
           "source_id": "cnbc",
           "source_name": "CNBC",
@@ -5474,6 +5674,22 @@
           ]
         },
         {
+          "id": "YXJzdGVjaG5pY2EtbnZpZGlh",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Nvidia discloses $21B stake in SpaceX",
+          "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_116f79c4-b712-471b-b46a-ace5e4d7dda4.avif",
+          "article_url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+          "published_at": "Mon, 17 Aug 2026 14:22:54 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YWxqYXplZXJhLWlyYW4tc2ln",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
@@ -5552,118 +5768,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "aW5jNDItZXhjbHVzaXZlOi1w",
-          "source_id": "inc42",
-          "source_name": "Inc42",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Exclusive: Peak XV Alum Saksham Mittal’s Corpus Labs In Talks To Raise Funding From Stellaris",
-          "summary": "Former Peak XV Partners analyst Saksham Mittal’s wealthtech startup Corpus Labs is in talks to raise pre-seed funding from Stellaris…",
-          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/ftr-37.jpg",
-          "article_url": "https://inc42.com/buzz/peak-xv-alum-saksham-mittals-corpus-labs-in-talks-to-raise-funding-from-stellaris/",
-          "published_at": "Mon, 17 Aug 2026 13:58:37 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXRydW1wLWhh",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Trump hails Mecca pact: Can it replace the region’s US security umbrella?",
-          "summary": "As Trump pushes allies to do more for their own defence, three US partners have created a security pact of their own.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/8/17/trump-hails-mecca-pact-can-it-replace-the-regions-us-security-umbrella?traffic_source=rss",
-          "published_at": "Mon, 17 Aug 2026 13:48:09 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLXdhdGNoOi1zYXVkaS1t",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Watch: Saudi military ship struck by missile in Red Sea; Houthis claim attack",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/world/middle-east/houthis-escalate-red-sea-attacks-ballistic-missile-strikes-saudi-military-ship-four-escort-boats/articleshow/133298716.cms",
-          "published_at": "Mon, 17 Aug 2026 19:17:35 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtbWVldC10",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Meet the only known trebuchet casualty in history",
-          "summary": "\"It highlights the brutality of medieval warfare,\" said paleopathologist Jo Buckberry.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/war-wolf-bob-marshall-1-768x431-1.jpg",
-          "article_url": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
-          "published_at": "Mon, 17 Aug 2026 13:41:35 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1hbGwtYWJvdXQta2hh",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "All About Khalil Al-Hayya, Top Hamas Top Leader Who Met Trump's Son-In-Law",
-          "summary": "The Cairo meeting marked Hayya's second with Kushner: in October 2025, he led a Hamas delegation in negotiations with Kushner and US envoy Steve Witkoff.",
-          "image_url": "https://c.ndtvimg.com/2026-08/7mak4fkg_khalil-alhayya_625x300_17_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/all-about-khalil-al-hayya-top-hamas-top-leader-who-met-trumps-son-in-law-11921850#publisher=newsstand",
-          "published_at": "Mon, 17 Aug 2026 19:09:19 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZHctaW5kb25lc2lhLW5ldXRy",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Indonesia neutrality tested by joint naval drill with China",
-          "summary": "Indonesia maintains a nonaligned foreign policy, but Jakarta's limited participation in a low-level naval exercise with China's navy near Taiwan has raised concerns.",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/indonesia-neutrality-tested-by-joint-naval-drill-with-china/a-78400288?maca=en-rss-en-world-4025-xml-mrss",
-          "published_at": "Mon, 17 Aug 2026 13:37:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LWhvdy11a3JhaW5l4oCZ",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "How Ukraine’s Satellites Help Drive Its War Drones",
-          "summary": "Ukrainian drone teams have a powerful new tool: near real-time information on troop movements and locations.",
-          "image_url": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-ukraine-satellite-flmv/17int-ukraine-satellite-flmv-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html",
-          "published_at": "Mon, 17 Aug 2026 13:32:38 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -5723,7 +5827,24 @@
           "summary": "Maran Nalluswami, Synchrony's chief strategy officer, told CNBC it will probably take six to 12 months to get payments fully integrated into ChatGPT.",
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
-          "published_at": "Mon, 17 Aug 2026 15:28:45 GMT",
+          "published_at": "Mon, 17 Aug 2026 15:52:22 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "bnl0LWFpLXNsb3AtaXMtZXZl",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.",
+          "summary": "Spotify, LinkedIn and others are trying to dig out of a digital sewage heap full of low-quality content made with artificial intelligence.",
+          "image_url": "https://static01.nyt.com/images/2026/08/17/business/00biz-ai-slop/00biz-ai-slop-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/17/technology/ai-slop.html",
+          "published_at": "Mon, 17 Aug 2026 15:36:10 +0000",
           "cross_sections": [
             "tech",
             "ai"
@@ -6119,23 +6240,6 @@
           ]
         },
         {
-          "id": "bnl0LWFub3RoZXItb3BlbmFp",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "Another OpenAI Executive, Denise Dresser, Departs the A.I. Start-Up",
-          "summary": "Denise Dresser, who was previously the C.E.O. of Slack, is the latest in a string of executives to leave the artificial intelligence start-up.",
-          "image_url": "https://static01.nyt.com/images/2026/08/13/multimedia/13biz-openai-exec-Denise-Dresser-1-mvjl/13biz-openai-exec-Denise-Dresser-1-mvjl-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/13/technology/openai-executive-departure-denise-dresser.html",
-          "published_at": "Thu, 13 Aug 2026 21:15:41 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "dmVudHVyZWJlYXQtdGhyZWUt",
           "source_id": "venturebeat",
           "source_name": "VentureBeat",
@@ -6203,23 +6307,6 @@
           ]
         },
         {
-          "id": "YXJhYm5ld3MtZW5yb2xsbWVu",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Enrollment begins at Saudi-backed school for Gaza children",
-          "summary": "GAZA STRIP: Registration has opened for students seeking to enroll at Makkah School in the southern Gaza Strip, a Saudi-backed initiative aimed at helping children resume their education amid the devastation of the war, SPA has reported. \n\n\tThe school, supported by the King Salman Humanitarian Aid a",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654157/saudi-arabia",
-          "published_at": "Tue, 11 Aug 2026 02:08:54 +03",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "dG9pLWNoYXRncHQtd2FzLWRv",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -6240,7 +6327,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 10545,
+    "build_ms": 10780,
     "ai_enabled": true
   }
 }
