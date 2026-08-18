@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-18T17:49:44.304Z",
-  "total_articles": 306,
-  "new_this_run": 34,
+  "last_updated": "2026-08-18T18:19:29.324Z",
+  "total_articles": 305,
+  "new_this_run": 30,
   "sources": [
     {
       "id": "techcrunch",
@@ -9,6 +9,23 @@
       "region": "IT Focus",
       "category": "Tech Media",
       "articles": [
+        {
+          "id": "dGVjaGNydW5jaC1vcGVuYWkt",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "OpenAI institutes new safeguards after Hugging Face breach",
+          "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+          "published_at": "Tue, 18 Aug 2026 18:00:00 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
         {
           "id": "dGVjaGNydW5jaC1zYXZlLXVw",
           "source_id": "techcrunch",
@@ -113,22 +130,6 @@
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/08/18/peacock-is-raising-prices-across-all-of-its-streaming-plans/",
           "published_at": "Tue, 18 Aug 2026 15:26:31 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1hbnRocm8t",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
-          "summary": "Battery materials startup Anthro Energy has broken ground on a Louisville factory to make electrolytes, including those for solid-state batteries.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/",
-          "published_at": "Tue, 18 Aug 2026 14:00:00 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -1443,6 +1444,50 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "bnl0LWd1bGYtb2lsLWdpYW50",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Gulf Oil Giants Push to Expand Overseas Stockpiles as Iran War Drags On",
+          "summary": "Saudi Arabia and the United Arab Emirates are seeking larger oil reserves in Japan and South Korea as regional conflict threatens supply routes.",
+          "image_url": "https://static01.nyt.com/images/2026/08/18/multimedia/18Biz-Oil-Storage-01-tcbg/18Biz-Oil-Storage-01-tcbg-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/18/business/saudi-uae-japan-oil-storage.html",
+          "published_at": "Tue, 18 Aug 2026 18:13:37 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LW1ldGEtdG8tc3RhbmQt",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Meta to Stand Trial Over Claims It Addicted Children to Social Media",
+          "summary": "California, Colorado, Kentucky and New Jersey have taken the social media giant to trial in the first bellwether federal case over child harm.",
+          "image_url": "https://static01.nyt.com/images/2026/08/14/multimedia/META-TRIAL-whqk/META-TRIAL-whqk-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html",
+          "published_at": "Tue, 18 Aug 2026 18:07:16 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LXdoYXQtZmxvcmlkYS1o",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "What Florida Has Taught Our Reporter About National Politics",
+          "summary": "Voters may select an “R” or a “D” next to a candidate’s name, but their political views are often more nuanced than a binary choice represents.",
+          "image_url": "https://static01.nyt.com/images/2026/08/19/multimedia/18insider-florida/17pol-on-politics-newsletter-FL-top-bqwv-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/18/insider/florida-reporter-national-politics.html",
+          "published_at": "Tue, 18 Aug 2026 18:04:06 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "bnl0LWlzcmFlbC1zdHJpa2Vz",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1535,22 +1580,6 @@
           ]
         },
         {
-          "id": "bnl0LW1ldGEtdG8tc3RhbmQt",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "Meta to Stand Trial Over Claims It Addicted Children to Social Media",
-          "summary": "California, Colorado, Kentucky and New Jersey have taken the social media giant to trial in the first bellwether federal case over child harm.",
-          "image_url": "https://static01.nyt.com/images/2026/08/14/multimedia/META-TRIAL-whqk/META-TRIAL-whqk-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html",
-          "published_at": "Tue, 18 Aug 2026 16:18:49 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bnl0LWF0LWV4LXByZW1pZXIt",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1630,20 +1659,6 @@
           ]
         },
         {
-          "id": "bnl0LWd1bGYtb2lsLWdpYW50",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Gulf Oil Giants Push to Expand Overseas Stockpiles as Iran War Drags On",
-          "summary": "Saudi Arabia and the United Arab Emirates are seeking larger oil reserves in Japan and South Korea as regional conflict threatens supply routes.",
-          "image_url": "https://static01.nyt.com/images/2026/08/18/multimedia/18Biz-Oil-Storage-01-tcbg/18Biz-Oil-Storage-01-tcbg-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/18/business/saudi-uae-japan-oil-storage.html",
-          "published_at": "Tue, 18 Aug 2026 14:03:33 +0000",
-          "cross_sections": []
-        },
-        {
           "id": "bnl0LXRoZS1ibGFja291dC10",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1671,20 +1686,6 @@
           "image_url": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-france-feud-02-bkjc/17int-france-feud-02-bkjc-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/18/world/europe/provence-chateau-village-feud.html",
           "published_at": "Tue, 18 Aug 2026 10:14:18 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "bnl0LWZsb3JpZGEtcHJpbWFy",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Florida Primary Underscores State’s New Identity as a Republican Juggernaut",
-          "summary": "Republicans hold every statewide elected office and have drastically swung voter registration in the state. A newly gerrymandered congressional map has added four Republican-leaning seats.",
-          "image_url": "https://static01.nyt.com/images/2026/08/18/us/18pol-florida-primaries/18pol-florida-primaries-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/18/us/politics/florida-primary-republican-dominance.html",
-          "published_at": "Tue, 18 Aug 2026 09:03:48 +0000",
           "cross_sections": []
         },
         {
@@ -1802,7 +1803,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-08-18T17:49:36.241Z",
+          "published_at": "2026-08-18T18:19:20.376Z",
           "cross_sections": []
         },
         {
@@ -1816,7 +1817,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-08-18T17:49:36.241Z",
+          "published_at": "2026-08-18T18:19:20.376Z",
           "cross_sections": []
         },
         {
@@ -1830,7 +1831,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-08-18T17:49:36.241Z",
+          "published_at": "2026-08-18T18:19:20.376Z",
           "cross_sections": []
         },
         {
@@ -2142,6 +2143,20 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "Y25iYy10cnVtcCwtY2FybmV5",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Trump, Carney reportedly in talks ahead of new 50% tariffs on Canadian goods",
+          "summary": "Trump has already imposed a variety of tariffs on Canada and its specific exports, including metals, lumber and auto parts.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html",
+          "published_at": "Tue, 18 Aug 2026 18:05:05 GMT",
+          "cross_sections": []
+        },
+        {
           "id": "Y25iYy11LnMuLWdvdmVybm1l",
           "source_id": "cnbc",
           "source_name": "CNBC",
@@ -2167,22 +2182,6 @@
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/08/18/apple-eu-app-store-fees-iphone.html",
           "published_at": "Tue, 18 Aug 2026 17:16:49 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy10aGUtdG9wLTEwLWNv",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "The top 10 colleges for financial aid in 2026, according to The Princeton Review — and what families actually pay",
-          "summary": "With cost a top concern, these colleges are considered the most generous with their financial aid packages.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/18/colleges-best-financial-aid-2026-princeton-review.html",
-          "published_at": "Tue, 18 Aug 2026 17:14:01 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -3470,16 +3469,16 @@
       "category": "Broadcaster",
       "articles": [
         {
-          "id": "ZHctbm8tdG9pbGV0cywtbm8t",
+          "id": "ZHctbWlub3JzLWxpdmluZy1h",
           "source_id": "dw",
           "source_name": "DW News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "World",
-          "title": "No toilets, no shelter, little protection. In Ceuta, DW finds thousands of minors living alone on the streets.",
+          "title": "Minors living alone on Ceuta's streets at risk of abuse",
           "summary": "Several thousand unaccompanied minors have gathered in Ceuta, a Spanish enclave on the northern coast of Africa. Illness and abuse are rife, and the authorities admit they are overwhelmed.",
           "image_url": null,
-          "article_url": "https://www.dw.com/en/no-toilets-no-shelter-little-protection-in-ceuta-dw-finds-thousands-of-minors-living-alone-on-the-streets/a-78416604?maca=en-rss-en-world-4025-xml-mrss",
+          "article_url": "https://www.dw.com/en/minors-living-alone-on-ceuta-s-streets-at-risk-of-abuse/a-78416604?maca=en-rss-en-world-4025-xml-mrss",
           "published_at": "Tue, 18 Aug 2026 17:07:00 GMT",
           "cross_sections": []
         },
@@ -4044,12 +4043,114 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dGhlaGluZHUtb3BlbmFpLXVu",
+          "id": "dGhlaGluZHUtdml6YWctcG9s",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
+          "title": "Vizag police plan free medical camp for autorickshaw drivers",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/cities/Visakhapatnam/vizag-police-plan-free-medical-camp-for-autorickshaw-drivers/article71361521.ece",
+          "published_at": "Tue, 18 Aug 2026 23:39:04 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtY2l0dSwtYWl0",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "CITU, AITUC stage separate rallies over workers’ demands",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/j01gg2/article71362166.ece/alternates/LANDSCAPE_1200/VSP19_AUTO_RALLY-1.JPG",
+          "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/citu-aituc-stage-separate-rallies-over-workers-demands/article71361870.ece",
+          "published_at": "Tue, 18 Aug 2026 23:38:55 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtd2VzdC1hc2lh",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "West Asia war LIVE: UAE accuses Iran of firing ballistic missiles at its territory",
+          "summary": "The statement came nearly two hours after a brief phone alert warned UAE residents of a “potential missile threat”",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/international/iran-us-west-asia-war-strait-of-hormuz-news-donald-trump-live-updates-on-august-18-2026/article71358724.ece",
+          "published_at": "Tue, 18 Aug 2026 23:35:46 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtdml6YWctcmVz",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Vizag resident welfare groups stage protest over drinking water supply shortage",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/7cckt8/article71362159.ece/alternates/LANDSCAPE_1200/VSP19_VARWA%20.JPG",
+          "article_url": "https://www.thehindu.com/news/cities/Visakhapatnam/vizag-resident-welfare-groups-stage-protest-over-drinking-water-supply-shortage/article71361473.ece",
+          "published_at": "Tue, 18 Aug 2026 23:32:01 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtdmlzYWtoYXBh",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Visakhapatnam Collector directs officials to expedite SIR notice, hearing process",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/visakhapatnam-collector-directs-officials-to-expedite-sir-notice-hearing-process/article71361383.ece",
+          "published_at": "Tue, 18 Aug 2026 23:27:34 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtdG5wbDota292",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "TNPL: Kovai Kings have it easy against Super Gillies",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/91muhc/article71362147.ece/alternates/LANDSCAPE_1200/DSC_0041.JPG",
+          "article_url": "https://www.thehindu.com/sport/cricket/tnpl-kovai-kings-have-it-easy-against-super-gillies/article71362150.ece",
+          "published_at": "Tue, 18 Aug 2026 23:26:10 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdHJpYWwtb2Yt",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Trial of Sriram Venkitaraman in death of journalist to be deferred",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/pm8d07/article71362155.ece/alternates/LANDSCAPE_1200/IMG_11073_26_7_2022_18_3_4_1_4PAICT2N.jpg",
+          "article_url": "https://www.thehindu.com/news/national/kerala/trial-of-sriram-venkitaraman-in-death-of-journalist-to-be-deferred/article71361944.ece",
+          "published_at": "Tue, 18 Aug 2026 23:25:38 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtb3BlbmFpLXVu",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
           "title": "OpenAI unveils ChatGPT for Teens with stronger guardrails, parental controls",
           "summary": "The $852-billion startup faces ⁠multiple lawsuits alleging ChatGPT harmed children, as it prepares for a potentially record-breaking initial public offering",
           "image_url": "https://th-i.thgim.com/public/news/national/1rhwxg/article71362137.ece/alternates/LANDSCAPE_1200/iStock-2203181438.jpg",
@@ -4059,110 +4160,6 @@
             "tech",
             "ai"
           ]
-        },
-        {
-          "id": "dGhlaGluZHUtZm9ybWVyLWJq",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Former BJP Minister B.C. Nagesh passes away",
-          "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/lulyf2/article71362136.ece/alternates/LANDSCAPE_1200/IMG_IMG__DSC2577.JPG_2_1_2_1_81AFD9EE.jpg",
-          "article_url": "https://www.thehindu.com/news/national/karnataka/former-bjp-minister-bc-nagesh-passes-away/article71362120.ece",
-          "published_at": "Tue, 18 Aug 2026 23:14:02 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtbGF6eS1leWUt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Lazy eye in children may go unnoticed — when is an eye check-up needed?",
-          "summary": "Often called lazy eye, amblyopia may have no obvious signs and can remain undetected during early childhood. Screening, timely treatment and sustained follow-up are important because visual development is time-sensitive",
-          "image_url": "https://th-i.thgim.com/public/incoming/lwv5pt/article71355287.ece/alternates/LANDSCAPE_1200/Ty14_Eye.jpg",
-          "article_url": "https://www.thehindu.com/sci-tech/health/lazy-eye-in-children-may-go-unnoticed-when-is-an-eye-check-up-needed/article71355270.ece",
-          "published_at": "Tue, 18 Aug 2026 23:12:50 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtY2FzZS1sb2Rn",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Case lodged in connection with attack on anti-poaching camps in Hanur",
-          "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/26xbsx/article71362129.ece/alternates/LANDSCAPE_1200/Cauvery%20Wild%20Life%20Sanctuary_01.jpg",
-          "article_url": "https://www.thehindu.com/news/national/karnataka/case-lodged-in-connection-with-attack-on-anti-poaching-camps-in-hanur/article71362078.ece",
-          "published_at": "Tue, 18 Aug 2026 23:09:08 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtcmV2aWV3LW1l",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Review meeting on preparations for Meenakshi Sundareswarar Temple consecration",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/cities/Madurai/review-meeting-on-preparations-for-meenakshi-sundareswarar-temple-consecration/article71362122.ece",
-          "published_at": "Tue, 18 Aug 2026 23:08:17 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtYmVuZ2FsdXJ1",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Bengaluru’s ORR companies write to GBA expressing concern over white-topping in October, WFH suggestion",
-          "summary": "Pointing out that ORR supports more than 500 companies and approximately 1.3 million employees, the association argues that WFH cannot be a substitute for effective infrastructure planning and traffic management",
-          "image_url": "https://th-i.thgim.com/public/incoming/tae8yp/article71360421.ece/alternates/LANDSCAPE_1200/ALL_0704A.JPG",
-          "article_url": "https://www.thehindu.com/news/cities/bangalore/bengalurus-orr-companies-write-to-gba-expressing-concern-over-white-topping-in-october-wfh-suggestion/article71359494.ece",
-          "published_at": "Tue, 18 Aug 2026 23:07:56 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtZGV0ZXJpb3Jh",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Deteriorating air quality in Vizag sparks concern among MLAs",
-          "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/ygqxv2/article71362121.ece/alternates/LANDSCAPE_1200/VSP19_One_Town.JPG",
-          "article_url": "https://www.thehindu.com/news/cities/Visakhapatnam/deteriorating-air-quality-in-vizag-sparks-concern-among-mlas/article71361212.ece",
-          "published_at": "Tue, 18 Aug 2026 23:07:04 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtbXlzdXJ1LWdy",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Mysuru Gram Panchayat employees protest, seek immediate implementation of minimum wages",
-          "summary": "The protest was organised by the Karnataka State Gram Panchayat Employees’ Association (affiliated to CITU), Mysuru district committee",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/karnataka/mysuru-gram-panchayat-employees-protest-seek-immediate-implementation-of-minimum-wages/article71361422.ece",
-          "published_at": "Tue, 18 Aug 2026 23:06:38 +0530",
-          "cross_sections": []
         },
         {
           "id": "dGhlaGluZHUtbWV0YS10cmlh",
@@ -4410,123 +4407,123 @@
       "category": "Broadcaster",
       "articles": [
         {
-          "id": "bmR0di1hYXAtbGVhZGVyLXNh",
+          "id": "bmR0di11YWUtc2F5cy0yLWJh",
           "source_id": "ndtv",
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
           "feed_label": "Top Stories",
-          "title": "AAP Leader Satyendar Jain Arrested In Corruption Case Linked To Delhi Jal Board",
-          "summary": "Jain spent months in jail in a money laundering case before being released on bail in 2024.",
-          "image_url": "https://c.ndtvimg.com/2022-01/m86cfgr_satyendar-jain-ndtv_625x300_11_January_22.jpg",
-          "article_url": "https://www.ndtv.com/india-news/aap-leader-satyendar-jain-arrested-in-corruption-case-linked-to-delhi-jal-board-11927361#publisher=newsstand",
-          "published_at": "Tue, 18 Aug 2026 22:06:47 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1zYXR5ZW5kYXItamFp",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Satyendar Jain Arrest: Case Will Be Proven Fake, Says Arvind Kejriwal",
-          "summary": "Jain, who spent 18 months in jail in connection with a money laundering case, was arrested this evening.The former water minister has been accused of being involved in the manipulation of a tender process at the Delhi Jal Board.",
-          "image_url": "https://c.ndtvimg.com/2022-01/2ft3pm08_arvind-kejriwal-satyendar-jain-pti_625x300_23_January_22.jpg",
-          "article_url": "https://www.ndtv.com/india-news/satyendar-jain-arrest-case-will-be-proven-fake-says-arvind-kejriwal-11927524#publisher=newsstand",
-          "published_at": "Tue, 18 Aug 2026 22:06:37 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di0ndGFydW4tdGVqcGFs",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "'Tarun Tejpal Punishment Inadequate': Goa's 'Life Term' Plea In Supreme Court",
-          "summary": "Earlier this month, the Goa Bench of the Bombay High Court overturned a trial court's 2021 acquittal order, convicting the former Tehelka journalist for raping his colleague inside an elevator in 2013 and sending him to jail for 10 years.",
-          "image_url": "https://i.ndtvimg.com/i/2017-09/tarun-tejpal-afp_650x400_51506506237.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/tarun-tejpal-punishment-inadequate-goas-life-term-plea-in-supreme-court-11927643#publisher=newsstand",
-          "published_at": "Tue, 18 Aug 2026 22:04:29 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1ub24tYmFpbGFibGUt",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Non-Bailable Warrant Issued Against Pakistan-Based Terrorist In Jammu",
-          "summary": "Abu Sumama is accused of directing Pakistani terrorists to carry out targeted killings of civilians and attacks on security forces in Kashmir.",
-          "image_url": "https://c.ndtvimg.com/2026-08/0n4294tk_mohammad-yaqoob-terror-handler_625x300_18_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/non-bailable-warrant-issued-against-pakistan-based-terrorist-in-jammu-11927639#publisher=newsstand",
-          "published_at": "Tue, 18 Aug 2026 22:03:55 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1iZWxvbmdpbmctLS1h",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Belonging - A Journey Of Love: Sonia Gandhi's Memoir Out On November 10",
-          "summary": "Publisher Alfred A Knopf announced on Tuesday that Sonia Gandhi's memoir, 'Belonging: A Journey of Love', will be published on November 10.",
-          "image_url": "https://c.ndtvimg.com/2026-08/kgd27uks_sonia-gandhi-_625x300_18_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/sonia-gandhi-book-belonging-a-journey-of-love-sonia-gandhis-memoir-out-on-november-10-11927076#publisher=newsstand",
-          "published_at": "Tue, 18 Aug 2026 21:51:59 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "bmR0di1pbi1udW1iZXJzOi1m",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "In Numbers: From Classrooms To Jobs, Jharkhand's Youth Struggle",
-          "summary": "Student leader Devendra Nath Mahto, who had been on hunger strike for 16 days, ended his fast after the government's decision.",
-          "image_url": "https://c.ndtvimg.com/2026-08/8vkkra84_datafy-jharkhand-_625x300_18_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/in-numbers-from-classrooms-to-jobs-jharkhands-youth-struggle-11927527#publisher=newsstand",
-          "published_at": "Tue, 18 Aug 2026 21:38:05 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "bmR0di11YWUtd2FybnMtb2Yt",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "UAE Warns Of 'Potential Missile Threats', Asks People To Seek Shelter",
+          "title": "UAE Says 2 Ballistic Missiles Launched From Iran Fell Into Territorial Waters",
           "summary": "The UAE missile threat comes a day after the Memorandum of Understanding (MoU) between Iran and the United States, aimed at ending the fighting in the Middle East, expired.",
           "image_url": "https://c.ndtvimg.com/2026-08/qrni27rs_dubai_625x300_16_August_26.jpeg",
           "article_url": "https://www.ndtv.com/world-news/uae-warns-of-potential-missile-threats-asks-people-to-seek-shelter-11927191#publisher=newsstand",
-          "published_at": "Tue, 18 Aug 2026 21:29:33 +0530",
-          "cross_sections": []
+          "published_at": "Tue, 18 Aug 2026 23:43:17 +0530",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
-          "id": "bmR0di0nYm9zcy1zY2FtJywt",
+          "id": "bmR0di0iYnVpbHQtb24tY3Jl",
           "source_id": "ndtv",
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
           "feed_label": "Top Stories",
-          "title": "'Boss Scam', Handled Via China And Pakistan, Busted In Gujarat",
-          "summary": "Police officials secured over 10,000 compromised devices and saved citizens from potential financial losses running into crores of rupees.",
-          "image_url": "https://c.ndtvimg.com/2026-08/5qtnoshs_boss-scam-_625x300_18_August_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/boss-scam-handled-via-china-and-pakistan-busted-in-gujarat-11927339#publisher=newsstand",
-          "published_at": "Tue, 18 Aug 2026 20:59:43 +0530",
+          "title": "\"Built On Credibility\": India Inc Congratulates NDTV On New Identity",
+          "summary": "The new identity was unveiled on Independence Day, accompanied by a new logo and a major change to one of its best-known brands. NDTV 24x7 is now, simply NDTV.",
+          "image_url": "https://c.ndtvimg.com/2026-08/gqbi7t6o_ndtv-logo_625x300_18_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/india-news/built-on-credibility-india-inc-congratulates-ndtv-on-new-identity-11928001#publisher=newsstand",
+          "published_at": "Tue, 18 Aug 2026 23:33:50 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "bmR0di0yLWNyaXRpY2FsLC1z",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "2 Critical, Several Injured After Ferris Wheel Crashes At Lucknow Fair",
+          "summary": "The incident took place at the Indiranagar Sawan Mahotsav being held in Lucknow's Ghazipur police station area.",
+          "image_url": "https://c.ndtvimg.com/2026-08/esmtki4k_1_650x400_18_August_26.jpg",
+          "article_url": "https://www.ndtv.com/india-news/2-critical-several-injured-after-ferris-wheel-crashes-at-lucknow-fair-11927941#publisher=newsstand",
+          "published_at": "Tue, 18 Aug 2026 23:33:38 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di10cnVtcC1wb3N0cy1h",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Trump Posts AI Photo Of Hormuz As \"New US Territory\", Says All Mines Removed",
+          "summary": "This is not the first time Trump has raised the idea of a US takeover. On Friday, he said in a light-hearted manner that he would soon declare it to be US territory. Iran quickly responded and said that the strait \"will remain Iranian\".",
+          "image_url": "https://c.ndtvimg.com/2026-08/k8v19v3g_strait-of-hormuz_625x300_18_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/world-news/donald-trump-posts-ai-photo-of-hormuz-as-new-us-territory-says-all-mines-removed-11927959#publisher=newsstand",
+          "published_at": "Tue, 18 Aug 2026 23:21:55 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di10ZWFtLXNldHRsZWQs",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Team Settled, On Nitin Nabin's To-Do List - Parliamentary Board, Poll Panel",
+          "summary": "It is likely that Nitin Nabin will soon constitute the Parliamentary Board, the Central Election Committee, the National Executive, and the National Council.",
+          "image_url": "https://c.ndtvimg.com/2026-05/vdoq5muk_pm-modi-nitin-nabin-_650x400_04_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/india-news/team-settled-on-nitin-nabins-to-do-list-parliamentary-board-poll-panel-11927938#publisher=newsstand",
+          "published_at": "Tue, 18 Aug 2026 23:16:14 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "bmR0di1mYWtlLW1lZGljaW5l",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Fake Medicines In ICUs? Raids Near Bengaluru Uncover Massive Racket",
+          "summary": "Officials reportedly seized fake and spurious medicines worth more than Rs 5 crore from an unlicensed manufacturing unit.",
+          "image_url": "https://c.ndtvimg.com/2024-06/tib0u67o_medicine-generic_625x300_25_June_24.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/india-news/fake-medicines-in-icus-raids-near-bengaluru-uncover-massive-racket-11927875#publisher=newsstand",
+          "published_at": "Tue, 18 Aug 2026 23:00:23 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1zdXJhdC1naXJsLWRp",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Surat Girl Dies, 4 In Hospital Allegedly After Eating Restaurant Food",
+          "summary": "Gujarat Health Minister Praful Pansheriya has ordered the authorities to seal the restaurant that delivered the curry.",
+          "image_url": "https://c.ndtvimg.com/2026-08/inv50t1g_surat_625x300_18_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/india-news/surat-girl-5-dies-of-food-poisoning-family-blames-kaju-paneer-curry-11927196#publisher=newsstand",
+          "published_at": "Tue, 18 Aug 2026 22:55:56 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "bmR0di1leGFtLWJvZHktYWNj",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Exam Body Accelerates Reforms, 600 Experts Removed, Multi-Tier Checks Ordered",
+          "summary": "According to the update provided by the DG, NTA, a major revamp of the examination team has been completed, with 600 experts removed and new experts onboarded.",
+          "image_url": "https://c.ndtvimg.com/2026-08/tt4r8o2_ugc-net_625x300_17_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/education/exam-body-accelerates-reforms-600-experts-removed-multi-tier-checks-ordered-11927826#publisher=newsstand",
+          "published_at": "Tue, 18 Aug 2026 22:46:26 +0530",
           "cross_sections": []
         },
         {
@@ -4621,22 +4618,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "bmR0di1zaGlwLWhpdC1ieS0i",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Ship Hit By \"Unknown Projectile\" In Hormuz As US-Iran Deadlock Continues",
-          "summary": "An unidentified projectile damaged the ship's engine room and \"resulted in a crew casualty\" off the coast of Oman, the UKMTO said, citing a report from the company's security office.",
-          "image_url": "https://c.ndtvimg.com/2026-07/t6kdtf6o_strait-of-hormuz_625x300_16_July_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/ship-hit-by-unknown-projectile-in-hormuz-as-us-iran-deadlock-continues-11926268#publisher=newsstand",
-          "published_at": "Tue, 18 Aug 2026 17:55:15 +0530",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -4646,6 +4627,54 @@
       "region": "Middle East & Africa",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "YWxqYXplZXJhLWJhcmNlbG9u",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Barcelona seal deal for World Cup winner Rodri from Manchester City",
+          "summary": "Rodri won the player of the World Cup award while helping Spain beat Argentina, and now completes his Barcelona move.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/sports/2026/8/18/barcelona-seal-deal-for-world-cup-winner-rodri-from-manchester-city?traffic_source=rss",
+          "published_at": "Tue, 18 Aug 2026 18:01:12 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLW5pZ2VyaWEt",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Nigeria hospital collapses after rain washed away its foundations",
+          "summary": "A hospital in Nigeria has collapsed after rainwater triggered a landslide, washing away the foundational infrastructure.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/nigeria-hospital-collapses-after-rain-washed-away-its-foundations?traffic_source=rss",
+          "published_at": "Tue, 18 Aug 2026 17:55:26 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLWFuYWx5c2lz",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Analysis: Syrian airbase attack is an Israeli message to Damascus, Ankara",
+          "summary": "Analysts say the attack on Abu al-Duhur was likely an Israeli message warning to not rebuild Syria's air force.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/features/2026/8/18/analysis-syrian-airbase-attack-is-an-israeli-message-to-damascus-ankara?traffic_source=rss",
+          "published_at": "Tue, 18 Aug 2026 17:51:46 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "YWxqYXplZXJhLXRoZS1icml0",
           "source_id": "aljazeera",
@@ -4721,50 +4750,6 @@
           "article_url": "https://www.aljazeera.com/sports/2026/8/18/real-madrid-officially-presents-mourinho-in-bizarre-closed-door-ceremony?traffic_source=rss",
           "published_at": "Tue, 18 Aug 2026 16:09:49 +0000",
           "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXNwYWluLWJ1",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Spain builds tent cities for the thousands stuck in Ceuta",
-          "summary": "Spain is building four temporary reception sites with 1,500 places as an estimated 5,000 migrants remain in Ceuta.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/spain-builds-tent-cities-for-the-thousands-stuck-in-ceuta?traffic_source=rss",
-          "published_at": "Tue, 18 Aug 2026 15:53:42 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXBhbGVzdGlu",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Palestinian living in caves older than Israel",
-          "summary": "Farhan al Rashaydeh lives in a cave in the occupied West Bank with his family.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-living-in-caves-older-than-israel?traffic_source=rss",
-          "published_at": "Tue, 18 Aug 2026 15:53:38 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLeKAnGktZmVh",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "“I fear for my family’s lives” says Loui Ridi as settlers besiege home",
-          "summary": "Palestinian-American Loui Ridi expressed distress over how Israeli settlers have roamed around Qusra unchallenged.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/i-fear-for-my-familys-lives-says-loui-ridi-as-settlers-besiege-home?traffic_source=rss",
-          "published_at": "Tue, 18 Aug 2026 15:53:12 +0000",
-          "cross_sections": []
         }
       ]
     },
@@ -4775,129 +4760,123 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "YXJhYm5ld3MtY2FuLWFsLWJ1",
+          "id": "YXJhYm5ld3MtZ2F6YS1ib2Fy",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Can Al-Burhan’s Sudanese national dialogue turn military gains into a political settlement?",
-          "summary": "LONDON: More than three years after Sudan descended into civil war, army chief Gen. Abdel Fattah Al-Burhan is pushing for a broad national dialogue aimed at rebuilding the country’s political institutions and laying the foundations for a civilian transition.\n\n\tTalks could begin as early as August, w",
+          "title": "Gaza Board of Peace official says plan is still operative",
+          "summary": "WASHINGTON: US President Donald Trump’s Gaza plan is still operative ​and discussions with Israel are continuing, a Board of Peace official said on Monday after Prime Minister Benjamin Netanyahu rejected an Israeli withdrawal until the Palestinian militant group Hamas is “genuinely disarmed.”\n\tNetan",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654150/middle-east",
-          "published_at": "Mon, 10 Aug 2026 11:08:33 +03",
+          "article_url": "https://www.arabnews.com/node/2654137/middle-east",
+          "published_at": "Mon, 10 Aug 2026 09:08:32 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtZmlyZS1icmVh",
+          "id": "YXJhYm5ld3MtemVsZW5za3kt",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Fire breaks out at Libya’s Zawiya refinery",
-          "summary": "TRIPOLI: A fire broke out on Monday ​in a diesel tank at Libya’s Zawiya refinery days after the facility was hit by drone.\n\n\tThe circumstances of Monday's fire remained unknown, Brega Petroleum Marketing Company said in a statement.\n\tBrega is owned by state oil firm National Oil Corporation (NOC) an",
+          "title": "Zelensky congratulates Saudi Arabia’s crown prince on Makkah defense agreement",
+          "summary": "RIYADH: Ukrainian President Volodymyr Zelensky congratulated Saudi Arabia’s Crown Prince Mohammed bin Salman on Monday for the recent signing of a regional defense agreement.\n\n\tZelensky said he hopes the Makkah Joint Defense Agreement signed between Saudi Arabia, Turkiye and Pakistan last week will ",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654151/middle-east",
-          "published_at": "Mon, 10 Aug 2026 11:08:10 +03",
+          "article_url": "https://www.arabnews.com/node/2654135/saudi-arabia",
+          "published_at": "Mon, 10 Aug 2026 08:08:11 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtaXNyYWVsaS1z",
+          "id": "YXJhYm5ld3MtYWx0YW5mZWV0",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Israeli settler attack on Al-Mughayyir highlights surge in West Bank violence",
-          "summary": "RAMALLAH: Israeli settlers, under the protection of Israeli occupation forces, have attacked the village of Al-Mughayyir, northeast of Ramallah.\n\n\tAmin Abu Aliya, the head of the Al-Mughayyir Village Council, said that settlers attacked Palestinian farmers in the eastern plain area and local residen",
+          "title": "ALTANFEETHI concludes participation in Como Cup 2026 in Italy",
+          "summary": "ALTANFEETHI concluded its participation in Como Cup 2026 in Como, Italy, as part of its partnership with AlUla Club. The six-day participation introduced ALTANFEETHI’s services and hospitality experience to an international audience.\n\n\tALTANFEETHI participated through a dedicated booth within the ev",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654145/middle-east",
-          "published_at": "Mon, 10 Aug 2026 10:08:48 +03",
+          "article_url": "https://www.arabnews.com/node/2654134/corporate-and-sponsored-content",
+          "published_at": "Mon, 10 Aug 2026 08:08:04 +03",
+          "cross_sections": []
+        },
+        {
+          "id": "YXJhYm5ld3MtdHJ1bXAtZGVt",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Trump demands Iran pay compensation for war dead and wounded",
+          "summary": "WASHINGTON: US President Donald Trump said Monday he would seek conflict compensation from Iran as part of any peace negotiations, citing attacks and atrocities stretching back decades allegedly backed or perpetrated by Tehran.\n\tIran is “asking for compensation for the damage done to them during the",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654132/middle-east",
+          "published_at": "Mon, 10 Aug 2026 07:08:59 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3Mtc3lyaWFuLWxl",
+          "id": "YXJhYm5ld3MtaXJhbi1zdXBy",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Syrian leader receives UN refugee chief in Damascus",
-          "summary": "DAMASCUS: President Ahmad Al-Sharaa received UN High Commissioner for Refugees Barham Salih and his accompanying delegation at the People’s Palace in Damascus on Monday, in the presence of Minister of Foreign Affairs and Expatriates Asaad Hassan Al-Shaibani.\n\tThe meeting focused on ways to strengthe",
+          "title": "Iran supreme leader names Guards general Abdollahi military chief",
+          "summary": "TEHRAN: Iranian supreme leader Mojtaba Khamenei named Revolutionary Guards general Ali Abdollahi head of the country's armed forces on Monday, while also confirming a new commander of the Guards, putting his imprimatur on the country's military.\n\tAbdollahi had previously led the Khatam Al-Anbiya, Ir",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654147/middle-east",
-          "published_at": "Mon, 10 Aug 2026 10:08:45 +03",
+          "article_url": "https://www.arabnews.com/node/2654129/middle-east",
+          "published_at": "Mon, 10 Aug 2026 07:08:36 +03",
+          "cross_sections": []
+        },
+        {
+          "id": "YXJhYm5ld3Mtc3BvcnRzLWJv",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Sports Boulevard launches $186m fund to develop Urban Wadi assets",
+          "summary": "JEDDAH: The Sports Boulevard Real Estate Development and Investment Co. has signed agreements with Rikaz Properties to establish its third real estate investment fund, valued at more than $186 million, to develop key assets including a luxury five-star hotel in Riyadh’s Urban Wadi.\n\n\tThe fund will f",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654133/business-economy",
+          "published_at": "Mon, 10 Aug 2026 07:08:14 +03",
+          "cross_sections": []
+        },
+        {
+          "id": "YXJhYm5ld3MtdWtyYWluZeKA",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Ukraine’s Zelensky says up to 50,000 North Korean troops to be deployed in Russia",
+          "summary": "SEOUL: Ukrainian President Volodymyr Zelensky has ‌said up to 50,000 North Korean soldiers will be deployed in Russia to fight for Pyongyang’s ally, while calling on South Korea to provide support for ​its air defense.Zelensky said on X on Saturday that “a decision has been made for 30,000 to 50,000",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654131/world",
+          "published_at": "Mon, 10 Aug 2026 07:08:03 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtdGVlbmFnZXIt",
+          "id": "YXJhYm5ld3MtaG91dGhpcy1s",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Teenager dies trying to rescue swimmers at Alexandria beach",
-          "summary": "ALEXANDRIA: An 18-year-old man died while attempting to help rescue six people from drowning at El-Baitash beach in Alexandria, Egypt, on Saturday, local authorities said.\n\tThe Central Administration for Tourism and Resorts in Alexandria said on Sunday that the beach was among those closed to swimme",
+          "title": "Houthis launch new drone wave across Yemen’s government-held areas",
+          "summary": "AL-MUKALLA: At least two Yemeni government soldiers were killed in southern Yemen as the Houthis launched a new wave of drone attacks on government-controlled areas in Aden, Mocha and Shabwa.\n\n\tThe escalation came as the Yemeni army vowed on Monday to respond to Houthi drone and missile strikes on t",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654149/middle-east",
-          "published_at": "Mon, 10 Aug 2026 10:08:39 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtaGlzdG9yaWMt",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Historic trails, dramatic peaks position Taif as Saudi Arabia’s emerging hiking capital",
-          "summary": "MAKKAH: Cradled among dramatic mountain ridges, lush valleys and cool highland breezes, Taif is rapidly cementing its reputation as one of Saudi Arabia’s premier outdoor destinations — with mountain hiking leading its eco-tourism surge.\n\n\tDriven by growing domestic interest in outdoor recreation und",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654143/saudi-arabia",
-          "published_at": "Mon, 10 Aug 2026 10:08:37 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3Mtd2hhdC13ZS1h",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "What We Are Reading Today: ‘Silk Roads, Steppe Roads’ by Jonathan Karam Skaff",
-          "summary": "“Silk Roads, Steppe Roads” takes the reader on a journey to three sites in northwestern China and Mongolia to investigate medieval Chinese tombs containing evidence of Eastern Eurasian cultural contacts and exchanges. \n\n\tThe construction, artifacts, and texts on paper and stone found at these tombs ",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654146/books",
-          "published_at": "Mon, 10 Aug 2026 10:08:22 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtYWwtbmFzc3It",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Al-Nassr fans worried ahead of new season but Ange might be the man to steer them to glory",
-          "summary": "RIYADH: It is not a good time to be an Al-Nassr fan. While that might sound like a bizarre statement to make, considering the club ended a seven-year title drought by beating Al-Hilal to the Saudi Pro League title last season, they face a stark reality as they prepare to defend their title.",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654148/sport",
-          "published_at": "Mon, 10 Aug 2026 10:08:19 +03",
+          "article_url": "https://www.arabnews.com/node/2654127/middle-east",
+          "published_at": "Mon, 10 Aug 2026 06:08:00 +03",
           "cross_sections": []
         }
       ]
@@ -5043,7 +5022,7 @@
         {
           "id": "ndtv",
           "name": "NDTV",
-          "count": 15
+          "count": 14
         }
       ]
     },
@@ -5072,6 +5051,167 @@
       "icon": "💻",
       "articles": [
         {
+          "id": "bmR0di11YWUtc2F5cy0yLWJh",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "UAE Says 2 Ballistic Missiles Launched From Iran Fell Into Territorial Waters",
+          "summary": "The UAE missile threat comes a day after the Memorandum of Understanding (MoU) between Iran and the United States, aimed at ending the fighting in the Middle East, expired.",
+          "image_url": "https://c.ndtvimg.com/2026-08/qrni27rs_dubai_625x300_16_August_26.jpeg",
+          "article_url": "https://www.ndtv.com/world-news/uae-warns-of-potential-missile-threats-asks-people-to-seek-shelter-11927191#publisher=newsstand",
+          "published_at": "Tue, 18 Aug 2026 23:43:17 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtY2l0dSwtYWl0",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "CITU, AITUC stage separate rallies over workers’ demands",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/j01gg2/article71362166.ece/alternates/LANDSCAPE_1200/VSP19_AUTO_RALLY-1.JPG",
+          "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/citu-aituc-stage-separate-rallies-over-workers-demands/article71361870.ece",
+          "published_at": "Tue, 18 Aug 2026 23:38:55 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LW1ldGEtdG8tc3RhbmQt",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Meta to Stand Trial Over Claims It Addicted Children to Social Media",
+          "summary": "California, Colorado, Kentucky and New Jersey have taken the social media giant to trial in the first bellwether federal case over child harm.",
+          "image_url": "https://static01.nyt.com/images/2026/08/14/multimedia/META-TRIAL-whqk/META-TRIAL-whqk-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html",
+          "published_at": "Tue, 18 Aug 2026 18:07:16 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di0yLWNyaXRpY2FsLC1z",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "2 Critical, Several Injured After Ferris Wheel Crashes At Lucknow Fair",
+          "summary": "The incident took place at the Indiranagar Sawan Mahotsav being held in Lucknow's Ghazipur police station area.",
+          "image_url": "https://c.ndtvimg.com/2026-08/esmtki4k_1_650x400_18_August_26.jpg",
+          "article_url": "https://www.ndtv.com/india-news/2-critical-several-injured-after-ferris-wheel-crashes-at-lucknow-fair-11927941#publisher=newsstand",
+          "published_at": "Tue, 18 Aug 2026 23:33:38 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLWJhcmNlbG9u",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Barcelona seal deal for World Cup winner Rodri from Manchester City",
+          "summary": "Rodri won the player of the World Cup award while helping Spain beat Argentina, and now completes his Barcelona move.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/sports/2026/8/18/barcelona-seal-deal-for-world-cup-winner-rodri-from-manchester-city?traffic_source=rss",
+          "published_at": "Tue, 18 Aug 2026 18:01:12 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGVjaGNydW5jaC1vcGVuYWkt",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "OpenAI institutes new safeguards after Hugging Face breach",
+          "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+          "published_at": "Tue, 18 Aug 2026 18:00:00 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdG5wbDota292",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "TNPL: Kovai Kings have it easy against Super Gillies",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/91muhc/article71362147.ece/alternates/LANDSCAPE_1200/DSC_0041.JPG",
+          "article_url": "https://www.thehindu.com/sport/cricket/tnpl-kovai-kings-have-it-easy-against-super-gillies/article71362150.ece",
+          "published_at": "Tue, 18 Aug 2026 23:26:10 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLW5pZ2VyaWEt",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Nigeria hospital collapses after rain washed away its foundations",
+          "summary": "A hospital in Nigeria has collapsed after rainwater triggered a landslide, washing away the foundational infrastructure.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/nigeria-hospital-collapses-after-rain-washed-away-its-foundations?traffic_source=rss",
+          "published_at": "Tue, 18 Aug 2026 17:55:26 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di10cnVtcC1wb3N0cy1h",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Trump Posts AI Photo Of Hormuz As \"New US Territory\", Says All Mines Removed",
+          "summary": "This is not the first time Trump has raised the idea of a US takeover. On Friday, he said in a light-hearted manner that he would soon declare it to be US territory. Iran quickly responded and said that the strait \"will remain Iranian\".",
+          "image_url": "https://c.ndtvimg.com/2026-08/k8v19v3g_strait-of-hormuz_625x300_18_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/world-news/donald-trump-posts-ai-photo-of-hormuz-as-new-us-territory-says-all-mines-removed-11927959#publisher=newsstand",
+          "published_at": "Tue, 18 Aug 2026 23:21:55 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLWFuYWx5c2lz",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Analysis: Syrian airbase attack is an Israeli message to Damascus, Ankara",
+          "summary": "Analysts say the attack on Abu al-Duhur was likely an Israeli message warning to not rebuild Syria's air force.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/features/2026/8/18/analysis-syrian-airbase-attack-is-an-israeli-message-to-damascus-ankara?traffic_source=rss",
+          "published_at": "Tue, 18 Aug 2026 17:51:46 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dGhldmVyZ2Utc2Ftc3VuZxKA",
           "source_id": "theverge",
           "source_name": "The Verge",
@@ -5093,7 +5233,7 @@
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
-          "feed_label": "Latest",
+          "feed_label": "Technology",
           "title": "OpenAI unveils ChatGPT for Teens with stronger guardrails, parental controls",
           "summary": "The $852-billion startup faces ⁠multiple lawsuits alleging ChatGPT harmed children, as it prepares for a potentially record-breaking initial public offering",
           "image_url": "https://th-i.thgim.com/public/news/national/1rhwxg/article71362137.ece/alternates/LANDSCAPE_1200/iStock-2203181438.jpg",
@@ -5102,22 +5242,6 @@
           "cross_sections": [
             "tech",
             "ai"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtbGF6eS1leWUt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Lazy eye in children may go unnoticed — when is an eye check-up needed?",
-          "summary": "Often called lazy eye, amblyopia may have no obvious signs and can remain undetected during early childhood. Screening, timely treatment and sustained follow-up are important because visual development is time-sensitive",
-          "image_url": "https://th-i.thgim.com/public/incoming/lwv5pt/article71355287.ece/alternates/LANDSCAPE_1200/Ty14_Eye.jpg",
-          "article_url": "https://www.thehindu.com/sci-tech/health/lazy-eye-in-children-may-go-unnoticed-when-is-an-eye-check-up-needed/article71355270.ece",
-          "published_at": "Tue, 18 Aug 2026 23:12:50 +0530",
-          "cross_sections": [
-            "tech"
           ]
         },
         {
@@ -5132,38 +5256,6 @@
           "image_url": "https://static01.nyt.com/images/2026/08/18/multimedia/18int-syria-strikes-cjwb/18int-syria-strikes-cjwb-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/18/world/middleeast/israel-airstrikes-syria-air-base.html",
           "published_at": "Tue, 18 Aug 2026 17:41:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtYmVuZ2FsdXJ1",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Bengaluru’s ORR companies write to GBA expressing concern over white-topping in October, WFH suggestion",
-          "summary": "Pointing out that ORR supports more than 500 companies and approximately 1.3 million employees, the association argues that WFH cannot be a substitute for effective infrastructure planning and traffic management",
-          "image_url": "https://th-i.thgim.com/public/incoming/tae8yp/article71360421.ece/alternates/LANDSCAPE_1200/ALL_0704A.JPG",
-          "article_url": "https://www.thehindu.com/news/cities/bangalore/bengalurus-orr-companies-write-to-gba-expressing-concern-over-white-topping-in-october-wfh-suggestion/article71359494.ece",
-          "published_at": "Tue, 18 Aug 2026 23:07:56 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtZGV0ZXJpb3Jh",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Deteriorating air quality in Vizag sparks concern among MLAs",
-          "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/ygqxv2/article71362121.ece/alternates/LANDSCAPE_1200/VSP19_One_Town.JPG",
-          "article_url": "https://www.thehindu.com/news/cities/Visakhapatnam/deteriorating-air-quality-in-vizag-sparks-concern-among-mlas/article71361212.ece",
-          "published_at": "Tue, 18 Aug 2026 23:07:04 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5196,6 +5288,22 @@
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
           "published_at": "Tue, 18 Aug 2026 17:31:01 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1mYWtlLW1lZGljaW5l",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Fake Medicines In ICUs? Raids Near Bengaluru Uncover Massive Racket",
+          "summary": "Officials reportedly seized fake and spurious medicines worth more than Rs 5 crore from an unlicensed manufacturing unit.",
+          "image_url": "https://c.ndtvimg.com/2024-06/tib0u67o_medicine-generic_625x300_25_June_24.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/india-news/fake-medicines-in-icus-raids-near-bengaluru-uncover-massive-racket-11927875#publisher=newsstand",
+          "published_at": "Tue, 18 Aug 2026 23:00:23 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5276,22 +5384,6 @@
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/08/18/apple-eu-app-store-fees-iphone.html",
           "published_at": "Tue, 18 Aug 2026 17:16:49 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy10aGUtdG9wLTEwLWNv",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "The top 10 colleges for financial aid in 2026, according to The Princeton Review — and what families actually pay",
-          "summary": "With cost a top concern, these colleges are considered the most generous with their financial aid packages.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/18/colleges-best-financial-aid-2026-princeton-review.html",
-          "published_at": "Tue, 18 Aug 2026 17:14:01 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -5409,38 +5501,6 @@
           ]
         },
         {
-          "id": "bmR0di1hYXAtbGVhZGVyLXNh",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "AAP Leader Satyendar Jain Arrested In Corruption Case Linked To Delhi Jal Board",
-          "summary": "Jain spent months in jail in a money laundering case before being released on bail in 2024.",
-          "image_url": "https://c.ndtvimg.com/2022-01/m86cfgr_satyendar-jain-ndtv_625x300_11_January_22.jpg",
-          "article_url": "https://www.ndtv.com/india-news/aap-leader-satyendar-jain-arrested-in-corruption-case-linked-to-delhi-jal-board-11927361#publisher=newsstand",
-          "published_at": "Tue, 18 Aug 2026 22:06:47 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1zYXR5ZW5kYXItamFp",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Satyendar Jain Arrest: Case Will Be Proven Fake, Says Arvind Kejriwal",
-          "summary": "Jain, who spent 18 months in jail in connection with a money laundering case, was arrested this evening.The former water minister has been accused of being involved in the manipulation of a tender process at the Delhi Jal Board.",
-          "image_url": "https://c.ndtvimg.com/2022-01/2ft3pm08_arvind-kejriwal-satyendar-jain-pti_625x300_23_January_22.jpg",
-          "article_url": "https://www.ndtv.com/india-news/satyendar-jain-arrest-case-will-be-proven-fake-says-arvind-kejriwal-11927524#publisher=newsstand",
-          "published_at": "Tue, 18 Aug 2026 22:06:37 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "ZHctbmlnZXJpYTotZG96ZW5z",
           "source_id": "dw",
           "source_name": "DW News",
@@ -5452,38 +5512,6 @@
           "image_url": null,
           "article_url": "https://www.dw.com/en/nigeria-dozens-killed-in-plateau-state-attack/a-78419529?maca=en-rss-en-top-1022-xml-mrss",
           "published_at": "Tue, 18 Aug 2026 16:35:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di0ndGFydW4tdGVqcGFs",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "'Tarun Tejpal Punishment Inadequate': Goa's 'Life Term' Plea In Supreme Court",
-          "summary": "Earlier this month, the Goa Bench of the Bombay High Court overturned a trial court's 2021 acquittal order, convicting the former Tehelka journalist for raping his colleague inside an elevator in 2013 and sending him to jail for 10 years.",
-          "image_url": "https://i.ndtvimg.com/i/2017-09/tarun-tejpal-afp_650x400_51506506237.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/tarun-tejpal-punishment-inadequate-goas-life-term-plea-in-supreme-court-11927643#publisher=newsstand",
-          "published_at": "Tue, 18 Aug 2026 22:04:29 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1ub24tYmFpbGFibGUt",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Non-Bailable Warrant Issued Against Pakistan-Based Terrorist In Jammu",
-          "summary": "Abu Sumama is accused of directing Pakistani terrorists to carry out targeted killings of civilians and attacks on security forces in Kashmir.",
-          "image_url": "https://c.ndtvimg.com/2026-08/0n4294tk_mohammad-yaqoob-terror-handler_625x300_18_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/non-bailable-warrant-issued-against-pakistan-based-terrorist-in-jammu-11927639#publisher=newsstand",
-          "published_at": "Tue, 18 Aug 2026 22:03:55 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5649,22 +5677,6 @@
           ]
         },
         {
-          "id": "bnl0LW1ldGEtdG8tc3RhbmQt",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "Meta to Stand Trial Over Claims It Addicted Children to Social Media",
-          "summary": "California, Colorado, Kentucky and New Jersey have taken the social media giant to trial in the first bellwether federal case over child harm.",
-          "image_url": "https://static01.nyt.com/images/2026/08/14/multimedia/META-TRIAL-whqk/META-TRIAL-whqk-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html",
-          "published_at": "Tue, 18 Aug 2026 16:18:49 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "Y25iY3RlY2gtbnZpZGlhJ3Mt",
           "source_id": "cnbctech",
           "source_name": "CNBC Technology",
@@ -5676,38 +5688,6 @@
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html",
           "published_at": "Tue, 18 Aug 2026 16:13:21 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZHctbWlkZGxlLWVhc3Q6LW5v",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Middle East: No talks or conversations with Iran, Trump says",
-          "summary": "Trump also claimed that the Strait of Hormuz was \"open and operating,\" contrary to Iranian reports. Meanwhile, Syria, the US and Turkey condemned Israeli strikes on a Syrian airbase. Follow DW for more.",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/middle-east-no-talks-or-conversations-with-iran-trump-says/live-78419518?maca=en-rss-en-top-1022-xml-mrss",
-          "published_at": "Tue, 18 Aug 2026 16:13:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLWRpc25leS1z",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Disney sues US regulator, claiming political retaliation over ABC stations",
-          "summary": "FCC faces scrutiny as Disney claims licence renewal order is tied to political motives against ABC's coverage.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/economy/2026/8/18/disney-sues-us-regulator-claiming-political-retaliation-over-abc-stations?traffic_source=rss",
-          "published_at": "Tue, 18 Aug 2026 16:12:15 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5726,12 +5706,29 @@
       "icon": "🤖",
       "articles": [
         {
+          "id": "dGVjaGNydW5jaC1vcGVuYWkt",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "OpenAI institutes new safeguards after Hugging Face breach",
+          "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+          "published_at": "Tue, 18 Aug 2026 18:00:00 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "dGhlaGluZHUtb3BlbmFpLXVu",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
-          "feed_label": "Latest",
+          "feed_label": "Technology",
           "title": "OpenAI unveils ChatGPT for Teens with stronger guardrails, parental controls",
           "summary": "The $852-billion startup faces ⁠multiple lawsuits alleging ChatGPT harmed children, as it prepares for a potentially record-breaking initial public offering",
           "image_url": "https://th-i.thgim.com/public/news/national/1rhwxg/article71362137.ece/alternates/LANDSCAPE_1200/iStock-2203181438.jpg",
@@ -6069,7 +6066,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 10012,
+    "build_ms": 10226,
     "ai_enabled": true
   }
 }
