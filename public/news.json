@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-17T23:56:02.496Z",
-  "total_articles": 311,
-  "new_this_run": 17,
+  "last_updated": "2026-08-18T00:38:19.549Z",
+  "total_articles": 310,
+  "new_this_run": 14,
   "sources": [
     {
       "id": "techcrunch",
@@ -9,6 +9,22 @@
       "region": "IT Focus",
       "category": "Tech Media",
       "articles": [
+        {
+          "id": "dGVjaGNydW5jaC1hbnRocm9w",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Anthropic’s annualized revenue surges to $65B",
+          "summary": "The model maker added $18 billion in annualized revenue in two months.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+          "published_at": "Mon, 17 Aug 2026 23:56:26 +0000",
+          "cross_sections": [
+            "ai"
+          ]
+        },
         {
           "id": "dGVjaGNydW5jaC1haS1hdXRv",
           "source_id": "techcrunch",
@@ -115,22 +131,6 @@
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/08/17/sound-powered-fire-protection-startup-gets-15m-to-snuff-out-fires-before-they-turn-catastrophic/",
           "published_at": "Mon, 17 Aug 2026 18:32:27 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC15b3V0dWJl",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "YouTube will now count a view as soon as a video starts playing",
-          "summary": "The change comes a year after YouTube applied the same approach to counting views on Shorts videos.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/08/17/youtube-will-now-count-a-view-as-soon-as-a-video-starts-playing/",
-          "published_at": "Mon, 17 Aug 2026 18:09:33 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -526,6 +526,22 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "emRuZXQtc3RvcC1wYXlpbmct",
+          "source_id": "zdnet",
+          "source_name": "ZDNet",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Stop paying for smartphone storage you don't need - here's a better approach",
+          "summary": "How to stop wasting money on storage: Think in dollars, not gigabytes.",
+          "image_url": null,
+          "article_url": "https://www.zdnet.com/article/stop-paying-for-smartphone-storage-you-dont-need/",
+          "published_at": "Tue, 18 Aug 2026 00:00:41 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "emRuZXQtYnVzaW5lc3MtYWRv",
           "source_id": "zdnet",
           "source_name": "ZDNet",
@@ -636,20 +652,6 @@
             "tech",
             "ai"
           ]
-        },
-        {
-          "id": "emRuZXQtaSd2ZS10ZXN0ZWQt",
-          "source_id": "zdnet",
-          "source_name": "ZDNet",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "I've tested dozens of tablets - this $300 TCL is a back-to-school powerhouse",
-          "summary": "The Tab A1 Plus Nxtpaper is a new offering from TCL that has arrived just in time to become a partner for school productivity.",
-          "image_url": null,
-          "article_url": "https://www.zdnet.com/article/tcl-tab-a1-plus-nxtpaper-tablet-review-2026/",
-          "published_at": "Mon, 17 Aug 2026 08:45:57 GMT",
-          "cross_sections": []
         }
       ]
     },
@@ -659,6 +661,38 @@
       "region": "IT Focus",
       "category": "Tech Media",
       "articles": [
+        {
+          "id": "Y25ldC1wbGFubmVkLXVzLWRh",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Planned US Data Centers Set to Produce 24M Cars’ Worth Of Carbon Dioxide",
+          "summary": "Researchers find Big Tech’s most ambitious builds and climate pledges are colliding with its AI power demands.",
+          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/c7c95385-1598-46b9-9c0f-be8c04cc7045.jpg",
+          "article_url": "https://www.cnet.com/tech/tech-industry/planned-us-data-centers-set-to-produce-24m-cars-worth-of-co2/",
+          "published_at": "2026-08-18T00:13:33.000Z",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25ldC1sb2NrLWl0LXVwOi1h",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Lock It Up: Android 17’s Latest QPR2 Beta Introduces a Built-In App Lock",
+          "summary": "Using an app lock on your phone adds a layer of security for sensitive data past your main lock screen.",
+          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Android-17-icon.jpg",
+          "article_url": "https://www.cnet.com/tech/mobile/lock-it-up-android-17s-latest-qpr2-beta-introduces-a-built-in-app-lock/",
+          "published_at": "2026-08-17T23:38:32.000Z",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "Y25ldC1uZXctbHVjaWQtZ3Jh",
           "source_id": "cnet",
@@ -738,22 +772,6 @@
           ]
         },
         {
-          "id": "Y25ldC1kdW9saW5nby1leHBh",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Duolingo Expands Its Math Services for More Advanced and Personalized Learning",
-          "summary": "The popular language learning app is also running back-to-school discounts on subscriptions now through Sept. 11.",
-          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Duolingo-Math-Hero-Image.png",
-          "article_url": "https://www.cnet.com/tech/services-and-software/duolingo-expands-its-math-services-for-more-advanced-and-personalized-learning/",
-          "published_at": "2026-08-17T18:15:36.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "Y25ldC1uaW5qYeKAmXMtZmly",
           "source_id": "cnet",
           "source_name": "CNET",
@@ -767,23 +785,6 @@
           "published_at": "2026-08-13T12:05:49.000Z",
           "cross_sections": [
             "tech"
-          ]
-        },
-        {
-          "id": "Y25ldC1hbnRocm9waWPigJlz",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Anthropic’s Claude Will Add Watermarks to AI-Generated Text and Files",
-          "summary": "Anthropic joins a growing list of companies letting customers know if they’re consuming AI content.",
-          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/87146714-becc-4857-9879-483446a53dd2.jpg",
-          "article_url": "https://www.cnet.com/tech/services-and-software/anthropics-claude-will-add-watermarks-to-ai-generated-text-and-files/",
-          "published_at": "2026-08-11T21:35:09.000Z",
-          "cross_sections": [
-            "tech",
-            "ai"
           ]
         }
       ]
@@ -933,6 +934,23 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "dmVudHVyZWJlYXQtcXdlbjMu",
+          "source_id": "venturebeat",
+          "source_name": "VentureBeat",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required",
+          "summary": "The biggest AI model release of the past few days, at least among the developers and AI power users on social media, wasn't a frontier cloud model from OpenAI, Anthropic or Google.\nIt was a 27-billion-parameter model from Alibaba: Qwen3.8-27B landed on Hugging Face on Friday under an enterprise-frie",
+          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/tkDPXLkDq0OBJ0W5aG6K0/dab1ffeb46a59b37c545586d457fe87e/ChatGPT_Image_Aug_17__2026__07_53_40_PM.png?w=300&q=30",
+          "article_url": "https://venturebeat.com/technology/qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning-locally-no-cloud-api-required",
+          "published_at": "Tue, 18 Aug 2026 00:06:53 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "dmVudHVyZWJlYXQtY3Vyc29y",
           "source_id": "venturebeat",
           "source_name": "VentureBeat",
@@ -1026,23 +1044,6 @@
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7uLwfjMYQqxK7sEOJclb9X/c49147c0a943de6964f0ba5e817b75bf/u7277289442_A_modern_IT_stack._Data_flowing._Colorful._Neon.__6bde8cd6-a885-48ae-82cf-7dbe164e3f5d_3.png?w=300&q=30",
           "article_url": "https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm",
           "published_at": "Sun, 16 Aug 2026 20:45:00 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "dmVudHVyZWJlYXQtZGVlcHNl",
-          "source_id": "venturebeat",
-          "source_name": "VentureBeat",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "DeepSeek's top-ranked V4 Flash stumbles on real agent tasks as its prices surge",
-          "summary": "DeepSeek's V4 Flash has topped model leaderboards and been hailed by developers as a \"total monster\" since its rollout. But in real-world testing, it completed just 53.8% of a batch of complex agent tasks. \nComposio ran the model through eight different agent harnesses, including Claude Code, Codex,",
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/YO11rLoN8OR9ZKXk99L3g/102fc5f215a65b1851a46b1309831c15/DeepSeek.png?w=300&q=30",
-          "article_url": "https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-real-agent-tasks-as-its-prices-surge",
-          "published_at": "Sun, 16 Aug 2026 13:00:00 GMT",
           "cross_sections": [
             "tech",
             "ai"
@@ -1189,6 +1190,36 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "ZXR0ZWNoLW5hdmnigJlzLWZ5",
+          "source_id": "ettech",
+          "source_name": "ETtech",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Navi’s FY26 losses up fourfold to Rs 466 crore on massive UPI push",
+          "summary": "Navi reported a notable increase in net losses for FY26, largely attributed to its strategic investments in UPI and new market initiatives. Despite this setback, the company projects a turnaround to profitability in FY27. UPI is recognised as a vital mechanism for attracting customers, and lending r",
+          "image_url": null,
+          "article_url": "https://economictimes.indiatimes.com/tech/technology/navis-fy26-losses-up-fourfold-to-rs-466-crore-on-massive-upi-push/articleshow/133306309.cms",
+          "published_at": "Tue, 18 Aug 2026 06:00:00 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXR0ZWNoLWV0LXN0YXJ0dXAt",
+          "source_id": "ettech",
+          "source_name": "ETtech",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "ET Startup Awards 2026: Nominees for Comeback Kid",
+          "summary": "This award celebrates failure and recognises those who have survived to tell the tale. It will be given to entrepreneurs who rebuilt or launched a more successful business.",
+          "image_url": null,
+          "article_url": "https://economictimes.indiatimes.com/tech/startups/et-startup-awards-2026-nominees-for-comeback-kid/articleshow/133306211.cms",
+          "published_at": "Tue, 18 Aug 2026 06:00:00 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "ZXR0ZWNoLW52aWRpYS10by1w",
           "source_id": "ettech",
           "source_name": "ETtech",
@@ -1266,54 +1297,6 @@
           "article_url": "https://economictimes.indiatimes.com/tech/technology/alibaba-to-sell-lingxi-games-in-more-than-2-billion-deal-source-says/articleshow/133290205.cms",
           "published_at": "Mon, 17 Aug 2026 12:57:43 +0530",
           "cross_sections": []
-        },
-        {
-          "id": "ZXR0ZWNoLXNoZWluLWV5ZXMt",
-          "source_id": "ettech",
-          "source_name": "ETtech",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Shein eyes company valuation of around $25 billion in Hong Kong IPO",
-          "summary": "Singapore-headquartered Shein, known for ​selling $5 dresses and $10 jeans to shoppers in about 160 countries, is ​aiming to launch its much-awaited ⁠initial public ‌offering later this ​week, Reuters ​has reported.",
-          "image_url": null,
-          "article_url": "https://economictimes.indiatimes.com/tech/technology/shein-eyes-company-valuation-of-around-25-billion-in-hong-kong-ipo/articleshow/133289764.cms",
-          "published_at": "Mon, 17 Aug 2026 12:34:20 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXR0ZWNoLWJpbmFuY2UtZ2F2",
-          "source_id": "ettech",
-          "source_name": "ETtech",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Binance gave Moscow client details used to charge Russian over Ukraine donations, documents show",
-          "summary": "While it is normal for companies like Binance to comply when law enforcement agencies ​in countries where they operate make legitimate requests to see client information, the world's largest crypto exchange said ​in 2023 it had fully exited Russia.",
-          "image_url": null,
-          "article_url": "https://economictimes.indiatimes.com/tech/technology/binance-gave-moscow-client-details-used-to-charge-russian-over-ukraine-donations-documents-show/articleshow/133288648.cms",
-          "published_at": "Mon, 17 Aug 2026 11:46:51 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXR0ZWNoLXByZXNlbnRpbmct",
-          "source_id": "ettech",
-          "source_name": "ETtech",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Presenting the jury for The Economic Times Startup Awards 2026",
-          "summary": "Meet the high-powered jury that will pick the winners of the ET Startup Awards 2026.",
-          "image_url": null,
-          "article_url": "https://economictimes.indiatimes.com/tech/startups/presenting-the-jury-for-the-economic-times-startup-awards-2026/articleshow/133286041.cms",
-          "published_at": "Mon, 17 Aug 2026 09:35:32 +0530",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -1816,7 +1799,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-08-17T23:55:54.484Z",
+          "published_at": "2026-08-18T00:38:11.799Z",
           "cross_sections": []
         },
         {
@@ -1830,7 +1813,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-08-17T23:55:54.484Z",
+          "published_at": "2026-08-18T00:38:11.799Z",
           "cross_sections": []
         },
         {
@@ -1844,7 +1827,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-08-17T23:55:54.484Z",
+          "published_at": "2026-08-18T00:38:11.799Z",
           "cross_sections": []
         },
         {
@@ -2643,6 +2626,50 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YmJjLWhlYXZ5LXNob3dlcnMt",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Heavy showers and thunderstorms bring risk of flash flooding to UK",
+          "summary": "Heavy showers are expected over the next few days, bringing a risk of flash flooding.  But there are early indications heatwave conditions could return in September.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e16a/live/a7c507b0-9a43-11f1-a86b-519b4d19bbee.jpg",
+          "article_url": "https://www.bbc.co.uk/weather/articles/cx2mzgv4vgjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 18 Aug 2026 00:12:25 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLWV4LXdvcmtlcnMtdGVs",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Ex-workers tell of 'chaotic atmosphere' at new £400m prison",
+          "summary": "Former workers have described a \"chaotic atmosphere\" of under-staffing and inadequate training.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15f7/live/aef4e190-97cd-11f1-a927-0dfab640b8c9.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cwyjxvp4vdqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 18 Aug 2026 00:08:43 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLXlvdW5nLWFkdWx0cy1h",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Young adults are taking prescription drugs instead of alcohol - and it's dividing experts",
+          "summary": "Increasingly, young adults are taking anxiety medication to feel \"drunk\" at parties. But it's not a free lunch, experts warn.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ca7/live/7fac7ee0-9a23-11f1-aed2-8d6da8d75094.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c1d1lpl9vrxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 18 Aug 2026 00:00:02 GMT",
+          "cross_sections": []
+        },
+        {
           "id": "YmJjLXRyaWJ1dGVzLXRvLWFj",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2685,20 +2712,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YmJjLWRvZXMtcmVmb3JtJ3Mt",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Does Reform's plan to cut £50bn in welfare spending add up?",
-          "summary": "BBC Verify breaks down what the party says it wants to do to cut the benefits bill - and how realistic it is.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d2d/live/7e03a8b0-9a56-11f1-a291-b542ee92de7c.png",
-          "article_url": "https://www.bbc.co.uk/news/articles/crl76jkxel3o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 17 Aug 2026 19:54:08 GMT",
-          "cross_sections": []
         },
         {
           "id": "YmJjLXRydW1wLXRocmVhdGVu",
@@ -2793,20 +2806,6 @@
           ]
         },
         {
-          "id": "YmJjLWVtb3Rpb25hbC1mYXJl",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Emotional farewell to 'global, iconic superstar' Bonnie Tyler",
-          "summary": "Fans, friends and family travel to Swansea to pay tribute to Total Eclipse of the Heart singer.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4043/live/63d2aab0-9a5e-11f1-a291-b542ee92de7c.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/c171j051gejo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 17 Aug 2026 14:29:58 GMT",
-          "cross_sections": []
-        },
-        {
           "id": "YmJjLXJ1c3NpYS1hbmQtdWty",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2835,22 +2834,6 @@
           "article_url": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 17 Aug 2026 12:23:26 GMT",
           "cross_sections": []
-        },
-        {
-          "id": "YmJjLXBhcmVudHMtcHVzaGVk",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
-          "summary": "Mothers describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3e0/live/fef943e0-9a3c-11f1-a291-b542ee92de7c.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 17 Aug 2026 05:03:31 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "YmJjLWluc3RhZ3JhbS1hbmQt",
@@ -3797,13 +3780,29 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dG9pLWluZGlhbi1oYW5kbGUt",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Indian handle quoted by Netanyahu   US: How a false claim fooled the world",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/indian-handle-quoted-by-netanyahu-us-how-a-false-claim-fooled-the-world/articleshow/133308648.cms",
+          "published_at": "Tue, 18 Aug 2026 05:13:19 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dG9pLSdldmVyeS12b3Rlci1o",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "'Every voter had valid photo ID': Trump recalls talk with CEC, praises India's poll system",
+          "title": "'Every voter had valid ID': Trump praises India's polls, renews push for SAVE America Act",
           "summary": "",
           "image_url": null,
           "article_url": "https://timesofindia.indiatimes.com/india/everyone-had-valid-photo-id-trump-recalls-talk-with-cec-gyanesh-kumar-praises-indias-election-system/articleshow/133308662.cms",
@@ -3811,20 +3810,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "dG9pLWZha2UtZ292dC1vZmZp",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Fake govt offices set up, funds siphoned off in Gujarat",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/fake-govt-offices-set-up-funds-siphoned-off-in-gujarat/articleshow/133308614.cms",
-          "published_at": "Tue, 18 Aug 2026 04:27:05 +0530",
-          "cross_sections": []
         },
         {
           "id": "dG9pLWktZGF5LXRlcnJvci1w",
@@ -4157,6 +4142,20 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dGhlaGluZHUtdGhlLeKAmHBy",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "The ‘proud Assamese’ from other States",
+          "summary": "While others can identify as Assamese speakers, Bengali-origin Muslims were the first",
+          "image_url": "https://th-i.thgim.com/public/incoming/4678zq/article71357854.ece/alternates/LANDSCAPE_1200/PTI08_17_2026_000040B.jpg",
+          "article_url": "https://www.thehindu.com/opinion/op-ed/the-proud-assamese-from-other-states/article71357712.ece",
+          "published_at": "Tue, 18 Aug 2026 05:25:40 +0530",
+          "cross_sections": []
+        },
+        {
           "id": "dGhlaGluZHUtamhhcmtoYW5k",
           "source_id": "thehindu",
           "source_name": "The Hindu",
@@ -4265,20 +4264,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "dGhlaGluZHUtZmxvb2RzLWhp",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Floods hit 7.85 lakh people in 6 Odisha districts",
-          "summary": "Odisha CM Mohan Charan Majhi accompanied by Revenue and Disaster Management Minister Suresh Pujari, visited Jajpur district to make a spot assessment about flood response",
-          "image_url": "https://th-i.thgim.com/public/incoming/gmyexx/article71357935.ece/alternates/LANDSCAPE_1200/90092_17_8_2026_21_58_56_1_ODISHA_FLOOD_4.JPG",
-          "article_url": "https://www.thehindu.com/news/national/odisha/floods-hit-785-lakh-people-in-6-odisha-districts/article71356782.ece",
-          "published_at": "Tue, 18 Aug 2026 02:54:05 +0530",
-          "cross_sections": []
         },
         {
           "id": "dGhlaGluZHUtJ3Blb3BsZS1j",
@@ -4399,6 +4384,20 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "amFwYW50aW1lcy10cnVtcC1z",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Trump says North Korea’s Kim has responded to outreach",
+          "summary": "U.S. President Donald Trump called the development \"very positive,\" but the North Korean side has yet to publicly acknowledge any contact.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/18/557941.JPG",
+          "article_url": "https://www.japantimes.co.jp/news/2026/08/18/asia-pacific/politics/north-korea-us-kim-trump-respond/",
+          "published_at": "Tue, 18 Aug 2026 09:24:00 +0900",
+          "cross_sections": []
+        },
+        {
           "id": "amFwYW50aW1lcy1lbGRlcmx5",
           "source_id": "japantimes",
           "source_name": "The Japan Times",
@@ -4505,20 +4504,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "amFwYW50aW1lcy1rdW1hbW9u",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Kumamon visits quake-hit children’s school to spread cheer",
-          "summary": "The popular mascot of Kumamoto Prefecture saw both students and evacuees using the school as temporary shelter.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/17/557843.jpg",
-          "article_url": "https://www.japantimes.co.jp/news/2026/08/17/japan/kumamoto-kumamon-cheer-children/",
-          "published_at": "Mon, 17 Aug 2026 18:27:00 +0900",
-          "cross_sections": []
         }
       ]
     },
@@ -4721,6 +4706,22 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YWxqYXplZXJhLWlyYW4td2Fy",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Iran war live: Trump rejects MoU extension as US claims control of Hormuz",
+          "summary": "US president says Iran should 'put up the white flag of surrender' as the two nations’ MoU expired on Monday.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss",
+          "published_at": "Tue, 18 Aug 2026 00:00:00 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YWxqYXplZXJhLeKAmHdlLXdp",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
@@ -4822,22 +4823,6 @@
           "image_url": null,
           "article_url": "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss",
           "published_at": "Mon, 17 Aug 2026 20:46:34 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXRvcnJlbnRp",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Torrential rains flood homes and roads across Lima, Peru",
-          "summary": "Heavy rains have flooded oads in Lima, while river overflows, landslides, and road closures continue to affect Peru.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/torrential-rains-flood-homes-and-roads-across-lima-peru?traffic_source=rss",
-          "published_at": "Mon, 17 Aug 2026 20:41:39 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5034,7 +5019,7 @@
         {
           "id": "ettech",
           "name": "ETtech",
-          "count": 8
+          "count": 7
         },
         {
           "id": "inc42",
@@ -5149,6 +5134,103 @@
       "icon": "💻",
       "articles": [
         {
+          "id": "ZXR0ZWNoLWV0LXN0YXJ0dXAt",
+          "source_id": "ettech",
+          "source_name": "ETtech",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "ET Startup Awards 2026: Nominees for Comeback Kid",
+          "summary": "This award celebrates failure and recognises those who have survived to tell the tale. It will be given to entrepreneurs who rebuilt or launched a more successful business.",
+          "image_url": null,
+          "article_url": "https://economictimes.indiatimes.com/tech/startups/et-startup-awards-2026-nominees-for-comeback-kid/articleshow/133306211.cms",
+          "published_at": "Tue, 18 Aug 2026 06:00:00 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25ldC1wbGFubmVkLXVzLWRh",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Planned US Data Centers Set to Produce 24M Cars’ Worth Of Carbon Dioxide",
+          "summary": "Researchers find Big Tech’s most ambitious builds and climate pledges are colliding with its AI power demands.",
+          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/c7c95385-1598-46b9-9c0f-be8c04cc7045.jpg",
+          "article_url": "https://www.cnet.com/tech/tech-industry/planned-us-data-centers-set-to-produce-24m-cars-worth-of-co2/",
+          "published_at": "2026-08-18T00:13:33.000Z",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLWV4LXdvcmtlcnMtdGVs",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Ex-workers tell of 'chaotic atmosphere' at new £400m prison",
+          "summary": "Former workers have described a \"chaotic atmosphere\" of under-staffing and inadequate training.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15f7/live/aef4e190-97cd-11f1-a927-0dfab640b8c9.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cwyjxvp4vdqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 18 Aug 2026 00:08:43 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dmVudHVyZWJlYXQtcXdlbjMu",
+          "source_id": "venturebeat",
+          "source_name": "VentureBeat",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required",
+          "summary": "The biggest AI model release of the past few days, at least among the developers and AI power users on social media, wasn't a frontier cloud model from OpenAI, Anthropic or Google.\nIt was a 27-billion-parameter model from Alibaba: Qwen3.8-27B landed on Hugging Face on Friday under an enterprise-frie",
+          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/tkDPXLkDq0OBJ0W5aG6K0/dab1ffeb46a59b37c545586d457fe87e/ChatGPT_Image_Aug_17__2026__07_53_40_PM.png?w=300&q=30",
+          "article_url": "https://venturebeat.com/technology/qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning-locally-no-cloud-api-required",
+          "published_at": "Tue, 18 Aug 2026 00:06:53 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "emRuZXQtc3RvcC1wYXlpbmct",
+          "source_id": "zdnet",
+          "source_name": "ZDNet",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Stop paying for smartphone storage you don't need - here's a better approach",
+          "summary": "How to stop wasting money on storage: Think in dollars, not gigabytes.",
+          "image_url": null,
+          "article_url": "https://www.zdnet.com/article/stop-paying-for-smartphone-storage-you-dont-need/",
+          "published_at": "Tue, 18 Aug 2026 00:00:41 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLWlyYW4td2Fy",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Iran war live: Trump rejects MoU extension as US claims control of Hormuz",
+          "summary": "US president says Iran should 'put up the white flag of surrender' as the two nations’ MoU expired on Monday.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss",
+          "published_at": "Tue, 18 Aug 2026 00:00:00 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dGhldmVyZ2UtcmVkZGl04oCZ",
           "source_id": "theverge",
           "source_name": "The Verge",
@@ -5165,13 +5247,45 @@
           ]
         },
         {
+          "id": "dG9pLWluZGlhbi1oYW5kbGUt",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Indian handle quoted by Netanyahu   US: How a false claim fooled the world",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/indian-handle-quoted-by-netanyahu-us-how-a-false-claim-fooled-the-world/articleshow/133308648.cms",
+          "published_at": "Tue, 18 Aug 2026 05:13:19 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25ldC1sb2NrLWl0LXVwOi1h",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Lock It Up: Android 17’s Latest QPR2 Beta Introduces a Built-In App Lock",
+          "summary": "Using an app lock on your phone adds a layer of security for sensitive data past your main lock screen.",
+          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Android-17-icon.jpg",
+          "article_url": "https://www.cnet.com/tech/mobile/lock-it-up-android-17s-latest-qpr2-beta-introduces-a-built-in-app-lock/",
+          "published_at": "2026-08-17T23:38:32.000Z",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dG9pLSdldmVyeS12b3Rlci1o",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "'Every voter had valid photo ID': Trump recalls talk with CEC, praises India's poll system",
+          "title": "'Every voter had valid ID': Trump praises India's polls, renews push for SAVE America Act",
           "summary": "",
           "image_url": null,
           "article_url": "https://timesofindia.indiatimes.com/india/everyone-had-valid-photo-id-trump-recalls-talk-with-cec-gyanesh-kumar-praises-indias-election-system/articleshow/133308662.cms",
@@ -5661,134 +5775,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXRvcnJlbnRp",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Torrential rains flood homes and roads across Lima, Peru",
-          "summary": "Heavy rains have flooded oads in Lima, while river overflows, landslides, and road closures continue to affect Peru.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/torrential-rains-flood-homes-and-roads-across-lima-peru?traffic_source=rss",
-          "published_at": "Mon, 17 Aug 2026 20:41:39 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LWhvdy11a3JhaW5l4oCZ",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "How Ukraine’s Satellites Help Drive Its War Drones",
-          "summary": "Ukrainian drone teams have a powerful new tool: near real-time information on troop movements and locations.",
-          "image_url": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-ukraine-satellite-flmv/17int-ukraine-satellite-flmv-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html",
-          "published_at": "Mon, 17 Aug 2026 20:38:44 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di10cnVtcC1jYWxscy1j",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Trump Calls Concerns About Conditions On USS Lincoln 'Fake'",
-          "summary": "Donald Trump has rejected the reports about conditions on the USS Abraham Lincoln, saying that it is \"beautifully maintained and beautifully taken care of.\"",
-          "image_url": "https://c.ndtvimg.com/2026-04/1omhenmk_donald-trump-afp_625x300_20_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/donald-trump-calls-concerns-about-conditions-on-uss-lincoln-fake-11923276#publisher=newsstand",
-          "published_at": "Tue, 18 Aug 2026 02:00:38 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtdGhlLW1v",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "The Moon's shadow raced across the heart of Spain, and I was there to see it",
-          "summary": "Here's what it was like watching a total solar eclipse 90 minutes north of Madrid.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/IMG_1550-1-1152x648.jpg",
-          "article_url": "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/",
-          "published_at": "Mon, 17 Aug 2026 20:23:09 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC3igJh1bnBy",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
-          "summary": "Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
-          "published_at": "Mon, 17 Aug 2026 20:18:35 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "d2lyZWQtdGhpcy1yLXJhdGVk",
-          "source_id": "wired",
-          "source_name": "Wired",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "This R-Rated Film Studio Wants to Be the HBO of AI",
-          "summary": "Rogue Studios, a new cinematic adult AI-generator, is betting big on the future of “sophisticated” spicy content.",
-          "image_url": "https://media.wired.com/photos/6a6a4aa8b428cc2f7a596860/master/pass/culture_ai__video_hbo_porn.gif",
-          "article_url": "https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/",
-          "published_at": "Mon, 17 Aug 2026 20:18:17 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di10cnVtcC1oaW50cy1h",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Trump Hints At Kim Jong Un Contacts After Scaling Back Seoul Drills",
-          "summary": "US President Donald Trump said he was making the situation \"much safer\" through his ties to Kim, whom he met three times in his first spell in the White House, but has yet to encounter during his second term.",
-          "image_url": "https://c.ndtvimg.com/2019-06/pkiiuvqk_donald-trump-kim-jong-un-demilitarised-zone_625x300_30_June_19.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/donald-trump-hints-at-kim-jong-un-contacts-after-scaling-back-seoul-drills-11923257#publisher=newsstand",
-          "published_at": "Tue, 18 Aug 2026 01:41:51 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iY3RlY2gtbnZpZGlhJ3Mt",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Nvidia's stock has started to come alive. Here's 3 reasons why it can continue",
-          "summary": "The leading AI chipmaker has rebounded since late July.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/17/nvidias-stock-has-started-to-come-alive-heres-3-reasons-why-it-can-continue-.html",
-          "published_at": "Mon, 17 Aug 2026 20:07:26 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -5821,6 +5807,39 @@
       "name": "LLM & AI",
       "icon": "🤖",
       "articles": [
+        {
+          "id": "dmVudHVyZWJlYXQtcXdlbjMu",
+          "source_id": "venturebeat",
+          "source_name": "VentureBeat",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required",
+          "summary": "The biggest AI model release of the past few days, at least among the developers and AI power users on social media, wasn't a frontier cloud model from OpenAI, Anthropic or Google.\nIt was a 27-billion-parameter model from Alibaba: Qwen3.8-27B landed on Hugging Face on Friday under an enterprise-frie",
+          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/tkDPXLkDq0OBJ0W5aG6K0/dab1ffeb46a59b37c545586d457fe87e/ChatGPT_Image_Aug_17__2026__07_53_40_PM.png?w=300&q=30",
+          "article_url": "https://venturebeat.com/technology/qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning-locally-no-cloud-api-required",
+          "published_at": "Tue, 18 Aug 2026 00:06:53 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "dGVjaGNydW5jaC1hbnRocm9w",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Anthropic’s annualized revenue surges to $65B",
+          "summary": "The model maker added $18 billion in annualized revenue in two months.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+          "published_at": "Mon, 17 Aug 2026 23:56:26 +0000",
+          "cross_sections": [
+            "ai"
+          ]
+        },
         {
           "id": "Y25iY3RlY2gtYW50aHJvcGlj",
           "source_id": "cnbctech",
@@ -6108,23 +6127,6 @@
           ]
         },
         {
-          "id": "dmVudHVyZWJlYXQtZGVlcHNl",
-          "source_id": "venturebeat",
-          "source_name": "VentureBeat",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "DeepSeek's top-ranked V4 Flash stumbles on real agent tasks as its prices surge",
-          "summary": "DeepSeek's V4 Flash has topped model leaderboards and been hailed by developers as a \"total monster\" since its rollout. But in real-world testing, it completed just 53.8% of a batch of complex agent tasks. \nComposio ran the model through eight different agent harnesses, including Claude Code, Codex,",
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/YO11rLoN8OR9ZKXk99L3g/102fc5f215a65b1851a46b1309831c15/DeepSeek.png?w=300&q=30",
-          "article_url": "https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-real-agent-tasks-as-its-prices-surge",
-          "published_at": "Sun, 16 Aug 2026 13:00:00 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "dGhlaGluZHUtd2hhdC1kb2Vz",
           "source_id": "thehindu",
           "source_name": "The Hindu",
@@ -6227,23 +6229,6 @@
           ]
         },
         {
-          "id": "Y25ldC1hbnRocm9waWPigJlz",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Anthropic’s Claude Will Add Watermarks to AI-Generated Text and Files",
-          "summary": "Anthropic joins a growing list of companies letting customers know if they’re consuming AI content.",
-          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/87146714-becc-4857-9879-483446a53dd2.jpg",
-          "article_url": "https://www.cnet.com/tech/services-and-software/anthropics-claude-will-add-watermarks-to-ai-generated-text-and-files/",
-          "published_at": "2026-08-11T21:35:09.000Z",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "YXJhYm5ld3MtZW5yb2xsbWVu",
           "source_id": "arabnews",
           "source_name": "Arab News",
@@ -6281,7 +6266,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 9588,
+    "build_ms": 9192,
     "ai_enabled": true
   }
 }
