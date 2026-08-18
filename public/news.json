@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-18T23:19:08.970Z",
-  "total_articles": 311,
-  "new_this_run": 24,
+  "last_updated": "2026-08-18T23:42:56.571Z",
+  "total_articles": 304,
+  "new_this_run": 18,
   "sources": [
     {
       "id": "techcrunch",
@@ -385,16 +385,16 @@
           ]
         },
         {
-          "id": "d2lyZWQtY2FuLWFpLWNvZXhp",
+          "id": "d2lyZWQtZXhjbHVzaXZlOi15",
           "source_id": "wired",
           "source_name": "Wired",
           "source_region": "IT Focus",
           "source_category": "Tech Media",
           "feed_label": "Latest",
-          "title": "Can AI Coexist With Privacy? Proton’s Andy Yen Says It Will Have To",
-          "summary": "Proton’s CEO is a champion of encryption for everyone. So why is he going all in on un-encryptable AI?",
-          "image_url": "https://media.wired.com/photos/6a834c04b090060b28185af1/master/pass/Big-Interview-UV-Solo-Andy-Yen-Business.jpg",
-          "article_url": "https://www.wired.com/story/the-big-interview-podcast-andy-yen-proton/",
+          "title": "Exclusive: You Can Finally Buy a Fairphone—a Sustainable, Repairable Smartphone—in the US",
+          "summary": "More than a decade after launching in Europe, the Netherlands company is now selling its repairable phones in the US, starting with the Fairphone (Gen 6+).",
+          "image_url": "https://media.wired.com/photos/6a834ef61807e061ff4c4b86/master/pass/Fairphone-Gen-6-Julian-Chokkattu-Gear.jpg",
+          "article_url": "https://www.wired.com/story/you-can-finally-buy-a-fairphone-a-sustainable-repairable-smartphone-in-the-us/",
           "published_at": "Tue, 18 Aug 2026 10:30:00 +0000",
           "cross_sections": [
             "tech"
@@ -944,6 +944,23 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "dmVudHVyZWJlYXQtYmxvY2vi",
+          "source_id": "venturebeat",
+          "source_name": "VentureBeat",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Block’s new Apache 2.0 agent workspace Berd works across models and harnesses, stores conversation history locally",
+          "summary": "Block, the technology company founded by former Twitter CEO Jack Dorsey that owns Square, Cash App and the music streaming service Tidal, is open-sourcing Berd, a desktop application it originally built to give its own employees a single environment for working with AI agents across different models",
+          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5snXmmN8j5fhxpsVoMmT27/02e45a6299b8eb4f58ae6f178d4dbd55/ChatGPT_Image_Aug_18__2026__07_16_56_PM.png?w=300&q=30",
+          "article_url": "https://venturebeat.com/orchestration/blocks-new-apache-2-0-agent-workspace-berd-works-across-models-and-harnesses-stores-conversation-history-locally",
+          "published_at": "Tue, 18 Aug 2026 23:23:22 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "dmVudHVyZWJlYXQtODUlLW9m",
           "source_id": "venturebeat",
           "source_name": "VentureBeat",
@@ -1449,17 +1466,33 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "bnl0LXRocmVhdGVuaW5nLWZy",
+          "id": "bnl0LXNpbGljb24tdmFsbGV5",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Silicon Valley Executives Are Tech Fans. Just Not For Their Own Kids.",
+          "summary": "At home, moderation and restraint are the rule for tech parents. Boredom is exalted. Maybe they’re onto something.",
+          "image_url": "https://static01.nyt.com/images/2026/08/18/business/00biz-tech-kids/00biz-tech-kids-mediumSquareAt3X-v2.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/18/technology/silicon-valley-tech-fans-children.html",
+          "published_at": "Tue, 18 Aug 2026 23:37:00 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LWRlYmJpZS13YXNzZXJt",
           "source_id": "nyt",
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Threatening Friends and Courting Enemies in Trump’s ‘Upside-Down World’",
-          "summary": "The president’s hostility to allies like Oman, Canada and South Korea, and his affection for adversaries like North Korea, may still shock some. But it comes as little surprise after a decade of upheaval.",
-          "image_url": "https://static01.nyt.com/images/2026/08/18/multimedia/18dc-trump-allies01-photo-gqbf/18dc-trump-allies01-photo-gqbf-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/18/us/politics/trumps-upside-down-world.html",
-          "published_at": "Tue, 18 Aug 2026 23:06:00 +0000",
+          "title": "Debbie Wasserman Schultz Wins Democratic Primary in Redrawn Florida District",
+          "summary": "The congresswoman won her party’s nomination in Florida’s 20th District over several Black candidates who sharply criticized her decision to run there.",
+          "image_url": "https://static01.nyt.com/images/2026/08/18/multimedia/18HFO-POL-FL20-schultz-jqpc/18HFO-POL-FL20-schultz-jqpc-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/18/us/politics/wasserman-schultz-manley-florida-primary.html",
+          "published_at": "Tue, 18 Aug 2026 23:25:39 +0000",
           "cross_sections": []
         },
         {
@@ -1473,10 +1506,40 @@
           "summary": "Canada is seeking a deal to dodge further economic pain at the hands of the Trump administration on midnight Tuesday. But at what cost?",
           "image_url": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-canada-trade-1-lqth/17int-canada-trade-1-lqth-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html",
-          "published_at": "Tue, 18 Aug 2026 22:19:53 +0000",
+          "published_at": "Tue, 18 Aug 2026 23:19:12 +0000",
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "bnl0LW1ldGEtdG8tc3RhbmQt",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Meta to Stand Trial Over Claims It Addicted Children to Social Media",
+          "summary": "California, Colorado, Kentucky and New Jersey have taken the social media giant to trial in the first bellwether federal case over child harm.",
+          "image_url": "https://static01.nyt.com/images/2026/08/14/multimedia/META-TRIAL-whqk/META-TRIAL-whqk-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html",
+          "published_at": "Tue, 18 Aug 2026 23:16:31 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LXRocmVhdGVuaW5nLWZy",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Threatening Friends and Courting Enemies in Trump’s ‘Upside-Down World’",
+          "summary": "The president’s hostility to allies like Oman, Canada and South Korea, and his affection for adversaries like North Korea, may still shock some. But it comes as little surprise after a decade of upheaval.",
+          "image_url": "https://static01.nyt.com/images/2026/08/18/multimedia/18dc-trump-allies01-photo-gqbf/18dc-trump-allies01-photo-gqbf-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/18/us/politics/trumps-upside-down-world.html",
+          "published_at": "Tue, 18 Aug 2026 23:06:00 +0000",
+          "cross_sections": []
         },
         {
           "id": "bnl0LWljZS1iYXJzLWl0cy13",
@@ -1613,38 +1676,6 @@
           "cross_sections": []
         },
         {
-          "id": "bnl0LW1ldGEtdG8tc3RhbmQt",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "Meta to Stand Trial Over Claims It Addicted Children to Social Media",
-          "summary": "California, Colorado, Kentucky and New Jersey have taken the social media giant to trial in the first bellwether federal case over child harm.",
-          "image_url": "https://static01.nyt.com/images/2026/08/14/multimedia/META-TRIAL-whqk/META-TRIAL-whqk-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html",
-          "published_at": "Tue, 18 Aug 2026 18:07:16 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LXR3by1zaGlwcy10cmFu",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Two Ships Transiting Strait of Hormuz Are Attacked as Oil Prices Rise",
-          "summary": "Maritime officials on Tuesday announced the recent attacks, which killed at least one sailor. Six months into the conflict, the vital waterway remains perilous.",
-          "image_url": "https://static01.nyt.com/images/2026/08/18/multimedia/Biz-Hormuz-Shipping-bchf/Biz-Hormuz-Shipping-bchf-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/18/business/strait-of-hormuz-ship-attack.html",
-          "published_at": "Tue, 18 Aug 2026 16:56:22 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bnl0LWNob2PDsywtY29sb21i",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1738,22 +1769,6 @@
           "cross_sections": []
         },
         {
-          "id": "bnl0LXNpbGljb24tdmFsbGV5",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "Silicon Valley Executives Are Tech Fans. Just Not For Their Own Kids.",
-          "summary": "At home, moderation and restraint are the rule for tech parents. Boredom is exalted. Maybe they’re onto something.",
-          "image_url": "https://static01.nyt.com/images/2026/08/18/business/00biz-tech-kids/00biz-tech-kids-mediumSquareAt3X-v2.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/18/technology/silicon-valley-tech-fans-children.html",
-          "published_at": "Tue, 18 Aug 2026 09:01:53 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bnl0LW52aWRpYS10by1iYWNr",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1822,7 +1837,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-08-18T23:19:00.534Z",
+          "published_at": "2026-08-18T23:42:48.107Z",
           "cross_sections": []
         },
         {
@@ -1836,7 +1851,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-08-18T23:19:00.534Z",
+          "published_at": "2026-08-18T23:42:48.107Z",
           "cross_sections": []
         },
         {
@@ -1850,7 +1865,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-08-18T23:19:00.534Z",
+          "published_at": "2026-08-18T23:42:48.107Z",
           "cross_sections": []
         },
         {
@@ -2162,6 +2177,22 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "Y25iYy13aGF0LWNoaW5lc2Ut",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "What Chinese liquor maker Moutai's slump says about the country's economy",
+          "summary": "Kweichow Moutai's half-year report showed a rare drop in net profit, following the first annual drop on record.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/19/china-economy-moutai-ai-property.html",
+          "published_at": "Tue, 18 Aug 2026 23:18:47 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "Y25iYy1vcGVuYWktcm9sbHMt",
           "source_id": "cnbc",
           "source_name": "CNBC",
@@ -2374,20 +2405,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "Y25iYy1yZWd1bGF0b3JzLWFu",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Regulators and banks step up scrutiny of prediction markets",
-          "summary": "The CFTC is reviewing prediction betting platforms' so-called mention markets, people familiar with the matter confirmed to CNBC.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html",
-          "published_at": "Fri, 14 Aug 2026 19:21:49 GMT",
-          "cross_sections": []
         }
       ]
     },
@@ -2654,6 +2671,38 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YmJjLXRoZS1jcml0aWNhbC10",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Technology",
+          "title": "The critical tech staying safe by going underground",
+          "summary": "The war in Ukraine has spurred people to consider putting vital infrastructure underground.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cffe/live/831c08d0-7b87-11f1-bee8-53ce494e1abc.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 18 Aug 2026 23:25:21 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLXp6LXRvcC1kcnVtbWVy",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "ZZ Top drummer Frank Beard dies aged 77",
+          "summary": "A statement on the blues-rock band's website said he died on Monday in hospice",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6780/live/cc50cbf0-9b42-11f1-bd52-f9704e8e5c82.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 18 Aug 2026 22:25:46 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YmJjLW1ldGEtaG9va2VkLWNo",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2724,20 +2773,18 @@
           "cross_sections": []
         },
         {
-          "id": "YmJjLWp1ZGdlLXN3YXBwZWQt",
+          "id": "YmJjLXVzLWFubm91bmNlcy1u",
           "source_id": "bbc",
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "World",
-          "title": "Judge swapped in Trump's defamation case against BBC",
-          "summary": "A judge who was recently nominated by the US president to serve in Florida's federal court will now preside over his $10bn defamation case against the BBC.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9948/live/1ffb4fe0-919e-11f1-b6b0-d5690aa17db0.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 18 Aug 2026 19:52:32 GMT",
-          "cross_sections": [
-            "tech"
-          ]
+          "title": "US announces new sanctions on top ICC figures",
+          "summary": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd44/live/c84cee60-9b2b-11f1-9a2c-6d6ac3827d20.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 18 Aug 2026 20:21:49 GMT",
+          "cross_sections": []
         },
         {
           "id": "YmJjLWxpbmRzYXktY2xhbmN5",
@@ -2765,22 +2812,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03ad/live/f4bbe260-9b32-11f1-8c41-7f62681f5885.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 18 Aug 2026 17:15:39 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YmJjLXBha2lzdGFuLXRvcC1j",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
-          "summary": "Imran Khan has been imprisoned since 2023 on corruption charges which he says were politically motivated.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0b1/live/b309d2e0-9b15-11f1-ae25-295c0447cea3.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 18 Aug 2026 16:00:30 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -2966,22 +2997,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41d4/live/d7830930-97e5-11f1-a76b-f1c27c51f3da.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 14 Aug 2026 23:06:27 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YmJjLWJ1bWJsZS1kaXZpZGVz",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Technology",
-          "title": "Bumble divides users by ditching its signature 'women-first' chat rule",
-          "summary": "The dating app's boss says the move is in response to a successful trial and a change in what users want.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2c2/live/34e5f670-972b-11f1-808c-532494fd22c7.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/cvglzlj81x2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 13 Aug 2026 14:09:05 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -3379,20 +3394,6 @@
           ]
         },
         {
-          "id": "ZXVyb25ld3MtY29tbWVyemJh",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Commerzbank, German resistance wanes: UniCredit nears deal, what could change",
-          "summary": "UniCredit eyes control of Commerzbank as Berlin opens the door on its 12.7% stake. What it means for Italy, Germany and European banks",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/95/25/696x392_cmsv2_1c7697e9-7b91-5bbd-919d-c0450cad2988-9879525.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/18/commerzbank-german-resistance-wanes-unicredit-nears-deal-what-could-change",
-          "published_at": "Tue, 18 Aug 2026 19:23:59 +0200",
-          "cross_sections": []
-        },
-        {
           "id": "ZXVyb25ld3MtaXRhbGlhbi10",
           "source_id": "euronews",
           "source_name": "Euronews",
@@ -3451,20 +3452,6 @@
           "cross_sections": []
         },
         {
-          "id": "ZXVyb25ld3MtbWlkbmlnaHQt",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Midnight showdown looms as US and Canada meet to sidestep Trump’s tariff blitz",
-          "summary": "The US and Canada are locked in last-minute talks to prevent a fresh wave of tariffs from striking at 00:01 ET on Wednesday. US President Donald Trump has vowed to slap 50% duties on $20 billion (€17.2bn) worth of Canadian products if a deal is not reached in time.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/91/56/696x392_cmsv2_46e8ceaa-0708-59a5-8e54-b2178c8241b7-9879156.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/18/midnight-showdown-looms-as-us-and-canada-meet-to-sidestep-trumps-tariff-blitz",
-          "published_at": "Tue, 18 Aug 2026 16:51:57 +0200",
-          "cross_sections": []
-        },
-        {
           "id": "ZXVyb25ld3Mtc291dGgta29y",
           "source_id": "euronews",
           "source_name": "Euronews",
@@ -3490,98 +3477,6 @@
           "image_url": "https://images.euronews.com/articles/stories/09/87/89/16/696x392_cmsv2_f293100e-36d5-59b3-accc-fdc8bdac0a5f-9878916.jpg",
           "article_url": "http://www.euronews.com/2026/08/18/qatar-returns-iranian-pilots-remains-but-denies-tehrans-claims-of-holding-others",
           "published_at": "Tue, 18 Aug 2026 15:05:51 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtbmFzZGFxLWNv",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Nasdaq confirms 23-hour trading from December with new overnight session",
-          "summary": "Nasdaq will begin trading US stocks for nearly 23 hours a day from 6 December, adding a new overnight session from 9pm to 4am ET, as the exchange races to compete with round-the-clock crypto and tokenised markets and with investors abroad clamouring for access.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/83/44/696x392_cmsv2_f8de0763-4ead-5fce-a4fd-3ed10513bc8a-9878344.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/18/nasdaq-confirms-23-hour-trading-from-december-with-new-overnight-session",
-          "published_at": "Tue, 18 Aug 2026 11:05:17 +0200",
-          "cross_sections": []
-        },
-        {
-          "id": "ZXVyb25ld3MtcmV2b2x1dC1p",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Revolut is set to launch airport lounges, with the first opening in Copenhagen in 2027",
-          "summary": "The fintech company’s first foray into the market will be the largest common-use lounge in the Schengen area.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/73/34/696x392_cmsv2_9416eaf5-66b2-58a6-9c16-3c3ad212db4f-9877334.jpg",
-          "article_url": "http://www.euronews.com/travel/2026/08/17/revolut-is-set-to-launch-airport-lounges-with-the-first-opening-in-copenhagen-in-2027",
-          "published_at": "Mon, 17 Aug 2026 15:06:21 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtZmVycmFyaeKA",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Ferrari’s first EV sells for record $40 million at auction",
-          "summary": "The Italian luxury carmaker’s first electric car has set a record for a new vehicle sold at auction, just months after its unveiling drew backlash.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/68/51/696x392_cmsv2_75827373-c847-5b6b-8efd-5ea561bd4cfa-9876851.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/17/ferraris-first-ev-sells-for-record-40-million-at-auction",
-          "published_at": "Mon, 17 Aug 2026 11:32:59 +0200",
-          "cross_sections": []
-        },
-        {
-          "id": "ZXVyb25ld3Mtd2hhdC1udmlk",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "What Nvidia's $500 billion Wall Street deal signals about the AI boom",
-          "summary": "Nvidia and six of the world's largest investment firms announced plans last week to channel more than $500 billion (€433bn) into AI infrastructure, an arrangement designed to let tech companies build data centres without loading the cost onto their own balance sheets.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/37/50/696x392_cmsv2_049ae355-9b40-51cd-834e-0f80377e9e44-9873750.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/17/what-nvidias-500-billion-wall-street-deal-signals-about-the-ai-boom",
-          "published_at": "Mon, 17 Aug 2026 08:05:19 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtbWFlcnNrLWJy",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Maersk brings back another shipping service through Suez, but wider return remains distant",
-          "summary": "The latest move is part of a cautious return to the Suez Canal, with four Maersk services switching back since early July, the most recent in mid-August, while nine others continue to sail around Africa.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/31/15/696x392_cmsv2_3efeeac5-d634-5e7b-b685-388c3fe60d48-9873115.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/14/maersk-returns-another-asia-europe-service-through-suez-but-wider-return-remains-distant",
-          "published_at": "Fri, 14 Aug 2026 15:20:22 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtZnVlbC1wcmlj",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Fuel prices: study says there is no \"profiteering by operators\"",
-          "summary": "An ERSE study found that in the first seven months of 2026 domestic prices broadly followed international costs, with no \"evidence of profiteering by operators\". Fuel prices are set to soar again next week.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/44/78/696x392_cmsv2_6525627f-2d40-5908-8393-21cf818ed299-9874478.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/14/fuel-prices-study-says-there-is-no-profiteering-by-operators",
-          "published_at": "Fri, 14 Aug 2026 15:05:18 +0200",
           "cross_sections": [
             "tech"
           ]
@@ -4177,6 +4072,22 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dGhlaGluZHUtY2Vuc3VzLTIw",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Census 2027 questionnaire seeks parents’ religion, place of birth up to village level",
+          "summary": "Besides the open field option to declare caste, respondents can choose “Does not want to declare Caste” and “No Caste”",
+          "image_url": "https://th-i.thgim.com/public/news/national/vxjp17/article71361837.ece/alternates/LANDSCAPE_1200/a3cff4e0-164a-457f-b3d2-e55fcdf0c644.jpeg",
+          "article_url": "https://www.thehindu.com/news/national/census-2027-questionnaire-seeks-parents-religion-place-of-birth-up-to-village-level/article71361794.ece",
+          "published_at": "Wed, 19 Aug 2026 04:50:32 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dGhlaGluZHUtd2VzdC1hc2lh",
           "source_id": "thehindu",
           "source_name": "The Hindu",
@@ -4265,31 +4176,17 @@
           ]
         },
         {
-          "id": "dGhlaGluZHUtaW5kaWEtcmVp",
+          "id": "dGhlaGluZHUtZGVjaWRlLW9u",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "India reiterates support for negotiated two-state solution in Palestine: MEA Secretary Ranganathan",
-          "summary": "Ms. Ranganathan also “conveyed India’s concern over the grave humanitarian situation in Gaza”",
-          "image_url": "https://th-i.thgim.com/public/incoming/59riqf/article71362412.ece/alternates/LANDSCAPE_1200/HQBblhVXcAAYjbO.jpg",
-          "article_url": "https://www.thehindu.com/news/national/india-reiterates-support-for-negotiated-two-state-solution-in-palestine-mea-secretary-ranganathan/article71362411.ece",
-          "published_at": "Wed, 19 Aug 2026 03:20:14 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtd2h5LWlzLXBt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Why is PM CARES Fund keeping large sums idle, asks RTI activist",
-          "summary": "PM CARES Fund, a public charitable trust established in March 2020 to support relief efforts during public health emergencies and other disasters, is chaired by the Prime Minister and funded entirely through voluntary contributions",
-          "image_url": "https://th-i.thgim.com/public/incoming/iechvw/article71360467.ece/alternates/LANDSCAPE_1200/vbk-stock-PM%20Cares-website.jpg",
-          "article_url": "https://www.thehindu.com/news/national/pm-cares-fund-audit-2024-25-domestic-foreign-donations/article71360330.ece",
-          "published_at": "Wed, 19 Aug 2026 03:04:53 +0530",
+          "title": "Decide on Sainik Farm’s fate in 2 months: Delhi High Court tells authorities",
+          "summary": "A Bench consisting of Chief Justice D.K. Upadhyaya and Justice Tejas Karia said that while the constructions in Sainik Farm were illegal, the authorities should now work on finding a possible solution",
+          "image_url": "https://th-i.thgim.com/public/incoming/y9irwf/article71362416.ece/alternates/LANDSCAPE_1200/Delhi-HC-pulls-GUMFEK1OD.2.jpg.jpg",
+          "article_url": "https://www.thehindu.com/news/cities/Delhi/decide-on-sainik-farms-fate-in-2-months-delhi-high-court-tells-authorities/article71361401.ece",
+          "published_at": "Wed, 19 Aug 2026 03:34:35 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4726,6 +4623,20 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YWxqYXplZXJhLW1pbm5lc290",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Minnesota official sues Texas governor to force ICE agent’s extradition",
+          "summary": "State Attorney General Keith Ellison has called for the transfer of ICE agent accused of lying about nonfatal shooting.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/18/minnesota-official-sues-texas-governor-to-force-ice-agents-extradition?traffic_source=rss",
+          "published_at": "Tue, 18 Aug 2026 22:55:50 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "YWxqYXplZXJhLWJvbGl2aWEt",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
@@ -4828,22 +4739,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXdobzotZWJv",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "WHO: Ebola can be contained in months if enough funding is provided",
-          "summary": "The World Health Organization says the Ebola outbreak in DR Congo can be brought under control in three months.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/who-ebola-can-be-contained-in-months-if-enough-funding-is-provided?traffic_source=rss",
-          "published_at": "Tue, 18 Aug 2026 20:53:44 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -4854,131 +4749,124 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "YXJhYm5ld3MtZmluYWwtZWxl",
+          "id": "YXJhYm5ld3MtZ2F6YS1ib2Fy",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Final election phase begins in Pakistan-administered Kashmir despite banned group’s boycott call",
-          "summary": "MUZAFFARABAD, Pakistan: Voters went to the polls Monday in the final phase of elections for the legislative assembly in Pakistan-administered Kashmir, following weeks of violent protests and clashes with security forces that overshadowed campaigning in the disputed Himalayan region, officials said.\n",
+          "title": "Gaza Board of Peace official says plan is still operative",
+          "summary": "WASHINGTON: US President Donald Trump’s Gaza plan is still operative ​and discussions with Israel are continuing, a Board of Peace official said on Monday after Prime Minister Benjamin Netanyahu rejected an Israeli withdrawal until the Palestinian militant group Hamas is “genuinely disarmed.”\n\tNetan",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654152/world",
-          "published_at": "Tue, 11 Aug 2026 12:08:09 +03",
+          "article_url": "https://www.arabnews.com/node/2654137/middle-east",
+          "published_at": "Mon, 10 Aug 2026 09:08:32 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtZW5yb2xsbWVu",
+          "id": "YXJhYm5ld3MtemVsZW5za3kt",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Enrollment begins at Saudi-backed school for Gaza children",
-          "summary": "GAZA STRIP: Registration has opened for students seeking to enroll at Makkah School in the southern Gaza Strip, a Saudi-backed initiative aimed at helping children resume their education amid the devastation of the war, SPA has reported. \n\n\tThe school, supported by the King Salman Humanitarian Aid a",
+          "title": "Zelensky congratulates Saudi Arabia’s crown prince on Makkah defense agreement",
+          "summary": "RIYADH: Ukrainian President Volodymyr Zelensky congratulated Saudi Arabia’s Crown Prince Mohammed bin Salman on Monday for the recent signing of a regional defense agreement.\n\n\tZelensky said he hopes the Makkah Joint Defense Agreement signed between Saudi Arabia, Turkiye and Pakistan last week will ",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654157/saudi-arabia",
-          "published_at": "Tue, 11 Aug 2026 02:08:54 +03",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtdHJ1bXAtaW5z",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Trump insists Netanyahu relationship ‘very good’ despite Gaza rift",
-          "summary": "WASHINGTON, United States: President Donald Trump insisted on Monday that his relationship with Prime Minister Benjamin Netanyahu is “very good” despite the Israeli leader’s rejection of a US-led Gaza plan.\n\t“The relationship is very good,” Trump said in response to a shouted question from a journal",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654154/world",
-          "published_at": "Tue, 11 Aug 2026 01:08:46 +03",
+          "article_url": "https://www.arabnews.com/node/2654135/saudi-arabia",
+          "published_at": "Mon, 10 Aug 2026 08:08:11 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtbGlieWHigJlz",
+          "id": "YXJhYm5ld3MtYWx0YW5mZWV0",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Libya’s central bank chief resigns",
-          "summary": "TRIPOLI: The governor of Libya’s central bank, Naji Issa, has resigned without giving a reason, several reports said on Monday.\n\tPrivate TV channel Al-Ahrar said Issa had confirmed his resignation.\n\tIssa and vice-governor Miree Al-Barasee were appointed by Libya’s parliament, which is based in the e",
+          "title": "ALTANFEETHI concludes participation in Como Cup 2026 in Italy",
+          "summary": "ALTANFEETHI concluded its participation in Como Cup 2026 in Como, Italy, as part of its partnership with AlUla Club. The six-day participation introduced ALTANFEETHI’s services and hospitality experience to an international audience.\n\n\tALTANFEETHI participated through a dedicated booth within the ev",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654155/middle-east",
-          "published_at": "Tue, 11 Aug 2026 01:08:41 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtdHJ1bXDigJlz",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Trump’s Gaza plan hinges on Hamas disarmament, Israeli withdrawals",
-          "summary": "JERUSALEM: Donald Trump’s latest plan to end the Gaza war calls on Hamas to ‌lay down its arms as Israel withdraws from the territory, terms endorsed by the militants but rejected by Israel, which says it will not pull back until the group’s disarmament is complete.",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654156/middle-east",
-          "published_at": "Tue, 11 Aug 2026 01:08:10 +03",
+          "article_url": "https://www.arabnews.com/node/2654134/corporate-and-sponsored-content",
+          "published_at": "Mon, 10 Aug 2026 08:08:04 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtY2FuLWFsLWJ1",
+          "id": "YXJhYm5ld3MtdHJ1bXAtZGVt",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Can Al-Burhan’s Sudanese national dialogue turn military gains into a political settlement?",
-          "summary": "LONDON: More than three years after Sudan descended into civil war, army chief Gen. Abdel Fattah Al-Burhan is pushing for a broad national dialogue aimed at rebuilding the country’s political institutions and laying the foundations for a civilian transition.\n\n\tTalks could begin as early as August, w",
+          "title": "Trump demands Iran pay compensation for war dead and wounded",
+          "summary": "WASHINGTON: US President Donald Trump said Monday he would seek conflict compensation from Iran as part of any peace negotiations, citing attacks and atrocities stretching back decades allegedly backed or perpetrated by Tehran.\n\tIran is “asking for compensation for the damage done to them during the",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654150/middle-east",
-          "published_at": "Mon, 10 Aug 2026 11:08:33 +03",
+          "article_url": "https://www.arabnews.com/node/2654132/middle-east",
+          "published_at": "Mon, 10 Aug 2026 07:08:59 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtZmlyZS1icmVh",
+          "id": "YXJhYm5ld3MtaXJhbi1zdXBy",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Fire breaks out at Libya’s Zawiya refinery",
-          "summary": "TRIPOLI: A fire broke out on Monday ​in a diesel tank at Libya’s Zawiya refinery days after the facility was hit by drone.\n\n\tThe circumstances of Monday's fire remained unknown, Brega Petroleum Marketing Company said in a statement.\n\tBrega is owned by state oil firm National Oil Corporation (NOC) an",
+          "title": "Iran supreme leader names Guards general Abdollahi military chief",
+          "summary": "TEHRAN: Iranian supreme leader Mojtaba Khamenei named Revolutionary Guards general Ali Abdollahi head of the country's armed forces on Monday, while also confirming a new commander of the Guards, putting his imprimatur on the country's military.\n\tAbdollahi had previously led the Khatam Al-Anbiya, Ir",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654151/middle-east",
-          "published_at": "Mon, 10 Aug 2026 11:08:10 +03",
+          "article_url": "https://www.arabnews.com/node/2654129/middle-east",
+          "published_at": "Mon, 10 Aug 2026 07:08:36 +03",
+          "cross_sections": []
+        },
+        {
+          "id": "YXJhYm5ld3Mtc3BvcnRzLWJv",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Sports Boulevard launches $186m fund to develop Urban Wadi assets",
+          "summary": "JEDDAH: The Sports Boulevard Real Estate Development and Investment Co. has signed agreements with Rikaz Properties to establish its third real estate investment fund, valued at more than $186 million, to develop key assets including a luxury five-star hotel in Riyadh’s Urban Wadi.\n\n\tThe fund will f",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654133/business-economy",
+          "published_at": "Mon, 10 Aug 2026 07:08:14 +03",
+          "cross_sections": []
+        },
+        {
+          "id": "YXJhYm5ld3MtdWtyYWluZeKA",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Ukraine’s Zelensky says up to 50,000 North Korean troops to be deployed in Russia",
+          "summary": "SEOUL: Ukrainian President Volodymyr Zelensky has ‌said up to 50,000 North Korean soldiers will be deployed in Russia to fight for Pyongyang’s ally, while calling on South Korea to provide support for ​its air defense.Zelensky said on X on Saturday that “a decision has been made for 30,000 to 50,000",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654131/world",
+          "published_at": "Mon, 10 Aug 2026 07:08:03 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtdGVlbmFnZXIt",
+          "id": "YXJhYm5ld3MtaG91dGhpcy1s",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Teenager dies trying to rescue swimmers at Alexandria beach",
-          "summary": "ALEXANDRIA: An 18-year-old man died while attempting to help rescue six people from drowning at El-Baitash beach in Alexandria, Egypt, on Saturday, local authorities said.\n\tThe Central Administration for Tourism and Resorts in Alexandria said on Sunday that the beach was among those closed to swimme",
+          "title": "Houthis launch new drone wave across Yemen’s government-held areas",
+          "summary": "AL-MUKALLA: At least two Yemeni government soldiers were killed in southern Yemen as the Houthis launched a new wave of drone attacks on government-controlled areas in Aden, Mocha and Shabwa.\n\n\tThe escalation came as the Yemeni army vowed on Monday to respond to Houthi drone and missile strikes on t",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654149/middle-east",
-          "published_at": "Mon, 10 Aug 2026 10:08:39 +03",
-          "cross_sections": [
-            "tech"
-          ]
+          "article_url": "https://www.arabnews.com/node/2654127/middle-east",
+          "published_at": "Mon, 10 Aug 2026 06:08:00 +03",
+          "cross_sections": []
         }
       ]
     }
@@ -5027,7 +4915,7 @@
         {
           "id": "venturebeat",
           "name": "VentureBeat",
-          "count": 6
+          "count": 7
         },
         {
           "id": "cnbctech",
@@ -5091,7 +4979,7 @@
         {
           "id": "euronews",
           "name": "Euronews",
-          "count": 15
+          "count": 7
         },
         {
           "id": "dw",
@@ -5151,6 +5039,119 @@
       "name": "IT & Tech",
       "icon": "💻",
       "articles": [
+        {
+          "id": "bnl0LXNpbGljb24tdmFsbGV5",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Silicon Valley Executives Are Tech Fans. Just Not For Their Own Kids.",
+          "summary": "At home, moderation and restraint are the rule for tech parents. Boredom is exalted. Maybe they’re onto something.",
+          "image_url": "https://static01.nyt.com/images/2026/08/18/business/00biz-tech-kids/00biz-tech-kids-mediumSquareAt3X-v2.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/18/technology/silicon-valley-tech-fans-children.html",
+          "published_at": "Tue, 18 Aug 2026 23:37:00 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLXRoZS1jcml0aWNhbC10",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Technology",
+          "title": "The critical tech staying safe by going underground",
+          "summary": "The war in Ukraine has spurred people to consider putting vital infrastructure underground.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cffe/live/831c08d0-7b87-11f1-bee8-53ce494e1abc.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 18 Aug 2026 23:25:21 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dmVudHVyZWJlYXQtYmxvY2vi",
+          "source_id": "venturebeat",
+          "source_name": "VentureBeat",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Block’s new Apache 2.0 agent workspace Berd works across models and harnesses, stores conversation history locally",
+          "summary": "Block, the technology company founded by former Twitter CEO Jack Dorsey that owns Square, Cash App and the music streaming service Tidal, is open-sourcing Berd, a desktop application it originally built to give its own employees a single environment for working with AI agents across different models",
+          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5snXmmN8j5fhxpsVoMmT27/02e45a6299b8eb4f58ae6f178d4dbd55/ChatGPT_Image_Aug_18__2026__07_16_56_PM.png?w=300&q=30",
+          "article_url": "https://venturebeat.com/orchestration/blocks-new-apache-2-0-agent-workspace-berd-works-across-models-and-harnesses-stores-conversation-history-locally",
+          "published_at": "Tue, 18 Aug 2026 23:23:22 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtY2Vuc3VzLTIw",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Census 2027 questionnaire seeks parents’ religion, place of birth up to village level",
+          "summary": "Besides the open field option to declare caste, respondents can choose “Does not want to declare Caste” and “No Caste”",
+          "image_url": "https://th-i.thgim.com/public/news/national/vxjp17/article71361837.ece/alternates/LANDSCAPE_1200/a3cff4e0-164a-457f-b3d2-e55fcdf0c644.jpeg",
+          "article_url": "https://www.thehindu.com/news/national/census-2027-questionnaire-seeks-parents-religion-place-of-birth-up-to-village-level/article71361794.ece",
+          "published_at": "Wed, 19 Aug 2026 04:50:32 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LWNhcm5leS1hbmQtdHJ1",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Carney and Trump Talk Again as Deadline Nears on New U.S. Tariffs",
+          "summary": "Canada is seeking a deal to dodge further economic pain at the hands of the Trump administration on midnight Tuesday. But at what cost?",
+          "image_url": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-canada-trade-1-lqth/17int-canada-trade-1-lqth-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html",
+          "published_at": "Tue, 18 Aug 2026 23:19:12 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iYy13aGF0LWNoaW5lc2Ut",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "What Chinese liquor maker Moutai's slump says about the country's economy",
+          "summary": "Kweichow Moutai's half-year report showed a rare drop in net profit, following the first annual drop on record.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/19/china-economy-moutai-ai-property.html",
+          "published_at": "Tue, 18 Aug 2026 23:18:47 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LW1ldGEtdG8tc3RhbmQt",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Meta to Stand Trial Over Claims It Addicted Children to Social Media",
+          "summary": "California, Colorado, Kentucky and New Jersey have taken the social media giant to trial in the first bellwether federal case over child harm.",
+          "image_url": "https://static01.nyt.com/images/2026/08/14/multimedia/META-TRIAL-whqk/META-TRIAL-whqk-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html",
+          "published_at": "Tue, 18 Aug 2026 23:16:31 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "dGhlaGluZHUtdWFlLWFjY3Vz",
           "source_id": "thehindu",
@@ -5234,6 +5235,22 @@
           ]
         },
         {
+          "id": "YmJjLXp6LXRvcC1kcnVtbWVy",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "ZZ Top drummer Frank Beard dies aged 77",
+          "summary": "A statement on the blues-rock band's website said he died on Monday in hospice",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6780/live/cc50cbf0-9b42-11f1-bd52-f9704e8e5c82.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 18 Aug 2026 22:25:46 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "Y25iY3RlY2gtamltLWNyYW1l",
           "source_id": "cnbctech",
           "source_name": "CNBC Technology",
@@ -5245,22 +5262,6 @@
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/08/18/jim-cramer-market-too-negative-buying-opportunities.html",
           "published_at": "Tue, 18 Aug 2026 22:23:36 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LWNhcm5leS1hbmQtdHJ1",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Carney and Trump Talk Again as Deadline Nears on New U.S. Tariffs",
-          "summary": "Canada is seeking a deal to dodge further economic pain at the hands of the Trump administration on midnight Tuesday. But at what cost?",
-          "image_url": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-canada-trade-1-lqth/17int-canada-trade-1-lqth-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html",
-          "published_at": "Tue, 18 Aug 2026 22:19:53 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5298,6 +5299,22 @@
           ]
         },
         {
+          "id": "dGhlaGluZHUtZGVjaWRlLW9u",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Decide on Sainik Farm’s fate in 2 months: Delhi High Court tells authorities",
+          "summary": "A Bench consisting of Chief Justice D.K. Upadhyaya and Justice Tejas Karia said that while the constructions in Sainik Farm were illegal, the authorities should now work on finding a possible solution",
+          "image_url": "https://th-i.thgim.com/public/incoming/y9irwf/article71362416.ece/alternates/LANDSCAPE_1200/Delhi-HC-pulls-GUMFEK1OD.2.jpg.jpg",
+          "article_url": "https://www.thehindu.com/news/cities/Delhi/decide-on-sainik-farms-fate-in-2-months-delhi-high-court-tells-authorities/article71361401.ece",
+          "published_at": "Wed, 19 Aug 2026 03:34:35 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "bnl0LWFwcGxlLXJlbW92ZXMt",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -5325,22 +5342,6 @@
           "image_url": null,
           "article_url": "https://www.dw.com/en/us-imposes-new-sanctions-on-icc-president-senior-lawyer-in-latest-escalation/a-78420261?maca=en-rss-en-top-1022-xml-mrss",
           "published_at": "Tue, 18 Aug 2026 21:45:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtd2h5LWlzLXBt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Why is PM CARES Fund keeping large sums idle, asks RTI activist",
-          "summary": "PM CARES Fund, a public charitable trust established in March 2020 to support relief efforts during public health emergencies and other disasters, is chaired by the Prime Minister and funded entirely through voluntary contributions",
-          "image_url": "https://th-i.thgim.com/public/incoming/iechvw/article71360467.ece/alternates/LANDSCAPE_1200/vbk-stock-PM%20Cares-website.jpg",
-          "article_url": "https://www.thehindu.com/news/national/pm-cares-fund-audit-2024-25-domestic-foreign-donations/article71360330.ece",
-          "published_at": "Wed, 19 Aug 2026 03:04:53 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5490,22 +5491,6 @@
           ]
         },
         {
-          "id": "YWxqYXplZXJhLXdobzotZWJv",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "WHO: Ebola can be contained in months if enough funding is provided",
-          "summary": "The World Health Organization says the Ebola outbreak in DR Congo can be brought under control in three months.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/who-ebola-can-be-contained-in-months-if-enough-funding-is-provided?traffic_source=rss",
-          "published_at": "Tue, 18 Aug 2026 20:53:44 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "Z3VhcmRpYW4tb3BlbmFpLWFu",
           "source_id": "guardian",
           "source_name": "The Guardian",
@@ -5636,22 +5621,6 @@
           ]
         },
         {
-          "id": "YmJjLWp1ZGdlLXN3YXBwZWQt",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Judge swapped in Trump's defamation case against BBC",
-          "summary": "A judge who was recently nominated by the US president to serve in Florida's federal court will now preside over his $10bn defamation case against the BBC.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9948/live/1ffb4fe0-919e-11f1-b6b0-d5690aa17db0.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 18 Aug 2026 19:52:32 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "dGhldmVyZ2Utcm9iaW4td2ls",
           "source_id": "theverge",
           "source_name": "The Verge",
@@ -5716,86 +5685,6 @@
             "tech",
             "ai"
           ]
-        },
-        {
-          "id": "bmR0di1pcmFuLWxhdW5jaGVk",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Iran Launched 2 Ballistic Missiles, 1 Fell In Our Territorial Waters: UAE",
-          "summary": "The Emirati defence ministry said it detected two ballistic missiles launched from Iran.",
-          "image_url": "https://c.ndtvimg.com/2026-08/qrni27rs_dubai_625x300_16_August_26.jpeg",
-          "article_url": "https://www.ndtv.com/world-news/uae-warns-of-potential-missile-threats-asks-people-to-seek-shelter-11927191#publisher=newsstand",
-          "published_at": "Wed, 19 Aug 2026 00:57:36 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di10cnVtcC1ob2xkcy1v",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Trump Holds Off Iran Talks Until Tehran Is \"Ready To Make A Deal\": Reports",
-          "summary": "Donald Trump said there were no talks or discussions currently taking place with Tehran, adding that the Strait of Hormuz was operational and that naval mines had been removed or detonated.",
-          "image_url": "https://c.ndtvimg.com/2025-07/rkn373s8_donald-trump-afp_625x300_31_July_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/iran-war-donald-trump-holds-off-iran-talks-until-tehran-is-ready-to-make-a-deal-reports-11928183#publisher=newsstand",
-          "published_at": "Wed, 19 Aug 2026 00:55:13 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1mb3JlaWduZXItb24t",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Foreigner On Mumbai-Delhi Train Sprays Fire Extinguisher, Dies During Probe",
-          "summary": "The incident occurred on the Golden Temple Express. The foreign national was travelling from Mumbai's Bandra Terminus to Delhi.",
-          "image_url": "https://i.ndtvimg.com/i/2016-04/indian-railway_650x400_81460636738.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/foreigner-sprays-fire-extinguisher-in-train-dies-during-railway-police-questioning-11926677#publisher=newsstand",
-          "published_at": "Wed, 19 Aug 2026 00:50:32 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtZWR1Y2F0aW9u",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "Education must change to account for AI",
-          "summary": "A future we cannot predict cannot be prepared for by adding ever more material to the curriculum. We should instead give undergraduates the time and freedom to practise entering the unknown.",
-          "image_url": "https://th-i.thgim.com/public/latest-news/2se141/article71362228.ece/alternates/LANDSCAPE_1200/iStock-2228457544.jpg",
-          "article_url": "https://www.thehindu.com/opinion/op-ed/education-must-change-to-account-for-ai/article71362071.ece",
-          "published_at": "Wed, 19 Aug 2026 00:44:28 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di11cy1zYW5jdGlvbnMt",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "US Sanctions \"Undermine The Rule Of Law\", Says World Court",
-          "summary": "Earlier Tuesday, the US imposed sanctions against ICC President Tomoko Akane of Japan as part of its campaign against the body it accuses of being \"politicised.\"",
-          "image_url": "https://c.ndtvimg.com/2026-08/hkjrth1o_donald-trump-afp_625x300_12_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/us-sanctions-undermine-the-rule-of-law-says-international-criminal-court-11928132#publisher=newsstand",
-          "published_at": "Wed, 19 Aug 2026 00:34:52 +0530",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -5810,6 +5699,23 @@
       "name": "LLM & AI",
       "icon": "🤖",
       "articles": [
+        {
+          "id": "dmVudHVyZWJlYXQtYmxvY2vi",
+          "source_id": "venturebeat",
+          "source_name": "VentureBeat",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Block’s new Apache 2.0 agent workspace Berd works across models and harnesses, stores conversation history locally",
+          "summary": "Block, the technology company founded by former Twitter CEO Jack Dorsey that owns Square, Cash App and the music streaming service Tidal, is open-sourcing Berd, a desktop application it originally built to give its own employees a single environment for working with AI agents across different models",
+          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5snXmmN8j5fhxpsVoMmT27/02e45a6299b8eb4f58ae6f178d4dbd55/ChatGPT_Image_Aug_18__2026__07_16_56_PM.png?w=300&q=30",
+          "article_url": "https://venturebeat.com/orchestration/blocks-new-apache-2-0-agent-workspace-berd-works-across-models-and-harnesses-stores-conversation-history-locally",
+          "published_at": "Tue, 18 Aug 2026 23:23:22 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
         {
           "id": "Y25iY3RlY2gtb3BlbmFpLXJv",
           "source_id": "cnbctech",
@@ -6253,23 +6159,6 @@
           ]
         },
         {
-          "id": "YXJhYm5ld3MtZW5yb2xsbWVu",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Enrollment begins at Saudi-backed school for Gaza children",
-          "summary": "GAZA STRIP: Registration has opened for students seeking to enroll at Makkah School in the southern Gaza Strip, a Saudi-backed initiative aimed at helping children resume their education amid the devastation of the war, SPA has reported. \n\n\tThe school, supported by the King Salman Humanitarian Aid a",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654157/saudi-arabia",
-          "published_at": "Tue, 11 Aug 2026 02:08:54 +03",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "dG9pLWNoYXRncHQtd2FzLWRv",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -6290,7 +6179,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 9891,
+    "build_ms": 9568,
     "ai_enabled": true
   }
 }
