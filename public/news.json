@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-18T21:43:39.550Z",
-  "total_articles": 304,
-  "new_this_run": 19,
+  "last_updated": "2026-08-18T21:57:08.162Z",
+  "total_articles": 314,
+  "new_this_run": 26,
   "sources": [
     {
       "id": "techcrunch",
@@ -282,7 +282,7 @@
           "source_region": "IT Focus",
           "source_category": "Tech Media",
           "feed_label": "Latest",
-          "title": "Squeeze More Juice Out of a Dead Battery!",
+          "title": "Squeeze More Juice Out of Your Dead Batteries—Using Physics",
           "summary": "How the joule thief circuit “steals” energy from seemingly depleted power cells.",
           "image_url": "https://media.wired.com/photos/6a8372555b7045e98c48385f/master/pass/Science_Squeeze%20More%20Juice%20out%20of%20a%20Dead%20Battery!_v1.jpg",
           "article_url": "https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/",
@@ -385,16 +385,16 @@
           ]
         },
         {
-          "id": "d2lyZWQtZXhjbHVzaXZlOi15",
+          "id": "d2lyZWQtY2FuLWFpLWNvZXhp",
           "source_id": "wired",
           "source_name": "Wired",
           "source_region": "IT Focus",
           "source_category": "Tech Media",
           "feed_label": "Latest",
-          "title": "Exclusive: You Can Finally Buy a Fairphone—a Sustainable, Repairable Smartphone—in the US",
-          "summary": "More than a decade after launching in Europe, the Netherlands company is now selling its repairable phones in the US, starting with the Fairphone (Gen 6+).",
-          "image_url": "https://media.wired.com/photos/6a834ef61807e061ff4c4b86/master/pass/Fairphone-Gen-6-Julian-Chokkattu-Gear.jpg",
-          "article_url": "https://www.wired.com/story/you-can-finally-buy-a-fairphone-a-sustainable-repairable-smartphone-in-the-us/",
+          "title": "Can AI Coexist With Privacy? Proton’s Andy Yen Says It Will Have To",
+          "summary": "Proton’s CEO is a champion of encryption for everyone. So why is he going all in on un-encryptable AI?",
+          "image_url": "https://media.wired.com/photos/6a834c04b090060b28185af1/master/pass/Big-Interview-UV-Solo-Andy-Yen-Business.jpg",
+          "article_url": "https://www.wired.com/story/the-big-interview-podcast-andy-yen-proton/",
           "published_at": "Tue, 18 Aug 2026 10:30:00 +0000",
           "cross_sections": [
             "tech"
@@ -1447,6 +1447,50 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "bnl0LWljZS1iYXJzLWl0cy13",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "ICE Bars Its Workers From Wearing Meta’s Smart Glasses on the Job",
+          "summary": "The agency joins a growing number of workplaces and groups to ban Meta’s devices, which have spurred privacy concerns.",
+          "image_url": "https://static01.nyt.com/images/2026/08/18/multimedia/18biz-dhs-meta-glasses-3-hqwz/18biz-dhs-meta-glasses-3-hqwz-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/18/technology/ice-meta-smart-glasses.html",
+          "published_at": "Tue, 18 Aug 2026 21:53:47 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LWFwcGxlLXJlbW92ZXMt",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Apple Removes Some Fees for App Developers in European Union",
+          "summary": "The move followed a long battle with regulators over the company’s tight controls of its App Store.",
+          "image_url": "https://static01.nyt.com/images/2026/08/18/multimedia/18biz-apple-europe-hqzv/18biz-apple-europe-hqzv-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/18/technology/apple-fees-european-union.html",
+          "published_at": "Tue, 18 Aug 2026 21:47:23 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LWJvbmQtc2VsbC1vZmYt",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007",
+          "summary": "Yields on the 30-year U.S. Treasury and government bonds across the world rose to multiyear highs as investors fret about inflation, deficits and A.I. spending.",
+          "image_url": "https://static01.nyt.com/images/2026/08/18/multimedia/2026-biz-august-promos-bonds/2026-biz-august-promos-bonds-mediumSquareAt3X.png",
+          "article_url": "https://www.nytimes.com/2026/08/18/business/oil-prices-bonds.html",
+          "published_at": "Tue, 18 Aug 2026 21:44:00 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "bnl0LWlzcmFlbC1zdHJpa2Vz",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1461,20 +1505,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "bnl0LWljZS1iYXJzLWl0cy13",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "ICE Bars Its Workers From Wearing Meta’s Smart Glasses on the Job",
-          "summary": "The agency joins a growing number of workplaces and groups to ban Meta’s devices, which have spurred privacy concerns.",
-          "image_url": "https://static01.nyt.com/images/2026/08/18/multimedia/18biz-dhs-meta-glasses-3-hqwz/18biz-dhs-meta-glasses-3-hqwz-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/18/technology/ice-meta-smart-glasses.html",
-          "published_at": "Tue, 18 Aug 2026 21:15:15 +0000",
-          "cross_sections": []
         },
         {
           "id": "bnl0LWRlYWRseS1pc3JhZWxp",
@@ -1507,20 +1537,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "bnl0LWJvbmQtc2VsbC1vZmYt",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007",
-          "summary": "Yields on the 30-year U.S. Treasury and government bonds across the world rose to multiyear highs as investors fret about inflation, deficits and A.I. spending.",
-          "image_url": "https://static01.nyt.com/images/2026/08/18/multimedia/2026-biz-august-promos-bonds/2026-biz-august-promos-bonds-mediumSquareAt3X.png",
-          "article_url": "https://www.nytimes.com/2026/08/18/business/oil-prices-bonds.html",
-          "published_at": "Tue, 18 Aug 2026 20:55:04 +0000",
-          "cross_sections": []
         },
         {
           "id": "bnl0LXBvbGxpbmctZmlybS1y",
@@ -1786,22 +1802,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "bnl0LXRoZS1pcmFuaWFuLXlv",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "The Iranian YouTube Show Posing Questions Few Dare Ask",
-          "summary": "Azad, a popular online debate program, has tackled topics that push the limits of Iran’s authoritarian system. Some question how it has remained on air.",
-          "image_url": null,
-          "article_url": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html",
-          "published_at": "Sat, 15 Aug 2026 09:30:14 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -1822,7 +1822,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-08-18T21:43:30.975Z",
+          "published_at": "2026-08-18T21:57:00.007Z",
           "cross_sections": []
         },
         {
@@ -1836,7 +1836,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-08-18T21:43:30.975Z",
+          "published_at": "2026-08-18T21:57:00.007Z",
           "cross_sections": []
         },
         {
@@ -1850,7 +1850,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-08-18T21:43:30.975Z",
+          "published_at": "2026-08-18T21:57:00.007Z",
           "cross_sections": []
         },
         {
@@ -2652,6 +2652,20 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YmJjLSdldmVyeW9uZS1pbi1m",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "'Everyone in for Christmas' - Burnham unveils rough sleeping plan",
+          "summary": "Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9688/live/87867df0-9b3b-11f1-aed2-8d6da8d75094.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 18 Aug 2026 21:31:11 GMT",
+          "cross_sections": []
+        },
+        {
           "id": "YmJjLXRocmVlLWRlYWQtYWZ0",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2663,6 +2677,20 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12c7/live/b5979a20-9b4b-11f1-a4d5-27953a73ef84.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 18 Aug 2026 21:30:56 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLWpvaW4tZXUtbWlncmF0",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Join EU migration pact to tackle small boats, says Ed Davey",
+          "summary": "The Liberal Democrats say taking part in the scheme would \"destroy the business model\" of gangs arranging Channel crossings.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f27/live/c109e500-9b0c-11f1-bb80-c1b1e1adeea5.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c8dn3n6pvyvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 18 Aug 2026 21:30:19 GMT",
           "cross_sections": []
         },
         {
@@ -2710,20 +2738,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YmJjLXByZW1pZXItbGVhZ3Vl",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Premier League chief says Fifa self-destructed over World Cup plan",
-          "summary": "Premier League chief executive Richard Masters has criticised Fifa president Gianni Infantino's World Cup sell-off plan, saying the organisation has \"pressed the self-destruct button\" by delivering \"a self-inflicted wound\".",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4852/live/d2590070-9b16-11f1-b8e1-e7ef86eff0e6.jpg",
-          "article_url": "https://www.bbc.co.uk/sport/football/articles/cgjeqez58wno?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 18 Aug 2026 16:18:37 GMT",
-          "cross_sections": []
         },
         {
           "id": "YmJjLXBha2lzdGFuLXRvcC1j",
@@ -2805,7 +2819,7 @@
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
           "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a151/live/5dc767b0-9b34-11f1-aed2-8d6da8d75094.jpg",
@@ -3391,6 +3405,20 @@
           ]
         },
         {
+          "id": "ZXVyb25ld3MtY29tbWVyemJh",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Commerzbank, German resistance wanes: UniCredit nears deal, what could change",
+          "summary": "UniCredit eyes control of Commerzbank as Berlin opens the door on its 12.7% stake. What it means for Italy, Germany and European banks",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/95/25/696x392_cmsv2_1c7697e9-7b91-5bbd-919d-c0450cad2988-9879525.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/18/commerzbank-german-resistance-wanes-unicredit-nears-deal-what-could-change",
+          "published_at": "Tue, 18 Aug 2026 19:23:59 +0200",
+          "cross_sections": []
+        },
+        {
           "id": "ZXVyb25ld3MtaXRhbGlhbi10",
           "source_id": "euronews",
           "source_name": "Euronews",
@@ -3449,6 +3477,20 @@
           "cross_sections": []
         },
         {
+          "id": "ZXVyb25ld3MtbWlkbmlnaHQt",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Midnight showdown looms as US and Canada meet to sidestep Trump’s tariff blitz",
+          "summary": "The US and Canada are locked in last-minute talks to prevent a fresh wave of tariffs from striking at 00:01 ET on Wednesday. US President Donald Trump has vowed to slap 50% duties on $20 billion (€17.2bn) worth of Canadian products if a deal is not reached in time.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/91/56/696x392_cmsv2_46e8ceaa-0708-59a5-8e54-b2178c8241b7-9879156.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/18/midnight-showdown-looms-as-us-and-canada-meet-to-sidestep-trumps-tariff-blitz",
+          "published_at": "Tue, 18 Aug 2026 16:51:57 +0200",
+          "cross_sections": []
+        },
+        {
           "id": "ZXVyb25ld3Mtc291dGgta29y",
           "source_id": "euronews",
           "source_name": "Euronews",
@@ -3477,6 +3519,98 @@
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "ZXVyb25ld3MtbmFzZGFxLWNv",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Nasdaq confirms 23-hour trading from December with new overnight session",
+          "summary": "Nasdaq will begin trading US stocks for nearly 23 hours a day from 6 December, adding a new overnight session from 9pm to 4am ET, as the exchange races to compete with round-the-clock crypto and tokenised markets and with investors abroad clamouring for access.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/83/44/696x392_cmsv2_f8de0763-4ead-5fce-a4fd-3ed10513bc8a-9878344.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/18/nasdaq-confirms-23-hour-trading-from-december-with-new-overnight-session",
+          "published_at": "Tue, 18 Aug 2026 11:05:17 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtcmV2b2x1dC1p",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Revolut is set to launch airport lounges, with the first opening in Copenhagen in 2027",
+          "summary": "The fintech company’s first foray into the market will be the largest common-use lounge in the Schengen area.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/73/34/696x392_cmsv2_9416eaf5-66b2-58a6-9c16-3c3ad212db4f-9877334.jpg",
+          "article_url": "http://www.euronews.com/travel/2026/08/17/revolut-is-set-to-launch-airport-lounges-with-the-first-opening-in-copenhagen-in-2027",
+          "published_at": "Mon, 17 Aug 2026 15:06:21 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtZmVycmFyaeKA",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Ferrari’s first EV sells for record $40 million at auction",
+          "summary": "The Italian luxury carmaker’s first electric car has set a record for a new vehicle sold at auction, just months after its unveiling drew backlash.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/68/51/696x392_cmsv2_75827373-c847-5b6b-8efd-5ea561bd4cfa-9876851.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/17/ferraris-first-ev-sells-for-record-40-million-at-auction",
+          "published_at": "Mon, 17 Aug 2026 11:32:59 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3Mtd2hhdC1udmlk",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "What Nvidia's $500 billion Wall Street deal signals about the AI boom",
+          "summary": "Nvidia and six of the world's largest investment firms announced plans last week to channel more than $500 billion (€433bn) into AI infrastructure, an arrangement designed to let tech companies build data centres without loading the cost onto their own balance sheets.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/37/50/696x392_cmsv2_049ae355-9b40-51cd-834e-0f80377e9e44-9873750.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/17/what-nvidias-500-billion-wall-street-deal-signals-about-the-ai-boom",
+          "published_at": "Mon, 17 Aug 2026 08:05:19 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtbWFlcnNrLWJy",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Maersk brings back another shipping service through Suez, but wider return remains distant",
+          "summary": "The latest move is part of a cautious return to the Suez Canal, with four Maersk services switching back since early July, the most recent in mid-August, while nine others continue to sail around Africa.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/31/15/696x392_cmsv2_3efeeac5-d634-5e7b-b685-388c3fe60d48-9873115.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/14/maersk-returns-another-asia-europe-service-through-suez-but-wider-return-remains-distant",
+          "published_at": "Fri, 14 Aug 2026 15:20:22 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtZnVlbC1wcmlj",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Fuel prices: study says there is no \"profiteering by operators\"",
+          "summary": "An ERSE study found that in the first seven months of 2026 domestic prices broadly followed international costs, with no \"evidence of profiteering by operators\". Fuel prices are set to soar again next week.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/44/78/696x392_cmsv2_6525627f-2d40-5908-8393-21cf818ed299-9874478.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/14/fuel-prices-study-says-there-is-no-profiteering-by-operators",
+          "published_at": "Fri, 14 Aug 2026 15:05:18 +0200",
+          "cross_sections": [
+            "tech"
+          ]
         }
       ]
     },
@@ -3486,6 +3620,22 @@
       "region": "Europe",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "ZHctdXMtaW1wb3Nlcy1uZXct",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "US imposes new sanctions on ICC president, senior lawyer in latest escalation",
+          "summary": "The US has announced it will impose additional sanctions on members of the International Criminal Court. The ICC said the latest US move against it \"undermines the rule of law.\"",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/us-imposes-new-sanctions-on-icc-president-senior-lawyer-in-latest-escalation/a-78420261?maca=en-rss-en-top-1022-xml-mrss",
+          "published_at": "Tue, 18 Aug 2026 21:45:00 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "ZHctbWlub3JzLWxpdmluZy1h",
           "source_id": "dw",
@@ -4303,6 +4453,20 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "amFwYW50aW1lcy1tYWRvbm5h",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Madonna tops Taylor Swift in nominations for MTV’s Video Music Awards",
+          "summary": "Iconic pop star is up for video of the year for her \"Confessions II — The Film.\"",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/19/558182.JPG",
+          "article_url": "https://www.japantimes.co.jp/culture/2026/08/19/entertainment-news/madonna-vma-taylor-swift/",
+          "published_at": "Wed, 19 Aug 2026 06:55:00 +0900",
+          "cross_sections": []
+        },
+        {
           "id": "amFwYW50aW1lcy0yNSUtaW5j",
           "source_id": "japantimes",
           "source_name": "The Japan Times",
@@ -4407,20 +4571,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "amFwYW50aW1lcy10cnVtcC1k",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Trump defends ballroom to Supreme Court as military complex",
-          "summary": "In a filing made public Friday, the U.S. president asked the justices for an emergency order letting construction continue without restrictions while a legal fight continues.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/18/558081.jpg",
-          "article_url": "https://www.japantimes.co.jp/news/2026/08/18/world/politics/trump-ballroom-supreme-court-military/",
-          "published_at": "Tue, 18 Aug 2026 16:06:00 +0900",
-          "cross_sections": []
         }
       ]
     },
@@ -4614,6 +4764,64 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YWxqYXplZXJhLXRydW1wLWFk",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Trump administration moves to end rule protecting swaths of forest land",
+          "summary": "US Agriculture Department says rescinding 2001 rule will help reduce wildfire risk and return control to local managers.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss",
+          "published_at": "Tue, 18 Aug 2026 21:26:47 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLXdoeS1pcy10",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Why is the US ramping up Tomahawk production?",
+          "summary": "Pentagon contracts defence manufacturer to increase output of cruise missiles.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/inside-story/2026/8/18/why-is-the-us-ramping-up-tomahawk-production?traffic_source=rss",
+          "published_at": "Tue, 18 Aug 2026 21:26:07 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLXN5cmlhLW9w",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Syria opens Assad-era nuclear programme to UN probe",
+          "summary": "UN watchdog reports that it found large amounts of material at undisclosed sites in Syria.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/18/syria-opens-assad-era-nuclear-programme-to-un-probe?traffic_source=rss",
+          "published_at": "Tue, 18 Aug 2026 21:25:06 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLWNvbmdvLWVi",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Congo Ebola outbreak ‘global emergency’ as infections pass 5,000: WHO",
+          "summary": "Officials warn they are continuing to identify new chains of transmission, which need to be broken to stop the spread.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/18/congo-ebola-outbreak-global-emergency-as-infections-pass-5000-who?traffic_source=rss",
+          "published_at": "Tue, 18 Aug 2026 21:24:52 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YWxqYXplZXJhLXRydW1wLXNh",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
@@ -4676,66 +4884,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YWxqYXplZXJhLWpvc2UtbW91",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Jose Mourinho returns to Real Madrid in closed-door ceremony",
-          "summary": "In an unusually private ceremony, Jose Mourinho has officially begun his second spell as Real Madrid manager.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/jose-mourinho-returns-to-real-madrid-in-closed-door-ceremony?traffic_source=rss",
-          "published_at": "Tue, 18 Aug 2026 20:41:50 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLWxpYmVyaWEt",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Liberia to take 1,200 deportees from the US",
-          "summary": "The first group of 20 deportees is expected to arrive in the coming days.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/8/18/liberia-to-take-1200-deportees-from-the-us?traffic_source=rss",
-          "published_at": "Tue, 18 Aug 2026 20:39:15 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXJ1c3NpYW4t",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Russian missile strike kills 10 civilians in Kharkiv",
-          "summary": "A Russian missile strike on Pechenihy, in Ukraine’s Kharkiv region, killed at least 10 civilians and wounded 17 others.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss",
-          "published_at": "Tue, 18 Aug 2026 20:26:01 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXRydW1wLWFu",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Trump and Carney speak ahead of US tariff deadline",
-          "summary": "The new US tariffs would cover about $20bn worth of imports and could lead to job losses and business closures.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline?traffic_source=rss",
-          "published_at": "Tue, 18 Aug 2026 20:19:27 +0000",
-          "cross_sections": [
-            "jobcuts"
-          ]
         }
       ]
     },
@@ -4746,128 +4894,127 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "YXJhYm5ld3MtZmluYWwtZWxl",
+          "id": "YXJhYm5ld3MtYmlyZC1mbHUt",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Final election phase begins in Pakistan-administered Kashmir despite banned group’s boycott call",
-          "summary": "MUZAFFARABAD, Pakistan: Voters went to the polls Monday in the final phase of elections for the legislative assembly in Pakistan-administered Kashmir, following weeks of violent protests and clashes with security forces that overshadowed campaigning in the disputed Himalayan region, officials said.\n",
+          "title": "Bird flu kills 13,000 seal pups on remote Australian island",
+          "summary": "SYDNEY: A pathogenic strain of bird flu killed more than 13,000 elephant seal pups after infecting a breeding colony on a sub-Antarctic volcanic island, Australian scientists said Thursday.\n\tResearchers found the remote Heard and McDonald Islands littered with seal carcasses when they arrived on a r",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654152/world",
-          "published_at": "Tue, 11 Aug 2026 12:08:09 +03",
+          "article_url": "https://www.arabnews.com/node/2647655/offbeat",
+          "published_at": "Thu, 18 Jun 2026 10:06:51 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtZW5yb2xsbWVu",
+          "id": "YXJhYm5ld3MtcmVjaXBlcy1m",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Enrollment begins at Saudi-backed school for Gaza children",
-          "summary": "GAZA STRIP: Registration has opened for students seeking to enroll at Makkah School in the southern Gaza Strip, a Saudi-backed initiative aimed at helping children resume their education amid the devastation of the war, SPA has reported. \n\n\tThe school, supported by the King Salman Humanitarian Aid a",
+          "title": "Recipes for Success: Chef Robert Tsitaishvili talks simplicity, salt, and stories",
+          "summary": "DUBAI: Robert Tsitaishvili is the head chef of Qartuli, a Georgian restaurant in Downtown Dubai, where his goal, he says, is “to reinterpret Georgian culinary heritage for a contemporary audience.” \n\n\tTsitaishvili has more than 12 years of experience spanning hotels and restaurants across Georgia an",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654157/saudi-arabia",
-          "published_at": "Tue, 11 Aug 2026 02:08:54 +03",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtdHJ1bXAtaW5z",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Trump insists Netanyahu relationship ‘very good’ despite Gaza rift",
-          "summary": "WASHINGTON, United States: President Donald Trump insisted on Monday that his relationship with Prime Minister Benjamin Netanyahu is “very good” despite the Israeli leader’s rejection of a US-led Gaza plan.\n\t“The relationship is very good,” Trump said in response to a shouted question from a journal",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654154/world",
-          "published_at": "Tue, 11 Aug 2026 01:08:46 +03",
+          "article_url": "https://www.arabnews.com/node/2647653/lifestyle",
+          "published_at": "Thu, 18 Jun 2026 10:06:49 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtbGlieWHigJlz",
+          "id": "YXJhYm5ld3Mtb2lsLWZhbGxz",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Libya’s central bank chief resigns",
-          "summary": "TRIPOLI: The governor of Libya’s central bank, Naji Issa, has resigned without giving a reason, several reports said on Monday.\n\tPrivate TV channel Al-Ahrar said Issa had confirmed his resignation.\n\tIssa and vice-governor Miree Al-Barasee were appointed by Libya’s parliament, which is based in the e",
+          "title": "Oil falls to 3-1/2-month low after US, Iran sign ceasefire deal",
+          "summary": "BEIJING/SINGAPORE: Oil prices ​fell by more than $2 per barrel on Thursday after the US and Iran signed an interim agreement that ‌would end the Iran war, reopen the Strait of Hormuz and waive US sanctions on Tehran’s oil, boosting the oil supply outlook.\n\n\tBrent crude futures were down $2.14, or 2.",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654155/middle-east",
-          "published_at": "Tue, 11 Aug 2026 01:08:41 +03",
+          "article_url": "https://www.arabnews.com/node/2647650/business-economy",
+          "published_at": "Thu, 18 Jun 2026 10:06:46 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtdHJ1bXDigJlz",
+          "id": "YXJhYm5ld3Mta2FuZS1kb3Vi",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Trump’s Gaza plan hinges on Hamas disarmament, Israeli withdrawals",
-          "summary": "JERUSALEM: Donald Trump’s latest plan to end the Gaza war calls on Hamas to ‌lay down its arms as Israel withdraws from the territory, terms endorsed by the militants but rejected by Israel, which says it will not pull back until the group’s disarmament is complete.",
+          "title": "Kane double fires England World Cup bid as Ronaldo’s Portugal stumble",
+          "summary": "LOS ANGELES, United States: England launched their World Cup bid with a rollercoaster 4-2 win against Croatia on Wednesday as Cristiano Ronaldo and Portugal stumbled to a draw against the Democratic Republic of Congo.\n\tIn an enthralling Group L game at the Texas home of the Dallas Cowboys NFL team, ",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654156/middle-east",
-          "published_at": "Tue, 11 Aug 2026 01:08:10 +03",
+          "article_url": "https://www.arabnews.com/node/2647651/sport",
+          "published_at": "Thu, 18 Jun 2026 10:06:26 +03",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtbGluYS1naG90",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Lina Ghotmeh: ‘Being in AlUla, you start to understand all the beauty of the world’",
+          "summary": "ALULA: AlUla is no stranger to art. It is renowned as an “open-air natural museum” with 7,000 years of lived-in history. Even so, the upcoming AlUla Contemporary Art Museum, created as part of Saudi Vision 2030, is sure to be the talk of the town.",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2647649/lifestyle",
+          "published_at": "Thu, 18 Jun 2026 10:06:11 +03",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtYXVzdHJhbGlh",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Australia says net migration down as far-right popularity surges",
+          "summary": "SYDNEY: Australia’s immigration levels fell last year, official data showed on Thursday, as its center-left government seeks to combat an ascendent far-right riding a wave of public discontent over soaring housing prices and cost of living.\n\tNet overseas migration added 301,000 people to Australia’s",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2647652/world",
+          "published_at": "Thu, 18 Jun 2026 10:06:08 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtY2FuLWFsLWJ1",
+          "id": "YXJhYm5ld3MtZGFpbHktdGVs",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Can Al-Burhan’s Sudanese national dialogue turn military gains into a political settlement?",
-          "summary": "LONDON: More than three years after Sudan descended into civil war, army chief Gen. Abdel Fattah Al-Burhan is pushing for a broad national dialogue aimed at rebuilding the country’s political institutions and laying the foundations for a civilian transition.\n\n\tTalks could begin as early as August, w",
+          "title": "Daily Telegraph columnist argues Saudi Arabia should join G7",
+          "summary": "DUBAI: Saudi Arabia should be invited to join the Group of Seven nations as the organization adapts to a changing global order, according to a column published in the Daily Telegraph by former UK prime ministerial representative to Saudi Arabia Ken Costa.\n\n\tCosta argued that while the G7 was created",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654150/middle-east",
-          "published_at": "Mon, 10 Aug 2026 11:08:33 +03",
+          "article_url": "https://www.arabnews.com/node/2647644/saudi-arabia",
+          "published_at": "Thu, 18 Jun 2026 09:06:26 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtZmlyZS1icmVh",
+          "id": "YXJhYm5ld3MtdHJ1bXAsLW5l",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Fire breaks out at Libya’s Zawiya refinery",
-          "summary": "TRIPOLI: A fire broke out on Monday ​in a diesel tank at Libya’s Zawiya refinery days after the facility was hit by drone.\n\n\tThe circumstances of Monday's fire remained unknown, Brega Petroleum Marketing Company said in a statement.\n\tBrega is owned by state oil firm National Oil Corporation (NOC) an",
+          "title": "Trump, Netanyahu clash over Iran strategy and Lebanon ceasefire",
+          "summary": "DUBAI: American President Donald Trump and Israeli Prime Minister Benjamin Netanyahu have found themselves at odds over Iran, Lebanon and the course of ongoing negotiations in the Middle East according to The Washington Post.",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654151/middle-east",
-          "published_at": "Mon, 10 Aug 2026 11:08:10 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtdGVlbmFnZXIt",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Teenager dies trying to rescue swimmers at Alexandria beach",
-          "summary": "ALEXANDRIA: An 18-year-old man died while attempting to help rescue six people from drowning at El-Baitash beach in Alexandria, Egypt, on Saturday, local authorities said.\n\tThe Central Administration for Tourism and Resorts in Alexandria said on Sunday that the beach was among those closed to swimme",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654149/middle-east",
-          "published_at": "Mon, 10 Aug 2026 10:08:39 +03",
+          "article_url": "https://www.arabnews.com/node/2647647/middle-east",
+          "published_at": "Thu, 18 Jun 2026 09:06:00 +03",
           "cross_sections": [
             "tech"
           ]
@@ -4973,7 +5120,7 @@
         {
           "id": "bbc",
           "name": "BBC News",
-          "count": 23
+          "count": 24
         },
         {
           "id": "guardian",
@@ -4983,12 +5130,12 @@
         {
           "id": "euronews",
           "name": "Euronews",
-          "count": 7
+          "count": 15
         },
         {
           "id": "dw",
           "name": "DW News",
-          "count": 13
+          "count": 14
         }
       ]
     },
@@ -5044,6 +5191,38 @@
       "icon": "💻",
       "articles": [
         {
+          "id": "bnl0LWFwcGxlLXJlbW92ZXMt",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Apple Removes Some Fees for App Developers in European Union",
+          "summary": "The move followed a long battle with regulators over the company’s tight controls of its App Store.",
+          "image_url": "https://static01.nyt.com/images/2026/08/18/multimedia/18biz-apple-europe-hqzv/18biz-apple-europe-hqzv-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/18/technology/apple-fees-european-union.html",
+          "published_at": "Tue, 18 Aug 2026 21:47:23 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZHctdXMtaW1wb3Nlcy1uZXct",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "US imposes new sanctions on ICC president, senior lawyer in latest escalation",
+          "summary": "The US has announced it will impose additional sanctions on members of the International Criminal Court. The ICC said the latest US move against it \"undermines the rule of law.\"",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/us-imposes-new-sanctions-on-icc-president-senior-lawyer-in-latest-escalation/a-78420261?maca=en-rss-en-top-1022-xml-mrss",
+          "published_at": "Tue, 18 Aug 2026 21:45:00 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dGhlaGluZHUtd2h5LWlzLXBt",
           "source_id": "thehindu",
           "source_name": "The Hindu",
@@ -5071,6 +5250,22 @@
           "image_url": null,
           "article_url": "https://timesofindia.indiatimes.com/india/trumps-voter-id-praise-follows-gyanesh-kumar-sergio-gor-meet/articleshow/133332198.cms",
           "published_at": "Wed, 19 Aug 2026 02:56:43 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLWNvbmdvLWVi",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Congo Ebola outbreak ‘global emergency’ as infections pass 5,000: WHO",
+          "summary": "Officials warn they are continuing to identify new chains of transmission, which need to be broken to stop the spread.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/18/congo-ebola-outbreak-global-emergency-as-infections-pass-5000-who?traffic_source=rss",
+          "published_at": "Tue, 18 Aug 2026 21:24:52 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5285,22 +5480,6 @@
           "cross_sections": [
             "tech",
             "ai"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXJ1c3NpYW4t",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Russian missile strike kills 10 civilians in Kharkiv",
-          "summary": "A Russian missile strike on Pechenihy, in Ukraine’s Kharkiv region, killed at least 10 civilians and wounded 17 others.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss",
-          "published_at": "Tue, 18 Aug 2026 20:26:01 +0000",
-          "cross_sections": [
-            "tech"
           ]
         },
         {
@@ -5658,38 +5837,6 @@
             "tech",
             "ai"
           ]
-        },
-        {
-          "id": "Y25iYy10cnVtcC1zYXlzLW5v",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Trump says no talks scheduled with Iran as he teases action in Hormuz Strait",
-          "summary": "Trump insists the U.S., not Iran, is in control of the strait, even though transiting vessels continue to come under attack and few attempt the crossing.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html",
-          "published_at": "Tue, 18 Aug 2026 18:28:37 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtZGlzbmV5",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Disney sues FCC and its chair, escalating fight against Trump's chief censor",
-          "summary": "FCC demands \"total capitulation\" in Trump censorship campaign, Disney suit says.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/brendan-carr-concordia-1152x648-1758655744.jpg",
-          "article_url": "https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/",
-          "published_at": "Tue, 18 Aug 2026 18:11:26 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -5697,24 +5844,7 @@
       "id": "jobcuts",
       "name": "Global Job Cuts",
       "icon": "📉",
-      "articles": [
-        {
-          "id": "YWxqYXplZXJhLXRydW1wLWFu",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Trump and Carney speak ahead of US tariff deadline",
-          "summary": "The new US tariffs would cover about $20bn worth of imports and could lead to job losses and business closures.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline?traffic_source=rss",
-          "published_at": "Tue, 18 Aug 2026 20:19:27 +0000",
-          "cross_sections": [
-            "jobcuts"
-          ]
-        }
-      ]
+      "articles": []
     },
     {
       "id": "ai",
@@ -6164,23 +6294,6 @@
           ]
         },
         {
-          "id": "YXJhYm5ld3MtZW5yb2xsbWVu",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Enrollment begins at Saudi-backed school for Gaza children",
-          "summary": "GAZA STRIP: Registration has opened for students seeking to enroll at Makkah School in the southern Gaza Strip, a Saudi-backed initiative aimed at helping children resume their education amid the devastation of the war, SPA has reported. \n\n\tThe school, supported by the King Salman Humanitarian Aid a",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654157/saudi-arabia",
-          "published_at": "Tue, 11 Aug 2026 02:08:54 +03",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "dG9pLWNoYXRncHQtd2FzLWRv",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -6201,7 +6314,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 9956,
+    "build_ms": 9119,
     "ai_enabled": true
   }
 }
