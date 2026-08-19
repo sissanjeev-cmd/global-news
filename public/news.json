@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-19T21:57:55.709Z",
-  "total_articles": 304,
-  "new_this_run": 14,
+  "last_updated": "2026-08-19T22:19:07.370Z",
+  "total_articles": 305,
+  "new_this_run": 24,
   "sources": [
     {
       "id": "techcrunch",
@@ -9,6 +9,23 @@
       "region": "IT Focus",
       "category": "Tech Media",
       "articles": [
+        {
+          "id": "dGVjaGNydW5jaC1vcGVuYWkt",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+          "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+          "published_at": "Wed, 19 Aug 2026 22:10:46 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
         {
           "id": "dGVjaGNydW5jaC1jb2duaXRp",
           "source_id": "techcrunch",
@@ -116,23 +133,6 @@
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
           "published_at": "Wed, 19 Aug 2026 19:00:00 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1yZXNlYXJj",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Researchers say OpenAI revoked their access to limited cyber program",
-          "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-          "published_at": "Wed, 19 Aug 2026 18:46:14 +0000",
           "cross_sections": [
             "tech",
             "ai"
@@ -1461,20 +1461,34 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "bnl0LWhhcnJ5LWFuZC1tZWdo",
+          "id": "bnl0LXByaW5jZS1oYXJyeS1h",
           "source_id": "nyt",
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Harry and Meghan Will Move Back to Britain After 6 Years in U.S.",
+          "title": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S.",
           "summary": "The prince and his wife, whose relations with King Charles and the rest of the royal family have long been strained, will remain non-working royals, according to a person familiar with the decision.",
           "image_url": "https://static01.nyt.com/images/2026/08/19/multimedia/19int-harry-1-hpwq/19int-harry-1-hpwq-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html",
-          "published_at": "Wed, 19 Aug 2026 21:37:56 +0000",
+          "published_at": "Wed, 19 Aug 2026 22:15:09 +0000",
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "bnl0LWNoaW5lc2Utc3RhcnQt",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Chinese Start-Up Lands Reusable Rocket for the First Time",
+          "summary": "The milestone by the private company, LandSpace, could put China closer to challenging SpaceX’s rule in lower-cost spaceflight.",
+          "image_url": null,
+          "article_url": "https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html",
+          "published_at": "Wed, 19 Aug 2026 21:49:10 +0000",
+          "cross_sections": []
         },
         {
           "id": "bnl0LXdoeS10cmVhc3VyeS15",
@@ -1563,6 +1577,39 @@
           "cross_sections": []
         },
         {
+          "id": "bnl0LXZvdGVycy1hcmVu4oCZ",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers",
+          "summary": "As a backlash grows over data centers, more local officials are facing recall elections for their support of the computing sites.",
+          "image_url": "https://static01.nyt.com/images/2026/08/12/multimedia/DATACENTER-RECALLS-1-01-bvfh/DATACENTER-RECALLS-1-01-bvfh-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html",
+          "published_at": "Wed, 19 Aug 2026 20:05:47 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LXN0cmlwZS1idXlzLWEu",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Stripe Buys A.I. Start-Up OpenRouter for $7.5 Billion",
+          "summary": "The deal is significant for the artificial intelligence industry, uniting Stripe’s payments business with OpenRouter’s helping businesses direct their spending on A.I. models.",
+          "image_url": "https://static01.nyt.com/images/2026/08/18/multimedia/00biz-openrouter-stripe-hfo-cvtw/00biz-openrouter-stripe-hfo-cvtw-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html",
+          "published_at": "Wed, 19 Aug 2026 20:02:11 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "bnl0LWhvdy10aGUtdS5zLi1u",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1591,6 +1638,23 @@
           "article_url": "https://www.nytimes.com/2026/08/19/business/federal-reserve-interest-rates.html",
           "published_at": "Wed, 19 Aug 2026 19:46:15 +0000",
           "cross_sections": []
+        },
+        {
+          "id": "bnl0LWdvb2dsZeKAmXMtcGl4",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Google’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?",
+          "summary": "The phone’s artificial intelligence can order groceries, book tables and take photos on a user’s behalf. But is it something people really want?",
+          "image_url": null,
+          "article_url": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
+          "published_at": "Wed, 19 Aug 2026 19:06:05 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
         },
         {
           "id": "bnl0LW5vcnRoLWtvcmVhbi1v",
@@ -1623,6 +1687,34 @@
           "cross_sections": []
         },
         {
+          "id": "bnl0LWEtY291bnR5LWdvdC1y",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "A County Got Rich From Data Centers. Some Question ‘At What Cost?’",
+          "summary": "Loudoun County, Va., hosts more than 250 data centers that bring in huge tax revenues. But some officials and residents worry the county has become too dependent on that cash.",
+          "image_url": "https://static01.nyt.com/images/2026/07/14/multimedia/BIZ-LOUDOUN-datacenter-jghm/BIZ-LOUDOUN-datacenter-jghm-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/19/technology/data-centers-backlash-loudoun-virginia.html",
+          "published_at": "Wed, 19 Aug 2026 16:50:35 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LXNvbWUtc3RhbmQtdXAt",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Some Stand-Up Comics Are Pivoting Away From Video on Social Media",
+          "summary": "Comedians used to post footage of their performances to build a following. Now, some are finding that comic strip-style panels with captions pack a bigger punch.",
+          "image_url": null,
+          "article_url": "https://www.nytimes.com/2026/08/19/arts/comedians-social-media-photos-captions.html",
+          "published_at": "Wed, 19 Aug 2026 16:13:49 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "bnl0LXUuYS5lLi1hbm5vdW5j",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1635,6 +1727,22 @@
           "article_url": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
           "published_at": "Wed, 19 Aug 2026 16:00:04 +0000",
           "cross_sections": []
+        },
+        {
+          "id": "bnl0LWFwcGxlLXJlbW92ZXMt",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Apple Removes Some Fees for App Developers in European Union",
+          "summary": "The move followed a long battle with regulators over the company’s tight controls of its App Store.",
+          "image_url": "https://static01.nyt.com/images/2026/08/18/multimedia/18biz-apple-europe-hqzv/18biz-apple-europe-hqzv-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/18/technology/apple-fees-european-union.html",
+          "published_at": "Wed, 19 Aug 2026 14:49:24 +0000",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
           "id": "bnl0LXVrcmFpbmXigJlzLWV4",
@@ -1683,6 +1791,20 @@
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "bnl0LWljZS1iYXJzLWl0cy13",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "ICE Bars Its Workers From Wearing Meta’s Smart Glasses on the Job",
+          "summary": "The agency joins a growing number of workplaces and groups to ban Meta’s devices, which have spurred privacy concerns.",
+          "image_url": "https://static01.nyt.com/images/2026/08/18/multimedia/18biz-dhs-meta-glasses-3-hqwz/18biz-dhs-meta-glasses-3-hqwz-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/18/technology/ice-meta-smart-glasses.html",
+          "published_at": "Tue, 18 Aug 2026 21:53:48 +0000",
+          "cross_sections": []
         }
       ]
     },
@@ -1692,20 +1814,6 @@
       "region": "North America",
       "category": "Broadcaster",
       "articles": [
-        {
-          "id": "Y25uLXRydW1wLXBsZWFkcy1u",
-          "source_id": "cnn",
-          "source_name": "CNN",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Trump pleads not guilty to 34 felony counts",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-08-19T21:57:47.207Z",
-          "cross_sections": []
-        },
         {
           "id": "Y25uLXJlYWQ6LXRydW1wLWlu",
           "source_id": "cnn",
@@ -1717,7 +1825,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-08-19T21:57:47.207Z",
+          "published_at": "2026-08-19T22:18:58.616Z",
           "cross_sections": []
         },
         {
@@ -1731,7 +1839,21 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-08-19T21:57:47.207Z",
+          "published_at": "2026-08-19T22:18:58.616Z",
+          "cross_sections": []
+        },
+        {
+          "id": "Y25uLXRydW1wLXBsZWFkcy1u",
+          "source_id": "cnn",
+          "source_name": "CNN",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Trump pleads not guilty to 34 felony counts",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
+          "published_at": "2026-08-19T22:18:58.615Z",
           "cross_sections": []
         },
         {
@@ -2533,6 +2655,22 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YmJjLWF1c3RyYWxpYS0nb3V0",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+          "summary": "Foreign minister says she will summon Israeli ambassador over 'insulting' Zomi Frankcom decision.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e39/live/8b4a6c40-9c16-11f1-a291-b542ee92de7c.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 19 Aug 2026 22:04:21 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YmJjLXByaW5jZS1oYXJyeS1h",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2541,9 +2679,9 @@
           "feed_label": "Top Stories",
           "title": "Prince Harry and Meghan moving back to UK",
           "summary": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6730/live/c6571c80-9c15-11f1-843d-7bc59bf3f2ac.jpg",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de02/live/bf3011b0-9c19-11f1-890e-c753949ac9e1.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 19 Aug 2026 21:47:00 GMT",
+          "published_at": "Wed, 19 Aug 2026 21:59:03 GMT",
           "cross_sections": []
         },
         {
@@ -2588,22 +2726,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26e2/live/88af3c20-9b5f-11f1-aed2-8d6da8d75094.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
           "published_at": "Wed, 19 Aug 2026 20:34:39 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YmJjLWNhbmFkYS1hbmQtdXMt",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Canada and US say they are finalising a trade deal, but details remain murky",
-          "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd23/live/184fdf20-9bf0-11f1-8470-d18257d2d589.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 19 Aug 2026 19:59:14 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -3316,54 +3438,6 @@
           ]
         },
         {
-          "id": "ZXVyb25ld3MtZWNiLXVudmVp",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "ECB unveils new banknote designs with a defiant message: Don't count cash out yet",
-          "summary": "With cashless payments on the rise, and a growing belief that cash is being replaced by the digital euro, the European Central Bank (ECB) is introducing new banknotes carrying a clear message to citizens: cash is here to stay.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/72/40/696x392_cmsv2_b786868c-374f-5609-b42f-e3a94c41174c-9877240.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/19/ecb-unveils-new-banknote-designs-with-a-defiant-message-dont-count-cash-out-yet",
-          "published_at": "Wed, 19 Aug 2026 16:23:14 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3Mtd2hvLWlzLWF1",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Who is automotive giant Stellantis and why did it recall nearly 1 million cars?",
-          "summary": "The world's fourth-largest carmaker is recalling nearly 1 million vehicles — its third major safety campaign this year.",
-          "image_url": "https://images.euronews.com/articles/stories/09/88/08/58/696x392_cmsv2_3951c38e-00f0-56d3-b070-fbc09a8faeee-9880858.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/19/who-is-automotive-giant-stellantis-and-why-did-it-recall-nearly-1-million-cars",
-          "published_at": "Wed, 19 Aug 2026 16:15:48 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3Mtc2VjLXVudmVp",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "SEC unveils new crypto rules hailed as a win for the digital asset industry",
-          "summary": "The US Securities and Exchange Commission has proposed a sweeping new framework for crypto assets, offering firms two clear paths to raise money without full securities registration. Industry groups have broadly welcomed the plan, calling its terms considerably more generous than anticipated.",
-          "image_url": "https://images.euronews.com/articles/stories/09/88/03/37/696x392_cmsv2_f79a2206-2a46-593a-bf74-1102d4ebb32a-9880337.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/19/sec-unveils-new-crypto-rules-hailed-as-a-win-for-the-digital-asset-industry",
-          "published_at": "Wed, 19 Aug 2026 16:11:22 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "ZXVyb25ld3MtdWFlLWhhbHRz",
           "source_id": "euronews",
           "source_name": "Euronews",
@@ -3407,67 +3481,6 @@
           "image_url": "https://images.euronews.com/articles/stories/09/88/06/04/696x392_cmsv2_082b0fa4-066e-5f71-aa06-2bb9cf52cd45-9880604.jpg",
           "article_url": "http://www.euronews.com/video/2026/08/19/neon-lights-and-lanterns-glow-in-new-hikari-area-at-tivoli-denmark",
           "published_at": "Wed, 19 Aug 2026 15:35:18 +0200",
-          "cross_sections": []
-        },
-        {
-          "id": "ZXVyb25ld3Mtb3BlbmFpLXBs",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "OpenAI pledges to slow down its model development amid cybersecurity concerns",
-          "summary": "OpenAI announced it has paused key stages of its most advanced AI training for two weeks and is overhauling security across its research operations, a month after one of its own models broke out of a test environment and infiltrated the systems of AI platform Hugging Face.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/99/96/696x392_cmsv2_eec56627-39f4-5fab-ac20-dbd45fbb6f84-9879996.jpg",
-          "article_url": "http://www.euronews.com/next/2026/08/19/openai-pledges-to-slow-down-its-model-development-amid-cybersecurity-concerns",
-          "published_at": "Wed, 19 Aug 2026 10:40:15 +0200",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3Mtd2hlcmUtYXJl",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Where are Portugal's priciest homes? Cascais leads with prices of €4.35mn",
-          "summary": "From Cascais to the Algarve, Portugal's priciest addresses cluster along the coast, while the capital is conspicuously absent.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/81/20/696x392_cmsv2_ce05a83d-7c35-57e3-aba6-06eb657f8234-9878120.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/19/where-are-portugals-priciest-homes-cascais-leads-with-prices-of-435-million",
-          "published_at": "Wed, 19 Aug 2026 08:34:49 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtY29tbWVyemJh",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Commerzbank, German resistance wanes: UniCredit nears deal, what could change",
-          "summary": "UniCredit eyes control of Commerzbank as Berlin opens the door on its 12.7% stake. What it means for Italy, Germany and European banks",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/95/25/696x392_cmsv2_1c7697e9-7b91-5bbd-919d-c0450cad2988-9879525.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/18/commerzbank-german-resistance-wanes-unicredit-nears-deal-what-could-change",
-          "published_at": "Tue, 18 Aug 2026 19:23:59 +0200",
-          "cross_sections": []
-        },
-        {
-          "id": "ZXVyb25ld3MtbWlkbmlnaHQt",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Midnight showdown looms as US and Canada meet to sidestep Trump’s tariff blitz",
-          "summary": "The US and Canada are locked in last-minute talks to prevent a fresh wave of tariffs from striking at 00:01 ET on Wednesday. US President Donald Trump has vowed to slap 50% duties on $20 billion (€17.2bn) worth of Canadian products if a deal is not reached in time.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/91/56/696x392_cmsv2_46e8ceaa-0708-59a5-8e54-b2178c8241b7-9879156.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/18/midnight-showdown-looms-as-us-and-canada-meet-to-sidestep-trumps-tariff-blitz",
-          "published_at": "Tue, 18 Aug 2026 16:51:57 +0200",
           "cross_sections": []
         }
       ]
@@ -3697,22 +3710,6 @@
           "cross_sections": []
         },
         {
-          "id": "dG9pLWNvbGxlY3RvcnMtb2Yt",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Collectors of border states to decide citizenship applications under CAA",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/collectors-of-border-states-to-decide-citizenship-applications-under-caa/articleshow/133358742.cms",
-          "published_at": "Thu, 20 Aug 2026 02:11:04 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "dG9pLXBtJ3MtZ2VuLXosLWdl",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3782,6 +3779,20 @@
           "image_url": null,
           "article_url": "https://timesofindia.indiatimes.com/world/middle-east/message-to-europe-it-can-receive-missiles-iran-warns-of-wider-war-if-trump-attacks-report/articleshow/133344687.cms",
           "published_at": "Wed, 19 Aug 2026 16:45:26 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dG9pLXRydW1wLWJpYmktdGVu",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Trump-Bibi tensions deepen? US officials frustrated by Israel’s Syria strikes: Report",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/world/middle-east/trump-bibi-tensions-deepen-us-officials-frustrated-by-israels-syria-strikes-report/articleshow/133345205.cms",
+          "published_at": "Wed, 19 Aug 2026 16:06:43 +0530",
           "cross_sections": []
         },
         {
@@ -4045,6 +4056,36 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dGhlaGluZHUtZWN1YWRvci1p",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Ecuador intel chief, five Americans killed in Kenya helicopter crash",
+          "summary": "Ecuador’s Transport Minister Roberto Luque said the Latin American nation’s intelligence chief Michele Sensi-Contugi, and his wife were among those killed",
+          "image_url": "https://th-i.thgim.com/public/incoming/6stvh2/article71366835.ece/alternates/LANDSCAPE_1200/2026-08-19T162830Z_428945308_RC2R1NAYCHGD_RTRMADP_3_KENYA-HELICOPTER-CRASH-TOURISM.JPG",
+          "article_url": "https://www.thehindu.com/news/international/ecuador-intel-chief-and-americans-killed-in-kenya-helicopter-crash/article71366832.ece",
+          "published_at": "Thu, 20 Aug 2026 03:31:03 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdS5zLi1uYXRp",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "U.S. national debt now stands at $40 trillion",
+          "summary": "The milestone figure was recorded just five months after the U.S. hit a record $39 trillion debt in March. It reached $38 trillion five months before that, in October",
+          "image_url": "https://th-i.thgim.com/public/incoming/hphxa3/article71366829.ece/alternates/LANDSCAPE_1200/Trump_14421.jpg",
+          "article_url": "https://www.thehindu.com/news/international/us-national-debt-now-stands-at-40-trillion/article71366825.ece",
+          "published_at": "Thu, 20 Aug 2026 03:23:45 +0530",
+          "cross_sections": []
+        },
+        {
           "id": "dGhlaGluZHUtZm9ybXVsYS1v",
           "source_id": "thehindu",
           "source_name": "The Hindu",
@@ -4134,36 +4175,6 @@
           "image_url": "https://th-i.thgim.com/public/incoming/he28d1/article71366679.ece/alternates/LANDSCAPE_1200/PTI08_01_2026_000032A.jpg",
           "article_url": "https://www.thehindu.com/sport/asian-games-gold-next-long-career-bigger-goal-after-arjuna-recognition-shankar/article71366674.ece",
           "published_at": "Thu, 20 Aug 2026 01:56:01 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtOTEtbG9jYWwt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "91 local bodies to compete in Pookalam contest in Keralam’s Kozhikode",
-          "summary": "The competition will feature grama panchayats, block panchayats, municipalities, and the Kozhikode Corporation, grouped into 11 clusters. ​The winner will be awarded a cash prize of ₹ 1 lakh and a trophy",
-          "image_url": "https://th-i.thgim.com/public/incoming/wr8kq6/article71366677.ece/alternates/LANDSCAPE_1200/VSP16_ONAM%205.JPG",
-          "article_url": "https://www.thehindu.com/news/national/kerala/91-local-bodies-to-contest-in-pookalam-contest-in-keralams-kozhikode/article71365015.ece",
-          "published_at": "Thu, 20 Aug 2026 01:49:49 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtamhhcmtoYW5k",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Jharkhand BJP leaders meet Amit Shah in New Delhi",
-          "summary": "Party sources said that BJP leaders expressed strong support for the student agitation in Jharkhand, both on the streets and in the legislature, by addressing alleged irregularities",
-          "image_url": "https://th-i.thgim.com/public/incoming/cadt5n/article71366669.ece/alternates/LANDSCAPE_1200/20260819388L.jpg",
-          "article_url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-bjp-leaders-meet-amit-shah-in-new-delhi/article71365895.ece",
-          "published_at": "Thu, 20 Aug 2026 01:45:03 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4629,6 +4640,38 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YWxqYXplZXJhLXdoYXQtdGhl",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "What the social media addiction lawsuit could cost Meta",
+          "summary": "Landmark trial against Meta could lead to fines and fundamental changes in Facebook and Instagram's operations.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/economy/2026/8/19/what-the-social-media-addiction-lawsuit-could-cost-meta?traffic_source=rss",
+          "published_at": "Wed, 19 Aug 2026 22:01:26 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLeKAnGktZ2V0",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "“I get along with him very well.”",
+          "summary": "US President Donald Trump praised his relationship with North Korea’s leader Kim Jong Un.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss",
+          "published_at": "Wed, 19 Aug 2026 21:35:34 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YWxqYXplZXJhLWlzcmFlbGkt",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
@@ -4713,36 +4756,6 @@
           "article_url": "https://www.aljazeera.com/news/2026/8/19/moderna-merck-unveil-mrna-based-cancer-vaccine-that-cuts-spread?traffic_source=rss",
           "published_at": "Wed, 19 Aug 2026 20:39:14 +0000",
           "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXdoYXTigJlz",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "What’s behind Israel’s latest attack on Syria?",
-          "summary": "US envoy warns Israel's strike could have sparked direct confrontation with Turkish forces.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss",
-          "published_at": "Wed, 19 Aug 2026 20:18:40 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXNldmVuLXBl",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Seven people, mostly foreign tourists, killed in helicopter crash in Kenya",
-          "summary": "Ecuador's intelligence chief Michele Sensi-Contugi and NBCUniversal journalist Jose Suarez are among the dead.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/8/19/seven-mostly-tourists-killed-in-helicopter-crash-in-northern-kenya?traffic_source=rss",
-          "published_at": "Wed, 19 Aug 2026 19:53:12 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -4753,127 +4766,128 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "YXJhYm5ld3MtYmlyZC1mbHUt",
+          "id": "YXJhYm5ld3MtZmluYWwtZWxl",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Bird flu kills 13,000 seal pups on remote Australian island",
-          "summary": "SYDNEY: A pathogenic strain of bird flu killed more than 13,000 elephant seal pups after infecting a breeding colony on a sub-Antarctic volcanic island, Australian scientists said Thursday.\n\tResearchers found the remote Heard and McDonald Islands littered with seal carcasses when they arrived on a r",
+          "title": "Final election phase begins in Pakistan-administered Kashmir despite banned group’s boycott call",
+          "summary": "MUZAFFARABAD, Pakistan: Voters went to the polls Monday in the final phase of elections for the legislative assembly in Pakistan-administered Kashmir, following weeks of violent protests and clashes with security forces that overshadowed campaigning in the disputed Himalayan region, officials said.\n",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647655/offbeat",
-          "published_at": "Thu, 18 Jun 2026 10:06:51 +03",
+          "article_url": "https://www.arabnews.com/node/2654152/world",
+          "published_at": "Tue, 11 Aug 2026 12:08:09 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtcmVjaXBlcy1m",
+          "id": "YXJhYm5ld3MtZW5yb2xsbWVu",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Recipes for Success: Chef Robert Tsitaishvili talks simplicity, salt, and stories",
-          "summary": "DUBAI: Robert Tsitaishvili is the head chef of Qartuli, a Georgian restaurant in Downtown Dubai, where his goal, he says, is “to reinterpret Georgian culinary heritage for a contemporary audience.” \n\n\tTsitaishvili has more than 12 years of experience spanning hotels and restaurants across Georgia an",
+          "title": "Enrollment begins at Saudi-backed school for Gaza children",
+          "summary": "GAZA STRIP: Registration has opened for students seeking to enroll at Makkah School in the southern Gaza Strip, a Saudi-backed initiative aimed at helping children resume their education amid the devastation of the war, SPA has reported. \n\n\tThe school, supported by the King Salman Humanitarian Aid a",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647653/lifestyle",
-          "published_at": "Thu, 18 Jun 2026 10:06:49 +03",
+          "article_url": "https://www.arabnews.com/node/2654157/saudi-arabia",
+          "published_at": "Tue, 11 Aug 2026 02:08:54 +03",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtdHJ1bXAtaW5z",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Trump insists Netanyahu relationship ‘very good’ despite Gaza rift",
+          "summary": "WASHINGTON, United States: President Donald Trump insisted on Monday that his relationship with Prime Minister Benjamin Netanyahu is “very good” despite the Israeli leader’s rejection of a US-led Gaza plan.\n\t“The relationship is very good,” Trump said in response to a shouted question from a journal",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654154/world",
+          "published_at": "Tue, 11 Aug 2026 01:08:46 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3Mtb2lsLWZhbGxz",
+          "id": "YXJhYm5ld3MtbGlieWHigJlz",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Oil falls to 3-1/2-month low after US, Iran sign ceasefire deal",
-          "summary": "BEIJING/SINGAPORE: Oil prices ​fell by more than $2 per barrel on Thursday after the US and Iran signed an interim agreement that ‌would end the Iran war, reopen the Strait of Hormuz and waive US sanctions on Tehran’s oil, boosting the oil supply outlook.\n\n\tBrent crude futures were down $2.14, or 2.",
+          "title": "Libya’s central bank chief resigns",
+          "summary": "TRIPOLI: The governor of Libya’s central bank, Naji Issa, has resigned without giving a reason, several reports said on Monday.\n\tPrivate TV channel Al-Ahrar said Issa had confirmed his resignation.\n\tIssa and vice-governor Miree Al-Barasee were appointed by Libya’s parliament, which is based in the e",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647650/business-economy",
-          "published_at": "Thu, 18 Jun 2026 10:06:46 +03",
+          "article_url": "https://www.arabnews.com/node/2654155/middle-east",
+          "published_at": "Tue, 11 Aug 2026 01:08:41 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3Mta2FuZS1kb3Vi",
+          "id": "YXJhYm5ld3MtdHJ1bXDigJlz",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Kane double fires England World Cup bid as Ronaldo’s Portugal stumble",
-          "summary": "LOS ANGELES, United States: England launched their World Cup bid with a rollercoaster 4-2 win against Croatia on Wednesday as Cristiano Ronaldo and Portugal stumbled to a draw against the Democratic Republic of Congo.\n\tIn an enthralling Group L game at the Texas home of the Dallas Cowboys NFL team, ",
+          "title": "Trump’s Gaza plan hinges on Hamas disarmament, Israeli withdrawals",
+          "summary": "JERUSALEM: Donald Trump’s latest plan to end the Gaza war calls on Hamas to ‌lay down its arms as Israel withdraws from the territory, terms endorsed by the militants but rejected by Israel, which says it will not pull back until the group’s disarmament is complete.",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647651/sport",
-          "published_at": "Thu, 18 Jun 2026 10:06:26 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtbGluYS1naG90",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Lina Ghotmeh: ‘Being in AlUla, you start to understand all the beauty of the world’",
-          "summary": "ALULA: AlUla is no stranger to art. It is renowned as an “open-air natural museum” with 7,000 years of lived-in history. Even so, the upcoming AlUla Contemporary Art Museum, created as part of Saudi Vision 2030, is sure to be the talk of the town.",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647649/lifestyle",
-          "published_at": "Thu, 18 Jun 2026 10:06:11 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtYXVzdHJhbGlh",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Australia says net migration down as far-right popularity surges",
-          "summary": "SYDNEY: Australia’s immigration levels fell last year, official data showed on Thursday, as its center-left government seeks to combat an ascendent far-right riding a wave of public discontent over soaring housing prices and cost of living.\n\tNet overseas migration added 301,000 people to Australia’s",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647652/world",
-          "published_at": "Thu, 18 Jun 2026 10:06:08 +03",
+          "article_url": "https://www.arabnews.com/node/2654156/middle-east",
+          "published_at": "Tue, 11 Aug 2026 01:08:10 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtZGFpbHktdGVs",
+          "id": "YXJhYm5ld3MtY2FuLWFsLWJ1",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Daily Telegraph columnist argues Saudi Arabia should join G7",
-          "summary": "DUBAI: Saudi Arabia should be invited to join the Group of Seven nations as the organization adapts to a changing global order, according to a column published in the Daily Telegraph by former UK prime ministerial representative to Saudi Arabia Ken Costa.\n\n\tCosta argued that while the G7 was created",
+          "title": "Can Al-Burhan’s Sudanese national dialogue turn military gains into a political settlement?",
+          "summary": "LONDON: More than three years after Sudan descended into civil war, army chief Gen. Abdel Fattah Al-Burhan is pushing for a broad national dialogue aimed at rebuilding the country’s political institutions and laying the foundations for a civilian transition.\n\n\tTalks could begin as early as August, w",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647644/saudi-arabia",
-          "published_at": "Thu, 18 Jun 2026 09:06:26 +03",
+          "article_url": "https://www.arabnews.com/node/2654150/middle-east",
+          "published_at": "Mon, 10 Aug 2026 11:08:33 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtdHJ1bXAsLW5l",
+          "id": "YXJhYm5ld3MtZmlyZS1icmVh",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Trump, Netanyahu clash over Iran strategy and Lebanon ceasefire",
-          "summary": "DUBAI: American President Donald Trump and Israeli Prime Minister Benjamin Netanyahu have found themselves at odds over Iran, Lebanon and the course of ongoing negotiations in the Middle East according to The Washington Post.",
+          "title": "Fire breaks out at Libya’s Zawiya refinery",
+          "summary": "TRIPOLI: A fire broke out on Monday ​in a diesel tank at Libya’s Zawiya refinery days after the facility was hit by drone.\n\n\tThe circumstances of Monday's fire remained unknown, Brega Petroleum Marketing Company said in a statement.\n\tBrega is owned by state oil firm National Oil Corporation (NOC) an",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647647/middle-east",
-          "published_at": "Thu, 18 Jun 2026 09:06:00 +03",
+          "article_url": "https://www.arabnews.com/node/2654151/middle-east",
+          "published_at": "Mon, 10 Aug 2026 11:08:10 +03",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtdGVlbmFnZXIt",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Teenager dies trying to rescue swimmers at Alexandria beach",
+          "summary": "ALEXANDRIA: An 18-year-old man died while attempting to help rescue six people from drowning at El-Baitash beach in Alexandria, Egypt, on Saturday, local authorities said.\n\tThe Central Administration for Tourism and Resorts in Alexandria said on Sunday that the beach was among those closed to swimme",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654149/middle-east",
+          "published_at": "Mon, 10 Aug 2026 10:08:39 +03",
           "cross_sections": [
             "tech"
           ]
@@ -4952,7 +4966,7 @@
         {
           "id": "nyt",
           "name": "The New York Times",
-          "count": 15
+          "count": 23
         },
         {
           "id": "cnn",
@@ -4989,7 +5003,7 @@
         {
           "id": "euronews",
           "name": "Euronews",
-          "count": 15
+          "count": 8
         },
         {
           "id": "dw",
@@ -5050,6 +5064,87 @@
       "icon": "💻",
       "articles": [
         {
+          "id": "bnl0LXByaW5jZS1oYXJyeS1h",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S.",
+          "summary": "The prince and his wife, whose relations with King Charles and the rest of the royal family have long been strained, will remain non-working royals, according to a person familiar with the decision.",
+          "image_url": "https://static01.nyt.com/images/2026/08/19/multimedia/19int-harry-1-hpwq/19int-harry-1-hpwq-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html",
+          "published_at": "Wed, 19 Aug 2026 22:15:09 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGVjaGNydW5jaC1vcGVuYWkt",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+          "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+          "published_at": "Wed, 19 Aug 2026 22:10:46 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "YmJjLWF1c3RyYWxpYS0nb3V0",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+          "summary": "Foreign minister says she will summon Israeli ambassador over 'insulting' Zomi Frankcom decision.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e39/live/8b4a6c40-9c16-11f1-a291-b542ee92de7c.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 19 Aug 2026 22:04:21 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXdoYXQtdGhl",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "What the social media addiction lawsuit could cost Meta",
+          "summary": "Landmark trial against Meta could lead to fines and fundamental changes in Facebook and Instagram's operations.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/economy/2026/8/19/what-the-social-media-addiction-lawsuit-could-cost-meta?traffic_source=rss",
+          "published_at": "Wed, 19 Aug 2026 22:01:26 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtZWN1YWRvci1p",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Ecuador intel chief, five Americans killed in Kenya helicopter crash",
+          "summary": "Ecuador’s Transport Minister Roberto Luque said the Latin American nation’s intelligence chief Michele Sensi-Contugi, and his wife were among those killed",
+          "image_url": "https://th-i.thgim.com/public/incoming/6stvh2/article71366835.ece/alternates/LANDSCAPE_1200/2026-08-19T162830Z_428945308_RC2R1NAYCHGD_RTRMADP_3_KENYA-HELICOPTER-CRASH-TOURISM.JPG",
+          "article_url": "https://www.thehindu.com/news/international/ecuador-intel-chief-and-americans-killed-in-kenya-helicopter-crash/article71366832.ece",
+          "published_at": "Thu, 20 Aug 2026 03:31:03 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dGVjaGNydW5jaC1jb2duaXRp",
           "source_id": "techcrunch",
           "source_name": "TechCrunch",
@@ -5099,17 +5194,17 @@
           ]
         },
         {
-          "id": "bnl0LWhhcnJ5LWFuZC1tZWdo",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Harry and Meghan Will Move Back to Britain After 6 Years in U.S.",
-          "summary": "The prince and his wife, whose relations with King Charles and the rest of the royal family have long been strained, will remain non-working royals, according to a person familiar with the decision.",
-          "image_url": "https://static01.nyt.com/images/2026/08/19/multimedia/19int-harry-1-hpwq/19int-harry-1-hpwq-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html",
-          "published_at": "Wed, 19 Aug 2026 21:37:56 +0000",
+          "id": "YWxqYXplZXJhLeKAnGktZ2V0",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "“I get along with him very well.”",
+          "summary": "US President Donald Trump praised his relationship with North Korea’s leader Kim Jong Un.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss",
+          "published_at": "Wed, 19 Aug 2026 21:35:34 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5227,22 +5322,6 @@
           ]
         },
         {
-          "id": "dG9pLWNvbGxlY3RvcnMtb2Yt",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Collectors of border states to decide citizenship applications under CAA",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/collectors-of-border-states-to-decide-citizenship-applications-under-caa/articleshow/133358742.cms",
-          "published_at": "Thu, 20 Aug 2026 02:11:04 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "YmJjLXNhY2tlZC11a3JhaW5p",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -5355,22 +5434,6 @@
           ]
         },
         {
-          "id": "dGhlaGluZHUtamhhcmtoYW5k",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Jharkhand BJP leaders meet Amit Shah in New Delhi",
-          "summary": "Party sources said that BJP leaders expressed strong support for the student agitation in Jharkhand, both on the streets and in the legislature, by addressing alleged irregularities",
-          "image_url": "https://th-i.thgim.com/public/incoming/cadt5n/article71366669.ece/alternates/LANDSCAPE_1200/20260819388L.jpg",
-          "article_url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-bjp-leaders-meet-amit-shah-in-new-delhi/article71365895.ece",
-          "published_at": "Thu, 20 Aug 2026 01:45:03 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "dGVjaGNydW5jaC1yaWxsZXQt",
           "source_id": "techcrunch",
           "source_name": "TechCrunch",
@@ -5455,6 +5518,22 @@
           ]
         },
         {
+          "id": "bnl0LXZvdGVycy1hcmVu4oCZ",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers",
+          "summary": "As a backlash grows over data centers, more local officials are facing recall elections for their support of the computing sites.",
+          "image_url": "https://static01.nyt.com/images/2026/08/12/multimedia/DATACENTER-RECALLS-1-01-bvfh/DATACENTER-RECALLS-1-01-bvfh-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html",
+          "published_at": "Wed, 19 Aug 2026 20:05:47 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YXJzdGVjaG5pY2EtZmxpZ2h0",
           "source_id": "arstechnica",
           "source_name": "Ars Technica",
@@ -5484,6 +5563,23 @@
           "published_at": "Wed, 19 Aug 2026 20:02:32 GMT",
           "cross_sections": [
             "tech"
+          ]
+        },
+        {
+          "id": "bnl0LXN0cmlwZS1idXlzLWEu",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Stripe Buys A.I. Start-Up OpenRouter for $7.5 Billion",
+          "summary": "The deal is significant for the artificial intelligence industry, uniting Stripe’s payments business with OpenRouter’s helping businesses direct their spending on A.I. models.",
+          "image_url": "https://static01.nyt.com/images/2026/08/18/multimedia/00biz-openrouter-stripe-hfo-cvtw/00biz-openrouter-stripe-hfo-cvtw-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html",
+          "published_at": "Wed, 19 Aug 2026 20:02:11 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
           ]
         },
         {
@@ -5530,38 +5626,6 @@
           "image_url": "https://static01.nyt.com/images/2026/08/18/multimedia/00Biz-Hormuz-Protection-02-jcbm/00Biz-Hormuz-Protection-02-jcbm-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/19/business/iran-hormuz-oman-us-navy.html",
           "published_at": "Wed, 19 Aug 2026 19:59:31 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YmJjLWNhbmFkYS1hbmQtdXMt",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Canada and US say they are finalising a trade deal, but details remain murky",
-          "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd23/live/184fdf20-9bf0-11f1-8470-d18257d2d589.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 19 Aug 2026 19:59:14 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXNldmVuLXBl",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Seven people, mostly foreign tourists, killed in helicopter crash in Kenya",
-          "summary": "Ecuador's intelligence chief Michele Sensi-Contugi and NBCUniversal journalist Jose Suarez are among the dead.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/8/19/seven-mostly-tourists-killed-in-helicopter-crash-in-northern-kenya?traffic_source=rss",
-          "published_at": "Wed, 19 Aug 2026 19:53:12 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5645,54 +5709,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "bmR0di10b3VyaXN0cy10aHJh",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Tourists Thrashed, Harassed For 2 Hours Over 8-Year-Old's Shorts At Pune Fort",
-          "summary": "Pune's Haveli Police have registered a case against nine individuals for assaulting tourists over their clothes at the Sinhagad Fort and intimidating people for two hours on August 16 - a day after India celebrated its 80th Independence Day.",
-          "image_url": "https://c.ndtvimg.com/2026-08/2ter3u44_pune-fort-tourist_625x300_19_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/tourists-including-8-year-old-girl-thrashed-over-wearing-shorts-at-pune-fort-11931083#publisher=newsstand",
-          "published_at": "Thu, 20 Aug 2026 00:45:12 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1mbHllcnMtZmFjZS1i",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Flyers Face Booking Issues For Some Time After IndiGo Website Hit By Snag",
-          "summary": "Several flyers posted messages on social media that they were unable to book tickets through the IndiGo website, which showed a \"no data available\" message to those who were looking for flights.",
-          "image_url": "https://c.ndtvimg.com/2025-08/5vb4qh3_indigo_625x300_06_August_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/indigo-website-briefly-hit-by-technical-snag-flyers-face-booking-outage-11933119#publisher=newsstand",
-          "published_at": "Thu, 20 Aug 2026 00:42:00 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1haS13YXMt",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "AI was supposed to win people over by now — it hasn’t",
-          "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-          "published_at": "Wed, 19 Aug 2026 19:11:40 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -5707,6 +5723,23 @@
       "name": "LLM & AI",
       "icon": "🤖",
       "articles": [
+        {
+          "id": "dGVjaGNydW5jaC1vcGVuYWkt",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+          "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+          "published_at": "Wed, 19 Aug 2026 22:10:46 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
         {
           "id": "dGVjaGNydW5jaC1jb2duaXRp",
           "source_id": "techcrunch",
@@ -5793,6 +5826,40 @@
           ]
         },
         {
+          "id": "bnl0LXN0cmlwZS1idXlzLWEu",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Stripe Buys A.I. Start-Up OpenRouter for $7.5 Billion",
+          "summary": "The deal is significant for the artificial intelligence industry, uniting Stripe’s payments business with OpenRouter’s helping businesses direct their spending on A.I. models.",
+          "image_url": "https://static01.nyt.com/images/2026/08/18/multimedia/00biz-openrouter-stripe-hfo-cvtw/00biz-openrouter-stripe-hfo-cvtw-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html",
+          "published_at": "Wed, 19 Aug 2026 20:02:11 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "bnl0LWdvb2dsZeKAmXMtcGl4",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Google’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?",
+          "summary": "The phone’s artificial intelligence can order groceries, book tables and take photos on a user’s behalf. But is it something people really want?",
+          "image_url": null,
+          "article_url": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
+          "published_at": "Wed, 19 Aug 2026 19:06:05 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "bmR0di1vcGVuYWktdG8taW50",
           "source_id": "ndtv",
           "source_name": "NDTV",
@@ -5838,23 +5905,6 @@
           "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-19-at-2.05.46-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
           "article_url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
           "published_at": "2026-08-19T19:00:00.000Z",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1yZXNlYXJj",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Researchers say OpenAI revoked their access to limited cyber program",
-          "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-          "published_at": "Wed, 19 Aug 2026 18:46:14 +0000",
           "cross_sections": [
             "tech",
             "ai"
@@ -5940,23 +5990,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc62/live/f7f452d0-9bbb-11f1-9cab-ed9e722cbe4c.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
           "published_at": "Wed, 19 Aug 2026 11:19:12 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3Mtb3BlbmFpLXBs",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "OpenAI pledges to slow down its model development amid cybersecurity concerns",
-          "summary": "OpenAI announced it has paused key stages of its most advanced AI training for two weeks and is overhauling security across its research operations, a month after one of its own models broke out of a test environment and infiltrated the systems of AI platform Hugging Face.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/99/96/696x392_cmsv2_eec56627-39f4-5fab-ac20-dbd45fbb6f84-9879996.jpg",
-          "article_url": "http://www.euronews.com/next/2026/08/19/openai-pledges-to-slow-down-its-model-development-amid-cybersecurity-concerns",
-          "published_at": "Wed, 19 Aug 2026 10:40:15 +0200",
           "cross_sections": [
             "tech",
             "ai"
@@ -6217,6 +6250,23 @@
           ]
         },
         {
+          "id": "YXJhYm5ld3MtZW5yb2xsbWVu",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Enrollment begins at Saudi-backed school for Gaza children",
+          "summary": "GAZA STRIP: Registration has opened for students seeking to enroll at Makkah School in the southern Gaza Strip, a Saudi-backed initiative aimed at helping children resume their education amid the devastation of the war, SPA has reported. \n\n\tThe school, supported by the King Salman Humanitarian Aid a",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654157/saudi-arabia",
+          "published_at": "Tue, 11 Aug 2026 02:08:54 +03",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "dG9pLWNoYXRncHQtd2FzLWRv",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -6237,7 +6287,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 9542,
+    "build_ms": 9917,
     "ai_enabled": true
   }
 }
