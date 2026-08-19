@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-19T19:23:58.492Z",
-  "total_articles": 298,
-  "new_this_run": 24,
+  "last_updated": "2026-08-19T19:47:17.264Z",
+  "total_articles": 308,
+  "new_this_run": 38,
   "sources": [
     {
       "id": "techcrunch",
@@ -50,7 +50,7 @@
           "source_category": "Tech Media",
           "feed_label": "Latest",
           "title": "Researchers say OpenAI revoked their access to limited cyber program",
-          "summary": "Multiple cybersecurity researchers said they suddenly lost access to OpenAI’s Trusted Access for Cyber (TAC) program, which offers models with fewer guardrails for vetted users.",
+          "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
           "published_at": "Wed, 19 Aug 2026 18:46:14 +0000",
@@ -284,6 +284,22 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "d2lyZWQtaS1zYXctdGhlLWZ1",
+          "source_id": "wired",
+          "source_name": "Wired",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+          "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
+          "image_url": "https://media.wired.com/photos/6a85e8ea4518d27679a9b132/master/pass/AI-Lab-Very-Clever-Robot-Creeped-Me-Out-Business.jpg",
+          "article_url": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+          "published_at": "Wed, 19 Aug 2026 19:30:00 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "d2lyZWQtY29kZXJzLXNheS10",
           "source_id": "wired",
           "source_name": "Wired",
@@ -377,20 +393,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "d2lyZWQtd2UtYm91Z2h0LWEt",
-          "source_id": "wired",
-          "source_name": "Wired",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "We Bought a $500 Counterfeit Rolex So Good, Even Rolex Didn’t Spot It",
-          "summary": "The replica watch industry is in its “super clone” era. Following tips from murky internet forums, we bought three budget fakes that were good enough to pass as real—but ultimately disposable.",
-          "image_url": "https://media.wired.com/photos/6a856d54b020a80ae2fcece6/master/pass/081826_Fake-Rolex.gif",
-          "article_url": "https://www.wired.com/story/we-bought-a-counterfeit-rolex-so-good-even-rolex-didnt-spot-it/",
-          "published_at": "Wed, 19 Aug 2026 10:45:00 +0000",
-          "cross_sections": []
         }
       ]
     },
@@ -577,20 +579,6 @@
           ]
         },
         {
-          "id": "emRuZXQtaSd2ZS10ZXN0ZWQt",
-          "source_id": "zdnet",
-          "source_name": "ZDNet",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "I've tested dozens of rugged smartwatches - this one's battery is on a different level",
-          "summary": "The Suunto Core 2 provides key outdoor metrics, storm alerts, and up to 15 months of battery life.",
-          "image_url": null,
-          "article_url": "https://www.zdnet.com/article/suunto-core-2-review/",
-          "published_at": "Wed, 19 Aug 2026 16:01:00 GMT",
-          "cross_sections": []
-        },
-        {
           "id": "emRuZXQtaS1yZXBsYWNlZC1t",
           "source_id": "zdnet",
           "source_name": "ZDNet",
@@ -605,6 +593,20 @@
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "emRuZXQtaSd2ZS10ZXN0ZWQt",
+          "source_id": "zdnet",
+          "source_name": "ZDNet",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "I've tested dozens of rugged smartwatches - this one's battery is on a different level",
+          "summary": "The Suunto Core 2 provides key outdoor metrics, storm alerts, and up to 15 months of battery life.",
+          "image_url": null,
+          "article_url": "https://www.zdnet.com/article/suunto-core-2-review/",
+          "published_at": "Wed, 19 Aug 2026 16:01:00 GMT",
+          "cross_sections": []
         },
         {
           "id": "emRuZXQtcGl4ZWwtMTEteGwt",
@@ -1057,17 +1059,34 @@
       "category": "Tech Media",
       "articles": [
         {
-          "id": "Y25iY3RlY2gtbWFydmVsbC1w",
+          "id": "Y25iY3RlY2gtb3BlbmFpLSd3",
           "source_id": "cnbctech",
           "source_name": "CNBC Technology",
           "source_region": "IT Focus",
           "source_category": "Tech Media",
           "feed_label": "Technology",
-          "title": "Marvell pops 8% on AI chip deal that lets Google buy up to $12.2 billion in shares",
+          "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
+          "summary": "In an all hands meeting, Friar told employees not worry about rival Anthropic's IPO timeline.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
+          "published_at": "Wed, 19 Aug 2026 19:44:25 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "Y25iY3RlY2gtbWFydmVsbCdz",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Marvell's stock pops 8% on AI chip deal that lets Google buy up to $12.2 billion in shares",
           "summary": "Google and its competitors have been pursuing custom chips to improve efficiency and reduce reliance on Nvidia.",
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
-          "published_at": "Wed, 19 Aug 2026 17:34:35 GMT",
+          "published_at": "Wed, 19 Aug 2026 19:44:04 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -1164,22 +1183,6 @@
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/08/18/meta-attorneys-general-opening-arguments-california-bonta-restitution.html",
           "published_at": "Wed, 19 Aug 2026 01:34:22 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iY3RlY2gtamltLWNyYW1l",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Jim Cramer says the market is too negative — and that’s creating buying opportunities",
-          "summary": "CNBC’s Jim Cramer said widespread pessimism over rising rates, oil prices and inflation is pushing stocks lower and creating attractive buying opportunities.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/18/jim-cramer-market-too-negative-buying-opportunities.html",
-          "published_at": "Tue, 18 Aug 2026 22:23:36 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -1755,20 +1758,6 @@
       "category": "Broadcaster",
       "articles": [
         {
-          "id": "Y25uLXRydW1wLXBsZWFkcy1u",
-          "source_id": "cnn",
-          "source_name": "CNN",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Trump pleads not guilty to 34 felony counts",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-08-19T19:23:49.892Z",
-          "cross_sections": []
-        },
-        {
           "id": "Y25uLXJlYWQ6LXRydW1wLWlu",
           "source_id": "cnn",
           "source_name": "CNN",
@@ -1779,7 +1768,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-08-19T19:23:49.892Z",
+          "published_at": "2026-08-19T19:47:04.768Z",
           "cross_sections": []
         },
         {
@@ -1793,7 +1782,21 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-08-19T19:23:49.892Z",
+          "published_at": "2026-08-19T19:47:04.768Z",
+          "cross_sections": []
+        },
+        {
+          "id": "Y25uLXRydW1wLXBsZWFkcy1u",
+          "source_id": "cnn",
+          "source_name": "CNN",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Trump pleads not guilty to 34 felony counts",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
+          "published_at": "2026-08-19T19:47:04.767Z",
           "cross_sections": []
         },
         {
@@ -2105,6 +2108,23 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "Y25iYy1vcGVuYWktJ3dpbGwt",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
+          "summary": "In an all hands meeting, Friar told employees not worry about rival Anthropic's IPO timeline.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
+          "published_at": "Wed, 19 Aug 2026 19:44:25 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "Y25iYy15aWVsZHMtcHVsbC1i",
           "source_id": "cnbc",
           "source_name": "CNBC",
@@ -2207,20 +2227,6 @@
           ]
         },
         {
-          "id": "Y25iYy10cmVhc3VyeS1kb3Vi",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Treasury doubles debt buybacks as Bessent moves to steady bond market",
-          "summary": "The announcement targets the sensitive longer-duration part of the Treasury market.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
-          "published_at": "Wed, 19 Aug 2026 15:12:28 GMT",
-          "cross_sections": []
-        },
-        {
           "id": "Y25iYy1yZXRhaWwtaW52ZXN0",
           "source_id": "cnbc",
           "source_name": "CNBC",
@@ -2320,6 +2326,22 @@
       "region": "North America",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "Zm94LTUtYW1lcmljYW5zLWtp",
+          "source_id": "fox",
+          "source_name": "Fox News",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "5 Americans killed in helicopter crash in Kenya, including Telemundo executive",
+          "summary": "Five Americans were killed when a charter helicopter carrying seven people crashed in a mountainous region of northern Kenya.",
+          "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/helicopter-kenya-2.jpg?ve=1&tl=1",
+          "article_url": "https://www.foxnews.com/world/5-americans-killed-helicopter-crash-kenya-including-telemundo-executive",
+          "published_at": "Wed, 19 Aug 2026 15:40:17 -0400",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "Zm94LWN1YmHigJlzLWVjb25v",
           "source_id": "fox",
@@ -2438,22 +2460,6 @@
           "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/oldest-iberian-orca-toni-shotgun-pellet-wounds.jpg?ve=1&tl=1",
           "article_url": "https://www.foxnews.com/world/one-worlds-oldest-orca-whales-found-possible-shotgun-wounds-officials-launch-investigation",
           "published_at": "Mon, 17 Aug 2026 21:00:41 -0400",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Zm94LWt1c2huZXItZ2l2ZXMt",
-          "source_id": "fox",
-          "source_name": "Fox News",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Kushner gives Hamas stark ultimatum: Disarm or Israel gets US backing to ‘finish the job’",
-          "summary": "Jared Kushner warned Hamas it must disarm within 60 to 90 days or face Israel finishing the job, following a rare face-to-face meeting in Cairo.",
-          "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/jared-kushner-board-peace-washington-fox-news-001.jpeg?ve=1&tl=1",
-          "article_url": "https://www.foxnews.com/world/kushner-gives-hamas-stark-ultimatum-disarm-israel-gets-us-backing-finish-job",
-          "published_at": "Mon, 17 Aug 2026 19:00:43 -0400",
           "cross_sections": [
             "tech"
           ]
@@ -2952,7 +2958,7 @@
           "source_category": "Newspaper",
           "feed_label": "Technology",
           "title": "Did someone wearing Meta Glasses film you today? Are you sure?",
-          "summary": "People say they’ve been secretly filmed in their own home, at concerts and at work. Are the wildly popular smartglasses the final nail in the coffin of personal privacy? \n“I’ve had one person who told me that their intentions were creepy,” a man tells me over a video call, on condition of anonymity.",
+          "summary": "People say they’ve been secretly filmed in their own homes, at concerts and at work. Are the wildly popular smartglasses the final nail in the coffin of personal privacy?\n“I’ve had one person who told me that their intentions were creepy,” a man tells me over a video call, on condition of anonymity.",
           "image_url": "https://i.guim.co.uk/img/media/ad85a9abed95abdd431f53ef872369fb0344b714/0_54_2400_1919/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=5b8410b22af6ad43b4a51beab204d0e7",
           "article_url": "https://www.theguardian.com/technology/ng-interactive/2026/aug/19/meta-glasses-privacy-surveillance",
           "published_at": "Wed, 19 Aug 2026 14:13:08 GMT",
@@ -3344,6 +3350,54 @@
           ]
         },
         {
+          "id": "ZXVyb25ld3MtZWNiLXVudmVp",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "ECB unveils new banknote designs with a defiant message: Don't count cash out yet",
+          "summary": "With cashless payments on the rise, and a growing belief that cash is being replaced by the digital euro, the European Central Bank (ECB) is introducing new banknotes carrying a clear message to citizens: cash is here to stay.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/72/40/696x392_cmsv2_b786868c-374f-5609-b42f-e3a94c41174c-9877240.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/19/ecb-unveils-new-banknote-designs-with-a-defiant-message-dont-count-cash-out-yet",
+          "published_at": "Wed, 19 Aug 2026 16:23:14 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3Mtd2hvLWlzLWF1",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Who is automotive giant Stellantis and why did it recall nearly 1 million cars?",
+          "summary": "The world's fourth-largest carmaker is recalling nearly 1 million vehicles — its third major safety campaign this year.",
+          "image_url": "https://images.euronews.com/articles/stories/09/88/08/58/696x392_cmsv2_3951c38e-00f0-56d3-b070-fbc09a8faeee-9880858.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/19/who-is-automotive-giant-stellantis-and-why-did-it-recall-nearly-1-million-cars",
+          "published_at": "Wed, 19 Aug 2026 16:15:48 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3Mtc2VjLXVudmVp",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "SEC unveils new crypto rules hailed as a win for the digital asset industry",
+          "summary": "The US Securities and Exchange Commission has proposed a sweeping new framework for crypto assets, offering firms two clear paths to raise money without full securities registration. Industry groups have broadly welcomed the plan, calling its terms considerably more generous than anticipated.",
+          "image_url": "https://images.euronews.com/articles/stories/09/88/03/37/696x392_cmsv2_f79a2206-2a46-593a-bf74-1102d4ebb32a-9880337.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/19/sec-unveils-new-crypto-rules-hailed-as-a-win-for-the-digital-asset-industry",
+          "published_at": "Wed, 19 Aug 2026 16:11:22 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "ZXVyb25ld3MtdWFlLWhhbHRz",
           "source_id": "euronews",
           "source_name": "Euronews",
@@ -3388,6 +3442,67 @@
           "article_url": "http://www.euronews.com/video/2026/08/19/neon-lights-and-lanterns-glow-in-new-hikari-area-at-tivoli-denmark",
           "published_at": "Wed, 19 Aug 2026 15:35:18 +0200",
           "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3Mtb3BlbmFpLXBs",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "OpenAI pledges to slow down its model development amid cybersecurity concerns",
+          "summary": "OpenAI announced it has paused key stages of its most advanced AI training for two weeks and is overhauling security across its research operations, a month after one of its own models broke out of a test environment and infiltrated the systems of AI platform Hugging Face.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/99/96/696x392_cmsv2_eec56627-39f4-5fab-ac20-dbd45fbb6f84-9879996.jpg",
+          "article_url": "http://www.euronews.com/next/2026/08/19/openai-pledges-to-slow-down-its-model-development-amid-cybersecurity-concerns",
+          "published_at": "Wed, 19 Aug 2026 10:40:15 +0200",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3Mtd2hlcmUtYXJl",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Where are Portugal's priciest homes? Cascais leads with prices of €4.35mn",
+          "summary": "From Cascais to the Algarve, Portugal's priciest addresses cluster along the coast, while the capital is conspicuously absent.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/81/20/696x392_cmsv2_ce05a83d-7c35-57e3-aba6-06eb657f8234-9878120.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/19/where-are-portugals-priciest-homes-cascais-leads-with-prices-of-435-million",
+          "published_at": "Wed, 19 Aug 2026 08:34:49 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtY29tbWVyemJh",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Commerzbank, German resistance wanes: UniCredit nears deal, what could change",
+          "summary": "UniCredit eyes control of Commerzbank as Berlin opens the door on its 12.7% stake. What it means for Italy, Germany and European banks",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/95/25/696x392_cmsv2_1c7697e9-7b91-5bbd-919d-c0450cad2988-9879525.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/18/commerzbank-german-resistance-wanes-unicredit-nears-deal-what-could-change",
+          "published_at": "Tue, 18 Aug 2026 19:23:59 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtbWlkbmlnaHQt",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Midnight showdown looms as US and Canada meet to sidestep Trump’s tariff blitz",
+          "summary": "The US and Canada are locked in last-minute talks to prevent a fresh wave of tariffs from striking at 00:01 ET on Wednesday. US President Donald Trump has vowed to slap 50% duties on $20 billion (€17.2bn) worth of Canadian products if a deal is not reached in time.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/91/56/696x392_cmsv2_46e8ceaa-0708-59a5-8e54-b2178c8241b7-9879156.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/18/midnight-showdown-looms-as-us-and-canada-meet-to-sidestep-trumps-tariff-blitz",
+          "published_at": "Tue, 18 Aug 2026 16:51:57 +0200",
+          "cross_sections": []
         }
       ]
     },
@@ -3397,6 +3512,22 @@
       "region": "Europe",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "ZHctY2V1dGE6LW1hZHJpZC10",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Ceuta: Madrid to transfer 500 vulnerable youths to mainland",
+          "summary": "Spanish officials have come up with a plan to transfer unaccompanied youth in the exclave Ceuta to mainland Spain. Mostly girls, they will be placed in foster homes as well as under government care.",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/ceuta-madrid-to-transfer-500-vulnerable-youths-to-mainland/a-78437405?maca=en-rss-en-top-1022-xml-mrss",
+          "published_at": "Wed, 19 Aug 2026 19:23:00 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "ZHctbGliZXJpYS1zYXlzLWl0",
           "source_id": "dw",
@@ -3501,20 +3632,6 @@
           "image_url": null,
           "article_url": "https://www.dw.com/en/germany-s-rusting-sea-munitions-are-a-toxic-time-bomb/a-78419545?maca=en-rss-en-top-1022-xml-mrss",
           "published_at": "Wed, 19 Aug 2026 13:10:00 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "ZHctYW1pZC1leHRyZW1lLWhl",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Amid extreme heat, water grows scarce around Berlin",
-          "summary": "Though the German state of Brandenburg that wraps around Berlin is getting drier, it is also home to thirsty industrial plants such as Tesla and Red Bull. Is there enough water to go around?",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/amid-extreme-heat-water-grows-scarce-around-berlin/a-78428993?maca=en-rss-en-top-1022-xml-mrss",
-          "published_at": "Wed, 19 Aug 2026 12:10:00 GMT",
           "cross_sections": []
         },
         {
@@ -3962,108 +4079,120 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dGhlaGluZHUtcHJvdGVzdC1v",
+          "id": "dGhlaGluZHUtaW5kaWEtdG8t",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Protest over hotel licence rejection: FIR registered against seven in Bengaluru",
-          "summary": "The FIR states that on August 18, between 12 noon and 2.30 p.m., one Santosh and six others gathered near the gate in front of the Corporation Commissioner’s office at Byatarayanapura and staged a protest.",
-          "image_url": "https://th-i.thgim.com/public/incoming/rzr77k/article71366631.ece/alternates/LANDSCAPE_1200/IMG_iStock-1249181745_2_1_209E4IOT.jpg",
-          "article_url": "https://www.thehindu.com/news/national/karnataka/protest-over-hotel-licence-rejection-fir-registered-against-seven-in-bengaluru/article71364307.ece",
-          "published_at": "Thu, 20 Aug 2026 00:47:03 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUta2FybmF0YWth",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Karnataka State Human Rights Commission team visits Hanur to probe death of three suspected poachers",
-          "summary": "The team, led by Deputy Superintendent of Police Ashwath Narayana, has been tasked with conducting a detailed inquiry and submitting a report following the suo motu case registered by the SHRC.",
-          "image_url": "https://th-i.thgim.com/public/incoming/om69t/article71366623.ece/alternates/LANDSCAPE_1200/PTI08_15_2026_000835B.jpg",
-          "article_url": "https://www.thehindu.com/news/national/karnataka/karnataka-state-human-rights-commission-team-visits-hanur-to-probe-death-of-three-suspected-poachers/article71365431.ece",
-          "published_at": "Thu, 20 Aug 2026 00:46:55 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtYmVuZ2FsdXJ1",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Bengaluru: Lorry cleaner stabbed to death over drinking water dispute",
-          "summary": "The deceased has been identified as Barkat, a native of Andhra Pradesh.",
-          "image_url": "https://th-i.thgim.com/public/incoming/9fvc7o/article71365973.ece/alternates/LANDSCAPE_1200/iStock-1401717334%203.jpg",
-          "article_url": "https://www.thehindu.com/news/national/karnataka/bengaluru-lorry-cleaner-stabbed-to-death-over-drinking-water-dispute/article71364330.ece",
-          "published_at": "Thu, 20 Aug 2026 00:46:47 +0530",
+          "title": "India to build hospital in West Bank; seeks to deploy field hospital in Gaza",
+          "summary": "Palestinian ambassador calls for halting illegal Israeli settlements in West Bank",
+          "image_url": "https://th-i.thgim.com/public/incoming/8cvwic/article71366655.ece/alternates/LANDSCAPE_1200/HQFmXuEWoAA14NE.jpg",
+          "article_url": "https://www.thehindu.com/news/national/india-to-build-hospital-in-west-bank-seeks-to-deploy-field-hospital-in-gaza/article71366004.ece",
+          "published_at": "Thu, 20 Aug 2026 01:11:25 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUtbWVkaWNhbC1w",
+          "id": "dGhlaGluZHUt4oCLZHVlLWRp",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Medical procurement scam files destroyed, claims AAP",
+          "title": "​Due diligence: On surrogate advertising",
+          "summary": "Curbs on surrogate advertising must avoid regulatory overreach",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/opinion/editorial/due-diligence-on-surrogate-advertising/article71365211.ece",
+          "published_at": "Thu, 20 Aug 2026 01:10:42 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUt4oCLdm90ZS1v",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "​Vote of trust: On Trump’s appreciation, clean electoral rolls in India",
+          "summary": "Clean electoral rolls are a must, but must not be weaponised by state",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/opinion/editorial/vote-of-trust-on-trumps-appreciation-clean-electoral-rolls-in-india/article71365179.ece",
+          "published_at": "Thu, 20 Aug 2026 01:07:30 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtYWNiLWZpbmRz",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "ACB finds irregularities in Karimnagar civic body town planning section",
           "summary": "",
           "image_url": null,
-          "article_url": "https://www.thehindu.com/news/cities/Delhi/medical-procurement-scam-files-destroyed-claims-aap/article71366632.ece",
-          "published_at": "Thu, 20 Aug 2026 00:46:02 +0530",
+          "article_url": "https://www.thehindu.com/news/national/telangana/acb-finds-irregularities-in-karimnagar-civic-body-town-planning-section/article71364475.ece",
+          "published_at": "Thu, 20 Aug 2026 01:05:04 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtbWFoYXRtYS1n",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Mahatma Gandhi Cancer Hospital completes 300 Bone Marrow Transplants",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/cities/Visakhapatnam/mahatma-gandhi-cancer-hospital-completes-300-bone-marrow-transplants/article71365618.ece",
+          "published_at": "Thu, 20 Aug 2026 01:03:05 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtY3liZXJhYmFk",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Cyberabad police recover ₹1 crore lost in ‘boss impersonation’ scam",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/national/telangana/cyberabad-police-recover-1-crore-lost-in-boss-impersonation-scam/article71364671.ece",
+          "published_at": "Thu, 20 Aug 2026 01:02:05 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtd29ybGQtcGhv",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "World Photography Day: GVMC Commissioner inaugurates photo exhibition",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/v79mh1/article71366601.ece/alternates/LANDSCAPE_1200/DSC_7002.JPG",
+          "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/world-photography-day-gvmc-commissioner-inaugurates-photo-exhibition/article71366180.ece",
+          "published_at": "Thu, 20 Aug 2026 01:00:58 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtdGFtaWwtbmFk",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Tamil Nadu Premier League | Trichy Grand Cholas batters redeem themselves",
+          "summary": "After being bundled out for 85 by Kovai Kings at Dindigul, the team piles up 197 against Dragons; the total proves enough as Antony and Easwaran help secure a much-needed victory",
+          "image_url": "https://th-i.thgim.com/public/incoming/66tig3/article71366640.ece/alternates/LANDSCAPE_1200/4871_19_8_2026_21_46_25_1_DSC_0161.JPG",
+          "article_url": "https://www.thehindu.com/sport/cricket/trichy-grand-cholas-batters-redeem-themselves/article71366639.ece",
+          "published_at": "Thu, 20 Aug 2026 01:00:39 +0530",
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "dGhlaGluZHUtY25nLWN5bGlu",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "CNG cylinder blast at filling station near Tikri Metro kills three",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/cities/Delhi/cng-cylinder-blast-at-filling-station-near-tikri-metro-kills-three/article71366426.ece",
-          "published_at": "Thu, 20 Aug 2026 00:42:37 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtcGVuc2lvbi1p",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Pension income ceiling enhanced to ₹1.20 lakh, set to benefit over 20 lakh people",
-          "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/xy70dd/article71366626.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-19%20at%2014.02.04A.JPEG",
-          "article_url": "https://www.thehindu.com/news/national/karnataka/pension-income-ceiling-enhanced-to-120-lakh-set-to-benefit-over-20-lakh-people/article71365784.ece",
-          "published_at": "Thu, 20 Aug 2026 00:42:20 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtaGFyaXByYXNh",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Hariprasad urges SIT probe into cooperative bank irregularities involving BJP MLA",
-          "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/t4yjq9/article71366621.ece/alternates/LANDSCAPE_1200/Hariprasad-dareGGRFHPCRB.3.jpg.jpg",
-          "article_url": "https://www.thehindu.com/news/national/karnataka/hariprasad-urges-sit-probe-into-cooperative-bank-irregularities-involving-bjp-mla/article71366043.ece",
-          "published_at": "Thu, 20 Aug 2026 00:39:37 +0530",
-          "cross_sections": []
         },
         {
           "id": "dGhlaGluZHUtY2FuLWdvb2ds",
@@ -4319,6 +4448,126 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "bmR0di1ydXNzaWEsLXVrcmFp",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Russia, Ukraine Exchange 103 Captured Soldiers Each",
+          "summary": "Russia-Ukraine War: Prisoner exchanges and repatriations of soldiers' remains have been among the few areas of cooperation between Russia and Ukraine since Moscow launched its offensive in February 2022.",
+          "image_url": "https://c.ndtvimg.com/2026-07/32rk7ja8_russia-ukraine-war_625x300_30_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/world-news/russia-ukraine-exchange-103-captured-soldiers-each-11933152#publisher=newsstand",
+          "published_at": "Thu, 20 Aug 2026 01:05:03 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1jb25ncmVzcy1maXJt",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Congress Firm On 2-Stanza Vande Mataram, BJP Terms Party \"Muslim League\"",
+          "summary": "Congress Working Committee today decided to follow its 1937 resolution that only the first two stanzas of Vande Mataram will be sung at party events.",
+          "image_url": "https://c.ndtvimg.com/2026-08/8u2vhsf4_1_625x300_15_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/india-news/congress-firm-on-2-stanza-vande-mataram-bjp-questions-loyalty-to-country-11933094#publisher=newsstand",
+          "published_at": "Thu, 20 Aug 2026 00:46:48 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "bmR0di10b3VyaXN0cy10aHJh",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Tourists Thrashed, Harassed For 2 Hours Over 8-Year-Old's Shorts At Pune Fort",
+          "summary": "Pune's Haveli Police have registered a case against nine individuals for assaulting tourists over their clothes at the Sinhagad Fort and intimidating people for two hours on August 16 - a day after India celebrated its 80th Independence Day.",
+          "image_url": "https://c.ndtvimg.com/2026-08/2ter3u44_pune-fort-tourist_625x300_19_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/india-news/tourists-including-8-year-old-girl-thrashed-over-wearing-shorts-at-pune-fort-11931083#publisher=newsstand",
+          "published_at": "Thu, 20 Aug 2026 00:45:12 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1wYWstdGlrdG9rZXIt",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Pak TikToker With Over 1.3 Million Followers Shot Dead In Car Near Islamabad",
+          "summary": "Police have arrested at least four suspects, including two men accused of helping the alleged gunman escape, ARY News reported on Monday.",
+          "image_url": "https://c.ndtvimg.com/2026-08/fp2de94o_shamso-bibi_625x300_19_August_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/world-news/pakistan-tiktoker-shamso-bibi-with-over-1-3-million-followers-shot-dead-in-car-near-islamabad-11932387#publisher=newsstand",
+          "published_at": "Thu, 20 Aug 2026 00:44:37 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "bmR0di1mYWtlLC1leHBpcmVk",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Fake, Expired Medicines Worth Rs 5 Crore Seized Repacking Unit In Bengaluru",
+          "summary": "According to the FDA, the operators were procuring lower-cost medicines from other states and allegedly filling them into new vials before relabelling them to resemble expensive multinational and imported drug brands.",
+          "image_url": "https://c.ndtvimg.com/2022-11/oot8t25k_police-generic_625x300_07_November_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/india-news/fake-expired-medicines-worth-rs-5-crore-seized-repacking-unit-in-bengaluru-11932451#publisher=newsstand",
+          "published_at": "Thu, 20 Aug 2026 00:43:51 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "bmR0di1mbHllcnMtZmFjZS1i",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Flyers Face Booking Issues For Some Time After IndiGo Website Hit By Snag",
+          "summary": "Several flyers posted messages on social media that they were unable to book tickets through the IndiGo website, which showed a \"no data available\" message to those who were looking for flights.",
+          "image_url": "https://c.ndtvimg.com/2025-08/5vb4qh3_indigo_625x300_06_August_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/india-news/indigo-website-briefly-hit-by-technical-snag-flyers-face-booking-outage-11933119#publisher=newsstand",
+          "published_at": "Thu, 20 Aug 2026 00:42:00 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1ycy0yMC1sYWtoLC1j",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Rs 20 Lakh, Chinese Stocks Bet: Money Trail Revealed In Twisha Sharma's Death",
+          "summary": "Twisha Sharma had a demat account containing equity investments with a market value of approximately Rs 20 lakh. After accused Samarth Singh and his mother Giribala Singh came to know about this, they allegedly pressured her to transfer the money.",
+          "image_url": "https://c.ndtvimg.com/2026-05/qe2giegc_image_160x120_23_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/india-news/rs-20-lakh-chinese-stocks-bet-money-trail-revealed-in-twisha-sharmas-death-11931734#publisher=newsstand",
+          "published_at": "Thu, 20 Aug 2026 00:40:43 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1ob3ctcGFrLWJhY2tl",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "How Pak-Backed Handler Shahzad Bhatti Built Online Terror Network",
+          "summary": "NDTV Datafy has analysed the \"Bhatti-verse\" of social media to understand how Bhatti built his vast online network and how he lures young Indians into terrorist activities.",
+          "image_url": "https://c.ndtvimg.com/2026-08/4p5e6svs_shahzad-bhatti_625x300_20_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/india-news/how-pak-backed-handler-shahzad-bhatti-built-online-terror-network-11933109#publisher=newsstand",
+          "published_at": "Thu, 20 Aug 2026 00:37:25 +0530",
+          "cross_sections": []
+        },
+        {
           "id": "bmR0di1hdC1sZWFzdC0yMy1r",
           "source_id": "ndtv",
           "source_name": "NDTV",
@@ -4349,58 +4598,12 @@
           ]
         },
         {
-          "id": "bmR0di1ub3Rlcy13aXRoLWR1",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Notes With Dubai Transfer Details Seized From Pinarayi Vijayan's Daughter",
-          "summary": "The probe agency went on to claim in a press statement that digital devices seized from her during these raids contained photo of a SIM card obtained in the name of some other person and this was purportedly used by her to make Internet-based calls.",
-          "image_url": "https://c.ndtvimg.com/2026-06/15hgp994_vijayan_625x300_09_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/notes-with-dubai-transfer-details-seized-from-pinarayi-vijayans-daughter-veena-t-11932768#publisher=newsstand",
-          "published_at": "Wed, 19 Aug 2026 22:40:37 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1vbi1jYW1lcmEsLW1h",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "On Camera, Man Drives Stolen JCB Through Police Barricades In Dramatic Chase",
-          "summary": "Videos showing the chase, with the JCB speeding past barricades, have since surfaced on social media and drawn attention from users online.",
-          "image_url": "https://c.ndtvimg.com/2026-08/df0fa5qo_jcb_625x300_19_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/odisha-ganjam-on-camera-man-drives-stolen-jcb-through-police-barricades-in-dramatic-chase-11932636#publisher=newsstand",
-          "published_at": "Wed, 19 Aug 2026 22:33:44 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "bmR0di1jZW50cmFsLWFnZW5j",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Central Agency Raids Jauhar University Linked to Azam Khan",
-          "summary": "The investigation is connected to the alleged diversion of government contract funds through private contractors",
-          "image_url": "https://c.ndtvimg.com/2026-08/2p5m9o4_azam-khan-jauhar-univercity_625x300_19_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/central-agency-raids-jauhar-university-linked-to-azam-khan-11932688#publisher=newsstand",
-          "published_at": "Wed, 19 Aug 2026 22:24:19 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bmR0di11a3JhaW5lLXByb2Jl",
           "source_id": "ndtv",
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Ukraine Probes Employees In Zelensky's Office Over $3.4-Million Fraud",
           "summary": "Inspectors identified a group of people who laundered 150 million hryvnias ($3.4 million) to pay bail for a defendant in a major corruption case last year, the National Anti-Corruption Bureau said.",
           "image_url": "https://c.ndtvimg.com/2025-03/uj54uh28_zelensky_625x300_03_March_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
@@ -4411,42 +4614,12 @@
           ]
         },
         {
-          "id": "bmR0di13b21hbi1jcml0aWNh",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Woman Critical After Doctors Leave Gloves, Wipes In Abdomen During C-Section",
-          "summary": "The Beed district surgeon has issued notices to the doctor and the staff who were involved in the surgical procedure.",
-          "image_url": "https://c.ndtvimg.com/2026-08/pqg3e38c_beed-woman-surgery_625x300_19_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/maharashtra-beed-woman-critical-after-doctors-leave-gloves-wipes-in-abdomen-during-c-section-11932666#publisher=newsstand",
-          "published_at": "Wed, 19 Aug 2026 22:20:13 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "bmR0di0iZ3JlYXRlci1sb2dp",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "\"Greater Logistics Efficiency\": PM Modi On New Railway, Highway Projects",
-          "summary": "PM Modi said a major boost has been given to railway infrastructure and connectivity across Andhra Pradesh, Odisha, Tamil Nadu and West Bengal.",
-          "image_url": "https://c.ndtvimg.com/2021-06/2dr9i44k_narendra-modi-wave-narendra-modi-india-flag-ndtv-file-photo_625x300_15_June_21.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/greater-logistics-efficiency-pm-modi-on-new-railway-highway-projects-11932638#publisher=newsstand",
-          "published_at": "Wed, 19 Aug 2026 22:14:16 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bmR0di1jaGluYS1iZWNvbWVz",
           "source_id": "ndtv",
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "China Becomes First Country To Successfully Land Reusable Rocket",
           "summary": "Although this marks China's first successful recovery on land, it is the second time the country has recovered a rocket stage, following a successful recovery on a sea platform in July.",
           "image_url": "https://c.ndtvimg.com/2026-08/o7he7vjk_zhuque3_625x300_19_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
@@ -4460,26 +4633,12 @@
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Trump To Meet Kim Jong Un This Year, Says North Korea Has 57 Nuclear Weapons",
           "summary": "Trump defended planning to meet Kim at the same time as the US president wages a war with Iran that he has justified on the grounds of preventing Tehran from getting the bomb.",
           "image_url": "https://c.ndtvimg.com/2026-08/52np2p4_donald-trump-kim-jong-un-meeting_625x300_19_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
           "article_url": "https://www.ndtv.com/world-news/trump-to-meet-kim-jong-un-this-year-says-north-korea-has-57-nuclear-weapons-11932616#publisher=newsstand",
           "published_at": "Wed, 19 Aug 2026 22:10:36 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "bmR0di1wYWstdGlrdG9rZXIt",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Pak TikToker With Over 1.3 Million Followers Shot Dead In Car Near Islamabad",
-          "summary": "Police have arrested at least four suspects, including two men accused of helping the alleged gunman escape, ARY News reported on Monday.",
-          "image_url": "https://c.ndtvimg.com/2026-08/fp2de94o_shamso-bibi_625x300_19_August_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/pakistan-tiktoker-shamso-bibi-with-over-1-3-million-followers-shot-dead-in-car-near-islamabad-11932387#publisher=newsstand",
-          "published_at": "Wed, 19 Aug 2026 21:21:22 +0530",
           "cross_sections": []
         },
         {
@@ -4520,6 +4679,20 @@
       "region": "Middle East & Africa",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "YWxqYXplZXJhLTU4Mi1za2Vs",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "582 skeletons, including children discovered in Sri Lanka mass grave",
+          "summary": "A Sri Lankan mass grave excavation has uncovered 582 skeletons, including babies and children.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/582-skeletons-including-children-discovered-in-sri-lanka-mass-grave?traffic_source=rss",
+          "published_at": "Wed, 19 Aug 2026 19:26:58 +0000",
+          "cross_sections": []
+        },
         {
           "id": "YWxqYXplZXJhLXByb3Rlc3Rz",
           "source_id": "aljazeera",
@@ -4565,13 +4738,13 @@
           "cross_sections": []
         },
         {
-          "id": "YWxqYXplZXJhLXphbWJpYW4t",
+          "id": "YWxqYXplZXJhLXphbWJpYS1v",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
           "source_region": "Middle East & Africa",
           "source_category": "Broadcaster",
           "feed_label": "All News",
-          "title": "Zambian opposition leader to challenge election result in ⁠court",
+          "title": "Zambia opposition leader to challenge Hichilema election victory in court",
           "summary": "Opposition leader claims 'serious irregularities' in the vote that handed President Hakainde Hichilema a second term.",
           "image_url": null,
           "article_url": "https://www.aljazeera.com/news/2026/8/19/zambian-opposition-leader-to-challenge-election-result-in-%e2%81%a0court?traffic_source=rss",
@@ -4619,25 +4792,11 @@
           "source_region": "Middle East & Africa",
           "source_category": "Broadcaster",
           "feed_label": "All News",
-          "title": "Kennedy Center board says it won’t try to immediately restore Trump’s name",
+          "title": "Kennedy Center agrees not to restore Trump’s name before September 8",
           "summary": "Opponents argue the venue seems 'intent on defying' a court order to remove the US president's name from the building.",
           "image_url": null,
           "article_url": "https://www.aljazeera.com/news/2026/8/19/kennedy-center-board-says-it-wont-try-to-immediately-restore-trumps-name?traffic_source=rss",
           "published_at": "Wed, 19 Aug 2026 18:06:55 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLWJyYXppbC1i",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Brazil bus crash kills at least 23 and injures five in Parana state",
-          "summary": "The bus was travelling to hospitals near Curitiba when the accident occurred.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/8/19/brazil-bus-crash-kills-at-least-23-and-injures-five-in-parana-state?traffic_source=rss",
-          "published_at": "Wed, 19 Aug 2026 17:54:37 +0000",
           "cross_sections": []
         }
       ]
@@ -4649,127 +4808,128 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "YXJhYm5ld3MtYmlyZC1mbHUt",
+          "id": "YXJhYm5ld3MtZmluYWwtZWxl",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Bird flu kills 13,000 seal pups on remote Australian island",
-          "summary": "SYDNEY: A pathogenic strain of bird flu killed more than 13,000 elephant seal pups after infecting a breeding colony on a sub-Antarctic volcanic island, Australian scientists said Thursday.\n\tResearchers found the remote Heard and McDonald Islands littered with seal carcasses when they arrived on a r",
+          "title": "Final election phase begins in Pakistan-administered Kashmir despite banned group’s boycott call",
+          "summary": "MUZAFFARABAD, Pakistan: Voters went to the polls Monday in the final phase of elections for the legislative assembly in Pakistan-administered Kashmir, following weeks of violent protests and clashes with security forces that overshadowed campaigning in the disputed Himalayan region, officials said.\n",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647655/offbeat",
-          "published_at": "Thu, 18 Jun 2026 10:06:51 +03",
+          "article_url": "https://www.arabnews.com/node/2654152/world",
+          "published_at": "Tue, 11 Aug 2026 12:08:09 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtcmVjaXBlcy1m",
+          "id": "YXJhYm5ld3MtZW5yb2xsbWVu",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Recipes for Success: Chef Robert Tsitaishvili talks simplicity, salt, and stories",
-          "summary": "DUBAI: Robert Tsitaishvili is the head chef of Qartuli, a Georgian restaurant in Downtown Dubai, where his goal, he says, is “to reinterpret Georgian culinary heritage for a contemporary audience.” \n\n\tTsitaishvili has more than 12 years of experience spanning hotels and restaurants across Georgia an",
+          "title": "Enrollment begins at Saudi-backed school for Gaza children",
+          "summary": "GAZA STRIP: Registration has opened for students seeking to enroll at Makkah School in the southern Gaza Strip, a Saudi-backed initiative aimed at helping children resume their education amid the devastation of the war, SPA has reported. \n\n\tThe school, supported by the King Salman Humanitarian Aid a",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647653/lifestyle",
-          "published_at": "Thu, 18 Jun 2026 10:06:49 +03",
+          "article_url": "https://www.arabnews.com/node/2654157/saudi-arabia",
+          "published_at": "Tue, 11 Aug 2026 02:08:54 +03",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtdHJ1bXAtaW5z",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Trump insists Netanyahu relationship ‘very good’ despite Gaza rift",
+          "summary": "WASHINGTON, United States: President Donald Trump insisted on Monday that his relationship with Prime Minister Benjamin Netanyahu is “very good” despite the Israeli leader’s rejection of a US-led Gaza plan.\n\t“The relationship is very good,” Trump said in response to a shouted question from a journal",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654154/world",
+          "published_at": "Tue, 11 Aug 2026 01:08:46 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3Mtb2lsLWZhbGxz",
+          "id": "YXJhYm5ld3MtbGlieWHigJlz",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Oil falls to 3-1/2-month low after US, Iran sign ceasefire deal",
-          "summary": "BEIJING/SINGAPORE: Oil prices ​fell by more than $2 per barrel on Thursday after the US and Iran signed an interim agreement that ‌would end the Iran war, reopen the Strait of Hormuz and waive US sanctions on Tehran’s oil, boosting the oil supply outlook.\n\n\tBrent crude futures were down $2.14, or 2.",
+          "title": "Libya’s central bank chief resigns",
+          "summary": "TRIPOLI: The governor of Libya’s central bank, Naji Issa, has resigned without giving a reason, several reports said on Monday.\n\tPrivate TV channel Al-Ahrar said Issa had confirmed his resignation.\n\tIssa and vice-governor Miree Al-Barasee were appointed by Libya’s parliament, which is based in the e",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647650/business-economy",
-          "published_at": "Thu, 18 Jun 2026 10:06:46 +03",
+          "article_url": "https://www.arabnews.com/node/2654155/middle-east",
+          "published_at": "Tue, 11 Aug 2026 01:08:41 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3Mta2FuZS1kb3Vi",
+          "id": "YXJhYm5ld3MtdHJ1bXDigJlz",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Kane double fires England World Cup bid as Ronaldo’s Portugal stumble",
-          "summary": "LOS ANGELES, United States: England launched their World Cup bid with a rollercoaster 4-2 win against Croatia on Wednesday as Cristiano Ronaldo and Portugal stumbled to a draw against the Democratic Republic of Congo.\n\tIn an enthralling Group L game at the Texas home of the Dallas Cowboys NFL team, ",
+          "title": "Trump’s Gaza plan hinges on Hamas disarmament, Israeli withdrawals",
+          "summary": "JERUSALEM: Donald Trump’s latest plan to end the Gaza war calls on Hamas to ‌lay down its arms as Israel withdraws from the territory, terms endorsed by the militants but rejected by Israel, which says it will not pull back until the group’s disarmament is complete.",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647651/sport",
-          "published_at": "Thu, 18 Jun 2026 10:06:26 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtbGluYS1naG90",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Lina Ghotmeh: ‘Being in AlUla, you start to understand all the beauty of the world’",
-          "summary": "ALULA: AlUla is no stranger to art. It is renowned as an “open-air natural museum” with 7,000 years of lived-in history. Even so, the upcoming AlUla Contemporary Art Museum, created as part of Saudi Vision 2030, is sure to be the talk of the town.",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647649/lifestyle",
-          "published_at": "Thu, 18 Jun 2026 10:06:11 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtYXVzdHJhbGlh",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Australia says net migration down as far-right popularity surges",
-          "summary": "SYDNEY: Australia’s immigration levels fell last year, official data showed on Thursday, as its center-left government seeks to combat an ascendent far-right riding a wave of public discontent over soaring housing prices and cost of living.\n\tNet overseas migration added 301,000 people to Australia’s",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647652/world",
-          "published_at": "Thu, 18 Jun 2026 10:06:08 +03",
+          "article_url": "https://www.arabnews.com/node/2654156/middle-east",
+          "published_at": "Tue, 11 Aug 2026 01:08:10 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtZGFpbHktdGVs",
+          "id": "YXJhYm5ld3MtY2FuLWFsLWJ1",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Daily Telegraph columnist argues Saudi Arabia should join G7",
-          "summary": "DUBAI: Saudi Arabia should be invited to join the Group of Seven nations as the organization adapts to a changing global order, according to a column published in the Daily Telegraph by former UK prime ministerial representative to Saudi Arabia Ken Costa.\n\n\tCosta argued that while the G7 was created",
+          "title": "Can Al-Burhan’s Sudanese national dialogue turn military gains into a political settlement?",
+          "summary": "LONDON: More than three years after Sudan descended into civil war, army chief Gen. Abdel Fattah Al-Burhan is pushing for a broad national dialogue aimed at rebuilding the country’s political institutions and laying the foundations for a civilian transition.\n\n\tTalks could begin as early as August, w",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647644/saudi-arabia",
-          "published_at": "Thu, 18 Jun 2026 09:06:26 +03",
+          "article_url": "https://www.arabnews.com/node/2654150/middle-east",
+          "published_at": "Mon, 10 Aug 2026 11:08:33 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtdHJ1bXAsLW5l",
+          "id": "YXJhYm5ld3MtZmlyZS1icmVh",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Trump, Netanyahu clash over Iran strategy and Lebanon ceasefire",
-          "summary": "DUBAI: American President Donald Trump and Israeli Prime Minister Benjamin Netanyahu have found themselves at odds over Iran, Lebanon and the course of ongoing negotiations in the Middle East according to The Washington Post.",
+          "title": "Fire breaks out at Libya’s Zawiya refinery",
+          "summary": "TRIPOLI: A fire broke out on Monday ​in a diesel tank at Libya’s Zawiya refinery days after the facility was hit by drone.\n\n\tThe circumstances of Monday's fire remained unknown, Brega Petroleum Marketing Company said in a statement.\n\tBrega is owned by state oil firm National Oil Corporation (NOC) an",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647647/middle-east",
-          "published_at": "Thu, 18 Jun 2026 09:06:00 +03",
+          "article_url": "https://www.arabnews.com/node/2654151/middle-east",
+          "published_at": "Mon, 10 Aug 2026 11:08:10 +03",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtdGVlbmFnZXIt",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Teenager dies trying to rescue swimmers at Alexandria beach",
+          "summary": "ALEXANDRIA: An 18-year-old man died while attempting to help rescue six people from drowning at El-Baitash beach in Alexandria, Egypt, on Saturday, local authorities said.\n\tThe Central Administration for Tourism and Resorts in Alexandria said on Sunday that the beach was among those closed to swimme",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654149/middle-east",
+          "published_at": "Mon, 10 Aug 2026 10:08:39 +03",
           "cross_sections": [
             "tech"
           ]
@@ -4885,7 +5045,7 @@
         {
           "id": "euronews",
           "name": "Euronews",
-          "count": 8
+          "count": 15
         },
         {
           "id": "dw",
@@ -4907,7 +5067,7 @@
         {
           "id": "thehindu",
           "name": "The Hindu",
-          "count": 14
+          "count": 15
         },
         {
           "id": "japantimes",
@@ -4917,7 +5077,7 @@
         {
           "id": "ndtv",
           "name": "NDTV",
-          "count": 13
+          "count": 15
         }
       ]
     },
@@ -4946,49 +5106,179 @@
       "icon": "💻",
       "articles": [
         {
-          "id": "dGhlaGluZHUtcHJvdGVzdC1v",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Protest over hotel licence rejection: FIR registered against seven in Bengaluru",
-          "summary": "The FIR states that on August 18, between 12 noon and 2.30 p.m., one Santosh and six others gathered near the gate in front of the Corporation Commissioner’s office at Byatarayanapura and staged a protest.",
-          "image_url": "https://th-i.thgim.com/public/incoming/rzr77k/article71366631.ece/alternates/LANDSCAPE_1200/IMG_iStock-1249181745_2_1_209E4IOT.jpg",
-          "article_url": "https://www.thehindu.com/news/national/karnataka/protest-over-hotel-licence-rejection-fir-registered-against-seven-in-bengaluru/article71364307.ece",
-          "published_at": "Thu, 20 Aug 2026 00:47:03 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUta2FybmF0YWth",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Karnataka State Human Rights Commission team visits Hanur to probe death of three suspected poachers",
-          "summary": "The team, led by Deputy Superintendent of Police Ashwath Narayana, has been tasked with conducting a detailed inquiry and submitting a report following the suo motu case registered by the SHRC.",
-          "image_url": "https://th-i.thgim.com/public/incoming/om69t/article71366623.ece/alternates/LANDSCAPE_1200/PTI08_15_2026_000835B.jpg",
-          "article_url": "https://www.thehindu.com/news/national/karnataka/karnataka-state-human-rights-commission-team-visits-hanur-to-probe-death-of-three-suspected-poachers/article71365431.ece",
-          "published_at": "Thu, 20 Aug 2026 00:46:55 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtbWVkaWNhbC1w",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Medical procurement scam files destroyed, claims AAP",
-          "summary": "",
+          "id": "Y25iY3RlY2gtb3BlbmFpLSd3",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
+          "summary": "In an all hands meeting, Friar told employees not worry about rival Anthropic's IPO timeline.",
           "image_url": null,
-          "article_url": "https://www.thehindu.com/news/cities/Delhi/medical-procurement-scam-files-destroyed-claims-aap/article71366632.ece",
-          "published_at": "Thu, 20 Aug 2026 00:46:02 +0530",
+          "article_url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
+          "published_at": "Wed, 19 Aug 2026 19:44:25 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "Y25iYy1vcGVuYWktJ3dpbGwt",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
+          "summary": "In an all hands meeting, Friar told employees not worry about rival Anthropic's IPO timeline.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
+          "published_at": "Wed, 19 Aug 2026 19:44:25 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "Y25iY3RlY2gtbWFydmVsbCdz",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Marvell's stock pops 8% on AI chip deal that lets Google buy up to $12.2 billion in shares",
+          "summary": "Google and its competitors have been pursuing custom chips to improve efficiency and reduce reliance on Nvidia.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
+          "published_at": "Wed, 19 Aug 2026 19:44:04 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Zm94LTUtYW1lcmljYW5zLWtp",
+          "source_id": "fox",
+          "source_name": "Fox News",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "5 Americans killed in helicopter crash in Kenya, including Telemundo executive",
+          "summary": "Five Americans were killed when a charter helicopter carrying seven people crashed in a mountainous region of northern Kenya.",
+          "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/helicopter-kenya-2.jpg?ve=1&tl=1",
+          "article_url": "https://www.foxnews.com/world/5-americans-killed-helicopter-crash-kenya-including-telemundo-executive",
+          "published_at": "Wed, 19 Aug 2026 15:40:17 -0400",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUt4oCLdm90ZS1v",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "​Vote of trust: On Trump’s appreciation, clean electoral rolls in India",
+          "summary": "Clean electoral rolls are a must, but must not be weaponised by state",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/opinion/editorial/vote-of-trust-on-trumps-appreciation-clean-electoral-rolls-in-india/article71365179.ece",
+          "published_at": "Thu, 20 Aug 2026 01:07:30 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1ydXNzaWEsLXVrcmFp",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Russia, Ukraine Exchange 103 Captured Soldiers Each",
+          "summary": "Russia-Ukraine War: Prisoner exchanges and repatriations of soldiers' remains have been among the few areas of cooperation between Russia and Ukraine since Moscow launched its offensive in February 2022.",
+          "image_url": "https://c.ndtvimg.com/2026-07/32rk7ja8_russia-ukraine-war_625x300_30_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/world-news/russia-ukraine-exchange-103-captured-soldiers-each-11933152#publisher=newsstand",
+          "published_at": "Thu, 20 Aug 2026 01:05:03 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdGFtaWwtbmFk",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Tamil Nadu Premier League | Trichy Grand Cholas batters redeem themselves",
+          "summary": "After being bundled out for 85 by Kovai Kings at Dindigul, the team piles up 197 against Dragons; the total proves enough as Antony and Easwaran help secure a much-needed victory",
+          "image_url": "https://th-i.thgim.com/public/incoming/66tig3/article71366640.ece/alternates/LANDSCAPE_1200/4871_19_8_2026_21_46_25_1_DSC_0161.JPG",
+          "article_url": "https://www.thehindu.com/sport/cricket/trichy-grand-cholas-batters-redeem-themselves/article71366639.ece",
+          "published_at": "Thu, 20 Aug 2026 01:00:39 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "d2lyZWQtaS1zYXctdGhlLWZ1",
+          "source_id": "wired",
+          "source_name": "Wired",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+          "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
+          "image_url": "https://media.wired.com/photos/6a85e8ea4518d27679a9b132/master/pass/AI-Lab-Very-Clever-Robot-Creeped-Me-Out-Business.jpg",
+          "article_url": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+          "published_at": "Wed, 19 Aug 2026 19:30:00 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZHctY2V1dGE6LW1hZHJpZC10",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Ceuta: Madrid to transfer 500 vulnerable youths to mainland",
+          "summary": "Spanish officials have come up with a plan to transfer unaccompanied youth in the exclave Ceuta to mainland Spain. Mostly girls, they will be placed in foster homes as well as under government care.",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/ceuta-madrid-to-transfer-500-vulnerable-youths-to-mainland/a-78437405?maca=en-rss-en-top-1022-xml-mrss",
+          "published_at": "Wed, 19 Aug 2026 19:23:00 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di10b3VyaXN0cy10aHJh",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Tourists Thrashed, Harassed For 2 Hours Over 8-Year-Old's Shorts At Pune Fort",
+          "summary": "Pune's Haveli Police have registered a case against nine individuals for assaulting tourists over their clothes at the Sinhagad Fort and intimidating people for two hours on August 16 - a day after India celebrated its 80th Independence Day.",
+          "image_url": "https://c.ndtvimg.com/2026-08/2ter3u44_pune-fort-tourist_625x300_19_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/india-news/tourists-including-8-year-old-girl-thrashed-over-wearing-shorts-at-pune-fort-11931083#publisher=newsstand",
+          "published_at": "Thu, 20 Aug 2026 00:45:12 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1mbHllcnMtZmFjZS1i",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Flyers Face Booking Issues For Some Time After IndiGo Website Hit By Snag",
+          "summary": "Several flyers posted messages on social media that they were unable to book tickets through the IndiGo website, which showed a \"no data available\" message to those who were looking for flights.",
+          "image_url": "https://c.ndtvimg.com/2025-08/5vb4qh3_indigo_625x300_06_August_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/india-news/indigo-website-briefly-hit-by-technical-snag-flyers-face-booking-outage-11933119#publisher=newsstand",
+          "published_at": "Thu, 20 Aug 2026 00:42:00 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5005,6 +5295,22 @@
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
           "published_at": "Wed, 19 Aug 2026 19:11:40 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1ycy0yMC1sYWtoLC1j",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Rs 20 Lakh, Chinese Stocks Bet: Money Trail Revealed In Twisha Sharma's Death",
+          "summary": "Twisha Sharma had a demat account containing equity investments with a market value of approximately Rs 20 lakh. After accused Samarth Singh and his mother Giribala Singh came to know about this, they allegedly pressured her to transfer the money.",
+          "image_url": "https://c.ndtvimg.com/2026-05/qe2giegc_image_160x120_23_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/india-news/rs-20-lakh-chinese-stocks-bet-money-trail-revealed-in-twisha-sharmas-death-11931734#publisher=newsstand",
+          "published_at": "Thu, 20 Aug 2026 00:40:43 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5100,7 +5406,7 @@
           "source_category": "Tech Media",
           "feed_label": "Latest",
           "title": "Researchers say OpenAI revoked their access to limited cyber program",
-          "summary": "Multiple cybersecurity researchers said they suddenly lost access to OpenAI’s Trusted Access for Cyber (TAC) program, which offers models with fewer guardrails for vetted users.",
+          "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
           "published_at": "Wed, 19 Aug 2026 18:46:14 +0000",
@@ -5110,13 +5416,13 @@
           ]
         },
         {
-          "id": "YWxqYXplZXJhLXphbWJpYW4t",
+          "id": "YWxqYXplZXJhLXphbWJpYS1v",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
           "source_region": "Middle East & Africa",
           "source_category": "Broadcaster",
           "feed_label": "All News",
-          "title": "Zambian opposition leader to challenge election result in ⁠court",
+          "title": "Zambia opposition leader to challenge Hichilema election victory in court",
           "summary": "Opposition leader claims 'serious irregularities' in the vote that handed President Hakainde Hichilema a second term.",
           "image_url": null,
           "article_url": "https://www.aljazeera.com/news/2026/8/19/zambian-opposition-leader-to-challenge-election-result-in-%e2%81%a0court?traffic_source=rss",
@@ -5319,22 +5625,6 @@
           ]
         },
         {
-          "id": "Y25iY3RlY2gtbWFydmVsbC1w",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Marvell pops 8% on AI chip deal that lets Google buy up to $12.2 billion in shares",
-          "summary": "Google and its competitors have been pursuing custom chips to improve efficiency and reduce reliance on Nvidia.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
-          "published_at": "Wed, 19 Aug 2026 17:34:35 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "dG9pLWZvcm1lci13cmVzdGxl",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -5415,22 +5705,6 @@
           ]
         },
         {
-          "id": "bmR0di1ub3Rlcy13aXRoLWR1",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Notes With Dubai Transfer Details Seized From Pinarayi Vijayan's Daughter",
-          "summary": "The probe agency went on to claim in a press statement that digital devices seized from her during these raids contained photo of a SIM card obtained in the name of some other person and this was purportedly used by her to make Internet-based calls.",
-          "image_url": "https://c.ndtvimg.com/2026-06/15hgp994_vijayan_625x300_09_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/notes-with-dubai-transfer-details-seized-from-pinarayi-vijayans-daughter-veena-t-11932768#publisher=newsstand",
-          "published_at": "Wed, 19 Aug 2026 22:40:37 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "dGhldmVyZ2Utb3BlbmFpLWhp",
           "source_id": "theverge",
           "source_name": "The Verge",
@@ -5478,118 +5752,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "dGhldmVyZ2UtZ3RhLXZpLWtl",
-          "source_id": "theverge",
-          "source_name": "The Verge",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "GTA VI keeps leaking ahead of its gameplay premiere",
-          "summary": "Clips of what appears to be Grand Theft Auto VI have hit the internet, possibly spoiling aspects of the game ahead of Rockstar Games' deep dive debuting on Netflix next week and its long-awaited launch in November.\nI've seen three clips seemingly showing off the game, though two have been pulled fro",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "article_url": "https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos",
-          "published_at": "2026-08-19T17:03:11.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhldmVyZ2UtbWV0YS1haS1p",
-          "source_id": "theverge",
-          "source_name": "The Verge",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Meta AI is getting a Mac app",
-          "summary": "Meta AI can create content and make suggestions based on what it “sees” on your screen. | Image: Meta\t\n\nMeta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questio",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MacApp_ScreenShare_0818.2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "article_url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-          "published_at": "2026-08-19T17:00:00.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLeKAmGNhbm5vdC1hZmZv",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "‘Cannot afford any mistake’: Harmanpreet rues India’s lapses despite Pakistan win",
-          "summary": "In a nail-biting showdown at the Hockey World Cup, India triumphed over Pakistan, much to the delight of fans. Captain Harmanpreet Singh highlighted essential defensive weaknesses that need addressing for the challenges ahead. With praises from the coach regarding the team's attacking strategy and c",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/cannot-afford-any-mistake-harmanpreet-singh-rues-indias-lapses-despite-pakistan-win/articleshow/133354197.cms",
-          "published_at": "Wed, 19 Aug 2026 22:25:28 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy1haS1kaWRu",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "AI didn’t ruin these films. It made them possible.",
-          "summary": "AI-generated films inspire plenty of skepticism. But what happens when the technology gives more artists a chance to create?",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/20/558387.jpeg",
-          "article_url": "https://www.japantimes.co.jp/culture/2026/08/20/film/ai-film-festival-tokyo/",
-          "published_at": "Thu, 20 Aug 2026 01:55:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1jZW50cmFsLWFnZW5j",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Central Agency Raids Jauhar University Linked to Azam Khan",
-          "summary": "The investigation is connected to the alleged diversion of government contract funds through private contractors",
-          "image_url": "https://c.ndtvimg.com/2026-08/2p5m9o4_azam-khan-jauhar-univercity_625x300_19_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/central-agency-raids-jauhar-university-linked-to-azam-khan-11932688#publisher=newsstand",
-          "published_at": "Wed, 19 Aug 2026 22:24:19 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di11a3JhaW5lLXByb2Jl",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Ukraine Probes Employees In Zelensky's Office Over $3.4-Million Fraud",
-          "summary": "Inspectors identified a group of people who laundered 150 million hryvnias ($3.4 million) to pay bail for a defendant in a major corruption case last year, the National Anti-Corruption Bureau said.",
-          "image_url": "https://c.ndtvimg.com/2025-03/uj54uh28_zelensky_625x300_03_March_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/ukraine-probes-employees-in-zelenskys-office-over-3-4-million-fraud-11932667#publisher=newsstand",
-          "published_at": "Wed, 19 Aug 2026 22:20:15 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtaXNyYWVsLW9w",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "News",
-          "title": "Israel opens criminal probes into killings of Hind Rajab and Palestinian medics",
-          "summary": "Criminal investigations are not being opened into three other incidents involving aid workers from World Central Kitchen and Doctors Without Borders.",
-          "image_url": "https://images.euronews.com/articles/stories/09/88/07/77/696x392_cmsv2_b42660e4-a18b-5e07-9e91-68240f108870-9880777.jpg",
-          "article_url": "http://www.euronews.com/2026/08/19/israel-opens-criminal-probes-into-killings-of-hind-rajab-and-palestinian-medics",
-          "published_at": "Wed, 19 Aug 2026 18:49:03 +0200",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -5604,6 +5766,40 @@
       "name": "LLM & AI",
       "icon": "🤖",
       "articles": [
+        {
+          "id": "Y25iY3RlY2gtb3BlbmFpLSd3",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
+          "summary": "In an all hands meeting, Friar told employees not worry about rival Anthropic's IPO timeline.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
+          "published_at": "Wed, 19 Aug 2026 19:44:25 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "Y25iYy1vcGVuYWktJ3dpbGwt",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
+          "summary": "In an all hands meeting, Friar told employees not worry about rival Anthropic's IPO timeline.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
+          "published_at": "Wed, 19 Aug 2026 19:44:25 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
         {
           "id": "bnl0LWdvb2dsZeKAmXMtcGl4",
           "source_id": "nyt",
@@ -5663,7 +5859,7 @@
           "source_category": "Tech Media",
           "feed_label": "Latest",
           "title": "Researchers say OpenAI revoked their access to limited cyber program",
-          "summary": "Multiple cybersecurity researchers said they suddenly lost access to OpenAI’s Trusted Access for Cyber (TAC) program, which offers models with fewer guardrails for vetted users.",
+          "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
           "published_at": "Wed, 19 Aug 2026 18:46:14 +0000",
@@ -5769,6 +5965,23 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc62/live/f7f452d0-9bbb-11f1-9cab-ed9e722cbe4c.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
           "published_at": "Wed, 19 Aug 2026 11:19:12 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3Mtb3BlbmFpLXBs",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "OpenAI pledges to slow down its model development amid cybersecurity concerns",
+          "summary": "OpenAI announced it has paused key stages of its most advanced AI training for two weeks and is overhauling security across its research operations, a month after one of its own models broke out of a test environment and infiltrated the systems of AI platform Hugging Face.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/99/96/696x392_cmsv2_eec56627-39f4-5fab-ac20-dbd45fbb6f84-9879996.jpg",
+          "article_url": "http://www.euronews.com/next/2026/08/19/openai-pledges-to-slow-down-its-model-development-amid-cybersecurity-concerns",
+          "published_at": "Wed, 19 Aug 2026 10:40:15 +0200",
           "cross_sections": [
             "tech",
             "ai"
@@ -6046,6 +6259,23 @@
           ]
         },
         {
+          "id": "YXJhYm5ld3MtZW5yb2xsbWVu",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Enrollment begins at Saudi-backed school for Gaza children",
+          "summary": "GAZA STRIP: Registration has opened for students seeking to enroll at Makkah School in the southern Gaza Strip, a Saudi-backed initiative aimed at helping children resume their education amid the devastation of the war, SPA has reported. \n\n\tThe school, supported by the King Salman Humanitarian Aid a",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654157/saudi-arabia",
+          "published_at": "Tue, 11 Aug 2026 02:08:54 +03",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "dG9pLWNoYXRncHQtd2FzLWRv",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -6066,7 +6296,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 9422,
+    "build_ms": 14064,
     "ai_enabled": true
   }
 }
