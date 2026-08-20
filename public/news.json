@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-20T21:03:43.368Z",
-  "total_articles": 304,
-  "new_this_run": 17,
+  "last_updated": "2026-08-20T21:39:19.951Z",
+  "total_articles": 313,
+  "new_this_run": 31,
   "sources": [
     {
       "id": "techcrunch",
@@ -9,6 +9,20 @@
       "region": "IT Focus",
       "category": "Tech Media",
       "articles": [
+        {
+          "id": "dGVjaGNydW5jaC10aGUtZW5o",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss",
+          "summary": "An effort to transform the world of sports through steroid use doesn't exactly seem to be bearing financial fruit.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/",
+          "published_at": "Thu, 20 Aug 2026 21:08:34 +0000",
+          "cross_sections": []
+        },
         {
           "id": "dGVjaGNydW5jaC1vaywtY2Fu",
           "source_id": "techcrunch",
@@ -114,20 +128,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1ncm9rLWtl",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Grok keeps sending gibberish responses to users",
-          "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-          "published_at": "Thu, 20 Aug 2026 17:32:16 +0000",
-          "cross_sections": []
         }
       ]
     },
@@ -1419,6 +1419,38 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "bnl0LWhvbWVsYW5kLXNlY3Vy",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Homeland Security Unable to Prove That Thousands of Noncitizens Registered to Vote in Nevada",
+          "summary": "The Department of Homeland Security told Nevada election officials that it identified 185 “potential” noncitizens on the state’s voter rolls, not the nearly 16,000 it claimed last month.",
+          "image_url": "https://static01.nyt.com/images/2026/08/20/multimedia/20pol-nevada-noncitizens-qjtb/20pol-nevada-noncitizens-qjtb-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/20/us/politics/trump-nevada-voter-election-fraud.html",
+          "published_at": "Thu, 20 Aug 2026 21:32:28 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LXRydW1wLXRhcmlmZi10",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "Trump Tariff Talks Leave Key Canadian Official Hopeful",
+          "summary": "While President Trump has declared that the two countries effectively have a deal, a Canadian trade official said progress continued ahead of the Saturday deadline.",
+          "image_url": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-canada-tariffs-deal-mqlb/20int-canada-tariffs-deal-mqlb-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html",
+          "published_at": "Thu, 20 Aug 2026 21:18:52 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "bnl0LWFjYWRlbWljLXdoby1w",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1440,7 +1472,7 @@
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "First U.S. Deportees to Arrive in Liberia Amid Growing Backlash",
           "summary": "The five men were part of the first group of deportees to be sent to the West African nation by the Trump administration. The Liberian government has not clarified their status.",
           "image_url": "https://static01.nyt.com/images/2026/09/02/multimedia/20int-liberia-trump-deportees-1-fcjz/02int-liberia-trump-deportees-1-fcjz-mediumSquareAt3X.jpg",
@@ -1467,6 +1499,22 @@
           ]
         },
         {
+          "id": "bnl0LWFzLXByaW5jZS1oYXJy",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "As Prince Harry and Meghan Depart California for the U.K., Their Neighbors Shrug",
+          "summary": "Prince Harry and Meghan Markle self exiled to the ultrawealthy enclave of Montecito in 2020. “They wave. They drive. They close the gates,” a neighbor said.",
+          "image_url": "https://static01.nyt.com/images/2026/08/20/multimedia/20nat-ca-sussexes-fwvj/20nat-ca-sussexes-fwvj-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/20/us/prince-harry-meghan-montecito-california-uk.html",
+          "published_at": "Thu, 20 Aug 2026 20:41:36 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "bnl0LXR3by1iaW5hbmNlLWVt",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1478,22 +1526,6 @@
           "image_url": "https://static01.nyt.com/images/2026/08/14/multimedia/BINANCE-1-01-lgkq/BINANCE-1-01-lgkq-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/20/technology/two-binance-employees-detained-uae.html",
           "published_at": "Thu, 20 Aug 2026 19:57:52 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LWNhbmFkYS1hbmQtdS5z",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Canada and U.S. Resume Talks Over Trump Tariffs as a New Deadline Looms",
-          "summary": "While President Trump has declared that the two countries effectively have a deal, they remain apart on several key issues.",
-          "image_url": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-canada-tariffs-deal-mqlb/20int-canada-tariffs-deal-mqlb-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html",
-          "published_at": "Thu, 20 Aug 2026 19:53:15 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -1562,7 +1594,7 @@
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?",
           "summary": "For weeks, there has been no diplomatic progress, but also no full-scale fighting, as each side seems to believe it can hold out longer than the other.",
           "image_url": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-iran-assess-01-tlhw/20int-iran-assess-01-tlhw-mediumSquareAt3X.jpg",
@@ -1576,28 +1608,12 @@
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
-          "feed_label": "World",
+          "feed_label": "Top Stories",
           "title": "After Six Years, Harry and Meghan Are Coming Home. What Changed?",
           "summary": "Just last year, Prince Harry said he couldn’t imagine ever bringing his family back to Britain.",
           "image_url": "https://static01.nyt.com/images/2026/08/20/world/20int-uk-harry-assess-uuuu/20int-uk-harry-assess-uuuu-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html",
           "published_at": "Thu, 20 Aug 2026 17:04:31 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LXN0YXRlLWRlcHQuLWRl",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "State Dept. Declares U.S. Citizen in China Wrongfully Detained",
-          "summary": "U Min Zin, a scholar who studied Myanmar, is one of two U.S. citizens the department has designated as wrongfully detained in China.",
-          "image_url": "https://static01.nyt.com/images/2026/08/20/multimedia/20dc-scholar-fjbl/20dc-scholar-fjbl-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/20/us/politics/scholar-china-wrongfully-detained.html",
-          "published_at": "Thu, 20 Aug 2026 14:59:45 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -1633,6 +1649,20 @@
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "bnl0LXdoYXQtdG8ta25vdy1h",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "What to Know About Prince Harry and Meghan’s Move Back to the U.K.",
+          "summary": "The couple are moving back after six years in the United States. What they will do, and much else, are still unclear.",
+          "image_url": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-harry-meghan-wtk-kcmv/20int-harry-meghan-wtk-kcmv-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/20/world/europe/prince-harry-meghan-uk-move-return.html",
+          "published_at": "Thu, 20 Aug 2026 13:58:38 +0000",
+          "cross_sections": []
         },
         {
           "id": "bnl0LXRoZS1pbmRpYW4tY2l0",
@@ -1763,7 +1793,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-08-20T21:03:34.526Z",
+          "published_at": "2026-08-20T21:39:10.806Z",
           "cross_sections": []
         },
         {
@@ -1777,7 +1807,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-08-20T21:03:34.526Z",
+          "published_at": "2026-08-20T21:39:10.806Z",
           "cross_sections": []
         },
         {
@@ -1791,7 +1821,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-08-20T21:03:34.526Z",
+          "published_at": "2026-08-20T21:39:10.806Z",
           "cross_sections": []
         },
         {
@@ -2103,22 +2133,6 @@
       "category": "Broadcaster",
       "articles": [
         {
-          "id": "Y25iYy1oeXVuZGFpLXRvLWlu",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Hyundai to increase U.S. production at new Georgia plant, CEO tells CNBC",
-          "summary": "The previously undisclosed capacity increase is part of Hyundai's plan to invest $26 billion in the U.S. through 2028.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/20/hyundai-georgia-metaplant-us-production.html",
-          "published_at": "Thu, 20 Aug 2026 20:18:07 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "Y25iYy1iZXNzZW50J3MtZWZm",
           "source_id": "cnbc",
           "source_name": "CNBC",
@@ -2129,7 +2143,23 @@
           "summary": "Market experts showed skepticism at whether the push would succeed against a bevy of factors working against Treasurys.",
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/08/20/bessents-efforts-in-the-treasury-market-so-far-havent-worked-heres-what-else-he-can-try.html",
-          "published_at": "Thu, 20 Aug 2026 20:09:30 GMT",
+          "published_at": "Thu, 20 Aug 2026 21:13:14 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iYy1oeXVuZGFpLWNvbnNp",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Hyundai considering U.S. production increase at new Georgia plant, CEO tells CNBC",
+          "summary": "The potential capacity increase would be part of Hyundai's plan to invest $26 billion in the U.S. through 2028, Hyundai CEO José Muñoz told CNBC.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/20/hyundai-georgia-metaplant-us-production.html",
+          "published_at": "Thu, 20 Aug 2026 21:10:08 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -3313,6 +3343,22 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "ZXVyb25ld3MtbW9udGUtZGVp",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Monte dei Paschi board approves dual exchange offers for Banco Bpm and Banca Generali",
+          "summary": "CEO Luigi Lovaglio's plan aims to bolster MPS and fend off Intesa Sanpaolo's 30.5-billion-euro Opas. Approved with nine votes in favour and four abstentions.",
+          "image_url": "https://images.euronews.com/articles/stories/09/88/19/19/696x392_cmsv2_6c151460-909b-55a8-834c-ee563177d28e-9881919.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/20/monte-dei-paschi-board-approves-dual-exchange-offers-for-banco-bpm-and-banca-generali",
+          "published_at": "Thu, 20 Aug 2026 19:10:17 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "ZXVyb25ld3MtbmV3LXVzLWNh",
           "source_id": "euronews",
           "source_name": "Euronews",
@@ -3338,6 +3384,22 @@
           "image_url": "https://images.euronews.com/articles/stories/09/88/26/65/696x392_cmsv2_5141b00e-034f-57fb-abfa-1d2c62022603-9882665.jpg",
           "article_url": "http://www.euronews.com/video/2026/08/20/latest-news-bulletin-august-20th-2026-evening",
           "published_at": "Thu, 20 Aug 2026 18:00:29 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtbmVhcmx5LeKC",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Nearly €1bn earmarked as five-part plan targets business growth, AI and exports",
+          "summary": "President Shavkat Mirziyoyev announced the measures at annual dialogue with entrepreneurs in Khiva. They include lower energy prepayments, new credit guarantees and easier access to capital markets, alongside regulatory changes that will limit inspections and shift the burden of proof to the state.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/91/52/696x392_cmsv2_5ad482ea-3b5c-590c-bb49-2fd3883430da-9879152.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/20/nearly-1bn-earmarked-as-five-part-plan-targets-business-growth-ai-and-exports",
+          "published_at": "Thu, 20 Aug 2026 16:07:21 +0200",
           "cross_sections": [
             "tech"
           ]
@@ -3391,6 +3453,22 @@
           ]
         },
         {
+          "id": "ZXVyb25ld3Mtb3ZlcmNvbWUt",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Overcome market fragmentation or miss the AI train, Lagarde warns the EU",
+          "summary": "An overly fragmented single market cannot support Europe’s top priority of competing globally in the AI race, European Central Bank (ECB) President Christine Lagarde warns.",
+          "image_url": "https://images.euronews.com/articles/stories/09/88/16/94/696x392_cmsv2_73befe30-e5bb-5a67-838d-3dbaddbb68fa-9881694.jpg",
+          "article_url": "http://www.euronews.com/my-europe/2026/08/20/overcome-market-fragmentation-or-miss-the-ai-train-lagarde-warns-the-eu",
+          "published_at": "Thu, 20 Aug 2026 12:43:50 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "ZXVyb25ld3MtaWNjLXNlcGFy",
           "source_id": "euronews",
           "source_name": "Euronews",
@@ -3418,6 +3496,87 @@
           "image_url": "https://images.euronews.com/articles/stories/09/88/17/94/696x392_cmsv2_685752a4-7d5b-5f80-9fdd-dc79f2b20fe0-9881794.jpg",
           "article_url": "http://www.euronews.com/video/2026/08/20/sirens-shelters-and-scaled-back-war-games-south-korea-rehearses-for-crisis",
           "published_at": "Thu, 20 Aug 2026 11:41:47 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtZWNiLXVudmVp",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "ECB unveils new banknote designs with a defiant message: Don't count cash out yet",
+          "summary": "With cashless payments on the rise, and a growing belief that cash is being replaced by the digital euro, the European Central Bank (ECB) is introducing new banknotes carrying a clear message to citizens: cash is here to stay.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/72/40/696x392_cmsv2_b786868c-374f-5609-b42f-e3a94c41174c-9877240.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/19/ecb-unveils-new-banknote-designs-with-a-defiant-message-dont-count-cash-out-yet",
+          "published_at": "Wed, 19 Aug 2026 16:23:14 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3Mtd2hvLWlzLWF1",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Who is automotive giant Stellantis and why did it recall nearly 1 million cars?",
+          "summary": "The world's fourth-largest carmaker is recalling nearly 1 million vehicles — its third major safety campaign this year.",
+          "image_url": "https://images.euronews.com/articles/stories/09/88/08/58/696x392_cmsv2_3951c38e-00f0-56d3-b070-fbc09a8faeee-9880858.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/19/who-is-automotive-giant-stellantis-and-why-did-it-recall-nearly-1-million-cars",
+          "published_at": "Wed, 19 Aug 2026 16:15:48 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3Mtc2VjLXVudmVp",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "SEC unveils new crypto rules hailed as a win for the digital asset industry",
+          "summary": "The US Securities and Exchange Commission has proposed a sweeping new framework for crypto assets, offering firms two clear paths to raise money without full securities registration. Industry groups have broadly welcomed the plan, calling its terms considerably more generous than anticipated.",
+          "image_url": "https://images.euronews.com/articles/stories/09/88/03/37/696x392_cmsv2_f79a2206-2a46-593a-bf74-1102d4ebb32a-9880337.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/19/sec-unveils-new-crypto-rules-hailed-as-a-win-for-the-digital-asset-industry",
+          "published_at": "Wed, 19 Aug 2026 16:11:22 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3Mtb3BlbmFpLXBs",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "OpenAI pledges to slow down its model development amid cybersecurity concerns",
+          "summary": "OpenAI announced it has paused key stages of its most advanced AI training for two weeks and is overhauling security across its research operations, a month after one of its own models broke out of a test environment and infiltrated the systems of AI platform Hugging Face.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/99/96/696x392_cmsv2_eec56627-39f4-5fab-ac20-dbd45fbb6f84-9879996.jpg",
+          "article_url": "http://www.euronews.com/next/2026/08/19/openai-pledges-to-slow-down-its-model-development-amid-cybersecurity-concerns",
+          "published_at": "Wed, 19 Aug 2026 10:40:15 +0200",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3Mtd2hlcmUtYXJl",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Where are Portugal's priciest homes? Cascais leads with prices of €4.35mn",
+          "summary": "From Cascais to the Algarve, Portugal's priciest addresses cluster along the coast, while the capital is conspicuously absent.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/81/20/696x392_cmsv2_ce05a83d-7c35-57e3-aba6-06eb657f8234-9878120.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/19/where-are-portugals-priciest-homes-cascais-leads-with-prices-of-435-million",
+          "published_at": "Wed, 19 Aug 2026 08:34:49 +0200",
           "cross_sections": [
             "tech"
           ]
@@ -3514,7 +3673,7 @@
           "source_category": "Broadcaster",
           "feed_label": "Top Stories",
           "title": "Germany news: Powerful storms turn deadly",
-          "summary": "Germany is grappling with the impacts of damaging storms after a prolonged dry spell. Meanwhile, a CDU politician in Saxony-Anhalt reportedly donated money to the far-right AfD. Follow DW for more headlines from Germany.",
+          "summary": "Germany is grappling with the impacts of damaging storms after a prolonged dry spell. Meanwhile, a CDU politician in Saxony-Anhalt reportedly donated money to the far-right AfD.",
           "image_url": null,
           "article_url": "https://www.dw.com/en/germany-news-powerful-storms-turn-deadly/live-78439067?maca=en-rss-en-top-1022-xml-mrss",
           "published_at": "Thu, 20 Aug 2026 14:38:00 GMT",
@@ -3633,6 +3792,36 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dG9pLTYtaW5kaWFucy1vbi1i",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "6 Indians on board hijacked cargo ship carrying Turkish weapons off Somalia's coast",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/world/rest-of-world/6-indians-on-board-hijacked-cargo-ship-carrying-turkish-weapons-off-somalias-coast/articleshow/133387586.cms",
+          "published_at": "Fri, 21 Aug 2026 02:49:53 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dG9pLXVzLWlyYW4td2FyLWJy",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "US-Iran war brings Air India Group's international carriage down 35%, IndiGo's 15.4%",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/business/india-business/us-iran-war-brings-air-india-groups-international-carriage-down-35-indigos-15-4/articleshow/133387543.cms",
+          "published_at": "Fri, 21 Aug 2026 02:32:44 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dG9pLWZvci0xc3QtdGltZS1p",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3719,36 +3908,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "dG9pLWRlbGltaXRhdGlvbiwt",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Delimitation, NEET   Cauvery: What Tamil Nadu CM Vijay discussed with Amit Shah",
-          "summary": "Speaking at the 31st meeting of the Southern Zonal Council chaired by Union home minister Amit Shah, Vijay, who is also the council's vice-chairman, sought an assurance from the Centre that states which have successfully stabilised their populations would not be penalised through a reduction in thei",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/delimitation-neet-and-cauvery-what-tamil-nadu-cm-vijay-discussed-with-amit-shah/articleshow/133381090.cms",
-          "published_at": "Thu, 20 Aug 2026 20:23:17 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLWdhbmRoaS1tYW51c2Ny",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Gandhi manuscript fetches Rs 16.2 crore at Saffronart, sets world auction record",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/gandhi-manuscript-fetches-rs-16-2-crore-at-saffronart-sets-world-auction-record/articleshow/133366364.cms",
-          "published_at": "Thu, 20 Aug 2026 11:44:01 +0530",
-          "cross_sections": []
         },
         {
           "id": "dG9pLXRlZW4taW5ub3ZhdG9y",
@@ -3995,6 +4154,36 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dGhlaGluZHUtbmV3LWJvc3Nl",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "New bosses, new order — the Premier League landscape is unpredictable",
+          "summary": "“A new era begins” is the operative phrase ahead of the 2026-27 season as five of the ‘Big Six’ clubs come in with a different manager compared to day one of the previous campaign",
+          "image_url": "https://th-i.thgim.com/public/incoming/qr1vhi/article71368983.ece/alternates/LANDSCAPE_1200/GettyImages-2278041052.jpg",
+          "article_url": "https://www.thehindu.com/sport/football/premier-league-2026-27-preview-title-race-new-managers/article71368805.ece",
+          "published_at": "Fri, 21 Aug 2026 02:59:17 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtYmFkbWludG9u",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Badminton World Championships: India’s hopes rest on doubles after Sindhu, Ayush exit",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/o3w583/article71370506.ece/alternates/LANDSCAPE_1200/12_BADMINTON_CHAMPIONSHIPS_20_08_DELHI.jpg",
+          "article_url": "https://www.thehindu.com/sport/badminton-world-championships-indias-hopes-rest-on-doubles-after-sindhu-ayush-exit/article71370383.ece",
+          "published_at": "Fri, 21 Aug 2026 02:55:41 +0530",
+          "cross_sections": []
+        },
+        {
           "id": "dGhlaGluZHUtYmFuay1lbXBs",
           "source_id": "thehindu",
           "source_name": "The Hindu",
@@ -4071,49 +4260,20 @@
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUtcGFyZW50YWwt",
+          "id": "dGhlaGluZHUtbmVlZC1mb3It",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Parental control features in ChatGPT for Teens | Explained",
-          "summary": "ChatGPT for Teens, designed for 13 to 17-year-olds, has features such as parental controls, “quiet hours”, study mode, and notifications for situations that need real-world interventions",
-          "image_url": "https://th-i.thgim.com/public/incoming/6101uo/article71367843.ece/alternates/LANDSCAPE_1200/ChatGPT_Teens_33976.jpg",
-          "article_url": "https://www.thehindu.com/sci-tech/technology/chatgpt-for-teens-explained/article71367865.ece",
-          "published_at": "Fri, 21 Aug 2026 01:13:25 +0530",
+          "title": "Need for phones with 8 GB RAM raises concern among Census enumerators in J&K",
+          "summary": "Issue discussed ‘for appropriate resolution’ at a meeting chaired by Chief Principal Census Officer Amit Sharma in Doda",
+          "image_url": "https://th-i.thgim.com/public/incoming/fosofa/article71370871.ece/alternates/LANDSCAPE_1200/HQLXvyjaUAAzGNC.jpg",
+          "article_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/need-for-phones-with-8-gb-ram-raises-concern-among-census-enumerators-in-jk/article71370606.ece",
+          "published_at": "Fri, 21 Aug 2026 01:23:12 +0530",
           "cross_sections": [
-            "tech",
-            "ai"
+            "tech"
           ]
-        },
-        {
-          "id": "dGhlaGluZHUtdHJpYWwtYnkt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Trial by fire: On fire accidents in West Bengal",
-          "summary": "West Bengal should rebuild its crumbling, hazardous infrastructure",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/opinion/editorial/trial-by-fire-on-fire-accidents-in-west-bengal/article71369212.ece",
-          "published_at": "Fri, 21 Aug 2026 01:12:14 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtc29jaWFsaXN0",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Socialist surge: On the rise of democratic socialism in the U.S.",
-          "summary": "Affordability issues propel democratic socialists in the U.S.",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/opinion/editorial/socialist-surge/article71369197.ece",
-          "published_at": "Fri, 21 Aug 2026 01:08:08 +0530",
-          "cross_sections": []
         },
         {
           "id": "dGhlaGluZHUtaXFvby16MTEt",
@@ -4145,6 +4305,23 @@
           "published_at": "Thu, 20 Aug 2026 12:26:53 +0530",
           "cross_sections": [
             "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtcGFyZW50YWwt",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Parental control features in ChatGPT for Teens | Explained",
+          "summary": "ChatGPT for Teens, designed for 13 to 17-year-olds, has features such as parental controls, “quiet hours”, study mode, and notifications for situations that need real-world interventions",
+          "image_url": "https://th-i.thgim.com/public/incoming/6101uo/article71367843.ece/alternates/LANDSCAPE_1200/ChatGPT_Teens_33976.jpg",
+          "article_url": "https://www.thehindu.com/sci-tech/technology/chatgpt-for-teens-explained/article71367865.ece",
+          "published_at": "Thu, 20 Aug 2026 11:33:37 +0530",
+          "cross_sections": [
+            "tech",
+            "ai"
           ]
         },
         {
@@ -4367,12 +4544,44 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "bmR0di1qYWlsZWQtcGFrLWV4",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Jailed Pak Ex-PM Imran Khan Taken To Hospital After Court Order",
+          "summary": "Imran Khan's Pakistan Tehreek-e-Insaf party, or PTI, said in a brief statement that he was transferred from Adiala prison to Shifa International Hospital in Islamabad following a Supreme Court order earlier this week.",
+          "image_url": "https://c.ndtvimg.com/2026-08/23te7gkg_imran-khan-taken-to-hospital_625x300_21_August_26.jpeg",
+          "article_url": "https://www.ndtv.com/world-news/jailed-pak-ex-pm-imran-khan-taken-to-hospital-after-court-order-11938333#publisher=newsstand",
+          "published_at": "Fri, 21 Aug 2026 03:03:49 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1pc2lzLWluc3BpcmVk",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "ISIS-Inspired Woman Charged Over Plot To Attack New York Capitol Building",
+          "summary": "The department said Jessica Bowie, 35, was seen making visits to the state's Capitol grounds and taking photographs of the building.",
+          "image_url": "https://c.ndtvimg.com/2026-08/j3uc8l5g_jessica-bowie_625x300_21_August_26.jpeg",
+          "article_url": "https://www.ndtv.com/world-news/isis-inspired-woman-charged-over-plot-to-attack-new-york-capitol-building-11938292#publisher=newsstand",
+          "published_at": "Fri, 21 Aug 2026 02:37:04 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "bmR0di11cy1wdXNoZXMtYWxs",
           "source_id": "ndtv",
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
-          "feed_label": "World",
+          "feed_label": "Top Stories",
           "title": "US Pushes Allies, China To Support Trump's Economic War On Iran",
           "summary": "US Treasury Secretary Scott Bessent's comments underscored how Trump is shifting to economic rather than military pressure on Tehran as his unpopular war drags toward the six-month mark.",
           "image_url": "https://c.ndtvimg.com/2026-05/ge1cntbc_scott-bessent_625x300_29_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
@@ -4475,50 +4684,18 @@
           ]
         },
         {
-          "id": "bmR0di0nZ292ZXJubWVudC1k",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "'Government Deceived Us': Jharkhand Students As Court Stays Exam Cancellation",
-          "summary": "The aspirants had staged a protest for 26 days at Ranchi's Jaipal Singh Munda Stadium before suspending the agitation for two months following the government's decision to cancel 22 recruitment exams.",
-          "image_url": "https://c.ndtvimg.com/2026-08/ec2sjv7g_jharkhand-protest_625x300_12_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/government-deceived-us-jharkhand-students-as-court-stays-exam-cancellation-11938096#publisher=newsstand",
-          "published_at": "Fri, 21 Aug 2026 00:17:38 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bmR0di02LjctbWFnbml0dWRl",
           "source_id": "ndtv",
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "6.7-Magnitude Earthquake Strikes Southern Peru",
           "summary": "A magnitude 6.7 earthquake shook Peru's southern Andes Mountains on Thursday, according to the U.S. Geological Survey. There were no immediate reports of damage.",
           "image_url": "https://i.ndtvimg.com/i/2017-09/earthquake-generic_650x400_71505899871.jpg",
           "article_url": "https://www.ndtv.com/world-news/6-7-magnitude-earthquake-strikes-southern-peru-11938058#publisher=newsstand",
           "published_at": "Fri, 21 Aug 2026 00:17:15 +0530",
           "cross_sections": []
-        },
-        {
-          "id": "bmR0di1maXItYWdhaW5zdC1t",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "FIR Against Meesho As Gurugram Teen Dead After Consuming Chemical He Bought Online",
-          "summary": "Police allegedly found during the probe that the boy had ordered the poisonous substance on Meesho using the name of a person based in Surat.",
-          "image_url": "https://c.ndtvimg.com/2026-07/8mo70pkc_meesho_625x300_24_July_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/fir-against-online-platform-seller-for-toxic-chemicals-sale-that-killed-17-year-old-in-gurugram-11938087#publisher=newsstand",
-          "published_at": "Fri, 21 Aug 2026 00:14:27 +0530",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "bmR0di0id2l0aC11cy1vci1h",
@@ -4567,36 +4744,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "bmR0di1yb2dlci1kdWFydGUs",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Roger Duarte, Millionaire Food Entrepreneur, Dies In Helicopter Crash In Kenya",
-          "summary": "His company's rapid growth earned him a place on Forbes' 30 Under 30 list in 2016.",
-          "image_url": "https://c.ndtvimg.com/2026-08/vcftk0e4_roger-duarte_625x300_20_August_26.jpeg",
-          "article_url": "https://www.ndtv.com/world-news/roger-duarte-millionaire-food-entrepreneur-dies-in-helicopter-crash-in-kenya-11937069#publisher=newsstand",
-          "published_at": "Thu, 20 Aug 2026 23:12:47 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di11cy10YXJnZXRzLWhl",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "US Targets Hezbollah With Fresh Sanctions Over Iran Ties",
-          "summary": "While Hezbollah is not being designated under any new authority, the Treasury Department is redesignating it as a Specially Designated Global Terrorist \"for service to the Iranian regime under the command of Iran's Islamic Revolutionary Guard Corps-Qods Force\", according to the statement.",
-          "image_url": "https://c.ndtvimg.com/2026-03/kloe5aos_hezbollah-_625x300_21_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/us-targets-hezbollah-with-fresh-sanctions-over-iran-ties-11937851#publisher=newsstand",
-          "published_at": "Thu, 20 Aug 2026 23:09:04 +0530",
-          "cross_sections": []
         }
       ]
     },
@@ -4606,6 +4753,38 @@
       "region": "Middle East & Africa",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "YWxqYXplZXJhLXBha2lzdGFu",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Pakistan’s ex-PM Imran Khan reportedly moved to hospital from jail",
+          "summary": "Former leader was escorted from Adiala jail to Shifa International Hospital, following court order, local media reports.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
+          "published_at": "Thu, 20 Aug 2026 21:18:10 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXVzLXB1bW1l",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "US pummels Cuban economy with new sanctions on mining, construction",
+          "summary": "US economic restrictions have strained the island's already fragile economy, prompting blackouts and medical shortages.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss",
+          "published_at": "Thu, 20 Aug 2026 20:37:25 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "YWxqYXplZXJhLWxhbmRzbGlk",
           "source_id": "aljazeera",
@@ -4691,38 +4870,6 @@
           "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/amputee-children-learn-to-swim-after-losing-limbs-in-israels-war-on-gaza?traffic_source=rss",
           "published_at": "Thu, 20 Aug 2026 20:05:53 +0000",
           "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXN5cmlh4oCZ",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Syria’s civil society navigates post-Assad era: Partnership or control?",
-          "summary": "Syria's civil society grapples with redefining its role as the state reasserts itself after Assad's fall.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/features/2026/8/20/syrias-civil-society-navigates-post-assad-era-partnership-or-control?traffic_source=rss",
-          "published_at": "Thu, 20 Aug 2026 19:59:54 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLWJyb29rLW1h",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Brook makes Pakistan pay for dropped catch as England dominate first Test",
-          "summary": "England were 366-8 at stumps on a rain-marred second day, 195 runs ahead of Pakistan's meagre first innings of 171.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss",
-          "published_at": "Thu, 20 Aug 2026 19:45:08 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -4733,128 +4880,127 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "YXJhYm5ld3MtZmluYWwtZWxl",
+          "id": "YXJhYm5ld3MtYmlyZC1mbHUt",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Final election phase begins in Pakistan-administered Kashmir despite banned group’s boycott call",
-          "summary": "MUZAFFARABAD, Pakistan: Voters went to the polls Monday in the final phase of elections for the legislative assembly in Pakistan-administered Kashmir, following weeks of violent protests and clashes with security forces that overshadowed campaigning in the disputed Himalayan region, officials said.\n",
+          "title": "Bird flu kills 13,000 seal pups on remote Australian island",
+          "summary": "SYDNEY: A pathogenic strain of bird flu killed more than 13,000 elephant seal pups after infecting a breeding colony on a sub-Antarctic volcanic island, Australian scientists said Thursday.\n\tResearchers found the remote Heard and McDonald Islands littered with seal carcasses when they arrived on a r",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654152/world",
-          "published_at": "Tue, 11 Aug 2026 12:08:09 +03",
+          "article_url": "https://www.arabnews.com/node/2647655/offbeat",
+          "published_at": "Thu, 18 Jun 2026 10:06:51 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtZW5yb2xsbWVu",
+          "id": "YXJhYm5ld3MtcmVjaXBlcy1m",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Enrollment begins at Saudi-backed school for Gaza children",
-          "summary": "GAZA STRIP: Registration has opened for students seeking to enroll at Makkah School in the southern Gaza Strip, a Saudi-backed initiative aimed at helping children resume their education amid the devastation of the war, SPA has reported. \n\n\tThe school, supported by the King Salman Humanitarian Aid a",
+          "title": "Recipes for Success: Chef Robert Tsitaishvili talks simplicity, salt, and stories",
+          "summary": "DUBAI: Robert Tsitaishvili is the head chef of Qartuli, a Georgian restaurant in Downtown Dubai, where his goal, he says, is “to reinterpret Georgian culinary heritage for a contemporary audience.” \n\n\tTsitaishvili has more than 12 years of experience spanning hotels and restaurants across Georgia an",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654157/saudi-arabia",
-          "published_at": "Tue, 11 Aug 2026 02:08:54 +03",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtdHJ1bXAtaW5z",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Trump insists Netanyahu relationship ‘very good’ despite Gaza rift",
-          "summary": "WASHINGTON, United States: President Donald Trump insisted on Monday that his relationship with Prime Minister Benjamin Netanyahu is “very good” despite the Israeli leader’s rejection of a US-led Gaza plan.\n\t“The relationship is very good,” Trump said in response to a shouted question from a journal",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654154/world",
-          "published_at": "Tue, 11 Aug 2026 01:08:46 +03",
+          "article_url": "https://www.arabnews.com/node/2647653/lifestyle",
+          "published_at": "Thu, 18 Jun 2026 10:06:49 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtbGlieWHigJlz",
+          "id": "YXJhYm5ld3Mtb2lsLWZhbGxz",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Libya’s central bank chief resigns",
-          "summary": "TRIPOLI: The governor of Libya’s central bank, Naji Issa, has resigned without giving a reason, several reports said on Monday.\n\tPrivate TV channel Al-Ahrar said Issa had confirmed his resignation.\n\tIssa and vice-governor Miree Al-Barasee were appointed by Libya’s parliament, which is based in the e",
+          "title": "Oil falls to 3-1/2-month low after US, Iran sign ceasefire deal",
+          "summary": "BEIJING/SINGAPORE: Oil prices ​fell by more than $2 per barrel on Thursday after the US and Iran signed an interim agreement that ‌would end the Iran war, reopen the Strait of Hormuz and waive US sanctions on Tehran’s oil, boosting the oil supply outlook.\n\n\tBrent crude futures were down $2.14, or 2.",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654155/middle-east",
-          "published_at": "Tue, 11 Aug 2026 01:08:41 +03",
+          "article_url": "https://www.arabnews.com/node/2647650/business-economy",
+          "published_at": "Thu, 18 Jun 2026 10:06:46 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtdHJ1bXDigJlz",
+          "id": "YXJhYm5ld3Mta2FuZS1kb3Vi",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Trump’s Gaza plan hinges on Hamas disarmament, Israeli withdrawals",
-          "summary": "JERUSALEM: Donald Trump’s latest plan to end the Gaza war calls on Hamas to ‌lay down its arms as Israel withdraws from the territory, terms endorsed by the militants but rejected by Israel, which says it will not pull back until the group’s disarmament is complete.",
+          "title": "Kane double fires England World Cup bid as Ronaldo’s Portugal stumble",
+          "summary": "LOS ANGELES, United States: England launched their World Cup bid with a rollercoaster 4-2 win against Croatia on Wednesday as Cristiano Ronaldo and Portugal stumbled to a draw against the Democratic Republic of Congo.\n\tIn an enthralling Group L game at the Texas home of the Dallas Cowboys NFL team, ",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654156/middle-east",
-          "published_at": "Tue, 11 Aug 2026 01:08:10 +03",
+          "article_url": "https://www.arabnews.com/node/2647651/sport",
+          "published_at": "Thu, 18 Jun 2026 10:06:26 +03",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtbGluYS1naG90",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Lina Ghotmeh: ‘Being in AlUla, you start to understand all the beauty of the world’",
+          "summary": "ALULA: AlUla is no stranger to art. It is renowned as an “open-air natural museum” with 7,000 years of lived-in history. Even so, the upcoming AlUla Contemporary Art Museum, created as part of Saudi Vision 2030, is sure to be the talk of the town.",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2647649/lifestyle",
+          "published_at": "Thu, 18 Jun 2026 10:06:11 +03",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtYXVzdHJhbGlh",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Australia says net migration down as far-right popularity surges",
+          "summary": "SYDNEY: Australia’s immigration levels fell last year, official data showed on Thursday, as its center-left government seeks to combat an ascendent far-right riding a wave of public discontent over soaring housing prices and cost of living.\n\tNet overseas migration added 301,000 people to Australia’s",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2647652/world",
+          "published_at": "Thu, 18 Jun 2026 10:06:08 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtY2FuLWFsLWJ1",
+          "id": "YXJhYm5ld3MtZGFpbHktdGVs",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Can Al-Burhan’s Sudanese national dialogue turn military gains into a political settlement?",
-          "summary": "LONDON: More than three years after Sudan descended into civil war, army chief Gen. Abdel Fattah Al-Burhan is pushing for a broad national dialogue aimed at rebuilding the country’s political institutions and laying the foundations for a civilian transition.\n\n\tTalks could begin as early as August, w",
+          "title": "Daily Telegraph columnist argues Saudi Arabia should join G7",
+          "summary": "DUBAI: Saudi Arabia should be invited to join the Group of Seven nations as the organization adapts to a changing global order, according to a column published in the Daily Telegraph by former UK prime ministerial representative to Saudi Arabia Ken Costa.\n\n\tCosta argued that while the G7 was created",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654150/middle-east",
-          "published_at": "Mon, 10 Aug 2026 11:08:33 +03",
+          "article_url": "https://www.arabnews.com/node/2647644/saudi-arabia",
+          "published_at": "Thu, 18 Jun 2026 09:06:26 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtZmlyZS1icmVh",
+          "id": "YXJhYm5ld3MtdHJ1bXAsLW5l",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Fire breaks out at Libya’s Zawiya refinery",
-          "summary": "TRIPOLI: A fire broke out on Monday ​in a diesel tank at Libya’s Zawiya refinery days after the facility was hit by drone.\n\n\tThe circumstances of Monday's fire remained unknown, Brega Petroleum Marketing Company said in a statement.\n\tBrega is owned by state oil firm National Oil Corporation (NOC) an",
+          "title": "Trump, Netanyahu clash over Iran strategy and Lebanon ceasefire",
+          "summary": "DUBAI: American President Donald Trump and Israeli Prime Minister Benjamin Netanyahu have found themselves at odds over Iran, Lebanon and the course of ongoing negotiations in the Middle East according to The Washington Post.",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654151/middle-east",
-          "published_at": "Mon, 10 Aug 2026 11:08:10 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtdGVlbmFnZXIt",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Teenager dies trying to rescue swimmers at Alexandria beach",
-          "summary": "ALEXANDRIA: An 18-year-old man died while attempting to help rescue six people from drowning at El-Baitash beach in Alexandria, Egypt, on Saturday, local authorities said.\n\tThe Central Administration for Tourism and Resorts in Alexandria said on Sunday that the beach was among those closed to swimme",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654149/middle-east",
-          "published_at": "Mon, 10 Aug 2026 10:08:39 +03",
+          "article_url": "https://www.arabnews.com/node/2647647/middle-east",
+          "published_at": "Thu, 18 Jun 2026 09:06:00 +03",
           "cross_sections": [
             "tech"
           ]
@@ -4933,7 +5079,7 @@
         {
           "id": "nyt",
           "name": "The New York Times",
-          "count": 21
+          "count": 23
         },
         {
           "id": "cnn",
@@ -4970,7 +5116,7 @@
         {
           "id": "euronews",
           "name": "Euronews",
-          "count": 7
+          "count": 15
         },
         {
           "id": "dw",
@@ -4992,7 +5138,7 @@
         {
           "id": "thehindu",
           "name": "The Hindu",
-          "count": 15
+          "count": 16
         },
         {
           "id": "japantimes",
@@ -5002,7 +5148,7 @@
         {
           "id": "ndtv",
           "name": "NDTV",
-          "count": 15
+          "count": 13
         }
       ]
     },
@@ -5030,6 +5176,150 @@
       "name": "IT & Tech",
       "icon": "💻",
       "articles": [
+        {
+          "id": "bmR0di1qYWlsZWQtcGFrLWV4",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Jailed Pak Ex-PM Imran Khan Taken To Hospital After Court Order",
+          "summary": "Imran Khan's Pakistan Tehreek-e-Insaf party, or PTI, said in a brief statement that he was transferred from Adiala prison to Shifa International Hospital in Islamabad following a Supreme Court order earlier this week.",
+          "image_url": "https://c.ndtvimg.com/2026-08/23te7gkg_imran-khan-taken-to-hospital_625x300_21_August_26.jpeg",
+          "article_url": "https://www.ndtv.com/world-news/jailed-pak-ex-pm-imran-khan-taken-to-hospital-after-court-order-11938333#publisher=newsstand",
+          "published_at": "Fri, 21 Aug 2026 03:03:49 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LWhvbWVsYW5kLXNlY3Vy",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Homeland Security Unable to Prove That Thousands of Noncitizens Registered to Vote in Nevada",
+          "summary": "The Department of Homeland Security told Nevada election officials that it identified 185 “potential” noncitizens on the state’s voter rolls, not the nearly 16,000 it claimed last month.",
+          "image_url": "https://static01.nyt.com/images/2026/08/20/multimedia/20pol-nevada-noncitizens-qjtb/20pol-nevada-noncitizens-qjtb-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/20/us/politics/trump-nevada-voter-election-fraud.html",
+          "published_at": "Thu, 20 Aug 2026 21:32:28 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtbmV3LWJvc3Nl",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "New bosses, new order — the Premier League landscape is unpredictable",
+          "summary": "“A new era begins” is the operative phrase ahead of the 2026-27 season as five of the ‘Big Six’ clubs come in with a different manager compared to day one of the previous campaign",
+          "image_url": "https://th-i.thgim.com/public/incoming/qr1vhi/article71368983.ece/alternates/LANDSCAPE_1200/GettyImages-2278041052.jpg",
+          "article_url": "https://www.thehindu.com/sport/football/premier-league-2026-27-preview-title-race-new-managers/article71368805.ece",
+          "published_at": "Fri, 21 Aug 2026 02:59:17 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LXRydW1wLXRhcmlmZi10",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "Trump Tariff Talks Leave Key Canadian Official Hopeful",
+          "summary": "While President Trump has declared that the two countries effectively have a deal, a Canadian trade official said progress continued ahead of the Saturday deadline.",
+          "image_url": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-canada-tariffs-deal-mqlb/20int-canada-tariffs-deal-mqlb-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html",
+          "published_at": "Thu, 20 Aug 2026 21:18:52 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXBha2lzdGFu",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Pakistan’s ex-PM Imran Khan reportedly moved to hospital from jail",
+          "summary": "Former leader was escorted from Adiala jail to Shifa International Hospital, following court order, local media reports.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
+          "published_at": "Thu, 20 Aug 2026 21:18:10 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iYy1iZXNzZW50J3MtZWZm",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try",
+          "summary": "Market experts showed skepticism at whether the push would succeed against a bevy of factors working against Treasurys.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/20/bessents-efforts-in-the-treasury-market-so-far-havent-worked-heres-what-else-he-can-try.html",
+          "published_at": "Thu, 20 Aug 2026 21:13:14 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iYy1oeXVuZGFpLWNvbnNp",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Hyundai considering U.S. production increase at new Georgia plant, CEO tells CNBC",
+          "summary": "The potential capacity increase would be part of Hyundai's plan to invest $26 billion in the U.S. through 2028, Hyundai CEO José Muñoz told CNBC.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/20/hyundai-georgia-metaplant-us-production.html",
+          "published_at": "Thu, 20 Aug 2026 21:10:08 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1pc2lzLWluc3BpcmVk",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "ISIS-Inspired Woman Charged Over Plot To Attack New York Capitol Building",
+          "summary": "The department said Jessica Bowie, 35, was seen making visits to the state's Capitol grounds and taking photographs of the building.",
+          "image_url": "https://c.ndtvimg.com/2026-08/j3uc8l5g_jessica-bowie_625x300_21_August_26.jpeg",
+          "article_url": "https://www.ndtv.com/world-news/isis-inspired-woman-charged-over-plot-to-attack-new-york-capitol-building-11938292#publisher=newsstand",
+          "published_at": "Fri, 21 Aug 2026 02:37:04 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLXVzLWlyYW4td2FyLWJy",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "US-Iran war brings Air India Group's international carriage down 35%, IndiGo's 15.4%",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/business/india-business/us-iran-war-brings-air-india-groups-international-carriage-down-35-indigos-15-4/articleshow/133387543.cms",
+          "published_at": "Fri, 21 Aug 2026 02:32:44 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "emRuZXQtZ29vZ2xlLXBpeGVs",
           "source_id": "zdnet",
@@ -5068,7 +5358,7 @@
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "First U.S. Deportees to Arrive in Liberia Amid Growing Backlash",
           "summary": "The five men were part of the first group of deportees to be sent to the West African nation by the Trump administration. The Liberian government has not clarified their status.",
           "image_url": "https://static01.nyt.com/images/2026/09/02/multimedia/20int-liberia-trump-deportees-1-fcjz/02int-liberia-trump-deportees-1-fcjz-mediumSquareAt3X.jpg",
@@ -5111,6 +5401,22 @@
           ]
         },
         {
+          "id": "bnl0LWFzLXByaW5jZS1oYXJy",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "As Prince Harry and Meghan Depart California for the U.K., Their Neighbors Shrug",
+          "summary": "Prince Harry and Meghan Markle self exiled to the ultrawealthy enclave of Montecito in 2020. “They wave. They drive. They close the gates,” a neighbor said.",
+          "image_url": "https://static01.nyt.com/images/2026/08/20/multimedia/20nat-ca-sussexes-fwvj/20nat-ca-sussexes-fwvj-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/20/us/prince-harry-meghan-montecito-california-uk.html",
+          "published_at": "Thu, 20 Aug 2026 20:41:36 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YmJjLWphaWxlZC1wYWtpc3Rh",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -5122,6 +5428,22 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b38/live/42cda0b0-9cd7-11f1-8c2c-67800657f112.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
           "published_at": "Thu, 20 Aug 2026 20:40:17 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXVzLXB1bW1l",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "US pummels Cuban economy with new sanctions on mining, construction",
+          "summary": "US economic restrictions have strained the island's already fragile economy, prompting blackouts and medical shortages.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss",
+          "published_at": "Thu, 20 Aug 2026 20:37:25 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5186,38 +5508,6 @@
           "image_url": "https://th-i.thgim.com/public/opinion/op-ed/48w6ys/article71369981.ece/alternates/LANDSCAPE_1200/iStock-1362742525.jpg",
           "article_url": "https://www.thehindu.com/opinion/lead/centres-fiscal-outlook-faces-geopolitical-revenue-risks/article71369976.ece",
           "published_at": "Fri, 21 Aug 2026 01:52:06 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy1oeXVuZGFpLXRvLWlu",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Hyundai to increase U.S. production at new Georgia plant, CEO tells CNBC",
-          "summary": "The previously undisclosed capacity increase is part of Hyundai's plan to invest $26 billion in the U.S. through 2028.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/20/hyundai-georgia-metaplant-us-production.html",
-          "published_at": "Thu, 20 Aug 2026 20:18:07 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy1iZXNzZW50J3MtZWZm",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try",
-          "summary": "Market experts showed skepticism at whether the push would succeed against a bevy of factors working against Treasurys.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/20/bessents-efforts-in-the-treasury-market-so-far-havent-worked-heres-what-else-he-can-try.html",
-          "published_at": "Thu, 20 Aug 2026 20:09:30 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -5303,22 +5593,6 @@
           ]
         },
         {
-          "id": "YWxqYXplZXJhLXN5cmlh4oCZ",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Syria’s civil society navigates post-Assad era: Partnership or control?",
-          "summary": "Syria's civil society grapples with redefining its role as the state reasserts itself after Assad's fall.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/features/2026/8/20/syrias-civil-society-navigates-post-assad-era-partnership-or-control?traffic_source=rss",
-          "published_at": "Thu, 20 Aug 2026 19:59:54 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bnl0LXR3by1iaW5hbmNlLWVt",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -5352,17 +5626,17 @@
           ]
         },
         {
-          "id": "bnl0LWNhbmFkYS1hbmQtdS5z",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
+          "id": "dGhlaGluZHUtbmVlZC1mb3It",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Canada and U.S. Resume Talks Over Trump Tariffs as a New Deadline Looms",
-          "summary": "While President Trump has declared that the two countries effectively have a deal, they remain apart on several key issues.",
-          "image_url": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-canada-tariffs-deal-mqlb/20int-canada-tariffs-deal-mqlb-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html",
-          "published_at": "Thu, 20 Aug 2026 19:53:15 +0000",
+          "feed_label": "Latest",
+          "title": "Need for phones with 8 GB RAM raises concern among Census enumerators in J&K",
+          "summary": "Issue discussed ‘for appropriate resolution’ at a meeting chaired by Chief Principal Census Officer Amit Sharma in Doda",
+          "image_url": "https://th-i.thgim.com/public/incoming/fosofa/article71370871.ece/alternates/LANDSCAPE_1200/HQLXvyjaUAAzGNC.jpg",
+          "article_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/need-for-phones-with-8-gb-ram-raises-concern-among-census-enumerators-in-jk/article71370606.ece",
+          "published_at": "Fri, 21 Aug 2026 01:23:12 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5397,39 +5671,6 @@
           "published_at": "Thu, 20 Aug 2026 19:52:48 GMT",
           "cross_sections": [
             "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLWJyb29rLW1h",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Brook makes Pakistan pay for dropped catch as England dominate first Test",
-          "summary": "England were 366-8 at stumps on a rain-marred second day, 195 runs ahead of Pakistan's meagre first innings of 171.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss",
-          "published_at": "Thu, 20 Aug 2026 19:45:08 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtcGFyZW50YWwt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Parental control features in ChatGPT for Teens | Explained",
-          "summary": "ChatGPT for Teens, designed for 13 to 17-year-olds, has features such as parental controls, “quiet hours”, study mode, and notifications for situations that need real-world interventions",
-          "image_url": "https://th-i.thgim.com/public/incoming/6101uo/article71367843.ece/alternates/LANDSCAPE_1200/ChatGPT_Teens_33976.jpg",
-          "article_url": "https://www.thehindu.com/sci-tech/technology/chatgpt-for-teens-explained/article71367865.ece",
-          "published_at": "Fri, 21 Aug 2026 01:13:25 +0530",
-          "cross_sections": [
-            "tech",
-            "ai"
           ]
         },
         {
@@ -5575,103 +5816,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "bmR0di0nZ292ZXJubWVudC1k",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "'Government Deceived Us': Jharkhand Students As Court Stays Exam Cancellation",
-          "summary": "The aspirants had staged a protest for 26 days at Ranchi's Jaipal Singh Munda Stadium before suspending the agitation for two months following the government's decision to cancel 22 recruitment exams.",
-          "image_url": "https://c.ndtvimg.com/2026-08/ec2sjv7g_jharkhand-protest_625x300_12_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/government-deceived-us-jharkhand-students-as-court-stays-exam-cancellation-11938096#publisher=newsstand",
-          "published_at": "Fri, 21 Aug 2026 00:17:38 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1maXItYWdhaW5zdC1t",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "FIR Against Meesho As Gurugram Teen Dead After Consuming Chemical He Bought Online",
-          "summary": "Police allegedly found during the probe that the boy had ordered the poisonous substance on Meesho using the name of a person based in Surat.",
-          "image_url": "https://c.ndtvimg.com/2026-07/8mo70pkc_meesho_625x300_24_July_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/fir-against-online-platform-seller-for-toxic-chemicals-sale-that-killed-17-year-old-in-gurugram-11938087#publisher=newsstand",
-          "published_at": "Fri, 21 Aug 2026 00:14:27 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di0id2l0aC11cy1vci1h",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "\"With Us Or Against Us\": US Official Warns Allies On Economic Isolation Of Iran",
-          "summary": "Speaking to CNBC, in a message to allies, he said, \"This is going to be the greatest coordinated economic isolation in the history of the world. And we are going to them and saying you are either with us or against us\".",
-          "image_url": "https://c.ndtvimg.com/2025-08/gifusu3k_scott-bessent-afp_625x300_27_August_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/with-us-or-against-us-us-official-scott-bessent-warns-allies-on-coordinated-economic-isolation-of-iran-11938079#publisher=newsstand",
-          "published_at": "Fri, 21 Aug 2026 00:09:47 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iY3RlY2gtc3RyaXBlLXRv",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Stripe to buy OpenRouter as fintech expands deeper into AI",
-          "summary": "Stripe said it's acquiring OpenRouter, as the payments company expands into the artificial intelligence model market.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/19/stripe-openrouter-fintech-ai-model-marketplace-.html",
-          "published_at": "Thu, 20 Aug 2026 18:22:45 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "Zm94LWFyY3RpYy1wb3dlci1w",
-          "source_id": "fox",
-          "source_name": "Fox News",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Arctic power play gives top US adversary new opening with Russia as US stakes grow",
-          "summary": "China launched seasonal container service to Europe via Russia's Arctic Northern Sea Route, raising U.S. concerns over the Polar Silk Road strategy.",
-          "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Russia-ice-breaker-arctic.jpg?ve=1&tl=1",
-          "article_url": "https://www.foxnews.com/world/arctic-power-play-gives-top-us-adversary-new-opening-russia-us-stakes-grow",
-          "published_at": "Thu, 20 Aug 2026 14:22:17 -0400",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1saW5rZGF6",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-          "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-          "published_at": "Thu, 20 Aug 2026 18:20:35 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -5716,23 +5860,6 @@
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3EG7jnrPd0w9anUPiP8ILp/644fe4c44bc89c18e80c1e16abd8b627/u7277289442_A_sophisticated_AI_robot_is_routing_data_through__4b48c76d-d078-4d75-b0c9-c6fcb001d634_0.png?w=300&q=30",
           "article_url": "https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time",
           "published_at": "Thu, 20 Aug 2026 19:57:01 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtcGFyZW50YWwt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Parental control features in ChatGPT for Teens | Explained",
-          "summary": "ChatGPT for Teens, designed for 13 to 17-year-olds, has features such as parental controls, “quiet hours”, study mode, and notifications for situations that need real-world interventions",
-          "image_url": "https://th-i.thgim.com/public/incoming/6101uo/article71367843.ece/alternates/LANDSCAPE_1200/ChatGPT_Teens_33976.jpg",
-          "article_url": "https://www.thehindu.com/sci-tech/technology/chatgpt-for-teens-explained/article71367865.ece",
-          "published_at": "Fri, 21 Aug 2026 01:13:25 +0530",
           "cross_sections": [
             "tech",
             "ai"
@@ -5858,6 +5985,23 @@
           ]
         },
         {
+          "id": "dGhlaGluZHUtcGFyZW50YWwt",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Parental control features in ChatGPT for Teens | Explained",
+          "summary": "ChatGPT for Teens, designed for 13 to 17-year-olds, has features such as parental controls, “quiet hours”, study mode, and notifications for situations that need real-world interventions",
+          "image_url": "https://th-i.thgim.com/public/incoming/6101uo/article71367843.ece/alternates/LANDSCAPE_1200/ChatGPT_Teens_33976.jpg",
+          "article_url": "https://www.thehindu.com/sci-tech/technology/chatgpt-for-teens-explained/article71367865.ece",
+          "published_at": "Thu, 20 Aug 2026 11:33:37 +0530",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "dGhlaGluZHUtb3BlbmFpLXNh",
           "source_id": "thehindu",
           "source_name": "The Hindu",
@@ -5977,6 +6121,23 @@
           ]
         },
         {
+          "id": "ZXVyb25ld3Mtb3BlbmFpLXBs",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "OpenAI pledges to slow down its model development amid cybersecurity concerns",
+          "summary": "OpenAI announced it has paused key stages of its most advanced AI training for two weeks and is overhauling security across its research operations, a month after one of its own models broke out of a test environment and infiltrated the systems of AI platform Hugging Face.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/99/96/696x392_cmsv2_eec56627-39f4-5fab-ac20-dbd45fbb6f84-9879996.jpg",
+          "article_url": "http://www.euronews.com/next/2026/08/19/openai-pledges-to-slow-down-its-model-development-amid-cybersecurity-concerns",
+          "published_at": "Wed, 19 Aug 2026 10:40:15 +0200",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "Y29tcHV0ZXJ3b3JsZC1taWNy",
           "source_id": "computerworld",
           "source_name": "Computerworld",
@@ -6079,23 +6240,6 @@
           ]
         },
         {
-          "id": "YXJhYm5ld3MtZW5yb2xsbWVu",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Enrollment begins at Saudi-backed school for Gaza children",
-          "summary": "GAZA STRIP: Registration has opened for students seeking to enroll at Makkah School in the southern Gaza Strip, a Saudi-backed initiative aimed at helping children resume their education amid the devastation of the war, SPA has reported. \n\n\tThe school, supported by the King Salman Humanitarian Aid a",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654157/saudi-arabia",
-          "published_at": "Tue, 11 Aug 2026 02:08:54 +03",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "dG9pLWNoYXRncHQtd2FzLWRv",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -6116,7 +6260,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 10713,
+    "build_ms": 9960,
     "ai_enabled": true
   }
 }
