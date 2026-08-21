@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-21T21:44:57.683Z",
+  "last_updated": "2026-08-21T21:59:45.608Z",
   "total_articles": 311,
-  "new_this_run": 17,
+  "new_this_run": 16,
   "sources": [
     {
       "id": "techcrunch",
@@ -403,6 +403,36 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "YXJzdGVjaG5pY2EtdGh1bmRl",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Thunder + fiber-optic cabling used for seismic imaging",
+          "summary": "Thunderstorms make seismic waves that can be used to find sub-surface features.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-173019376-1152x648.jpg",
+          "article_url": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
+          "published_at": "Fri, 21 Aug 2026 20:26:46 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YXJzdGVjaG5pY2EtaGlkZGVu",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
+          "summary": "Renters say hidden Zillow listings make it harder to afford living in New York City.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-922788110-1152x648-1787340488.jpg",
+          "article_url": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/",
+          "published_at": "Fri, 21 Aug 2026 20:10:50 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YXJzdGVjaG5pY2EtbW90b3Jv",
           "source_id": "arstechnica",
           "source_name": "Ars Technica",
@@ -485,38 +515,6 @@
           "article_url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
           "published_at": "Fri, 21 Aug 2026 13:11:35 +0000",
           "cross_sections": []
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtYXMtZGVt",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
-          "summary": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/zuckoff-glasshole-1152x648.jpg",
-          "article_url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
-          "published_at": "Fri, 21 Aug 2026 11:00:53 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJzdGVjaG5pY2Etcm9ja2V0",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss",
-          "summary": "Taiwan's effort to develop its own satellite launcher hit a setback this week.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/04_4panel_enlarge_2x-1152x648-1787265662.jpg",
-          "article_url": "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/",
-          "published_at": "Fri, 21 Aug 2026 11:00:36 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -1016,6 +1014,23 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "Y25iY3RlY2gtYW50aHJvcGlj",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+          "summary": "Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+          "published_at": "Fri, 21 Aug 2026 21:50:09 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "Y25iY3RlY2gtdGVzbGEtcmVj",
           "source_id": "cnbctech",
           "source_name": "CNBC Technology",
@@ -1118,22 +1133,6 @@
           "article_url": "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html",
           "published_at": "Fri, 21 Aug 2026 09:08:18 GMT",
           "cross_sections": []
-        },
-        {
-          "id": "Y25iY3RlY2gtbWljcm9uLWNl",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Micron CEO: AI has 'totally changed' the equation for the boom-and-bust memory industry",
-          "summary": "Micron CEO Sanjay Mehrotra said on Thursday that AI has dramatically changed the memory business.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/20/micron-ceo-ai-changed-memory-industry.html",
-          "published_at": "Thu, 20 Aug 2026 22:51:36 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -1404,6 +1403,22 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "bnl0LXUucy4tYWdyZWVkLXRv",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "U.S. Agreed to Pay Liberia $5 Million in Connection with Deportees, Documents Say",
+          "summary": "The Trump administration approved the payment after Liberia said it would consider taking migrants from other countries.",
+          "image_url": "https://static01.nyt.com/images/2026/08/21/multimedia/21dc-liberia-photo-kjqh/21dc-liberia-photo-kjqh-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/21/us/politics/us-liberia-deportees-payment.html",
+          "published_at": "Fri, 21 Aug 2026 21:46:56 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "bnl0LW1lZ2hhbi1vZi1zdXNz",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1415,22 +1430,6 @@
           "image_url": "https://static01.nyt.com/images/2026/08/21/business/21biz-markle/21biz-markle-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/21/business/meghan-sussex-the-gentlemen-netflix.html",
           "published_at": "Fri, 21 Aug 2026 21:38:47 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LXUucy4tYWdyZWVkLXRv",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "U.S. Agreed to Pay Liberia $5 Million in Connection with Deportees, Documents Say",
-          "summary": "The Trump administration approved the payment after Liberia said it would consider taking migrants from other countries.",
-          "image_url": "https://static01.nyt.com/images/2026/08/21/multimedia/21dc-liberia-photo-kjqh/21dc-liberia-photo-kjqh-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/21/us/politics/us-liberia-deportees-payment.html",
-          "published_at": "Fri, 21 Aug 2026 20:56:30 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -1773,7 +1772,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-08-21T21:44:49.451Z",
+          "published_at": "2026-08-21T21:59:37.783Z",
           "cross_sections": []
         },
         {
@@ -1787,7 +1786,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-08-21T21:44:49.451Z",
+          "published_at": "2026-08-21T21:59:37.783Z",
           "cross_sections": []
         },
         {
@@ -1801,7 +1800,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-08-21T21:44:49.451Z",
+          "published_at": "2026-08-21T21:59:37.783Z",
           "cross_sections": []
         },
         {
@@ -2113,6 +2112,23 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "Y25iYy1hbnRocm9waWMtaXBv",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+          "summary": "Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+          "published_at": "Fri, 21 Aug 2026 21:50:09 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "Y25iYy10cnVtcC1zYXlzLXUu",
           "source_id": "cnbc",
           "source_name": "CNBC",
@@ -2124,20 +2140,6 @@
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
           "published_at": "Fri, 21 Aug 2026 21:31:24 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "Y25iYy10cnVtcC10by1hbGxv",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
-          "summary": "Beef prices in the U.S have soared in 2026 due to a reduction in the nation's cattle herd.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
-          "published_at": "Fri, 21 Aug 2026 20:56:19 GMT",
           "cross_sections": []
         },
         {
@@ -2169,20 +2171,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "Y25iYy1hcy1nb3Atd2FybnMt",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "As GOP warns data centers put Ohio Senate seat at risk, Husted defends energy policy",
-          "summary": "Vice President JD Vance joined Sen. Jon Husted and other GOP leaders at a Middletown, Ohio, steel plant, as data center fears loom.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/21/jon-husted-data-centers-ohio-senate.html",
-          "published_at": "Fri, 21 Aug 2026 20:03:13 GMT",
-          "cross_sections": []
         },
         {
           "id": "Y25iYy1rZW4tZ3JpZmZpbi1z",
@@ -2257,6 +2245,20 @@
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "Y25iYy10aGUtbG9zLWFuZ2Vs",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "The Los Angeles Lakers sold for $12.5 billion. Here’s what every NBA team is now worth",
+          "summary": "The pending $12.5 billion Lakers sale would lift CNBC’s average NBA team valuation 21% to $6.68 billion, with the Warriors still No. 1.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/20/heres-how-the-los-angeles-lakers-12point5b-sale-impacts-the-value-of-all-30-nba-teams.html",
+          "published_at": "Fri, 21 Aug 2026 13:15:27 GMT",
+          "cross_sections": []
         },
         {
           "id": "Y25iYy1jaGluZXNlLWh1bWFu",
@@ -2608,6 +2610,20 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YmJjLWdpcmwsLTYsLWRpZXMt",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
+          "summary": "She is the fourth person to die after her family got into difficulty in water in Shoreham.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8911/live/1fc38590-9da8-11f1-95ab-d3b679e2384a.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 21 Aug 2026 21:57:16 GMT",
+          "cross_sections": []
+        },
+        {
           "id": "YmJjLXRpa3Rvay10by1wYXkt",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2619,20 +2635,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebfc/live/7de297d0-9da6-11f1-95ab-d3b679e2384a.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 21 Aug 2026 21:40:47 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "YmJjLWdpcmwsLTYsLWRpZXMt",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
-          "summary": "She is the fourth person to die after her family got into difficulty in water in Shoreham.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8911/live/1fc38590-9da8-11f1-95ab-d3b679e2384a.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 21 Aug 2026 21:38:53 GMT",
           "cross_sections": []
         },
         {
@@ -3826,6 +3828,22 @@
           "cross_sections": []
         },
         {
+          "id": "dG9pLXVzLWVudm95LXdyYXBz",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "US envoy wraps up Ladakh visit, skips meeting Dalai Lama",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/us-envoy-wraps-up-ladakh-visit-skips-meeting-dalai-lama/articleshow/133412993.cms",
+          "published_at": "Sat, 22 Aug 2026 00:32:14 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dG9pLWZpZmEtYmFucy1sZWFu",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3853,22 +3871,6 @@
           "image_url": null,
           "article_url": "https://timesofindia.indiatimes.com/technology/tech-news/government-orders-google-to-shut-down-hundreds-of-firebase-accounts-after-finding-pattern-of-the-service-being-misused-by-criminals/articleshow/133403273.cms",
           "published_at": "Fri, 21 Aug 2026 17:27:46 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLXRoZS1pbnZpc2libGUt",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "The invisible war: Iran's evolving cyberattacks bring battlefront to small-town America",
-          "summary": "The escalation of Iran's cyber capabilities in its ongoing tensions with the US and Israel is becoming increasingly pronounced. Recent intrusions into US water facilities mark a transition into a new blend of warfare. These digital strikes bolster military initiatives while attempting to sway intern",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/world/middle-east/the-invisible-war-irans-evolving-cyberattacks-bring-battlefront-to-small-town-america/articleshow/133267088.cms",
-          "published_at": "Fri, 21 Aug 2026 15:07:06 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4178,6 +4180,22 @@
           "cross_sections": []
         },
         {
+          "id": "dGhlaGluZHUtdHJhZGUtdW5p",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Trade unions sound alarm over Supreme Court judgment on definition of industry",
+          "summary": "CITU general secretary Elamaram Kareem says both the Legislature and the Judiciary failed to protect the rights of workers mandated by the Constitution",
+          "image_url": "https://th-i.thgim.com/public/incoming/2bahvd/article71375233.ece/alternates/LANDSCAPE_1200/80692_1_4_2026_13_51_15_1_02TVKZELAMARAMKAREEM1.JPG",
+          "article_url": "https://www.thehindu.com/news/national/trade-unions-sound-alarm-over-supreme-court-judgment-on-definition-of-industry/article71375019.ece",
+          "published_at": "Sat, 22 Aug 2026 01:53:22 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dGhlaGluZHUtZ3JpZXZhbmNl",
           "source_id": "thehindu",
           "source_name": "The Hindu",
@@ -4221,20 +4239,6 @@
           "image_url": null,
           "article_url": "https://www.thehindu.com/news/cities/Delhi/aap-alleges-delhi-l-g-ignoring-requests-for-meeting-on-scams/article71375336.ece",
           "published_at": "Sat, 22 Aug 2026 01:44:09 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtY3JvcC1kYW1h",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Crop damage, production dip, and festival demand led to price hike, says govt.",
-          "summary": "Closely monitoring the situation, says the Centre and promises steps to ease the burden; it says rise in prices cannot be attributed to ethanol",
-          "image_url": "https://th-i.thgim.com/public/incoming/kjqd9a/article71375012.ece/alternates/LANDSCAPE_1200/TH20-PTI-Govt-aGH6GE3V6M.4.jpg.jpg",
-          "article_url": "https://www.thehindu.com/news/national/odisha-madhya-pradesh-punjab-hit-the-most-by-sugar-price-hike/article71374655.ece",
-          "published_at": "Sat, 22 Aug 2026 01:40:37 +0530",
           "cross_sections": []
         },
         {
@@ -4504,12 +4508,28 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "bmR0di11a3JhaW5lLXNhbmN0",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Ukraine Sanctions Russian Hit 'Masha And The Bear' Cartoon",
+          "summary": "\"Ukraine has imposed sanctions against the producers and distributors of the Russian animated series 'Masha and the Bear',\" Ukrainian Culture Minister Tetyana Berezhna said on X.",
+          "image_url": "https://c.ndtvimg.com/2026-08/om47j6p4_masha-and-the-bear_625x300_22_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/world-news/ukraine-sanctions-russian-hit-masha-and-the-bear-cartoon-11942965#publisher=newsstand",
+          "published_at": "Sat, 22 Aug 2026 02:47:34 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "bmR0di0iZGljdGF0b3IiLC0i",
           "source_id": "ndtv",
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
-          "feed_label": "World",
+          "feed_label": "Top Stories",
           "title": "\"Dictator\", \"Genocide\": Israel, Turkey At Loggerheads Over Syria Attack",
           "summary": "Turkey has become a virulent critic of Israel's war in Gaza, sparked by Palestinian Islamist movement Hamas's October 7, 2023 attack.",
           "image_url": "https://c.ndtvimg.com/2026-06/1jc3hga4_netanyahu-erdogan_625x300_10_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
@@ -4619,7 +4639,7 @@
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Mother Of Gaza Girl Hind Rajab Demands Independent Probe Into Her Death",
           "summary": "Israel's military this week admitted to firing at the family's car as it fled an Israeli invasion and firing toward an ambulance dispatched to help them.",
           "image_url": "https://c.ndtvimg.com/2024-02/krm5prf_hind-rajab_625x300_11_February_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
@@ -4633,7 +4653,7 @@
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Netherlands Fines Uber 825 Million Euros Over Driver Account Deactivations",
           "summary": "The ruling is based on European data regulations which state that people should not \"be subject to a decision based solely on automated processing\".",
           "image_url": "https://c.ndtvimg.com/2026-03/v89o2sbg_uber_625x300_10_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
@@ -4653,20 +4673,6 @@
           "image_url": "https://c.ndtvimg.com/2019-09/3pt3goso_benjamin-netanyahu-reuters_625x300_20_September_19.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
           "article_url": "https://www.ndtv.com/world-news/turkey-issues-genocide-warrant-for-netanyahu-over-flotilla-interception-11942702#publisher=newsstand",
           "published_at": "Sat, 22 Aug 2026 00:01:58 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "bmR0di1ndWxmLWNvdW50cmll",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Gulf Countries Deport Over 20,000 Pakistanis For Begging, Security Reasons",
-          "summary": "The data, provided by the Narcotics Control Ministry, sheds light on the scale of deportations as Gulf authorities cited security concerns as well as immigration and criminal violations.",
-          "image_url": "https://c.ndtvimg.com/2025-12/hq3g7a6o_pak-beggar-afp_625x300_18_December_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/gulf-countries-deport-over-20-000-pakistanis-for-begging-security-reasons-11942682#publisher=newsstand",
-          "published_at": "Fri, 21 Aug 2026 23:57:22 +0530",
           "cross_sections": []
         }
       ]
@@ -4806,130 +4812,130 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "YXJhYm5ld3MtY2FuLWFsLWJ1",
+          "id": "YXJhYm5ld3MtYmlyZC1mbHUt",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Can Al-Burhan’s Sudanese national dialogue turn military gains into a political settlement?",
-          "summary": "LONDON: More than three years after Sudan descended into civil war, army chief Gen. Abdel Fattah Al-Burhan is pushing for a broad national dialogue aimed at rebuilding the country’s political institutions and laying the foundations for a civilian transition.\n\n\tTalks could begin as early as August, w",
+          "title": "Bird flu kills 13,000 seal pups on remote Australian island",
+          "summary": "SYDNEY: A pathogenic strain of bird flu killed more than 13,000 elephant seal pups after infecting a breeding colony on a sub-Antarctic volcanic island, Australian scientists said Thursday.\n\tResearchers found the remote Heard and McDonald Islands littered with seal carcasses when they arrived on a r",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654150/middle-east",
-          "published_at": "Mon, 10 Aug 2026 11:08:33 +03",
+          "article_url": "https://www.arabnews.com/node/2647655/offbeat",
+          "published_at": "Thu, 18 Jun 2026 10:06:51 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtZmlyZS1icmVh",
+          "id": "YXJhYm5ld3MtcmVjaXBlcy1m",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Fire breaks out at Libya’s Zawiya refinery",
-          "summary": "TRIPOLI: A fire broke out on Monday ​in a diesel tank at Libya’s Zawiya refinery days after the facility was hit by drone.\n\n\tThe circumstances of Monday's fire remained unknown, Brega Petroleum Marketing Company said in a statement.\n\tBrega is owned by state oil firm National Oil Corporation (NOC) an",
+          "title": "Recipes for Success: Chef Robert Tsitaishvili talks simplicity, salt, and stories",
+          "summary": "DUBAI: Robert Tsitaishvili is the head chef of Qartuli, a Georgian restaurant in Downtown Dubai, where his goal, he says, is “to reinterpret Georgian culinary heritage for a contemporary audience.” \n\n\tTsitaishvili has more than 12 years of experience spanning hotels and restaurants across Georgia an",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654151/middle-east",
-          "published_at": "Mon, 10 Aug 2026 11:08:10 +03",
+          "article_url": "https://www.arabnews.com/node/2647653/lifestyle",
+          "published_at": "Thu, 18 Jun 2026 10:06:49 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtaXNyYWVsaS1z",
+          "id": "YXJhYm5ld3Mtb2lsLWZhbGxz",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Israeli settler attack on Al-Mughayyir highlights surge in West Bank violence",
-          "summary": "RAMALLAH: Israeli settlers, under the protection of Israeli occupation forces, have attacked the village of Al-Mughayyir, northeast of Ramallah.\n\n\tAmin Abu Aliya, the head of the Al-Mughayyir Village Council, said that settlers attacked Palestinian farmers in the eastern plain area and local residen",
+          "title": "Oil falls to 3-1/2-month low after US, Iran sign ceasefire deal",
+          "summary": "BEIJING/SINGAPORE: Oil prices ​fell by more than $2 per barrel on Thursday after the US and Iran signed an interim agreement that ‌would end the Iran war, reopen the Strait of Hormuz and waive US sanctions on Tehran’s oil, boosting the oil supply outlook.\n\n\tBrent crude futures were down $2.14, or 2.",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654145/middle-east",
-          "published_at": "Mon, 10 Aug 2026 10:08:48 +03",
+          "article_url": "https://www.arabnews.com/node/2647650/business-economy",
+          "published_at": "Thu, 18 Jun 2026 10:06:46 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3Mtc3lyaWFuLWxl",
+          "id": "YXJhYm5ld3Mta2FuZS1kb3Vi",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Syrian leader receives UN refugee chief in Damascus",
-          "summary": "DAMASCUS: President Ahmad Al-Sharaa received UN High Commissioner for Refugees Barham Salih and his accompanying delegation at the People’s Palace in Damascus on Monday, in the presence of Minister of Foreign Affairs and Expatriates Asaad Hassan Al-Shaibani.\n\tThe meeting focused on ways to strengthe",
+          "title": "Kane double fires England World Cup bid as Ronaldo’s Portugal stumble",
+          "summary": "LOS ANGELES, United States: England launched their World Cup bid with a rollercoaster 4-2 win against Croatia on Wednesday as Cristiano Ronaldo and Portugal stumbled to a draw against the Democratic Republic of Congo.\n\tIn an enthralling Group L game at the Texas home of the Dallas Cowboys NFL team, ",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654147/middle-east",
-          "published_at": "Mon, 10 Aug 2026 10:08:45 +03",
+          "article_url": "https://www.arabnews.com/node/2647651/sport",
+          "published_at": "Thu, 18 Jun 2026 10:06:26 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtdGVlbmFnZXIt",
+          "id": "YXJhYm5ld3MtbGluYS1naG90",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Teenager dies trying to rescue swimmers at Alexandria beach",
-          "summary": "ALEXANDRIA: An 18-year-old man died while attempting to help rescue six people from drowning at El-Baitash beach in Alexandria, Egypt, on Saturday, local authorities said.\n\tThe Central Administration for Tourism and Resorts in Alexandria said on Sunday that the beach was among those closed to swimme",
+          "title": "Lina Ghotmeh: ‘Being in AlUla, you start to understand all the beauty of the world’",
+          "summary": "ALULA: AlUla is no stranger to art. It is renowned as an “open-air natural museum” with 7,000 years of lived-in history. Even so, the upcoming AlUla Contemporary Art Museum, created as part of Saudi Vision 2030, is sure to be the talk of the town.",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654149/middle-east",
-          "published_at": "Mon, 10 Aug 2026 10:08:39 +03",
+          "article_url": "https://www.arabnews.com/node/2647649/lifestyle",
+          "published_at": "Thu, 18 Jun 2026 10:06:11 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtaGlzdG9yaWMt",
+          "id": "YXJhYm5ld3MtYXVzdHJhbGlh",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Historic trails, dramatic peaks position Taif as Saudi Arabia’s emerging hiking capital",
-          "summary": "MAKKAH: Cradled among dramatic mountain ridges, lush valleys and cool highland breezes, Taif is rapidly cementing its reputation as one of Saudi Arabia’s premier outdoor destinations — with mountain hiking leading its eco-tourism surge.\n\n\tDriven by growing domestic interest in outdoor recreation und",
+          "title": "Australia says net migration down as far-right popularity surges",
+          "summary": "SYDNEY: Australia’s immigration levels fell last year, official data showed on Thursday, as its center-left government seeks to combat an ascendent far-right riding a wave of public discontent over soaring housing prices and cost of living.\n\tNet overseas migration added 301,000 people to Australia’s",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654143/saudi-arabia",
-          "published_at": "Mon, 10 Aug 2026 10:08:37 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3Mtd2hhdC13ZS1h",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "What We Are Reading Today: ‘Silk Roads, Steppe Roads’ by Jonathan Karam Skaff",
-          "summary": "“Silk Roads, Steppe Roads” takes the reader on a journey to three sites in northwestern China and Mongolia to investigate medieval Chinese tombs containing evidence of Eastern Eurasian cultural contacts and exchanges. \n\n\tThe construction, artifacts, and texts on paper and stone found at these tombs ",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654146/books",
-          "published_at": "Mon, 10 Aug 2026 10:08:22 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtYWwtbmFzc3It",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Al-Nassr fans worried ahead of new season but Ange might be the man to steer them to glory",
-          "summary": "RIYADH: It is not a good time to be an Al-Nassr fan. While that might sound like a bizarre statement to make, considering the club ended a seven-year title drought by beating Al-Hilal to the Saudi Pro League title last season, they face a stark reality as they prepare to defend their title.",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654148/sport",
-          "published_at": "Mon, 10 Aug 2026 10:08:19 +03",
+          "article_url": "https://www.arabnews.com/node/2647652/world",
+          "published_at": "Thu, 18 Jun 2026 10:06:08 +03",
           "cross_sections": []
+        },
+        {
+          "id": "YXJhYm5ld3MtZGFpbHktdGVs",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Daily Telegraph columnist argues Saudi Arabia should join G7",
+          "summary": "DUBAI: Saudi Arabia should be invited to join the Group of Seven nations as the organization adapts to a changing global order, according to a column published in the Daily Telegraph by former UK prime ministerial representative to Saudi Arabia Ken Costa.\n\n\tCosta argued that while the G7 was created",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2647644/saudi-arabia",
+          "published_at": "Thu, 18 Jun 2026 09:06:26 +03",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtdHJ1bXAsLW5l",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Trump, Netanyahu clash over Iran strategy and Lebanon ceasefire",
+          "summary": "DUBAI: American President Donald Trump and Israeli Prime Minister Benjamin Netanyahu have found themselves at odds over Iran, Lebanon and the course of ongoing negotiations in the Middle East according to The Washington Post.",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2647647/middle-east",
+          "published_at": "Thu, 18 Jun 2026 09:06:00 +03",
+          "cross_sections": [
+            "tech"
+          ]
         }
       ]
     }
@@ -5103,6 +5109,56 @@
       "icon": "💻",
       "articles": [
         {
+          "id": "Y25iY3RlY2gtYW50aHJvcGlj",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+          "summary": "Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+          "published_at": "Fri, 21 Aug 2026 21:50:09 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "Y25iYy1hbnRocm9waWMtaXBv",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+          "summary": "Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+          "published_at": "Fri, 21 Aug 2026 21:50:09 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "bnl0LXUucy4tYWdyZWVkLXRv",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "U.S. Agreed to Pay Liberia $5 Million in Connection with Deportees, Documents Say",
+          "summary": "The Trump administration approved the payment after Liberia said it would consider taking migrants from other countries.",
+          "image_url": "https://static01.nyt.com/images/2026/08/21/multimedia/21dc-liberia-photo-kjqh/21dc-liberia-photo-kjqh-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/21/us/politics/us-liberia-deportees-payment.html",
+          "published_at": "Fri, 21 Aug 2026 21:46:56 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "bnl0LW1lZ2hhbi1vZi1zdXNz",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -5146,6 +5202,22 @@
           "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
           "article_url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
           "published_at": "2026-08-21T21:25:50.000Z",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di11a3JhaW5lLXNhbmN0",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Ukraine Sanctions Russian Hit 'Masha And The Bear' Cartoon",
+          "summary": "\"Ukraine has imposed sanctions against the producers and distributors of the Russian animated series 'Masha and the Bear',\" Ukrainian Culture Minister Tetyana Berezhna said on X.",
+          "image_url": "https://c.ndtvimg.com/2026-08/om47j6p4_masha-and-the-bear_625x300_22_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/world-news/ukraine-sanctions-russian-hit-masha-and-the-bear-cartoon-11942965#publisher=newsstand",
+          "published_at": "Sat, 22 Aug 2026 02:47:34 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5215,22 +5287,6 @@
           ]
         },
         {
-          "id": "bnl0LXUucy4tYWdyZWVkLXRv",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "U.S. Agreed to Pay Liberia $5 Million in Connection with Deportees, Documents Say",
-          "summary": "The Trump administration approved the payment after Liberia said it would consider taking migrants from other countries.",
-          "image_url": "https://static01.nyt.com/images/2026/08/21/multimedia/21dc-liberia-photo-kjqh/21dc-liberia-photo-kjqh-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/21/us/politics/us-liberia-deportees-payment.html",
-          "published_at": "Fri, 21 Aug 2026 20:56:30 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "Y25ldC10aGUtZGVhZC1pbnRl",
           "source_id": "cnet",
           "source_name": "CNET",
@@ -5258,6 +5314,22 @@
           "image_url": null,
           "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/tunisian-protesters-call-for-president-kais-saied-to-step-down?traffic_source=rss",
           "published_at": "Fri, 21 Aug 2026 20:35:07 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdHJhZGUtdW5p",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Trade unions sound alarm over Supreme Court judgment on definition of industry",
+          "summary": "CITU general secretary Elamaram Kareem says both the Legislature and the Judiciary failed to protect the rights of workers mandated by the Constitution",
+          "image_url": "https://th-i.thgim.com/public/incoming/2bahvd/article71375233.ece/alternates/LANDSCAPE_1200/80692_1_4_2026_13_51_15_1_02TVKZELAMARAMKAREEM1.JPG",
+          "article_url": "https://www.thehindu.com/news/national/trade-unions-sound-alarm-over-supreme-court-judgment-on-definition-of-industry/article71375019.ece",
+          "published_at": "Sat, 22 Aug 2026 01:53:22 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5354,6 +5426,22 @@
           "image_url": "https://static01.nyt.com/images/2026/08/21/multimedia/21up-ballroom-staircase-gmwh/21up-ballroom-staircase-gmwh-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/21/upshot/ballroom-trump-white-house.html",
           "published_at": "Fri, 21 Aug 2026 20:11:37 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJzdGVjaG5pY2EtaGlkZGVu",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
+          "summary": "Renters say hidden Zillow listings make it harder to afford living in New York City.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-922788110-1152x648-1787340488.jpg",
+          "article_url": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/",
+          "published_at": "Fri, 21 Aug 2026 20:10:50 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5536,6 +5624,22 @@
           ]
         },
         {
+          "id": "dG9pLXVzLWVudm95LXdyYXBz",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "US envoy wraps up Ladakh visit, skips meeting Dalai Lama",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/us-envoy-wraps-up-ladakh-visit-skips-meeting-dalai-lama/articleshow/133412993.cms",
+          "published_at": "Sat, 22 Aug 2026 00:32:14 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "bmR0di11cy1wbGFucy10by1y",
           "source_id": "ndtv",
           "source_name": "NDTV",
@@ -5646,103 +5750,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "bnl0LXByaW5jZS1oYXJyeSwt",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Prince Harry, Elton John and Others Told to Pay Daily Mail Publisher $13 Million",
-          "summary": "Harry and six other high-profile figures lost a privacy lawsuit against Associated Newspapers. They may eventually have to pay more than twice the initial sum, a judge said.",
-          "image_url": "https://static01.nyt.com/images/2026/08/21/multimedia/21int-UK-HARRY-COURT-kbtf/21int-UK-HARRY-COURT-kbtf-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/21/world/europe/prince-harry-daily-mail-publisher-pay.html",
-          "published_at": "Fri, 21 Aug 2026 18:22:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LXZvdGVycy1hcmVu4oCZ",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers",
-          "summary": "As a backlash grows over data centers, more local officials are facing recall elections for their support of the computing sites.",
-          "image_url": "https://static01.nyt.com/images/2026/08/21/multimedia/DATACENTER-RECALLS-1-01-bvfh/DATACENTER-RECALLS-1-01-bvfh-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html",
-          "published_at": "Fri, 21 Aug 2026 18:12:48 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "emRuZXQtd2FsbWFydC13aWxs",
-          "source_id": "zdnet",
-          "source_name": "ZDNet",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Walmart will finally accept Apple Pay and Google Pay. Here's what's changing",
-          "summary": "Walmart was one of the last big retailers to not accept tap-to-pay. Now what happens to Walmart Pay?",
-          "image_url": null,
-          "article_url": "https://www.zdnet.com/article/walmart-now-accepts-google-pay-apple-pay/",
-          "published_at": "Fri, 21 Aug 2026 18:11:37 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhldmVyZ2UtJDEwMC1iZXN0",
-          "source_id": "theverge",
-          "source_name": "The Verge",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "$100 Best Buy gift cards will be $60 at stores Saturday",
-          "summary": "The best gift card deal we’ve spotted this year is happening Saturday, August 22nd, at Best Buy stores for one day only. In celebration of the retailer’s 60th anniversary, you can purchase a $100 Best Buy gift card for $60. The deal is only good for as long as supplies last at your local store, so y",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/assets/2464767/best-buy-logo-stock1_2040.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "article_url": "https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal",
-          "published_at": "2026-08-21T18:00:00.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy1iZXNzZW50J3MtYm9u",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Bessent's bond gambit aimed at calming markets is instead stirring inflation worries",
-          "summary": "The so-called breakeven rate hit its highest levels in more than two months.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/21/bessents-bond-gambit-aimed-at-calming-markets-is-instead-stirring-inflation-worries-.html",
-          "published_at": "Fri, 21 Aug 2026 17:51:10 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "emRuZXQtaG93LWF3cy1tYXJr",
-          "source_id": "zdnet",
-          "source_name": "ZDNet",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "How AWS Marketplace is using AI agents to meet the rising demand for AI agents",
-          "summary": "Increasingly, AI agents are handling the nitty-gritty admin and due diligence tasks, but agent-powered marketplaces won't replace live human sales reps or engineers anytime soon.",
-          "image_url": null,
-          "article_url": "https://www.zdnet.com/article/application-marketplaces-aws-ai-agents/",
-          "published_at": "Fri, 21 Aug 2026 17:48:29 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
         }
       ]
     },
@@ -5757,6 +5764,40 @@
       "name": "LLM & AI",
       "icon": "🤖",
       "articles": [
+        {
+          "id": "Y25iY3RlY2gtYW50aHJvcGlj",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+          "summary": "Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+          "published_at": "Fri, 21 Aug 2026 21:50:09 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "Y25iYy1hbnRocm9waWMtaXBv",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+          "summary": "Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+          "published_at": "Fri, 21 Aug 2026 21:50:09 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
         {
           "id": "dGVjaGNydW5jaC1udmlkaWEt",
           "source_id": "techcrunch",
@@ -6082,7 +6123,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 9927,
+    "build_ms": 8913,
     "ai_enabled": true
   }
 }
