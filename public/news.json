@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-21T17:18:13.942Z",
-  "total_articles": 306,
-  "new_this_run": 26,
+  "last_updated": "2026-08-21T17:52:31.549Z",
+  "total_articles": 307,
+  "new_this_run": 30,
   "sources": [
     {
       "id": "techcrunch",
@@ -9,6 +9,20 @@
       "region": "IT Focus",
       "category": "Tech Media",
       "articles": [
+        {
+          "id": "dGVjaGNydW5jaC13YXltby1o",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Waymo hands over documents in NHTSA’s child collision probe",
+          "summary": "The responses to NHTSA's questions so far are redacted entirely, citing \"confidential business information.\"",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/",
+          "published_at": "Fri, 21 Aug 2026 17:49:58 +0000",
+          "cross_sections": []
+        },
         {
           "id": "dGVjaGNydW5jaC13aHktaXMt",
           "source_id": "techcrunch",
@@ -109,22 +123,6 @@
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/",
           "published_at": "Fri, 21 Aug 2026 13:35:23 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1zZW5hdG9y",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Senator asks US government watchdog to review how feds use hacking tools",
-          "summary": "Senator Ron Wyden sent a letter to the U.S. federal watchdog requesting a comprehensive review of how the FBI, DEA, ICE's HSI, and the Secret Service use hacking tools and spyware against Americans.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/",
-          "published_at": "Fri, 21 Aug 2026 13:05:00 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -528,6 +526,39 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "emRuZXQtaG93LWF3cy1tYXJr",
+          "source_id": "zdnet",
+          "source_name": "ZDNet",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "How AWS Marketplace is using AI agents to meet the rising demand for AI agents",
+          "summary": "Increasingly, AI agents are handling the nitty-gritty admin and due diligence tasks, but agent-powered marketplaces won't replace live human sales reps or engineers anytime soon.",
+          "image_url": null,
+          "article_url": "https://www.zdnet.com/article/application-marketplaces-aws-ai-agents/",
+          "published_at": "Fri, 21 Aug 2026 17:48:29 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "emRuZXQtY2hhdGdwdCdzLW5l",
+          "source_id": "zdnet",
+          "source_name": "ZDNet",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "ChatGPT's new Mac plugin analyzed my iMessages - and I found it surprisingly useful",
+          "summary": "ChatGPT can now analyze text messages on your Mac to reveal how you interact with others.",
+          "image_url": null,
+          "article_url": "https://www.zdnet.com/article/chatgpts-new-mac-plugin-analyzed-my-imessages-and-i-found-it-surprisingly-useful/",
+          "published_at": "Fri, 21 Aug 2026 17:47:47 GMT",
+          "cross_sections": [
+            "ai"
+          ]
+        },
+        {
           "id": "emRuZXQtdGhlcmUncy1vbmUt",
           "source_id": "zdnet",
           "source_name": "ZDNet",
@@ -618,38 +649,6 @@
           "article_url": "https://www.zdnet.com/article/best-small-tablet/",
           "published_at": "Fri, 21 Aug 2026 11:00:43 GMT",
           "cross_sections": []
-        },
-        {
-          "id": "emRuZXQtZ29vZ2xlLXBpeGVs",
-          "source_id": "zdnet",
-          "source_name": "ZDNet",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Google Pixel Watch 5 vs. Garmin Fenix 8 Pro: Which has more accurate GPS?",
-          "summary": "Google says its new Pixel Watch 5 outperforms the location tracking on the Garmin Fenix 8 Pro. I put them to the test.",
-          "image_url": null,
-          "article_url": "https://www.zdnet.com/article/google-pixel-watch-5-vs-garmin-fenix-8-pro/",
-          "published_at": "Thu, 20 Aug 2026 21:00:46 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "emRuZXQtYWZ0ZXItb25lLXdl",
-          "source_id": "zdnet",
-          "source_name": "ZDNet",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "After one week wearing the Pixel Watch 5, here's what I want most",
-          "summary": "The Google Pixel Watch 5 is a faster, intelligent smartwatch with some helpful health and wellness features under the hood.",
-          "image_url": null,
-          "article_url": "https://www.zdnet.com/article/5-takeaways-after-wearing-the-pixel-watch-5-for-a-week/",
-          "published_at": "Thu, 20 Aug 2026 20:01:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -736,20 +735,6 @@
           ]
         },
         {
-          "id": "Y25ldC1zb21lLW5ldy1zYW1z",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Some New Samsung Device Owners Are Running Into RCS Messaging Issues",
-          "summary": "Some have shared creative workarounds for connecting to RCS messaging on newer Samsung phone models.",
-          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/3ed4d2f4-b8b6-491f-ad67-99d7530c9d6c.png",
-          "article_url": "https://www.cnet.com/tech/services-and-software/samsung-device-rcs-messaging-issues/",
-          "published_at": "2026-08-20T22:28:50.000Z",
-          "cross_sections": []
-        },
-        {
           "id": "Y25ldC1mcm9tLXRoZS1vcmln",
           "source_id": "cnet",
           "source_name": "CNET",
@@ -761,6 +746,20 @@
           "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-08-19-at-11.41.21-AM.png",
           "article_url": "https://www.cnet.com/tech/services-and-software/original-bluey-pilot-movie-d23-exclusive-look/",
           "published_at": "2026-08-20T12:31:00.000Z",
+          "cross_sections": []
+        },
+        {
+          "id": "Y25ldC1kJiMwMzg7ZC1yb2xs",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "D&#038;D Rolls a Natural 20 on Nerd Collabs, Announcing World of Warcraft and Star Wars Sets",
+          "summary": "Dice rolls are headed to Azeroth and a galaxy far, far away — starting this year.",
+          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/DnD-WoW_342344.jpg",
+          "article_url": "https://www.cnet.com/tech/gaming/dd-rolls-a-natural-20-on-nerd-collabs-announcing-world-of-warcraft-and-star-wars-sets/",
+          "published_at": "2026-07-31T03:01:47.000Z",
           "cross_sections": []
         },
         {
@@ -794,7 +793,7 @@
           "feed_label": "Latest",
           "title": "ChatGPT wants Full Disk Access to your Mac and Messages",
           "summary": "!--/* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal\t{mso-style-unhide:no;\tmso-style-qformat:yes;\tmso-style-parent:\"\";\tmargin:0cm;\tmso-pagination:widow-orphan;\tfont-size:12.0pt;\tfont-family:\"Aptos\",sans-serif;\tmso-fareast-font-family:Aptos;\tmso-bidi-font-family:\"Times New Roman\";\tmso-",
-          "image_url": null,
+          "image_url": "https://www.computerworld.com/wp-content/uploads/2026/08/4212509-0-01263400-1787333649-OpenAI-Apple-shutterstock_editorial_2797310785_1883660299.jpg?quality=50&strip=all",
           "article_url": "https://www.computerworld.com/article/4212509/chatgpt-wants-full-disk-access-to-your-mac-and-messages.html",
           "published_at": "Fri, 21 Aug 2026 15:39:02 +0000",
           "cross_sections": [
@@ -1404,6 +1403,34 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "bnl0LXRydW1wLWFubm91bmNl",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Trump Announces Move to Lift Ground Beef Tariffs in Bid to Lower Prices",
+          "summary": "Cattle ranchers have trimmed their herds in response to drought and low margins, helping push up the cost of another American staple food.",
+          "image_url": "https://static01.nyt.com/images/2026/08/21/business/21biz-beef/21biz-beef-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html",
+          "published_at": "Fri, 21 Aug 2026 17:46:23 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LXNob3VsZC15b3UtaW52",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Should You Invest in Bonds Right Now?",
+          "summary": "High-quality bonds are still safer than stocks, but they have been swinging in value, so move cautiously, our columnist says.",
+          "image_url": null,
+          "article_url": "https://www.nytimes.com/2026/08/21/business/investing-bond-market-stocks-funds.html",
+          "published_at": "Fri, 21 Aug 2026 16:48:03 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "bnl0LW5ldy1qZXJzZXktdGVl",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1468,7 +1495,7 @@
           "feed_label": "Top Stories",
           "title": "Gazebos From Uzbekistan: The Latest Foreign Gifts in Trump’s Washington",
           "summary": "The structures will go up in West Potomac Park, the site of President Trump’s planned National Garden of American Heroes.",
-          "image_url": null,
+          "image_url": "https://static01.nyt.com/images/2026/08/20/us/dc-gazebos-1/dc-gazebos-1-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/21/us/politics/uzbekistan-gazebos-trump.html",
           "published_at": "Fri, 21 Aug 2026 15:54:58 +0000",
           "cross_sections": []
@@ -1479,7 +1506,7 @@
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
-          "feed_label": "World",
+          "feed_label": "Top Stories",
           "title": "‘They’re Always Going to Be Polarizing’: Britons Split on Harry and Meghan’s Return",
           "summary": "Recent surveys suggest the broader public views both of them negatively, especially in comparison to Harry’s brother, William, and his wife, Kate.",
           "image_url": "https://static01.nyt.com/images/2026/08/21/multimedia/21uk-harry-meghan-voices-1-wghc/21uk-harry-meghan-voices-1-wghc-mediumSquareAt3X.jpg",
@@ -1523,7 +1550,7 @@
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Why China Thinks It Can Resist Trump’s Economic Threats on Iran",
           "summary": "Beijing can squeeze U.S. critical mineral supplies and has enough oil to withstand the loss of Iranian crude, Chinese analysts say.",
           "image_url": "https://static01.nyt.com/images/2026/08/21/multimedia/21int-china-iran-analysis-01-pthw/21int-china-iran-analysis-01-pthw-mediumSquareAt3X.jpg",
@@ -1553,7 +1580,7 @@
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
           "summary": "Mohammad Bagher Ghalibaf, lead negotiator in talks with Washington, made the comments after President Trump vowed an “economic D-Day” against Iran.",
           "image_url": "https://static01.nyt.com/images/2026/08/21/multimedia/21int-iran-economy-01-vhbg/21int-iran-economy-01-vhbg-mediumSquareAt3X.jpg",
@@ -1620,22 +1647,6 @@
           "image_url": "https://static01.nyt.com/images/2026/08/21/world/21int-uk-harry-security/21int-uk-harry-security-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-uk-security.html",
           "published_at": "Fri, 21 Aug 2026 11:10:47 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LWlyYW4td2FyLXJhaXNl",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Iran War Raises Risk of Collisions and Oil Spills in Strait of Hormuz",
-          "summary": "More vessels are navigating the Strait of Hormuz with their location devices turned off to evade attacks by Iran, adding to the threat of collisions.",
-          "image_url": "https://static01.nyt.com/images/2026/08/18/multimedia/Biz-Hormuz-Oil-Spills-01-gckv/Biz-Hormuz-Oil-Spills-01-gckv-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/21/business/iran-war-hormuz-oil-spill.html",
-          "published_at": "Fri, 21 Aug 2026 09:02:46 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -1737,7 +1748,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-08-21T17:18:05.035Z",
+          "published_at": "2026-08-21T17:52:22.857Z",
           "cross_sections": []
         },
         {
@@ -1751,7 +1762,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-08-21T17:18:05.035Z",
+          "published_at": "2026-08-21T17:52:22.857Z",
           "cross_sections": []
         },
         {
@@ -1765,7 +1776,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-08-21T17:18:05.035Z",
+          "published_at": "2026-08-21T17:52:22.857Z",
           "cross_sections": []
         },
         {
@@ -2077,20 +2088,32 @@
       "category": "Broadcaster",
       "articles": [
         {
-          "id": "Y25iYy11LnMuLW1pbGl0YXJ5",
+          "id": "Y25iYy1rYWxzaGktdHJhZGVy",
           "source_id": "cnbc",
           "source_name": "CNBC",
           "source_region": "North America",
           "source_category": "Broadcaster",
           "feed_label": "Top News",
-          "title": "U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May",
-          "summary": "The security situation in Hormuz remains contested but the U.S. is helping oil get through the strait.",
+          "title": "Kalshi traders think the bitcoin rally could end the year near current levels",
+          "summary": "Speculators on the prediction market platform think it's most likely that the cryptocurrency will end 2026 close to where it's now trading.",
           "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/21/strait-hormuz-central-command-centcom-oil-iran-war.html",
-          "published_at": "Fri, 21 Aug 2026 17:14:24 GMT",
-          "cross_sections": [
-            "tech"
-          ]
+          "article_url": "https://www.cnbc.com/2026/08/21/kalshi-traders-say-bitcoin-rally-wont-go-much-higher-by-end-of-2026.html",
+          "published_at": "Fri, 21 Aug 2026 17:43:25 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "Y25iYy1sb25nZXItZGF0ZWQt",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out",
+          "summary": "Concerns over the Treasury Department's debt repurchase program continue to weigh on markets.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
+          "published_at": "Fri, 21 Aug 2026 17:25:21 GMT",
+          "cross_sections": []
         },
         {
           "id": "Y25iYy10cnVtcC10by1hbGxv",
@@ -2121,20 +2144,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "Y25iYy1sb25nZXItZGF0ZWQt",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out",
-          "summary": "Concerns over the Treasury Department's debt repurchase program continue to weigh on markets.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
-          "published_at": "Fri, 21 Aug 2026 16:23:34 GMT",
-          "cross_sections": []
         },
         {
           "id": "Y25iYy1rZW4tZ3JpZmZpbi1z",
@@ -2299,22 +2308,6 @@
           "article_url": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
           "published_at": "Wed, 19 Aug 2026 18:54:50 GMT",
           "cross_sections": []
-        },
-        {
-          "id": "Y25iYy1yZXRhaWwtaW52ZXN0",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Retail investors aren't entirely giving up on AI trade, but they appear more cautious",
-          "summary": "Mom-and-Pop investors remain bullish on AI and tech, but some are adding downside protection.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/19/retail-investors-stick-with-ai-trade-but-appear-more-cautious.html",
-          "published_at": "Wed, 19 Aug 2026 11:09:33 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -2580,6 +2573,36 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YmJjLW1lZ2hhbi1pbi10YWxr",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
+          "summary": "This would be Meghan's first significant acting role since her marriage to Prince Harry.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9235/live/6a8b1d10-7bcd-11f1-b543-9988255dfa81.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 21 Aug 2026 17:49:43 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLXByaW5jZS1oYXJyeS1h",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Prince Harry and six others face privacy case legal bill of up to £34.5m",
+          "summary": "The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the Daily Mail publisher an initial £9.54m in the next seven days after losing a privacy case.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9d1/live/0b65a550-9d63-11f1-a291-b542ee92de7c.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 21 Aug 2026 17:18:41 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YmJjLXdhdGNoOi11ay1tYXJr",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2613,12 +2636,28 @@
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
           "summary": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say.",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3237/live/ba89ed70-9d72-11f1-a291-b542ee92de7c.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 21 Aug 2026 16:26:53 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLXVrLC1jYW5hZGEtYW5k",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+          "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44aa/live/1a046dd0-9d6d-11f1-b109-879e35c24276.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 21 Aug 2026 15:58:57 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -2652,22 +2691,6 @@
           "cross_sections": []
         },
         {
-          "id": "YmJjLXByaW5jZS1oYXJyeS1h",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Prince Harry and six others face privacy case legal bill of up to £34.5m",
-          "summary": "The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the Daily Mail publisher an initial £9.54m in the next seven days after losing a privacy case.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9d1/live/0b65a550-9d63-11f1-a291-b542ee92de7c.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 21 Aug 2026 15:19:15 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "YmJjLWVib2xhLXZhY2NpbmUt",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2682,20 +2705,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YmJjLWZpdmUtbWlzc2luZy1h",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Five missing after fire in Swiss Alpine town",
-          "summary": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2795/live/227f1c60-9d56-11f1-a291-b542ee92de7c.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 21 Aug 2026 13:10:39 GMT",
-          "cross_sections": []
         },
         {
           "id": "YmJjLXN0ZXZlLXJvc2VuYmVy",
@@ -3606,16 +3615,16 @@
           "cross_sections": []
         },
         {
-          "id": "ZHctbW9yb2NjbzotbWlncmFu",
+          "id": "ZHctc29jaWFsLW1lZGlhLWZ1",
           "source_id": "dw",
           "source_name": "DW News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "World",
-          "title": "Morocco: Migrants caught between Ceuta dreams and reality",
+          "title": "Social media fueled hopes of reaching Ceuta. DW meets Moroccans caught between no future at home and the risks ahead.",
           "summary": "The Moroccan city of Fnideq is next to Spanish-controlled Ceuta. In Fnideq, would-be migrants dream of crossing to a better life, even as locals who witnessed recent mass migration surges say it's way too risky.",
           "image_url": null,
-          "article_url": "https://www.dw.com/en/morocco-migrants-caught-between-ceuta-dreams-and-reality/a-78443537?maca=en-rss-en-world-4025-xml-mrss",
+          "article_url": "https://www.dw.com/en/social-media-fueled-hopes-of-reaching-ceuta-dw-meets-moroccans-caught-between-no-future-at-home-and-the-risks-ahead/a-78443537?maca=en-rss-en-world-4025-xml-mrss",
           "published_at": "Fri, 21 Aug 2026 04:49:00 GMT",
           "cross_sections": []
         }
@@ -3627,6 +3636,22 @@
       "region": "Asia-Pacific",
       "category": "Newspaper",
       "articles": [
+        {
+          "id": "dG9pLXJ1c3NpYS1naXZlcy1k",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Russia gives drones their own military branch as modern warfare enters a new era",
+          "summary": "In a significant development, Russia has established a new command for unmanned systems forces, appointing General Denis Lyamin as its leader. This initiative marks a pivotal transformation in Moscow's approach to modern warfare. Meanwhile, Ukraine has also unveiled its long-range impact command, hi",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/defence/international/russia-gives-drones-their-own-military-branch-as-modern-warfare-enters-a-new-era/articleshow/133410338.cms",
+          "published_at": "Fri, 21 Aug 2026 22:49:46 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "dG9pLWphbnRhci1tYW50YXIt",
           "source_id": "toi",
@@ -3640,22 +3665,6 @@
           "article_url": "https://timesofindia.indiatimes.com/city/delhi/reservation-hatao-aandolan-massive-gathering-at-jantar-mantar-security-upped/articleshow/133409050.cms",
           "published_at": "Fri, 21 Aug 2026 21:48:41 +0530",
           "cross_sections": []
-        },
-        {
-          "id": "dG9pLWdvdmluZGEncy1tYW5h",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Govinda's manager denies second marriage claims made by Sunita Ahuja",
-          "summary": "Sunita Ahuja claimed Govinda planned a second marriage, which his manager strongly denied. Govinda's manager expressed shock and stated no second marriage is happening. He mentioned Sunita withdrew her divorce petition after making these claims. The manager urged Sunita to consider their children's ",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govindas-manager-denies-second-marriage-claims-made-by-ssunita-ahuja-there-must-be-something-going-in-her-mind-that-she-made-those-claims/articleshow/133407726.cms",
-          "published_at": "Fri, 21 Aug 2026 20:40:26 +0530",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "dG9pLWZpZmEtYmFucy1sZWFu",
@@ -3688,6 +3697,22 @@
           "cross_sections": []
         },
         {
+          "id": "dG9pLeKAmG1hZGUtYS1zY2Fw",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "‘Made a scapegoat’: Wife of Indian captain jailed in UK over Russian oil vessel case",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/world/uk/made-a-scapegoat-wife-of-indian-captain-jailed-in-uk-over-russian-oil-vessel-case/articleshow/133404195.cms",
+          "published_at": "Fri, 21 Aug 2026 17:49:53 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dG9pLWNvbmdyZXNz4oCZcy1y",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3714,22 +3739,6 @@
           "article_url": "https://timesofindia.indiatimes.com/nri/us-canada-news/new-immigration-application-forms-for-students-h-1b-spouses-and-green-card-applicants/articleshow/133402369.cms",
           "published_at": "Fri, 21 Aug 2026 16:35:02 +0530",
           "cross_sections": []
-        },
-        {
-          "id": "dG9pLWZyb20tZHVyZ2FwdXIt",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "From Durgapur to Tuticorin: Can India’s next industrial boom happen on the east coast?",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/business/india-business/from-durgapur-to-tuticorin-can-indias-next-industrial-boom-happen-on-the-east-coast/articleshow/133399421.cms",
-          "published_at": "Fri, 21 Aug 2026 16:27:04 +0530",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "dG9pLWNoaW5lc2Utcm9ib3Qt",
@@ -3990,124 +3999,126 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dGhlaGluZHUtYWZ0ZXItcmFo",
+          "id": "dGhlaGluZHUtZ2NsLWNoYWly",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "After Rahul’s dharna, police register FIR on pellet gun use at Delhi protest",
-          "summary": "Rahul Gandhi sat in a dharna after Sahil Lochab, a 19-year-old who lost his eyesight after being hit by pellets during the protest, said the police had refused to register an FIR on his complaint",
-          "image_url": "https://th-i.thgim.com/public/incoming/nje4mu/article71373678.ece/alternates/LANDSCAPE_1200/PTI08_21_2026_000267A.jpg",
-          "article_url": "https://www.thehindu.com/news/national/delhi-police-fir-over-pellet-injuries-to-youth-during-july-20-protest/article71373663.ece",
-          "published_at": "Fri, 21 Aug 2026 22:43:51 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtZHVqLWFuZC1r",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "DUJ and KUWJ condemn raids on journalist Ravi Nair’s residences",
-          "summary": "Gujarat police seize two phones, pen drives from Nair’s Kerala home following FIR over Washington Post report co-authored by him",
-          "image_url": "https://th-i.thgim.com/public/incoming/7ppi8f/article71375142.ece/alternates/LANDSCAPE_1200/Copy%20of%20Untitled%20Design%204.jpg",
-          "article_url": "https://www.thehindu.com/news/national/duj-and-kuwj-condemn-raids-on-journalist-ravi-nairs-residences/article71373765.ece",
-          "published_at": "Fri, 21 Aug 2026 22:41:07 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtc2MtcmVsYXhl",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "SC relaxes rule to apply for judicial service, one-year practice now enough",
-          "summary": "Successful applicants with a year’s legal practice would undergo one year of intensive training at the concerned State judicial academy, followed by a final year of law clerkship with senior judicial officers and High Court judges",
-          "image_url": "https://th-i.thgim.com/public/incoming/4n6gkw/article71372641.ece/alternates/LANDSCAPE_1200/PTI08_13_2026_000565A.jpg",
-          "article_url": "https://www.thehindu.com/news/national/supreme-court-reduces-three-year-mandatory-legal-practice-to-one-year-for-the-entry-level-judicial-exam/article71372618.ece",
-          "published_at": "Fri, 21 Aug 2026 22:40:25 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtYm9vay1icmFo",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Book Brahma fest opens with conversation between languages",
-          "summary": "On the first day of Book Brahma Literature Festival, panellists has a session titled ‘Linguistic Hegemony: Indian Languages and the Federal Imagination’",
-          "image_url": "https://th-i.thgim.com/public/incoming/vndwnp/article71375128.ece/alternates/LANDSCAPE_1200/ALL_3204.JPG",
-          "article_url": "https://www.thehindu.com/news/national/karnataka/book-brahma-fest-opens-with-conversation-between-languages/article71374333.ece",
-          "published_at": "Fri, 21 Aug 2026 22:40:22 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUteXNyY3DigJlz",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "YSRCP’s charges on DSC exam are baseless, says SAAP Chairman",
-          "summary": "Ravi Naidu dismisses allegations of irregularities and challenges YSRCP to debate APPSC Group I and II exams held under previous government",
-          "image_url": "https://th-i.thgim.com/public/incoming/l3cjdn/article71374006.ece/alternates/LANDSCAPE_1200/10215_21_8_2026_17_56_0_1_IMG_20260821_WA0082.JPG",
-          "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcps-charges-on-dsc-2026-exam-are-baseless-says-saap-chairman/article71373847.ece",
-          "published_at": "Fri, 21 Aug 2026 22:39:59 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtb25hbS10cmFu",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Onam transcends caste, creed and religion, says Keralam Governor",
-          "summary": "Arlekar says the traditional attire, the grand Onasadhya and the spirit of dynamic togetherness make Onam truly unforgettable",
-          "image_url": "https://th-i.thgim.com/public/incoming/w2ixqj/article71375133.ece/alternates/LANDSCAPE_1200/NH21LokBhavan07.JPEG",
-          "article_url": "https://www.thehindu.com/news/national/kerala/onam-transcends-caste-creed-and-religion-says-keralam-governor/article71374164.ece",
-          "published_at": "Fri, 21 Aug 2026 22:38:36 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtdGFtaWwtbmFk",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Tamil Nadu lays out Vision 2031 with focus on green energy and charging infrastructure",
-          "summary": "Expanding the electric vehicle charging infrastructure, enhancing rooftop solar support, and reducing aggregate technical and commercial losses to 10% are the key goals of the project",
-          "image_url": "https://th-i.thgim.com/public/incoming/v7t5rg/article71374473.ece/alternates/LANDSCAPE_1200/IMG_IMG_C.T.R._Nirmal_Ku_2_1_3BEVSB1E.jpg",
-          "article_url": "https://www.thehindu.com/news/cities/chennai/tamil-nadu-lays-out-vision-2031-with-focus-on-green-energy-and-charging-infrastructure/article71373601.ece",
-          "published_at": "Fri, 21 Aug 2026 22:37:22 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtb25jZS1hLWNp",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Once a cinema landmark, now reduced to nothing",
+          "title": "GCL chairperson expects Bengaluru edition to be well received",
           "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/ck5as5/article71375132.ece/alternates/LANDSCAPE_1200/IMG_SAFIRE_THEATRE_2_1_P5BK50NK.jpg",
-          "article_url": "https://www.thehindu.com/news/cities/chennai/once-a-cinema-landmark-now-reduced-to-nothing/article71369132.ece",
-          "published_at": "Fri, 21 Aug 2026 22:36:47 +0530",
+          "image_url": "https://th-i.thgim.com/public/sport/dsf8bi/article71374195.ece/alternates/LANDSCAPE_1200/TH22%20Peeyush%20Dubey.jpg",
+          "article_url": "https://www.thehindu.com/sport/gcl-chairperson-expects-bengaluru-edition-to-be-well-received/article71374194.ece",
+          "published_at": "Fri, 21 Aug 2026 23:13:31 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtYWJ2cC1sYXVu",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "ABVP launches indefinite protest on Pondicherry University campus",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/9cr7u5/article71374882.ece/alternates/LANDSCAPE_1200/image.jpg",
+          "article_url": "https://www.thehindu.com/news/cities/puducherry/abvp-launches-indefinite-protest-on-pondicherry-university-campus/article71373943.ece",
+          "published_at": "Fri, 21 Aug 2026 23:12:08 +0530",
           "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtMTIsMDAwLWFw",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "12,000 applications received for the first batch of UG programmes: IIMB",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/leh08q/article71375183.ece/alternates/LANDSCAPE_1200/31bg_bgmini_IIMGMUGB6G2T.3.jpg.jpg",
+          "article_url": "https://www.thehindu.com/news/national/karnataka/12000-applications-received-for-the-first-batch-of-ug-programmes-iimb/article71374513.ece",
+          "published_at": "Fri, 21 Aug 2026 23:10:29 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtaW5kaWFuLWNv",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Indian cotton should be a global price influencer : CCI head",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/nw9qmg/article71375079.ece/alternates/LANDSCAPE_1200/2085_21_8_2026_19_54_59_1_DSC_0536.JPG",
+          "article_url": "https://www.thehindu.com/news/cities/Coimbatore/indian-cotton-should-be-a-global-price-influencer-cci-head/article71375004.ece",
+          "published_at": "Fri, 21 Aug 2026 23:08:21 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtYmFkbWludG9u",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Badminton World Championships | We are not stopping here, say Treesa and Gayatri",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/4nk795/article71374375.ece/alternates/LANDSCAPE_1200/18_BWF_World_Badminton_Championship_21_08_Delhi.jpg",
+          "article_url": "https://www.thehindu.com/sport/badminton-world-championships-we-are-not-stopping-here-say-treesa-and-gayatri/article71374262.ece",
+          "published_at": "Fri, 21 Aug 2026 23:07:41 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtbm8tcGxhbi10",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "No plan to rename Kochi Metro Rail Ltd as Keralam Metro Rail Ltd, says CM V.D. Satheesan",
+          "summary": "CM says KMRL authorities issued a press release on name change proposal without consulting with government",
+          "image_url": "https://th-i.thgim.com/public/incoming/9qqb9s/article71375169.ece/alternates/LANDSCAPE_1200/kochi_metro_07.JPG",
+          "article_url": "https://www.thehindu.com/news/national/kerala/no-plan-to-rename-kochi-metro-rail-ltd-as-keralam-metro-rail-ltd-says-cm-vd-satheesan/article71372736.ece",
+          "published_at": "Fri, 21 Aug 2026 23:00:59 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtaW5kaWEsLXUu",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "India, U.K. review defence ties, focus on R&D and industrial cooperation",
+          "summary": "Both countries agree to expand exchanges between their armed forces through joint exercises, training and capacity building initiatives",
+          "image_url": "https://th-i.thgim.com/public/incoming/ybxqp3/article71375171.ece/alternates/LANDSCAPE_1200/PTI08_21_2026_000684B.jpg",
+          "article_url": "https://www.thehindu.com/news/national/india-uk-review-defence-ties-focus-on-rd-and-industrial-cooperation/article71374969.ece",
+          "published_at": "Fri, 21 Aug 2026 23:00:42 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtZGVwdXR5LWRp",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Deputy Director General of NCC Directorate visits Madurai for administrative inspection",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/f12f3o/article71375156.ece/alternates/LANDSCAPE_1200/Nambiath%20Sudeep%20.jpg",
+          "article_url": "https://www.thehindu.com/news/cities/Madurai/deputy-director-general-of-ncc-directorate-visits-madurai-for-administrative-inspection/article71375118.ece",
+          "published_at": "Fri, 21 Aug 2026 22:50:19 +0530",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
           "id": "dGhlaGluZHUtaW5kaWEtY2Fs",
@@ -4376,6 +4387,20 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "bmR0di11YWUtd29tYW4td3Jp",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "UAE Woman Writes 150 Words On One Sticky Note, Sets Guinness World Record",
+          "summary": "Pushpajothi stated that this platform gave her the opportunity to display her talent and boosted her self-confidence.",
+          "image_url": "https://c.ndtvimg.com/2026-08/5d1ed55_world-record_625x300_21_August_26.jpeg",
+          "article_url": "https://www.ndtv.com/world-news/uae-woman-writes-150-words-on-one-sticky-note-sets-guinness-world-record-11942022#publisher=newsstand",
+          "published_at": "Fri, 21 Aug 2026 22:18:58 +0530",
+          "cross_sections": []
+        },
+        {
           "id": "bmR0di0ibGl2ZS1mb3IteW91",
           "source_id": "ndtv",
           "source_name": "NDTV",
@@ -4564,20 +4589,6 @@
           "article_url": "https://www.ndtv.com/world-news/2-ships-with-22-indians-hijacked-by-armed-pirates-off-yemen-somalia-11941058#publisher=newsstand",
           "published_at": "Fri, 21 Aug 2026 19:04:59 +0530",
           "cross_sections": []
-        },
-        {
-          "id": "bmR0di0ndG8tbW9vbi1hbmQt",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "'To Moon And Mars': Trump Pledges To Launch More Rockets Into Space",
-          "summary": "The United States is competing with China in the race to land astronauts on the Moon before 2030, more than 50 years after humans first walked the lunar surface.",
-          "image_url": "https://c.ndtvimg.com/2019-06/a1fnbq7g_donaldtrumpukvisitafp650_625x300_05_June_19.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/to-moon-and-mars-trump-pledges-to-launch-more-rockets-into-space-11941009#publisher=newsstand",
-          "published_at": "Fri, 21 Aug 2026 17:55:28 +0530",
-          "cross_sections": []
         }
       ]
     },
@@ -4587,6 +4598,50 @@
       "region": "Middle East & Africa",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "YWxqYXplZXJhLWFyc2VuYWwt",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Arsenal sign Konsa from Villa as Premier League holders bolster defence",
+          "summary": "England defender Ezri Konsa joins Arsenal from Aston Villa in a deal understood to be worth £51m ($69m).",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/sports/2026/8/21/arsenal-sign-konsa-from-villa-as-premier-league-holders-bolster-defence?traffic_source=rss",
+          "published_at": "Fri, 21 Aug 2026 17:38:06 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLXdoeS1pcmFu",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
+          "summary": "Tehran has threatened Bulgaria, home to a US air base, but how credible is that threat?",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats?traffic_source=rss",
+          "published_at": "Fri, 21 Aug 2026 17:29:17 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLWlzcmFlbGkt",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Israeli army, settlers kill 2 Palestinians in separate West Bank incidents",
+          "summary": "Israeli settlers fatally shot 17-year-old Karim Sanad Shalaldeh while Israeli forces killed 58-year-old Fathi Khazem.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/21/israeli-army-settlers-kill-2-palestinians-in-separate-west-bank-incidents?traffic_source=rss",
+          "published_at": "Fri, 21 Aug 2026 17:17:55 +0000",
+          "cross_sections": []
+        },
         {
           "id": "YWxqYXplZXJhLW1pZ3JhbnRz",
           "source_id": "aljazeera",
@@ -4662,48 +4717,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YWxqYXplZXJhLWFyc2VuYWwt",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Arsenal vs Coventry LIVE: Premier League",
-          "summary": "Follow updates from the opening match of the season - including the build-up, analysis and live text commentary.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/sports/liveblog/2026/8/21/arsenal-vs-coventry-live-premier-league?traffic_source=rss",
-          "published_at": "Fri, 21 Aug 2026 16:15:39 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLWlzcmFlbGkt",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Israeli settlers set fire to heavy machinery at West Bank quarry",
-          "summary": "Israeli settlers entered a stone quarry in Wadi Al-Rakheem near Hebron overnight and set fire to heavy machinery",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-heavy-machinery-at-west-bank-quarry?traffic_source=rss",
-          "published_at": "Fri, 21 Aug 2026 16:00:02 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLWphbm5pay1z",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Jannik Sinner to miss US Open tennis major due to knee injury",
-          "summary": "Five-time major champion Sinner, who won the US Open in 2024, will not be competing at Flushing Meadows this year.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/8/21/jannik-sinner-tennis-skip-us-open-2026-knee-injury?traffic_source=rss",
-          "published_at": "Fri, 21 Aug 2026 15:57:54 +0000",
-          "cross_sections": []
         }
       ]
     },
@@ -4714,131 +4727,124 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "YXJhYm5ld3MtZmluYWwtZWxl",
+          "id": "YXJhYm5ld3MtZ2F6YS1ib2Fy",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Final election phase begins in Pakistan-administered Kashmir despite banned group’s boycott call",
-          "summary": "MUZAFFARABAD, Pakistan: Voters went to the polls Monday in the final phase of elections for the legislative assembly in Pakistan-administered Kashmir, following weeks of violent protests and clashes with security forces that overshadowed campaigning in the disputed Himalayan region, officials said.\n",
+          "title": "Gaza Board of Peace official says plan is still operative",
+          "summary": "WASHINGTON: US President Donald Trump’s Gaza plan is still operative ​and discussions with Israel are continuing, a Board of Peace official said on Monday after Prime Minister Benjamin Netanyahu rejected an Israeli withdrawal until the Palestinian militant group Hamas is “genuinely disarmed.”\n\tNetan",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654152/world",
-          "published_at": "Tue, 11 Aug 2026 12:08:09 +03",
+          "article_url": "https://www.arabnews.com/node/2654137/middle-east",
+          "published_at": "Mon, 10 Aug 2026 09:08:32 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtZW5yb2xsbWVu",
+          "id": "YXJhYm5ld3MtemVsZW5za3kt",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Enrollment begins at Saudi-backed school for Gaza children",
-          "summary": "GAZA STRIP: Registration has opened for students seeking to enroll at Makkah School in the southern Gaza Strip, a Saudi-backed initiative aimed at helping children resume their education amid the devastation of the war, SPA has reported. \n\n\tThe school, supported by the King Salman Humanitarian Aid a",
+          "title": "Zelensky congratulates Saudi Arabia’s crown prince on Makkah defense agreement",
+          "summary": "RIYADH: Ukrainian President Volodymyr Zelensky congratulated Saudi Arabia’s Crown Prince Mohammed bin Salman on Monday for the recent signing of a regional defense agreement.\n\n\tZelensky said he hopes the Makkah Joint Defense Agreement signed between Saudi Arabia, Turkiye and Pakistan last week will ",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654157/saudi-arabia",
-          "published_at": "Tue, 11 Aug 2026 02:08:54 +03",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtdHJ1bXAtaW5z",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Trump insists Netanyahu relationship ‘very good’ despite Gaza rift",
-          "summary": "WASHINGTON, United States: President Donald Trump insisted on Monday that his relationship with Prime Minister Benjamin Netanyahu is “very good” despite the Israeli leader’s rejection of a US-led Gaza plan.\n\t“The relationship is very good,” Trump said in response to a shouted question from a journal",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654154/world",
-          "published_at": "Tue, 11 Aug 2026 01:08:46 +03",
+          "article_url": "https://www.arabnews.com/node/2654135/saudi-arabia",
+          "published_at": "Mon, 10 Aug 2026 08:08:11 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtbGlieWHigJlz",
+          "id": "YXJhYm5ld3MtYWx0YW5mZWV0",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Libya’s central bank chief resigns",
-          "summary": "TRIPOLI: The governor of Libya’s central bank, Naji Issa, has resigned without giving a reason, several reports said on Monday.\n\tPrivate TV channel Al-Ahrar said Issa had confirmed his resignation.\n\tIssa and vice-governor Miree Al-Barasee were appointed by Libya’s parliament, which is based in the e",
+          "title": "ALTANFEETHI concludes participation in Como Cup 2026 in Italy",
+          "summary": "ALTANFEETHI concluded its participation in Como Cup 2026 in Como, Italy, as part of its partnership with AlUla Club. The six-day participation introduced ALTANFEETHI’s services and hospitality experience to an international audience.\n\n\tALTANFEETHI participated through a dedicated booth within the ev",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654155/middle-east",
-          "published_at": "Tue, 11 Aug 2026 01:08:41 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtdHJ1bXDigJlz",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Trump’s Gaza plan hinges on Hamas disarmament, Israeli withdrawals",
-          "summary": "JERUSALEM: Donald Trump’s latest plan to end the Gaza war calls on Hamas to ‌lay down its arms as Israel withdraws from the territory, terms endorsed by the militants but rejected by Israel, which says it will not pull back until the group’s disarmament is complete.",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654156/middle-east",
-          "published_at": "Tue, 11 Aug 2026 01:08:10 +03",
+          "article_url": "https://www.arabnews.com/node/2654134/corporate-and-sponsored-content",
+          "published_at": "Mon, 10 Aug 2026 08:08:04 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtY2FuLWFsLWJ1",
+          "id": "YXJhYm5ld3MtdHJ1bXAtZGVt",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Can Al-Burhan’s Sudanese national dialogue turn military gains into a political settlement?",
-          "summary": "LONDON: More than three years after Sudan descended into civil war, army chief Gen. Abdel Fattah Al-Burhan is pushing for a broad national dialogue aimed at rebuilding the country’s political institutions and laying the foundations for a civilian transition.\n\n\tTalks could begin as early as August, w",
+          "title": "Trump demands Iran pay compensation for war dead and wounded",
+          "summary": "WASHINGTON: US President Donald Trump said Monday he would seek conflict compensation from Iran as part of any peace negotiations, citing attacks and atrocities stretching back decades allegedly backed or perpetrated by Tehran.\n\tIran is “asking for compensation for the damage done to them during the",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654150/middle-east",
-          "published_at": "Mon, 10 Aug 2026 11:08:33 +03",
+          "article_url": "https://www.arabnews.com/node/2654132/middle-east",
+          "published_at": "Mon, 10 Aug 2026 07:08:59 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtZmlyZS1icmVh",
+          "id": "YXJhYm5ld3MtaXJhbi1zdXBy",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Fire breaks out at Libya’s Zawiya refinery",
-          "summary": "TRIPOLI: A fire broke out on Monday ​in a diesel tank at Libya’s Zawiya refinery days after the facility was hit by drone.\n\n\tThe circumstances of Monday's fire remained unknown, Brega Petroleum Marketing Company said in a statement.\n\tBrega is owned by state oil firm National Oil Corporation (NOC) an",
+          "title": "Iran supreme leader names Guards general Abdollahi military chief",
+          "summary": "TEHRAN: Iranian supreme leader Mojtaba Khamenei named Revolutionary Guards general Ali Abdollahi head of the country's armed forces on Monday, while also confirming a new commander of the Guards, putting his imprimatur on the country's military.\n\tAbdollahi had previously led the Khatam Al-Anbiya, Ir",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654151/middle-east",
-          "published_at": "Mon, 10 Aug 2026 11:08:10 +03",
+          "article_url": "https://www.arabnews.com/node/2654129/middle-east",
+          "published_at": "Mon, 10 Aug 2026 07:08:36 +03",
+          "cross_sections": []
+        },
+        {
+          "id": "YXJhYm5ld3Mtc3BvcnRzLWJv",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Sports Boulevard launches $186m fund to develop Urban Wadi assets",
+          "summary": "JEDDAH: The Sports Boulevard Real Estate Development and Investment Co. has signed agreements with Rikaz Properties to establish its third real estate investment fund, valued at more than $186 million, to develop key assets including a luxury five-star hotel in Riyadh’s Urban Wadi.\n\n\tThe fund will f",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654133/business-economy",
+          "published_at": "Mon, 10 Aug 2026 07:08:14 +03",
+          "cross_sections": []
+        },
+        {
+          "id": "YXJhYm5ld3MtdWtyYWluZeKA",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Ukraine’s Zelensky says up to 50,000 North Korean troops to be deployed in Russia",
+          "summary": "SEOUL: Ukrainian President Volodymyr Zelensky has ‌said up to 50,000 North Korean soldiers will be deployed in Russia to fight for Pyongyang’s ally, while calling on South Korea to provide support for ​its air defense.Zelensky said on X on Saturday that “a decision has been made for 30,000 to 50,000",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654131/world",
+          "published_at": "Mon, 10 Aug 2026 07:08:03 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtdGVlbmFnZXIt",
+          "id": "YXJhYm5ld3MtaG91dGhpcy1s",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Teenager dies trying to rescue swimmers at Alexandria beach",
-          "summary": "ALEXANDRIA: An 18-year-old man died while attempting to help rescue six people from drowning at El-Baitash beach in Alexandria, Egypt, on Saturday, local authorities said.\n\tThe Central Administration for Tourism and Resorts in Alexandria said on Sunday that the beach was among those closed to swimme",
+          "title": "Houthis launch new drone wave across Yemen’s government-held areas",
+          "summary": "AL-MUKALLA: At least two Yemeni government soldiers were killed in southern Yemen as the Houthis launched a new wave of drone attacks on government-controlled areas in Aden, Mocha and Shabwa.\n\n\tThe escalation came as the Yemeni army vowed on Monday to respond to Houthi drone and missile strikes on t",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654149/middle-east",
-          "published_at": "Mon, 10 Aug 2026 10:08:39 +03",
-          "cross_sections": [
-            "tech"
-          ]
+          "article_url": "https://www.arabnews.com/node/2654127/middle-east",
+          "published_at": "Mon, 10 Aug 2026 06:08:00 +03",
+          "cross_sections": []
         }
       ]
     }
@@ -4914,7 +4920,7 @@
         {
           "id": "nyt",
           "name": "The New York Times",
-          "count": 21
+          "count": 22
         },
         {
           "id": "cnn",
@@ -4924,7 +4930,7 @@
         {
           "id": "cnbc",
           "name": "CNBC",
-          "count": 16
+          "count": 15
         },
         {
           "id": "fox",
@@ -4941,7 +4947,7 @@
         {
           "id": "bbc",
           "name": "BBC News",
-          "count": 23
+          "count": 24
         },
         {
           "id": "guardian",
@@ -5012,81 +5018,146 @@
       "icon": "💻",
       "articles": [
         {
-          "id": "Y25iYy11LnMuLW1pbGl0YXJ5",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May",
-          "summary": "The security situation in Hormuz remains contested but the U.S. is helping oil get through the strait.",
+          "id": "emRuZXQtaG93LWF3cy1tYXJr",
+          "source_id": "zdnet",
+          "source_name": "ZDNet",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "How AWS Marketplace is using AI agents to meet the rising demand for AI agents",
+          "summary": "Increasingly, AI agents are handling the nitty-gritty admin and due diligence tasks, but agent-powered marketplaces won't replace live human sales reps or engineers anytime soon.",
           "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/21/strait-hormuz-central-command-centcom-oil-iran-war.html",
-          "published_at": "Fri, 21 Aug 2026 17:14:24 GMT",
+          "article_url": "https://www.zdnet.com/article/application-marketplaces-aws-ai-agents/",
+          "published_at": "Fri, 21 Aug 2026 17:48:29 GMT",
           "cross_sections": [
-            "tech"
+            "tech",
+            "ai"
           ]
         },
         {
-          "id": "dGhlaGluZHUtYWZ0ZXItcmFo",
+          "id": "dGhlaGluZHUtZ2NsLWNoYWly",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "After Rahul’s dharna, police register FIR on pellet gun use at Delhi protest",
-          "summary": "Rahul Gandhi sat in a dharna after Sahil Lochab, a 19-year-old who lost his eyesight after being hit by pellets during the protest, said the police had refused to register an FIR on his complaint",
-          "image_url": "https://th-i.thgim.com/public/incoming/nje4mu/article71373678.ece/alternates/LANDSCAPE_1200/PTI08_21_2026_000267A.jpg",
-          "article_url": "https://www.thehindu.com/news/national/delhi-police-fir-over-pellet-injuries-to-youth-during-july-20-protest/article71373663.ece",
-          "published_at": "Fri, 21 Aug 2026 22:43:51 +0530",
+          "title": "GCL chairperson expects Bengaluru edition to be well received",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/sport/dsf8bi/article71374195.ece/alternates/LANDSCAPE_1200/TH22%20Peeyush%20Dubey.jpg",
+          "article_url": "https://www.thehindu.com/sport/gcl-chairperson-expects-bengaluru-edition-to-be-well-received/article71374194.ece",
+          "published_at": "Fri, 21 Aug 2026 23:13:31 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtZHVqLWFuZC1r",
+          "id": "dGhlaGluZHUtMTIsMDAwLWFw",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "DUJ and KUWJ condemn raids on journalist Ravi Nair’s residences",
-          "summary": "Gujarat police seize two phones, pen drives from Nair’s Kerala home following FIR over Washington Post report co-authored by him",
-          "image_url": "https://th-i.thgim.com/public/incoming/7ppi8f/article71375142.ece/alternates/LANDSCAPE_1200/Copy%20of%20Untitled%20Design%204.jpg",
-          "article_url": "https://www.thehindu.com/news/national/duj-and-kuwj-condemn-raids-on-journalist-ravi-nairs-residences/article71373765.ece",
-          "published_at": "Fri, 21 Aug 2026 22:41:07 +0530",
+          "title": "12,000 applications received for the first batch of UG programmes: IIMB",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/leh08q/article71375183.ece/alternates/LANDSCAPE_1200/31bg_bgmini_IIMGMUGB6G2T.3.jpg.jpg",
+          "article_url": "https://www.thehindu.com/news/national/karnataka/12000-applications-received-for-the-first-batch-of-ug-programmes-iimb/article71374513.ece",
+          "published_at": "Fri, 21 Aug 2026 23:10:29 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtc2MtcmVsYXhl",
+          "id": "dGhlaGluZHUtbm8tcGxhbi10",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "SC relaxes rule to apply for judicial service, one-year practice now enough",
-          "summary": "Successful applicants with a year’s legal practice would undergo one year of intensive training at the concerned State judicial academy, followed by a final year of law clerkship with senior judicial officers and High Court judges",
-          "image_url": "https://th-i.thgim.com/public/incoming/4n6gkw/article71372641.ece/alternates/LANDSCAPE_1200/PTI08_13_2026_000565A.jpg",
-          "article_url": "https://www.thehindu.com/news/national/supreme-court-reduces-three-year-mandatory-legal-practice-to-one-year-for-the-entry-level-judicial-exam/article71372618.ece",
-          "published_at": "Fri, 21 Aug 2026 22:40:25 +0530",
+          "title": "No plan to rename Kochi Metro Rail Ltd as Keralam Metro Rail Ltd, says CM V.D. Satheesan",
+          "summary": "CM says KMRL authorities issued a press release on name change proposal without consulting with government",
+          "image_url": "https://th-i.thgim.com/public/incoming/9qqb9s/article71375169.ece/alternates/LANDSCAPE_1200/kochi_metro_07.JPG",
+          "article_url": "https://www.thehindu.com/news/national/kerala/no-plan-to-rename-kochi-metro-rail-ltd-as-keralam-metro-rail-ltd-says-cm-vd-satheesan/article71372736.ece",
+          "published_at": "Fri, 21 Aug 2026 23:00:59 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUteXNyY3DigJlz",
+          "id": "dGhlaGluZHUtaW5kaWEsLXUu",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "YSRCP’s charges on DSC exam are baseless, says SAAP Chairman",
-          "summary": "Ravi Naidu dismisses allegations of irregularities and challenges YSRCP to debate APPSC Group I and II exams held under previous government",
-          "image_url": "https://th-i.thgim.com/public/incoming/l3cjdn/article71374006.ece/alternates/LANDSCAPE_1200/10215_21_8_2026_17_56_0_1_IMG_20260821_WA0082.JPG",
-          "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcps-charges-on-dsc-2026-exam-are-baseless-says-saap-chairman/article71373847.ece",
-          "published_at": "Fri, 21 Aug 2026 22:39:59 +0530",
+          "title": "India, U.K. review defence ties, focus on R&D and industrial cooperation",
+          "summary": "Both countries agree to expand exchanges between their armed forces through joint exercises, training and capacity building initiatives",
+          "image_url": "https://th-i.thgim.com/public/incoming/ybxqp3/article71375171.ece/alternates/LANDSCAPE_1200/PTI08_21_2026_000684B.jpg",
+          "article_url": "https://www.thehindu.com/news/national/india-uk-review-defence-ties-focus-on-rd-and-industrial-cooperation/article71374969.ece",
+          "published_at": "Fri, 21 Aug 2026 23:00:42 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXdoeS1pcmFu",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
+          "summary": "Tehran has threatened Bulgaria, home to a US air base, but how credible is that threat?",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats?traffic_source=rss",
+          "published_at": "Fri, 21 Aug 2026 17:29:17 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtZGVwdXR5LWRp",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Deputy Director General of NCC Directorate visits Madurai for administrative inspection",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/incoming/f12f3o/article71375156.ece/alternates/LANDSCAPE_1200/Nambiath%20Sudeep%20.jpg",
+          "article_url": "https://www.thehindu.com/news/cities/Madurai/deputy-director-general-of-ncc-directorate-visits-madurai-for-administrative-inspection/article71375118.ece",
+          "published_at": "Fri, 21 Aug 2026 22:50:19 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLXJ1c3NpYS1naXZlcy1k",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Russia gives drones their own military branch as modern warfare enters a new era",
+          "summary": "In a significant development, Russia has established a new command for unmanned systems forces, appointing General Denis Lyamin as its leader. This initiative marks a pivotal transformation in Moscow's approach to modern warfare. Meanwhile, Ukraine has also unveiled its long-range impact command, hi",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/defence/international/russia-gives-drones-their-own-military-branch-as-modern-warfare-enters-a-new-era/articleshow/133410338.cms",
+          "published_at": "Fri, 21 Aug 2026 22:49:46 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLXByaW5jZS1oYXJyeS1h",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Prince Harry and six others face privacy case legal bill of up to £34.5m",
+          "summary": "The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the Daily Mail publisher an initial £9.54m in the next seven days after losing a privacy case.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9d1/live/0b65a550-9d63-11f1-a291-b542ee92de7c.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 21 Aug 2026 17:18:41 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -5225,7 +5296,7 @@
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
           "summary": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say.",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3237/live/ba89ed70-9d72-11f1-a291-b542ee92de7c.jpg",
@@ -5332,6 +5403,22 @@
           ]
         },
         {
+          "id": "YmJjLXVrLC1jYW5hZGEtYW5k",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+          "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44aa/live/1a046dd0-9d6d-11f1-b109-879e35c24276.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 21 Aug 2026 15:58:57 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "bmR0di1yb2FjaCwtZmxpZXMs",
           "source_id": "ndtv",
           "source_name": "NDTV",
@@ -5380,22 +5467,6 @@
           ]
         },
         {
-          "id": "YmJjLXByaW5jZS1oYXJyeS1h",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Prince Harry and six others face privacy case legal bill of up to £34.5m",
-          "summary": "The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the Daily Mail publisher an initial £9.54m in the next seven days after losing a privacy case.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9d1/live/0b65a550-9d63-11f1-a291-b542ee92de7c.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 21 Aug 2026 15:19:15 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bmR0di1wcmluY2UtaGFycnks",
           "source_id": "ndtv",
           "source_name": "NDTV",
@@ -5423,22 +5494,6 @@
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html",
           "published_at": "Fri, 21 Aug 2026 15:10:31 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLWdvdmluZGEncy1tYW5h",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Govinda's manager denies second marriage claims made by Sunita Ahuja",
-          "summary": "Sunita Ahuja claimed Govinda planned a second marriage, which his manager strongly denied. Govinda's manager expressed shock and stated no second marriage is happening. He mentioned Sunita withdrew her divorce petition after making these claims. The manager urged Sunita to consider their children's ",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govindas-manager-denies-second-marriage-claims-made-by-ssunita-ahuja-there-must-be-something-going-in-her-mind-that-she-made-those-claims/articleshow/133407726.cms",
-          "published_at": "Fri, 21 Aug 2026 20:40:26 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5529,7 +5584,7 @@
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
           "summary": "Mohammad Bagher Ghalibaf, lead negotiator in talks with Washington, made the comments after President Trump vowed an “economic D-Day” against Iran.",
           "image_url": "https://static01.nyt.com/images/2026/08/21/multimedia/21int-iran-economy-01-vhbg/21int-iran-economy-01-vhbg-mediumSquareAt3X.jpg",
@@ -5602,54 +5657,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1zdGFyY2xv",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-          "summary": "There's about to be a big fight to secure access to space.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-          "published_at": "Fri, 21 Aug 2026 14:00:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZHctNDAteWVhcnMtYWZ0ZXIt",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "40 years after the Lake Nyos disaster in Cameroon",
-          "summary": "On August 21, 1986, a silent cloud of carbon dioxide swept through villages around Lake Nyos in Cameroon, killing nearly 2,000 people in their sleep. Four decades later, survivors are still living with the trauma.",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/40-years-after-the-lake-nyos-disaster-in-cameroon/a-78459694?maca=en-rss-en-world-4025-xml-mrss",
-          "published_at": "Fri, 21 Aug 2026 14:00:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZHctdWtyYWluZSdzLWZhcm1l",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Ukraine's farmers struggle to sell harvest amid war, drought",
-          "summary": "Russian attacks on ships and ports in the Black Sea are threatening Ukraine's agricultural sector. Grain exports are severely restricted, and Kyiv is seeking solutions.",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/ukraine-s-farmers-struggle-to-sell-harvest-amid-war-drought/a-78435344?maca=en-rss-en-world-4025-xml-mrss",
-          "published_at": "Fri, 21 Aug 2026 13:51:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -5665,6 +5672,39 @@
       "icon": "🤖",
       "articles": [
         {
+          "id": "emRuZXQtaG93LWF3cy1tYXJr",
+          "source_id": "zdnet",
+          "source_name": "ZDNet",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "How AWS Marketplace is using AI agents to meet the rising demand for AI agents",
+          "summary": "Increasingly, AI agents are handling the nitty-gritty admin and due diligence tasks, but agent-powered marketplaces won't replace live human sales reps or engineers anytime soon.",
+          "image_url": null,
+          "article_url": "https://www.zdnet.com/article/application-marketplaces-aws-ai-agents/",
+          "published_at": "Fri, 21 Aug 2026 17:48:29 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "emRuZXQtY2hhdGdwdCdzLW5l",
+          "source_id": "zdnet",
+          "source_name": "ZDNet",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "ChatGPT's new Mac plugin analyzed my iMessages - and I found it surprisingly useful",
+          "summary": "ChatGPT can now analyze text messages on your Mac to reveal how you interact with others.",
+          "image_url": null,
+          "article_url": "https://www.zdnet.com/article/chatgpts-new-mac-plugin-analyzed-my-imessages-and-i-found-it-surprisingly-useful/",
+          "published_at": "Fri, 21 Aug 2026 17:47:47 GMT",
+          "cross_sections": [
+            "ai"
+          ]
+        },
+        {
           "id": "Y29tcHV0ZXJ3b3JsZC1jaGF0",
           "source_id": "computerworld",
           "source_name": "Computerworld",
@@ -5673,7 +5713,7 @@
           "feed_label": "Latest",
           "title": "ChatGPT wants Full Disk Access to your Mac and Messages",
           "summary": "!--/* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal\t{mso-style-unhide:no;\tmso-style-qformat:yes;\tmso-style-parent:\"\";\tmargin:0cm;\tmso-pagination:widow-orphan;\tfont-size:12.0pt;\tfont-family:\"Aptos\",sans-serif;\tmso-fareast-font-family:Aptos;\tmso-bidi-font-family:\"Times New Roman\";\tmso-",
-          "image_url": null,
+          "image_url": "https://www.computerworld.com/wp-content/uploads/2026/08/4212509-0-01263400-1787333649-OpenAI-Apple-shutterstock_editorial_2797310785_1883660299.jpg?quality=50&strip=all",
           "article_url": "https://www.computerworld.com/article/4212509/chatgpt-wants-full-disk-access-to-your-mac-and-messages.html",
           "published_at": "Fri, 21 Aug 2026 15:39:02 +0000",
           "cross_sections": [
@@ -5919,23 +5959,6 @@
           ]
         },
         {
-          "id": "YXJhYm5ld3MtZW5yb2xsbWVu",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Enrollment begins at Saudi-backed school for Gaza children",
-          "summary": "GAZA STRIP: Registration has opened for students seeking to enroll at Makkah School in the southern Gaza Strip, a Saudi-backed initiative aimed at helping children resume their education amid the devastation of the war, SPA has reported. \n\n\tThe school, supported by the King Salman Humanitarian Aid a",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654157/saudi-arabia",
-          "published_at": "Tue, 11 Aug 2026 02:08:54 +03",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "dG9pLWNoYXRncHQtd2FzLWRv",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -5956,7 +5979,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 10452,
+    "build_ms": 10418,
     "ai_enabled": true
   }
 }
