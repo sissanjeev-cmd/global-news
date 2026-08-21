@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-21T22:24:44.932Z",
-  "total_articles": 303,
-  "new_this_run": 14,
+  "last_updated": "2026-08-21T22:46:47.101Z",
+  "total_articles": 310,
+  "new_this_run": 23,
   "sources": [
     {
       "id": "techcrunch",
@@ -10,14 +10,31 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "dGVjaGNydW5jaC1udmlkaWEt",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Nvidia partners with data center developer Cloverleaf",
+          "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+          "published_at": "Fri, 21 Aug 2026 22:37:38 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "dGVjaGNydW5jaC1ob3ctYWkt",
           "source_id": "techcrunch",
           "source_name": "TechCrunch",
           "source_region": "IT Focus",
           "source_category": "Tech Media",
           "feed_label": "Latest",
-          "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48-hours",
-          "summary": "Rillet CEO Nicholas Koop shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
+          "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
+          "summary": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
           "published_at": "Fri, 21 Aug 2026 22:10:01 +0000",
@@ -72,23 +89,6 @@
           ]
         },
         {
-          "id": "dGVjaGNydW5jaC1udmlkaWEt",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-          "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-          "published_at": "Fri, 21 Aug 2026 19:43:39 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "dGVjaGNydW5jaC1sYXN0LWNo",
           "source_id": "techcrunch",
           "source_name": "TechCrunch",
@@ -117,20 +117,6 @@
           "article_url": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
           "published_at": "Fri, 21 Aug 2026 18:09:53 +0000",
           "cross_sections": []
-        },
-        {
-          "id": "dGVjaGNydW5jaC13YXltby1o",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Waymo hands over documents in NHTSA’s child collision probe",
-          "summary": "The responses to NHTSA's questions so far are redacted entirely, citing \"confidential business information.\"",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/",
-          "published_at": "Fri, 21 Aug 2026 17:49:58 +0000",
-          "cross_sections": []
         }
       ]
     },
@@ -140,6 +126,36 @@
       "region": "IT Focus",
       "category": "Tech Media",
       "articles": [
+        {
+          "id": "dGhldmVyZ2UtaG92ZXJhaXLi",
+          "source_id": "theverge",
+          "source_name": "The Verge",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "HoverAir’s transforming modular drone has already been halted in the US",
+          "summary": "The HoverAir Versa. | Image: HoverAir\t\n\nI am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US orders just three days after its Indiegogo",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/hoverair-versa.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "article_url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+          "published_at": "2026-08-21T22:14:11.000Z",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhldmVyZ2UtdGlrdG9rLXdp",
+          "source_id": "theverge",
+          "source_name": "The Verge",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
+          "summary": "The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA). In the lawsuit, the DOJ alleged that TikTok collected data from children without notifying parents or ob",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406817/STK051_TIKTOK_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "article_url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
+          "published_at": "2026-08-21T22:13:34.000Z",
+          "cross_sections": []
+        },
         {
           "id": "dGhldmVyZ2Utb3Zlci0xLW1p",
           "source_id": "theverge",
@@ -232,36 +248,6 @@
           "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VST082126_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
           "article_url": "https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend",
           "published_at": "2026-08-21T16:27:05.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhldmVyZ2Utd2h5LWRvZXMt",
-          "source_id": "theverge",
-          "source_name": "The Verge",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Why does it seem like food recalls are out of control this year?",
-          "summary": "Just weeks after Taylor Farms issued a recall of its iceberg lettuce amid a massive cyclospora outbreak, the Food and Drug Administration recalled more than one million eggs that may be contaminated with salmonella. The eggs, which come from Midwest Poultry Services, were distributed to Kroger and s",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2291059497.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "article_url": "https://www.theverge.com/science/983241/food-recalls-bigger-out-of-control",
-          "published_at": "2026-08-21T14:45:00.000Z",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhldmVyZ2UtZ29vZ2xl4oCZ",
-          "source_id": "theverge",
-          "source_name": "The Verge",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Google’s Pixel 10A is a great deal at 15 percent off",
-          "summary": "The Pixel 10A in its lavender color scheme. It’s also available at a discount in berry, fog, and obsidian colors. | Image: The Verge\t\n\nThis week, all of Google’s Pixel 11 phones launched, including the $899 Pixel 11, the $1,099 Pixel 11 Pro (with the same processor and starting 12GB RAM as the stand",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/vergedealslotr.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "article_url": "https://www.theverge.com/gadgets/983171/google-pixel-10a-steelseries-gaming-headset-soldering-4k-bluray-deal-sale",
-          "published_at": "2026-08-21T14:35:22.000Z",
           "cross_sections": [
             "tech"
           ]
@@ -660,6 +646,22 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "Y25ldC1pbnNpZGUtamFzb24t",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Inside Jason Kelce’s Potty Humor Marketing Ploy Against AI Data Centers",
+          "summary": "Big Tech’s water guzzling to cool AI servers is serious, even if this viral ad isn’t.",
+          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/jason-kelce-liquid-death-pee.jpg",
+          "article_url": "https://www.cnet.com/tech/services-and-software/jason-kelce-liquid-death-marketing-stunt-ai-data-centers/",
+          "published_at": "2026-08-21T22:22:31.000Z",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "Y25ldC1ndGEtNi1sZWFrcy1w",
           "source_id": "cnet",
           "source_name": "CNET",
@@ -763,20 +765,6 @@
           "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/DnD-WoW_342344.jpg",
           "article_url": "https://www.cnet.com/tech/gaming/dd-rolls-a-natural-20-on-nerd-collabs-announcing-world-of-warcraft-and-star-wars-sets/",
           "published_at": "2026-07-31T03:01:47.000Z",
-          "cross_sections": []
-        },
-        {
-          "id": "Y25ldC1lbGltaW5hdGUtc3Bh",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Eliminate Spam Calls With This iPhone Trick",
-          "summary": "Spam calls, who needs them?",
-          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/8070962a-db4e-4e82-9955-82e497f46082.png",
-          "article_url": "https://www.cnet.com/tech/services-and-software/copy-of-eliminate-spam-calls-with-this-iphone-trick/",
-          "published_at": "2025-08-05T10:00:03.000Z",
           "cross_sections": []
         }
       ]
@@ -1423,22 +1411,6 @@
           ]
         },
         {
-          "id": "bnl0LXUucy4tYWdyZWVkLXRv",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "U.S. Agreed to Pay Liberia $5 Million in Connection with Deportees, Documents Say",
-          "summary": "The Trump administration approved the payment after Liberia said it would consider taking migrants from other countries.",
-          "image_url": "https://static01.nyt.com/images/2026/08/21/multimedia/21dc-liberia-photo-kjqh/21dc-liberia-photo-kjqh-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/21/us/politics/us-liberia-deportees-payment.html",
-          "published_at": "Fri, 21 Aug 2026 21:46:56 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bnl0LXRydW1wLWFubm91bmNl",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1451,6 +1423,22 @@
           "article_url": "https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html",
           "published_at": "Fri, 21 Aug 2026 20:49:35 +0000",
           "cross_sections": []
+        },
+        {
+          "id": "bnl0LXUucy4tY3V0cy1jb2xv",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "U.S. Cuts Colorado River Water for Arizona, California and Nevada",
+          "summary": "Arizona’s share of the river will shrink by a third, likely increasing reliance on groundwater and raising pressure on agriculture.",
+          "image_url": "https://static01.nyt.com/images/2026/08/21/multimedia/21CLI-COLORADO-CUTS-vkzj/21CLI-COLORADO-CUTS-vkzj-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html",
+          "published_at": "Fri, 21 Aug 2026 20:38:33 +0000",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
           "id": "bnl0LWluLWNoaW5h4oCZcy1i",
@@ -1776,7 +1764,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-08-21T22:24:36.870Z",
+          "published_at": "2026-08-21T22:46:38.062Z",
           "cross_sections": []
         },
         {
@@ -1790,7 +1778,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-08-21T22:24:36.870Z",
+          "published_at": "2026-08-21T22:46:38.062Z",
           "cross_sections": []
         },
         {
@@ -1804,7 +1792,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-08-21T22:24:36.870Z",
+          "published_at": "2026-08-21T22:46:38.062Z",
           "cross_sections": []
         },
         {
@@ -2614,31 +2602,17 @@
       "category": "Broadcaster",
       "articles": [
         {
-          "id": "YmJjLXN1cHJlbWUtY291cnQt",
+          "id": "YmJjLXR3by1pbmp1cmVkLWlu",
           "source_id": "bbc",
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
-          "summary": "The temporary order will allow the $400m (£297m) project to continue while the high court mulls a final decision on the case.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0e6/live/7a1a5820-9d99-11f1-94d7-fd3901402557.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 21 Aug 2026 22:02:10 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "YmJjLWdpcmwsLTYsLWRpZXMt",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
-          "summary": "Saja El-Khawas is the fourth person to die after her family got into difficulty in water in West Sussex.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8911/live/1fc38590-9da8-11f1-95ab-d3b679e2384a.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 21 Aug 2026 22:00:39 GMT",
+          "feed_label": "World",
+          "title": "Two injured in stabbing attack at Canada Sikh temple",
+          "summary": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b22/live/a7b4a760-9d8d-11f1-adf5-2dc21c9cc109.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 21 Aug 2026 22:45:01 GMT",
           "cross_sections": []
         },
         {
@@ -2652,7 +2626,35 @@
           "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebfc/live/7de297d0-9da6-11f1-95ab-d3b679e2384a.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 21 Aug 2026 22:00:23 GMT",
+          "published_at": "Fri, 21 Aug 2026 22:36:12 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLWdpcmwsLTYsLWRpZXMt",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
+          "summary": "Saja El-Khawas is the fourth person to die after her family got into difficulty in water off West Sussex.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8911/live/1fc38590-9da8-11f1-95ab-d3b679e2384a.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 21 Aug 2026 22:28:37 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLXN1cHJlbWUtY291cnQt",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
+          "summary": "The temporary order will allow the $400m (£297m) project to continue while the high court mulls a final decision on the case.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0e6/live/7a1a5820-9d99-11f1-94d7-fd3901402557.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 21 Aug 2026 22:02:10 GMT",
           "cross_sections": []
         },
         {
@@ -2715,20 +2717,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9235/live/6a8b1d10-7bcd-11f1-b543-9988255dfa81.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 21 Aug 2026 18:29:31 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "YmJjLXR3by1pbmp1cmVkLWlu",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Two injured in stabbing attack at Canada Sikh temple",
-          "summary": "One suspect is in custody, but police have not disclosed a possible motive.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b22/live/a7b4a760-9d8d-11f1-adf5-2dc21c9cc109.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 21 Aug 2026 18:27:15 GMT",
           "cross_sections": []
         },
         {
@@ -3370,6 +3358,22 @@
           ]
         },
         {
+          "id": "ZXVyb25ld3MtcG9ydHVnYWwn",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Portugal's pension surplus is an illusion, new report warns",
+          "summary": "Two personal finance experts urge Portuguese taxpayers to overcome inertia and secure complements to their pensions beyond state social security, after a report on the system's sustainability revealed weaknesses.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/94/02/696x392_cmsv2_840c2523-af17-59c2-89ed-fc19c78ad5fd-9879402.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/21/portugals-pension-surplus-is-an-illusion-new-report-warns",
+          "published_at": "Fri, 21 Aug 2026 16:33:57 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "ZXVyb25ld3MtbmV3LXZpZGVv",
           "source_id": "euronews",
           "source_name": "Euronews",
@@ -3459,6 +3463,116 @@
           "image_url": "https://images.euronews.com/articles/stories/09/88/34/59/696x392_cmsv2_0f48767e-0541-589f-a268-cdc4d7fe1b72-9883459.jpg",
           "article_url": "http://www.euronews.com/video/2026/08/21/hungarys-lakes-and-rivers-hit-record-lows-as-severe-drought-deepens",
           "published_at": "Fri, 21 Aug 2026 12:54:43 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtdGFrZW92ZXIt",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Takeover shield: Monte dei Paschi bids for BPM, Generali to forge €80bn Italian bank",
+          "summary": "Monte dei Paschi clears €34 billion twin bid for Banco BPM and Banca Generali to fend off Intesa Sanpaolo, creating a stronger, bigger €80 billion Italian bank.",
+          "image_url": "https://images.euronews.com/articles/stories/09/44/60/62/696x392_cmsv2_e39f246c-74aa-595c-a9b7-40a0d1661e03-9446062.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/21/monte-dei-paschi-details-of-bid-for-banco-bpm-and-banca-generali",
+          "published_at": "Fri, 21 Aug 2026 12:06:27 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtbW9udGUtZGVp",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Monte dei Paschi board approves dual exchange offers for Banco Bpm and Banca Generali",
+          "summary": "CEO Luigi Lovaglio's plan aims to bolster MPS and fend off Intesa Sanpaolo's 30.5-billion-euro Opas. Approved with nine votes in favour and four abstentions.",
+          "image_url": "https://images.euronews.com/articles/stories/09/88/19/19/696x392_cmsv2_6c151460-909b-55a8-834c-ee563177d28e-9881919.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/20/monte-dei-paschi-board-approves-dual-exchange-offers-for-banco-bpm-and-banca-generali",
+          "published_at": "Thu, 20 Aug 2026 19:10:17 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtbmVhcmx5LeKC",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Nearly €1bn earmarked as five-part plan targets business growth, AI and exports",
+          "summary": "President Shavkat Mirziyoyev announced the measures at annual dialogue with entrepreneurs in Khiva. They include lower energy prepayments, new credit guarantees and easier access to capital markets, alongside regulatory changes that will limit inspections and shift the burden of proof to the state.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/91/52/696x392_cmsv2_5ad482ea-3b5c-590c-bb49-2fd3883430da-9879152.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/20/nearly-1bn-earmarked-as-five-part-plan-targets-business-growth-ai-and-exports",
+          "published_at": "Thu, 20 Aug 2026 16:07:21 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3Mtb3ZlcmNvbWUt",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Overcome market fragmentation or miss the AI train, Lagarde warns the EU",
+          "summary": "An overly fragmented single market cannot support Europe’s top priority of competing globally in the AI race, European Central Bank (ECB) President Christine Lagarde warns.",
+          "image_url": "https://images.euronews.com/articles/stories/09/88/16/94/696x392_cmsv2_73befe30-e5bb-5a67-838d-3dbaddbb68fa-9881694.jpg",
+          "article_url": "http://www.euronews.com/my-europe/2026/08/20/overcome-market-fragmentation-or-miss-the-ai-train-lagarde-warns-the-eu",
+          "published_at": "Thu, 20 Aug 2026 12:43:50 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtZWNiLXVudmVp",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "ECB unveils new banknote designs with a defiant message: Don't count cash out yet",
+          "summary": "With cashless payments on the rise, and a growing belief that cash is being replaced by the digital euro, the European Central Bank (ECB) is introducing new banknotes carrying a clear message to citizens: cash is here to stay.",
+          "image_url": "https://images.euronews.com/articles/stories/09/87/72/40/696x392_cmsv2_b786868c-374f-5609-b42f-e3a94c41174c-9877240.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/19/ecb-unveils-new-banknote-designs-with-a-defiant-message-dont-count-cash-out-yet",
+          "published_at": "Wed, 19 Aug 2026 16:23:14 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3Mtd2hvLWlzLWF1",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Who is automotive giant Stellantis and why did it recall nearly 1 million cars?",
+          "summary": "The world's fourth-largest carmaker is recalling nearly 1 million vehicles — its third major safety campaign this year.",
+          "image_url": "https://images.euronews.com/articles/stories/09/88/08/58/696x392_cmsv2_3951c38e-00f0-56d3-b070-fbc09a8faeee-9880858.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/19/who-is-automotive-giant-stellantis-and-why-did-it-recall-nearly-1-million-cars",
+          "published_at": "Wed, 19 Aug 2026 16:15:48 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3Mtc2VjLXVudmVp",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "SEC unveils new crypto rules hailed as a win for the digital asset industry",
+          "summary": "The US Securities and Exchange Commission has proposed a sweeping new framework for crypto assets, offering firms two clear paths to raise money without full securities registration. Industry groups have broadly welcomed the plan, calling its terms considerably more generous than anticipated.",
+          "image_url": "https://images.euronews.com/articles/stories/09/88/03/37/696x392_cmsv2_f79a2206-2a46-593a-bf74-1102d4ebb32a-9880337.jpg",
+          "article_url": "http://www.euronews.com/business/2026/08/19/sec-unveils-new-crypto-rules-hailed-as-a-win-for-the-digital-asset-industry",
+          "published_at": "Wed, 19 Aug 2026 16:11:22 +0200",
           "cross_sections": [
             "tech"
           ]
@@ -3998,6 +4112,20 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dGhlaGluZHUtbmFnYWxhbmQt",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Nagaland inks deal for first private-sector solar plant",
+          "summary": "The 20 MW solar power project at Tizit is expected to help the State reduce its energy imports",
+          "image_url": "https://th-i.thgim.com/public/incoming/esu78e/article71375487.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-21%20at%202.10.27%20PM.jpeg",
+          "article_url": "https://www.thehindu.com/news/national/nagaland/nagaland-inks-deal-for-first-private-sector-solar-plant/article71373752.ece",
+          "published_at": "Sat, 22 Aug 2026 03:07:01 +0530",
+          "cross_sections": []
+        },
+        {
           "id": "dGhlaGluZHUtd2VzdC1hc2lh",
           "source_id": "thehindu",
           "source_name": "The Hindu",
@@ -4099,22 +4227,6 @@
           "image_url": "https://th-i.thgim.com/public/incoming/ucrm5r/article71374490.ece/alternates/LANDSCAPE_1200/Safai%20Karmachari%20Andolan%204.JPG",
           "article_url": "https://www.thehindu.com/news/national/ncsk-to-launch-missed-call-facility-to-address-grievances-of-safai-karmacharis/article71373618.ece",
           "published_at": "Sat, 22 Aug 2026 01:50:14 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtcmFodWzigJlz",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Rahul’s street politics signals a new Opposition playbook",
-          "summary": "Mr. Gandhi appears to be seeking consistency in his politics and, in the process, addressing a criticism that he is an inconsistent politician.",
-          "image_url": "https://th-i.thgim.com/public/incoming/1m2orw/article71375147.ece/alternates/LANDSCAPE_1200/PTI08_21_2026_000541A.jpg",
-          "article_url": "https://www.thehindu.com/news/national/rahuls-street-politics-signals-a-new-opposition-playbook/article71374667.ece",
-          "published_at": "Sat, 22 Aug 2026 01:44:25 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4386,6 +4498,34 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "bmR0di0xLWRlYWQsLTItaW5q",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "1 Dead, 2 Injured In Sword Attack At Swedish School",
+          "summary": "The incident occurred on Friday afternoon at the Brinell high school, which has 450 students aged 16 to 20, in Fagersta, a town of 13,000 inhabitants in central Sweden.",
+          "image_url": "https://c.ndtvimg.com/2026-08/vou3c2oo_sweden-attack_625x300_21_August_26.jpeg",
+          "article_url": "https://www.ndtv.com/world-news/man-injures-several-using-sword-in-swedish-high-school-11942461#publisher=newsstand",
+          "published_at": "Sat, 22 Aug 2026 03:53:44 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "bmR0di10aWt0b2stdG8tcGF5",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "TikTok To Pay $400 Million Settlement In US Children's Privacy Case",
+          "summary": "The Justice Department and Federal Trade Commission jointly sued TikTok in 2024, alleging that it had placed the safety of millions of children in jeopardy by collecting their personal data without parental permission.",
+          "image_url": "https://c.ndtvimg.com/2025-10/f8frltps_indonesia-tiktok_625x300_03_October_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/world-news/tiktok-to-pay-400-million-settlement-in-us-childrens-privacy-case-11943022#publisher=newsstand",
+          "published_at": "Sat, 22 Aug 2026 03:49:00 +0530",
+          "cross_sections": []
+        },
+        {
           "id": "bmR0di11a3JhaW5lLXNhbmN0",
           "source_id": "ndtv",
           "source_name": "NDTV",
@@ -4523,34 +4663,6 @@
           "image_url": "https://c.ndtvimg.com/2024-02/krm5prf_hind-rajab_625x300_11_February_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
           "article_url": "https://www.ndtv.com/world-news/mother-of-gaza-girl-hind-rajab-demands-independent-probe-into-her-death-11942748#publisher=newsstand",
           "published_at": "Sat, 22 Aug 2026 00:22:38 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "bmR0di1uZXRoZXJsYW5kcy1m",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Netherlands Fines Uber 825 Million Euros Over Driver Account Deactivations",
-          "summary": "The ruling is based on European data regulations which state that people should not \"be subject to a decision based solely on automated processing\".",
-          "image_url": "https://c.ndtvimg.com/2026-03/v89o2sbg_uber_625x300_10_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/netherlands-fines-uber-825-million-euros-over-driver-account-deactivations-11942718#publisher=newsstand",
-          "published_at": "Sat, 22 Aug 2026 00:07:51 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "bmR0di10dXJrZXktaXNzdWVz",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Turkey Issues 'Genocide' Warrant For Netanyahu Over Flotilla Interception",
-          "summary": "Turkey has become a virulent critic of Israel's war in Gaza, sparked by Hamas's October 7, 2023 attacks on Israel. President Recep Tayyip Erdogan has frequently accused Netanyahu of \"genocide\".",
-          "image_url": "https://c.ndtvimg.com/2019-09/3pt3goso_benjamin-netanyahu-reuters_625x300_20_September_19.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/turkey-issues-genocide-warrant-for-netanyahu-over-flotilla-interception-11942702#publisher=newsstand",
-          "published_at": "Sat, 22 Aug 2026 00:01:58 +0530",
           "cross_sections": []
         }
       ]
@@ -4690,123 +4802,129 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "YXJhYm5ld3MtZ2F6YS1ib2Fy",
+          "id": "YXJhYm5ld3MtY2FuLWFsLWJ1",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Gaza Board of Peace official says plan is still operative",
-          "summary": "WASHINGTON: US President Donald Trump’s Gaza plan is still operative ​and discussions with Israel are continuing, a Board of Peace official said on Monday after Prime Minister Benjamin Netanyahu rejected an Israeli withdrawal until the Palestinian militant group Hamas is “genuinely disarmed.”\n\tNetan",
+          "title": "Can Al-Burhan’s Sudanese national dialogue turn military gains into a political settlement?",
+          "summary": "LONDON: More than three years after Sudan descended into civil war, army chief Gen. Abdel Fattah Al-Burhan is pushing for a broad national dialogue aimed at rebuilding the country’s political institutions and laying the foundations for a civilian transition.\n\n\tTalks could begin as early as August, w",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654137/middle-east",
-          "published_at": "Mon, 10 Aug 2026 09:08:32 +03",
+          "article_url": "https://www.arabnews.com/node/2654150/middle-east",
+          "published_at": "Mon, 10 Aug 2026 11:08:33 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtemVsZW5za3kt",
+          "id": "YXJhYm5ld3MtZmlyZS1icmVh",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Zelensky congratulates Saudi Arabia’s crown prince on Makkah defense agreement",
-          "summary": "RIYADH: Ukrainian President Volodymyr Zelensky congratulated Saudi Arabia’s Crown Prince Mohammed bin Salman on Monday for the recent signing of a regional defense agreement.\n\n\tZelensky said he hopes the Makkah Joint Defense Agreement signed between Saudi Arabia, Turkiye and Pakistan last week will ",
+          "title": "Fire breaks out at Libya’s Zawiya refinery",
+          "summary": "TRIPOLI: A fire broke out on Monday ​in a diesel tank at Libya’s Zawiya refinery days after the facility was hit by drone.\n\n\tThe circumstances of Monday's fire remained unknown, Brega Petroleum Marketing Company said in a statement.\n\tBrega is owned by state oil firm National Oil Corporation (NOC) an",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654135/saudi-arabia",
-          "published_at": "Mon, 10 Aug 2026 08:08:11 +03",
+          "article_url": "https://www.arabnews.com/node/2654151/middle-east",
+          "published_at": "Mon, 10 Aug 2026 11:08:10 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtYWx0YW5mZWV0",
+          "id": "YXJhYm5ld3MtaXNyYWVsaS1z",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "ALTANFEETHI concludes participation in Como Cup 2026 in Italy",
-          "summary": "ALTANFEETHI concluded its participation in Como Cup 2026 in Como, Italy, as part of its partnership with AlUla Club. The six-day participation introduced ALTANFEETHI’s services and hospitality experience to an international audience.\n\n\tALTANFEETHI participated through a dedicated booth within the ev",
+          "title": "Israeli settler attack on Al-Mughayyir highlights surge in West Bank violence",
+          "summary": "RAMALLAH: Israeli settlers, under the protection of Israeli occupation forces, have attacked the village of Al-Mughayyir, northeast of Ramallah.\n\n\tAmin Abu Aliya, the head of the Al-Mughayyir Village Council, said that settlers attacked Palestinian farmers in the eastern plain area and local residen",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654134/corporate-and-sponsored-content",
-          "published_at": "Mon, 10 Aug 2026 08:08:04 +03",
-          "cross_sections": []
-        },
-        {
-          "id": "YXJhYm5ld3MtdHJ1bXAtZGVt",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Trump demands Iran pay compensation for war dead and wounded",
-          "summary": "WASHINGTON: US President Donald Trump said Monday he would seek conflict compensation from Iran as part of any peace negotiations, citing attacks and atrocities stretching back decades allegedly backed or perpetrated by Tehran.\n\tIran is “asking for compensation for the damage done to them during the",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654132/middle-east",
-          "published_at": "Mon, 10 Aug 2026 07:08:59 +03",
+          "article_url": "https://www.arabnews.com/node/2654145/middle-east",
+          "published_at": "Mon, 10 Aug 2026 10:08:48 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtaXJhbi1zdXBy",
+          "id": "YXJhYm5ld3Mtc3lyaWFuLWxl",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Iran supreme leader names Guards general Abdollahi military chief",
-          "summary": "TEHRAN: Iranian supreme leader Mojtaba Khamenei named Revolutionary Guards general Ali Abdollahi head of the country's armed forces on Monday, while also confirming a new commander of the Guards, putting his imprimatur on the country's military.\n\tAbdollahi had previously led the Khatam Al-Anbiya, Ir",
+          "title": "Syrian leader receives UN refugee chief in Damascus",
+          "summary": "DAMASCUS: President Ahmad Al-Sharaa received UN High Commissioner for Refugees Barham Salih and his accompanying delegation at the People’s Palace in Damascus on Monday, in the presence of Minister of Foreign Affairs and Expatriates Asaad Hassan Al-Shaibani.\n\tThe meeting focused on ways to strengthe",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654129/middle-east",
-          "published_at": "Mon, 10 Aug 2026 07:08:36 +03",
-          "cross_sections": []
-        },
-        {
-          "id": "YXJhYm5ld3Mtc3BvcnRzLWJv",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Sports Boulevard launches $186m fund to develop Urban Wadi assets",
-          "summary": "JEDDAH: The Sports Boulevard Real Estate Development and Investment Co. has signed agreements with Rikaz Properties to establish its third real estate investment fund, valued at more than $186 million, to develop key assets including a luxury five-star hotel in Riyadh’s Urban Wadi.\n\n\tThe fund will f",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654133/business-economy",
-          "published_at": "Mon, 10 Aug 2026 07:08:14 +03",
-          "cross_sections": []
-        },
-        {
-          "id": "YXJhYm5ld3MtdWtyYWluZeKA",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Ukraine’s Zelensky says up to 50,000 North Korean troops to be deployed in Russia",
-          "summary": "SEOUL: Ukrainian President Volodymyr Zelensky has ‌said up to 50,000 North Korean soldiers will be deployed in Russia to fight for Pyongyang’s ally, while calling on South Korea to provide support for ​its air defense.Zelensky said on X on Saturday that “a decision has been made for 30,000 to 50,000",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654131/world",
-          "published_at": "Mon, 10 Aug 2026 07:08:03 +03",
+          "article_url": "https://www.arabnews.com/node/2654147/middle-east",
+          "published_at": "Mon, 10 Aug 2026 10:08:45 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtaG91dGhpcy1s",
+          "id": "YXJhYm5ld3MtdGVlbmFnZXIt",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Houthis launch new drone wave across Yemen’s government-held areas",
-          "summary": "AL-MUKALLA: At least two Yemeni government soldiers were killed in southern Yemen as the Houthis launched a new wave of drone attacks on government-controlled areas in Aden, Mocha and Shabwa.\n\n\tThe escalation came as the Yemeni army vowed on Monday to respond to Houthi drone and missile strikes on t",
+          "title": "Teenager dies trying to rescue swimmers at Alexandria beach",
+          "summary": "ALEXANDRIA: An 18-year-old man died while attempting to help rescue six people from drowning at El-Baitash beach in Alexandria, Egypt, on Saturday, local authorities said.\n\tThe Central Administration for Tourism and Resorts in Alexandria said on Sunday that the beach was among those closed to swimme",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2654127/middle-east",
-          "published_at": "Mon, 10 Aug 2026 06:08:00 +03",
+          "article_url": "https://www.arabnews.com/node/2654149/middle-east",
+          "published_at": "Mon, 10 Aug 2026 10:08:39 +03",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtaGlzdG9yaWMt",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Historic trails, dramatic peaks position Taif as Saudi Arabia’s emerging hiking capital",
+          "summary": "MAKKAH: Cradled among dramatic mountain ridges, lush valleys and cool highland breezes, Taif is rapidly cementing its reputation as one of Saudi Arabia’s premier outdoor destinations — with mountain hiking leading its eco-tourism surge.\n\n\tDriven by growing domestic interest in outdoor recreation und",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654143/saudi-arabia",
+          "published_at": "Mon, 10 Aug 2026 10:08:37 +03",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3Mtd2hhdC13ZS1h",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "What We Are Reading Today: ‘Silk Roads, Steppe Roads’ by Jonathan Karam Skaff",
+          "summary": "“Silk Roads, Steppe Roads” takes the reader on a journey to three sites in northwestern China and Mongolia to investigate medieval Chinese tombs containing evidence of Eastern Eurasian cultural contacts and exchanges. \n\n\tThe construction, artifacts, and texts on paper and stone found at these tombs ",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654146/books",
+          "published_at": "Mon, 10 Aug 2026 10:08:22 +03",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtYWwtbmFzc3It",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Al-Nassr fans worried ahead of new season but Ange might be the man to steer them to glory",
+          "summary": "RIYADH: It is not a good time to be an Al-Nassr fan. While that might sound like a bizarre statement to make, considering the club ended a seven-year title drought by beating Al-Hilal to the Saudi Pro League title last season, they face a stark reality as they prepare to defend their title.",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654148/sport",
+          "published_at": "Mon, 10 Aug 2026 10:08:19 +03",
           "cross_sections": []
         }
       ]
@@ -4821,7 +4939,7 @@
         {
           "id": "techcrunch",
           "name": "TechCrunch",
-          "count": 8
+          "count": 7
         },
         {
           "id": "theverge",
@@ -4920,7 +5038,7 @@
         {
           "id": "euronews",
           "name": "Euronews",
-          "count": 8
+          "count": 16
         },
         {
           "id": "dw",
@@ -4981,6 +5099,55 @@
       "icon": "💻",
       "articles": [
         {
+          "id": "dGVjaGNydW5jaC1udmlkaWEt",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Nvidia partners with data center developer Cloverleaf",
+          "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+          "published_at": "Fri, 21 Aug 2026 22:37:38 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "Y25ldC1pbnNpZGUtamFzb24t",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Inside Jason Kelce’s Potty Humor Marketing Ploy Against AI Data Centers",
+          "summary": "Big Tech’s water guzzling to cool AI servers is serious, even if this viral ad isn’t.",
+          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/jason-kelce-liquid-death-pee.jpg",
+          "article_url": "https://www.cnet.com/tech/services-and-software/jason-kelce-liquid-death-marketing-stunt-ai-data-centers/",
+          "published_at": "2026-08-21T22:22:31.000Z",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhldmVyZ2UtaG92ZXJhaXLi",
+          "source_id": "theverge",
+          "source_name": "The Verge",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "HoverAir’s transforming modular drone has already been halted in the US",
+          "summary": "The HoverAir Versa. | Image: HoverAir\t\n\nI am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US orders just three days after its Indiegogo",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/hoverair-versa.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "article_url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+          "published_at": "2026-08-21T22:14:11.000Z",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "bnl0LW1lZ2hhbi1vZi1zdXNz",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -5003,8 +5170,8 @@
           "source_region": "IT Focus",
           "source_category": "Tech Media",
           "feed_label": "Latest",
-          "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48-hours",
-          "summary": "Rillet CEO Nicholas Koop shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
+          "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
+          "summary": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
           "published_at": "Fri, 21 Aug 2026 22:10:01 +0000",
@@ -5058,22 +5225,6 @@
           "image_url": null,
           "article_url": "https://www.aljazeera.com/economy/2026/8/21/tiktok-settles-with-us-justice-department-for-400m-over-child-privacy-laws?traffic_source=rss",
           "published_at": "Fri, 21 Aug 2026 21:59:29 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LXUucy4tYWdyZWVkLXRv",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "U.S. Agreed to Pay Liberia $5 Million in Connection with Deportees, Documents Say",
-          "summary": "The Trump administration approved the payment after Liberia said it would consider taking migrants from other countries.",
-          "image_url": "https://static01.nyt.com/images/2026/08/21/multimedia/21dc-liberia-photo-kjqh/21dc-liberia-photo-kjqh-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/21/us/politics/us-liberia-deportees-payment.html",
-          "published_at": "Fri, 21 Aug 2026 21:46:56 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5207,6 +5358,22 @@
           ]
         },
         {
+          "id": "bnl0LXUucy4tY3V0cy1jb2xv",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "U.S. Cuts Colorado River Water for Arizona, California and Nevada",
+          "summary": "Arizona’s share of the river will shrink by a third, likely increasing reliance on groundwater and raising pressure on agriculture.",
+          "image_url": "https://static01.nyt.com/images/2026/08/21/multimedia/21CLI-COLORADO-CUTS-vkzj/21CLI-COLORADO-CUTS-vkzj-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html",
+          "published_at": "Fri, 21 Aug 2026 20:38:33 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "Y25ldC10aGUtZGVhZC1pbnRl",
           "source_id": "cnet",
           "source_name": "CNET",
@@ -5314,22 +5481,6 @@
           "image_url": null,
           "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss",
           "published_at": "Fri, 21 Aug 2026 20:16:59 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtcmFodWzigJlz",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Rahul’s street politics signals a new Opposition playbook",
-          "summary": "Mr. Gandhi appears to be seeking consistency in his politics and, in the process, addressing a criticism that he is an inconsistent politician.",
-          "image_url": "https://th-i.thgim.com/public/incoming/1m2orw/article71375147.ece/alternates/LANDSCAPE_1200/PTI08_21_2026_000541A.jpg",
-          "article_url": "https://www.thehindu.com/news/national/rahuls-street-politics-signals-a-new-opposition-playbook/article71374667.ece",
-          "published_at": "Sat, 22 Aug 2026 01:44:25 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5444,23 +5595,6 @@
           "published_at": "2026-08-21T19:44:55.000Z",
           "cross_sections": [
             "tech"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1udmlkaWEt",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-          "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-          "published_at": "Fri, 21 Aug 2026 19:43:39 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
           ]
         },
         {
@@ -5606,22 +5740,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "bmR0di1sdXJlZC1ieS1vZmZs",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Lured By Offline Booking, Killed For Car: Murder Of Delhi Taxi Driver",
-          "summary": "The Delhi Police have apprehended six persons, including a juvenile, in connection with the murder and recovered the victim's car from Rajasthan, they said.",
-          "image_url": "https://c.ndtvimg.com/2019-05/fkcrjpmg_delhi-police-generic_625x300_27_May_19.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/lured-by-offline-booking-killed-for-car-murder-of-delhi-taxi-driver-11942754#publisher=newsstand",
-          "published_at": "Sat, 22 Aug 2026 00:26:36 +0530",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -5636,6 +5754,23 @@
       "name": "LLM & AI",
       "icon": "🤖",
       "articles": [
+        {
+          "id": "dGVjaGNydW5jaC1udmlkaWEt",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Nvidia partners with data center developer Cloverleaf",
+          "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+          "published_at": "Fri, 21 Aug 2026 22:37:38 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
         {
           "id": "Y25iY3RlY2gtYW50aHJvcGlj",
           "source_id": "cnbctech",
@@ -5665,23 +5800,6 @@
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
           "published_at": "Fri, 21 Aug 2026 22:03:39 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1udmlkaWEt",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-          "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-          "published_at": "Fri, 21 Aug 2026 19:43:39 +0000",
           "cross_sections": [
             "tech",
             "ai"
@@ -5995,7 +6113,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 9268,
+    "build_ms": 10531,
     "ai_enabled": true
   }
 }
