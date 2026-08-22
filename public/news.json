@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-22T15:54:53.624Z",
-  "total_articles": 310,
+  "last_updated": "2026-08-22T16:10:08.377Z",
+  "total_articles": 309,
   "new_this_run": 14,
   "sources": [
     {
@@ -9,6 +9,22 @@
       "region": "IT Focus",
       "category": "Tech Media",
       "articles": [
+        {
+          "id": "dGVjaGNydW5jaC1mcm9udGll",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+          "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+          "published_at": "Sat, 22 Aug 2026 16:00:00 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "dGVjaGNydW5jaC11cy1iYXR0",
           "source_id": "techcrunch",
@@ -118,22 +134,6 @@
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
           "published_at": "Fri, 21 Aug 2026 22:10:01 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1hcHBsZS1p",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
-          "summary": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
-          "published_at": "Fri, 21 Aug 2026 20:58:07 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -1431,12 +1431,28 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "bnl0LWNhbmFkYS11LnMuLXRy",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Canada-U.S. Trade War Escalates as Talks Collapse",
+          "summary": "Intense negotiations to stave off new levies by the Trump administration ended in an impasse as Mark Carney suspended talks. U.S. tariffs on Canada, and retaliatory tariffs on the U.S., will come into effect.",
+          "image_url": "https://static01.nyt.com/images/2026/08/21/multimedia/21int-canada-tariffs-lgpc/21int-canada-tariffs-lgpc-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
+          "published_at": "Sat, 22 Aug 2026 15:59:01 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "bnl0LW1hcmstY2FybmV5LXNw",
           "source_id": "nyt",
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
-          "feed_label": "World",
+          "feed_label": "Top Stories",
           "title": "Mark Carney Speaks to Canadians After Trade Talks With U.S. Collapse",
           "summary": "Prime Minister Mark Carney addressed Canadians on Saturday morning, hours after he ordered negotiators to suspend U.S. trade talks despite President Trump’s punishing tariffs.",
           "image_url": "https://static01.nyt.com/images/2026/08/22/multimedia/22int-canada-carney-SUB-pfhq/22int-canada-carney-SUB-pfhq-mediumSquareAt3X.jpg",
@@ -1456,22 +1472,6 @@
           "image_url": "https://static01.nyt.com/images/2026/08/21/technology/22xp-pigeons-PROMO/oakImage-1787350721844-mediumSquareAt3X.png",
           "article_url": "https://www.nytimes.com/2026/08/22/technology/carrier-pigeon-app-texting-technology.html",
           "published_at": "Sat, 22 Aug 2026 15:34:31 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LWNhbmFkYS11LnMuLXRy",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Canada-U.S. Trade War Escalates as Talks Collapse",
-          "summary": "Intense negotiations to stave off new levies by the Trump administration ended in an impasse as Mark Carney suspended talks. U.S. tariffs on Canada, and retaliatory tariffs on the U.S., will come into effect.",
-          "image_url": "https://static01.nyt.com/images/2026/08/22/multimedia/22hp-carney-flipper-bqzh/22hp-carney-flipper-bqzh-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
-          "published_at": "Sat, 22 Aug 2026 15:26:17 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -1514,7 +1514,7 @@
           "source_name": "The New York Times",
           "source_region": "North America",
           "source_category": "Newspaper",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Carney Stands Up to Trump in U.S.-Canada Trade War",
           "summary": "Canada’s prime minister walked away from what he thought was a bad trade deal with the United States. Many Canadians are behind him, but it will be costly.",
           "image_url": "https://static01.nyt.com/images/2026/08/21/multimedia/00int-canada-tariffs-hfos-pbtz/00int-canada-tariffs-hfos-pbtz-mediumSquareAt3X-v3.jpg",
@@ -1663,7 +1663,7 @@
           "summary": "The plan complies with President Trump’s executive order to restrict mail voting, which was blocked by federal courts and is under review at the Supreme Court.",
           "image_url": "https://static01.nyt.com/images/2026/06/24/multimedia/21dc-mail-ballots/24trump-news-mail-ballots-lhqp-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html",
-          "published_at": "Sat, 22 Aug 2026 02:37:14 +0000",
+          "published_at": "Sat, 22 Aug 2026 02:37:15 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -1777,7 +1777,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-08-22T15:54:45.513Z",
+          "published_at": "2026-08-22T16:10:00.168Z",
           "cross_sections": []
         },
         {
@@ -1791,7 +1791,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-08-22T15:54:45.513Z",
+          "published_at": "2026-08-22T16:10:00.168Z",
           "cross_sections": []
         },
         {
@@ -1805,7 +1805,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-08-22T15:54:45.513Z",
+          "published_at": "2026-08-22T16:10:00.168Z",
           "cross_sections": []
         },
         {
@@ -2117,17 +2117,17 @@
       "category": "Broadcaster",
       "articles": [
         {
-          "id": "Y25iYy11LnMuLWNhbmFkYS10",
+          "id": "Y25iYy1hcy11LnMuLWNhbmFk",
           "source_id": "cnbc",
           "source_name": "CNBC",
           "source_region": "North America",
           "source_category": "Broadcaster",
           "feed_label": "Top News",
-          "title": "U.S.-Canada trade talks collapse, ushering in wave of new tariffs",
+          "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
           "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-          "published_at": "Sat, 22 Aug 2026 14:53:32 GMT",
+          "published_at": "Sat, 22 Aug 2026 15:59:29 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -2622,9 +2622,9 @@
           "feed_label": "Top Stories",
           "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
           "summary": "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daa9/live/22262a40-9e43-11f1-bb45-576721ee33bb.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 22 Aug 2026 15:44:57 GMT",
+          "published_at": "Sat, 22 Aug 2026 16:05:04 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -2638,9 +2638,9 @@
           "feed_label": "World",
           "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
           "summary": "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daa9/live/22262a40-9e43-11f1-bb45-576721ee33bb.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 22 Aug 2026 15:44:57 GMT",
+          "published_at": "Sat, 22 Aug 2026 16:05:04 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -3318,6 +3318,22 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "ZXVyb25ld3MtbGF0ZXN0LW5l",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Latest news bulletin | August 22nd, 2026 – Evening",
+          "summary": "Catch up with the most important stories from around Europe and beyond this August 22nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+          "image_url": "https://images.euronews.com/articles/stories/09/88/48/82/696x392_cmsv2_274e526d-e9bd-5174-b690-2f2910c4777b-9884882.jpg",
+          "article_url": "http://www.euronews.com/video/2026/08/22/latest-news-bulletin-august-22nd-2026-evening",
+          "published_at": "Sat, 22 Aug 2026 18:00:29 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "ZXVyb25ld3MtZWRmLXRvLXBy",
           "source_id": "euronews",
           "source_name": "Euronews",
@@ -3344,22 +3360,6 @@
           "article_url": "http://www.euronews.com/2026/08/22/white-house-ballroom-will-cost-nearly-400m-as-supreme-court-allows-work-to-continue",
           "published_at": "Sat, 22 Aug 2026 12:18:23 +0200",
           "cross_sections": []
-        },
-        {
-          "id": "ZXVyb25ld3MtbGF0ZXN0LW5l",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "News",
-          "title": "Latest news bulletin | August 22nd, 2026 – Midday",
-          "summary": "Catch up with the most important stories from around Europe and beyond this August 22nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-          "image_url": "https://images.euronews.com/articles/stories/09/88/44/95/696x392_cmsv2_a357236b-7812-5532-9e95-56911202cbc8-9884495.jpg",
-          "article_url": "http://www.euronews.com/video/2026/08/22/latest-news-bulletin-august-22nd-2026-midday",
-          "published_at": "Sat, 22 Aug 2026 12:00:16 +0200",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "ZXVyb25ld3MtdGlrdG9rLWFn",
@@ -3419,22 +3419,6 @@
           "image_url": "https://images.euronews.com/articles/stories/09/87/94/02/696x392_cmsv2_840c2523-af17-59c2-89ed-fc19c78ad5fd-9879402.jpg",
           "article_url": "http://www.euronews.com/business/2026/08/21/portugals-pension-surplus-is-an-illusion-new-report-warns",
           "published_at": "Fri, 21 Aug 2026 16:33:57 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtbmV3LXZpZGVv",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "News",
-          "title": "New videos show deadly landslide burying gold miners in Central African Republic",
-          "summary": "New videos filmed at the Zamboye mining site on 18 August appears to show the moment a landslide swept through an artisanal gold mine in the Central African Republic, burying miners beneath earth and sand.",
-          "image_url": "https://images.euronews.com/articles/stories/09/88/39/66/696x392_cmsv2_7cc92447-495a-53e7-a6d5-e582080345b1-9883966.jpg",
-          "article_url": "http://www.euronews.com/video/2026/08/21/new-videos-show-deadly-landslide-burying-gold-miners-in-central-african-republic",
-          "published_at": "Fri, 21 Aug 2026 15:48:21 +0200",
           "cross_sections": [
             "tech"
           ]
@@ -3752,20 +3736,6 @@
           ]
         },
         {
-          "id": "dG9pLSdlbnN1cmUtZW5kLW9m",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "'Ensure end of caste system first': Athawale calls reservation constitutional right",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/ensure-end-of-caste-system-first-union-mos-for-social-justice-athawale-calls-reservation-constitutional-right/articleshow/133426383.cms",
-          "published_at": "Sat, 22 Aug 2026 20:46:06 +0530",
-          "cross_sections": []
-        },
-        {
           "id": "dG9pLWZpci1hZ2FpbnN0LWRp",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3807,6 +3777,20 @@
           "image_url": null,
           "article_url": "https://timesofindia.indiatimes.com/india/you-dont-belong-to-anyone-else-but-yourself-rahul-gandhis-message-to-young-women/articleshow/133426026.cms",
           "published_at": "Sat, 22 Aug 2026 19:54:59 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dG9pLWJlaW5nLXF1ZWVyLWlu",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Being queer in Kashmir: Families, phones, friendships monitored, says report",
+          "summary": "A comprehensive report reveals the extensive control exerted over LGBTQIA+ individuals in Kashmir, highlighting issues such as monitored communications and scrutinized social interactions. The study emphasizes how family pressures and societal expectations surrounding marriage exacerbate marginaliza",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/city/srinagar/being-queer-in-kashmir-families-phones-friendships-monitored-says-report/articleshow/133425496.cms",
+          "published_at": "Sat, 22 Aug 2026 19:22:04 +0530",
           "cross_sections": []
         },
         {
@@ -4100,121 +4084,123 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dGhlaGluZHUtNjAlLXJlYmF0",
+          "id": "dGhlaGluZHUtamlwbWVy4oCZ",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "60% rebate spurs B-Khata conversion, but fails to attract substantial interest",
-          "summary": "When the conversion was first announced, the fixed charges were 5% of the guidance value in the area. However, a poor response prompted the government to reduce the charges to 2% and set August 23 as the deadline for the rebate period",
-          "image_url": "https://th-i.thgim.com/public/incoming/lzf1mi/article71378565.ece/alternates/LANDSCAPE_1200/Bengaluru_skyline_12.jpg",
-          "article_url": "https://www.thehindu.com/news/cities/bangalore/60-rebate-spurs-b-khata-conversion-but-fails-to-attract-substantial-interest/article71378274.ece",
-          "published_at": "Sat, 22 Aug 2026 21:22:39 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtc2lraC1wcm90",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Sikh protesters burn Rahul Gandhi effigy over Sajjan Kumar ‘role model’ remark",
-          "summary": "Around 200 Sikh community representatives, including families of 1984 anti-Sikh riot victims, protested near Rahul Gandhi’s Delhi residence, demanding an apology and his resignation; several protesters were detained",
-          "image_url": "https://th-i.thgim.com/public/incoming/htup58/article71377126.ece/alternates/LANDSCAPE_1200/SIKH%20PROTEST%20DELHI%202025_22_08_19.jpg",
-          "article_url": "https://www.thehindu.com/news/national/sikhs-protest-outside-rahul-gandhis-residence-against-congress-leaders-calling-sajjan-kumar-hero/article71377114.ece",
-          "published_at": "Sat, 22 Aug 2026 21:20:12 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtdGFibGUtdGVu",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Table tennis: Kavyashree stars on a day of upsets",
+          "title": "Jipmer’s resource hub upgraded as Centre of Excellence for Health Technology Assessment",
           "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/3x8f6m/article71378543.ece/alternates/LANDSCAPE_1200/TABLE_TENNIS_26.jpg",
-          "article_url": "https://www.thehindu.com/sport/other-sports/table-tennis-kavyashree-stars-on-a-day-of-upsets/article71378551.ece",
-          "published_at": "Sat, 22 Aug 2026 21:18:59 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtbWFkdXJhaS1j",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Madurai Collector holds monsoon preparedness meeting",
-          "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/wx5j24/article71378531.ece/alternates/LANDSCAPE_1200/Collector%20Nishant%20Krishna.jpg",
-          "article_url": "https://www.thehindu.com/news/cities/Madurai/madurai-collector-holds-monsoon-preparedness-meeting/article71377865.ece",
-          "published_at": "Sat, 22 Aug 2026 21:18:49 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtcGx1cy1vbmUt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Plus One higher secondary improvement examinations from October 12",
-          "summary": "After Minister for General Education N. Samsudheen received a number of petitions stating that the current pattern was putting students under a lot of stress, it was decided to hold the exams from October 12 to 17.",
-          "image_url": "https://th-i.thgim.com/public/incoming/eb6igu/article71378545.ece/alternates/LANDSCAPE_1200/iStock-2175454420.jpg",
-          "article_url": "https://www.thehindu.com/news/national/kerala/plus-one-higher-secondary-improvement-examinations-from-october-12/article71378307.ece",
-          "published_at": "Sat, 22 Aug 2026 21:18:38 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUta296aGlrb2Rl",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Kozhikode beach fire station returns to original location",
-          "summary": "The move comes amid concerns that relocating the beach fire station to Meenchanda would delay responses to emergencies in key commercial areas such as S.M. Street, Valiyangadi, and Palayam, where the risk of fire accidents is relatively high",
-          "image_url": "https://th-i.thgim.com/public/incoming/dgscy/article71378483.ece/alternates/LANDSCAPE_1200/11073_22_8_2026_20_46_12_1_23TVKZ1_FIRESTATION.JPG",
-          "article_url": "https://www.thehindu.com/news/national/kerala/kozhikode-beach-fire-station-returns-to-original-location/article71378406.ece",
-          "published_at": "Sat, 22 Aug 2026 21:18:19 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtYWN0b3ItbmFz",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Actor Nasser pays tribute to late actor ‘Sowcar’Janaki",
-          "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/i2onj1/article71378529.ece/alternates/LANDSCAPE_1200/Sowkar_Janaki.jpg",
-          "article_url": "https://www.thehindu.com/videos/shorts/actor-nasser-pays-tribute-to-late-actor-sowcarjanaki/article71378539.ece",
-          "published_at": "Sat, 22 Aug 2026 21:16:55 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtcnJ0LXRvLWJl",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "RRT to be formed to address timely redressal of road-related problems in Keralam’s Ernakulam district",
-          "summary": "The rapid response team will intervene to resolve issues such as potholes and absence of street lights, barricades, and reflectors",
           "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/kerala/rrt-to-be-formed-to-address-timely-redressal-of-road-related-problems-in-keralams-ernakulam-district/article71377516.ece",
-          "published_at": "Sat, 22 Aug 2026 21:16:01 +0530",
+          "article_url": "https://www.thehindu.com/news/cities/puducherry/jipmers-resource-hub-upgraded-as-centre-of-excellence-for-health-technology-assessment/article71377273.ece",
+          "published_at": "Sat, 22 Aug 2026 21:38:24 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtZW5naW5lZXJp",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Engineering graduates should turn India into AI creator rather than mere consumer market, says Delhi CM",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/national/tamil-nadu/engineering-graduates-should-turn-india-into-ai-creator-rather-than-mere-consumer-market-says-delhi-cm/article71377159.ece",
+          "published_at": "Sat, 22 Aug 2026 21:38:22 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtMywyODktZm9y",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "3,289 forest offence cases registered in Chamarajanagar forest circle since 2010-11",
+          "summary": "According to the data, the highest number of cases, 2,256, was registered in the M.M. Hills Wildlife Division, followed by 793 cases in the BRT Tiger Reserve and 240 cases in the Cauvery Wildlife Division",
+          "image_url": "https://th-i.thgim.com/public/incoming/2q8d9o/article71378595.ece/alternates/LANDSCAPE_1200/_KMK5066.JPG",
+          "article_url": "https://www.thehindu.com/news/national/karnataka/3289-forest-offence-cases-registered-in-chamarajanagar-forest-circle-since-2010-11/article71374406.ece",
+          "published_at": "Sat, 22 Aug 2026 21:33:27 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtMTUteWVhci1v",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "15-year-old schoolboy dies of ‘cardiac arrest’ in Salem",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/cities/Coimbatore/15-year-old-schoolboy-dies-of-cardiac-arrest-in-salem/article71377226.ece",
+          "published_at": "Sat, 22 Aug 2026 21:33:22 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtZGVsaGktY20t",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Delhi CM watches son, kin receive engineering degrees at VIT in Vellore",
+          "summary": "",
+          "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/41aa6j/article71378561.ece/alternates/LANDSCAPE_1200/VIT-21.jpg",
+          "article_url": "https://www.thehindu.com/news/national/tamil-nadu/delhi-cm-watches-son-kin-receive-engineering-degrees-at-vit-in-vellore/article71377530.ece",
+          "published_at": "Sat, 22 Aug 2026 21:26:56 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtY3BpKG0pLXNs",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "CPI(M) slams Vellappally Natesan for questioning  Shamseer’s secular credentials",
+          "summary": "Party State secretariat says Vellappally’s statement — that the former Speaker has the mentality of the Indian Union Muslim League — provides fodder for communalism. Pinarayi terms the comment absurd",
+          "image_url": "https://th-i.thgim.com/public/incoming/xcac5b/article71378572.ece/alternates/LANDSCAPE_1200/Census-2027_-KeGSRGDS4CI.3.jpg.jpg",
+          "article_url": "https://www.thehindu.com/news/national/kerala/cpim-slams-vellappally-natesan-for-questioning-shamseers-secular-credentials/article71378534.ece",
+          "published_at": "Sat, 22 Aug 2026 21:26:51 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUteW91dGgtd2ls",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Youth will rise to defend the Republic, says Aishe Ghosh at DYFI State Conference in Keralam",
+          "summary": "SFI leader accuses BJP-RSS of attacking education, employment and constitutional values; says united youth resistance can force change",
+          "image_url": "https://th-i.thgim.com/public/incoming/9oj6vv/article71378579.ece/alternates/LANDSCAPE_1200/80688_22_8_2026_20_11_12_3_PINARAYIVIJAYAN_KKN3.JPG",
+          "article_url": "https://www.thehindu.com/news/national/kerala/youth-will-rise-to-defend-the-republic-says-aishe-ghosh-at-dyfi-state-conference-in-keralam/article71378376.ece",
+          "published_at": "Sat, 22 Aug 2026 21:26:26 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtamFiYWxwdXLi",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Jabalpur–Coimbatore Special’s services to be regularised from October 23",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/cities/Mangalore/jabalpurcoimbatore-specials-services-to-be-regularised-from-october-23/article71378208.ece",
+          "published_at": "Sat, 22 Aug 2026 21:26:18 +0530",
           "cross_sections": []
         },
         {
@@ -4696,6 +4682,48 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YWxqYXplZXJhLXdhbGstaW4t",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Walk-In “Human Fridges” are Japan’s newest heatwave weapon",
+          "summary": "Designed to stop heatstroke in its tracks, the \"Do Hiemon Box\" delivers rapid, targeted cooling during extreme weather.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/walk-in-human-fridges-are-japans-newest-heatwave-weapon?traffic_source=rss",
+          "published_at": "Sat, 22 Aug 2026 15:48:27 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLWRpZC1kb2dl",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Did DOGE cuts make America’s food safety problem worse?",
+          "summary": "The US has recorded more than 160 food recalls this year, as a Cyclospora outbreak has sickened nearly 11,000 people.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-us-food-recalls-clip?traffic_source=rss",
+          "published_at": "Sat, 22 Aug 2026 15:46:48 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLXNldHRsZXJz",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Settlers target Palestinian homes in Occupied West Bank’s Area B",
+          "summary": "Palestinians in Qaryut say Israeli settlers, backed by the military, are forcing families from their homes.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-reported-nida-live-westbank-ps?traffic_source=rss",
+          "published_at": "Sat, 22 Aug 2026 15:45:40 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "YWxqYXplZXJhLW92ZXItMTAw",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
@@ -4770,50 +4798,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YWxqYXplZXJhLWluZG9uZXNp",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Indonesia bolsters troop numbers to combat Borneo wildfires",
-          "summary": "Fires between January and July burned more than 200,000 hectares of land, says the government.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/8/22/indonesia-bolsters-troop-numbers-to-combat-borneo-wildfires?traffic_source=rss",
-          "published_at": "Sat, 22 Aug 2026 13:35:57 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLWlzLXRydW1w",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Is Trump making Latin America great again?",
-          "summary": "A right-wing wave is sweeping through the region and that is not good news.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/opinions/2026/8/22/is-trump-making-latin-america-great-again?traffic_source=rss",
-          "published_at": "Sat, 22 Aug 2026 13:23:56 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLWFzLWZhbWls",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "As families retrieve bodies, Gaza is running out of places to bury the dead",
-          "summary": "Israel's genocidal war on Gaza has seen thousands of bodies buried in makeshift sites.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/features/2026/8/22/as-families-retrive-bodies-gaza-is-running-out-of-places-to-bury-the-dead?traffic_source=rss",
-          "published_at": "Sat, 22 Aug 2026 13:10:45 +0000",
-          "cross_sections": []
         }
       ]
     },
@@ -5060,7 +5044,7 @@
         {
           "id": "euronews",
           "name": "Euronews",
-          "count": 14
+          "count": 13
         },
         {
           "id": "dw",
@@ -5121,49 +5105,33 @@
       "icon": "💻",
       "articles": [
         {
-          "id": "dGhlaGluZHUtNjAlLXJlYmF0",
+          "id": "dGhlaGluZHUtamlwbWVy4oCZ",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "60% rebate spurs B-Khata conversion, but fails to attract substantial interest",
-          "summary": "When the conversion was first announced, the fixed charges were 5% of the guidance value in the area. However, a poor response prompted the government to reduce the charges to 2% and set August 23 as the deadline for the rebate period",
-          "image_url": "https://th-i.thgim.com/public/incoming/lzf1mi/article71378565.ece/alternates/LANDSCAPE_1200/Bengaluru_skyline_12.jpg",
-          "article_url": "https://www.thehindu.com/news/cities/bangalore/60-rebate-spurs-b-khata-conversion-but-fails-to-attract-substantial-interest/article71378274.ece",
-          "published_at": "Sat, 22 Aug 2026 21:22:39 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtc2lraC1wcm90",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Sikh protesters burn Rahul Gandhi effigy over Sajjan Kumar ‘role model’ remark",
-          "summary": "Around 200 Sikh community representatives, including families of 1984 anti-Sikh riot victims, protested near Rahul Gandhi’s Delhi residence, demanding an apology and his resignation; several protesters were detained",
-          "image_url": "https://th-i.thgim.com/public/incoming/htup58/article71377126.ece/alternates/LANDSCAPE_1200/SIKH%20PROTEST%20DELHI%202025_22_08_19.jpg",
-          "article_url": "https://www.thehindu.com/news/national/sikhs-protest-outside-rahul-gandhis-residence-against-congress-leaders-calling-sajjan-kumar-hero/article71377114.ece",
-          "published_at": "Sat, 22 Aug 2026 21:20:12 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtbWFkdXJhaS1j",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Madurai Collector holds monsoon preparedness meeting",
+          "title": "Jipmer’s resource hub upgraded as Centre of Excellence for Health Technology Assessment",
           "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/wx5j24/article71378531.ece/alternates/LANDSCAPE_1200/Collector%20Nishant%20Krishna.jpg",
-          "article_url": "https://www.thehindu.com/news/cities/Madurai/madurai-collector-holds-monsoon-preparedness-meeting/article71377865.ece",
-          "published_at": "Sat, 22 Aug 2026 21:18:49 +0530",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/cities/puducherry/jipmers-resource-hub-upgraded-as-centre-of-excellence-for-health-technology-assessment/article71377273.ece",
+          "published_at": "Sat, 22 Aug 2026 21:38:24 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtZW5naW5lZXJp",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Engineering graduates should turn India into AI creator rather than mere consumer market, says Delhi CM",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/national/tamil-nadu/engineering-graduates-should-turn-india-into-ai-creator-rather-than-mere-consumer-market-says-delhi-cm/article71377159.ece",
+          "published_at": "Sat, 22 Aug 2026 21:38:22 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5177,9 +5145,9 @@
           "feed_label": "Top Stories",
           "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
           "summary": "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daa9/live/22262a40-9e43-11f1-bb45-576721ee33bb.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 22 Aug 2026 15:44:57 GMT",
+          "published_at": "Sat, 22 Aug 2026 16:05:04 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -5193,9 +5161,105 @@
           "feed_label": "World",
           "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
           "summary": "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daa9/live/22262a40-9e43-11f1-bb45-576721ee33bb.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 22 Aug 2026 15:44:57 GMT",
+          "published_at": "Sat, 22 Aug 2026 16:05:04 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtbGF0ZXN0LW5l",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "News",
+          "title": "Latest news bulletin | August 22nd, 2026 – Evening",
+          "summary": "Catch up with the most important stories from around Europe and beyond this August 22nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+          "image_url": "https://images.euronews.com/articles/stories/09/88/48/82/696x392_cmsv2_274e526d-e9bd-5174-b690-2f2910c4777b-9884882.jpg",
+          "article_url": "http://www.euronews.com/video/2026/08/22/latest-news-bulletin-august-22nd-2026-evening",
+          "published_at": "Sat, 22 Aug 2026 18:00:29 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGVjaGNydW5jaC1mcm9udGll",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+          "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+          "published_at": "Sat, 22 Aug 2026 16:00:00 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iYy1hcy11LnMuLWNhbmFk",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
+          "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+          "published_at": "Sat, 22 Aug 2026 15:59:29 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LWNhbmFkYS11LnMuLXRy",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Canada-U.S. Trade War Escalates as Talks Collapse",
+          "summary": "Intense negotiations to stave off new levies by the Trump administration ended in an impasse as Mark Carney suspended talks. U.S. tariffs on Canada, and retaliatory tariffs on the U.S., will come into effect.",
+          "image_url": "https://static01.nyt.com/images/2026/08/21/multimedia/21int-canada-tariffs-lgpc/21int-canada-tariffs-lgpc-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
+          "published_at": "Sat, 22 Aug 2026 15:59:01 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtY3BpKG0pLXNs",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "CPI(M) slams Vellappally Natesan for questioning  Shamseer’s secular credentials",
+          "summary": "Party State secretariat says Vellappally’s statement — that the former Speaker has the mentality of the Indian Union Muslim League — provides fodder for communalism. Pinarayi terms the comment absurd",
+          "image_url": "https://th-i.thgim.com/public/incoming/xcac5b/article71378572.ece/alternates/LANDSCAPE_1200/Census-2027_-KeGSRGDS4CI.3.jpg.jpg",
+          "article_url": "https://www.thehindu.com/news/national/kerala/cpim-slams-vellappally-natesan-for-questioning-shamseers-secular-credentials/article71378534.ece",
+          "published_at": "Sat, 22 Aug 2026 21:26:51 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUteW91dGgtd2ls",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Youth will rise to defend the Republic, says Aishe Ghosh at DYFI State Conference in Keralam",
+          "summary": "SFI leader accuses BJP-RSS of attacking education, employment and constitutional values; says united youth resistance can force change",
+          "image_url": "https://th-i.thgim.com/public/incoming/9oj6vv/article71378579.ece/alternates/LANDSCAPE_1200/80688_22_8_2026_20_11_12_3_PINARAYIVIJAYAN_KKN3.JPG",
+          "article_url": "https://www.thehindu.com/news/national/kerala/youth-will-rise-to-defend-the-republic-says-aishe-ghosh-at-dyfi-state-conference-in-keralam/article71378376.ece",
+          "published_at": "Sat, 22 Aug 2026 21:26:26 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5228,22 +5292,6 @@
           "image_url": null,
           "article_url": "https://timesofindia.indiatimes.com/world/rest-of-world/cannot-accept-what-us-has-offered-canada-pm-carney-defiant-as-trade-talks-collapse/articleshow/133426914.cms",
           "published_at": "Sat, 22 Aug 2026 21:00:09 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LWNhbmFkYS11LnMuLXRy",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Canada-U.S. Trade War Escalates as Talks Collapse",
-          "summary": "Intense negotiations to stave off new levies by the Trump administration ended in an impasse as Mark Carney suspended talks. U.S. tariffs on Canada, and retaliatory tariffs on the U.S., will come into effect.",
-          "image_url": "https://static01.nyt.com/images/2026/08/22/multimedia/22hp-carney-flipper-bqzh/22hp-carney-flipper-bqzh-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
-          "published_at": "Sat, 22 Aug 2026 15:26:17 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5308,22 +5356,6 @@
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/08/22/rising-yields-rattled-the-market-but-were-sticking-with-our-favorite-ai-and-retail-stocks.html",
           "published_at": "Sat, 22 Aug 2026 15:08:54 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy11LnMuLWNhbmFkYS10",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "U.S.-Canada trade talks collapse, ushering in wave of new tariffs",
-          "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-          "published_at": "Sat, 22 Aug 2026 14:53:32 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -5617,22 +5649,6 @@
           ]
         },
         {
-          "id": "YWxqYXplZXJhLWlzLXRydW1w",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Is Trump making Latin America great again?",
-          "summary": "A right-wing wave is sweeping through the region and that is not good news.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/opinions/2026/8/22/is-trump-making-latin-america-great-again?traffic_source=rss",
-          "published_at": "Sat, 22 Aug 2026 13:23:56 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "YmJjLXJlc2N1ZXJzLWRpZy10",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -5724,38 +5740,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8751/live/8f4be4d0-9e1a-11f1-a291-b542ee92de7c.jpg",
           "article_url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 22 Aug 2026 12:47:28 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1zd2lzcy10b3VyaXN0",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Swiss Tourist Jailed For Insulting Hindu Holiday In Bali On Instagram",
-          "summary": "Luzian Andrin Zgraggen, a construction worker from Switzerland, filmed a video that he posted to his Instagram story calling the empty beach during the holiday of Nyepi \"crazy\".",
-          "image_url": "https://c.ndtvimg.com/2026-08/9to1clgc_luzian-andrin-zgraggen-afp_625x300_22_August_26.jpeg",
-          "article_url": "https://www.ndtv.com/world-news/swiss-tourist-luzian-andrin-zgraggen-jailed-for-insulting-hindu-holiday-nyepi-in-bali-on-instagram-11944974#publisher=newsstand",
-          "published_at": "Sat, 22 Aug 2026 18:13:43 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZHctY2hpbmVzZS1yb2JvdC1i",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Chinese robot beats Usain Bolt's 100m world record",
-          "summary": "The Chinese humanoid robot \"Lightning\" ran a 100-meter trial race faster than human world-record holder Usain Bolt. A year ago, humanoid robots struggled to finish a race.",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/chinese-robot-beats-usain-bolt-s-100m-world-record/a-78468749?maca=en-rss-en-top-1022-xml-mrss",
-          "published_at": "Sat, 22 Aug 2026 12:41:00 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -6166,7 +6150,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 9049,
+    "build_ms": 9284,
     "ai_enabled": true
   }
 }
