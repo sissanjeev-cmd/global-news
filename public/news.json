@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-23T14:21:05.156Z",
-  "total_articles": 312,
-  "new_this_run": 40,
+  "last_updated": "2026-08-23T14:45:31.070Z",
+  "total_articles": 304,
+  "new_this_run": 21,
   "sources": [
     {
       "id": "techcrunch",
@@ -1024,6 +1024,22 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "Y25iY3RlY2gtYW1lcmljYSdz",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "America's AI backlash: How the effort to keep worker trust is evolving inside companies",
+          "summary": "Trust remains the cornerstone of an ideal AI communication strategy, whether for an AI-native startup or legacy enterprise facing yet another cultural shift.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/23/ai-backlash-workers-job-losses.html",
+          "published_at": "Sun, 23 Aug 2026 14:42:28 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "Y25iY3RlY2gtc21hbGwtdWst",
           "source_id": "cnbctech",
           "source_name": "CNBC Technology",
@@ -1126,22 +1142,6 @@
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/08/21/broadcom-debt-deal-expected-to-reach-upwards-of-70-billion-sources.html",
           "published_at": "Fri, 21 Aug 2026 15:59:25 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iY3RlY2gtNC1tZW1vcnkt",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "4 memory stocks are darlings of the AI boom. How they differ and why we own Micron",
-          "summary": "While often trading together, these companies are not the same.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/08/21/4-memory-stocks-are-darlings-of-the-ai-boom-how-they-differ-and-why-we-own-micron.html",
-          "published_at": "Fri, 21 Aug 2026 14:44:02 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -1426,6 +1426,20 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "bnl0LWlyYW4td2FybnMtZ3Vs",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "Iran Warns Gulf States Not to Join Trump’s Economic War",
+          "summary": "Iran’s new hard-line national security adviser, Mohsen Rezaei, vowed to prevent “a single drop of oil” from leaving the region.",
+          "image_url": "https://static01.nyt.com/images/2026/08/23/multimedia/23-int-iran-war-01-lpzq/23-int-iran-war-01-lpzq-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html",
+          "published_at": "Sun, 23 Aug 2026 14:29:36 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "bnl0LXplbGVuc2t5LXNheXMt",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1470,20 +1484,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "bnl0LWlyYW4td2FybnMtZ3Vs",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Iran Warns Gulf States Not to Join Trump’s Economic War",
-          "summary": "Iran’s new hard-line national security adviser, Mohsen Rezaei, vowed to prevent “a single drop of oil” from leaving the region.",
-          "image_url": "https://static01.nyt.com/images/2026/08/23/multimedia/23-int-iran-war-01-lpzq/23-int-iran-war-01-lpzq-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html",
-          "published_at": "Sun, 23 Aug 2026 12:47:30 +0000",
-          "cross_sections": []
         },
         {
           "id": "bnl0LXRydW1w4oCZcy10b3At",
@@ -1764,7 +1764,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-08-23T14:20:57.260Z",
+          "published_at": "2026-08-23T14:45:22.780Z",
           "cross_sections": []
         },
         {
@@ -1778,7 +1778,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-08-23T14:20:57.260Z",
+          "published_at": "2026-08-23T14:45:22.780Z",
           "cross_sections": []
         },
         {
@@ -1792,7 +1792,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-08-23T14:20:57.260Z",
+          "published_at": "2026-08-23T14:45:22.780Z",
           "cross_sections": []
         },
         {
@@ -3113,20 +3113,6 @@
           "cross_sections": []
         },
         {
-          "id": "Z3VhcmRpYW4t4oCYc3RhcnZl",
-          "source_id": "guardian",
-          "source_name": "The Guardian",
-          "source_region": "Europe",
-          "source_category": "Newspaper",
-          "feed_label": "Business",
-          "title": "‘Starve the beast’? The $40tn cost of Republicans’ false promises to cut spending",
-          "summary": "The enormous US debt under Trump will hobble the next Democratic administration – just as the GOP planned\n\nWhy is the Trump administration causing turmoil in the bond markets?\n\n\nYou could pin the US’s staggering $40tn in government debt to Donald Trump’s Keystone Cops-style governance. Tariffs he so",
-          "image_url": "https://i.guim.co.uk/img/media/a616a971f8174c956a240adf080e40f025b22a3b/685_0_6847_5477/master/6847.jpg?width=140&quality=85&auto=format&fit=max&s=92c58623c4336e90aef10cdd1329c9e5",
-          "article_url": "https://www.theguardian.com/business/2026/aug/20/us-national-debt-republicans",
-          "published_at": "Thu, 20 Aug 2026 15:21:38 GMT",
-          "cross_sections": []
-        },
-        {
           "id": "Z3VhcmRpYW4tdWstY2luZW1h",
           "source_id": "guardian",
           "source_name": "The Guardian",
@@ -3232,6 +3218,22 @@
           "image_url": "https://i.guim.co.uk/img/media/069f8257b36e5d24f0a347c57a8c64391082621d/82_0_3328_2664/master/3328.jpg?width=140&quality=85&auto=format&fit=max&s=4690ba8b5ef4aa3deea57480706eea6f",
           "article_url": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
           "published_at": "Wed, 19 Aug 2026 14:33:24 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Z3VhcmRpYW4td2lsbC1haS1n",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
+          "source_category": "Newspaper",
+          "feed_label": "Business",
+          "title": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits",
+          "summary": "A rise in lawsuits over AI use in employment decisions is raising questions about how companies hire and fire\nFor the last four years, Erin Kistler has applied for thousands of jobs at companies like Paypal, Microsoft and Netflix, only to find her résumé disappear into a black hole. A product manage",
+          "image_url": "https://i.guim.co.uk/img/media/97c70a6b185a61783623194a6c08e38ab9881a23/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=6789749b5804a698ce424c81bdd016f7",
+          "article_url": "https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination",
+          "published_at": "Wed, 19 Aug 2026 11:00:13 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -3367,130 +3369,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "ZXVyb25ld3MtZWRmLXRvLXBy",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "EDF to prepare site for two new nuclear reactors at Gravelines plant in France",
-          "summary": "A sudden influx of jellyfish forced EDF to shut down three reactors at a plant in northern France. In early August, heatwave and jellyfish left a fifth of France's nuclear capacity offline.",
-          "image_url": "https://images.euronews.com/articles/stories/09/88/47/39/696x392_cmsv2_bccacc4f-f1fe-5304-a35f-69412ecc6478-9884739.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/22/edf-authorised-to-prepare-site-for-two-new-nuclear-reactors-at-gravelines-plant",
-          "published_at": "Sat, 22 Aug 2026 14:00:33 +0200",
-          "cross_sections": []
-        },
-        {
-          "id": "ZXVyb25ld3MtcG9ydHVnYWwn",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Portugal's pension surplus is an illusion, new report warns",
-          "summary": "Two personal finance experts urge Portuguese taxpayers to overcome inertia and secure complements to their pensions beyond state social security, after a report on the system's sustainability revealed weaknesses.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/94/02/696x392_cmsv2_840c2523-af17-59c2-89ed-fc19c78ad5fd-9879402.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/21/portugals-pension-surplus-is-an-illusion-new-report-warns",
-          "published_at": "Fri, 21 Aug 2026 16:33:57 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtdGFrZW92ZXIt",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Takeover shield: Monte dei Paschi bids for BPM, Generali to forge €80bn Italian bank",
-          "summary": "Monte dei Paschi clears €34 billion twin bid for Banco BPM and Banca Generali to fend off Intesa Sanpaolo, creating a stronger, bigger €80 billion Italian bank.",
-          "image_url": "https://images.euronews.com/articles/stories/09/44/60/62/696x392_cmsv2_e39f246c-74aa-595c-a9b7-40a0d1661e03-9446062.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/21/monte-dei-paschi-details-of-bid-for-banco-bpm-and-banca-generali",
-          "published_at": "Fri, 21 Aug 2026 12:06:27 +0200",
-          "cross_sections": []
-        },
-        {
-          "id": "ZXVyb25ld3MtbW9udGUtZGVp",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Monte dei Paschi board approves dual exchange offers for Banco Bpm and Banca Generali",
-          "summary": "CEO Luigi Lovaglio's plan aims to bolster MPS and fend off Intesa Sanpaolo's 30.5-billion-euro Opas. Approved with nine votes in favour and four abstentions.",
-          "image_url": "https://images.euronews.com/articles/stories/09/88/19/19/696x392_cmsv2_6c151460-909b-55a8-834c-ee563177d28e-9881919.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/20/monte-dei-paschi-board-approves-dual-exchange-offers-for-banco-bpm-and-banca-generali",
-          "published_at": "Thu, 20 Aug 2026 19:10:17 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtbmVhcmx5LeKC",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Nearly €1bn earmarked as five-part plan targets business growth, AI and exports",
-          "summary": "President Shavkat Mirziyoyev announced the measures at annual dialogue with entrepreneurs in Khiva. They include lower energy prepayments, new credit guarantees and easier access to capital markets, alongside regulatory changes that will limit inspections and shift the burden of proof to the state.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/91/52/696x392_cmsv2_5ad482ea-3b5c-590c-bb49-2fd3883430da-9879152.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/20/nearly-1bn-earmarked-as-five-part-plan-targets-business-growth-ai-and-exports",
-          "published_at": "Thu, 20 Aug 2026 16:07:21 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3Mtb3ZlcmNvbWUt",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Overcome market fragmentation or miss the AI train, Lagarde warns the EU",
-          "summary": "An overly fragmented single market cannot support Europe’s top priority of competing globally in the AI race, European Central Bank (ECB) President Christine Lagarde warns.",
-          "image_url": "https://images.euronews.com/articles/stories/09/88/16/94/696x392_cmsv2_73befe30-e5bb-5a67-838d-3dbaddbb68fa-9881694.jpg",
-          "article_url": "http://www.euronews.com/my-europe/2026/08/20/overcome-market-fragmentation-or-miss-the-ai-train-lagarde-warns-the-eu",
-          "published_at": "Thu, 20 Aug 2026 12:43:50 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtZWNiLXVudmVp",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "ECB unveils new banknote designs with a defiant message: Don't count cash out yet",
-          "summary": "With cashless payments on the rise, and a growing belief that cash is being replaced by the digital euro, the European Central Bank (ECB) is introducing new banknotes carrying a clear message to citizens: cash is here to stay.",
-          "image_url": "https://images.euronews.com/articles/stories/09/87/72/40/696x392_cmsv2_b786868c-374f-5609-b42f-e3a94c41174c-9877240.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/19/ecb-unveils-new-banknote-designs-with-a-defiant-message-dont-count-cash-out-yet",
-          "published_at": "Wed, 19 Aug 2026 16:23:14 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3Mtd2hvLWlzLWF1",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Who is automotive giant Stellantis and why did it recall nearly 1 million cars?",
-          "summary": "The world's fourth-largest carmaker is recalling nearly 1 million vehicles — its third major safety campaign this year.",
-          "image_url": "https://images.euronews.com/articles/stories/09/88/08/58/696x392_cmsv2_3951c38e-00f0-56d3-b070-fbc09a8faeee-9880858.jpg",
-          "article_url": "http://www.euronews.com/business/2026/08/19/who-is-automotive-giant-stellantis-and-why-did-it-recall-nearly-1-million-cars",
-          "published_at": "Wed, 19 Aug 2026 16:15:48 +0200",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -3500,6 +3378,22 @@
       "region": "Europe",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "ZHctY291bGQtcnVzc2lhJ3Mt",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Could Russia's growing fuel crisis help end the Ukraine war?",
+          "summary": "Empty pumps, long waits: Attacks on oil refineries have left Russia increasingly short of fuel. Dissident Russian economists say growing anger about shortages among ordinary Russians could help end the Ukraine war.",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/could-russia-s-growing-fuel-crisis-help-end-the-ukraine-war/a-78472138?maca=en-rss-en-top-1022-xml-mrss",
+          "published_at": "Sun, 23 Aug 2026 14:42:00 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "ZHctY29uZ28sLW0yMy1yZWJl",
           "source_id": "dw",
@@ -3605,22 +3499,6 @@
           "cross_sections": []
         },
         {
-          "id": "ZHctdHJ1bXAtaGl0cy1vdXQt",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Trump hits out at Canada over retaliatory tariffs",
-          "summary": "Donald Trump has accused Canada of treating US farmers unfairly for years as a trade standoff between Ottawa and Washington escalates. Both sides are threatening new tariffs after the collapse of talks on Friday.",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/trump-hits-out-at-canada-over-retaliatory-tariffs/a-78471618?maca=en-rss-en-top-1022-xml-mrss",
-          "published_at": "Sun, 23 Aug 2026 07:31:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "ZHctdWtyYWluZTotY291bGQt",
           "source_id": "dw",
           "source_name": "DW News",
@@ -3721,6 +3599,22 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dG9pLXRydW1wLXRhcmlmZnM6",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Trump tariffs: What India can learn from Canada’s failed trade talks with US",
+          "summary": "Ottawa said it would introduce “dollar-for-dollar” retaliatory tariffs from September 8. The move brought an end to talks that had started on February 1, 2025, after the first round of new US tariffs was imposed.",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/business/india-business/trump-tariffs-what-india-can-learn-from-canadas-failed-trade-talks-with-us/articleshow/133441067.cms",
+          "published_at": "Sun, 23 Aug 2026 19:41:10 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dG9pLXJlc3QsLXZpcmFsLWFu",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3748,22 +3642,6 @@
           "image_url": null,
           "article_url": "https://timesofindia.indiatimes.com/city/delhi/delhi-reservation-protest-several-detained-as-300-gather-at-delhis-connaught-place-over-reservation/articleshow/133440679.cms",
           "published_at": "Sun, 23 Aug 2026 19:20:37 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLSd5YXNoYXN2aS1qYWlz",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "'Yashasvi Jaiswal shouldn't have gone so close': Team India coach on heated exchange",
-          "summary": "Yashasvi Jaiswal was batting well on 45 when Fernando dismissed him in the 17th over. The Sri Lankan pacer gave Jaiswal an animated send-off and appeared to exchange words with the batter. Jaiswal initially walked away but then turned back towards Fernando. The two players came close to each other a",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/yashasvi-jaiswal-shouldnt-have-gone-so-close-team-india-coach-on-heated-on-field-exchange-with-asitha-fernando/articleshow/133440711.cms",
-          "published_at": "Sun, 23 Aug 2026 19:16:24 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -3797,22 +3675,6 @@
           "cross_sections": []
         },
         {
-          "id": "dG9pLTIxLWV4LWNhcHRhaW5z",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "21 ex-captains, including Gavaskar, Kapil, renew appeal for Imran Khan's treatment",
-          "summary": "In February this year, 14 legendary captains from five countries — including Gavaskar, Kapil Dev and Greg Chappell, a former head coach of Team India — had made a fervent, emotional appeal to the Pakistan government about ensuring proper treatment for Imran, amid mounting concerns about the cricketi",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/sports/cricket/news/21-former-international-captains-including-gavaskar-and-kapil-renew-appeal-over-imran-khans-medical-treatment/articleshow/133439117.cms",
-          "published_at": "Sun, 23 Aug 2026 17:35:16 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "dG9pLWRlc3Ryb3llZC1pbi1v",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3824,6 +3686,22 @@
           "image_url": null,
           "article_url": "https://timesofindia.indiatimes.com/world/pakistan/destroyed-in-operation-sindoor-jems-bahawalpur-terror-base-fully-operational-again/articleshow/133438629.cms",
           "published_at": "Sun, 23 Aug 2026 17:04:57 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLWhpbmR1LWZhbWlseS1v",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Hindu family of four found dead in locked home in Bangladesh; strangulation suspected",
+          "summary": "A chilling scene unfolded when police discovered the bodies of four members of a Hindu family in their locked home. Initial investigations point to strangulation and a possible robbery. The family's absence since Thursday and the lack of phone activity raised alarm. Following a forced entry, officer",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/world/south-asia/hindu-family-of-four-found-dead-in-locked-home-in-bangladeshs-rangpur-strangulation-suspected/articleshow/133436369.cms",
+          "published_at": "Sun, 23 Aug 2026 13:46:26 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4089,121 +3967,119 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dGhlaGluZHUtZWZmb3J0cy1i",
+          "id": "dGhlaGluZHUtcG9saWNlLWlu",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Efforts being made to save main accused in Ram temple offerings theft case: Ajay Rai",
-          "summary": "Now Hanuman Ji should raise his 'gada' and decide the fate of the 'chanda chor' [donation thieves], said Uttar Pradesh Congress president Ajay Rai",
-          "image_url": "https://th-i.thgim.com/public/incoming/uuv3gz/article71381399.ece/alternates/LANDSCAPE_1200/20260705221L.jpg",
-          "article_url": "https://www.thehindu.com/news/national/uttar-pradesh/efforts-being-made-to-save-main-accused-in-ram-temple-offerings-theft-case-ajay-rai/article71381392.ece",
-          "published_at": "Sun, 23 Aug 2026 19:40:33 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtaXJhbidzLXBy",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Iran's President says U.S. memorandum is best path out of stalled war",
-          "summary": "A Palestinian man was beaten by an Israeli settler outside his home, and Israel's military said they were pursuing a stabbing suspect in a separate attack, the latest violence in the occupied West Bank",
-          "image_url": "https://th-i.thgim.com/public/incoming/4ubh1a/article71381441.ece/alternates/LANDSCAPE_1200/2026-08-08T190306Z_41190565_RC2IUMAYIM5T_RTRMADP_3_IRAN-CRISIS.JPG",
-          "article_url": "https://www.thehindu.com/news/international/irans-president-says-us-memorandum-is-best-path-out-of-stalled-war/article71381224.ece",
-          "published_at": "Sun, 23 Aug 2026 19:39:51 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtcHJpb3ItcGVy",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Prior permission mandatory for protests and rallies, says Ranchi Deputy Commissioner",
-          "summary": "Ranchi Police urges citizens to not believe any news, video, message, or information being circulated on various social media platforms without verification",
-          "image_url": "https://th-i.thgim.com/public/incoming/9pj13a/article71381445.ece/alternates/LANDSCAPE_1200/TH21-Bhelari-JhG5NGE9AMB.4.jpg.jpg",
-          "article_url": "https://www.thehindu.com/news/national/jharkhand/prior-permission-mandatory-for-protests-and-rallies-says-ranchi-deputy-commissioner/article71381124.ece",
-          "published_at": "Sun, 23 Aug 2026 19:37:49 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtYW1hcmF2YXRp",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Amaravati Championship 2026: 9,911 athletes in fray for top spots in 12 disciplines",
+          "title": "Police inspector, constable suspended on charges of taking money from a native doctor",
           "summary": "",
-          "image_url": "https://th-i.thgim.com/public/incoming/8ycner/article71381430.ece/alternates/LANDSCAPE_1200/10215_23_8_2026_16_46_45_1_WHATSAPPIMAGE2026_08_23AT43059PM.JPEG",
-          "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/amaravati-championship-2026-9911-athletes-in-fray-for-top-spots/article71380879.ece",
-          "published_at": "Sun, 23 Aug 2026 19:37:20 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtdGFuZ3V0dXJp",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Tanguturi Prakasam Pantulu’s 155th birth anniversary celebrated",
-          "summary": "His great grandson Tanguturi Santosh Kumar reveals plans to author a biography of his great-grandfather, narrating a series of memorable incidents that are lesser-known to the public, along with a rare collection of his unpublished photographs, which have so far been confined to family members",
-          "image_url": "https://th-i.thgim.com/public/incoming/4ec30u/article71381406.ece/alternates/LANDSCAPE_1200/10215_23_8_2026_16_9_36_1_DSC_3267JPG1.JPEG",
-          "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/tanguturi-prakasam-pantulus-155th-birth-anniversary-celebrated/article71381228.ece",
-          "published_at": "Sun, 23 Aug 2026 19:35:51 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUteXNyY3AtbGVh",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "YSRCP leader criticises government’s response to El Nino crisis in Anantapur",
-          "summary": "Undivided Anantapur district is set to face an acute shortage of drinking water, irrigation water, and cattle fodder, while reduced crop cultivation during the previous Kharif season has already led to scarcity of fodder, claims Anantha Venkatarami Reddy",
           "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-leader-criticises-governments-response-to-el-nino-crisis-in-anantapur/article71381196.ece",
-          "published_at": "Sun, 23 Aug 2026 19:34:35 +0530",
+          "article_url": "https://www.thehindu.com/news/cities/Madurai/police-inspector-constable-suspended-on-charges-of-taking-money-from-a-native-doctor/article71381418.ece",
+          "published_at": "Sun, 23 Aug 2026 20:11:07 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtaW50ZXJuYWwt",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Internal inquiry on into police 'hosting' ED attack case-accused during official Onam celebrations",
+          "summary": "Social media reels of CPI(M)’s former Corporation councillor and prime accused in the case, along with other accused, taking part in the celebrations in front of the station house went viral. The episode became a major source of embarrassment for the UDF government. Home Minister Ramesh Chennithala ",
+          "image_url": "https://th-i.thgim.com/public/incoming/4fwa4n/article71380903.ece/alternates/LANDSCAPE_1200/EDRAID_NH27EDraid18.JPG",
+          "article_url": "https://www.thehindu.com/news/national/kerala/internal-probe-faults-museum-police-for-hosting-ed-attack-case-accused-during-official-onam-celebrations-in-keralam/article71380874.ece",
+          "published_at": "Sun, 23 Aug 2026 20:11:01 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtJ3JlYWwtbGlm",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "'Real life Batman': Posters comparing Rahul to caped crusader put up near Congress’ headquarters",
+          "summary": "\"Not all heroes wear capes, some wear a white T-shirt,\" says Pawan Khera",
+          "image_url": "https://th-i.thgim.com/public/incoming/7at1f4/article71381581.ece/alternates/LANDSCAPE_1200/20260823069L.jpg",
+          "article_url": "https://www.thehindu.com/news/national/real-life-batman-posters-comparing-rahul-to-caped-crusader-put-up-near-congress-headquarters/article71381544.ece",
+          "published_at": "Sun, 23 Aug 2026 20:10:59 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtb3Zlci05ODAt",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Over 980 motorists booked for drunk driving cases in weekend drives across Hyderabad’s quad-commissionerates limits",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/national/telangana/over-980-motorists-booked-for-drunk-driving-cases-in-weekend-drives-across-hyderabads-quad-commissionerates-limits/article71381363.ece",
+          "published_at": "Sun, 23 Aug 2026 20:09:26 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtbmlnaHQtcGF0",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Night patrols intensified to drive out wild elephants in Coimbatore Forest Division",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/cities/Coimbatore/night-patrols-intensified-to-drive-out-wild-elephants-in-coimbatore-forest-division/article71381254.ece",
+          "published_at": "Sun, 23 Aug 2026 20:08:59 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtMTIsMzAxLWNh",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "12,301 candidates appear for AEE recruitment exam on Day 1",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/12301-candidates-appear-for-aee-recruitment-exam-on-day-1/article71381444.ece",
+          "published_at": "Sun, 23 Aug 2026 20:08:55 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtaGFyaXNoLXJh",
+          "id": "dGhlaGluZHUtZmF0aGVyLXNv",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Harish Rao flays govt. over ‘low quality’ school uniforms, Aarogyasri dues",
+          "title": "Father-son duo held for hacking youth to death near Manamadurai over marriage dispute",
           "summary": "",
-          "image_url": "https://th-i.thgim.com/public/news/national/telangana/54nhem/article71380660.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-23%20at%2012.31.46%20PM.jpeg",
-          "article_url": "https://www.thehindu.com/news/national/telangana/harish-rao-flays-govt-over-low-quality-school-uniforms-aarogyasri-dues/article71380662.ece",
-          "published_at": "Sun, 23 Aug 2026 19:33:56 +0530",
-          "cross_sections": []
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/cities/Madurai/father-son-duo-held-for-hacking-youth-to-death-near-manamadurai-over-marriage-dispute/article71381341.ece",
+          "published_at": "Sun, 23 Aug 2026 20:06:29 +0530",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
-          "id": "dGhlaGluZHUtaW5sLWNhbGxz",
+          "id": "dGhlaGluZHUtaGVhdnktcmFp",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "INL calls for united fight against move to shift Mangaluru from Palakkad railway division",
-          "summary": "INL leaders termed the decision to shift Mangaluru from the division the latest example of Indian Railways’ long-standing neglect of Keralam",
+          "title": "Heavy rain expected on Monday and Tuesday",
+          "summary": "",
           "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/kerala/inl-calls-for-united-fight-against-move-to-shift-mangaluru-from-palakkad-railway-division/article71381288.ece",
-          "published_at": "Sun, 23 Aug 2026 19:27:17 +0530",
+          "article_url": "https://www.thehindu.com/news/cities/Mangalore/heavy-rain-expected-on-monday-and-tuesday/article71381514.ece",
+          "published_at": "Sun, 23 Aug 2026 20:04:50 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4854,130 +4730,124 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "YXJhYm5ld3MtYmlyZC1mbHUt",
+          "id": "YXJhYm5ld3MtZ2F6YS1ib2Fy",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Bird flu kills 13,000 seal pups on remote Australian island",
-          "summary": "SYDNEY: A pathogenic strain of bird flu killed more than 13,000 elephant seal pups after infecting a breeding colony on a sub-Antarctic volcanic island, Australian scientists said Thursday.\n\tResearchers found the remote Heard and McDonald Islands littered with seal carcasses when they arrived on a r",
+          "title": "Gaza Board of Peace official says plan is still operative",
+          "summary": "WASHINGTON: US President Donald Trump’s Gaza plan is still operative ​and discussions with Israel are continuing, a Board of Peace official said on Monday after Prime Minister Benjamin Netanyahu rejected an Israeli withdrawal until the Palestinian militant group Hamas is “genuinely disarmed.”\n\tNetan",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647655/offbeat",
-          "published_at": "Thu, 18 Jun 2026 10:06:51 +03",
+          "article_url": "https://www.arabnews.com/node/2654137/middle-east",
+          "published_at": "Mon, 10 Aug 2026 09:08:32 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtcmVjaXBlcy1m",
+          "id": "YXJhYm5ld3MtemVsZW5za3kt",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Recipes for Success: Chef Robert Tsitaishvili talks simplicity, salt, and stories",
-          "summary": "DUBAI: Robert Tsitaishvili is the head chef of Qartuli, a Georgian restaurant in Downtown Dubai, where his goal, he says, is “to reinterpret Georgian culinary heritage for a contemporary audience.” \n\n\tTsitaishvili has more than 12 years of experience spanning hotels and restaurants across Georgia an",
+          "title": "Zelensky congratulates Saudi Arabia’s crown prince on Makkah defense agreement",
+          "summary": "RIYADH: Ukrainian President Volodymyr Zelensky congratulated Saudi Arabia’s Crown Prince Mohammed bin Salman on Monday for the recent signing of a regional defense agreement.\n\n\tZelensky said he hopes the Makkah Joint Defense Agreement signed between Saudi Arabia, Turkiye and Pakistan last week will ",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647653/lifestyle",
-          "published_at": "Thu, 18 Jun 2026 10:06:49 +03",
+          "article_url": "https://www.arabnews.com/node/2654135/saudi-arabia",
+          "published_at": "Mon, 10 Aug 2026 08:08:11 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3Mtb2lsLWZhbGxz",
+          "id": "YXJhYm5ld3MtYWx0YW5mZWV0",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Oil falls to 3-1/2-month low after US, Iran sign ceasefire deal",
-          "summary": "BEIJING/SINGAPORE: Oil prices ​fell by more than $2 per barrel on Thursday after the US and Iran signed an interim agreement that ‌would end the Iran war, reopen the Strait of Hormuz and waive US sanctions on Tehran’s oil, boosting the oil supply outlook.\n\n\tBrent crude futures were down $2.14, or 2.",
+          "title": "ALTANFEETHI concludes participation in Como Cup 2026 in Italy",
+          "summary": "ALTANFEETHI concluded its participation in Como Cup 2026 in Como, Italy, as part of its partnership with AlUla Club. The six-day participation introduced ALTANFEETHI’s services and hospitality experience to an international audience.\n\n\tALTANFEETHI participated through a dedicated booth within the ev",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647650/business-economy",
-          "published_at": "Thu, 18 Jun 2026 10:06:46 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3Mta2FuZS1kb3Vi",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Kane double fires England World Cup bid as Ronaldo’s Portugal stumble",
-          "summary": "LOS ANGELES, United States: England launched their World Cup bid with a rollercoaster 4-2 win against Croatia on Wednesday as Cristiano Ronaldo and Portugal stumbled to a draw against the Democratic Republic of Congo.\n\tIn an enthralling Group L game at the Texas home of the Dallas Cowboys NFL team, ",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647651/sport",
-          "published_at": "Thu, 18 Jun 2026 10:06:26 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtbGluYS1naG90",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Lina Ghotmeh: ‘Being in AlUla, you start to understand all the beauty of the world’",
-          "summary": "ALULA: AlUla is no stranger to art. It is renowned as an “open-air natural museum” with 7,000 years of lived-in history. Even so, the upcoming AlUla Contemporary Art Museum, created as part of Saudi Vision 2030, is sure to be the talk of the town.",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647649/lifestyle",
-          "published_at": "Thu, 18 Jun 2026 10:06:11 +03",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtYXVzdHJhbGlh",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Australia says net migration down as far-right popularity surges",
-          "summary": "SYDNEY: Australia’s immigration levels fell last year, official data showed on Thursday, as its center-left government seeks to combat an ascendent far-right riding a wave of public discontent over soaring housing prices and cost of living.\n\tNet overseas migration added 301,000 people to Australia’s",
-          "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647652/world",
-          "published_at": "Thu, 18 Jun 2026 10:06:08 +03",
+          "article_url": "https://www.arabnews.com/node/2654134/corporate-and-sponsored-content",
+          "published_at": "Mon, 10 Aug 2026 08:08:04 +03",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtZGFpbHktdGVs",
+          "id": "YXJhYm5ld3MtdHJ1bXAtZGVt",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Daily Telegraph columnist argues Saudi Arabia should join G7",
-          "summary": "DUBAI: Saudi Arabia should be invited to join the Group of Seven nations as the organization adapts to a changing global order, according to a column published in the Daily Telegraph by former UK prime ministerial representative to Saudi Arabia Ken Costa.\n\n\tCosta argued that while the G7 was created",
+          "title": "Trump demands Iran pay compensation for war dead and wounded",
+          "summary": "WASHINGTON: US President Donald Trump said Monday he would seek conflict compensation from Iran as part of any peace negotiations, citing attacks and atrocities stretching back decades allegedly backed or perpetrated by Tehran.\n\tIran is “asking for compensation for the damage done to them during the",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647644/saudi-arabia",
-          "published_at": "Thu, 18 Jun 2026 09:06:26 +03",
+          "article_url": "https://www.arabnews.com/node/2654132/middle-east",
+          "published_at": "Mon, 10 Aug 2026 07:08:59 +03",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtdHJ1bXAsLW5l",
+          "id": "YXJhYm5ld3MtaXJhbi1zdXBy",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Trump, Netanyahu clash over Iran strategy and Lebanon ceasefire",
-          "summary": "DUBAI: American President Donald Trump and Israeli Prime Minister Benjamin Netanyahu have found themselves at odds over Iran, Lebanon and the course of ongoing negotiations in the Middle East according to The Washington Post.",
+          "title": "Iran supreme leader names Guards general Abdollahi military chief",
+          "summary": "TEHRAN: Iranian supreme leader Mojtaba Khamenei named Revolutionary Guards general Ali Abdollahi head of the country's armed forces on Monday, while also confirming a new commander of the Guards, putting his imprimatur on the country's military.\n\tAbdollahi had previously led the Khatam Al-Anbiya, Ir",
           "image_url": null,
-          "article_url": "https://www.arabnews.com/node/2647647/middle-east",
-          "published_at": "Thu, 18 Jun 2026 09:06:00 +03",
+          "article_url": "https://www.arabnews.com/node/2654129/middle-east",
+          "published_at": "Mon, 10 Aug 2026 07:08:36 +03",
+          "cross_sections": []
+        },
+        {
+          "id": "YXJhYm5ld3Mtc3BvcnRzLWJv",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Sports Boulevard launches $186m fund to develop Urban Wadi assets",
+          "summary": "JEDDAH: The Sports Boulevard Real Estate Development and Investment Co. has signed agreements with Rikaz Properties to establish its third real estate investment fund, valued at more than $186 million, to develop key assets including a luxury five-star hotel in Riyadh’s Urban Wadi.\n\n\tThe fund will f",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654133/business-economy",
+          "published_at": "Mon, 10 Aug 2026 07:08:14 +03",
+          "cross_sections": []
+        },
+        {
+          "id": "YXJhYm5ld3MtdWtyYWluZeKA",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Ukraine’s Zelensky says up to 50,000 North Korean troops to be deployed in Russia",
+          "summary": "SEOUL: Ukrainian President Volodymyr Zelensky has ‌said up to 50,000 North Korean soldiers will be deployed in Russia to fight for Pyongyang’s ally, while calling on South Korea to provide support for ​its air defense.Zelensky said on X on Saturday that “a decision has been made for 30,000 to 50,000",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654131/world",
+          "published_at": "Mon, 10 Aug 2026 07:08:03 +03",
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "YXJhYm5ld3MtaG91dGhpcy1s",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Houthis launch new drone wave across Yemen’s government-held areas",
+          "summary": "AL-MUKALLA: At least two Yemeni government soldiers were killed in southern Yemen as the Houthis launched a new wave of drone attacks on government-controlled areas in Aden, Mocha and Shabwa.\n\n\tThe escalation came as the Yemeni army vowed on Monday to respond to Houthi drone and missile strikes on t",
+          "image_url": null,
+          "article_url": "https://www.arabnews.com/node/2654127/middle-east",
+          "published_at": "Mon, 10 Aug 2026 06:08:00 +03",
+          "cross_sections": []
         }
       ]
     }
@@ -5090,7 +4960,7 @@
         {
           "id": "euronews",
           "name": "Euronews",
-          "count": 14
+          "count": 6
         },
         {
           "id": "dw",
@@ -5151,6 +5021,86 @@
       "icon": "💻",
       "articles": [
         {
+          "id": "Y25iY3RlY2gtYW1lcmljYSdz",
+          "source_id": "cnbctech",
+          "source_name": "CNBC Technology",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Technology",
+          "title": "America's AI backlash: How the effort to keep worker trust is evolving inside companies",
+          "summary": "Trust remains the cornerstone of an ideal AI communication strategy, whether for an AI-native startup or legacy enterprise facing yet another cultural shift.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/08/23/ai-backlash-workers-job-losses.html",
+          "published_at": "Sun, 23 Aug 2026 14:42:28 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZHctY291bGQtcnVzc2lhJ3Mt",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Could Russia's growing fuel crisis help end the Ukraine war?",
+          "summary": "Empty pumps, long waits: Attacks on oil refineries have left Russia increasingly short of fuel. Dissident Russian economists say growing anger about shortages among ordinary Russians could help end the Ukraine war.",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/could-russia-s-growing-fuel-crisis-help-end-the-ukraine-war/a-78472138?maca=en-rss-en-top-1022-xml-mrss",
+          "published_at": "Sun, 23 Aug 2026 14:42:00 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtMTIsMzAxLWNh",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "12,301 candidates appear for AEE recruitment exam on Day 1",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/12301-candidates-appear-for-aee-recruitment-exam-on-day-1/article71381444.ece",
+          "published_at": "Sun, 23 Aug 2026 20:08:55 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtZmF0aGVyLXNv",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Father-son duo held for hacking youth to death near Manamadurai over marriage dispute",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/cities/Madurai/father-son-duo-held-for-hacking-youth-to-death-near-manamadurai-over-marriage-dispute/article71381341.ece",
+          "published_at": "Sun, 23 Aug 2026 20:06:29 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtaGVhdnktcmFp",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Heavy rain expected on Monday and Tuesday",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://www.thehindu.com/news/cities/Mangalore/heavy-rain-expected-on-monday-and-tuesday/article71381514.ece",
+          "published_at": "Sun, 23 Aug 2026 20:04:50 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "bmR0di1nYXRoZXJpbmdzLWN1",
           "source_id": "ndtv",
           "source_name": "NDTV",
@@ -5183,6 +5133,22 @@
           ]
         },
         {
+          "id": "dG9pLXRydW1wLXRhcmlmZnM6",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Trump tariffs: What India can learn from Canada’s failed trade talks with US",
+          "summary": "Ottawa said it would introduce “dollar-for-dollar” retaliatory tariffs from September 8. The move brought an end to talks that had started on February 1, 2025, after the first round of new US tariffs was imposed.",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/business/india-business/trump-tariffs-what-india-can-learn-from-canadas-failed-trade-talks-with-us/articleshow/133441067.cms",
+          "published_at": "Sun, 23 Aug 2026 19:41:10 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "bmR0di0ncmVwcmVzZW50ZWQt",
           "source_id": "ndtv",
           "source_name": "NDTV",
@@ -5199,22 +5165,6 @@
           ]
         },
         {
-          "id": "dGhlaGluZHUtZWZmb3J0cy1i",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Efforts being made to save main accused in Ram temple offerings theft case: Ajay Rai",
-          "summary": "Now Hanuman Ji should raise his 'gada' and decide the fate of the 'chanda chor' [donation thieves], said Uttar Pradesh Congress president Ajay Rai",
-          "image_url": "https://th-i.thgim.com/public/incoming/uuv3gz/article71381399.ece/alternates/LANDSCAPE_1200/20260705221L.jpg",
-          "article_url": "https://www.thehindu.com/news/national/uttar-pradesh/efforts-being-made-to-save-main-accused-in-ram-temple-offerings-theft-case-ajay-rai/article71381392.ece",
-          "published_at": "Sun, 23 Aug 2026 19:40:33 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bnl0LXplbGVuc2t5LXNheXMt",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -5226,38 +5176,6 @@
           "image_url": "https://static01.nyt.com/images/2026/08/23/multimedia/23int-ukraine-elections-01-glhw/23int-ukraine-elections-01-glhw-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/08/23/world/europe/ukraine-zelensky-fedorov-elections.html",
           "published_at": "Sun, 23 Aug 2026 14:09:59 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtaXJhbidzLXBy",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Iran's President says U.S. memorandum is best path out of stalled war",
-          "summary": "A Palestinian man was beaten by an Israeli settler outside his home, and Israel's military said they were pursuing a stabbing suspect in a separate attack, the latest violence in the occupied West Bank",
-          "image_url": "https://th-i.thgim.com/public/incoming/4ubh1a/article71381441.ece/alternates/LANDSCAPE_1200/2026-08-08T190306Z_41190565_RC2IUMAYIM5T_RTRMADP_3_IRAN-CRISIS.JPG",
-          "article_url": "https://www.thehindu.com/news/international/irans-president-says-us-memorandum-is-best-path-out-of-stalled-war/article71381224.ece",
-          "published_at": "Sun, 23 Aug 2026 19:39:51 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUteXNyY3AtbGVh",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "YSRCP leader criticises government’s response to El Nino crisis in Anantapur",
-          "summary": "Undivided Anantapur district is set to face an acute shortage of drinking water, irrigation water, and cattle fodder, while reduced crop cultivation during the previous Kharif season has already led to scarcity of fodder, claims Anantha Venkatarami Reddy",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-leader-criticises-governments-response-to-el-nino-crisis-in-anantapur/article71381196.ece",
-          "published_at": "Sun, 23 Aug 2026 19:34:35 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5306,22 +5224,6 @@
           "image_url": null,
           "article_url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/rest-viral-and-not-in-indias-xi-for-colombo-test-the-mysterious-case-of-kuldeep-yadav/articleshow/133441019.cms",
           "published_at": "Sun, 23 Aug 2026 19:30:22 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtaW5sLWNhbGxz",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "INL calls for united fight against move to shift Mangaluru from Palakkad railway division",
-          "summary": "INL leaders termed the decision to shift Mangaluru from the division the latest example of Indian Railways’ long-standing neglect of Keralam",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/national/kerala/inl-calls-for-united-fight-against-move-to-shift-mangaluru-from-palakkad-railway-division/article71381288.ece",
-          "published_at": "Sun, 23 Aug 2026 19:27:17 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5386,22 +5288,6 @@
           "image_url": "https://images.euronews.com/articles/stories/09/86/77/14/696x392_cmsv2_e8cfdf20-ad74-5ed1-bb17-995cab5f2d2b-9867714.jpg",
           "article_url": "http://www.euronews.com/2026/08/23/trump-claims-hormuz-on-truth-social-rezaei-says-shut-until-us-changes",
           "published_at": "Sun, 23 Aug 2026 15:46:49 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLSd5YXNoYXN2aS1qYWlz",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "'Yashasvi Jaiswal shouldn't have gone so close': Team India coach on heated exchange",
-          "summary": "Yashasvi Jaiswal was batting well on 45 when Fernando dismissed him in the 17th over. The Sri Lankan pacer gave Jaiswal an animated send-off and appeared to exchange words with the batter. Jaiswal initially walked away but then turned back towards Fernando. The two players came close to each other a",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/yashasvi-jaiswal-shouldnt-have-gone-so-close-team-india-coach-on-heated-on-field-exchange-with-asitha-fernando/articleshow/133440711.cms",
-          "published_at": "Sun, 23 Aug 2026 19:16:24 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5578,22 +5464,6 @@
           "image_url": null,
           "article_url": "https://www.aljazeera.com/news/2026/8/23/zelenskyy-says-wartime-elections-could-destroy-ukraine?traffic_source=rss",
           "published_at": "Sun, 23 Aug 2026 12:19:12 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLTIxLWV4LWNhcHRhaW5z",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "21 ex-captains, including Gavaskar, Kapil, renew appeal for Imran Khan's treatment",
-          "summary": "In February this year, 14 legendary captains from five countries — including Gavaskar, Kapil Dev and Greg Chappell, a former head coach of Team India — had made a fervent, emotional appeal to the Pakistan government about ensuring proper treatment for Imran, amid mounting concerns about the cricketi",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/sports/cricket/news/21-former-international-captains-including-gavaskar-and-kapil-renew-appeal-over-imran-khans-medical-treatment/articleshow/133439117.cms",
-          "published_at": "Sun, 23 Aug 2026 17:35:16 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -6182,7 +6052,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 8898,
+    "build_ms": 10164,
     "ai_enabled": true
   }
 }
