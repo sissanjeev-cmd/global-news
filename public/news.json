@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-11T23:14:00.887Z",
-  "total_articles": 304,
-  "new_this_run": 48,
+  "last_updated": "2026-09-12T01:06:42.388Z",
+  "total_articles": 300,
+  "new_this_run": 47,
   "sources": [
     {
       "id": "techcrunch",
@@ -412,13 +412,29 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "YXJzdGVjaG5pY2Etc29tZS1z",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Some satellite companies still have an appetite for boutique launch services",
+          "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Engine3-1152x648.jpg",
+          "article_url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+          "published_at": "Fri, 11 Sep 2026 23:34:45 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YXJzdGVjaG5pY2EtcmFuZG9t",
           "source_id": "arstechnica",
           "source_name": "Ars Technica",
           "source_region": "IT Focus",
           "source_category": "Tech Media",
           "feed_label": "Latest",
-          "title": "Random rewards enrich classic game-theory contests",
+          "title": "Random rewards enrich classic game-theory insights",
           "summary": "Simple games gain rich strategies in the face of noise.",
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294031830-1024x648.jpg",
           "article_url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
@@ -518,23 +534,6 @@
           "article_url": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
           "published_at": "Fri, 11 Sep 2026 16:20:43 +0000",
           "cross_sections": []
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtY2xhdWRl",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Claude users found ways around safeguards for bioweapons research",
-          "summary": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
-          "article_url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
-          "published_at": "Fri, 11 Sep 2026 13:02:35 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
         }
       ]
     },
@@ -812,6 +811,23 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "Y2lvLWhvdy10by1tYWtlLXlv",
+          "source_id": "cio",
+          "source_name": "CIO.com",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "How to make your business top of mind for AI search engines",
+          "summary": "AI is quickly replacing traditional online search as the front door to finding a business. I recently heard a story about a car shopper who drove miles out of her way to visit a specific dealership, bypassing many car lots much closer to home. Why? Because she searched car dealerships with ChatGPT a",
+          "image_url": "https://www.cio.com/wp-content/uploads/2026/09/4221309-0-54836300-1789173516-Anu-copy.jpg?quality=50&strip=all",
+          "article_url": "https://www.cio.com/article/4221309/how-to-make-your-business-top-of-mind-for-ai-search-engines.html",
+          "published_at": "Sat, 12 Sep 2026 00:38:22 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "Y2lvLWJyb2FkY29tLWhhbXBl",
           "source_id": "cio",
           "source_name": "CIO.com",
@@ -923,22 +939,6 @@
           "cross_sections": [
             "tech",
             "ai"
-          ]
-        },
-        {
-          "id": "Y2lvLXRoZS1tYWluZnJhbWUt",
-          "source_id": "cio",
-          "source_name": "CIO.com",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "The mainframe knowledge gap is a modernization risk",
-          "summary": "Much of an enterprise’s most important knowledge is also the hardest to access. Decades of institutional expertise can be deeply embedded in long-running applications and carried by specialists with years of experience navigating complex systems.\nModernization initiatives depend on a detailed unders",
-          "image_url": "https://www.cio.com/wp-content/uploads/2026/09/4220910-0-54620000-1789069739-shutterstock_2809712647.jpg?quality=50&strip=all",
-          "article_url": "https://www.cio.com/article/4220910/the-mainframe-knowledge-gap-is-a-modernization-risk.html",
-          "published_at": "Thu, 10 Sep 2026 19:48:05 +0000",
-          "cross_sections": [
-            "tech"
           ]
         }
       ]
@@ -1358,6 +1358,34 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "bnl0LXNhdWRpLW9pbC1leHBv",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Saudi Oil Exports Face Heightened Threats After Attacks on Pipeline",
+          "summary": "Ship operators already faced severe risks in navigating the region, and now the danger is higher as Houthi militias assert control in the Red Sea.",
+          "image_url": "https://static01.nyt.com/images/2026/09/11/multimedia/11biz-War-NoWayOut-01-tljp/11biz-War-NoWayOut-01-tljp-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html",
+          "published_at": "Sat, 12 Sep 2026 00:50:20 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LXdoeS1lbWVyZ2luZy1w",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "World",
+          "title": "Why Emerging Powers Keep Joining BRICS, Even When They Disagree",
+          "summary": "The leaders of China, Russia, India, Iran and other nations in the BRICS club gather in New Delhi this weekend, but wars and soaring energy prices divide them.",
+          "image_url": "https://static01.nyt.com/images/2026/09/11/multimedia/11int-brics-explainer-fkhj/11int-brics-explainer-fkhj-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/09/11/world/asia/brics-meeting-summit-delhi.html",
+          "published_at": "Sat, 12 Sep 2026 00:04:29 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "bnl0LXNhdWRpcy1zaHV0LWRv",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1400,6 +1428,20 @@
           "cross_sections": []
         },
         {
+          "id": "bnl0LWFtZXJpY2EtZ2F0aGVy",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "America Gathers to Remember, 25 Years After 9/11",
+          "summary": "Also, an Iranian-backed militia seized a key Red Sea island. Here’s the latest at the end of Friday.",
+          "image_url": "https://static01.nyt.com/images/2026/09/11/multimedia/11evening-nl-9-11/11evening-nl-9-11-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/09/11/briefing/remembering-sept-11-bayeux-tapestry.html",
+          "published_at": "Fri, 11 Sep 2026 21:32:31 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "bnl0LWNhbGlmb3JuaWHigJlz",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1425,34 +1467,6 @@
           "image_url": "https://static01.nyt.com/images/2026/09/11/multimedia/11met-911-mamdani-01-blcp/11met-911-mamdani-01-blcp-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/09/11/nyregion/mamdani-sept-11.html",
           "published_at": "Fri, 11 Sep 2026 21:02:17 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "bnl0LXNhdWRpLW9pbC1leHBv",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Saudi Oil Exports Face Heightened Threats After Attacks on Pipeline",
-          "summary": "Ship operators already faced severe risks in navigating the region, and now the danger is higher as Houthi militias assert control in the Red Sea.",
-          "image_url": "https://static01.nyt.com/images/2026/09/11/multimedia/11biz-War-NoWayOut-01-tljp/11biz-War-NoWayOut-01-tljp-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html",
-          "published_at": "Fri, 11 Sep 2026 20:46:29 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "bnl0LXdoeS1lbWVyZ2luZy1w",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Why Emerging Powers Keep Joining BRICS, Even When They Disagree",
-          "summary": "The leaders of China, Russia, India, Iran and other nations in the BRICS club gather in New Delhi this weekend, but wars and soaring energy prices divide them.",
-          "image_url": "https://static01.nyt.com/images/2026/09/11/multimedia/11int-brics-explainer-fkhj/11int-brics-explainer-fkhj-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/09/11/world/asia/brics-meeting-summit-delhi.html",
-          "published_at": "Fri, 11 Sep 2026 20:45:24 +0000",
           "cross_sections": []
         },
         {
@@ -1513,22 +1527,6 @@
           "image_url": "https://static01.nyt.com/images/2026/09/11/us/11dc-reflecting-pool/11dc-reflecting-pool-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/09/11/climate/reflecting-pool-contractor-trump.html",
           "published_at": "Fri, 11 Sep 2026 17:39:48 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LXRydW1w4oCZcy1ncmFu",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Trump’s Grand Midterm Convention Finale: ‘I’m a Little Bit Tired of Politics’",
-          "summary": "The president made clear as his convention wrapped up that he wants to carry his party through a tough midterms. He just won’t go too far out of his way to do it.",
-          "image_url": "https://static01.nyt.com/images/2026/09/10/multimedia/10pol-trump-assess-pledge-qwgl/10pol-trump-assess-pledge-qwgl-mediumSquareAt3X-v2.jpg",
-          "article_url": "https://www.nytimes.com/2026/09/11/us/politics/trump-pledge-republican-convention-speech.html",
-          "published_at": "Fri, 11 Sep 2026 17:01:12 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -1718,7 +1716,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-09-11T23:13:52.332Z",
+          "published_at": "2026-09-12T01:06:33.436Z",
           "cross_sections": []
         },
         {
@@ -1732,7 +1730,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-09-11T23:13:52.332Z",
+          "published_at": "2026-09-12T01:06:33.436Z",
           "cross_sections": []
         },
         {
@@ -1746,7 +1744,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-09-11T23:13:52.332Z",
+          "published_at": "2026-09-12T01:06:33.436Z",
           "cross_sections": []
         },
         {
@@ -2576,6 +2574,96 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YmJjLSduZXZlciwtZXZlci1m",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+          "summary": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c68/live/3f2e2470-ae3e-11f1-a1d3-cf0ffc395bed.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 12 Sep 2026 00:43:00 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLXBsYXlzdGF0aW9uLWdh",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Technology",
+          "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+          "summary": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bd7/live/153f4400-ac68-11f1-80f0-9795d1a5edbc.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 12 Sep 2026 00:35:50 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLWFycmVzdC1tYWRlLW92",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Arrest made over the death of black woman found hanged from tree",
+          "summary": "Tasia Fortune's body was found  in the lot of an abandoned home in Mississippi in August.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0ba/live/4cbe86d0-ae1f-11f1-ac3c-d9de82cf7bb1.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 12 Sep 2026 00:31:16 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLW1wcy12b3RlLWFnYWlu",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "MPs vote against fresh attempt to legalise assisted dying",
+          "summary": "The proposed law sought to introduce one of the biggest societal changes in recent years.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d113/live/ace30a00-adf1-11f1-bc1f-3f186ca4140c.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 12 Sep 2026 00:10:55 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLWlzLWEtc2VwdGVtYmVy",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Is a September heatwave forecast for the UK?",
+          "summary": "Temperatures will return to summerlike levels over the weekend, despite some heavy rain.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74ae/live/dbca3ce0-adeb-11f1-9a5c-a7a4083eb832.png",
+          "article_url": "https://www.bbc.co.uk/weather/articles/c70l8vgk4vzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 11 Sep 2026 23:41:50 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLXJlZm9ybS1yZWNlaXZl",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Reform receives record £36m donation from crypto billionaire",
+          "summary": "Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/751d/live/9bfaf8b0-ae32-11f1-b1d1-571ed4d7ff2c.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 11 Sep 2026 23:27:18 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YmJjLW1hc2tlZC1tZW4sLWxv",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2590,6 +2678,20 @@
           "cross_sections": []
         },
         {
+          "id": "YmJjLXp2ZXJldi10aHJvdWdo",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Zverev through to third Grand Slam final in a row",
+          "summary": "Alexander Zverev beats Karen Khachanov at the US Open to reach a third Grand Slam final in a row and continue his bid for a second major of the year.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3704/live/57792ff0-ae2c-11f1-933b-b9c22df145d4.jpg",
+          "article_url": "https://www.bbc.co.uk/sport/tennis/articles/clykzn81n4go?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 11 Sep 2026 22:42:27 GMT",
+          "cross_sections": []
+        },
+        {
           "id": "YmJjLWhvdXRoaXMtY2xhaW0t",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2598,7 +2700,7 @@
           "feed_label": "Top Stories",
           "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
           "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09dc/live/6dac0640-adcc-11f1-a540-61c3f7fc4e6c.jpg",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f080/live/c51fe310-ae3f-11f1-a540-61c3f7fc4e6c.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 11 Sep 2026 22:17:45 GMT",
           "cross_sections": [
@@ -2606,94 +2708,50 @@
           ]
         },
         {
-          "id": "YmJjLXBvbGljZS10by1jcmFj",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Police to crack down on face coverings at protests",
-          "summary": "Hampshire and Isle of Wight Constabulary says it will use powers under the Crime and Policing Act.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97c6/live/422ddd40-adf9-11f1-ad53-0d91a06f3150.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/cy8zrz42yxko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 11 Sep 2026 20:40:31 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "YmJjLSduZXZlciwtZXZlci1m",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
-          "summary": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d641/live/64614ef0-ae0e-11f1-b502-e5cdfe1c097c.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 11 Sep 2026 20:12:01 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "YmJjLWhvbmcta29uZydzLXRp",
+          "id": "YmJjLXBhc3Nlbmdlci10cmFp",
           "source_id": "bbc",
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "World",
-          "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-          "summary": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c23c/live/9ec505e0-adc9-11f1-b1d1-571ed4d7ff2c.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 11 Sep 2026 17:32:44 GMT",
+          "title": "Passenger train derails in France leaving at least 44 injured",
+          "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e072/live/267036e0-ae24-11f1-9042-891b220b1e31.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 11 Sep 2026 21:25:32 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLXRyYWdpYy1kZWF0aC1v",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+          "summary": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f302/live/684bd3c0-ae07-11f1-b561-83a33482e04f.png",
+          "article_url": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 11 Sep 2026 20:34:29 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLWxpZ2h0bmluZy1ob3V0",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+          "summary": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82b5/live/066e1ff0-ae16-11f1-aa28-67f8824e7b72.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 11 Sep 2026 19:44:58 GMT",
           "cross_sections": []
-        },
-        {
-          "id": "YmJjLW1wcy12b3RlLWFnYWlu",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "MPs vote against fresh attempt to legalise assisted dying",
-          "summary": "The proposed law sought to introduce one of the biggest societal changes in recent years.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d113/live/ace30a00-adf1-11f1-bc1f-3f186ca4140c.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 11 Sep 2026 17:22:39 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YmJjLWFuLWV4dHJhb3JkaW5h",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "An extraordinary result - why did MPs reject assisted dying bill this time?",
-          "summary": "Although supporters say they will try again, for now the momentum has fallen away from a change in the law.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6357/live/1b9739b0-adfe-11f1-a540-61c3f7fc4e6c.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/c5y54n99l48o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 11 Sep 2026 16:49:47 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YmJjLWhvdy1nbG9iYWwtdHJh",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "How global trade and oil prices could be hit by Houthi advance",
-          "summary": "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd1f/live/1252d580-adf4-11f1-bc1f-3f186ca4140c.jpg",
-          "article_url": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 11 Sep 2026 16:13:39 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "YmJjLW5vcndheSdzLXByaW5j",
@@ -2701,7 +2759,7 @@
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
           "summary": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4871/live/931f3ad0-adfb-11f1-8169-6fdea7f79791.png",
@@ -2794,7 +2852,7 @@
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "World",
+          "feed_label": "Technology",
           "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
           "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/090c/live/88ca35f0-ad6d-11f1-8edd-ada2fcb84b27.jpg",
@@ -2804,20 +2862,6 @@
             "tech",
             "ai"
           ]
-        },
-        {
-          "id": "YmJjLXBoaWxpcHBpbmUtcmVz",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Philippine rescuers board ferry 40 hours after blaze began",
-          "summary": "Thick, toxic fumes and extreme temperatures pose a challenge to rescuers who have boarded the ship.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d23/live/4db05bf0-ad92-11f1-89c7-2d9bd86063c9.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 11 Sep 2026 06:33:15 GMT",
-          "cross_sections": []
         },
         {
           "id": "YmJjLWNhbi1ldXJvcGUtcmVj",
@@ -2881,20 +2925,6 @@
             "tech",
             "ai"
           ]
-        },
-        {
-          "id": "YmJjLXdoaXRlLWhvdXNlLXB1",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Technology",
-          "title": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
-          "summary": "The Tetris Company says it takes \"copyright infringement very seriously\" and is not involved with the game.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4129/live/deb20cc0-ac39-11f1-b483-f5be285e6b7e.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 09 Sep 2026 12:06:40 GMT",
-          "cross_sections": []
         }
       ]
     },
@@ -2905,34 +2935,110 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "Z3VhcmRpYW4tbmV3LW1leGlj",
+          "id": "Z3VhcmRpYW4tYWktYWdlbnRz",
           "source_id": "guardian",
           "source_name": "The Guardian",
           "source_region": "Europe",
           "source_category": "Newspaper",
           "feed_label": "Technology",
-          "title": "New Mexico lawyer fined for using AI-generated brief containing fabricated testimony",
-          "summary": "Stephen Aarons said he tried to use ChatGPT to create a ‘bulletproof summary’ during a murder conviction appeal\nA defense lawyer appealing his client’s murder conviction submitted a legal brief containing ⁠made-up police testimony and ⁠witnesses fabricated by OpenAI’s ChatGPT, ​New Mexico’s highest ",
-          "image_url": "https://i.guim.co.uk/img/media/372f56916f0dae58bb508ebabb72e6037a90f7b4/336_0_3360_2688/master/3360.jpg?width=140&quality=85&auto=format&fit=max&s=e0d0bfe5daa05172d576ccc02bb14e6a",
-          "article_url": "https://www.theguardian.com/technology/2026/sep/11/new-mexico-lawyer-ai-chatgpt-testimony",
-          "published_at": "Fri, 11 Sep 2026 18:04:05 GMT",
+          "title": "AI agents OpenAI was testing uploaded malicious software to another service, say researchers",
+          "summary": "Two months before hacking Hugging Face, malicious packages authored by internal OpenAI agents were uploaded to RubyGems\nAI agents being ⁠tested by OpenAI uploaded hundreds of malicious packages to software service RubyGems ⁠in May, two ⁠months ​before they hacked open-source platform Hugging Face, a",
+          "image_url": "https://i.guim.co.uk/img/media/65486c2e45ba4ef565230ab1fceaa0e07eedff11/331_0_5136_4109/master/5136.jpg?width=140&quality=85&auto=format&fit=max&s=506207a5edcc635293e92a29e3466b72",
+          "article_url": "https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages",
+          "published_at": "Fri, 11 Sep 2026 23:56:19 GMT",
           "cross_sections": [
             "tech",
             "ai"
           ]
         },
         {
-          "id": "Z3VhcmRpYW4tdXMtY29uc3Vt",
+          "id": "Z3VhcmRpYW4t4oCYd29ybGTi",
           "source_id": "guardian",
           "source_name": "The Guardian",
           "source_region": "Europe",
           "source_category": "Newspaper",
           "feed_label": "Business",
-          "title": "US consumers faced more high prices in August as Iran war raised energy costs",
-          "summary": "Annualized inflation rate was 3.4%, same as July, and core inflation, which omits energy and food prices, rose to 2.4%\nUS consumer prices remained stubbornly high in August as the end of the ceasefire between the US and Iran pushed energy prices up, according to data from the US Bureau of Labor Stat",
-          "image_url": "https://i.guim.co.uk/img/media/d9e3bf53f312fcfb2605b3930bdd5df613b2b9f3/0_0_4993_3993/master/4993.jpg?width=140&quality=85&auto=format&fit=max&s=4bc2d90046280352a134777328cad9b3",
-          "article_url": "https://www.theguardian.com/business/2026/sep/11/inflation-august-interest-rates",
-          "published_at": "Fri, 11 Sep 2026 12:38:12 GMT",
+          "title": "‘World’s most profitable football business’: Abramovich’s frozen Chelsea cash earns £175m",
+          "summary": "Proceeds are in a UK account amid a dispute about how the money should be used and a separate criminal investigation\nFunds from Roman Abramovich’s sale of Chelsea FC have earned at least £175m in interest while locked in a UK bank account, new accounts show, leading one analyst to describe the compa",
+          "image_url": "https://i.guim.co.uk/img/media/001bc01270d3ebd5a30a09c6ef3022a6ed878b66/0_0_1959_1567/master/1959.jpg?width=140&quality=85&auto=format&fit=max&s=53655f0fc435469f8b83ba422345684d",
+          "article_url": "https://www.theguardian.com/world/2026/sep/11/roman-abramovich-frozen-chelsea-sale-proceeds-earnings",
+          "published_at": "Fri, 11 Sep 2026 17:22:17 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "Z3VhcmRpYW4tZXh0cmEtZmlz",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
+          "source_category": "Newspaper",
+          "feed_label": "Business",
+          "title": "Extra fishy: your tinned mackerel may not be what you think it is",
+          "summary": "Substitution with jack mackerel, a different species, because of dwindling stocks is criticised by consumer group Which?\nIf you’ve recently opened a tin of mackerel and thought there was something fishy going on, you may have been right. An overfishing crisis means that instead of traditional macker",
+          "image_url": "https://i.guim.co.uk/img/media/99bd74855f1636ec7f2b99e708a76a0a2757f145/1376_352_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=947e7d5c76956af7a8e6eb60254741c2",
+          "article_url": "https://www.theguardian.com/business/2026/sep/11/tinned-mackerel-jack-substitution",
+          "published_at": "Fri, 11 Sep 2026 15:59:37 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "Z3VhcmRpYW4tbm9ydGgtc2Vh",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
+          "source_category": "Newspaper",
+          "feed_label": "Business",
+          "title": "North Sea gasfield decision likely delayed until after Holborn and St Pancras byelection",
+          "summary": "Greens accuse Labour of hiding position to avoid criticism before contest, in which Zack Polanski is standing\nA decision on approving the controversial Jackdaw gasfield in the North Sea is to be delayed until later this autumn, with the Greens accusing Labour of hiding their position before the cruc",
+          "image_url": "https://i.guim.co.uk/img/media/70393edcea6e92c90ce59c182727133cbdd036b3/456_0_4841_3872/master/4841.jpg?width=140&quality=85&auto=format&fit=max&s=4083e17441583f149ab5cc02f746e9c9",
+          "article_url": "https://www.theguardian.com/environment/2026/sep/11/nnorth-sea-gasfield-decision-likely-delayed-holborn-byelection-labour-greens",
+          "published_at": "Fri, 11 Sep 2026 15:50:25 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Z3VhcmRpYW4tdWstY2hhbmNl",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
+          "source_category": "Newspaper",
+          "feed_label": "Business",
+          "title": "UK chancellor urged to remove ‘hidden taxes’ from energy bills",
+          "summary": "Businesses, charities and other groups sign letter calling for levies to be paid by the government\nMore than 120 organisations including big businesses and charities have called for the removal of “hidden taxes” added to energy bills to help reduce costs for consumers and prevent businesses closing.",
+          "image_url": "https://i.guim.co.uk/img/media/bf895d419b661bb8e452da929fdd018e71fffbe0/1418_500_6133_4907/master/6133.jpg?width=140&quality=85&auto=format&fit=max&s=c7a9bdcf579f2fd59586fd5282e27ad9",
+          "article_url": "https://www.theguardian.com/money/2026/sep/11/chancellor-remove-hidden-taxes-energy-bills",
+          "published_at": "Fri, 11 Sep 2026 12:37:01 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Z3VhcmRpYW4tdWstZWNvbm9t",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
+          "source_category": "Newspaper",
+          "feed_label": "Business",
+          "title": "UK economy unexpectedly grows 0.4% in July boosted by AI",
+          "summary": "Welcome boost for chancellor with unexpected rise put down to rapid growth of AI in services sector outweighing Iran war fallout \nThe UK economy grew in July as the rapid expansion of AI appeared to outweigh the economic damage from the Iran war, in a welcome boost for John Healey.\nFigures from the ",
+          "image_url": "https://i.guim.co.uk/img/media/9f8f14e2a01ec8c9a4d21b8b65ed45042405e31d/586_0_5859_4690/master/5859.jpg?width=140&quality=85&auto=format&fit=max&s=39d17fc7acfe3075898618efeba517d8",
+          "article_url": "https://www.theguardian.com/business/2026/sep/11/uk-economy-defies-forecasts-with-surprise-04-growth-in-july",
+          "published_at": "Fri, 11 Sep 2026 08:10:36 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Z3VhcmRpYW4tbmV3LWJhdHRl",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
+          "source_category": "Newspaper",
+          "feed_label": "Business",
+          "title": "New battery-powered trains to ‘bring faster journeys to the north’",
+          "summary": "No 10 says new fleet of trains built in Derby will support 6,000 jobs across UK\nA fleet of battery-powered trains is to be built to “bring faster, more reliable journeys to the north”, Downing Street has announced.\nThe 29 trains, which will be run by TransPennine Express, will be built at Alstom’s L",
+          "image_url": "https://i.guim.co.uk/img/media/7c2e58c8a262fd5acb081dd04ab7eab673ff7505/581_0_4585_3667/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=842bc94fcef4e0d4bbdc28bcc97b5e7a",
+          "article_url": "https://www.theguardian.com/uk-news/2026/sep/10/new-battery-powered-trains-will-bring-faster-journeys-to-north",
+          "published_at": "Fri, 11 Sep 2026 07:22:20 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -2951,6 +3057,23 @@
           "published_at": "Fri, 11 Sep 2026 04:00:04 GMT",
           "cross_sections": [
             "tech"
+          ]
+        },
+        {
+          "id": "Z3VhcmRpYW4tYW50aHJvcGlj",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
+          "source_category": "Newspaper",
+          "feed_label": "Business",
+          "title": "Anthropic details bad actors’ efforts to misuse its AI for bioweapons",
+          "summary": "Report comes two days after former employee quit claiming company’s models could cause human extinction by 2030\nCriminals, state-sponsored groups, spyware vendors, scientists and propagandists have attempted to use Anthropic’s powerful artificial intelligence models to design missiles and bombs, cre",
+          "image_url": "https://i.guim.co.uk/img/media/669e81c2e20fc883dc97a399383133eda3d573e9/585_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=8b4961fef9e03a563209c452a1d5a19c",
+          "article_url": "https://www.theguardian.com/technology/2026/sep/10/anthropic-report-details-ai-misuse",
+          "published_at": "Thu, 10 Sep 2026 22:35:16 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
           ]
         },
         {
@@ -2985,20 +3108,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "Z3VhcmRpYW4tZ2xvYmFsLWJv",
-          "source_id": "guardian",
-          "source_name": "The Guardian",
-          "source_region": "Europe",
-          "source_category": "Newspaper",
-          "feed_label": "Business",
-          "title": "Global bond sell-off resumes as surging oil prices stoke fears about inflation",
-          "summary": "Crude jumps above $107 a barrel amid concerns over Middle East conflict and out-of-control government borrowing\nNervous investors across big economies have been dumping government bonds, driving up the cost of borrowing, as surging oil prices amplified fears about rising inflation.\nThe cost of a bar",
-          "image_url": "https://i.guim.co.uk/img/media/c02da40e4e29e37ae776cb95a76580f1032455e4/0_0_4115_3292/master/4115.jpg?width=140&quality=85&auto=format&fit=max&s=11f3daa27e5e96ca023c5a3fd36ee84d",
-          "article_url": "https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing",
-          "published_at": "Thu, 10 Sep 2026 18:05:15 GMT",
-          "cross_sections": []
         },
         {
           "id": "Z3VhcmRpYW4tY2hpbmHigJlz",
@@ -3047,36 +3156,6 @@
           ]
         },
         {
-          "id": "Z3VhcmRpYW4tdGhlLW9keXNz",
-          "source_id": "guardian",
-          "source_name": "The Guardian",
-          "source_region": "Europe",
-          "source_category": "Newspaper",
-          "feed_label": "Business",
-          "title": "The Odyssey and Spider-Man propel record-breaking summer box office worldwide",
-          "summary": "The biggest May to September of all time was recorded in US cinemas, with the UK enjoying a 56% rise in audiences, outstripped by an 88% lift in the Middle East and Africa\nAs well as celebrating their wedding, the actors Tom Holland and Zendaya have something else to toast: their two summer blockbus",
-          "image_url": "https://i.guim.co.uk/img/media/f3206997a753b107b0fbecf0231589cdaef64144/115_0_4334_3466/master/4334.jpg?width=140&quality=85&auto=format&fit=max&s=b7e0fde26b9355d88b13bd4d2523ce8f",
-          "article_url": "https://www.theguardian.com/film/2026/sep/10/the-odyssey-and-spider-man-make-for-record-breaking-summer-box-office-worldwide",
-          "published_at": "Thu, 10 Sep 2026 13:57:06 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "Z3VhcmRpYW4tZWNiLXJhaXNl",
-          "source_id": "guardian",
-          "source_name": "The Guardian",
-          "source_region": "Europe",
-          "source_category": "Newspaper",
-          "feed_label": "Business",
-          "title": "ECB raises interest rates to 2.5% and warns Iran war is fuelling inflation",
-          "summary": "Borrowing costs climb in Europe and oil tops $105 a barrel as bank says growing price pressures in eurozone will be ‘longer lasting than we had anticipated’\n\nBusiness live – latest updates\n\nThe European Central Bank has raised interest rates to 2.5% and warned that the risk of higher inflation over ",
-          "image_url": "https://i.guim.co.uk/img/media/e6810e0582ded021a42854f171ea59a0cee37b08/535_0_5330_4264/master/5330.jpg?width=140&quality=85&auto=format&fit=max&s=ff12728597761e43d24b12a5cda9a134",
-          "article_url": "https://www.theguardian.com/business/2026/sep/10/ecb-raises-interest-rates-to-25-amid-warning-iran-war-is-fuelling-inflation",
-          "published_at": "Thu, 10 Sep 2026 13:10:15 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "Z3VhcmRpYW4tZWxvbi1tdXNr",
           "source_id": "guardian",
           "source_name": "The Guardian",
@@ -3089,6 +3168,22 @@
           "article_url": "https://www.theguardian.com/technology/2026/sep/10/elon-musk-attacks-film-maker-behind-documentary-about-him",
           "published_at": "Thu, 10 Sep 2026 12:29:40 GMT",
           "cross_sections": []
+        },
+        {
+          "id": "Z3VhcmRpYW4tcnlhbmFpci13",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
+          "source_category": "Newspaper",
+          "feed_label": "Business",
+          "title": "Ryanair will dispute passenger’s claim he was sucked out of window",
+          "summary": "CEO Michael O’Leary tells reporters the businessman was sucked ‘towards’ but not out of the opening\nRyanair has said it will be “disputing” that any part of a passenger’s body was sucked outside when a window on one of its aircraft broke while in flight.\nUS investigators are examining the incident w",
+          "image_url": "https://i.guim.co.uk/img/media/749d2e2c20add77004e3ba6552c91054e369c98c/0_1190_2296_1836/master/2296.jpg?width=140&quality=85&auto=format&fit=max&s=a6426f9efed90ab64ab25c213e86187a",
+          "article_url": "https://www.theguardian.com/business/2026/sep/10/ryanair-dispute-sucked-out-of-window-michael-o-leary",
+          "published_at": "Thu, 10 Sep 2026 12:10:42 GMT",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
           "id": "Z3VhcmRpYW4tcGl4ZWwtMTEt",
@@ -3153,36 +3248,6 @@
           "cross_sections": []
         },
         {
-          "id": "Z3VhcmRpYW4tb2lsLXByaWNl",
-          "source_id": "guardian",
-          "source_name": "The Guardian",
-          "source_region": "Europe",
-          "source_category": "Newspaper",
-          "feed_label": "Business",
-          "title": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates",
-          "summary": "Brent crude up by more than 3% after latest fire between US and Iran in Gulf and Houthi attacks on Saudi cities\nThe price of oil has risen above $100 a barrel for the first time since July as the escalating conflict in the Middle East threatens further disruption to global supplies.\nBrent crude, the",
-          "image_url": "https://i.guim.co.uk/img/media/1d187438efe895eb93e14842350bd18880f9373a/0_0_6341_5072/master/6341.jpg?width=140&quality=85&auto=format&fit=max&s=c2e6d7c79b8f8af0961142cfdc6b410c",
-          "article_url": "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates",
-          "published_at": "Wed, 09 Sep 2026 19:09:13 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "Z3VhcmRpYW4tYXBwbGXigJlz",
-          "source_id": "guardian",
-          "source_name": "The Guardian",
-          "source_region": "Europe",
-          "source_category": "Newspaper",
-          "feed_label": "Business",
-          "title": "Apple’s new CEO introduces himself at annual showcase: ‘I continue to be inspired every single day’",
-          "summary": "John Ternus helms his first major event as head of $4.5tn company, where he announces first foldable iPhone\nJohn Ternus, Apple’s new CEO, helmed the company’s annual showcase of new iPhones and other products on Wednesday. It was the first time the public saw the warm and unpretentious demeanor of t",
-          "image_url": "https://i.guim.co.uk/img/media/66008aa8a95bba4f85939f60e9635f25e1ef571d/329_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=34a244c5c1ee908e660ae2d7b801b6b0",
-          "article_url": "https://www.theguardian.com/technology/2026/sep/09/apple-product-showcase-ceo-john-ternus",
-          "published_at": "Wed, 09 Sep 2026 19:07:53 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "Z3VhcmRpYW4tYXBwbGUtdW52",
           "source_id": "guardian",
           "source_name": "The Guardian",
@@ -3215,22 +3280,6 @@
           ]
         },
         {
-          "id": "Z3VhcmRpYW4tZWxlY3Ryb25p",
-          "source_id": "guardian",
-          "source_name": "The Guardian",
-          "source_region": "Europe",
-          "source_category": "Newspaper",
-          "feed_label": "Business",
-          "title": "Electronic shelf labels likely to cost jobs and drive up grocery prices, US report warns",
-          "summary": "AFL-CIO calls for ban on such labels to protect consumers and workers from surveillance pricing and job cuts\nThe universal adoption of electronic shelf labels in grocery stores across the US could cost tens of thousands of jobs and billions of dollars in lost wages while further driving up grocery c",
-          "image_url": "https://i.guim.co.uk/img/media/84db52e3bd4c7e10da78a8eeaa51b4462b587fda/333_0_3334_2667/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=7ff8effcb194c105f932eff5874c25bf",
-          "article_url": "https://www.theguardian.com/us-news/2026/sep/09/electronic-shelf-labels-grocery",
-          "published_at": "Wed, 09 Sep 2026 11:00:07 GMT",
-          "cross_sections": [
-            "jobcuts"
-          ]
-        },
-        {
           "id": "Z3VhcmRpYW4tYmFiaWVzLWJv",
           "source_id": "guardian",
           "source_name": "The Guardian",
@@ -3242,22 +3291,6 @@
           "image_url": "https://i.guim.co.uk/img/media/b51e55df330640864b621f7eafdfd622daf8756e/1297_888_3180_2544/master/3180.jpg?width=140&quality=85&auto=format&fit=max&s=df3f4a0cc5e7a1153c834b40c1d32543",
           "article_url": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
           "published_at": "Wed, 09 Sep 2026 04:00:58 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Z3VhcmRpYW4tdXMtYmFucy1j",
-          "source_id": "guardian",
-          "source_name": "The Guardian",
-          "source_region": "Europe",
-          "source_category": "Newspaper",
-          "feed_label": "Business",
-          "title": "US bans Canadian dairy, alcohol and motorcycles as trade war escalates",
-          "summary": "Trump responds after Canada imposes $20bn in retaliatory tariffs and Canadian PM vows to diversify trade abroad\nThe US is banning dairy products, most alcoholic beverages and motorcycles from Canada, the White House said on Tuesday, as the trade war between the two neighbors and longtime allies esca",
-          "image_url": "https://i.guim.co.uk/img/media/b47b4b64332e5886d782ebf3ea9f5cb14544c5a4/87_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=e27dcfd105ed3ebabcbb9581e1593eb3",
-          "article_url": "https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol",
-          "published_at": "Tue, 08 Sep 2026 23:59:37 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -3296,22 +3329,6 @@
           "image_url": "https://images.euronews.com/articles/stories/09/90/99/08/696x392_cmsv2_9d17efba-04ce-51c6-af32-36ff48811b1f-9909908.jpg",
           "article_url": "https://www.euronews.com/2026/09/12/houthis-seize-yemeni-island-in-bab-el-mandeb-taking-control-of-the-strait",
           "published_at": "Sat, 12 Sep 2026 00:08:14 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtZnJlbmNoLWJs",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "French blockade looms over Commission’s plan to fast-track trade deals in English",
-          "summary": "Eager to unlock new markets for EU businesses, the European Commission plans to accelerate trade deal ratification by circulating only English versions for approval by EU governments and the European Parliament – but sources told Euronews that Paris is set to oppose the move if it goes ahead.",
-          "image_url": "https://images.euronews.com/articles/stories/09/67/69/87/696x392_cmsv2_698a3e59-4d80-5151-b177-fa667b168d89-9676987.jpg",
-          "article_url": "https://www.euronews.com/my-europe/2026/09/11/french-blockade-looms-over-commissions-plan-to-fast-track-trade-deals-in-english",
-          "published_at": "Fri, 11 Sep 2026 22:42:29 +0200",
           "cross_sections": [
             "tech"
           ]
@@ -3377,22 +3394,6 @@
           "cross_sections": []
         },
         {
-          "id": "ZXVyb25ld3MtNTAtY2Vvcy1h",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "50 CEOs and investors urge Brussels not to dilute the EU Inc law",
-          "summary": "Founders and investors call EU policymakers to not water down the EU Inc., the legislative proposal which aims to facilitate businesses in Europe to scale up.",
-          "image_url": "https://images.euronews.com/articles/stories/09/90/85/69/696x392_cmsv2_693b5c6f-344f-524b-afa7-a5fe0ac9f877-9908569.jpg",
-          "article_url": "https://www.euronews.com/business/2026/09/11/50-ceos-and-investors-urge-brussels-not-to-dilute-the-eu-inc-law",
-          "published_at": "Fri, 11 Sep 2026 15:00:17 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "ZXVyb25ld3MtYnJpY3MtbGVh",
           "source_id": "euronews",
           "source_name": "Euronews",
@@ -3421,36 +3422,6 @@
           "cross_sections": []
         },
         {
-          "id": "ZXVyb25ld3MtZXVyb3BlYW4t",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "European Commission pushes for all-English trade deals despite French opposition",
-          "summary": "France's umbrage at the anglophone-only presentation might complicate the ratification of the EU-India trade deal, even though it supports the deal itself and considers India a strategic partner.",
-          "image_url": "https://images.euronews.com/articles/stories/09/91/02/89/696x392_cmsv2_93450923-9381-57f9-ba80-de5f57309c7d-9910289.jpg",
-          "article_url": "https://www.euronews.com/my-europe/2026/09/11/european-commission-pushes-for-all-english-trade-deals-despite-french-opposition",
-          "published_at": "Fri, 11 Sep 2026 14:31:23 +0200",
-          "cross_sections": []
-        },
-        {
-          "id": "ZXVyb25ld3MtYXplcmJhaWph",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Azerbaijan’s state oil fund helps launch China-ASEAN investment council",
-          "summary": "SOFAZ is the only founder from outside East and Southeast Asia, reflecting Azerbaijan’s position on the trade corridor between Asia and Europe.",
-          "image_url": "https://images.euronews.com/articles/stories/09/91/03/11/696x392_cmsv2_673d29f6-116a-536f-9381-7f90d070621b-9910311.jpg",
-          "article_url": "https://www.euronews.com/business/2026/09/11/azerbaijans-state-oil-fund-helps-launch-china-asean-investment-council",
-          "published_at": "Fri, 11 Sep 2026 14:19:16 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "ZXVyb25ld3MtcnVzc2lhJ3Mt",
           "source_id": "euronews",
           "source_name": "Euronews",
@@ -3463,72 +3434,6 @@
           "article_url": "https://www.euronews.com/2026/09/11/russias-foreign-recruit-drive-amounts-to-human-trafficking-amnesty-international-says",
           "published_at": "Fri, 11 Sep 2026 12:34:33 +0200",
           "cross_sections": []
-        },
-        {
-          "id": "ZXVyb25ld3MtZXVyb3BlYW5z",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Europeans are skipping family visits and medical appointments to pay energy and fuel bills, study finds",
-          "summary": "The rising cost of fuel and energy bills is hammering Europeans, with some taking extreme measures to offset higher prices, such as giving up on medical care. However, not all of them are affected equally.",
-          "image_url": "https://images.euronews.com/articles/stories/09/90/59/77/696x392_cmsv2_ab7879a5-6769-597f-8374-c71d2f39e9da-9905977.jpg",
-          "article_url": "https://www.euronews.com/my-europe/2026/09/11/europeans-are-skipping-family-visits-and-medical-appointments-to-pay-energy-and-fuel-bills",
-          "published_at": "Fri, 11 Sep 2026 09:00:37 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtYW50aHJvcGlj",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Anthropic says AI could bring both 15% growth and mass unemployment by 2030",
-          "summary": "Anthropic has published an economic model projecting how AI might reshape the US economy by 2030, and its three scenarios range from barely perceptible to a boom with no historical precedent, including one in which GDP grows 15% a year while nearly a fifth of office workers are out of a job.",
-          "image_url": "https://images.euronews.com/articles/stories/09/90/84/10/696x392_cmsv2_04ccd0f6-e2ba-5297-9b71-59b053735c93-9908410.jpg",
-          "article_url": "https://www.euronews.com/business/2026/09/11/anthropic-says-ai-could-bring-both-15-growth-and-mass-unemployment-by-2030",
-          "published_at": "Fri, 11 Sep 2026 07:00:23 +0200",
-          "cross_sections": [
-            "tech",
-            "jobcuts",
-            "ai"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtaXRhbHktZXh0",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Italy extends diesel excise cut by one week: set to be last general discount",
-          "summary": "The Italian government has extended the discount on diesel at petrol stations: the 17.1 cent per litre cut will remain in force until 17 September. It is the 15th measure to curb rising fuel prices, with an overall cost of about €2.7 billion.",
-          "image_url": "https://images.euronews.com/articles/stories/09/90/91/66/696x392_cmsv2_f3000e65-f310-5c2d-bc26-920504349c75-9909166.jpg",
-          "article_url": "https://www.euronews.com/business/2026/09/10/italy-extends-diesel-excise-cut-by-one-week-set-to-be-last-general-discount",
-          "published_at": "Thu, 10 Sep 2026 18:52:14 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtZXUtZmFsbHMt",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "EU falls short on Draghi reform agenda, new report shows",
-          "summary": "The European Union is implementing the recommendations of former Italian Prime Minister Mario Draghi, but at a pace that is failing to keep up with the rest of the world.",
-          "image_url": "https://images.euronews.com/articles/stories/09/90/88/71/696x392_cmsv2_43ad1994-a072-5826-ba9e-242a58bd80f3-9908871.jpg",
-          "article_url": "https://www.euronews.com/my-europe/2026/09/10/eu-falls-short-on-draghi-reform-agenda-new-report-shows",
-          "published_at": "Thu, 10 Sep 2026 17:27:28 +0200",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -3733,31 +3638,63 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dG9pLWJ1c3ktd2Vlay1mb3It",
+          "id": "dG9pLXRlY2gtZ2xpdGNoLWF0",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Busy week for primary market as nine IPOs attract bids worth Rs 1.4 lakh crore",
+          "title": "Tech glitch at Adani power unit hits Bangladesh grid",
           "summary": "",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/business/india-business/nine-ipos-attract-bids-worth-1-4-lakh-crore/articleshow/134094680.cms",
-          "published_at": "Sat, 12 Sep 2026 03:50:41 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/world/south-asia/tech-glitch-at-adani-power-unit-hits-bangladesh-grid/articleshow/134099803.cms",
+          "published_at": "Sat, 12 Sep 2026 06:09:33 +0530",
           "cross_sections": []
         },
         {
-          "id": "dG9pLW5tYy1hZGRzLW92ZXIt",
+          "id": "dG9pLXNjJ3MtMTMtcXVlcmll",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "NMC adds over 13,000 MBBS seats, total intake tops 1.4 lakh",
+          "title": "SC's 13 queries to FSSAI: 'Give details on shape, size, colour of food label'",
+          "summary": "The Supreme Court has mandated that the FSSAI outline precise details about food warning labels, including their design, dimensions, colors, and position on food packaging. Additionally, the court emphasizes the importance of communicating junk food risks to children. FSSAI is tasked with addressing",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/scs-13-queries-to-fssai-give-details-on-shape-size-colour-of-food-label/articleshow/134099356.cms",
+          "published_at": "Sat, 12 Sep 2026 05:55:40 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLWJyaWNzLTIwMjY6LW9m",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Brics 2026: Officials claim 50 outcomes, but no clarity on united declaration",
           "summary": "",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/nmc-adds-over-13000-mbbs-seats-total-intake-tops-1-4-lakh/articleshow/134089956.cms",
-          "published_at": "Sat, 12 Sep 2026 02:08:34 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/india/officials-claim-50-outcomes-but-no-clarity-on-united-declaration/articleshow/134098263.cms",
+          "published_at": "Sat, 12 Sep 2026 05:23:24 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLTQwJS1vZi1nbG9iYWwt",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "40% of global GDP is here: PM Modi on Brics Summit",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/40-of-global-gdp-is-here-pm-modi/articleshow/134092501.cms",
+          "published_at": "Sat, 12 Sep 2026 03:29:28 +0530",
           "cross_sections": []
         },
         {
@@ -3777,48 +3714,18 @@
           ]
         },
         {
-          "id": "dG9pLWluZGlhLWhvcGVzLWly",
+          "id": "dG9pLWJyaWNzLTIwMjY6LWlu",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "India hopes Iran and UAE will show flexibility, allow Brics declaration",
+          "title": "Brics 2026: Inside heightened security deployment for Xi's first India visit since 2019",
           "summary": "",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/pm-doubles-down-on-friendship-with-iran-seeks-win-win-strategy-hope-mounts-for-brics-declaration/articleshow/134086783.cms",
-          "published_at": "Sat, 12 Sep 2026 00:37:07 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/india/guarding-xi-inside-heightened-security-deployment/articleshow/134086513.cms",
+          "published_at": "Sat, 12 Sep 2026 00:33:45 +0530",
           "cross_sections": []
-        },
-        {
-          "id": "dG9pLSd3aWxsLXdvcmstd2l0",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "'Will work with India, be friends': China ahead of PM Modi-Xi meeting in Delhi",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/will-work-with-india-be-friends-china-ahead-of-pm-modi-xi-meeting-in-delhi/articleshow/134083755.cms",
-          "published_at": "Fri, 11 Sep 2026 23:52:25 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dG9pLXJ1c3NpYS11bnZlaWxz",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Russia unveils new S-71K stealth missile for Su-57E amid potential sale to India",
-          "summary": "Russia has disclosed its latest S-71K Kovyor air-launched weapon designed specifically for the Su-57E fighter jet. This advanced system integrates the capabilities of both cruise missiles and drones, enabling effective stand-off attacks. With enhanced stealth features and cost-effectiveness for broa",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/defence/news/russia-unveils-new-s-71k-stealth-missile-for-su-57e-amid-potential-sale-to-india/articleshow/134073329.cms",
-          "published_at": "Fri, 11 Sep 2026 19:59:39 +0530",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "dG9pLWVsb24tbXVzaydzLWN5",
@@ -3837,17 +3744,17 @@
           ]
         },
         {
-          "id": "dG9pLWluZGlhbi1pbi1rdXdh",
+          "id": "dG9pLWFmdGVyLXRydW1wLXJl",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Indian in Kuwait sent Rs 1.09 crore, no ITR; ITAT deletes Rs 5.52 lakh, checks Rs 2.5 crore",
-          "summary": "The absence of an original ITR became a key issue. Although the department had information about the substantial sums held in his Indian accounts, there was no tax return on record explaining their nature and source.",
+          "title": "After Trump renames Lake Ontario, Republican wants Lake Erie renamed too",
+          "summary": "US President Donald Trump has signed an executive order directing federal agencies to rename Lake Ontario as “Lake America” on US maps, documents and databases. Canada has rejected the move, while several US governors have also said they will continue calling it Lake Ontario. The decision comes amid",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/business/india-business/indian-working-in-kuwait-sent-home-over-a-crore-in-remittances-but-filed-no-itr-taxman-treated-rs-3-63-crore-as-unexplained-itat-deletes-rs-5-52-lakh-and-orders-fresh-check-of-rs-2-50-crore/articleshow/134050663.cms",
-          "published_at": "Fri, 11 Sep 2026 12:19:04 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/world/us/after-trump-renamed-lake-ontario-lake-america-a-pennsylvania-republican-now-wants-lake-erie-renamed-lake-pennsylvania/articleshow/134048308.cms",
+          "published_at": "Fri, 11 Sep 2026 12:30:00 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4097,6 +4004,98 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dGhlaGluZHUtcHV0aW4tc2F5",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Putin says European troop deployment in Ukraine would be ‘war against Russia’",
+          "summary": "Putin said European leaders \"are frightening their populations with an imaginary threat coming from Russia\"",
+          "image_url": "https://th-i.thgim.com/public/incoming/nzkows/article71458997.ece/alternates/LANDSCAPE_1200/India_BRICS_37933.jpg",
+          "article_url": "https://www.thehindu.com/news/international/putin-says-european-troop-deployment-in-ukraine-would-be-war-against-russia/article71458991.ece",
+          "published_at": "Sat, 12 Sep 2026 06:29:28 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtbm9ydGgta29y",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "North Korea launches ballistic missiles toward sea after military drill it sees as threat",
+          "summary": "North Korea’s Defence Minister criticised the U.S.-South Korea-Japan military drills, warning that North Korea could take “strong and reflective countermeasures from the standpoint of power”",
+          "image_url": "https://th-i.thgim.com/public/incoming/c1wmnr/article71458993.ece/alternates/LANDSCAPE_1200/Koreas_Tensions__5257.jpg",
+          "article_url": "https://www.thehindu.com/news/international/north-korea-launches-ballistic-missiles-toward-sea-after-military-drill-it-sees-as-threat/article71458990.ece",
+          "published_at": "Sat, 12 Sep 2026 06:28:39 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtdHJhaW4tZGVy",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Train derails in northern France, injuring 44 people",
+          "summary": "The train derailed after hitting an unidentified object, a spokesperson for the French police ‌said. The French railway operator, SNCF, ​said that an investigation to identify the cause of the ⁠accident was underway.",
+          "image_url": "https://th-i.thgim.com/public/incoming/pa2r5u/article71458957.ece/alternates/LANDSCAPE_1200/iStock-502528350.jpg",
+          "article_url": "https://www.thehindu.com/news/international/train-derails-in-northern-france-injuring-many-people/article71458853.ece",
+          "published_at": "Sat, 12 Sep 2026 05:46:34 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdmVuaWNlLWZp",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Venice Film Festival: How Anuparna Roy and Lovers in the Blue Night turn escape into art",
+          "summary": "Songs of Forgotten Trees director, who’s back in Venice after last year’s Orizzonti Best Director win, is rewriting who gets to be seen, and how, in Indian cinema",
+          "image_url": "https://th-i.thgim.com/public/society/wnvr21/article71442618.ece/alternates/LANDSCAPE_1200/Anuparna%20Roy%20in%20Venice.jpg",
+          "article_url": "https://www.thehindu.com/entertainment/venice-film-festival-anuparna-roy-lovers-in-the-blue-night/article71442692.ece",
+          "published_at": "Sat, 12 Sep 2026 05:34:35 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtc2F1ZGktYXJh",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Saudi Arabia shuts down major oil pipeline, says drones launched from Iraq hit it",
+          "summary": "Saudi Arabia on Friday (September 11) said drones launched from Iraq hit the East-West pipeline and led to its closure.",
+          "image_url": "https://th-i.thgim.com/public/incoming/wan249/article71457893.ece/alternates/LANDSCAPE_1200/2026-09-11T200148Z_454248667_RC26HNALND6B_RTRMADP_3_IRAN-CRISIS.JPG",
+          "article_url": "https://www.thehindu.com/news/international/saudi-arabia-shuts-down-major-oil-pipeline-citing-attacks-amid-fighting-in-yemen/article71457890.ece",
+          "published_at": "Sat, 12 Sep 2026 04:51:18 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtYWxleGFuZGVy",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Alexander Zverev reaches U.S. Open final and awaits Shelton-Tiafoe winner",
+          "summary": "Alexander Zverev will play for his second Grand Slam title this year after beating Karen Khachanov 6-3, 7-6 (7), 7-6 (6) on Friday in the U.S. Open semifinals",
+          "image_url": "https://th-i.thgim.com/public/incoming/5hb3y6/article71458042.ece/alternates/LANDSCAPE_1200/2026-09-11T224822Z_1673610810_UP1EM9B1QZ0EX_RTRMADP_3_TENNIS-USOPEN.JPG",
+          "article_url": "https://www.thehindu.com/sport/alexander-zverev-reaches-us-open-final-and-awaits-shelton-tiafoe-winner/article71458041.ece",
+          "published_at": "Sat, 12 Sep 2026 04:42:01 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dGhlaGluZHUtY2lhLXJlbGVh",
           "source_id": "thehindu",
           "source_name": "The Hindu",
@@ -4124,94 +4123,6 @@
           "image_url": "https://th-i.thgim.com/public/incoming/ipnuht/article71458036.ece/alternates/LANDSCAPE_1200/APTOPIX_Sept_11_Anniversary_Pentagon_Trump_43715.jpg",
           "article_url": "https://www.thehindu.com/news/international/thats-why-we-fight-trump-links-911-to-iran-conflict/article71458035.ece",
           "published_at": "Sat, 12 Sep 2026 04:15:16 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtZ2F1aGF0aS1o",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Gauhati High Court says ‘talaq-e-hassan’ is a valid form of divorce",
-          "summary": "The court has directed the petitioner to register his divorce under the Assam Compulsory Registration of Muslim Marriages and Divorce Act, 2024",
-          "image_url": "https://th-i.thgim.com/public/incoming/cbia5r/article71458033.ece/alternates/LANDSCAPE_1200/IMG_BL16_States_Gauhati__2_1_M7ASNFQA.jpg",
-          "article_url": "https://www.thehindu.com/news/national/assam/gauhati-high-court-says-talaq-e-hassan-is-a-valid-form-of-divorce/article71456358.ece",
-          "published_at": "Sat, 12 Sep 2026 03:58:31 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtdGVqYXNod2kt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Tejashwi writes to Bihar CM demanding life-size statues of Ram Vilas, Sharad Yadav and Raghuvansh",
-          "summary": "Mr. Yadav’s move is seen as an addition to Rashtriya Janata Dal’s (RJD) broader plan of asserting itself as a party which stands for the “A to Z” castes and communities.",
-          "image_url": "https://th-i.thgim.com/public/incoming/6vz1e7/article71458031.ece/alternates/LANDSCAPE_1200/20260901198L.jpg",
-          "article_url": "https://www.thehindu.com/news/national/bihar/tejashwi-writes-to-bihar-cm-demanding-life-size-statuesof-ram-vilas-sharad-yadav-and-raghuvansh/article71456264.ece",
-          "published_at": "Sat, 12 Sep 2026 03:37:30 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtYWxsYWhhYmFk",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Allahabad HC seeks Uttar Pradesh govt’s reply over Saharanpur Mosque demolition, stays ₹6.41 crore damage recovery",
-          "summary": "The petitioner submitted in the court that authorities moved quickly to demolish the mosque, tearing it down within three days of the eviction order.",
-          "image_url": "https://th-i.thgim.com/public/incoming/957ghq/article71458028.ece/alternates/LANDSCAPE_1200/20260907184L.jpg",
-          "article_url": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hc-seeks-uttar-pradesh-governments-reply-over-saharanpur-mosque-demolition-stays-641-crore-damage-recovery/article71456149.ece",
-          "published_at": "Sat, 12 Sep 2026 03:09:48 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtd2l0aC1leWUt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "With eye on poll, BJP to begin ‘drug-free Punjab’ drive amid row over Dalit villager’s death",
-          "summary": "The campaign comes close on the heels of a row that erupted following the death of a Dalit villager, who was reportedly under pressure to apologise for questioning Finance Minister Harpal Singh Cheema over the supply of ‘chitta (synthetic drugs)’ in the State.",
-          "image_url": "https://th-i.thgim.com/public/incoming/i6bisq/article71457907.ece/alternates/LANDSCAPE_1200/20260902240L.jpg",
-          "article_url": "https://www.thehindu.com/news/national/punjab/with-eye-on-poll-bjp-to-begin-drug-free-punjab-drive-amid-row-over-dalit-villagers-death/article71456181.ece",
-          "published_at": "Sat, 12 Sep 2026 02:42:24 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtdmljZS1wcmlu",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Vice-principal of Kolkata college ‘forced’ to resign; ABVP ‘purifies’ her office",
-          "summary": "Was locked in office for entire night, no one came to rescue, Mohammadi Tarannum says after stepping down following 23-hour protest by college students over 70% minimum attendance rule",
-          "image_url": "https://th-i.thgim.com/public/incoming/7m40vc/article71457905.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-12%20022341.png",
-          "article_url": "https://www.thehindu.com/news/cities/kolkata/kolkataslaw-college-vice-principal-resigns-after-23-hour-studentprotest-over-attendance/article71456472.ece",
-          "published_at": "Sat, 12 Sep 2026 02:25:42 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUteWVtZW7igJlz",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Yemen’s Houthis seize strategic island at the southern entrance to the Red Sea",
-          "summary": "The Houthis’ biggest territorial gains in years, along the Bab el-Mandeb Strait, could boost Iran’s strategy of driving up world oil and gas prices to pressure the United States.",
-          "image_url": "https://th-i.thgim.com/public/incoming/ebfdf3/article71455927.ece/alternates/LANDSCAPE_1200/Yemen-s-HouthisG2AGH0RKJ.4.jpg.jpg",
-          "article_url": "https://www.thehindu.com/news/international/yemens-houthis-reach-strategic-island-at-mouth-of-vital-shipping-lane/article71455868.ece",
-          "published_at": "Sat, 12 Sep 2026 02:17:46 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4375,8 +4286,8 @@
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "North Korea fires off unidentified projectile, Seoul says",
-          "summary": "North Korea fired an unidentified projectile toward its eastern coast Saturday, a day after trilateral U.S.-South Korea-Japan military drills ended.",
+          "title": "North Korea fires off ‘multiple’ missiles, a day after trilateral exercises end",
+          "summary": "The launches came a day after South Korea, Japan and the U.S. wrapped up their trilateral Freedom Edge military drills.",
           "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/12/562651.jpg",
           "article_url": "https://www.japantimes.co.jp/news/2026/09/12/asia-pacific/north-korea-fires-projectile/",
           "published_at": "Sat, 12 Sep 2026 07:37:00 +0900",
@@ -4462,6 +4373,52 @@
       "region": "Asia-Pacific",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "bmR0di00NC1pbmp1cmVkLWFm",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "44 Injured After Train Derails In France",
+          "summary": "One of those injured is in a critical state and was evacuated by helicopter, the head of the local authority, the prefect, Jean-Benoit Albertini, told reporters.",
+          "image_url": "https://c.ndtvimg.com/2026-09/bpssf8n_france-train-derail_625x300_12_September_26.jpeg",
+          "article_url": "https://www.ndtv.com/world-news/44-injured-after-train-derails-in-france-12035657#publisher=newsstand",
+          "published_at": "Sat, 12 Sep 2026 06:24:28 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1hdC1icmljcywtcHV0",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "At BRICS, Putin Slams West's \"Ugly\" Trade Tactics, Cites \"30,000 Sanctions\"",
+          "summary": "Delivering his remarks at the Leaders' Session of the BRICS Business Forum in the national capital, Putin lashed out at Western nations for turning trade and diplomatic pressure into state-level interference.",
+          "image_url": "https://c.ndtvimg.com/2026-09/6flfcu5o_vladimir-putin_625x300_12_September_26.jpeg",
+          "article_url": "https://www.ndtv.com/world-news/at-brics-vladimir-putin-says-russia-hit-with-over-30-000-sanctions-condemns-ugly-trade-tactics-12035642#publisher=newsstand",
+          "published_at": "Sat, 12 Sep 2026 05:52:12 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "bmR0di11cy1kZXBvcnRzLWFm",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "US Deports Afghan Woman In First Use Of Alien Terrorist Removal Court",
+          "summary": "The Department of Justice said that Nazira Haji Zada, who came to the United States in 2018, \"conceded that she is an alien terrorist and waived appeal of the removal order.\"",
+          "image_url": "https://c.ndtvimg.com/2024-10/9q90snc_us-justice-department_625x300_21_October_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/world-news/us-deports-afghan-woman-in-first-use-of-alien-terrorist-removal-court-12035619#publisher=newsstand",
+          "published_at": "Sat, 12 Sep 2026 04:59:48 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "bmR0di1jaWEtZGVjbGFzc2lm",
           "source_id": "ndtv",
@@ -4600,22 +4557,6 @@
           "article_url": "https://www.ndtv.com/india-news/us-israel-want-to-bully-us-but-we-wont-kneel-iran-president-masoud-pezeshkian-in-delhi-12035281#publisher=newsstand",
           "published_at": "Sat, 12 Sep 2026 00:25:41 +0530",
           "cross_sections": []
-        },
-        {
-          "id": "bmR0di1wdXRpbi10YWtlcy0i",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Putin Takes \"40%\" Dig At G7, Compares It With BRICS' Contribution To World GDP",
-          "summary": "\"The world is always changing, and this is attested to by the objective facts of the last five years,\" Valdimir Putin said at the BRICS Business Forum.",
-          "image_url": "https://c.ndtvimg.com/2026-09/lkqobhps_putin-at-brics_625x300_11_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/putin-takes-40-per-cent-dig-at-g7-compares-it-with-brics-contribution-to-world-gdp-12033570#publisher=newsstand",
-          "published_at": "Sat, 12 Sep 2026 00:01:10 +0530",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -4625,6 +4566,66 @@
       "region": "Middle East & Africa",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "YWxqYXplZXJhLXBhc3Nlbmdl",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Passenger train derails in France, leaving 44 injured, 1 critical",
+          "summary": "French train derailment sparks emergency response, with 130 firefighters and five medical teams dispatched to the scene.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/9/12/passenger-train-derails-in-france-leaving-44-injured-1-critical?traffic_source=rss",
+          "published_at": "Sat, 12 Sep 2026 00:36:44 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLWZvcm1lci10",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Former top US diplomat reveals mistakes made after 9/11 attacks",
+          "summary": "Ambassador Zalmay Khalilzad describes misgivings about the US handling of the Afghanistan and Iraq wars.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/9/12/former-top-us-diplomat-reveals-mistakes-made-after-9-11?traffic_source=rss",
+          "published_at": "Sat, 12 Sep 2026 00:04:23 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLWlyYW4td2Fy",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
+          "summary": "Houthi forces seize Yemen's Red Sea coast while Saudi Arabia suspends crucial oil pipeline following drone attack.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss",
+          "published_at": "Sat, 12 Sep 2026 00:00:00 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLXVuLWV4dGVu",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "UN extends partial Sudan arms embargo for a month",
+          "summary": "Sudan’s UN ambassador said a total arms embargo goes against the UN Charter that guarantees a right to self-defence.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/9/11/un-extends-partial-sudan-arms-embargo-for-a-month?traffic_source=rss",
+          "published_at": "Fri, 11 Sep 2026 23:08:05 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "YWxqYXplZXJhLWZsYXZpby1i",
           "source_id": "aljazeera",
@@ -4680,67 +4681,6 @@
           "article_url": "https://www.aljazeera.com/sports/2026/9/11/sabalenka-rybakina-us-open-2026-womens-singles-final-time-form-head-to-head?traffic_source=rss",
           "published_at": "Fri, 11 Sep 2026 21:28:34 +0000",
           "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXNvbWJlci10",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Somber tributes as US marks the 25th anniversary of September 11 attacks",
-          "summary": "Families are remembering the loved ones they lost in the September 11, 2001 attacks on the US.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/somber-tributes-as-us-marks-the-25th-anniversary-of-september-11-attacks?traffic_source=rss",
-          "published_at": "Fri, 11 Sep 2026 21:23:51 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXpvaHJhbi1t",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Zohran Mamdani commemorates 9/11 amid widespread criticism",
-          "summary": "NYC Mayor Zohran Mamdani commemorated the 25th anniversary of 9/11, calling it the “darkest day” in the city's history.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/zohran-mamdani-commemorates-9-11-amid-widespread?traffic_source=rss",
-          "published_at": "Fri, 11 Sep 2026 21:01:23 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXVzLWxlZ2lz",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "US legislators push AI safety laws amid human extinction warnings",
-          "summary": "Concerns over AI's dangers grow as US legislators introduce bills to ensure human oversight and prevent rogue systems.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/economy/2026/9/11/us-legislators-push-ai-safety-laws-amid-human-extinction-warnings?traffic_source=rss",
-          "published_at": "Fri, 11 Sep 2026 20:59:51 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXVzLWxhd3ll",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "US lawyer cites fake witnesses in murder case, blames ChatGPT",
-          "summary": "State supreme court fined the attorney and held him in contempt for not verifying facts in a court filing.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/economy/2026/9/11/us-lawyer-cites-fake-witnesses-in-murder-case-blames-chatgpt?traffic_source=rss",
-          "published_at": "Fri, 11 Sep 2026 20:42:05 +0000",
-          "cross_sections": [
-            "ai"
-          ]
         }
       ]
     },
@@ -4751,123 +4691,125 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "YXJhYm5ld3MtZ3VsZiwtbXVz",
+          "id": "YXJhYm5ld3MtaXJhcS1vcmRl",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Gulf, Muslim organizations rally behind Saudi Arabia after pipeline attack",
-          "summary": "RIYADH: Gulf and Muslim organizations on Saturday condemned a drone attack on Saudi Arabia’s East-West oil pipeline, expressing solidarity with the Kingdom and warning that the strikes represented a dangerous escalation threatening regional security and vital infrastructure. The Gulf Cooperation Cou",
-          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789167794220-b4b6f4404883d1c6.jpg",
-          "article_url": "https://www.arabnews.com/middle-east/gulf-muslim-organizations-rally-behind-saudi-arabia-after-pipeline-attack-3001419",
-          "published_at": "Fri, 11 Sep 2026 23:06:02 GMT",
+          "title": "Iraq orders closure of Shalamcheh border crossing with Iran, two sources say",
+          "summary": "BAGHDAD: Iraq ordered the closure of ​the Shalamcheh border crossing between Iraq and Iran as a precautionary measure ‌after ‌the ​latest ‌drone ⁠attacks ​on Saudi Arabia, two ⁠security sources told Reuters on Saturday. The sources said ⁠a wide-scale ‌operation ‌was ​underway ‌to pursue perpetrators",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789171543513-26a2c031b15a49a6.jpg",
+          "article_url": "https://www.arabnews.com/middle-east/iraq-orders-closure-of-shalamcheh-border-crossing-with-iran-two-sources-say-3001427",
+          "published_at": "Sat, 12 Sep 2026 00:06:29 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtY2FydG9vbi1i",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Cartoon by Amjad Rasmi. (Courtesy of Asharq Al-Awsat)",
+          "summary": "Cartoon by Amjad Rasmi. (Courtesy of Asharq Al-Awsat)",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789170688461-5087f991df045086.jpg",
+          "article_url": "https://www.arabnews.com/opinion/cartoon-by-amjad-rasmi-courtesy-of-asharq-al-awsat-3001426",
+          "published_at": "Fri, 11 Sep 2026 23:52:13 GMT",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtaXJhcWktbWls",
+          "id": "YXJhYm5ld3MtZ2V0LWFjdGl2",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Iraqi military commander dismissed after drone attacks against Saudi Arabia, prime minister’s office says",
-          "summary": "An Iraqi military commander has been removed from his position after evidence linked drone attacks on Saudi Arabia to Iraq. This decision follows an investigation led by the Iraqi prime minister’s office.",
-          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789165736412-cf060819e24a6a20.jpg",
-          "article_url": "https://www.arabnews.com/middle-east/iraqi-military-commander-dismissed-after-drone-attacks-against-saudi-arabia-prime-ministers-office-says-3001417",
-          "published_at": "Fri, 11 Sep 2026 22:29:20 GMT",
+          "title": "Get active",
+          "summary": "Participate in a range of activities and games, including rope and ninja courses, soft play, interactive rooms, water play, free-fall experiences, slides, and karting. For booking details, visit  webook.com .",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789170532310-c80bc679b835bf17.jpeg",
+          "article_url": "https://www.arabnews.com/ksa-today/get-active-3001425",
+          "published_at": "Fri, 11 Sep 2026 23:49:11 GMT",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3MtYS1uZXcteW9y",
+          "id": "YXJhYm5ld3MtY3VsdHVyYWwt",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "A New York jeweler has been released from prison in Iran but is banned from leaving war-torn country",
-          "summary": "NEW YORK : An Iranian American jeweler from New York has been released from prison in Iran, but he is prohibited from leaving the country, according to his family and federal officials. Kamran Hekmati was let out of Tehran’s notorious Evin prison on Sept. 5 after completing about half of a two-year ",
-          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789165004571-c74b13f1f204e74c.png",
-          "article_url": "https://www.arabnews.com/world/a-new-york-jeweler-has-been-released-from-prison-in-iran-but-is-banned-from-leaving-war-torn-country-3001418",
-          "published_at": "Fri, 11 Sep 2026 22:20:07 GMT",
+          "title": "Cultural tour",
+          "summary": "Explore the city’s rich heritage with this evening journey, which takes you to the National Museum, Murabba Palace, Wadi Hanifah, Masmak Fort, Imam Turki Bin Abdullah Grand Mosque, Souq Al-Zal and Thumairi Market. Watch historical landmarks, traditional markets and local culture come alive as the ci",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789170469609-a955caab41215dc3.jpeg",
+          "article_url": "https://www.arabnews.com/ksa-today/cultural-tour-3001424",
+          "published_at": "Fri, 11 Sep 2026 23:48:05 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtZ2FtaW5nLXNl",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Gaming session",
+          "summary": "Visit Challenge Round, a specialized board game club and store offering a space to play hundreds of award-winning modern board games, browse more than 500 games for sale, and spend quality time with friends and family. For more details, visit  enjoy.sa .",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789170414765-096b955129009d29.jpg",
+          "article_url": "https://www.arabnews.com/ksa-today/gaming-session-3001423",
+          "published_at": "Fri, 11 Sep 2026 23:47:06 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtYXJ0LWNsYXNz",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Art class",
+          "summary": "Join this course at the Ithra tower exploring the traditional art of Islamic woodwork through Mamluk and Hijazi techniques. Engage in hands-on practice in carving, inlaying and joinery while creating a hexagonal wooden jewelry box and collaborating on a large Mangour screen using materials such as m",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789170350436-57145ded49309cc7.jpg",
+          "article_url": "https://www.arabnews.com/ksa-today/art-class-3001422",
+          "published_at": "Fri, 11 Sep 2026 23:46:06 GMT",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtYS1wYXBhcy1n",
+          "id": "YXJhYm5ld3MtaXNyYWVsLWxl",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "A Papas gamble rescues a point for Al-Qadsiah against Al-Ettifaq in Eastern Derby thriller",
-          "summary": "RIYADH: The final matchday in the opening stretch of the Saudi Pro League season before the international break kicked off in dramatic fashion with Al-Qadsiah and visiting Al-Ettifaq meeting in what is expected to be the last Eastern Derby at the Prince Mohammed bin Fahad Stadium in Dammam, as Al-Qa",
-          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789156605091-c996441f5dd8998e.jpeg",
-          "article_url": "https://www.arabnews.com/saudi-pro-league/a-papas-gamble-rescues-a-point-for-al-qadsiah-against-al-ettifaq-in-eastern-derby-thriller-3001410",
-          "published_at": "Fri, 11 Sep 2026 21:52:37 GMT",
+          "title": "Israel-Lebanon talks in Rome delayed to October: US official",
+          "summary": "WASHINGTON: The next round of negotiations between Israel and Lebanon in Rome have been delayed until October, a US official said Friday. Last month, the United States had said the next round of talks in the Italian capital would take place in early September. While the Rome talks will not go ahead ",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789169582571-35ec64409021ea17.jpg",
+          "article_url": "https://www.arabnews.com/world/israel-lebanon-talks-in-rome-delayed-to-october-us-official-3001421",
+          "published_at": "Fri, 11 Sep 2026 23:33:25 GMT",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3Mtd2hhdC13ZS1h",
+          "id": "YXJhYm5ld3MtYWZnaGFuLXdv",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "What We Are Reading Today: ‘Healing Grounds’ by Liz Carlisle",
-          "summary": "A powerful movement is happening in farming today—farmers are reconnecting with their roots to fight climate change. For one woman, that’s meant learning her tribe’s history to help bring back the buffalo. For another, it’s meant preserving forest purchased by her great-great-uncle, among the first ",
-          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789160145362-b12d570f03428eb3.jpg",
-          "article_url": "https://www.arabnews.com/books-gaming/what-we-are-reading-today-healing-grounds-by-liz-carlisle-3001416",
-          "published_at": "Fri, 11 Sep 2026 20:56:57 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtbWV4aWNvLWNh",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Mexico captain Edson Alvarez denies involvement in kidnapping",
-          "summary": "Mexico’s national soccer team captain, Edson Alvarez, has denied allegations of involvement in a kidnapping after accusations were published in a magazine. The claims involve his former father-in-law allegedly orchestrating the abduction.",
-          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789159837934-07006a43daee3d21.jpg",
-          "article_url": "https://www.arabnews.com/football/mexico-captain-edson-alvarez-denies-involvement-in-kidnapping-3001415",
-          "published_at": "Fri, 11 Sep 2026 20:54:54 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3Mta2luZ2RvbS1j",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Kingdom can lead the way on extreme heat infrastructure, official says",
-          "summary": "NEW DELHI: Saudi Arabia’s rapid infrastructure development under Vision 2030 presents an opportunity for the Kingdom to both benefit from and contribute to global efforts to build disaster-resilient infrastructure, Amit Prothi, director-general of the Coalition for Disaster Resilient Infrastructure,",
-          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789118885267-44acb759359052bd.jpeg",
-          "article_url": "https://www.arabnews.com/world/kingdom-can-lead-the-way-on-extreme-heat-infrastructure-official-says-3001330",
-          "published_at": "Fri, 11 Sep 2026 20:39:52 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "YXJhYm5ld3MtcHV0aW4tc2F5",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Putin says European troop deployment in Ukraine would be ‘war against Russia’",
-          "summary": "Russian President Vladimir Putin stated that deploying European troops to Ukraine would be equated to declaring war on Russia. He emphasized that Moscow does not pose a threat.",
-          "image_url": "https://assets.maestronewsroom.com/media/shared/wires/ap/20260911/55ff5d69abd9-India_BRICS_32952--12031.jpg",
-          "article_url": "https://www.arabnews.com/world/putin-says-european-troop-deployment-in-ukraine-would-be-war-against-russia-3001413",
-          "published_at": "Fri, 11 Sep 2026 20:38:49 GMT",
+          "title": "Afghan woman removed from US on orders of ‘terror court’",
+          "summary": "WASHINGTON: An Afghan woman accused of supporting a plot to carry out a mass shooting in the United States has been sent back to Afghanistan in the first case heard by a special US terror court, the Department of Justice said Friday. Nazira Hajji Zada, 47, a Texas resident, was removed from the Unit",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789168276380-b6d9f9aa3588d52b.jpg",
+          "article_url": "https://www.arabnews.com/world/afghan-woman-removed-from-us-on-orders-of-terror-court-3001420",
+          "published_at": "Fri, 11 Sep 2026 23:12:03 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -4968,7 +4910,7 @@
         {
           "id": "bbc",
           "name": "BBC News",
-          "count": 21
+          "count": 23
         },
         {
           "id": "guardian",
@@ -4978,7 +4920,7 @@
         {
           "id": "euronews",
           "name": "Euronews",
-          "count": 16
+          "count": 8
         },
         {
           "id": "dw",
@@ -5010,7 +4952,7 @@
         {
           "id": "ndtv",
           "name": "NDTV",
-          "count": 10
+          "count": 12
         }
       ]
     },
@@ -5038,6 +4980,360 @@
       "name": "IT & Tech",
       "icon": "💻",
       "articles": [
+        {
+          "id": "dGhlaGluZHUtcHV0aW4tc2F5",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Putin says European troop deployment in Ukraine would be ‘war against Russia’",
+          "summary": "Putin said European leaders \"are frightening their populations with an imaginary threat coming from Russia\"",
+          "image_url": "https://th-i.thgim.com/public/incoming/nzkows/article71458997.ece/alternates/LANDSCAPE_1200/India_BRICS_37933.jpg",
+          "article_url": "https://www.thehindu.com/news/international/putin-says-european-troop-deployment-in-ukraine-would-be-war-against-russia/article71458991.ece",
+          "published_at": "Sat, 12 Sep 2026 06:29:28 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di00NC1pbmp1cmVkLWFm",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "44 Injured After Train Derails In France",
+          "summary": "One of those injured is in a critical state and was evacuated by helicopter, the head of the local authority, the prefect, Jean-Benoit Albertini, told reporters.",
+          "image_url": "https://c.ndtvimg.com/2026-09/bpssf8n_france-train-derail_625x300_12_September_26.jpeg",
+          "article_url": "https://www.ndtv.com/world-news/44-injured-after-train-derails-in-france-12035657#publisher=newsstand",
+          "published_at": "Sat, 12 Sep 2026 06:24:28 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y2lvLWhvdy10by1tYWtlLXlv",
+          "source_id": "cio",
+          "source_name": "CIO.com",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "How to make your business top of mind for AI search engines",
+          "summary": "AI is quickly replacing traditional online search as the front door to finding a business. I recently heard a story about a car shopper who drove miles out of her way to visit a specific dealership, bypassing many car lots much closer to home. Why? Because she searched car dealerships with ChatGPT a",
+          "image_url": "https://www.cio.com/wp-content/uploads/2026/09/4221309-0-54836300-1789173516-Anu-copy.jpg?quality=50&strip=all",
+          "article_url": "https://www.cio.com/article/4221309/how-to-make-your-business-top-of-mind-for-ai-search-engines.html",
+          "published_at": "Sat, 12 Sep 2026 00:38:22 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXBhc3Nlbmdl",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Passenger train derails in France, leaving 44 injured, 1 critical",
+          "summary": "French train derailment sparks emergency response, with 130 firefighters and five medical teams dispatched to the scene.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/9/12/passenger-train-derails-in-france-leaving-44-injured-1-critical?traffic_source=rss",
+          "published_at": "Sat, 12 Sep 2026 00:36:44 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLXNjJ3MtMTMtcXVlcmll",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "SC's 13 queries to FSSAI: 'Give details on shape, size, colour of food label'",
+          "summary": "The Supreme Court has mandated that the FSSAI outline precise details about food warning labels, including their design, dimensions, colors, and position on food packaging. Additionally, the court emphasizes the importance of communicating junk food risks to children. FSSAI is tasked with addressing",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/scs-13-queries-to-fssai-give-details-on-shape-size-colour-of-food-label/articleshow/134099356.cms",
+          "published_at": "Sat, 12 Sep 2026 05:55:40 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdHJhaW4tZGVy",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Train derails in northern France, injuring 44 people",
+          "summary": "The train derailed after hitting an unidentified object, a spokesperson for the French police ‌said. The French railway operator, SNCF, ​said that an investigation to identify the cause of the ⁠accident was underway.",
+          "image_url": "https://th-i.thgim.com/public/incoming/pa2r5u/article71458957.ece/alternates/LANDSCAPE_1200/iStock-502528350.jpg",
+          "article_url": "https://www.thehindu.com/news/international/train-derails-in-northern-france-injuring-many-people/article71458853.ece",
+          "published_at": "Sat, 12 Sep 2026 05:46:34 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLW1wcy12b3RlLWFnYWlu",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "MPs vote against fresh attempt to legalise assisted dying",
+          "summary": "The proposed law sought to introduce one of the biggest societal changes in recent years.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d113/live/ace30a00-adf1-11f1-bc1f-3f186ca4140c.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 12 Sep 2026 00:10:55 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtaXJhcS1vcmRl",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Iraq orders closure of Shalamcheh border crossing with Iran, two sources say",
+          "summary": "BAGHDAD: Iraq ordered the closure of ​the Shalamcheh border crossing between Iraq and Iran as a precautionary measure ‌after ‌the ​latest ‌drone ⁠attacks ​on Saudi Arabia, two ⁠security sources told Reuters on Saturday. The sources said ⁠a wide-scale ‌operation ‌was ​underway ‌to pursue perpetrators",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789171543513-26a2c031b15a49a6.jpg",
+          "article_url": "https://www.arabnews.com/middle-east/iraq-orders-closure-of-shalamcheh-border-crossing-with-iran-two-sources-say-3001427",
+          "published_at": "Sat, 12 Sep 2026 00:06:29 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Z3VhcmRpYW4tYWktYWdlbnRz",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "AI agents OpenAI was testing uploaded malicious software to another service, say researchers",
+          "summary": "Two months before hacking Hugging Face, malicious packages authored by internal OpenAI agents were uploaded to RubyGems\nAI agents being ⁠tested by OpenAI uploaded hundreds of malicious packages to software service RubyGems ⁠in May, two ⁠months ​before they hacked open-source platform Hugging Face, a",
+          "image_url": "https://i.guim.co.uk/img/media/65486c2e45ba4ef565230ab1fceaa0e07eedff11/331_0_5136_4109/master/5136.jpg?width=140&quality=85&auto=format&fit=max&s=506207a5edcc635293e92a29e3466b72",
+          "article_url": "https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages",
+          "published_at": "Fri, 11 Sep 2026 23:56:19 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "dG9pLWJyaWNzLTIwMjY6LW9m",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Brics 2026: Officials claim 50 outcomes, but no clarity on united declaration",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/officials-claim-50-outcomes-but-no-clarity-on-united-declaration/articleshow/134098263.cms",
+          "published_at": "Sat, 12 Sep 2026 05:23:24 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtZ2V0LWFjdGl2",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Get active",
+          "summary": "Participate in a range of activities and games, including rope and ninja courses, soft play, interactive rooms, water play, free-fall experiences, slides, and karting. For booking details, visit  webook.com .",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789170532310-c80bc679b835bf17.jpeg",
+          "article_url": "https://www.arabnews.com/ksa-today/get-active-3001425",
+          "published_at": "Fri, 11 Sep 2026 23:49:11 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtY3VsdHVyYWwt",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Cultural tour",
+          "summary": "Explore the city’s rich heritage with this evening journey, which takes you to the National Museum, Murabba Palace, Wadi Hanifah, Masmak Fort, Imam Turki Bin Abdullah Grand Mosque, Souq Al-Zal and Thumairi Market. Watch historical landmarks, traditional markets and local culture come alive as the ci",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789170469609-a955caab41215dc3.jpeg",
+          "article_url": "https://www.arabnews.com/ksa-today/cultural-tour-3001424",
+          "published_at": "Fri, 11 Sep 2026 23:48:05 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtZ2FtaW5nLXNl",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Gaming session",
+          "summary": "Visit Challenge Round, a specialized board game club and store offering a space to play hundreds of award-winning modern board games, browse more than 500 games for sale, and spend quality time with friends and family. For more details, visit  enjoy.sa .",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789170414765-096b955129009d29.jpg",
+          "article_url": "https://www.arabnews.com/ksa-today/gaming-session-3001423",
+          "published_at": "Fri, 11 Sep 2026 23:47:06 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLWlzLWEtc2VwdGVtYmVy",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Is a September heatwave forecast for the UK?",
+          "summary": "Temperatures will return to summerlike levels over the weekend, despite some heavy rain.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74ae/live/dbca3ce0-adeb-11f1-9a5c-a7a4083eb832.png",
+          "article_url": "https://www.bbc.co.uk/weather/articles/c70l8vgk4vzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 11 Sep 2026 23:41:50 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJzdGVjaG5pY2Etc29tZS1z",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Some satellite companies still have an appetite for boutique launch services",
+          "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Engine3-1152x648.jpg",
+          "article_url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+          "published_at": "Fri, 11 Sep 2026 23:34:45 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtaXNyYWVsLWxl",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Israel-Lebanon talks in Rome delayed to October: US official",
+          "summary": "WASHINGTON: The next round of negotiations between Israel and Lebanon in Rome have been delayed until October, a US official said Friday. Last month, the United States had said the next round of talks in the Italian capital would take place in early September. While the Rome talks will not go ahead ",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789169582571-35ec64409021ea17.jpg",
+          "article_url": "https://www.arabnews.com/world/israel-lebanon-talks-in-rome-delayed-to-october-us-official-3001421",
+          "published_at": "Fri, 11 Sep 2026 23:33:25 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di11cy1kZXBvcnRzLWFm",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "US Deports Afghan Woman In First Use Of Alien Terrorist Removal Court",
+          "summary": "The Department of Justice said that Nazira Haji Zada, who came to the United States in 2018, \"conceded that she is an alien terrorist and waived appeal of the removal order.\"",
+          "image_url": "https://c.ndtvimg.com/2024-10/9q90snc_us-justice-department_625x300_21_October_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/world-news/us-deports-afghan-woman-in-first-use-of-alien-terrorist-removal-court-12035619#publisher=newsstand",
+          "published_at": "Sat, 12 Sep 2026 04:59:48 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLXJlZm9ybS1yZWNlaXZl",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Reform receives record £36m donation from crypto billionaire",
+          "summary": "Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/751d/live/9bfaf8b0-ae32-11f1-b1d1-571ed4d7ff2c.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 11 Sep 2026 23:27:18 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtc2F1ZGktYXJh",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Saudi Arabia shuts down major oil pipeline, says drones launched from Iraq hit it",
+          "summary": "Saudi Arabia on Friday (September 11) said drones launched from Iraq hit the East-West pipeline and led to its closure.",
+          "image_url": "https://th-i.thgim.com/public/incoming/wan249/article71457893.ece/alternates/LANDSCAPE_1200/2026-09-11T200148Z_454248667_RC26HNALND6B_RTRMADP_3_IRAN-CRISIS.JPG",
+          "article_url": "https://www.thehindu.com/news/international/saudi-arabia-shuts-down-major-oil-pipeline-citing-attacks-amid-fighting-in-yemen/article71457890.ece",
+          "published_at": "Sat, 12 Sep 2026 04:51:18 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtYWZnaGFuLXdv",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Afghan woman removed from US on orders of ‘terror court’",
+          "summary": "WASHINGTON: An Afghan woman accused of supporting a plot to carry out a mass shooting in the United States has been sent back to Afghanistan in the first case heard by a special US terror court, the Department of Justice said Friday. Nazira Hajji Zada, 47, a Texas resident, was removed from the Unit",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789168276380-b6d9f9aa3588d52b.jpg",
+          "article_url": "https://www.arabnews.com/world/afghan-woman-removed-from-us-on-orders-of-terror-court-3001420",
+          "published_at": "Fri, 11 Sep 2026 23:12:03 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtYWxleGFuZGVy",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Alexander Zverev reaches U.S. Open final and awaits Shelton-Tiafoe winner",
+          "summary": "Alexander Zverev will play for his second Grand Slam title this year after beating Karen Khachanov 6-3, 7-6 (7), 7-6 (6) on Friday in the U.S. Open semifinals",
+          "image_url": "https://th-i.thgim.com/public/incoming/5hb3y6/article71458042.ece/alternates/LANDSCAPE_1200/2026-09-11T224822Z_1673610810_UP1EM9B1QZ0EX_RTRMADP_3_TENNIS-USOPEN.JPG",
+          "article_url": "https://www.thehindu.com/sport/alexander-zverev-reaches-us-open-final-and-awaits-shelton-tiafoe-winner/article71458041.ece",
+          "published_at": "Sat, 12 Sep 2026 04:42:01 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXVuLWV4dGVu",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "UN extends partial Sudan arms embargo for a month",
+          "summary": "Sudan’s UN ambassador said a total arms embargo goes against the UN Charter that guarantees a right to self-defence.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/9/11/un-extends-partial-sudan-arms-embargo-for-a-month?traffic_source=rss",
+          "published_at": "Fri, 11 Sep 2026 23:08:05 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "amFwYW50aW1lcy1ob3ctdG8t",
           "source_id": "japantimes",
@@ -5119,22 +5415,6 @@
           ]
         },
         {
-          "id": "YXJhYm5ld3MtaXJhcWktbWls",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Iraqi military commander dismissed after drone attacks against Saudi Arabia, prime minister’s office says",
-          "summary": "An Iraqi military commander has been removed from his position after evidence linked drone attacks on Saudi Arabia to Iraq. This decision follows an investigation led by the Iraqi prime minister’s office.",
-          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789165736412-cf060819e24a6a20.jpg",
-          "article_url": "https://www.arabnews.com/middle-east/iraqi-military-commander-dismissed-after-drone-attacks-against-saudi-arabia-prime-ministers-office-says-3001417",
-          "published_at": "Fri, 11 Sep 2026 22:29:20 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "YmJjLWhvdXRoaXMtY2xhaW0t",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -5143,7 +5423,7 @@
           "feed_label": "Top Stories",
           "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
           "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09dc/live/6dac0640-adcc-11f1-a540-61c3f7fc4e6c.jpg",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f080/live/c51fe310-ae3f-11f1-a540-61c3f7fc4e6c.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 11 Sep 2026 22:17:45 GMT",
           "cross_sections": [
@@ -5199,29 +5479,13 @@
           ]
         },
         {
-          "id": "YXJhYm5ld3MtYS1wYXBhcy1n",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "A Papas gamble rescues a point for Al-Qadsiah against Al-Ettifaq in Eastern Derby thriller",
-          "summary": "RIYADH: The final matchday in the opening stretch of the Saudi Pro League season before the international break kicked off in dramatic fashion with Al-Qadsiah and visiting Al-Ettifaq meeting in what is expected to be the last Eastern Derby at the Prince Mohammed bin Fahad Stadium in Dammam, as Al-Qa",
-          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789156605091-c996441f5dd8998e.jpeg",
-          "article_url": "https://www.arabnews.com/saudi-pro-league/a-papas-gamble-rescues-a-point-for-al-qadsiah-against-al-ettifaq-in-eastern-derby-thriller-3001410",
-          "published_at": "Fri, 11 Sep 2026 21:52:37 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "YXJzdGVjaG5pY2EtcmFuZG9t",
           "source_id": "arstechnica",
           "source_name": "Ars Technica",
           "source_region": "IT Focus",
           "source_category": "Tech Media",
           "feed_label": "Latest",
-          "title": "Random rewards enrich classic game-theory contests",
+          "title": "Random rewards enrich classic game-theory insights",
           "summary": "Simple games gain rich strategies in the face of noise.",
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294031830-1024x648.jpg",
           "article_url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
@@ -5242,6 +5506,22 @@
           "image_url": "https://c.ndtvimg.com/2026-09/654cbe98_north-korea-missile-test_625x300_12_September_26.jpeg",
           "article_url": "https://www.ndtv.com/world-news/north-korea-fires-unidentified-projectile-toward-sea-of-japan-report-12035515#publisher=newsstand",
           "published_at": "Sat, 12 Sep 2026 03:02:57 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLXBhc3Nlbmdlci10cmFp",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Passenger train derails in France leaving at least 44 injured",
+          "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e072/live/267036e0-ae24-11f1-9042-891b220b1e31.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 11 Sep 2026 21:25:32 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -5279,22 +5559,6 @@
           ]
         },
         {
-          "id": "dGhlaGluZHUtd2l0aC1leWUt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "With eye on poll, BJP to begin ‘drug-free Punjab’ drive amid row over Dalit villager’s death",
-          "summary": "The campaign comes close on the heels of a row that erupted following the death of a Dalit villager, who was reportedly under pressure to apologise for questioning Finance Minister Harpal Singh Cheema over the supply of ‘chitta (synthetic drugs)’ in the State.",
-          "image_url": "https://th-i.thgim.com/public/incoming/i6bisq/article71457907.ece/alternates/LANDSCAPE_1200/20260902240L.jpg",
-          "article_url": "https://www.thehindu.com/news/national/punjab/with-eye-on-poll-bjp-to-begin-drug-free-punjab-drive-amid-row-over-dalit-villagers-death/article71456181.ece",
-          "published_at": "Sat, 12 Sep 2026 02:42:24 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "ZHctZnJhbmNlOi1tb3JlLXRo",
           "source_id": "dw",
           "source_name": "DW News",
@@ -5308,23 +5572,6 @@
           "published_at": "Fri, 11 Sep 2026 21:01:00 GMT",
           "cross_sections": [
             "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXVzLWxlZ2lz",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "US legislators push AI safety laws amid human extinction warnings",
-          "summary": "Concerns over AI's dangers grow as US legislators introduce bills to ensure human oversight and prevent rogue systems.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/economy/2026/9/11/us-legislators-push-ai-safety-laws-amid-human-extinction-warnings?traffic_source=rss",
-          "published_at": "Fri, 11 Sep 2026 20:59:51 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
           ]
         },
         {
@@ -5361,22 +5608,6 @@
           ]
         },
         {
-          "id": "YXJhYm5ld3Mtd2hhdC13ZS1h",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "What We Are Reading Today: ‘Healing Grounds’ by Liz Carlisle",
-          "summary": "A powerful movement is happening in farming today—farmers are reconnecting with their roots to fight climate change. For one woman, that’s meant learning her tribe’s history to help bring back the buffalo. For another, it’s meant preserving forest purchased by her great-great-uncle, among the first ",
-          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789160145362-b12d570f03428eb3.jpg",
-          "article_url": "https://www.arabnews.com/books-gaming/what-we-are-reading-today-healing-grounds-by-liz-carlisle-3001416",
-          "published_at": "Fri, 11 Sep 2026 20:56:57 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "Y25ldC1hLWJyZWFrdGhyb3Vn",
           "source_id": "cnet",
           "source_name": "CNET",
@@ -5391,296 +5622,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YXJhYm5ld3MtbWV4aWNvLWNh",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Mexico captain Edson Alvarez denies involvement in kidnapping",
-          "summary": "Mexico’s national soccer team captain, Edson Alvarez, has denied allegations of involvement in a kidnapping after accusations were published in a magazine. The claims involve his former father-in-law allegedly orchestrating the abduction.",
-          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789159837934-07006a43daee3d21.jpg",
-          "article_url": "https://www.arabnews.com/football/mexico-captain-edson-alvarez-denies-involvement-in-kidnapping-3001415",
-          "published_at": "Fri, 11 Sep 2026 20:54:54 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iY3RlY2gtZGVsbC1zdG9j",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Dell stock jumps on RBC initiation, now up nearly 350% in 2026",
-          "summary": "Dell sold about $16.4 billion of AI servers in its second quarter, RBC said.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/09/11/dell-stock-rbc-initiation.html",
-          "published_at": "Fri, 11 Sep 2026 20:48:19 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy1kZWxsLXN0b2NrLWp1",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Dell stock jumps on RBC initiation, now up nearly 350% in 2026",
-          "summary": "Dell sold about $16.4 billion of AI servers in its second quarter, RBC said.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/09/11/dell-stock-rbc-initiation.html",
-          "published_at": "Fri, 11 Sep 2026 20:48:19 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUteWVtZW7igJlz",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Yemen’s Houthis seize strategic island at the southern entrance to the Red Sea",
-          "summary": "The Houthis’ biggest territorial gains in years, along the Bab el-Mandeb Strait, could boost Iran’s strategy of driving up world oil and gas prices to pressure the United States.",
-          "image_url": "https://th-i.thgim.com/public/incoming/ebfdf3/article71455927.ece/alternates/LANDSCAPE_1200/Yemen-s-HouthisG2AGH0RKJ.4.jpg.jpg",
-          "article_url": "https://www.thehindu.com/news/international/yemens-houthis-reach-strategic-island-at-mouth-of-vital-shipping-lane/article71455868.ece",
-          "published_at": "Sat, 12 Sep 2026 02:17:46 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1ldXJvcGVhbi10cm9v",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "European Troop Deployment In Ukraine Would Be \"War Against Russia\": Putin",
-          "summary": "Russian President Vladimir Putin warned on Friday that any deployment of European troops to Ukraine would amount to \"a war against Russia\" and said Moscow did not \"pose a threat\"",
-          "image_url": "https://c.ndtvimg.com/2025-12/peue2mig_vladimir-putin-_625x300_05_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/european-troop-deployment-in-ukraine-would-be-war-against-russia-vladimir-putin-12035415#publisher=newsstand",
-          "published_at": "Sat, 12 Sep 2026 02:16:57 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhldmVyZ2UtbGF3eWVyLWZp",
-          "source_id": "theverge",
-          "source_name": "The Verge",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-          "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing t",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25384193/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "article_url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-          "published_at": "2026-09-11T20:44:02.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtZnJlbmNoLWJs",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "French blockade looms over Commission’s plan to fast-track trade deals in English",
-          "summary": "Eager to unlock new markets for EU businesses, the European Commission plans to accelerate trade deal ratification by circulating only English versions for approval by EU governments and the European Parliament – but sources told Euronews that Paris is set to oppose the move if it goes ahead.",
-          "image_url": "https://images.euronews.com/articles/stories/09/67/69/87/696x392_cmsv2_698a3e59-4d80-5151-b177-fa667b168d89-9676987.jpg",
-          "article_url": "https://www.euronews.com/my-europe/2026/09/11/french-blockade-looms-over-commissions-plan-to-fast-track-trade-deals-in-english",
-          "published_at": "Fri, 11 Sep 2026 22:42:29 +0200",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtcHV0aW4tc2F5",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Putin says European troop deployment in Ukraine would be ‘war against Russia’",
-          "summary": "Russian President Vladimir Putin stated that deploying European troops to Ukraine would be equated to declaring war on Russia. He emphasized that Moscow does not pose a threat.",
-          "image_url": "https://assets.maestronewsroom.com/media/shared/wires/ap/20260911/55ff5d69abd9-India_BRICS_32952--12031.jpg",
-          "article_url": "https://www.arabnews.com/world/putin-says-european-troop-deployment-in-ukraine-would-be-war-against-russia-3001413",
-          "published_at": "Fri, 11 Sep 2026 20:38:49 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1maW5hbCwt",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-          "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-          "published_at": "Fri, 11 Sep 2026 20:30:17 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1zYXVkaS1zaHV0cy1k",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Saudi Shuts Down Major Oil Pipeline Amid Fighting With Yemen's Houthis",
-          "summary": "The shutdown comes as Houthi rebels in Yemen have seized coastal territory near the Bab el-Mandeb Strait, threatening Saudi oil exports through a key shipping lanes.",
-          "image_url": "https://c.ndtvimg.com/2026-09/kh111hog_saudi-oil_625x300_12_September_26.jpeg",
-          "article_url": "https://www.ndtv.com/world-news/saudi-shuts-down-major-oil-pipeline-amid-fighting-with-yemens-houthis-12035379#publisher=newsstand",
-          "published_at": "Sat, 12 Sep 2026 01:32:55 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Zm94LWFza2VkLXNpcmktdG8t",
-          "source_id": "fox",
-          "source_name": "Fox News",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Tech",
-          "title": "Asked Siri to call your bank? A scam could cost thousands",
-          "summary": "Asking Siri to call American Express connected an 82-year-old woman to a bogus number that nearly drained $100,000 from her Bank of America account.",
-          "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/siri-bank-call-scam.jpg?ve=1&tl=1",
-          "article_url": "https://www.foxnews.com/tech/asked-siri-call-bank-scam-could-cost-thousands",
-          "published_at": "Fri, 11 Sep 2026 16:00:31 -0400",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LWVtbWEtYm9uaW5vLC1p",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Emma Bonino, Italian Campaigner for Civil Rights, Dies at 78",
-          "summary": "In nearly five decades in politics, Ms. Bonino wielded outsize influence on Italian discourse, helping erode the political sway of the Catholic Church.",
-          "image_url": "https://static01.nyt.com/images/2026/09/14/multimedia/11Italy-Bonino-plwh-print1/11Italy-Bonino-plwh-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/09/11/world/europe/emma-bonino-italian-campaigner-dies.html",
-          "published_at": "Fri, 11 Sep 2026 19:47:07 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1tYW4tc2hvb3RzLW5l",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Man Shoots Neighbour In Leg, Then Dies By Suicide In Delhi: Cops",
-          "summary": "Police said preliminary investigation indicates that Neeraj first fired at Rajwati and subsequently shot himself in the head, resulting in his death at the spot.",
-          "image_url": "https://c.ndtvimg.com/2019-05/fkcrjpmg_delhi-police-generic_625x300_27_May_19.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/delhi-news/man-shoots-neighbour-in-leg-then-dies-by-suicide-in-delhi-cops-12035357#publisher=newsstand",
-          "published_at": "Sat, 12 Sep 2026 01:15:09 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1raW1pLW1h",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-          "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-          "published_at": "Fri, 11 Sep 2026 19:35:54 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtY2hhdGdw",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-          "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-icon-1152x648-1789154124.jpg",
-          "article_url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
-          "published_at": "Fri, 11 Sep 2026 19:34:09 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "dG9pLeKAmGRpZC1hbnlvbmUt",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "‘Did anyone go to jail in Kerala?’ Cong hits back at Omar amid Vande Mataram row",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/did-anyone-go-to-jail-in-kerala-cong-hits-back-at-omar-amid-vande-mataram-row/articleshow/134087507.cms",
-          "published_at": "Sat, 12 Sep 2026 00:55:26 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25ldC1oYXZlLXlvdS1wcm90",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Have You Protested AI Recently? Anthropic May Be Watching You for Precrimes",
-          "summary": "A recent report alleges Anthropic is finding ways to monitor activists and surveil dissent.",
-          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2293903833.jpg",
-          "article_url": "https://www.cnet.com/tech/services-and-software/have-you-protested-ai-recently-anthropic-may-be-watching-you-for-precrimes/",
-          "published_at": "2026-09-11T19:22:09.000Z",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "d2lyZWQtdGhlLXVzLWdvdmVy",
-          "source_id": "wired",
-          "source_name": "Wired",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "The US Government Launched 3 Previously Unreported Investigations of Polymarket Trades",
-          "summary": "The agency that oversees prediction markets has investigated Polymarket trades on Biden pardons and the Iran war—and even more potential insider trading at Google, documents obtained by WIRED show.",
-          "image_url": "https://media.wired.com/photos/6aa423dcb30233b4abc2d13c/master/pass/Business_US%20Government%20Looked%20Into%20Insider%20Trading%20Allegations%20Over%20Biden%20Pardons%20on%20Polymarket_v1.jpg",
-          "article_url": "https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/",
-          "published_at": "Fri, 11 Sep 2026 19:21:34 +0000",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -5688,42 +5629,7 @@
       "id": "jobcuts",
       "name": "Global Job Cuts",
       "icon": "📉",
-      "articles": [
-        {
-          "id": "ZXVyb25ld3MtYW50aHJvcGlj",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Business",
-          "title": "Anthropic says AI could bring both 15% growth and mass unemployment by 2030",
-          "summary": "Anthropic has published an economic model projecting how AI might reshape the US economy by 2030, and its three scenarios range from barely perceptible to a boom with no historical precedent, including one in which GDP grows 15% a year while nearly a fifth of office workers are out of a job.",
-          "image_url": "https://images.euronews.com/articles/stories/09/90/84/10/696x392_cmsv2_04ccd0f6-e2ba-5297-9b71-59b053735c93-9908410.jpg",
-          "article_url": "https://www.euronews.com/business/2026/09/11/anthropic-says-ai-could-bring-both-15-growth-and-mass-unemployment-by-2030",
-          "published_at": "Fri, 11 Sep 2026 07:00:23 +0200",
-          "cross_sections": [
-            "tech",
-            "jobcuts",
-            "ai"
-          ]
-        },
-        {
-          "id": "Z3VhcmRpYW4tZWxlY3Ryb25p",
-          "source_id": "guardian",
-          "source_name": "The Guardian",
-          "source_region": "Europe",
-          "source_category": "Newspaper",
-          "feed_label": "Business",
-          "title": "Electronic shelf labels likely to cost jobs and drive up grocery prices, US report warns",
-          "summary": "AFL-CIO calls for ban on such labels to protect consumers and workers from surveillance pricing and job cuts\nThe universal adoption of electronic shelf labels in grocery stores across the US could cost tens of thousands of jobs and billions of dollars in lost wages while further driving up grocery c",
-          "image_url": "https://i.guim.co.uk/img/media/84db52e3bd4c7e10da78a8eeaa51b4462b587fda/333_0_3334_2667/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=7ff8effcb194c105f932eff5874c25bf",
-          "article_url": "https://www.theguardian.com/us-news/2026/sep/09/electronic-shelf-labels-grocery",
-          "published_at": "Wed, 09 Sep 2026 11:00:07 GMT",
-          "cross_sections": [
-            "jobcuts"
-          ]
-        }
-      ]
+      "articles": []
     },
     {
       "id": "ai",
@@ -5731,17 +5637,34 @@
       "icon": "🤖",
       "articles": [
         {
-          "id": "YWxqYXplZXJhLXVzLWxlZ2lz",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "US legislators push AI safety laws amid human extinction warnings",
-          "summary": "Concerns over AI's dangers grow as US legislators introduce bills to ensure human oversight and prevent rogue systems.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/economy/2026/9/11/us-legislators-push-ai-safety-laws-amid-human-extinction-warnings?traffic_source=rss",
-          "published_at": "Fri, 11 Sep 2026 20:59:51 +0000",
+          "id": "Y2lvLWhvdy10by1tYWtlLXlv",
+          "source_id": "cio",
+          "source_name": "CIO.com",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "How to make your business top of mind for AI search engines",
+          "summary": "AI is quickly replacing traditional online search as the front door to finding a business. I recently heard a story about a car shopper who drove miles out of her way to visit a specific dealership, bypassing many car lots much closer to home. Why? Because she searched car dealerships with ChatGPT a",
+          "image_url": "https://www.cio.com/wp-content/uploads/2026/09/4221309-0-54836300-1789173516-Anu-copy.jpg?quality=50&strip=all",
+          "article_url": "https://www.cio.com/article/4221309/how-to-make-your-business-top-of-mind-for-ai-search-engines.html",
+          "published_at": "Sat, 12 Sep 2026 00:38:22 +0000",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "Z3VhcmRpYW4tYWktYWdlbnRz",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "AI agents OpenAI was testing uploaded malicious software to another service, say researchers",
+          "summary": "Two months before hacking Hugging Face, malicious packages authored by internal OpenAI agents were uploaded to RubyGems\nAI agents being ⁠tested by OpenAI uploaded hundreds of malicious packages to software service RubyGems ⁠in May, two ⁠months ​before they hacked open-source platform Hugging Face, a",
+          "image_url": "https://i.guim.co.uk/img/media/65486c2e45ba4ef565230ab1fceaa0e07eedff11/331_0_5136_4109/master/5136.jpg?width=140&quality=85&auto=format&fit=max&s=506207a5edcc635293e92a29e3466b72",
+          "article_url": "https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages",
+          "published_at": "Fri, 11 Sep 2026 23:56:19 GMT",
           "cross_sections": [
             "tech",
             "ai"
@@ -5761,22 +5684,6 @@
           "published_at": "Fri, 11 Sep 2026 20:57:36 +0000",
           "cross_sections": [
             "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXVzLWxhd3ll",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "US lawyer cites fake witnesses in murder case, blames ChatGPT",
-          "summary": "State supreme court fined the attorney and held him in contempt for not verifying facts in a court filing.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/economy/2026/9/11/us-lawyer-cites-fake-witnesses-in-murder-case-blames-chatgpt?traffic_source=rss",
-          "published_at": "Fri, 11 Sep 2026 20:42:05 +0000",
-          "cross_sections": [
             "ai"
           ]
         },
@@ -5860,23 +5767,6 @@
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Project-Jupiter-data-center-construction-July-2026-1152x648.png",
           "article_url": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
           "published_at": "Fri, 11 Sep 2026 18:22:22 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "Z3VhcmRpYW4tbmV3LW1leGlj",
-          "source_id": "guardian",
-          "source_name": "The Guardian",
-          "source_region": "Europe",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "New Mexico lawyer fined for using AI-generated brief containing fabricated testimony",
-          "summary": "Stephen Aarons said he tried to use ChatGPT to create a ‘bulletproof summary’ during a murder conviction appeal\nA defense lawyer appealing his client’s murder conviction submitted a legal brief containing ⁠made-up police testimony and ⁠witnesses fabricated by OpenAI’s ChatGPT, ​New Mexico’s highest ",
-          "image_url": "https://i.guim.co.uk/img/media/372f56916f0dae58bb508ebabb72e6037a90f7b4/336_0_3360_2688/master/3360.jpg?width=140&quality=85&auto=format&fit=max&s=e0d0bfe5daa05172d576ccc02bb14e6a",
-          "article_url": "https://www.theguardian.com/technology/2026/sep/11/new-mexico-lawyer-ai-chatgpt-testimony",
-          "published_at": "Fri, 11 Sep 2026 18:04:05 GMT",
           "cross_sections": [
             "tech",
             "ai"
@@ -6019,23 +5909,6 @@
           ]
         },
         {
-          "id": "YXJzdGVjaG5pY2EtY2xhdWRl",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Claude users found ways around safeguards for bioweapons research",
-          "summary": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
-          "article_url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
-          "published_at": "Fri, 11 Sep 2026 13:02:35 +0000",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
           "id": "dGhlaGluZHUtYW50aHJvcGlj",
           "source_id": "thehindu",
           "source_name": "The Hindu",
@@ -6159,7 +6032,7 @@
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "World",
+          "feed_label": "Technology",
           "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
           "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/090c/live/88ca35f0-ad6d-11f1-8edd-ada2fcb84b27.jpg",
@@ -6222,20 +6095,19 @@
           ]
         },
         {
-          "id": "ZXVyb25ld3MtYW50aHJvcGlj",
-          "source_id": "euronews",
-          "source_name": "Euronews",
+          "id": "Z3VhcmRpYW4tYW50aHJvcGlj",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
           "source_region": "Europe",
-          "source_category": "Broadcaster",
+          "source_category": "Newspaper",
           "feed_label": "Business",
-          "title": "Anthropic says AI could bring both 15% growth and mass unemployment by 2030",
-          "summary": "Anthropic has published an economic model projecting how AI might reshape the US economy by 2030, and its three scenarios range from barely perceptible to a boom with no historical precedent, including one in which GDP grows 15% a year while nearly a fifth of office workers are out of a job.",
-          "image_url": "https://images.euronews.com/articles/stories/09/90/84/10/696x392_cmsv2_04ccd0f6-e2ba-5297-9b71-59b053735c93-9908410.jpg",
-          "article_url": "https://www.euronews.com/business/2026/09/11/anthropic-says-ai-could-bring-both-15-growth-and-mass-unemployment-by-2030",
-          "published_at": "Fri, 11 Sep 2026 07:00:23 +0200",
+          "title": "Anthropic details bad actors’ efforts to misuse its AI for bioweapons",
+          "summary": "Report comes two days after former employee quit claiming company’s models could cause human extinction by 2030\nCriminals, state-sponsored groups, spyware vendors, scientists and propagandists have attempted to use Anthropic’s powerful artificial intelligence models to design missiles and bombs, cre",
+          "image_url": "https://i.guim.co.uk/img/media/669e81c2e20fc883dc97a399383133eda3d573e9/585_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=8b4961fef9e03a563209c452a1d5a19c",
+          "article_url": "https://www.theguardian.com/technology/2026/sep/10/anthropic-report-details-ai-misuse",
+          "published_at": "Thu, 10 Sep 2026 22:35:16 GMT",
           "cross_sections": [
             "tech",
-            "jobcuts",
             "ai"
           ]
         },
@@ -6344,7 +6216,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 10464,
+    "build_ms": 11274,
     "ai_enabled": true
   }
 }
