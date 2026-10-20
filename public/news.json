@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-19T23:11:09.152Z",
-  "total_articles": 292,
-  "new_this_run": 74,
+  "last_updated": "2026-10-20T01:46:57.338Z",
+  "total_articles": 296,
+  "new_this_run": 71,
   "sources": [
     {
       "id": "techcrunch",
@@ -10,6 +10,38 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "dGVjaGNydW5jaC1tYW1kYW5p",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+          "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+          "published_at": "Tue, 20 Oct 2026 01:27:03 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGVjaGNydW5jaC1uc2NhbGUt",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+          "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+          "published_at": "Mon, 19 Oct 2026 23:39:38 +0000",
+          "cross_sections": [
+            "ai"
+          ]
+        },
+        {
           "id": "dGVjaGNydW5jaC1lbWJlZGRl",
           "source_id": "techcrunch",
           "source_name": "TechCrunch",
@@ -17,7 +49,7 @@
           "source_category": "Tech Media",
           "feed_label": "Latest",
           "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-          "summary": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, H",
+          "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
           "published_at": "Mon, 19 Oct 2026 22:49:27 +0000",
@@ -33,7 +65,7 @@
           "source_category": "Tech Media",
           "feed_label": "Latest",
           "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-          "summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+          "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
           "published_at": "Mon, 19 Oct 2026 22:04:28 +0000",
@@ -103,38 +135,6 @@
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
           "published_at": "Mon, 19 Oct 2026 18:49:04 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC10ZW5zdG9y",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-          "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-          "published_at": "Mon, 19 Oct 2026 18:37:27 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1haS1hc3Np",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
-          "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
-          "published_at": "Mon, 19 Oct 2026 18:00:39 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -409,6 +409,20 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "YXJzdGVjaG5pY2EtcGVubnN5",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
+          "summary": "Congenital measles can be fatal, and survivors require monitoring for years.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-509481102-scaled-1152x648-1729196833.jpg",
+          "article_url": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
+          "published_at": "Mon, 19 Oct 2026 22:44:26 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "YXJzdGVjaG5pY2EtcnVzc2lh",
           "source_id": "arstechnica",
           "source_name": "Ars Technica",
@@ -518,20 +532,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtZmxvcmlk",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Florida DMV hacked after police dept insecurely stored login info",
-          "summary": "Florida issues alerts after statewide DMV data breach linked to ShinyHunters.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1384284626-1152x648.jpg",
-          "article_url": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
-          "published_at": "Mon, 19 Oct 2026 16:38:13 +0000",
-          "cross_sections": []
         }
       ]
     },
@@ -678,6 +678,34 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "Y25ldC10b2RheeKAmXMtbnl0",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Today’s NYT Connections: Sports Edition Hints and Answers for Oct. 20 #757",
+          "summary": "Need a Connections: Sports Edition hint today? Get a hint for each color group in NYT Connections: Sports Edition No. 757 on Tuesday, Oct. 20, then all four answers.",
+          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Sports-Connections-main-art.webp",
+          "article_url": "https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-20-757/",
+          "published_at": "2026-10-20T00:40:15.000Z",
+          "cross_sections": []
+        },
+        {
+          "id": "Y25ldC1zZW5pb3JzLWxvc2Ut",
+          "source_id": "cnet",
+          "source_name": "CNET",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Seniors Lose More Money to Investment Scams Than Any Other Fraud",
+          "summary": "Around $3 billion was lost in 2025 to fraud from people aged 60 and over in the US.",
+          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/two-grim-seniors-at-computer-GettyImages-2281750976.jpg",
+          "article_url": "https://www.cnet.com/tech/services-and-software/seniors-lose-money-to-investment-scams-ftc-report/",
+          "published_at": "2026-10-20T00:25:15.000Z",
+          "cross_sections": []
+        },
+        {
           "id": "Y25ldC1tZXRhLWJsYW1lcy1i",
           "source_id": "cnet",
           "source_name": "CNET",
@@ -708,22 +736,6 @@
           "cross_sections": []
         },
         {
-          "id": "Y25ldC1hcHBsZS1zZW5kcy1p",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Apple Sends Invites Out for ‘Pro and Tell’ Special Event on Oct. 28",
-          "summary": "We could see new Macs and iPads at the event.",
-          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/image-8-4.png",
-          "article_url": "https://www.cnet.com/tech/computing/apple-invite-pro-and-tell-special-event-oct-28-ipad-macbook/",
-          "published_at": "2026-10-19T16:52:43.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "Y25ldC1tYXBxdWVzdC1hcHAt",
           "source_id": "cnet",
           "source_name": "CNET",
@@ -751,22 +763,6 @@
           "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/DSC0909.jpg",
           "article_url": "https://www.cnet.com/home/smart-home/apple-homeview-hands-on/",
           "published_at": "2026-10-14T12:03:00.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25ldC1pb3MtMjcuMi1jb3Vs",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "iOS 27.2 Could Bring These Features to Your iPhone Soon",
-          "summary": "The release candidate brings Siri AI to more languages and updates a few apps, like FaceTime and Podcasts.",
-          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/cnet-ios27-7.jpg",
-          "article_url": "https://www.cnet.com/tech/services-and-software/apple-iphone-ios-27-2/",
-          "published_at": "2026-09-16T22:14:43.000Z",
           "cross_sections": [
             "tech"
           ]
@@ -1303,6 +1299,36 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "bnl0LXRydW1wLXJhbGxpZXMt",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Trump Rallies Red States Amid Fears About G.O.P. Voter Enthusiasm as Midterms Near",
+          "summary": "The president’s swing is taking him to states including South Carolina and Kansas that were not seen as competitive just a few months ago.",
+          "image_url": "https://static01.nyt.com/images/2026/10/19/multimedia/19pol-trump-travel-01-hmfq/19pol-trump-travel-01-hmfq-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/10/19/us/politics/trump-midterm-rally-red-states.html",
+          "published_at": "Tue, 20 Oct 2026 01:22:57 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "bnl0LXRydW1wLWdvbGYtY291",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Trump Golf Course Dispute Sparks Clash Between Judge and DOJ",
+          "summary": "Government attorneys sparred with Judge Ana C. Reyes over testimony by several government witnesses about the chain of decisions surrounding East Potomac Golf Links.",
+          "image_url": "https://static01.nyt.com/images/2026/10/19/multimedia/19dc-golf-lpbk/19dc-golf-lpbk-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/10/19/us/politics/trump-washington-golf-course.html",
+          "published_at": "Mon, 19 Oct 2026 23:24:54 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "bnl0LXRoZS1mcmVuY2gtdGVl",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1364,22 +1390,6 @@
           "cross_sections": []
         },
         {
-          "id": "bnl0LXRydW1wLWdvbGYtY291",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Trump Golf Course Dispute Sparks Clash Between Judge and DOJ",
-          "summary": "Government attorneys sparred with Judge Ana C. Reyes over testimony by several government witnesses about the chain of decisions surrounding East Potomac Golf Links.",
-          "image_url": "https://static01.nyt.com/images/2026/10/19/multimedia/19dc-golf-lpbk/19dc-golf-lpbk-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/10/19/us/politics/trump-washington-golf-course.html",
-          "published_at": "Mon, 19 Oct 2026 21:47:53 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bnl0LXNhdWRpcy1haWRlZC1m",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1395,20 +1405,6 @@
             "tech",
             "ai"
           ]
-        },
-        {
-          "id": "bnl0LXRydW1wLXJhbGxpZXMt",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Trump Rallies Red States Amid Fears About G.O.P. Voter Enthusiasm as Midterms Near",
-          "summary": "The president’s swing is taking him to states including South Carolina and Kansas that were not seen as competitive just a few months ago.",
-          "image_url": "https://static01.nyt.com/images/2026/10/19/multimedia/19pol-trump-travel-01-hmfq/19pol-trump-travel-01-hmfq-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/10/19/us/politics/trump-midterm-rally-red-states.html",
-          "published_at": "Mon, 19 Oct 2026 21:04:40 +0000",
-          "cross_sections": []
         },
         {
           "id": "bnl0LXJlcHVibGljYW5zLWJh",
@@ -1642,7 +1638,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-10-19T23:10:59.303Z",
+          "published_at": "2026-10-20T01:46:49.289Z",
           "cross_sections": []
         },
         {
@@ -1656,7 +1652,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-10-19T23:10:59.303Z",
+          "published_at": "2026-10-20T01:46:49.289Z",
           "cross_sections": []
         },
         {
@@ -1670,7 +1666,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-10-19T23:10:59.302Z",
+          "published_at": "2026-10-20T01:46:49.288Z",
           "cross_sections": []
         },
         {
@@ -1982,20 +1978,50 @@
       "category": "Broadcaster",
       "articles": [
         {
-          "id": "Y25iYy1nb29nbGUtc2F5cy1p",
+          "id": "Y25iYy10b3AtdmVudHVyZS1j",
           "source_id": "cnbc",
           "source_name": "CNBC",
           "source_region": "North America",
           "source_category": "Broadcaster",
           "feed_label": "Top News",
-          "title": "Google says it can build data centers the right way. Some experts and residents are skeptical",
-          "summary": "Google says its Minnesota AI data center will add clean energy to the grid and protect ratepayers. Experts question whether grid upgrades are needed.",
+          "title": "Top venture capitalist Jenny Lee says Asian startups are speeding toward IPOs",
+          "summary": "The timeline for startups to do initial public offerings has accelerated, according to Granite Asia's Jenny Lee",
           "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
-          "published_at": "Mon, 19 Oct 2026 21:05:20 GMT",
+          "article_url": "https://www.cnbc.com/2026/10/20/venture-capital-jenny-lee-granite-asia-startups.html",
+          "published_at": "Tue, 20 Oct 2026 01:38:41 GMT",
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "Y25iYy10aHJlZS1iaWctdGFr",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Three big takeaways from the IMF-World Bank meetings",
+          "summary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
+          "published_at": "Tue, 20 Oct 2026 00:33:34 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iYy1jbmJjJ3MtdGhlLWNo",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "CNBC's The China Connection newsletter: Navigating a tech-heavy world",
+          "summary": "While economists and former central bankers discuss tech and monetary policy at the Bund Summit, companies are moving faster to capture new revenue.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/10/19/cnbcs-the-china-connection-newsletter-navigating-a-tech-heavy-world.html",
+          "published_at": "Mon, 19 Oct 2026 23:00:02 GMT",
+          "cross_sections": []
         },
         {
           "id": "Y25iYy10cnVtcC1zYXlzLWhl",
@@ -2009,22 +2035,6 @@
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html",
           "published_at": "Mon, 19 Oct 2026 21:00:02 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy10ZWNoLXN0b2Nrcy1o",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real",
-          "summary": "Investors are hopeful that last week's pullback was a clearing event for equities, but lingering concerns remain.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html",
-          "published_at": "Mon, 19 Oct 2026 20:57:14 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -2063,36 +2073,18 @@
           ]
         },
         {
-          "id": "Y25iYy1zYXVkaS1hcmFiaWEt",
+          "id": "Y25iYy1jcnVzaGVkLXRlY2gt",
           "source_id": "cnbc",
           "source_name": "CNBC",
           "source_region": "North America",
           "source_category": "Broadcaster",
           "feed_label": "Top News",
-          "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
-          "summary": "Iran-backed Houthi militants have launched repeated volleys of missiles and drones at Saudi Arabia since a deadly airport attack earlier this month.",
+          "title": "Crushed tech stocks bounce — plus, new doctor survey keeps us positive on Lilly",
+          "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
           "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
-          "published_at": "Mon, 19 Oct 2026 19:37:51 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy1lbG9uLW11c2stc2F5",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Elon Musk says he'll give a SpaceX share to every child in America next year",
-          "summary": "The SpaceX boss said Monday that he'll give one of his company shares to every child in the U.S. next year. He didn't say how the share giveaway would happen.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
-          "published_at": "Mon, 19 Oct 2026 16:58:20 GMT",
-          "cross_sections": [
-            "tech"
-          ]
+          "article_url": "https://www.cnbc.com/investingclub/2026/10/19/crushed-tech-stocks-bounce-new-doctor-survey-keeps-us-positive-on-lilly.html",
+          "published_at": "Mon, 19 Oct 2026 19:13:00 GMT",
+          "cross_sections": []
         },
         {
           "id": "Y25iYy1hbnRocm9waWMtaXMt",
@@ -2203,20 +2195,6 @@
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/10/15/harvards-endowment-jumps-27percent-with-spacex-as-top-holding.html",
           "published_at": "Thu, 15 Oct 2026 19:53:49 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "Y25iYy1jaGluYS1pbmRpY2F0",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
-          "summary": "European trade commissioner Maroš Sefčovič met with Chinese Commerce Minister Wang Wentao in Beijing last week.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
-          "published_at": "Thu, 15 Oct 2026 09:02:31 GMT",
           "cross_sections": []
         }
       ]
@@ -2480,6 +2458,68 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YmJjLWNoYW5jZWxsb3ItcmVq",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+          "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e7/live/6cd357a0-cc17-11f1-b7d0-7f346cefa9a9.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 20 Oct 2026 01:31:09 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLXVzLWNodXJjaC1vbi1m",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "US church on frontline of battle against drug known as 'tranq'",
+          "summary": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/483d/live/f2db5f30-cbdd-11f1-9a39-31b474234113.jpg",
+          "article_url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 20 Oct 2026 00:02:32 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLWNyaW1pbmFscy1kZXRh",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Criminals detained in hospital set to lose benefits",
+          "summary": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afb8/live/3a87a300-cbdb-11f1-bc2e-018d645d8d21.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 19 Oct 2026 23:21:38 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLWZpdmUtd2F5cy1lbC1u",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Five ways El Niño is affecting the weather around the world",
+          "summary": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be75/live/52212cf0-b73d-11f1-aa9c-3d062fa3aea7.jpg",
+          "article_url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 19 Oct 2026 23:08:25 GMT",
+          "cross_sections": []
+        },
+        {
           "id": "YmJjLXdhdGNoOi1jbGVhbi11",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2518,7 +2558,7 @@
           "feed_label": "Top Stories",
           "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
           "summary": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d92/live/581e2ba0-cbfe-11f1-a0c1-e5a096ec3cfb.jpg",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4a4/live/f9b4b1d0-cc1e-11f1-94fe-b94794c2a157.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 19 Oct 2026 21:14:53 GMT",
           "cross_sections": []
@@ -2538,22 +2578,6 @@
           "cross_sections": [
             "tech",
             "ai"
-          ]
-        },
-        {
-          "id": "YmJjLXVzLWNodXJjaC1vbi1m",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "US Church on frontline of battle against drug known as 'tranq'",
-          "summary": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/483d/live/f2db5f30-cbdd-11f1-9a39-31b474234113.jpg",
-          "article_url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 19 Oct 2026 21:05:54 GMT",
-          "cross_sections": [
-            "tech"
           ]
         },
         {
@@ -2581,26 +2605,12 @@
           "feed_label": "Top Stories",
           "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
           "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a726/live/cb93b2c0-cbf0-11f1-9a39-31b474234113.png",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd6e/live/09c582e0-cc13-11f1-b0fa-5b9abd1bf87b.png",
           "article_url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 19 Oct 2026 20:49:00 GMT",
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "YmJjLW1pc3Npb24tYmxhc3Rz",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Mission blasts off for Mars to grab a piece of its moon",
-          "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f0e/live/0a4e2af0-cbff-11f1-bc2e-018d645d8d21.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 19 Oct 2026 19:45:46 GMT",
-          "cross_sections": []
         },
         {
           "id": "YmJjLXdvbWFuLXNheXMtc2hl",
@@ -2639,7 +2649,7 @@
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
           "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d07e/live/02bf88b0-cbd7-11f1-bc2e-018d645d8d21.jpg",
@@ -2661,22 +2671,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9320/live/759508d0-cbd5-11f1-aba9-2bb2608f11d9.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 19 Oct 2026 16:20:51 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YmJjLXVzLWFpcm1hbi1kaWVz",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
-          "summary": "The game continued after the incident. The American Conference said the decision was made before his death was known.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d94/live/b7ee0580-cbd8-11f1-b139-f77a8b036d06.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 19 Oct 2026 14:13:18 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -2831,79 +2825,17 @@
           ]
         },
         {
-          "id": "Z3VhcmRpYW4tYnVybmhhbS11",
+          "id": "Z3VhcmRpYW4tY2hyaXN0aWFu",
           "source_id": "guardian",
           "source_name": "The Guardian",
           "source_region": "Europe",
           "source_category": "Newspaper",
           "feed_label": "Business",
-          "title": "Burnham urges officials to come up with more radical options for Thames Water",
-          "summary": "Exclusive: Utility seen as ‘litmus test’ of PM’s promise to bring ‘essentials of life’ under public control\nAndy Burnham has told officials to rip up their plans for how to fix Thames Water and present him with more radical options for what to do with the stricken company.\nIn an early test of his pr",
-          "image_url": "https://i.guim.co.uk/img/media/9910423652da5401c9097985111b82459db949cd/641_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=0228071c7edd2bcb94bf8e02be728881",
-          "article_url": "https://www.theguardian.com/politics/2026/oct/19/burnham-urges-officials-radical-options-thames-water-public-control",
-          "published_at": "Mon, 19 Oct 2026 18:37:14 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "Z3VhcmRpYW4tbm9ydGgtc2Vh",
-          "source_id": "guardian",
-          "source_name": "The Guardian",
-          "source_region": "Europe",
-          "source_category": "Newspaper",
-          "feed_label": "Business",
-          "title": "North Sea strikes could severely disrupt UK fuel supplies, union warns",
-          "summary": "More than ⁠160 ​offshore rig workers plan walkout amid rising tensions between unions and oil companies \nNorth Sea workers are preparing to strike at oil rigs across the ageing basin over the coming weeks in a sign of growing tensions between trade unions and oil companies.\nThe Unite union said on ⁠",
-          "image_url": "https://i.guim.co.uk/img/media/1239787bd1d8654b418e992cfad2138f25578955/483_16_3154_2523/master/3154.jpg?width=140&quality=85&auto=format&fit=max&s=c1e469aec0f27caef63375fe8cc7b8d9",
-          "article_url": "https://www.theguardian.com/uk-news/2026/oct/19/north-sea-strikes-could-severely-disrupt-uk-fuel-supplies-union-warns",
-          "published_at": "Mon, 19 Oct 2026 17:39:13 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Z3VhcmRpYW4tb2Zjb20taW52",
-          "source_id": "guardian",
-          "source_name": "The Guardian",
-          "source_region": "Europe",
-          "source_category": "Newspaper",
-          "feed_label": "Business",
-          "title": "Ofcom investigates Huw Edwards complaint over Channel 5 drama",
-          "summary": "Former BBC presenter says programme starring Martin Clunes gave a misleading and unfair account of his downfall\nBritain’s media regulator is investigating a complaint from the former BBC news presenter Huw Edwards about a Channel 5 drama depicting his downfall.\nOfcom said it was investigating Power:",
-          "image_url": "https://i.guim.co.uk/img/media/fa672f760a9aa41e4f0d81264594d142e998a364/149_0_1669_1335/master/1669.jpg?width=140&quality=85&auto=format&fit=max&s=58e0293a41538b64a36b9a888e82c7d0",
-          "article_url": "https://www.theguardian.com/media/2026/oct/19/ofcom-investigates-huw-edwards-complaint-over-channel-5-drama",
-          "published_at": "Mon, 19 Oct 2026 16:31:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Z3VhcmRpYW4tbWFzdHMtcmVt",
-          "source_id": "guardian",
-          "source_name": "The Guardian",
-          "source_region": "Europe",
-          "source_category": "Newspaper",
-          "feed_label": "Business",
-          "title": "Masts removed from bomb-laden WWII ship in Thames in bid to avoid explosion",
-          "summary": "American warship sank in 1944 with approximately 1,400 tonnes of munitions onboard\nA sunken US wartime ship in the Thames estuary holding enough unexploded bombs to devastate a Kent coastal town and send a tidal wave through London has been made slightly safer, ministers have announced.\nEngineers ha",
-          "image_url": "https://i.guim.co.uk/img/media/9b40c633415eabed7b6733d3b33bb2abceeec897/63_0_1978_1583/master/1978.jpg?width=140&quality=85&auto=format&fit=max&s=d0f5db1ed7373e8b84ea283562a146df",
-          "article_url": "https://www.theguardian.com/uk-news/2026/oct/19/us-wwii-ship-richard-montgomery-thames-bombs-prevent-explosion",
-          "published_at": "Mon, 19 Oct 2026 16:21:06 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Z3VhcmRpYW4t4oCYY29uY2Vy",
-          "source_id": "guardian",
-          "source_name": "The Guardian",
-          "source_region": "Europe",
-          "source_category": "Newspaper",
-          "feed_label": "Business",
-          "title": "‘Concerning issues’ found at GB power grid by inquiry into cover-up claims",
-          "summary": "Neso control room staff accused senior executives of covering up extent of blackout risks during June heatwave\nIndependent investigators have found significant and concerning “cultural issues” at Great Britain’s grid operator after control room staff accused senior executives of covering up the exte",
-          "image_url": "https://i.guim.co.uk/img/media/606cbf67ba4abc226762ec7a63182397893ee6a0/303_0_4393_3515/master/4393.jpg?width=140&quality=85&auto=format&fit=max&s=ec12a4ff0a35ab6855b0a85c10e9cc12",
-          "article_url": "https://www.theguardian.com/business/2026/oct/19/concerning-issues-found-at-gb-power-grid-by-inquiry-into-cover-up-claims",
-          "published_at": "Mon, 19 Oct 2026 16:14:47 GMT",
+          "title": "Christiane Amanpour announces she’s leaving CNN after 43 years",
+          "summary": "Anchor’s departure not thought to be linked to company’s recent acquisition by David Ellison’s Skydance Media\nChristiane Amanpour, one of CNN’s most decorated and venerated journalists, is leaving the network after 43 years, she said in a statement on Monday.\nAmanpour, who began working for the then",
+          "image_url": "https://i.guim.co.uk/img/media/b406b3723fac75582a4c6440ec2df4a8cded91b3/268_0_3861_3088/master/3861.jpg?width=140&quality=85&auto=format&fit=max&s=f48a69437ddafd14b2a198112e4e17e2",
+          "article_url": "https://www.theguardian.com/media/2026/oct/19/christiane-amanpour-leaving-cnn",
+          "published_at": "Mon, 19 Oct 2026 17:21:59 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -2921,36 +2853,6 @@
           "article_url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
           "published_at": "Mon, 19 Oct 2026 16:08:14 GMT",
           "cross_sections": []
-        },
-        {
-          "id": "Z3VhcmRpYW4tZnJhbmNlLWhp",
-          "source_id": "guardian",
-          "source_name": "The Guardian",
-          "source_region": "Europe",
-          "source_category": "Newspaper",
-          "feed_label": "Business",
-          "title": "France hit by debt sell-off as violent protests unnerve investors",
-          "summary": "Difference between French and German borrowing costs widens after public buildings burned and shops looted\nFrance has been hit by a fresh wave of selling in its bond and stock markets after violent protests over the weekend led to thousands of arrests and left public buildings burned and hundreds of",
-          "image_url": "https://i.guim.co.uk/img/media/ff2dc74cc6caff96ab8cb23e046cdf2ad57f24bc/404_72_1229_983/master/1229.jpg?width=140&quality=85&auto=format&fit=max&s=3167ef4b892b87cebb6ae8c3258006bb",
-          "article_url": "https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors",
-          "published_at": "Mon, 19 Oct 2026 15:23:54 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "Z3VhcmRpYW4tYmFuay1vZi1l",
-          "source_id": "guardian",
-          "source_name": "The Guardian",
-          "source_region": "Europe",
-          "source_category": "Newspaper",
-          "feed_label": "Business",
-          "title": "Bank of England said to be reviewing Barclays’ handling of private credit loans",
-          "summary": "Concerns financial contracts known as derivatives were incorrectly logged, potentially boosting Barclays’ profits\nThe Bank of England is reportedly looking into Barclays’ handling of loans linked to the embattled private credit sector.\nThe Bank’s regulatory arm, the Prudential Regulation Authority (",
-          "image_url": "https://i.guim.co.uk/img/media/67db87d9300449cbcced86676e3c47bd4f75f5bd/431_0_2900_2321/master/2900.jpg?width=140&quality=85&auto=format&fit=max&s=83a3557b3e25f6b85d10bd0be0234a10",
-          "article_url": "https://www.theguardian.com/business/2026/oct/19/bank-of-england-said-to-be-reviewing-barclays-handling-of-private-credit-loans",
-          "published_at": "Mon, 19 Oct 2026 15:16:37 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         },
         {
           "id": "Z3VhcmRpYW4tZHJvbmUtYXR0",
@@ -3002,6 +2904,22 @@
           ]
         },
         {
+          "id": "Z3VhcmRpYW4taGVsbG9mcmVz",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
+          "source_category": "Newspaper",
+          "feed_label": "Business",
+          "title": "HelloFresh workers claim physical abuse and denied bathroom breaks in class-action suit",
+          "summary": "The meal kit delivery service denies the allegations, saying it found claims to be ‘entirely without merit’\nWorkers at a HelloFresh facility in Newark, New Jersey, have claimed in court documents that they were verbally and physically abused and denied regular bathroom breaks, with one former worker",
+          "image_url": "https://i.guim.co.uk/img/media/0552c296f7bf3a94eaffdf63946659ebf425abc4/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=7cd11514cc52d1e8c59f3c92c250e080",
+          "article_url": "https://www.theguardian.com/business/2026/oct/19/hellofresh-abuse-lawsuit",
+          "published_at": "Mon, 19 Oct 2026 11:00:55 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "Z3VhcmRpYW4taHVycmljYW5l",
           "source_id": "guardian",
           "source_name": "The Guardian",
@@ -3034,18 +2952,20 @@
           ]
         },
         {
-          "id": "Z3VhcmRpYW4tbW9yZS10aGFu",
+          "id": "Z3VhcmRpYW4tY2hpbmHigJlz",
           "source_id": "guardian",
           "source_name": "The Guardian",
           "source_region": "Europe",
           "source_category": "Newspaper",
           "feed_label": "Business",
-          "title": "More than half of UK first-time buyers paying more for mortgage than they did for rent",
-          "summary": "Hamptons says figure of 56% is highest in at least a decade, with mortgage rates rising since start of Iran war\nA majority of first-time UK buyers now pay more towards their monthly mortgage bills than they used to pay in rent, the estate agent Hamptons has found.\nLast month 56% of first-time buyers",
-          "image_url": "https://i.guim.co.uk/img/media/052beff0318e5412b88e4776329248d1617f4d1b/100_37_4490_3591/master/4490.jpg?width=140&quality=85&auto=format&fit=max&s=1ade78f485452feaf5874fd7c34ad4ae",
-          "article_url": "https://www.theguardian.com/money/2026/oct/19/uk-first-time-buyers-paying-more-mortgage-rent",
-          "published_at": "Mon, 19 Oct 2026 09:10:41 GMT",
-          "cross_sections": []
+          "title": "China’s economy grows faster than forecast after AI boom boosts exports",
+          "summary": "Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demand\nRoaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending.\nChina’s GDP grew by 4.5% year-on-year between Ju",
+          "image_url": "https://i.guim.co.uk/img/media/892bb878342a5fcbb68c7a85fb2b553e42c94669/495_0_4953_3962/master/4953.jpg?width=140&quality=85&auto=format&fit=max&s=ff640566f6eec2c8677076e94db84d22",
+          "article_url": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports",
+          "published_at": "Mon, 19 Oct 2026 09:27:04 GMT",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
           "id": "Z3VhcmRpYW4t4oCYdGhpcy1p",
@@ -3157,6 +3077,20 @@
           "cross_sections": []
         },
         {
+          "id": "Z3VhcmRpYW4tdXMtY29ycG9y",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
+          "source_category": "Newspaper",
+          "feed_label": "Business",
+          "title": "US corporate lobbyists mounted ‘blitz’ to dilute landmark EU deforestation law, report finds",
+          "summary": "Environmental watchdog Mighty Earth reveals two-year effort to postpone and weaken EU Deforestation Regulation\nUS corporate lobbyists launched a two-year “blitz” to postpone and weaken the world’s most progressive legislation to protect forests, according to a new investigation by the environmental ",
+          "image_url": "https://i.guim.co.uk/img/media/df8c85f8eb823746e6c6870d49f885ae6b15be08/831_0_6622_5299/master/6622.jpg?width=140&quality=85&auto=format&fit=max&s=f84ef67156d0ee7bae0416a47f64d940",
+          "article_url": "https://www.theguardian.com/environment/2026/oct/17/us-corporate-lobbyists-europe-deforestation",
+          "published_at": "Sat, 17 Oct 2026 11:00:31 GMT",
+          "cross_sections": []
+        },
+        {
           "id": "Z3VhcmRpYW4tZmFrZS1saW5k",
           "source_id": "guardian",
           "source_name": "The Guardian",
@@ -3168,6 +3102,50 @@
           "image_url": "https://i.guim.co.uk/img/media/a426a8b6b459aed32bd6a8e431b13736369c3b21/676_119_6732_5385/master/6732.jpg?width=140&quality=85&auto=format&fit=max&s=f09aaf2d349e8bfc65d3ca6823fc23a4",
           "article_url": "https://www.theguardian.com/technology/2026/oct/17/fake-linda-and-me-mystery-fraudster-stole-my-byline",
           "published_at": "Sat, 17 Oct 2026 11:00:30 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "Z3VhcmRpYW4tcmV2ZWFsZWQ6",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
+          "source_category": "Newspaper",
+          "feed_label": "Business",
+          "title": "Revealed: VW, Ford and Tesla batteries linked to destructive deforestation of indigenous lands",
+          "summary": "Mines in supply chains of western carmakers linked to widespread deforestation of primary rainforest in nickel-rich lands inhabited by Tolaki people in Indonesia\nVolkswagen, Ford and Tesla are among the electric carmakers whose batteries may contain nickel mined in indigenous woodlands plagued by de",
+          "image_url": "https://i.guim.co.uk/img/media/f6ca0a15fbe0d1b954133fee2cab92722a203c87/251_0_3749_3000/master/3749.jpg?width=140&quality=85&auto=format&fit=max&s=866017e5c5c6ce1094e416526865c8c1",
+          "article_url": "https://www.theguardian.com/environment/2026/oct/16/vw-ford-tesla-batteries-deforestation-indigenous-lands",
+          "published_at": "Fri, 16 Oct 2026 07:00:56 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Z3VhcmRpYW4t4oCYcGVvcGxl",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
+          "source_category": "Newspaper",
+          "feed_label": "Business",
+          "title": "‘People’s dignity, and democracy, is at stake’: meet the economist ditching ideology for reality",
+          "summary": "Exclusive: Isabella Weber prescribes a common-sense solution to poverty, inequality and fascism – making life’s essentials affordable for all\nThe trouble with economists, Isabella Weber believes, is they do not behave like dentists. They obsess over ideological purity and are inflexible when searchi",
+          "image_url": "https://i.guim.co.uk/img/media/3576e8823f74fef373d3674061516c7d38e4743e/259_0_4131_3307/master/4131.jpg?width=140&quality=85&auto=format&fit=max&s=d94407f3c007f35953e5ef9e6614e072",
+          "article_url": "https://www.theguardian.com/business/2026/oct/16/isabella-weber-anti-fascist-economics",
+          "published_at": "Fri, 16 Oct 2026 04:00:50 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "Z3VhcmRpYW4tcGVvcGxlLWlu",
+          "source_id": "guardian",
+          "source_name": "The Guardian",
+          "source_region": "Europe",
+          "source_category": "Newspaper",
+          "feed_label": "Business",
+          "title": "People in the US: what is your personal ‘recession indicator’?",
+          "summary": "We’d like to hear about whether you feel like the US is in a recession and what you think signals such a downturn\nNearly two-thirds of Americans think the US is experiencing a recession, according to a new Harris Poll conducted for the Guardian. By the typical definition of a recession – when a coun",
+          "image_url": "https://i.guim.co.uk/img/media/52ff3960d4aa2d7390c5b285301a93bf98ea062b/550_0_2750_2200/master/2750.jpg?width=140&quality=85&auto=format&fit=max&s=a3d00e71147cd2628e96983ee79329e1",
+          "article_url": "https://www.theguardian.com/business/2026/oct/15/what-is-your-personal-recession-indicator",
+          "published_at": "Thu, 15 Oct 2026 16:55:41 GMT",
           "cross_sections": []
         }
       ]
@@ -3269,6 +3247,22 @@
           "cross_sections": []
         },
         {
+          "id": "ZXVyb25ld3MtbXVzay1wbGVk",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Musk pledges SpaceX shares to every US child in potential $10.7bn giveaway",
+          "summary": "Elon Musk says he will give one SpaceX share to every child in America next year, a pledge worth about $10.7bn (€9.5bn) at Friday’s closing price. He has yet to explain who would qualify or how the shares would be distributed.",
+          "image_url": "https://images.euronews.com/articles/stories/09/95/88/36/696x392_cmsv2_efc78933-8bce-5f22-ab25-1402c374231d-9958836.jpg",
+          "article_url": "https://www.euronews.com/2026/10/19/musk-pledges-spacex-shares-to-every-us-child-in-potential-107bn-giveaway",
+          "published_at": "Mon, 19 Oct 2026 16:35:58 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "ZXVyb25ld3MtcHJvdGVzdGVy",
           "source_id": "euronews",
           "source_name": "Euronews",
@@ -3299,6 +3293,112 @@
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "ZXVyb25ld3MtY2FuLWV1cm9w",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Can European luxury brands still count on China for growth?",
+          "summary": "China’s shoppers are hunting for second-hand bargains and turning to homegrown brands, putting pressure on European luxury groups. China remains vital for luxury brands, but one analyst warns it may not drive growth over the next two to three years.",
+          "image_url": "https://images.euronews.com/articles/stories/09/95/80/59/696x392_cmsv2_9c88f082-25ea-5054-aadb-14d7015acc95-9958059.jpg",
+          "article_url": "https://www.euronews.com/2026/10/19/can-european-luxury-brands-still-count-on-china-for-growth",
+          "published_at": "Mon, 19 Oct 2026 12:42:43 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtZXVyb3BlYW4t",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "European stocks open in the red as French businesses count the cost of the riots",
+          "summary": "European stock markets opened lower on Monday after a weekend of violent protests and looting in France, as business owners count the cost and accuse the government of failing to protect them.",
+          "image_url": "https://images.euronews.com/articles/stories/09/95/79/28/696x392_cmsv2_6f6681b0-131b-5f99-b3ba-644f9e26adb6-9957928.jpg",
+          "article_url": "https://www.euronews.com/2026/10/19/european-stocks-open-in-the-red-as-french-businesses-count-the-cost-of-the-riots",
+          "published_at": "Mon, 19 Oct 2026 10:56:56 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtaGlnaC1wcmlj",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "High prices and interest rates: Expert advice on managing your money",
+          "summary": "Careful budgeting, managing borrowing costs, protecting cash reserves and limiting financial risks: experts tell Euronews how households and businesses can cope with inflation and high interest rates.",
+          "image_url": "https://images.euronews.com/articles/stories/09/95/32/67/696x392_cmsv2_e34096a3-8b97-50d7-b166-62171980e8d0-9953267.jpg",
+          "article_url": "https://www.euronews.com/2026/10/19/high-prices-and-interest-rates-expert-advice-on-managing-your-money",
+          "published_at": "Mon, 19 Oct 2026 10:28:34 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtaG93LWEtJDUt",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "How a $5 billion ‘Gas Ring’ could strengthen Central Asia’s energy security",
+          "summary": "A proposed $5bn (€4.45bn) gas network could help five Central Asian countries share supplies and meet winter demand. The ‘Gas Ring’ would link new and existing pipelines, but funding and agreements between governments remain to be finalised.",
+          "image_url": "https://images.euronews.com/articles/stories/09/95/38/28/696x392_cmsv2_0362443a-a3a7-502e-9545-85ce3d1c1551-9953828.jpg",
+          "article_url": "https://www.euronews.com/2026/10/19/gas-ring-5-billion-proposal-aims-to-strengthen-central-asias-energy-security",
+          "published_at": "Mon, 19 Oct 2026 07:00:51 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtY2hpbmHigJlz",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "China’s economy grows 4.5% on robust exports as domestic weakness persists",
+          "summary": "The official growth figure from the July-September quarter beat expectations and picked up from 4.3% in April-June, the slowest pace in more than three years.",
+          "image_url": "https://images.euronews.com/articles/stories/09/95/75/38/696x392_cmsv2_59e91701-4f46-5a26-af1d-e92cc6adb7b0-9957538.jpg",
+          "article_url": "https://www.euronews.com/2026/10/19/chinas-economy-grows-45-on-robust-exports-as-domestic-weakness-persists",
+          "published_at": "Mon, 19 Oct 2026 06:11:21 +0200",
+          "cross_sections": []
+        },
+        {
+          "id": "ZXVyb25ld3MtdGhlLXdvcmxk",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "The world’s biggest fine jewellery factory: How Pandora aims to make more and pollute less in Vietnam",
+          "summary": "Pandora invested $150 million (€132mn) in a Vietnam factory, which it says will operate entirely on renewable electricity. The company also switched to using 100% recycled gold and silver in its jewellery production in 2024.",
+          "image_url": "https://images.euronews.com/articles/stories/09/95/12/97/696x392_cmsv2_0f08de75-4f31-5061-b542-968cd0fb2589-9951297.jpg",
+          "article_url": "https://www.euronews.com/2026/10/17/pandora-opens-the-worlds-biggest-jewellery-factory-in-vietnam-but-is-success-guaranteed-in",
+          "published_at": "Sat, 17 Oct 2026 07:58:45 +0200",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZXVyb25ld3MtdXpiZWtpc3Rh",
+          "source_id": "euronews",
+          "source_name": "Euronews",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Business",
+          "title": "Uzbekistan signs $4.7bn energy deals and outlines plans for two more nuclear power plants",
+          "summary": "Foreign firms including ACWA Power, EDF and Toyota Tsusho are involved in projects covering 3,000 MW of generating capacity and 400 MW of storage. Tashkent is also preparing 128 oil and gas exploration blocks for investors and pursuing a future electricity connection to Europe.",
+          "image_url": "https://images.euronews.com/articles/stories/09/95/51/58/696x392_cmsv2_56b29712-ba1c-5e8a-8887-8b1c22b5227d-9955158.jpg",
+          "article_url": "https://www.euronews.com/2026/10/16/uzbekistan-signs-47bn-energy-deals-and-outlines-plans-for-two-more-nuclear-power-plants",
+          "published_at": "Fri, 16 Oct 2026 16:44:49 +0200",
+          "cross_sections": []
         }
       ]
     },
@@ -3309,16 +3409,32 @@
       "category": "Broadcaster",
       "articles": [
         {
-          "id": "ZHctZnJhbmNlOi1wYXJ0aWFs",
+          "id": "ZHctYXQtbGVhc3QtZm91ci1k",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "At least four dead after flooding in eastern Spain",
+          "summary": "At least four people have died in Spain as torrential rain has battered the country's eastern Mediterranean coast. The severe flooding had left more than 450 people stranded on rooftops, in buildings or in cars.",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/at-least-four-dead-after-flooding-in-eastern-spain/a-79707781?maca=en-rss-en-world-4025-xml-mrss",
+          "published_at": "Tue, 20 Oct 2026 00:32:00 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZHctZnJlbmNoLWF1dGhvcml0",
           "source_id": "dw",
           "source_name": "DW News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "Top Stories",
-          "title": "France: Partial curfews issued in Paris, Nice after unrest",
-          "summary": "French authorities imposed curfews in parts of several cities on Monday night after cost-of-living and anti-government protests descended into rioting and looting over the weekend. DW has the latest.",
+          "title": "French authorities impose partial curfews in Paris, Nice",
+          "summary": "French authorities imposed curfews in towns and cities on Monday night after cost-of-living and anti-government protests descended into rioting and looting over the weekend. DW has the latest.",
           "image_url": null,
-          "article_url": "https://www.dw.com/en/france-partial-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-top-1022-xml-mrss",
+          "article_url": "https://www.dw.com/en/french-authorities-impose-partial-curfews-in-paris-nice/live-79707186?maca=en-rss-en-top-1022-xml-mrss",
           "published_at": "Mon, 19 Oct 2026 19:57:00 GMT",
           "cross_sections": []
         },
@@ -3344,7 +3460,7 @@
           "source_category": "Broadcaster",
           "feed_label": "Top Stories",
           "title": "Germany news: Emergency at Leipzig airport sparked by novice driver",
-          "summary": "Two men breached a fence at the Leipzig/Halle airport while practicing for a driving test. Meanwhile, the \"Invest in Germany Summit\" is set to kick off as the government looks to fill gaps in public funding. DW has more.",
+          "summary": "Two men breached a fence at the Leipzig/Halle airport while practicing for a driving test. Meanwhile, German Chancellor Friedrich Merz announced an industrial AI partnership with Nvidia. DW has more.",
           "image_url": null,
           "article_url": "https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-top-1022-xml-mrss",
           "published_at": "Mon, 19 Oct 2026 17:26:00 GMT",
@@ -3477,22 +3593,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "ZHctZGVlcGZha2VzLC1ib3Rz",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Deepfakes, bots and distrust: How AI is shaping Israel's election",
-          "summary": "For the first time, AI is playing a major role in Israel's elections. Observers warn that deepfakes, bots and influence campaigns could sway voters.",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/deepfakes-bots-and-distrust-how-ai-is-shaping-israel-s-election/a-79657988?maca=en-rss-en-world-4025-xml-mrss",
-          "published_at": "Mon, 19 Oct 2026 08:26:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -3503,91 +3603,91 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dG9pLXRyYWRlLWRlYWwtd2l0",
+          "id": "dG9pLWFzaWFuLXBhcmEtZ2Ft",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Trade deal with New Zealand kicks in today: Where India gains",
-          "summary": "",
+          "title": "Asian Para Games: Bhavina Patel wins bronze in table tennis",
+          "summary": "Bhavina Patel won a bronze medal in the women's singles Class 4-5 table tennis event at the Asian Para Games 2026. She lost in the semi-finals to Zhang Bian of China, finishing her singles campaign. Previously, Bhavina was the flag bearer for India at these Games. Her notable achievements include wi",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/business/india-business/indias-trade-deal-with-new-zealand-kicks-in-today/articleshow/135058369.cms",
-          "published_at": "Tue, 20 Oct 2026 04:07:53 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/asian-para-games-2026-bhavina-patel-wins-bronze-in-table-tennis/articleshow/135059299.cms",
+          "published_at": "Tue, 20 Oct 2026 06:52:36 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dG9pLSdwYXJpcy1pcy1nb2lu",
+          "id": "dG9pLWR1c3NlaHJhLW1lc3Nh",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "'Paris is going to be a Muslim city very soon': Trump slams Macron as riots spiral",
-          "summary": "",
+          "title": "Dussehra messages, greetings, wishes and quotes for 2026",
+          "summary": "Dussehra, occurring on October 20, 2026, celebrates the triumph of good over evil. This vibrant festival features heartfelt prayers, joyful family reunions, and the dramatic burning of effigies. It serves as a time for reconciliation, encouraging individuals to leave past grievances behind while emb",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/world/us/paris-is-going-to-be-a-muslim-city-very-soon-trump-slams-macron-as-riots-spiral/articleshow/135056496.cms",
-          "published_at": "Tue, 20 Oct 2026 03:27:14 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/etimes/trending/75-happy-dussehra-messages-greetings-wishes-greetings-card-whatsapp-facebook-status-and-quotes-for-2026/articleshow/135032296.cms",
+          "published_at": "Tue, 20 Oct 2026 06:48:39 +0530",
           "cross_sections": []
         },
         {
-          "id": "dG9pLWNvbmdyZXNzLXNudWJi",
+          "id": "dG9pLeKAmGRlbGliZXJhdGVs",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Congress snubbed delimitation talks: Govt signals Parliament session",
+          "title": "‘Deliberately breached bonds’: Why court extended Das, Ranka’s custody by two days",
           "summary": "",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/congress-snubbed-delimitation-talks-government-signals-parliament-session/articleshow/135056389.cms",
-          "published_at": "Tue, 20 Oct 2026 03:10:20 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/india/deliberately-breached-bonds-court-extends-saurav-das-ashutosh-rankas-custody-by-2-days/articleshow/135059238.cms",
+          "published_at": "Tue, 20 Oct 2026 06:39:10 +0530",
           "cross_sections": []
         },
         {
-          "id": "dG9pLXdhdGNoOi1qYXBhbi1s",
+          "id": "dG9pLTE0LWtpbGxlZCwtNy1p",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Watch: Japan launches historic mission to explore Mars’ moons and bring back samples",
+          "title": "14 killed, 7 injured in illegal gold mine collapse in Colombia",
           "summary": "",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/science/watch-japan-launches-historic-mars-mission-to-probe-mysterious-moons-bring-samples-back/articleshow/135055997.cms",
-          "published_at": "Tue, 20 Oct 2026 01:24:10 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/world/rest-of-world/14-dead-7-injured-in-colombia-illegal-gold-mine-collapse-why-such-accidents-are-common/articleshow/135059064.cms",
+          "published_at": "Tue, 20 Oct 2026 05:48:00 +0530",
           "cross_sections": []
         },
         {
-          "id": "dG9pLWluZGlhbmEtc2libGlu",
+          "id": "dG9pLWluc2lkZS1sYXdyZW5j",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Indiana siblings lose case over father's $3m trust after missing deadline",
-          "summary": "In a significant ruling, an Indiana appeals court has dismissed a malpractice claim filed by two siblings against their father's estate planning lawyer. The claim revolved around a trust established in 2018, but the court determined it was too late to bring the lawsuit, as it exceeded the two-year f",
+          "title": "Inside Lawrence Bishnoi gang’s ‘shadow cabinet’: 5 key aides running global operations",
+          "summary": "",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/world/us/in-2018-an-indiana-father-set-up-a-trust-to-keep-his-second-wife-in-a-retirement-home-costing-4000-a-month-his-children-said-it-harmed-their-inheritance-but-an-october-14-court-barred-their-lawsuit-as-too-late/articleshow/135053754.cms",
-          "published_at": "Mon, 19 Oct 2026 23:04:23 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/india/ringleader-lawrence-bishnoi-in-jail-shadow-cabinet-runs-gang-tiger-shroff-attack-anil-pandit/articleshow/135058470.cms",
+          "published_at": "Tue, 20 Oct 2026 04:32:33 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dG9pLTYtb3BzLWluLTQ4LWhy",
+          "id": "dG9pLWFmdGVyLWRpdGNoaW5n",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "6 ops in 48 hrs: Houthis claim to strike Saudi airports, oil field   military sites",
-          "summary": "Yemen's Iran-linked Houthi rebels announced six military operations targeting Saudi Arabia over the last 48 hours. They claimed to have struck strategic sites including oil facilities and airports, causing significant damage and disruption. This escalation followed reported Saudi airstrikes on Yemen",
+          "title": "After ditching Mamata Banerjee, Yusuf Pathan gets a gift from Gujarat govt",
+          "summary": "The state government approved the allotment of a disputed 978 sqm plot in Vadodara to Yusuf Pathan. The allotment includes 500 sqm for residential use and 478 sqm at a reduced rate. This decision follows a long-standing dispute over the plot, which began in 2012 with Pathan's initial request. The mu",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/world/middle-east/6-ops-in-48-hours-houthis-claim-to-strike-saudi-airports-aramco-site-oil-field-military-facilities/articleshow/135053874.cms",
-          "published_at": "Mon, 19 Oct 2026 23:02:00 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/city/vadodara/disputed-plot-now-govt-togift-yusuf-pathan-500sqm/articleshow/135055710.cms",
+          "published_at": "Tue, 20 Oct 2026 00:48:12 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -3609,17 +3709,17 @@
           ]
         },
         {
-          "id": "dG9pLXRpZ2VyLXNocm9mZi1z",
+          "id": "dG9pLXNvbGQtaG91c2UsLWJv",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Tiger Shroff shooting: The Salman connection   a trail of threats linked to Bishnoi",
-          "summary": "The firing at Tiger Shroff’s car in Mumbai has brought the Lawrence Bishnoi gang’s alleged threats against Bollywood personalities back into focus. A purported claim of responsibility linked the attack to Shroff’s association with Salman Khan. The incident has revived scrutiny of past threats agains",
+          "title": "Sold house, bought Rs 1.10 cr flat with wife; I-T dept rejects exemption for half amount",
+          "summary": "A man sold his residential property and invested the proceeds in another flat in Mumbai. The replacement property was jointly registered in his and his wife's names, with the total investment of around Rs 1.10 crore. He claimed exemption on the capital gains under Section 54 of the Income Tax Act.",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/tiger-shroff-shooting-the-salman-khan-connection-and-a-trail-of-threats-linked-to-lawrence-bishnoi/articleshow/135040995.cms",
-          "published_at": "Mon, 19 Oct 2026 11:34:09 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/business/india-business/man-sold-his-house-and-bought-a-rs-1-10-crore-flat-jointly-with-wife-income-tax-department-denies-rs-55-48-lakh-capital-gains-exemption-for-half-the-amount-but-itat-mumbai-gives-full-relief/articleshow/135044532.cms",
+          "published_at": "Mon, 19 Oct 2026 16:08:23 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -3867,6 +3967,64 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dGhlaGluZHUtdHdvLWluZGlh",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Two Indian nationals among 28 charged with election fraud in California",
+          "summary": "According to the Justice Department, Amandeep Kaur (30) and Kamlesh Shah (67) have been charged with fraudulently registering as voters and casting their ballots in the November 2024 U.S. elections",
+          "image_url": "https://th-i.thgim.com/public/incoming/l9g4aj/article71603111.ece/alternates/LANDSCAPE_1200/Election_2_26_Noncitizen_Voting_California_84385.jpg",
+          "article_url": "https://www.thehindu.com/news/international/two-indian-nationals-among-28-charged-with-election-fraud-in-california/article71603104.ece",
+          "published_at": "Tue, 20 Oct 2026 06:50:54 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtbW9ybmluZy1k",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Morning Digest: Jaishankar welcomes UAE’s Foreign Minister Al Nahyan in Mumbai; gunmen kill at least 40 civilians in Mali, and more",
+          "summary": "Here is a select list of stories to start the day",
+          "image_url": "https://th-i.thgim.com/public/news/national/wbs178/article71603100.ece/alternates/LANDSCAPE_1200/HVA9MoWbUAA9fDZ.jpg",
+          "article_url": "https://www.thehindu.com/news/morning-digest-october-20-2026/article71603098.ece",
+          "published_at": "Tue, 20 Oct 2026 06:18:41 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtaG93LWFuLXN1",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "How an SUV carrying 27kg of mephedrone exposed a clandestine drug factory",
+          "summary": "A 27.2 kg mephedrone seizure led EAGLE Force to a clandestine laboratory in Maharashtra, exposing a network of chemical suppliers, equipment dealers and suspected drug manufacturers with links to Hyderabad",
+          "image_url": "https://th-i.thgim.com/public/news/national/telangana/rlkaru/article71602854.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-19%20at%2018.24.07.jpeg",
+          "article_url": "https://www.thehindu.com/news/national/telangana/how-an-suv-carrying-27kg-of-mephedrone-exposed-a-clandestine-drug-factory/article71602859.ece",
+          "published_at": "Tue, 20 Oct 2026 04:43:04 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "dGhlaGluZHUtamFwYW4tc3Vj",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Japan successfully launches probe in historic Mars moon mission",
+          "summary": "The flagship H3 rocket carrying the unmanned Martian Moons eXploration (MMX) probe blasted off into a pitch black sky from the Tanegashima Space Center at 4:41 a.m. (1941 GMT Monday), according to a live stream broadcast by the Japan Aerospace Exploration Agency",
+          "image_url": "https://th-i.thgim.com/public/incoming/otstwa/article71603096.ece/alternates/LANDSCAPE_1200/2026-10-19T194848Z_1156234402_RC286OAF2VVK_RTRMADP_3_JAPAN-SPACE-PHOBOS-ROCKET.JPG",
+          "article_url": "https://www.thehindu.com/news/international/japan-successfully-launches-probe-in-historic-mars-moon-mission/article71603095.ece",
+          "published_at": "Tue, 20 Oct 2026 04:25:01 +0530",
+          "cross_sections": []
+        },
+        {
           "id": "dGhlaGluZHUtZ3VubWVuLWtp",
           "source_id": "thehindu",
           "source_name": "The Hindu",
@@ -3924,66 +4082,6 @@
           "image_url": null,
           "article_url": "https://www.thehindu.com/news/international/gold-mine-collapse-in-colombias-narino-province/article71603089.ece",
           "published_at": "Tue, 20 Oct 2026 02:09:09 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtamlvLXBsYXRm",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Jio Platforms' anchor book draws record ₹2.5 lakh crore in bids ahead of IPO",
-          "summary": "The allotment of 7.24 crore shares at ₹1,119 apiece comes two days before the initial public offering opens for public subscription on October 21",
-          "image_url": "https://th-i.thgim.com/public/incoming/qy9djh/article71603088.ece/alternates/LANDSCAPE_1200/2026-10-14T161323Z_1747621342_RC2YWLAR8HVE_RTRMADP_3_JIO-PLATFORMS-IPO.JPG",
-          "article_url": "https://www.thehindu.com/business/jio-platforms-anchor-book-draws-record-25-lakh-crore-in-bids-ahead-of-ipo/article71603087.ece",
-          "published_at": "Tue, 20 Oct 2026 01:47:32 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtamFpc2hhbmth",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Jaishankar welcomes UAE’s Foreign Minister Al Nahyan in Mumbai",
-          "summary": "PM Al Nahyan, who is also the UAE's Foreign Minister, will hold wide-ranging talks with External Affairs Minister S. Jaishankar on October 20",
-          "image_url": "https://th-i.thgim.com/public/news/national/rr1cw7/article71603084.ece/alternates/LANDSCAPE_1200/HVA9MoWbUAA9fDZ.jpg",
-          "article_url": "https://www.thehindu.com/news/national/jaishankar-receives-uaes-foreign-minister-al-nahyan-at-mumbai-airport/article71603083.ece",
-          "published_at": "Tue, 20 Oct 2026 01:18:25 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtd2VzdC1iYW5r",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "West Bank on verge of 'explosion': senior Palestinian official",
-          "summary": "\"The terrorism carried out by the army and settlers, under the supervision of the Israeli government, is a prelude to a coming reaction and explosion,\" says Jibril Rajoub",
-          "image_url": "https://th-i.thgim.com/public/incoming/ci12f/article71603080.ece/alternates/LANDSCAPE_1200/2026-10-19T094425Z_1950586876_RC266OA4DK7J_RTRMADP_3_ISRAEL-PALESTINIANS-WEST-BANK-OLIVE-HARVEST.JPG",
-          "article_url": "https://www.thehindu.com/news/international/west-bank-on-verge-of-explosion-senior-palestinian-official/article71603078.ece",
-          "published_at": "Tue, 20 Oct 2026 00:34:24 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dGhlaGluZHUtc3VkYW4tZHJv",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Sudan drone attacks kill three children in Khartoum, dozens of civilians in Kordofan",
-          "summary": "A drone attack killed three children in Sudan’s capital, Khartoum, on October 19, according to Emergency Lawyers, a group that tracks violence against civilians",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/international/sudan-drone-attacks-kill-three-children-in-khartoum-dozens-of-civilians-in-kordofan/article71603076.ece",
-          "published_at": "Tue, 20 Oct 2026 00:03:27 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4124,122 +4222,122 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "amFwYW50aW1lcy1mcm9tLWhh",
+          "id": "amFwYW50aW1lcy10ZWNobm9s",
           "source_id": "japantimes",
           "source_name": "The Japan Times",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "From Harvard to Tokyo screens, one actor takes the leap",
-          "summary": "For Canadian American actor Meisha Brooks, acting in Tokyo was a dream she just recently made reality.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/13/560487.jpg",
-          "article_url": "https://www.japantimes.co.jp/culture/2026/10/20/film/meisha-brooks/",
-          "published_at": "Tue, 20 Oct 2026 08:07:00 +0900",
-          "cross_sections": []
-        },
-        {
-          "id": "amFwYW50aW1lcy10cnVtcC1v",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Trump open to trilateral summit with Putin and Xi but wants denuclearization focus",
-          "summary": "Russian leader Vladimir Putin has reportedly proposed a summit for talks on the war in Ukraine, possibly during next month's APEC summit in China.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/20/569385.JPG",
-          "article_url": "https://www.japantimes.co.jp/news/2026/10/20/world/trump-open-xi-putin-meet/",
-          "published_at": "Tue, 20 Oct 2026 07:39:00 +0900",
+          "title": "Technologies seen at Osaka Expo increasingly being put into practice",
+          "summary": "Technologies showcased at the 2025 World Exposition in Osaka, including a sheet of heart muscle cells made from induced pluripotent stem (iPS) cells, are seeing growing practical applications.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/20/569394.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/10/20/japan/japan-osaka-expo-legacy-one-year/",
+          "published_at": "Tue, 20 Oct 2026 10:31:00 +0900",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "amFwYW50aW1lcy1qYXBhbi1s",
+          "id": "amFwYW50aW1lcy1wYWxlc3Rp",
           "source_id": "japantimes",
           "source_name": "The Japan Times",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Japan launches probe in historic bid to collect sample from Mars moon",
-          "summary": "The five-year mission — the first to attempt to land on a Martian moon — could shed light on the origins of the solar system and life on Earth.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/20/569362.JPG",
-          "article_url": "https://www.japantimes.co.jp/news/2026/10/20/japan/science-health/japan-mars-moon-probe-launch/",
-          "published_at": "Tue, 20 Oct 2026 05:00:00 +0900",
+          "title": "Palestinian activist Mahmoud Khalil asks U.S. Supreme Court to hear case",
+          "summary": "Mahmoud Khalil faces the prospect of arrest and deportation if the lower court's decision is allowed to stand.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/20/569381.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/10/20/world/crime-legal/mahmoud-khalil-supreme-court/",
+          "published_at": "Tue, 20 Oct 2026 10:21:00 +0900",
           "cross_sections": []
         },
         {
-          "id": "amFwYW50aW1lcy1hLW1pbGxl",
+          "id": "amFwYW50aW1lcy1hdXN0cmFs",
           "source_id": "japantimes",
           "source_name": "The Japan Times",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "A millennium ago, (almost) everyone in Japan was a poet",
-          "summary": "Japan's oldest poetry anthology captures a world of beauty, humor, love and sorrow that feels remarkably familiar.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/20/569378.jpeg",
-          "article_url": "https://www.japantimes.co.jp/news/2026/10/20/japan/history/manyoshu-japanese-poetry/",
-          "published_at": "Tue, 20 Oct 2026 00:40:00 +0900",
-          "cross_sections": []
-        },
-        {
-          "id": "amFwYW50aW1lcy1vdmVyLTE2",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Over 16% of Japanese companies experience data breaches",
-          "summary": "According to the survey, 30.2% of large companies suffered or potentially suffered breaches, significantly higher than 14.3% among small businesses.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/19/569368.jpg",
-          "article_url": "https://www.japantimes.co.jp/business/2026/10/19/16pct-japan-firms-data-breaches/",
-          "published_at": "Mon, 19 Oct 2026 20:08:00 +0900",
-          "cross_sections": []
-        },
-        {
-          "id": "amFwYW50aW1lcy1qYXBhbi10",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Japan to restart accepting foreign workers for meal services at some facilities",
-          "summary": "The government aims to adopt the plan at a Cabinet meeting in December.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/19/569367.JPG",
-          "article_url": "https://www.japantimes.co.jp/news/2026/10/19/japan/foreign-workers-meal-services/",
-          "published_at": "Mon, 19 Oct 2026 19:22:00 +0900",
+          "title": "Australian lawmaker in critical condition after vehicle attack",
+          "summary": "Independent Helen Haines was struck outside her office in an incident the country's prime minister said was a deliberate act.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/20/569386.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/10/20/asia-pacific/politics/australian-lawmaker-vehicle-attack/",
+          "published_at": "Tue, 20 Oct 2026 10:05:00 +0900",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "amFwYW50aW1lcy1jaGluYS1y",
+          "id": "amFwYW50aW1lcy1ob3V0aGkt",
           "source_id": "japantimes",
           "source_name": "The Japan Times",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "China reveals advanced nuclear sub was used to test-fire missile",
-          "summary": "China had only conducted two publicly known ICBM tests in the Pacific before July, and both were land-based launches.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/19/569365.JPG",
-          "article_url": "https://www.japantimes.co.jp/news/2026/10/19/asia-pacific/china-nuclear-sub-test-fire/",
-          "published_at": "Mon, 19 Oct 2026 18:59:00 +0900",
+          "title": "Houthi attack on Yemen government camp kills over 50, officials say",
+          "summary": "It marked the deadliest attack in weeks as fighting escalates after the collapse of a yearslong truce.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/20/569384.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/10/20/world/houthi-attack-yemen-camp/",
+          "published_at": "Tue, 20 Oct 2026 09:58:00 +0900",
           "cross_sections": []
         },
         {
-          "id": "amFwYW50aW1lcy1uZXctc3Bl",
+          "id": "amFwYW50aW1lcy16ZWxlbnNr",
           "source_id": "japantimes",
           "source_name": "The Japan Times",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "New species of sperm whale identified from fossils found in Gunma",
-          "summary": "The species combines traits of ancient and modern sperm whales, and is the third new sperm whale species identified from fossils in Japan.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/19/569349.jpg",
-          "article_url": "https://www.japantimes.co.jp/news/2026/10/19/japan/society/japan-whale-fossils-new-species/",
-          "published_at": "Mon, 19 Oct 2026 18:11:00 +0900",
+          "title": "Zelenskyy says Ukraine got no warning of overnight Russian missile strike",
+          "summary": "In all, Russia fired 16 ballistic missiles overnight at Kyiv and the surrounding region and more than 200 drones.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/20/569380.JPG",
+          "article_url": "https://www.japantimes.co.jp/news/2026/10/20/world/ukraine-russian-missiles-no-warn/",
+          "published_at": "Tue, 20 Oct 2026 09:52:00 +0900",
           "cross_sections": [
             "tech"
           ]
+        },
+        {
+          "id": "amFwYW50aW1lcy1hbGJlcnRh",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Alberta votes on leaving Canada, separatist movement likely to outlast expected defeat",
+          "summary": "Polls have consistently shown that a majority of the oil-rich province's voters oppose splitting from Canada.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/20/569388.JPG",
+          "article_url": "https://www.japantimes.co.jp/news/2026/10/20/world/politics/alberta-referendum-vote/",
+          "published_at": "Tue, 20 Oct 2026 09:38:00 +0900",
+          "cross_sections": []
+        },
+        {
+          "id": "amFwYW50aW1lcy1mcmFuY2Ut",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "France imposes curfews in parts of Paris and other cities after riots",
+          "summary": "The weekend of looting and violence followed weeks of student demonstrations, highlighting pressures from a weak economy and surging debt.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/20/569379.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/10/20/world/france-curfews-riots/",
+          "published_at": "Tue, 20 Oct 2026 09:37:00 +0900",
+          "cross_sections": []
+        },
+        {
+          "id": "amFwYW50aW1lcy3igJgyNS15",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "‘25 Years of You’: Is there such a thing as a ‘good’ stalker?",
+          "summary": "In Nippon TV's \"25 Years of You,\" two obsessive men go head to head for attention from the same woman — with uncomfortable results.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/20/569389.jpg",
+          "article_url": "https://www.japantimes.co.jp/culture/2026/10/20/tv-streaming/25-years-of-you/",
+          "published_at": "Tue, 20 Oct 2026 09:00:00 +0900",
+          "cross_sections": []
         }
       ]
     },
@@ -4250,32 +4348,111 @@
       "category": "Broadcaster",
       "articles": [
         {
-          "id": "bmR0di10cnVtcC1zYXlzLWhl",
+          "id": "bmR0di10cnVtcC1zYXlzLXpl",
           "source_id": "ndtv",
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
           "feed_label": "Top Stories",
-          "title": "Trump Says He Is Ready To Meet Putin, Xi In China Next Month",
-          "summary": "US President Donald Trump on Monday indicated he is ready to meet with his Russian and Chinese counterparts during a summit in China next month centered on denuclearization.Do",
-          "image_url": "https://c.ndtvimg.com/2026-05/su2ndu6o_donald-trump-afp_625x300_12_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/trump-says-he-is-ready-to-meet-with-putin-xi-jinping-next-month-in-china-12208457#publisher=newsstand",
-          "published_at": "Tue, 20 Oct 2026 02:43:35 +0530",
+          "title": "Trump Says Zelensky Should Get \"Somebody Else\" To Negotiate To End War",
+          "summary": "Trump also told reporters that Russia has been \"fine\" with regards to Ukraine. \"They haven't been doing much,\" he said.",
+          "image_url": "https://c.ndtvimg.com/2026-10/2hlie7t_donald-trump-and-zelensky_625x300_20_October_26.jpeg",
+          "article_url": "https://www.ndtv.com/world-news/donald-trump-says-volodymyr-zelensky-should-get-somebody-else-to-negotiate-to-end-war-12208745#publisher=newsstand",
+          "published_at": "Tue, 20 Oct 2026 06:07:25 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1jcmFja2Rvd24tb24t",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Crackdown On Yamuna Polluters In Delhi, 3 Illegal Dhobi Ghats Sealed",
+          "summary": "The crackdown follows inspections that revealed serious lapses in wastewater treatment, mandatory environmental clearances and the use of prescribed soaps and detergents at dhobi ghats across the city.",
+          "image_url": "https://c.ndtvimg.com/2026-10/qk0u3fdg_delhi-yamuna-river_625x300_20_October_26.jpeg",
+          "article_url": "https://www.ndtv.com/delhi-news/crackdown-on-yamuna-polluters-in-delhi-3-illegal-dhobi-ghats-sealed-12208739#publisher=newsstand",
+          "published_at": "Tue, 20 Oct 2026 05:54:43 +0530",
           "cross_sections": []
         },
         {
-          "id": "bmR0di1hbWlkLXVucmVzdC1p",
+          "id": "bmR0di0xNC1raWxsZWQtaW4t",
           "source_id": "ndtv",
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
           "feed_label": "Top Stories",
-          "title": "Amid Unrest In France, Trump Says 'Paris Will Be Muslim City Very Soon'",
-          "summary": "Trump recounted a conversation with Macron, telling him \"a long time ago, you're making a big mistake in France. You're letting everybody from the world come in. The whole world was coming in.",
-          "image_url": "https://c.ndtvimg.com/2026-10/0vp8sm0g_donald-trump_625x300_20_October_26.jpeg",
-          "article_url": "https://www.ndtv.com/world-news/amid-unrest-in-france-donald-trump-says-paris-will-be-muslim-city-very-soon-12208572#publisher=newsstand",
-          "published_at": "Tue, 20 Oct 2026 02:39:24 +0530",
+          "title": "14 Killed In Landslide At Illegal Gold Mine In Colombia",
+          "summary": "Armed groups in Narino, an illegal mining hotspot on the border with Ecuador, control the clandestine gold trade as well as trafficking drugs and engaging in extortion.",
+          "image_url": "https://c.ndtvimg.com/2026-10/je5dslao_colombia-mine-collapse_625x300_20_October_26.jpeg",
+          "article_url": "https://www.ndtv.com/world-news/14-killed-in-landslide-at-illegal-gold-mine-in-colombia-12208722#publisher=newsstand",
+          "published_at": "Tue, 20 Oct 2026 05:33:53 +0530",
           "cross_sections": []
+        },
+        {
+          "id": "bmR0di1ob3ctYS1jaGluZXNl",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "How A Chinese-Speaking Hacker Used AI Agents To Breach Over 100 Companies",
+          "summary": "Fagerland's report on the Chinese-speaking hacker did not name the victims, but Reuters was able to establish the victims' identities by independently reviewing the hacker's Cairn activity.",
+          "image_url": "https://c.ndtvimg.com/2026-10/oour4h2g_ai-hacker_625x300_20_October_26.jpeg",
+          "article_url": "https://www.ndtv.com/world-news/how-a-chinese-speaking-hacker-used-ai-agents-to-breach-over-100-companies-12208716#publisher=newsstand",
+          "published_at": "Tue, 20 Oct 2026 05:25:04 +0530",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "bmR0di1wZXRlLWhlZ3NldGgt",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Pete Hegseth Makes Surprise Visit To Israel, Meets Netanyahu: Report",
+          "summary": "US Defense Secretary Pete Hegseth met with Israeli Prime Minister Benjamin Netanyahu during an unannounced visit to Israel on Monday, Axios reported, citing two sources with knowledge.",
+          "image_url": "https://c.ndtvimg.com/2026-10/oa6de6h8_pete-hegseth-in-netanyahu_625x300_20_October_26.jpeg",
+          "article_url": "https://www.ndtv.com/world-news/pete-hegseth-meets-netanyahu-in-unannounced-visit-to-israel-report-12208686#publisher=newsstand",
+          "published_at": "Tue, 20 Oct 2026 04:51:58 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "bmR0di0yLWluZGlhbnMtYW1v",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "2 Indians Among 28 Green Card Holders Charged With Election Fraud In US",
+          "summary": "It said of the 28 persons charged with election fraud, 11 have been arrested in early morning raids across the state under 'Operation Protect the Vote' to combat and root out fraud in US elections and uphold electoral integrity.",
+          "image_url": "https://c.ndtvimg.com/2024-10/9q90snc_us-justice-department_625x300_21_October_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/world-news/2-indians-among-28-green-card-holders-charged-with-election-fraud-in-us-12208671#publisher=newsstand",
+          "published_at": "Tue, 20 Oct 2026 04:21:44 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di0xLWRlYWQtYWZ0ZXIt",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "1 Dead After Shooting Near Mosque In US",
+          "summary": "Federal and local authorities descended on the area as the Bureau of Alcohol, Tobacco, Firearms and Explosives said in a post on X that agents were responding to a report of a shooting at the mosque, northeast of downtown Columbus.",
+          "image_url": "https://c.ndtvimg.com/2024-07/aek4ib5o_us-police-generic_625x300_07_July_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/world-news/1-dead-after-shooting-near-mosque-in-ohio-in-us-12208660#publisher=newsstand",
+          "published_at": "Tue, 20 Oct 2026 04:06:20 +0530",
+          "cross_sections": [
+            "tech"
+          ]
         },
         {
           "id": "bmR0di11cy1jb3VydC1vcmRl",
@@ -4288,151 +4465,25 @@
           "summary": "A US federal judge on Monday ordered a former OpenAI employee from Saudi Arabia to remain in custody without bail because he was deemed to be a flight risk.",
           "image_url": "https://c.ndtvimg.com/2026-09/0hnc6en4_openai-reuters_625x300_24_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
           "article_url": "https://www.ndtv.com/world-news/us-court-orders-fired-saudi-engineer-to-remain-in-custody-in-openai-case-12208529#publisher=newsstand",
-          "published_at": "Tue, 20 Oct 2026 02:03:52 +0530",
+          "published_at": "Tue, 20 Oct 2026 03:46:32 +0530",
           "cross_sections": [
             "tech",
             "ai"
           ]
         },
         {
-          "id": "bmR0di1qYXBhbi1sYXVuY2hl",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Japan Launches World-First Mission To Moon Of Mars",
-          "summary": "The Japan Aerospace Exploration Agency, which is leading the bold sampling effort, launched the spacecraft before dawn from the country's main spaceport on Tanegashima Island.",
-          "image_url": "https://c.ndtvimg.com/2026-10/4p0nveh_japan-moon-mission_625x300_20_October_26.jpeg",
-          "article_url": "https://www.ndtv.com/world-news/japan-launches-world-first-mission-to-moon-of-mars-12208475#publisher=newsstand",
-          "published_at": "Tue, 20 Oct 2026 01:34:52 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di01Ny15ZWFyLW9sZC1t",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "57-Year-Old Man Jumps In Front Of Delhi Metro, Dies",
-          "summary": "The victim was identified as Sanjay Chopra, a resident of Kotla Mubarakpur in Delhi, who was reportedly working as a Life Insurance Corporation (LIC) agent, they said.",
-          "image_url": "https://c.ndtvimg.com/2025-11/n6loav9k_delhi-metro-generic_625x300_19_November_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/delhi-news/57-year-old-man-jumps-in-front-of-delhi-metro-dies-12208411#publisher=newsstand",
-          "published_at": "Tue, 20 Oct 2026 00:58:31 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1ib21iLWhvYXgtb24t",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Bomb Hoax On IndiGo Flight In Chennai, Fliers Deboarded, Take-Off Delayed",
-          "summary": "All passengers were offloaded by 6.55 pm as security personnel initiated the prescribed procedures, including an anti-sabotage check.",
-          "image_url": "https://c.ndtvimg.com/2026-05/1g6b396g_indigo_625x300_29_May_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/bomb-hoax-on-indigo-flight-in-chennai-fliers-deboarded-take-off-delayed-12208398#publisher=newsstand",
-          "published_at": "Tue, 20 Oct 2026 00:44:39 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1pbnNwaXJlZC1ieS1y",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Inspired By Reels, 3 Friends Came Up With 'Bigshot' Plan. Why It Failed",
-          "summary": "Influenced by an Instagram reel, one minor convinced two friends, a minor and an adult, to join him in his quest to become a bigshot.",
-          "image_url": "https://c.ndtvimg.com/2026-10/tgspb7tk_agra_625x300_20_October_26.jpeg",
-          "article_url": "https://www.ndtv.com/india-news/inspired-by-reels-3-friends-come-up-with-bigshot-plan-why-it-failed-12208344#publisher=newsstand",
-          "published_at": "Tue, 20 Oct 2026 00:41:39 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di10aWdlci1zaHJvZmYt",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Tiger Shroff Firing Case Updates: 3 Suspects Undergo Medical Examination In Kota, Transit Remand Granted",
-          "summary": "Tiger Shroff Firing Case Updates: Tiger Shroff sustained injuries on his shoulder, chest and his right arm.",
-          "image_url": "https://c.ndtvimg.com/2026-10/9saj5b1c_tiger-shroff-eknath-shinde_625x300_19_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/tiger-shroff-assassination-bid-updates-lawrence-bishnoi-gang-salman-khan-juhu-mumbai-12203309#publisher=newsstand",
-          "published_at": "Tue, 20 Oct 2026 00:34:49 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di12aWRlbzotaW4tIndv",
+          "id": "bmR0di10cnVtcC1zYXlzLWhl",
           "source_id": "ndtv",
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
           "feed_label": "World",
-          "title": "Video: In \"World's First\", Ukraine Airlifts Injured Soldier With Drone",
-          "summary": "The brigade published a video showing the drone lowering itself to the ground, before a man in combat gear fastens himself to a winch onboard and is lifted upwards.",
-          "image_url": "https://c.ndtvimg.com/2026-10/1odmfiqg_ukraine_625x300_20_October_26.jpeg",
-          "article_url": "https://www.ndtv.com/world-news/video-in-worlds-first-ukraine-airlifts-injured-soldier-with-drone-12208361#publisher=newsstand",
-          "published_at": "Tue, 20 Oct 2026 00:28:21 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1lbG9uLW11c2stcGxl",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Elon Musk Pledges To Give Away SpaceX Shares Worth $10 Billion To Every US Child",
-          "summary": "Shares of SpaceX, which will report its quarterly earnings on Tuesday, closed at $146.03 on Friday.",
-          "image_url": "https://c.ndtvimg.com/2024-08/9r47i6pc_elon-musk-ians_625x300_14_August_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/elon-musk-pledges-to-give-away-spacex-shares-worth-10-billion-to-every-us-child-12208358#publisher=newsstand",
-          "published_at": "Tue, 20 Oct 2026 00:26:47 +0530",
+          "title": "Trump Says He Is Ready To Meet Putin, Xi In China Next Month",
+          "summary": "US President Donald Trump on Monday indicated he is ready to meet with his Russian and Chinese counterparts during a summit in China next month centered on denuclearization.Do",
+          "image_url": "https://c.ndtvimg.com/2026-05/su2ndu6o_donald-trump-afp_625x300_12_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/world-news/trump-says-he-is-ready-to-meet-with-putin-xi-jinping-next-month-in-china-12208457#publisher=newsstand",
+          "published_at": "Tue, 20 Oct 2026 02:43:35 +0530",
           "cross_sections": []
-        },
-        {
-          "id": "bmR0di1pbi1udW1iZXJzOi13",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "In Numbers: What Is Fueling Protests In France",
-          "summary": "The protests were launched by students demanding better learning conditions. Students and teachers have expressed their anger at overcrowded classrooms and the cut of more than 4,000 teaching posts outlined in the government's 2026 budget.",
-          "image_url": "https://c.ndtvimg.com/2026-10/utsb06ks_france_625x300_20_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/in-numbers-what-is-fueling-protests-in-france-12208326#publisher=newsstand",
-          "published_at": "Tue, 20 Oct 2026 00:03:27 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "bmR0di11a3JhaW5lLXN0cmlr",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Ukraine Strike On 'Russian Google' Leaves Millions With No Access To Money",
-          "summary": "Many people took to social media to say they could not book a taxi or order food. Others could not open files on the company's storage service. Some even struggled to get into their homes after their digital keys went offline.",
-          "image_url": "https://c.ndtvimg.com/2026-10/agh0e6nc_russia-ukraine-war_625x300_19_October_26.jpeg",
-          "article_url": "https://www.ndtv.com/world-news/ukraine-strike-data-centres-on-russian-google-leaves-millions-with-no-access-to-money-12208271#publisher=newsstand",
-          "published_at": "Mon, 19 Oct 2026 23:39:39 +0530",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -4443,125 +4494,121 @@
       "category": "Broadcaster",
       "articles": [
         {
-          "id": "YWxqYXplZXJhLXRydW1wOi3i",
+          "id": "YWxqYXplZXJhLXNhdWRpLWFy",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
           "source_region": "Middle East & Africa",
           "source_category": "Broadcaster",
           "feed_label": "All News",
-          "title": "Trump: ‘Paris is going to be a Muslim city very soon’",
-          "summary": "US President Donald Trump blamed immigrants for the unrest in France, claiming Paris would soon become a ‘Muslim city’.",
+          "title": "Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks",
+          "summary": "Riyadh postpones flagship investment conference until 2027, orders government staff to work from home.",
           "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/trump-paris-is-going-to-be-a-muslim-city-very?traffic_source=rss",
-          "published_at": "Mon, 19 Oct 2026 22:37:19 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLWVneXB0aWFu",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Egyptian parliament delays vote on military support for Saudi Arabia",
-          "summary": "Lawmakers adjourn session as opposition party tells members to abstain over unclear commitment.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss",
-          "published_at": "Mon, 19 Oct 2026 21:46:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLTE2MC1wZW9w",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "160 people reported killed in escalating drone attacks across Sudan",
-          "summary": "Rights groups warn increasing attacks by unmanned aircraft are targeting civilians and infrastructure.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss",
-          "published_at": "Mon, 19 Oct 2026 21:38:46 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLWNvdWxkLXlv",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Could your halal pension be funding Israel’s military?",
-          "summary": "HSBC’s ‘sharia-compliant’ fund invested over $100 million in companies linked to Israel’s military.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss",
-          "published_at": "Mon, 19 Oct 2026 21:28:02 +0000",
+          "article_url": "https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks?traffic_source=rss",
+          "published_at": "Tue, 20 Oct 2026 01:05:31 +0000",
           "cross_sections": []
         },
         {
-          "id": "YWxqYXplZXJhLWlzcmFlbGkt",
+          "id": "YWxqYXplZXJhLeKAmHJlbGVh",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
           "source_region": "Middle East & Africa",
           "source_category": "Broadcaster",
           "feed_label": "All News",
-          "title": "Israeli police say they arrested 10 in connection with settler attacks",
-          "summary": "Israeli police released a video they say shows the arrest of 10 suspects over weekend settler violence.",
+          "title": "‘Release Epstein files’, protester interrupts JD Vance’s speech",
+          "summary": "A protester demanding the release of the Epstein files interrupted US Vice President JD Vance's speech.",
           "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/israeli-police-say-they-arrested-10-in-connection-with-settler-attacks?traffic_source=rss",
-          "published_at": "Mon, 19 Oct 2026 21:00:03 +0000",
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/release-epstein-files-protester-interrupts-jd-vances-speech?traffic_source=rss",
+          "published_at": "Tue, 20 Oct 2026 00:18:48 +0000",
           "cross_sections": []
         },
         {
-          "id": "YWxqYXplZXJhLXRydW1wLWFw",
+          "id": "YWxqYXplZXJhLXJhc2hpZGEt",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
           "source_region": "Middle East & Africa",
           "source_category": "Broadcaster",
           "feed_label": "All News",
-          "title": "Trump approval hits record-low 31 percent, polls show Republican struggles",
-          "summary": "Reuters/Ipsos poll shows Democrats leading by 12 points in generic US congressional ballot surveys against Republicans.",
+          "title": "Rashida Tlaib demands arrest of Israeli soldier linked to Hind Rajab death",
+          "summary": "US lawmaker says that government must arrest Israeli commander allegedly responsible for attack while he is in the US.",
           "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/10/19/trump-approval-hits-record-low-31-percent-polls-show-republican-struggles?traffic_source=rss",
-          "published_at": "Mon, 19 Oct 2026 20:59:05 +0000",
+          "article_url": "https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death?traffic_source=rss",
+          "published_at": "Tue, 20 Oct 2026 00:18:20 +0000",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YWxqYXplZXJhLWluanVyZWQt",
+          "id": "YWxqYXplZXJhLWhlZ3NldGgt",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
           "source_region": "Middle East & Africa",
           "source_category": "Broadcaster",
           "feed_label": "All News",
-          "title": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission",
-          "summary": "The Ukrainian army says it has carried out the world’s first drone evacuation of a wounded soldier from the front line.",
+          "title": "Hegseth meets Netanyahu in unannounced Israel visit",
+          "summary": "Hegseth has travelled to Israel to meet Netanyahu ahead of a closely contested election, Axios reported, citing sources.",
           "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss",
-          "published_at": "Mon, 19 Oct 2026 20:49:39 +0000",
+          "article_url": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss",
+          "published_at": "Tue, 20 Oct 2026 00:08:01 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLWV4aWxlZC1j",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Exiled critic of Rwandan president found beheaded in Uganda",
+          "summary": "Ugandan police say a male body has been found in a village near Kampala, and his head has yet to be located.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/10/20/exiled-critic-of-rwandan-president-found-beheaded-in-uganda?traffic_source=rss",
+          "published_at": "Tue, 20 Oct 2026 00:06:00 +0000",
+          "cross_sections": []
+        },
+        {
+          "id": "YWxqYXplZXJhLWlyYW4td2Fy",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Iran war live: Trump says US hits Iran hard ‘economically and militarily’",
+          "summary": "Trump says US continues to hit Iran 'economically and militarily' while praising Russia for doing 'nothing' to aid Iran.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss",
+          "published_at": "Tue, 20 Oct 2026 00:00:00 +0000",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YWxqYXplZXJhLWtlbnlhLWNv",
+          "id": "YWxqYXplZXJhLW1haG1vdWQt",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
           "source_region": "Middle East & Africa",
           "source_category": "Broadcaster",
           "feed_label": "All News",
-          "title": "Kenya convicts cult leader over the murder of 190 children",
-          "summary": "The leader of a Kenyan cult who instructed followers to starve themselves to death to reach heaven has been found guilty",
+          "title": "Mahmoud Khalil takes deportation fight to the US Supreme Court",
+          "summary": "Lawyers for the former student leader seek to overturn an appeals court decision that would allow for his removal.",
           "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/kenya-convicts-cult-leader-over-the-murder-of-190-children?traffic_source=rss",
-          "published_at": "Mon, 19 Oct 2026 20:31:21 +0000",
+          "article_url": "https://www.aljazeera.com/news/2026/10/19/mahmoud-khalil-takes-deportation-fight-to-the-us-supreme-court?traffic_source=rss",
+          "published_at": "Mon, 19 Oct 2026 23:56:32 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLWNvbG9tYmlh",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Colombia illegal gold mine collapse kills 14 people",
+          "summary": "Illegal gold mine collapse in southwestern Colombia leaves 14 people dead, 7 injured.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/10/19/colombia-illegal-gold-mine-collapse-kills-14-people?traffic_source=rss",
+          "published_at": "Mon, 19 Oct 2026 23:56:17 +0000",
           "cross_sections": []
         }
       ]
@@ -4573,123 +4620,125 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "YXJhYm5ld3MtaGVnc2V0aC1t",
+          "id": "YXJhYm5ld3MtdG90dGVuaGFt",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Hegseth meets Netanyahu in unannounced visit to Israel, reports Axios",
-          "summary": "WASHINGTON: US Defense Secretary Pete Hegseth met with Israeli Prime Minister Benjamin Netanyahu during an unannounced visit to Israel on Monday, ‌Axios reported, ‌citing two sources ​with ‌knowledge. The ⁠Pentagon ​and Israel’s ⁠embassy in Washington did not immediately respond to requests for comm",
-          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1792451332424-ac3c16da1379c8f5.jpg",
-          "article_url": "https://www.arabnews.com/middle-east/hegseth-meets-netanyahu-in-unannounced-visit-to-israel-reports-axios-3007242",
-          "published_at": "Mon, 19 Oct 2026 23:09:38 GMT",
+          "title": "Tottenham’s agonizing wait for a Premier League win ends with Coventry victory",
+          "summary": "LONDON: Tottenham Hotspur fans have been ‌crying out for a bit of quality this season and they finally got it on Monday as the North London side claimed their first Premier League ​win in 148 days with a 3-1 home success against Coventry City. Tottenham are the last of the 92 clubs in England’s foot",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1792454814486-e96c3dfdd3a9ed5e.jpg",
+          "article_url": "https://www.arabnews.com/football/tottenhams-agonizing-wait-for-a-premier-league-win-ends-with-coventry-victory-3007251",
+          "published_at": "Tue, 20 Oct 2026 00:09:35 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtYXVzdHJhbGlh",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Australian prime minister says lawmaker critically injured by car is ‘no accident’",
+          "summary": "MELBOURNE, Australia: An Australian federal lawmaker remained in critical condition Tuesday after undergoing surgery for injuries sustained when she was hit by a car in what Prime Minister Anthony Albanese said was an apparently deliberate attack. Helen Haines, a 65-year-old independent politician, ",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1792454655515-4e4e1c7fa147377d.jpg",
+          "article_url": "https://www.arabnews.com/world/australian-prime-minister-says-lawmaker-critically-injured-by-car-is-no-accident-3007250",
+          "published_at": "Tue, 20 Oct 2026 00:04:51 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3Mt4oCYY2xvc2Ut",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "‘Close up your borders’: Trump blames French unrest on immigration",
+          "summary": "WASHINGTON, United States: US President Donald Trump on Monday again blamed immigration for protests and violence that have rocked France in recent days, urging Europe and French President Emmanuel Macron to tighten borders. “What’s happening in France has to do with immigration, not schools, not an",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1792453803486-2d43f200540982d9.jpg",
+          "article_url": "https://www.arabnews.com/world/close-up-your-borders-trump-blames-french-unrest-on-immigration-3007249",
+          "published_at": "Mon, 19 Oct 2026 23:55:01 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtYXJ0ZnVsLWdp",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Artful gifts",
+          "summary": "Participants will work in pairs, painting plates inspired by each other during this relaxed art session on Thursday. Book at experiences.suplift.com .",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1792452557439-13d52668b7b1cfa8.jpg",
+          "article_url": "https://www.arabnews.com/ksa-today/artful-gifts-3007248",
+          "published_at": "Mon, 19 Oct 2026 23:29:27 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtdGloYW1hLXZp",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Tihama views",
+          "summary": "Nafas is a family-friendly experience at Asir National Park, offering nature, restaurants and attractions with stunning views of Tihama. It runs until Feb. 28. Check abha.platinumlist.net .",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1792452485126-c60f83a7b6ce5e40.jpg",
+          "article_url": "https://www.arabnews.com/ksa-today/tihama-views-3007247",
+          "published_at": "Mon, 19 Oct 2026 23:28:19 GMT",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtdXMtYW5kLWN1",
+          "id": "YXJhYm5ld3Mtc3BhY2UtZm9y",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "US and Cuba clash at UN ahead of sanctions vote",
-          "summary": "The United States and Cuba exchanged accusations at the United Nations before a key vote on a resolution to end the US embargo on Cuba. Tensions flared as Cuban and US diplomats clashed at an event featuring Cuban dissidents.",
-          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1792450252460-fd6c5b1d9cfb6cac.jpg",
-          "article_url": "https://www.arabnews.com/world/us-and-cuba-clash-at-un-ahead-of-sanctions-vote-3007241",
-          "published_at": "Mon, 19 Oct 2026 22:52:49 GMT",
+          "title": "Space for all",
+          "summary": "“Tafasahu: Make Room” is an exhibition inviting visitors to pause, gather and reflect on belonging through the traditional majlis. It runs until March 20, 2027.",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1792452434332-0f3a02f0e3f05251.jpg",
+          "article_url": "https://www.arabnews.com/ksa-today/space-for-all-3007246",
+          "published_at": "Mon, 19 Oct 2026 23:27:23 GMT",
           "cross_sections": []
         },
         {
-          "id": "YXJhYm5ld3MtamFwYW4tbGF1",
+          "id": "YXJhYm5ld3MtZW5kbGVzcy1w",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Japan launches spacecraft to mysterious moons of Mars",
-          "summary": "TOKYO: A Japanese spacecraft rocketed toward Mars on Tuesday on an unprecedented quest to explore its mysterious moons and bring back samples. Five of the world’s space agencies joined forces for the five-year mission that will attempt to land a robotic prospector plus a rover on Phobos, the larger ",
-          "image_url": "https://assets.maestronewsroom.com/media/shared/wires/ap/20261018/61b604c2b510-Japan_Mars_Moons_42272--f600a.jpg",
-          "article_url": "https://www.arabnews.com/world/japan-launches-spacecraft-to-mysterious-moons-of-mars-3007240",
-          "published_at": "Mon, 19 Oct 2026 22:45:20 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "YXJhYm5ld3MtZnJhbmNlLWFu",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "France announces curfews as government grapples with unrest",
-          "summary": "The French government has imposed partial curfews in Paris and other cities following severe street violence over rising prices. Prime Minister Sebastien Lecornu has not discounted declaring a state of emergency.",
-          "image_url": "https://assets.maestronewsroom.com/media/shared/wires/ap/20261017/1ef2f82d1434-France_Protests_75145--4457e.jpg",
-          "article_url": "https://www.arabnews.com/world/france-announces-curfews-as-government-grapples-with-unrest-3007237",
-          "published_at": "Mon, 19 Oct 2026 21:04:51 GMT",
+          "title": "Endless play",
+          "summary": "Day Day Game offers more than 120 games for visitors aged 16 and older, from competitive challenges to casual entertainment. Visit riyadh.platinumlist.net .",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1792452379804-0216bbc27f6cc175.jpg",
+          "article_url": "https://www.arabnews.com/ksa-today/endless-play-3007245",
+          "published_at": "Mon, 19 Oct 2026 23:26:31 GMT",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YXJhYm5ld3Mt4oCZYWNjaWRl",
+          "id": "YXJhYm5ld3MtY2Fwc2l6aW5n",
           "source_id": "arabnews",
           "source_name": "Arab News",
           "source_region": "Middle East & Africa",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "’Accidental’ blast at Libya training center kills eight: official",
-          "summary": "TRIPOLI: Eight recruits were killed and several others wounded in an accidental blast at a training center for security forces in western Libya, an official told AFP on Monday. The explosion went off during a live-fire exercise late on Sunday in Zawiya, said the official from the city’s security dir",
-          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1792443323837-5755618b0f098b3f.jpg",
-          "article_url": "https://www.arabnews.com/middle-east/accidental-blast-at-libya-training-center-kills-eight-official-3007236",
-          "published_at": "Mon, 19 Oct 2026 20:56:21 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtaG9tZWxhbmQt",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Homeland Security grants temporary deportation reprieve for more than 100K Ukrainians and Sudanese",
-          "summary": "MIAMI: More than 100,000 people from Ukraine and Sudan can stay in the United States without immediate risk of deportation, the Department of Homeland Security said, in what amounts to a temporary reprieve after their right to stay in the country was set to expire Monday. Temporary Protected Status ",
-          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1792442492416-8656c3d02071532f.jpg",
-          "article_url": "https://www.arabnews.com/world/homeland-security-grants-temporary-deportation-reprieve-for-more-than-100k-ukrainians-and-sudanese-3007235",
-          "published_at": "Mon, 19 Oct 2026 20:42:37 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtdXMtb2ZmaWNp",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "US officials plan to travel to Norway for Ukraine talks, sources say",
-          "summary": "Jared Kushner and Steve Witkoff are scheduled to travel to Norway for negotiations aimed at ending the war in Ukraine, with Ukrainian President Volodymyr Zelensky expected to participate. This follows rising tensions between the US and Ukraine over recent limitations on the Starshield satellite syst",
-          "image_url": "https://assets.maestronewsroom.com/media/shared/wires/reuters/20261018/a290d1d848c8-2026-10-01T100823Z_1961965411_RC2AUNAXYB1N_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-SCHOOL.JPG",
-          "article_url": "https://www.arabnews.com/world/us-officials-plan-to-travel-to-norway-for-ukraine-talks-sources-say-3007220",
-          "published_at": "Mon, 19 Oct 2026 20:30:27 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtdHJ1bXAtYXBw",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Trump approval falls to record low of 31 percent as midterms near, Reuters/Ipsos poll finds",
-          "summary": "President Trump’s approval rating has hit a historic low of 31 percent as the midterm elections approach, according to a Reuters/Ipsos poll. The poll indicates stronger support for Democrats, particularly among women.",
-          "image_url": "https://assets.maestronewsroom.com/media/shared/wires/ap/20261019/c29a2abc5106-Trump_16_5_--e0b89.jpg",
-          "article_url": "https://www.arabnews.com/world/trump-approval-falls-to-record-low-of-31-percent-as-midterms-near-reutersipsos-poll-finds-3007222",
-          "published_at": "Mon, 19 Oct 2026 20:30:23 GMT",
+          "title": "Capsizings cause the deaths of 12 migrants off Greek islands",
+          "summary": "ATHENS, Greece: A dozen migrants died in separate speedboat capsizings off the Greek islands of Lesbos and Samos, Greece’s coast guard said Monday. An infant was among the dead. Six people died when a speedboat ferrying Syrian and Palestinian migrants struck the port side of a Greek coast guard vess",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1792451880044-49ac14666fd8f5d7.jpg",
+          "article_url": "https://www.arabnews.com/world/capsizings-cause-the-deaths-of-12-migrants-off-greek-islands-3007244",
+          "published_at": "Mon, 19 Oct 2026 23:18:58 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -4773,7 +4822,7 @@
         {
           "id": "cnbc",
           "name": "CNBC",
-          "count": 15
+          "count": 14
         },
         {
           "id": "fox",
@@ -4790,17 +4839,17 @@
         {
           "id": "bbc",
           "name": "BBC News",
-          "count": 20
+          "count": 21
         },
         {
           "id": "guardian",
           "name": "The Guardian",
-          "count": 24
+          "count": 23
         },
         {
           "id": "euronews",
           "name": "Euronews",
-          "count": 8
+          "count": 16
         },
         {
           "id": "dw",
@@ -4832,7 +4881,7 @@
         {
           "id": "ndtv",
           "name": "NDTV",
-          "count": 12
+          "count": 9
         }
       ]
     },
@@ -4861,6 +4910,423 @@
       "icon": "💻",
       "articles": [
         {
+          "id": "Y25iYy10b3AtdmVudHVyZS1j",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Top venture capitalist Jenny Lee says Asian startups are speeding toward IPOs",
+          "summary": "The timeline for startups to do initial public offerings has accelerated, according to Granite Asia's Jenny Lee",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/10/20/venture-capital-jenny-lee-granite-asia-startups.html",
+          "published_at": "Tue, 20 Oct 2026 01:38:41 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLWNoYW5jZWxsb3ItcmVq",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+          "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e7/live/6cd357a0-cc17-11f1-b7d0-7f346cefa9a9.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 20 Oct 2026 01:31:09 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy10ZWNobm9s",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Technologies seen at Osaka Expo increasingly being put into practice",
+          "summary": "Technologies showcased at the 2025 World Exposition in Osaka, including a sheet of heart muscle cells made from induced pluripotent stem (iPS) cells, are seeing growing practical applications.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/20/569394.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/10/20/japan/japan-osaka-expo-legacy-one-year/",
+          "published_at": "Tue, 20 Oct 2026 10:31:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGVjaGNydW5jaC1tYW1kYW5p",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+          "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+          "published_at": "Tue, 20 Oct 2026 01:27:03 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLWFzaWFuLXBhcmEtZ2Ft",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Asian Para Games: Bhavina Patel wins bronze in table tennis",
+          "summary": "Bhavina Patel won a bronze medal in the women's singles Class 4-5 table tennis event at the Asian Para Games 2026. She lost in the semi-finals to Zhang Bian of China, finishing her singles campaign. Previously, Bhavina was the flag bearer for India at these Games. Her notable achievements include wi",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/asian-para-games-2026-bhavina-patel-wins-bronze-in-table-tennis/articleshow/135059299.cms",
+          "published_at": "Tue, 20 Oct 2026 06:52:36 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy1hdXN0cmFs",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Australian lawmaker in critical condition after vehicle attack",
+          "summary": "Independent Helen Haines was struck outside her office in an incident the country's prime minister said was a deliberate act.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/20/569386.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/10/20/asia-pacific/politics/australian-lawmaker-vehicle-attack/",
+          "published_at": "Tue, 20 Oct 2026 10:05:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy16ZWxlbnNr",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Zelenskyy says Ukraine got no warning of overnight Russian missile strike",
+          "summary": "In all, Russia fired 16 ballistic missiles overnight at Kyiv and the surrounding region and more than 200 drones.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/20/569380.JPG",
+          "article_url": "https://www.japantimes.co.jp/news/2026/10/20/world/ukraine-russian-missiles-no-warn/",
+          "published_at": "Tue, 20 Oct 2026 09:52:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtbW9ybmluZy1k",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Morning Digest: Jaishankar welcomes UAE’s Foreign Minister Al Nahyan in Mumbai; gunmen kill at least 40 civilians in Mali, and more",
+          "summary": "Here is a select list of stories to start the day",
+          "image_url": "https://th-i.thgim.com/public/news/national/wbs178/article71603100.ece/alternates/LANDSCAPE_1200/HVA9MoWbUAA9fDZ.jpg",
+          "article_url": "https://www.thehindu.com/news/morning-digest-october-20-2026/article71603098.ece",
+          "published_at": "Tue, 20 Oct 2026 06:18:41 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di10cnVtcC1zYXlzLXpl",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Trump Says Zelensky Should Get \"Somebody Else\" To Negotiate To End War",
+          "summary": "Trump also told reporters that Russia has been \"fine\" with regards to Ukraine. \"They haven't been doing much,\" he said.",
+          "image_url": "https://c.ndtvimg.com/2026-10/2hlie7t_donald-trump-and-zelensky_625x300_20_October_26.jpeg",
+          "article_url": "https://www.ndtv.com/world-news/donald-trump-says-volodymyr-zelensky-should-get-somebody-else-to-negotiate-to-end-war-12208745#publisher=newsstand",
+          "published_at": "Tue, 20 Oct 2026 06:07:25 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iYy10aHJlZS1iaWctdGFr",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Three big takeaways from the IMF-World Bank meetings",
+          "summary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
+          "published_at": "Tue, 20 Oct 2026 00:33:34 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ZHctYXQtbGVhc3QtZm91ci1k",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "At least four dead after flooding in eastern Spain",
+          "summary": "At least four people have died in Spain as torrential rain has battered the country's eastern Mediterranean coast. The severe flooding had left more than 450 people stranded on rooftops, in buildings or in cars.",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/at-least-four-dead-after-flooding-in-eastern-spain/a-79707781?maca=en-rss-en-world-4025-xml-mrss",
+          "published_at": "Tue, 20 Oct 2026 00:32:00 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXJhc2hpZGEt",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Rashida Tlaib demands arrest of Israeli soldier linked to Hind Rajab death",
+          "summary": "US lawmaker says that government must arrest Israeli commander allegedly responsible for attack while he is in the US.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death?traffic_source=rss",
+          "published_at": "Tue, 20 Oct 2026 00:18:20 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtdG90dGVuaGFt",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Tottenham’s agonizing wait for a Premier League win ends with Coventry victory",
+          "summary": "LONDON: Tottenham Hotspur fans have been ‌crying out for a bit of quality this season and they finally got it on Monday as the North London side claimed their first Premier League ​win in 148 days with a 3-1 home success against Coventry City. Tottenham are the last of the 92 clubs in England’s foot",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1792454814486-e96c3dfdd3a9ed5e.jpg",
+          "article_url": "https://www.arabnews.com/football/tottenhams-agonizing-wait-for-a-premier-league-win-ends-with-coventry-victory-3007251",
+          "published_at": "Tue, 20 Oct 2026 00:09:35 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtYXVzdHJhbGlh",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Australian prime minister says lawmaker critically injured by car is ‘no accident’",
+          "summary": "MELBOURNE, Australia: An Australian federal lawmaker remained in critical condition Tuesday after undergoing surgery for injuries sustained when she was hit by a car in what Prime Minister Anthony Albanese said was an apparently deliberate attack. Helen Haines, a 65-year-old independent politician, ",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1792454655515-4e4e1c7fa147377d.jpg",
+          "article_url": "https://www.arabnews.com/world/australian-prime-minister-says-lawmaker-critically-injured-by-car-is-no-accident-3007250",
+          "published_at": "Tue, 20 Oct 2026 00:04:51 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLXVzLWNodXJjaC1vbi1m",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "US church on frontline of battle against drug known as 'tranq'",
+          "summary": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/483d/live/f2db5f30-cbdd-11f1-9a39-31b474234113.jpg",
+          "article_url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 20 Oct 2026 00:02:32 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLWlyYW4td2Fy",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Iran war live: Trump says US hits Iran hard ‘economically and militarily’",
+          "summary": "Trump says US continues to hit Iran 'economically and militarily' while praising Russia for doing 'nothing' to aid Iran.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss",
+          "published_at": "Tue, 20 Oct 2026 00:00:00 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLW1haG1vdWQt",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Mahmoud Khalil takes deportation fight to the US Supreme Court",
+          "summary": "Lawyers for the former student leader seek to overturn an appeals court decision that would allow for his removal.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/10/19/mahmoud-khalil-takes-deportation-fight-to-the-us-supreme-court?traffic_source=rss",
+          "published_at": "Mon, 19 Oct 2026 23:56:32 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1ob3ctYS1jaGluZXNl",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "How A Chinese-Speaking Hacker Used AI Agents To Breach Over 100 Companies",
+          "summary": "Fagerland's report on the Chinese-speaking hacker did not name the victims, but Reuters was able to establish the victims' identities by independently reviewing the hacker's Cairn activity.",
+          "image_url": "https://c.ndtvimg.com/2026-10/oour4h2g_ai-hacker_625x300_20_October_26.jpeg",
+          "article_url": "https://www.ndtv.com/world-news/how-a-chinese-speaking-hacker-used-ai-agents-to-breach-over-100-companies-12208716#publisher=newsstand",
+          "published_at": "Tue, 20 Oct 2026 05:25:04 +0530",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3Mt4oCYY2xvc2Ut",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "‘Close up your borders’: Trump blames French unrest on immigration",
+          "summary": "WASHINGTON, United States: US President Donald Trump on Monday again blamed immigration for protests and violence that have rocked France in recent days, urging Europe and French President Emmanuel Macron to tighten borders. “What’s happening in France has to do with immigration, not schools, not an",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1792453803486-2d43f200540982d9.jpg",
+          "article_url": "https://www.arabnews.com/world/close-up-your-borders-trump-blames-french-unrest-on-immigration-3007249",
+          "published_at": "Mon, 19 Oct 2026 23:55:01 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtYXJ0ZnVsLWdp",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Artful gifts",
+          "summary": "Participants will work in pairs, painting plates inspired by each other during this relaxed art session on Thursday. Book at experiences.suplift.com .",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1792452557439-13d52668b7b1cfa8.jpg",
+          "article_url": "https://www.arabnews.com/ksa-today/artful-gifts-3007248",
+          "published_at": "Mon, 19 Oct 2026 23:29:27 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtZW5kbGVzcy1w",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Endless play",
+          "summary": "Day Day Game offers more than 120 games for visitors aged 16 and older, from competitive challenges to casual entertainment. Visit riyadh.platinumlist.net .",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1792452379804-0216bbc27f6cc175.jpg",
+          "article_url": "https://www.arabnews.com/ksa-today/endless-play-3007245",
+          "published_at": "Mon, 19 Oct 2026 23:26:31 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bnl0LXRydW1wLWdvbGYtY291",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Trump Golf Course Dispute Sparks Clash Between Judge and DOJ",
+          "summary": "Government attorneys sparred with Judge Ana C. Reyes over testimony by several government witnesses about the chain of decisions surrounding East Potomac Golf Links.",
+          "image_url": "https://static01.nyt.com/images/2026/10/19/multimedia/19dc-golf-lpbk/19dc-golf-lpbk-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/10/19/us/politics/trump-washington-golf-course.html",
+          "published_at": "Mon, 19 Oct 2026 23:24:54 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YmJjLWNyaW1pbmFscy1kZXRh",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Criminals detained in hospital set to lose benefits",
+          "summary": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afb8/live/3a87a300-cbdb-11f1-bc2e-018d645d8d21.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 19 Oct 2026 23:21:38 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtY2Fwc2l6aW5n",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Capsizings cause the deaths of 12 migrants off Greek islands",
+          "summary": "ATHENS, Greece: A dozen migrants died in separate speedboat capsizings off the Greek islands of Lesbos and Samos, Greece’s coast guard said Monday. An infant was among the dead. Six people died when a speedboat ferrying Syrian and Palestinian migrants struck the port side of a Greek coast guard vess",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1792451880044-49ac14666fd8f5d7.jpg",
+          "article_url": "https://www.arabnews.com/world/capsizings-cause-the-deaths-of-12-migrants-off-greek-islands-3007244",
+          "published_at": "Mon, 19 Oct 2026 23:18:58 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLWluc2lkZS1sYXdyZW5j",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Inside Lawrence Bishnoi gang’s ‘shadow cabinet’: 5 key aides running global operations",
+          "summary": "",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/india/ringleader-lawrence-bishnoi-in-jail-shadow-cabinet-runs-gang-tiger-shroff-attack-anil-pandit/articleshow/135058470.cms",
+          "published_at": "Tue, 20 Oct 2026 04:32:33 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di0yLWluZGlhbnMtYW1v",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "2 Indians Among 28 Green Card Holders Charged With Election Fraud In US",
+          "summary": "It said of the 28 persons charged with election fraud, 11 have been arrested in early morning raids across the state under 'Operation Protect the Vote' to combat and root out fraud in US elections and uphold electoral integrity.",
+          "image_url": "https://c.ndtvimg.com/2024-10/9q90snc_us-justice-department_625x300_21_October_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/world-news/2-indians-among-28-green-card-holders-charged-with-election-fraud-in-us-12208671#publisher=newsstand",
+          "published_at": "Tue, 20 Oct 2026 04:21:44 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "dGVjaGNydW5jaC1lbWJlZGRl",
           "source_id": "techcrunch",
           "source_name": "TechCrunch",
@@ -4868,7 +5334,7 @@
           "source_category": "Tech Media",
           "feed_label": "Latest",
           "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-          "summary": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, H",
+          "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
           "published_at": "Mon, 19 Oct 2026 22:49:27 +0000",
@@ -4909,49 +5375,17 @@
           ]
         },
         {
-          "id": "amFwYW50aW1lcy10cnVtcC1v",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
+          "id": "bmR0di0xLWRlYWQtYWZ0ZXIt",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
           "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Trump open to trilateral summit with Putin and Xi but wants denuclearization focus",
-          "summary": "Russian leader Vladimir Putin has reportedly proposed a summit for talks on the war in Ukraine, possibly during next month's APEC summit in China.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/20/569385.JPG",
-          "article_url": "https://www.japantimes.co.jp/news/2026/10/20/world/trump-open-xi-putin-meet/",
-          "published_at": "Tue, 20 Oct 2026 07:39:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLXRyYWRlLWRlYWwtd2l0",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Trade deal with New Zealand kicks in today: Where India gains",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/business/india-business/indias-trade-deal-with-new-zealand-kicks-in-today/articleshow/135058369.cms",
-          "published_at": "Tue, 20 Oct 2026 04:07:53 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXRydW1wOi3i",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
           "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Trump: ‘Paris is going to be a Muslim city very soon’",
-          "summary": "US President Donald Trump blamed immigrants for the unrest in France, claiming Paris would soon become a ‘Muslim city’.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/trump-paris-is-going-to-be-a-muslim-city-very?traffic_source=rss",
-          "published_at": "Mon, 19 Oct 2026 22:37:19 +0000",
+          "feed_label": "Top Stories",
+          "title": "1 Dead After Shooting Near Mosque In US",
+          "summary": "Federal and local authorities descended on the area as the Bureau of Alcohol, Tobacco, Firearms and Explosives said in a post on X that agents were responding to a report of a shooting at the mosque, northeast of downtown Columbus.",
+          "image_url": "https://c.ndtvimg.com/2024-07/aek4ib5o_us-police-generic_625x300_07_July_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/world-news/1-dead-after-shooting-near-mosque-in-ohio-in-us-12208660#publisher=newsstand",
+          "published_at": "Tue, 20 Oct 2026 04:06:20 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5022,6 +5456,23 @@
           ]
         },
         {
+          "id": "bmR0di11cy1jb3VydC1vcmRl",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "US Court Orders Fired Saudi Engineer To Remain In Custody In OpenAI Case",
+          "summary": "A US federal judge on Monday ordered a former OpenAI employee from Saudi Arabia to remain in custody without bail because he was deemed to be a flight risk.",
+          "image_url": "https://c.ndtvimg.com/2026-09/0hnc6en4_openai-reuters_625x300_24_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/world-news/us-court-orders-fired-saudi-engineer-to-remain-in-custody-in-openai-case-12208529#publisher=newsstand",
+          "published_at": "Tue, 20 Oct 2026 03:46:32 +0530",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "bnl0LWVsb24tbXVzay1zYXlz",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -5046,61 +5497,13 @@
           "source_category": "Tech Media",
           "feed_label": "Latest",
           "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-          "summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+          "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
           "published_at": "Mon, 19 Oct 2026 22:04:28 +0000",
           "cross_sections": [
             "tech",
             "ai"
-          ]
-        },
-        {
-          "id": "bnl0LXRydW1wLWdvbGYtY291",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Trump Golf Course Dispute Sparks Clash Between Judge and DOJ",
-          "summary": "Government attorneys sparred with Judge Ana C. Reyes over testimony by several government witnesses about the chain of decisions surrounding East Potomac Golf Links.",
-          "image_url": "https://static01.nyt.com/images/2026/10/19/multimedia/19dc-golf-lpbk/19dc-golf-lpbk-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/10/19/us/politics/trump-washington-golf-course.html",
-          "published_at": "Mon, 19 Oct 2026 21:47:53 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLWVneXB0aWFu",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Egyptian parliament delays vote on military support for Saudi Arabia",
-          "summary": "Lawmakers adjourn session as opposition party tells members to abstain over unclear commitment.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss",
-          "published_at": "Mon, 19 Oct 2026 21:46:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLTE2MC1wZW9w",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "160 people reported killed in escalating drone attacks across Sudan",
-          "summary": "Rights groups warn increasing attacks by unmanned aircraft are targeting civilians and infrastructure.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss",
-          "published_at": "Mon, 19 Oct 2026 21:38:46 +0000",
-          "cross_sections": [
-            "tech"
           ]
         },
         {
@@ -5150,361 +5553,6 @@
           "cross_sections": [
             "tech",
             "ai"
-          ]
-        },
-        {
-          "id": "YmJjLWV4LW9wZW5haS13b3Jr",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-          "summary": "The Saudi government did not immediately respond to BBC requests for comment.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png",
-          "article_url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 19 Oct 2026 21:12:30 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "YmJjLXVzLWNodXJjaC1vbi1m",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "US Church on frontline of battle against drug known as 'tranq'",
-          "summary": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/483d/live/f2db5f30-cbdd-11f1-9a39-31b474234113.jpg",
-          "article_url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 19 Oct 2026 21:05:54 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iY3RlY2gtZ29vZ2xlLXNh",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Google says it can build data centers the right way. Some experts and residents are skeptical",
-          "summary": "Google says its Minnesota AI data center will add clean energy to the grid and protect ratepayers. Experts question whether grid upgrades are needed.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
-          "published_at": "Mon, 19 Oct 2026 21:05:20 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy1nb29nbGUtc2F5cy1p",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Google says it can build data centers the right way. Some experts and residents are skeptical",
-          "summary": "Google says its Minnesota AI data center will add clean energy to the grid and protect ratepayers. Experts question whether grid upgrades are needed.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
-          "published_at": "Mon, 19 Oct 2026 21:05:20 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtZnJhbmNlLWFu",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "France announces curfews as government grapples with unrest",
-          "summary": "The French government has imposed partial curfews in Paris and other cities following severe street violence over rising prices. Prime Minister Sebastien Lecornu has not discounted declaring a state of emergency.",
-          "image_url": "https://assets.maestronewsroom.com/media/shared/wires/ap/20261017/1ef2f82d1434-France_Protests_75145--4457e.jpg",
-          "article_url": "https://www.arabnews.com/world/france-announces-curfews-as-government-grapples-with-unrest-3007237",
-          "published_at": "Mon, 19 Oct 2026 21:04:51 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YmJjLXRlbm5pcy1zdGFyLXN2",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
-          "summary": "The two top tennis pros married in 2021 and have one child together.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/766b/live/02caf1d0-cbc0-11f1-a64c-550be9e3c66b.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 19 Oct 2026 21:02:33 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhldmVyZ2UtaS10cmllZC1h",
-          "source_id": "theverge",
-          "source_name": "The Verge",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "I tried a $99 plug that promises to track your car and send help when needed — without selling your data",
-          "summary": "The Miles is a smart plug for your car.\t\n\nMy 15-year-old daughter just got her learner's permit, so when I was pitched a new gadget tailored to teen drivers, I was intrigued. The Miles Plug is a small device that plugs into your car's OBD-II port and monitors location, driving habits, and vehicle he",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6271.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "article_url": "https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date",
-          "published_at": "2026-10-19T21:00:17.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy10cnVtcC1zYXlzLWhl",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
-          "summary": "Tensions between Trump and Zelenskyy have steadily risen in recent weeks, while Russia, which invaded Ukraine, has received multiple breaks from the U.S.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html",
-          "published_at": "Mon, 19 Oct 2026 21:00:02 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXRydW1wLWFw",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Trump approval hits record-low 31 percent, polls show Republican struggles",
-          "summary": "Reuters/Ipsos poll shows Democrats leading by 12 points in generic US congressional ballot surveys against Republicans.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/10/19/trump-approval-hits-record-low-31-percent-polls-show-republican-struggles?traffic_source=rss",
-          "published_at": "Mon, 19 Oct 2026 20:59:05 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtYWxsYWhhYmFk",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Allahabad High Court stays conviction of murder convict who wishes to contest 2027 U.P. polls",
-          "summary": "The court granted bail to the appellant, noting that he was a political figure and an active Bharatiya Janata Party (BJP) worker before his conviction",
-          "image_url": "https://th-i.thgim.com/public/incoming/z4y9hy/article71603092.ece/alternates/LANDSCAPE_1200/iStock-1571008838.jpg",
-          "article_url": "https://www.thehindu.com/elections/uttar-pradesh-assembly/allahabad-high-court-stays-conviction-of-murder-convict-who-wishes-to-contest-2027-up-polls/article71603091.ece",
-          "published_at": "Tue, 20 Oct 2026 02:27:52 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy10ZWNoLXN0b2Nrcy1o",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real",
-          "summary": "Investors are hopeful that last week's pullback was a clearing event for equities, but lingering concerns remain.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html",
-          "published_at": "Mon, 19 Oct 2026 20:57:14 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3Mt4oCZYWNjaWRl",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "’Accidental’ blast at Libya training center kills eight: official",
-          "summary": "TRIPOLI: Eight recruits were killed and several others wounded in an accidental blast at a training center for security forces in western Libya, an official told AFP on Monday. The explosion went off during a live-fire exercise late on Sunday in Zawiya, said the official from the city’s security dir",
-          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1792443323837-5755618b0f098b3f.jpg",
-          "article_url": "https://www.arabnews.com/middle-east/accidental-blast-at-libya-training-center-kills-eight-official-3007236",
-          "published_at": "Mon, 19 Oct 2026 20:56:21 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iYy1vcGVuYWktYnVnZ2lu",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay",
-          "summary": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-          "published_at": "Mon, 19 Oct 2026 20:54:40 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "YXJzdGVjaG5pY2EtcnVzc2lh",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
-          "summary": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\"",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ICEYE_assembling_satellite_06_3x2-1152x648.jpg",
-          "article_url": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
-          "published_at": "Mon, 19 Oct 2026 20:54:17 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLWluanVyZWQt",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission",
-          "summary": "The Ukrainian army says it has carried out the world’s first drone evacuation of a wounded soldier from the front line.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss",
-          "published_at": "Mon, 19 Oct 2026 20:49:39 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YmJjLXVrcmFpbmlhbnMtZHlp",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-          "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a726/live/cb93b2c0-cbf0-11f1-9a39-31b474234113.png",
-          "article_url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 19 Oct 2026 20:49:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtaG9tZWxhbmQt",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Homeland Security grants temporary deportation reprieve for more than 100K Ukrainians and Sudanese",
-          "summary": "MIAMI: More than 100,000 people from Ukraine and Sudan can stay in the United States without immediate risk of deportation, the Department of Homeland Security said, in what amounts to a temporary reprieve after their right to stay in the country was set to expire Monday. Temporary Protected Status ",
-          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1792442492416-8656c3d02071532f.jpg",
-          "article_url": "https://www.arabnews.com/world/homeland-security-grants-temporary-deportation-reprieve-for-more-than-100k-ukrainians-and-sudanese-3007235",
-          "published_at": "Mon, 19 Oct 2026 20:42:37 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25ldC1tZXRhLWJsYW1lcy1i",
-          "source_id": "cnet",
-          "source_name": "CNET",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Meta Blames Bot Traffic for No Kings Day Instagram Suspension",
-          "summary": "The No Kings Coalition says that even after the account was visible again, they couldn’t access it for hours.",
-          "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/No-Kings-oct-2026-getty.webp",
-          "article_url": "https://www.cnet.com/tech/services-and-software/meta-bot-traffic-no-kings-day-instagram-suspension/",
-          "published_at": "2026-10-19T20:39:50.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtZ29sZC1taW5l",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Gold mine collapse kills at least six in southwest Colombia",
-          "summary": "At least six miners were killed Monday when an open-pit gold mine collapsed in a remote corner of Colombia’s Nariño province, authorities said",
-          "image_url": null,
-          "article_url": "https://www.thehindu.com/news/international/gold-mine-collapse-in-colombias-narino-province/article71603089.ece",
-          "published_at": "Tue, 20 Oct 2026 02:09:09 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di11cy1jb3VydC1vcmRl",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "US Court Orders Fired Saudi Engineer To Remain In Custody In OpenAI Case",
-          "summary": "A US federal judge on Monday ordered a former OpenAI employee from Saudi Arabia to remain in custody without bail because he was deemed to be a flight risk.",
-          "image_url": "https://c.ndtvimg.com/2026-09/0hnc6en4_openai-reuters_625x300_24_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/us-court-orders-fired-saudi-engineer-to-remain-in-custody-in-openai-case-12208529#publisher=newsstand",
-          "published_at": "Tue, 20 Oct 2026 02:03:52 +0530",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtdXMtb2ZmaWNp",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "US officials plan to travel to Norway for Ukraine talks, sources say",
-          "summary": "Jared Kushner and Steve Witkoff are scheduled to travel to Norway for negotiations aimed at ending the war in Ukraine, with Ukrainian President Volodymyr Zelensky expected to participate. This follows rising tensions between the US and Ukraine over recent limitations on the Starshield satellite syst",
-          "image_url": "https://assets.maestronewsroom.com/media/shared/wires/reuters/20261018/a290d1d848c8-2026-10-01T100823Z_1961965411_RC2AUNAXYB1N_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-SCHOOL.JPG",
-          "article_url": "https://www.arabnews.com/world/us-officials-plan-to-travel-to-norway-for-ukraine-talks-sources-say-3007220",
-          "published_at": "Mon, 19 Oct 2026 20:30:27 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtdHJ1bXAtYXBw",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Trump approval falls to record low of 31 percent as midterms near, Reuters/Ipsos poll finds",
-          "summary": "President Trump’s approval rating has hit a historic low of 31 percent as the midterm elections approach, according to a Reuters/Ipsos poll. The poll indicates stronger support for Democrats, particularly among women.",
-          "image_url": "https://assets.maestronewsroom.com/media/shared/wires/ap/20261019/c29a2abc5106-Trump_16_5_--e0b89.jpg",
-          "article_url": "https://www.arabnews.com/world/trump-approval-falls-to-record-low-of-31-percent-as-midterms-near-reutersipsos-poll-finds-3007222",
-          "published_at": "Mon, 19 Oct 2026 20:30:23 GMT",
-          "cross_sections": [
-            "tech"
           ]
         }
       ]
@@ -5556,6 +5604,39 @@
       "icon": "🤖",
       "articles": [
         {
+          "id": "bmR0di1ob3ctYS1jaGluZXNl",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "How A Chinese-Speaking Hacker Used AI Agents To Breach Over 100 Companies",
+          "summary": "Fagerland's report on the Chinese-speaking hacker did not name the victims, but Reuters was able to establish the victims' identities by independently reviewing the hacker's Cairn activity.",
+          "image_url": "https://c.ndtvimg.com/2026-10/oour4h2g_ai-hacker_625x300_20_October_26.jpeg",
+          "article_url": "https://www.ndtv.com/world-news/how-a-chinese-speaking-hacker-used-ai-agents-to-breach-over-100-companies-12208716#publisher=newsstand",
+          "published_at": "Tue, 20 Oct 2026 05:25:04 +0530",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "dGVjaGNydW5jaC1uc2NhbGUt",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+          "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+          "published_at": "Mon, 19 Oct 2026 23:39:38 +0000",
+          "cross_sections": [
+            "ai"
+          ]
+        },
+        {
           "id": "Z3VhcmRpYW4tbmV3LWFpLXRv",
           "source_id": "guardian",
           "source_name": "The Guardian",
@@ -5567,6 +5648,23 @@
           "image_url": "https://i.guim.co.uk/img/media/fa40f496b03a1db7776f47e3b79ed8b0858aef61/722_304_4620_3696/master/4620.jpg?width=140&quality=85&auto=format&fit=max&s=560167757e3f4e4a3571ff33be6bb85d",
           "article_url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
           "published_at": "Mon, 19 Oct 2026 22:30:08 GMT",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "bmR0di11cy1jb3VydC1vcmRl",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "US Court Orders Fired Saudi Engineer To Remain In Custody In OpenAI Case",
+          "summary": "A US federal judge on Monday ordered a former OpenAI employee from Saudi Arabia to remain in custody without bail because he was deemed to be a flight risk.",
+          "image_url": "https://c.ndtvimg.com/2026-09/0hnc6en4_openai-reuters_625x300_24_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/world-news/us-court-orders-fired-saudi-engineer-to-remain-in-custody-in-openai-case-12208529#publisher=newsstand",
+          "published_at": "Tue, 20 Oct 2026 03:46:32 +0530",
           "cross_sections": [
             "tech",
             "ai"
@@ -5597,7 +5695,7 @@
           "source_category": "Tech Media",
           "feed_label": "Latest",
           "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-          "summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+          "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
           "published_at": "Mon, 19 Oct 2026 22:04:28 +0000",
@@ -5652,23 +5750,6 @@
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
           "published_at": "Mon, 19 Oct 2026 20:54:40 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "bmR0di11cy1jb3VydC1vcmRl",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "US Court Orders Fired Saudi Engineer To Remain In Custody In OpenAI Case",
-          "summary": "A US federal judge on Monday ordered a former OpenAI employee from Saudi Arabia to remain in custody without bail because he was deemed to be a flight risk.",
-          "image_url": "https://c.ndtvimg.com/2026-09/0hnc6en4_openai-reuters_625x300_24_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/us-court-orders-fired-saudi-engineer-to-remain-in-custody-in-openai-case-12208529#publisher=newsstand",
-          "published_at": "Tue, 20 Oct 2026 02:03:52 +0530",
           "cross_sections": [
             "tech",
             "ai"
@@ -5967,7 +6048,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 12599,
+    "build_ms": 9433,
     "ai_enabled": true
   }
 }
