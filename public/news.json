@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-14T23:53:31.150Z",
-  "total_articles": 306,
-  "new_this_run": 75,
+  "last_updated": "2026-11-15T03:33:51.594Z",
+  "total_articles": 293,
+  "new_this_run": 50,
   "sources": [
     {
       "id": "techcrunch",
@@ -9,6 +9,22 @@
       "region": "IT Focus",
       "category": "Tech Media",
       "articles": [
+        {
+          "id": "dGVjaGNydW5jaC13aGVyZS13",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Where was Nvidia’s security team?",
+          "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which ",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+          "published_at": "Sun, 15 Nov 2026 00:08:07 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "dGVjaGNydW5jaC1lbG9uLW11",
           "source_id": "techcrunch",
@@ -118,22 +134,6 @@
           "image_url": null,
           "article_url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
           "published_at": "Fri, 13 Nov 2026 23:00:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1qZW5zZW4t",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-          "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-          "published_at": "Fri, 13 Nov 2026 22:43:00 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -412,6 +412,20 @@
       "category": "Tech Media",
       "articles": [
         {
+          "id": "YXJzdGVjaG5pY2Etc3BhY2V4",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+          "summary": "It felt like stepping into the future.",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389-1024x648.jpg",
+          "article_url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+          "published_at": "Sun, 15 Nov 2026 00:40:59 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "YXJzdGVjaG5pY2EtamFtZXMt",
           "source_id": "arstechnica",
           "source_name": "Ars Technica",
@@ -511,20 +525,6 @@
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156609-1024x648.jpg",
           "article_url": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
           "published_at": "Fri, 13 Nov 2026 20:03:13 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YXJzdGVjaG5pY2Eta2Fsc2hp",
-          "source_id": "arstechnica",
-          "source_name": "Ars Technica",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
-          "summary": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/donald-trump-jr-1152x648.jpg",
-          "article_url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
-          "published_at": "Fri, 13 Nov 2026 19:49:16 +0000",
           "cross_sections": []
         }
       ]
@@ -1310,6 +1310,20 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "bnl0LXdoYXQtdG8ta25vdy1h",
+          "source_id": "nyt",
+          "source_name": "The New York Times",
+          "source_region": "North America",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "What to Know About Continued Flight Disruptions",
+          "summary": "After a nationwide ground stop Friday, travelers are still encountering snags, and it could take several days for flight schedules to return to normal.",
+          "image_url": "https://static01.nyt.com/images/2026/12/13/multimedia/14nat-groundstop-wwk/13faa-groundstop-promo-hbjv-mediumSquareAt3X.jpg",
+          "article_url": "https://www.nytimes.com/2026/11/14/us/flight-delays-cancelations-what-to-know.html",
+          "published_at": "Sun, 15 Nov 2026 02:52:23 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "bnl0LWplbnNlbi1odWFuZy1j",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1450,22 +1464,6 @@
           ]
         },
         {
-          "id": "bnl0LWhvdy10aGUtdW5pdmVy",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "How the University of North Carolina Tried to Avoid Trump’s Wrath",
-          "summary": "The University of North Carolina’s chancellor tried to protect the school from the Trump administration. Work on cancer, suicide, AIDS and coronaviruses was hit anyway.",
-          "image_url": "https://static01.nyt.com/images/2026/10/26/us/26nat-unc-science-promo/26nat-unc-science-promo-mediumSquareAt3X-v2.jpg",
-          "article_url": "https://www.nytimes.com/2026/11/13/us/university-north-carolina-science-research-cuts-trump.html",
-          "published_at": "Sat, 14 Nov 2026 14:12:35 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bnl0LXVrcmFpbmXigJlzLXN0",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -1476,7 +1474,7 @@
           "summary": "President Volodymyr Zelensky said the system, which Ukraine uses to guide drones, was being throttled over Russian-occupied territory. SpaceX, its developer, has denied the claim.",
           "image_url": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-ukraine-starshield-wqlc/14int-ukraine-starshield-wqlc-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html",
-          "published_at": "Sat, 14 Nov 2026 13:57:36 +0000",
+          "published_at": "Sat, 14 Nov 2026 13:57:37 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -1659,256 +1657,6 @@
       ]
     },
     {
-      "id": "wapo",
-      "name": "The Washington Post",
-      "region": "North America",
-      "category": "Newspaper",
-      "articles": [
-        {
-          "id": "d2Fwby1ydXNzaWEtc2Vla3Mt",
-          "source_id": "wapo",
-          "source_name": "The Washington Post",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Russia seeks NATO pullback; Zelensky says U.S. asked about ceding territory",
-          "summary": "At peace talks this week, Russia returned to hard-line ultimatums the Kremlin issued to NATO and the U.S. before its invasion of Ukraine in 2022.",
-          "image_url": null,
-          "article_url": "https://www.washingtonpost.com/world/2026/11/14/russia-seeks-nato-pullback-zelensky-says-us-asked-about-ceding-territory/",
-          "published_at": "Sat, 14 Nov 2026 22:17:35 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "d2Fwby1raW5nLWNoYXJsZXMt",
-          "source_id": "wapo",
-          "source_name": "The Washington Post",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "King Charles stops by Elton John’s podcast to talk music",
-          "summary": "The show celebrated 50 years of the British monarch's charity, now known as the King's Trust, and its benefit concerts featuring some of the world's top artists.",
-          "image_url": null,
-          "article_url": "https://www.washingtonpost.com/entertainment/music/2026/11/14/king-charles-stops-by-elton-johns-podcast-talk-music/",
-          "published_at": "Sat, 14 Nov 2026 22:00:00 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "d2Fwby1vdXRsb29rLXdlbnQt",
-          "source_id": "wapo",
-          "source_name": "The Washington Post",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "Outlook went down, then air traffic systems. It’s been a bad week of outages.",
-          "summary": "A terrible, horrible, no good, very bad week of outages caps a wave of recent tech disruptions in the United States and around the world.",
-          "image_url": null,
-          "article_url": "https://www.washingtonpost.com/technology/2026/11/14/bad-week-outages-after-ground-stop-microsoft-outlook-went-down/",
-          "published_at": "Sat, 14 Nov 2026 18:42:31 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "d2Fwby1hLXRlY2gtdGlwOi1j",
-          "source_id": "wapo",
-          "source_name": "The Washington Post",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "A tech tip: Charge your phone with your laptop or tablet’s charger",
-          "summary": "Many new phones no longer ship with power adapters, but the power brick from an older phone is likely to be your slowest option.",
-          "image_url": null,
-          "article_url": "https://www.washingtonpost.com/technology/2026/11/14/charge-your-phone-with-your-laptop-or-tablets-charger/",
-          "published_at": "Sat, 14 Nov 2026 14:30:00 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "d2Fwby1taWNyb3NvZnQtc2F5",
-          "source_id": "wapo",
-          "source_name": "The Washington Post",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "Microsoft says all services restored after global outage",
-          "summary": "The tech giant said it had completed efforts to address an outage that affected communications at government services, hospitals, and police departments around the world.",
-          "image_url": null,
-          "article_url": "https://www.washingtonpost.com/the-seven/2026/11/14/microsoft-services-restored-after-global-outage/",
-          "published_at": "Sat, 14 Nov 2026 14:00:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "d2Fwby1taWRkbGUtZWFzdC1t",
-          "source_id": "wapo",
-          "source_name": "The Washington Post",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Middle East monarchies brace for Trump corruption scrutiny after blue wave",
-          "summary": "Persian Gulf governments fear fallout as Democrats prepare to investigate the Trump family and follow the money, officials say.",
-          "image_url": null,
-          "article_url": "https://www.washingtonpost.com/world/2026/11/14/middle-east-monarchies-brace-trump-corruption-scrutiny/",
-          "published_at": "Sat, 14 Nov 2026 10:00:00 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "d2Fwby1hbGwtdGhlLXVudXN1",
-          "source_id": "wapo",
-          "source_name": "The Washington Post",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "All the unusual ways Jensen Huang crafted Nvidia in his own image",
-          "summary": "Huang built Nvidia into one of the world’s most valuable companies by making himself indispensable.",
-          "image_url": null,
-          "article_url": "https://www.washingtonpost.com/technology/2026/11/14/nvidia-faces-daunting-challenge-replacing-ceo-jensen-huang/",
-          "published_at": "Sat, 14 Nov 2026 10:00:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "d2Fwby1tdXNrLWpvaW5zLWNh",
-          "source_id": "wapo",
-          "source_name": "The Washington Post",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "Musk joins calls for Jensen Huang to be reinstated as CEO of Nvidia",
-          "summary": "The world’s richest person has repeatedly signaled his support for the chip executive.",
-          "image_url": null,
-          "article_url": "https://www.washingtonpost.com/business/2026/11/13/musk-joins-calls-jensen-huang-be-reinstated-ceo-nvidia/",
-          "published_at": "Fri, 13 Nov 2026 22:21:48 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "d2Fwby1tb3JlLXRoYW4tMS41",
-          "source_id": "wapo",
-          "source_name": "The Washington Post",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "More than 1.5 million people welcome Pope Leo XIV in northern Peru",
-          "summary": "“The pope is Chiclayan!” chanted the crowd in his adopted home city. “Chiclayo is with you!”",
-          "image_url": null,
-          "article_url": "https://www.washingtonpost.com/world/2026/11/13/more-than-15-million-people-welcome-pope-leo-xiv-northern-peru/",
-          "published_at": "Fri, 13 Nov 2026 22:15:00 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "d2Fwby1iZWhpbmQtamVuc2Vu",
-          "source_id": "wapo",
-          "source_name": "The Washington Post",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "Behind Jensen Huang’s spy scandal, a shadow war for Trump’s ear on China",
-          "summary": "Rubio’s intervention helped topple one of Washington’s most influential corporate voices on China, giving momentum to officials pushing for tougher restrictions.",
-          "image_url": null,
-          "article_url": "https://www.washingtonpost.com/technology/2026/11/13/behind-jensen-huangs-spy-scandal-shadow-war-trumps-ear-china/",
-          "published_at": "Fri, 13 Nov 2026 21:45:28 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "d2Fwby11a3JhaW5lLWNyaXRp",
-          "source_id": "wapo",
-          "source_name": "The Washington Post",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Ukraine critic injured in Moscow car bombing, Russia says",
-          "summary": "Sergei Zavorotny, previously an aide to Ukrainian Prime Minister Mykola Azarov, became a pro-Kremlin commentator in Russia.",
-          "image_url": null,
-          "article_url": "https://www.washingtonpost.com/world/2026/11/13/ukraine-critic-injured-moscow-car-bombing-russia-says/",
-          "published_at": "Fri, 13 Nov 2026 21:15:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "d2Fwby1iZWZvcmUtaGUtd2Fz",
-          "source_id": "wapo",
-          "source_name": "The Washington Post",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Before he was Pope Leo, he was their bishop. Now he’s back home.",
-          "summary": "In an emotional homecoming, residents of Chiclayo, the Peruvian city that shaped Pope Leo XIV, welcomed him with reverence for one of their own.",
-          "image_url": null,
-          "article_url": "https://www.washingtonpost.com/world/2026/11/13/before-he-was-pope-leo-he-was-their-bishop-now-hes-coming-home/",
-          "published_at": "Fri, 13 Nov 2026 20:29:03 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "d2Fwby1ldXJvcGVhbnMtZGVj",
-          "source_id": "wapo",
-          "source_name": "The Washington Post",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Europeans decide on thorny question of who will speak for bloc in Ukraine talks",
-          "summary": "On Friday, the European Union agreed to not one person but a team from five countries and the European Union.",
-          "image_url": null,
-          "article_url": "https://www.washingtonpost.com/world/2026/11/13/europeans-decide-thorny-question-who-will-speak-bloc-ukraine-talks/",
-          "published_at": "Fri, 13 Nov 2026 19:36:57 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "d2Fwby1hLW1hc3NpdmUtb3V0",
-          "source_id": "wapo",
-          "source_name": "The Washington Post",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "A massive Outlook outage is easing. Here’s what happened.",
-          "summary": "Microsoft said service was coming back online after long, mysterious outage that affected countries around the world.",
-          "image_url": null,
-          "article_url": "https://www.washingtonpost.com/technology/2026/11/13/microsoft-races-address-outage-affecting-users-around-world/",
-          "published_at": "Fri, 13 Nov 2026 17:21:56 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "d2Fwby1hcy1jaGluZXNlLeKA",
-          "source_id": "wapo",
-          "source_name": "The Washington Post",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "As Chinese ‘manosphere’ emerges, women are dropping from the workforce",
-          "summary": "China, which once rejected traditional roles for women, is now promoting family values and higher birth rates under Xi Jinping.",
-          "image_url": null,
-          "article_url": "https://www.washingtonpost.com/world/2026/11/13/china-pushes-women-toward-traditional-roles-it-once-rejected/",
-          "published_at": "Fri, 13 Nov 2026 16:27:55 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "d2Fwby13aHktd2lmaS1jYW4t",
-          "source_id": "wapo",
-          "source_name": "The Washington Post",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "Why WiFi can still be so annoying — and how to fix it",
-          "summary": "Experts offer tips on how to navigate reliability issues that persist with the ever-advancing wireless networking technology.",
-          "image_url": null,
-          "article_url": "https://www.washingtonpost.com/technology/2026/11/13/why-wifi-can-still-be-so-annoying-how-fix-it/",
-          "published_at": "Fri, 13 Nov 2026 10:00:00 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        }
-      ]
-    },
-    {
       "id": "cnn",
       "name": "CNN",
       "region": "North America",
@@ -1925,7 +1673,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-          "published_at": "2026-11-14T23:53:29.791Z",
+          "published_at": "2026-11-15T03:33:43.355Z",
           "cross_sections": []
         },
         {
@@ -1939,7 +1687,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://cnn.it/411KYN7",
-          "published_at": "2026-11-14T23:53:29.791Z",
+          "published_at": "2026-11-15T03:33:43.355Z",
           "cross_sections": []
         },
         {
@@ -1953,7 +1701,7 @@
           "summary": "",
           "image_url": null,
           "article_url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-          "published_at": "2026-11-14T23:53:29.791Z",
+          "published_at": "2026-11-15T03:33:43.355Z",
           "cross_sections": []
         },
         {
@@ -2275,7 +2023,7 @@
           "summary": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.",
           "image_url": null,
           "article_url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-          "published_at": "Sat, 14 Nov 2026 23:21:21 GMT",
+          "published_at": "Sun, 15 Nov 2026 02:53:59 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -2472,6 +2220,22 @@
       "region": "North America",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "Zm94LXJvYm90LWRvZ3MtbW91",
+          "source_id": "fox",
+          "source_name": "Fox News",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Robot dogs mounted with rifles deployed in anti-gang stadium operation in Haiti",
+          "summary": "El Salvador President Nayib Bukele shared video of armed robot dogs storming Sylvio Cator Stadium as forces joined Haitian police in a gang crackdown on the violent island nation.",
+          "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/robot-el-salvdor.gif",
+          "article_url": "https://www.foxnews.com/world/robot-dogs-mounted-rifles-deployed-anti-gang-stadium-operation-haiti",
+          "published_at": "Sat, 14 Nov 2026 19:51:47 -0500",
+          "cross_sections": [
+            "tech"
+          ]
+        },
         {
           "id": "Zm94LXR3by1hbWVyaWNhbnMt",
           "source_id": "fox",
@@ -2708,22 +2472,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "Zm94LXJ1c3NpYW4tYW1iYXNz",
-          "source_id": "fox",
-          "source_name": "Fox News",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Russian Ambassador to US Alexander Darchiev dies suddenly at 66",
-          "summary": "Russia's ambassador to the United States Alexander Darchiev, 66, had been appointed by Putin to lead a rapprochement with the Trump administration.",
-          "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/alexander-darchiyev-russian-ambassador-candidate.jpg?ve=1&tl=1",
-          "article_url": "https://www.foxnews.com/world/russian-ambassador-us-alexander-darchiev-dies-suddenly-66",
-          "published_at": "Wed, 11 Nov 2026 14:02:20 -0500",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     },
@@ -2734,6 +2482,48 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YmJjLWp1ZGdlLXRlbXBvcmFy",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+          "summary": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 15 Nov 2026 03:21:04 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLXBvcGUtbGVvLXNwZWFr",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+          "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 15 Nov 2026 02:49:45 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YmJjLWJlYXV0eS1hZHZlbnQt",
+          "source_id": "bbc",
+          "source_name": "BBC News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+          "summary": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b5f/live/f688f9b0-df6c-11f1-8112-6b9154c79b48.jpg",
+          "article_url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 15 Nov 2026 00:01:07 GMT",
+          "cross_sections": []
+        },
+        {
           "id": "YmJjLXVzLWhhcy1mbG9hdGVk",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2742,7 +2532,7 @@
           "feed_label": "Top Stories",
           "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
           "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 14 Nov 2026 22:37:25 GMT",
           "cross_sections": [
@@ -2770,9 +2560,9 @@
           "source_region": "Europe",
           "source_category": "Broadcaster",
           "feed_label": "Top Stories",
-          "title": "New Orleans port sues tanker owners over cruise ship collision for $1m",
-          "summary": "All cruise ship passengers and crew were accounted for, though 32 people were left with non-serious injuries from Friday's collision.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29c1/live/cbb69f00-e073-11f1-b214-7b8eb8913400.jpg",
+          "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+          "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6592/live/907a90a0-e090-11f1-a701-fddedf244c16.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 14 Nov 2026 22:27:06 GMT",
           "cross_sections": []
@@ -2866,20 +2656,6 @@
           ]
         },
         {
-          "id": "YmJjLXRydW1wLC1wdXRpbi1h",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-          "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 14 Nov 2026 15:53:55 GMT",
-          "cross_sections": []
-        },
-        {
           "id": "YmJjLW5lZXRzLXJldmlldy13",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -2917,26 +2693,12 @@
           "source_name": "BBC News",
           "source_region": "Europe",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "Technology",
           "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
-          "summary": "Thirty years after they dreamt up the series, Dave Jones and Brian Baglow are as desperate as everyone else to get their hands on the new game.",
+          "summary": "The next title in the series is expected to be the biggest video game release ever.",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05c7/live/ef232fd0-df7e-11f1-a701-fddedf244c16.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 14 Nov 2026 00:37:01 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "YmJjLWFycmVzdGVkLWdlbmVy",
-          "source_id": "bbc",
-          "source_name": "BBC News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
-          "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9975/live/51088590-df40-11f1-a48c-75dd2efdacb5.jpg",
-          "article_url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 14 Nov 2026 00:03:52 GMT",
           "cross_sections": []
         },
         {
@@ -3502,6 +3264,20 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "ZHctdGVucy1vZi10aG91c2Fu",
+          "source_id": "dw",
+          "source_name": "DW News",
+          "source_region": "Europe",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Tens of thousands continue to protest across France",
+          "summary": "Some 106,000 people marched through French cities for a fifth consecutive weekend of protests, marking the lowest turnout in recent weeks.",
+          "image_url": null,
+          "article_url": "https://www.dw.com/en/tens-of-thousands-continue-to-protest-across-france/a-79950503?maca=en-rss-en-top-1022-xml-mrss",
+          "published_at": "Sun, 15 Nov 2026 00:55:00 GMT",
+          "cross_sections": []
+        },
+        {
           "id": "ZHctcGhpbGlwcGluZXMtd2lu",
           "source_id": "dw",
           "source_name": "DW News",
@@ -3609,22 +3385,6 @@
           ]
         },
         {
-          "id": "ZHctaXRhbHktc2xhcHMtbWV0",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Italy slaps Meta with €805mn fine over access to Android photos",
-          "summary": "Italian regulators say Meta accessed photos and multimedia content from Italian users via the Facebook application for Android devices. Meta said it would appeal the decision, calling the fine \"disproportionate.\"",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/italy-slaps-meta-with-€805mn-fine-over-access-to-android-photos/a-79949032?maca=en-rss-en-top-1022-xml-mrss",
-          "published_at": "Sat, 14 Nov 2026 18:41:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "ZHctY29wMzE6LXByb3Rlc3Rl",
           "source_id": "dw",
           "source_name": "DW News",
@@ -3723,6 +3483,68 @@
       "category": "Newspaper",
       "articles": [
         {
+          "id": "dG9pLSdoYW5kc2hha2UnLWRl",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "'Handshake' deals could fall: Musk flags risks for Nvidia after Jensen Huang's exit",
+          "summary": "Elon Musk has voiced his apprehensions regarding Nvidia's supply chain deals in the wake of Jensen Huang's recent resignation. He pointed out that numerous agreements stemmed from personal connections instead of solid contracts. Moreover, Musk highlighted a petition advocating for Huang's return as ",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/business/international-business/handshake-deals-could-fall-through-musk-flags-supply-chain-risks-for-nvidia-after-jensen-huangs-exit/articleshow/135845938.cms",
+          "published_at": "Sun, 15 Nov 2026 08:32:09 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLWhvdy1hLWdsaXRjaC1v",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "How a glitch on ground triggered chaos in sky: How US flight chaos unfolded",
+          "summary": "A significant setback in the US air traffic control communication system caused a grounding of flights lasting over four hours. This disruption was triggered by the upgrade of outdated equipment at a remote site coinciding with a spike in connection attempts, leading to sporadic communication and ra",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/world/us/how-a-glitch-on-ground-triggered-chaos-in-sky-inside-the-us-ground-stop/articleshow/135845489.cms",
+          "published_at": "Sun, 15 Nov 2026 07:31:48 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLXdhdGNoOi1zcGFjZXgn",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Watch: SpaceX's Starship completes first-ever midair catch on return from orbit",
+          "summary": "SpaceX's Starship spacecraft returned from its mission with a successful midair recovery by mechanical arms. The spacecraft completed 14 orbits while deploying 26 satellites before returning to Earth. However, the Super Heavy booster failed its recovery attempt shortly after launch, resulting in its",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/science/watch-spacexs-starship-completes-first-ever-midair-catch-on-return-from-orbit/articleshow/135844940.cms",
+          "published_at": "Sun, 15 Nov 2026 06:14:37 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLTEzLXllYXItb2xkLWZp",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "13-year-old finds rare free baseball card, sells it for $20,100",
+          "summary": "A young baseball enthusiast from Seattle secured an esteemed baseball card during a Mariners game. This unique card showcased Jimothy, a raccoon who captured the internet's attention due to his extraordinary look. Initially a complimentary giveaway, the card has now emerged as a remarkable collectib",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/world/us/a-13-year-old-seattle-baseball-fan-picked-up-a-free-trading-card-at-a-mariners-game-without-knowing-she-had-the-only-gold-version-in-existence-weeks-later-collectors-paid-20100-for-the-raccoon-themed-card/articleshow/135788946.cms",
+          "published_at": "Sun, 15 Nov 2026 05:58:00 +0530",
+          "cross_sections": []
+        },
+        {
           "id": "dG9pLWZpcnN0LXNpbmNlLW9w",
           "source_id": "toi",
           "source_name": "The Times of India",
@@ -3734,52 +3556,6 @@
           "image_url": null,
           "article_url": "https://timesofindia.indiatimes.com/india/pak-sending-experienced-minister-for-delhi-event/articleshow/135844386.cms",
           "published_at": "Sun, 15 Nov 2026 04:35:31 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dG9pLXRleGFzLWNvdXJ0LWJh",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Texas court backs home sale after $685,000 offer despite woman's objection",
-          "summary": "In a Texas court, a woman expressed her discontent with the ruling permitting a receiver to sell her marital home. The appellate court upheld the initial decision, dismissing her objections to the receiver's role in accepting a $685,000 offer for the house. The ruling clarified that her financial st",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/world/us/a-texas-woman-fought-the-court-ordered-sale-of-her-marital-home-after-a-receiver-received-a-685000-offer-despite-a-divorce-decree-awarding-her-60-of-net-proceeds-an-appeals-court-upheld-the-sale-and-related-orders/articleshow/135800314.cms",
-          "published_at": "Sun, 15 Nov 2026 03:57:00 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLXRyYWRlLWRlYWwtdGFs",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Trade deal talks with US near finishing line: EAM Jaishankar",
-          "summary": "Says Challenge Is To Find A Landing Point",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/business/india-business/us-trade-deal-talks-near-finishing-line-eam/articleshow/135842477.cms",
-          "published_at": "Sun, 15 Nov 2026 03:36:34 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLWRlbW9jcmFjeS1kZXN0",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Democracy destroyed in 2014, 'fascists' running India: Rahul",
-          "summary": "'We Are Going To Defeat Modi, It's A Done Deal'",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/democracy-destroyed-in-14-fascists-running-india-rahul/articleshow/135842288.cms",
-          "published_at": "Sun, 15 Nov 2026 02:26:23 +0530",
           "cross_sections": []
         },
         {
@@ -3797,31 +3573,17 @@
           "cross_sections": []
         },
         {
-          "id": "dG9pLWNvbmctaGFzLWFza2Vk",
+          "id": "dG9pLWFpci1xdWFsaXR5LXJl",
           "source_id": "toi",
           "source_name": "The Times of India",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Top Stories",
-          "title": "Cong has asked for 181 seats, Akhilesh reveals for first time",
-          "summary": "",
+          "title": "Air quality remains ‘very poor’ in Delhi, light rain unlikely to help",
+          "summary": "Delhi's air quality continues to be classified as very poor, with an AQI of 367 recorded on Saturday. Some areas, such as IIT-Delhi and Delhi University, reported even higher AQI levels of 439. Biomass burning and emissions from vehicles significantly contribute to the pollution levels observed. Exp",
           "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/city/lucknow/cong-has-asked-for-181-seats-akhilesh-reveals-for-first-time/articleshow/135841769.cms",
-          "published_at": "Sun, 15 Nov 2026 00:52:30 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "dG9pLTUtYWktZmxpZ2h0cy1s",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "5 AI flights landed in US on schedule despite outage",
-          "summary": "",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/india/ai-delhi-sfo-was-2-5-hours-away-from-destination-when-us-atc-failed-all-5-ai-flights-landed-on-time/articleshow/135840878.cms",
-          "published_at": "Sun, 15 Nov 2026 00:06:14 +0530",
+          "article_url": "https://timesofindia.indiatimes.com/city/delhi/air-quality-remains-very-poor-very-light-rain-unlikely-to-help/articleshow/135839784.cms",
+          "published_at": "Sat, 14 Nov 2026 23:06:57 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4085,125 +3847,125 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "dGhlaGluZHUtYm9tYi1yaXBz",
+          "id": "dGhlaGluZHUtbmF0aW9ucy1n",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Bomb rips through Damascus suburb; killing 2, including child",
-          "summary": "The explosion took place in the southern Damascus suburb of Jaramana near a factory where batteries are produced, state TV said",
-          "image_url": "https://th-i.thgim.com/public/incoming/wyk4yc/article71703053.ece/alternates/LANDSCAPE_1200/Syria_Explosion_54_88.jpg",
-          "article_url": "https://www.thehindu.com/news/international/bomb-rips-through-damascus-suburb-several-people-killed/article71703052.ece",
-          "published_at": "Sun, 15 Nov 2026 04:43:39 +0530",
+          "title": "Nations grapple with loss of 1.5C target at UN climate summit",
+          "summary": "The world has already warmed about 1.4C above pre-industrial times and the UN declared in September that crossing 1.5C — the most ambitious target threshold of the Paris accord — was imminent and unavoidable",
+          "image_url": "https://th-i.thgim.com/public/incoming/ldox0k/article71704052.ece/alternates/LANDSCAPE_1200/Climate_COP31_Fossil_Fuels_41861.jpg",
+          "article_url": "https://www.thehindu.com/sci-tech/energy-and-environment/nations-grapple-with-loss-of-15c-target-at-un-climate-summit/article71704051.ece",
+          "published_at": "Sun, 15 Nov 2026 08:54:58 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtZHJvdWdodC1z",
+          "id": "dGhlaGluZHUtbmFzYSdzLXZv",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Drought-stricken Beed: Land of parched fields and broken promises",
-          "summary": "Drought has devastated Maharashtra’s Beed district, pushing women farmers and labourers towards distress migration. Despite repeated pleas for employment, villagers say government job guarantees have failed them, even as the State announces a ₹6,728-crore package",
-          "image_url": "https://th-i.thgim.com/public/incoming/oasout/article71690053.ece/alternates/LANDSCAPE_1200/6744_2_11_2026_19_5_42_1_05_IMG_2517.JPG",
-          "article_url": "https://www.thehindu.com/news/national/maharashtra/drought-stricken-beed-land-of-parched-fields-and-broken-promises/article71689837.ece",
-          "published_at": "Sun, 15 Nov 2026 04:26:01 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtc3BhY2V44oCZ",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "SpaceX’s Starship returns from orbit and is captured by launch pad arms in a dramatic first",
-          "summary": "SpaceX expects to begin launching Starships from Florida’s Kennedy Space Center within the next few months",
-          "image_url": "https://th-i.thgim.com/public/incoming/dxm9i4/article71703047.ece/alternates/LANDSCAPE_1200/SpaceX_Starship_Launch_78562.jpg",
-          "article_url": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
-          "published_at": "Sun, 15 Nov 2026 04:02:08 +0530",
+          "title": "NASA's Voyager 1 closes in on a light-day in interstellar space for new distance record",
+          "summary": "NASA is looking at another 18,000 years before the spacecraft achieves a full light-year and more than double that before it comes near another star",
+          "image_url": "https://th-i.thgim.com/public/incoming/smiz1u/article71704050.ece/alternates/LANDSCAPE_1200/Voyager_56736.jpg",
+          "article_url": "https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece",
+          "published_at": "Sun, 15 Nov 2026 08:43:17 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUtbWFyaXRpbWUt",
+          "id": "dGhlaGluZHUtYXJ5bmEtc2Fi",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Maritime security in focus at India-Belgium naval talks",
-          "summary": "The bilateral talk was aimed at strengthening maritime cooperation and further deepening navy-to-navy engagements between the two countries",
-          "image_url": "https://th-i.thgim.com/public/incoming/vqjq1m/article71702869.ece/alternates/LANDSCAPE_1200/NAVY%20CHIEFS%20MEETING%20DELHI%207.JPG",
-          "article_url": "https://www.thehindu.com/news/national/maritime-security-in-focus-at-india-belgium-naval-talks/article71702848.ece",
-          "published_at": "Sun, 15 Nov 2026 04:00:45 +0530",
+          "title": "Aryna Sabalenka apologizes for on-court outburst in WTA Finals loss to Svitolina",
+          "summary": "The former top-ranked player from Belarus said on Saturday (November 14, 2026) she was upset by the behaviour of spectators during the match",
+          "image_url": "https://th-i.thgim.com/public/incoming/adqp8q/article71704049.ece/alternates/LANDSCAPE_1200/2026-11-13T232954Z_1404793975_UP1EMBD1T9TU7_RTRMADP_3_TENNIS-WTAFINALS.JPG",
+          "article_url": "https://www.thehindu.com/sport/tennis/aryna-sabalenka-apologizes-for-on-court-outburst-in-wta-finals-loss-to-svitolina/article71704046.ece",
+          "published_at": "Sun, 15 Nov 2026 08:42:19 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtaW4tamhhcmto",
+          "id": "dGhlaGluZHUtY29hbGl0aW9u",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "In Jharkhand, even jails are not safe: Babulal Marandi",
-          "summary": "Launching a sharp attack on Sorens’ government, Mr. Marandi said law and order in Jharkhand has collapsed and it raises serious questions on the functioning of the government",
-          "image_url": "https://th-i.thgim.com/public/incoming/k4svds/article71703042.ece/alternates/LANDSCAPE_1200/DEL-Marandi.jpg",
-          "article_url": "https://www.thehindu.com/news/national/jharkhand/in-jharkhand-even-jails-are-not-safe-babulal-marandi/article71703040.ece",
-          "published_at": "Sun, 15 Nov 2026 03:40:13 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtdmlsbGFnZXJz",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Villagers in 25 districts cast votes for panchayat elections’ final phase in Rajasthan",
-          "summary": "The final phase polls across 25 districts for Zila Parishad and Panchayat Samiti faced EVM glitches, boycotts, and a 72% turnout",
-          "image_url": "https://th-i.thgim.com/public/incoming/qghtzq/article71700952.ece/alternates/LANDSCAPE_1200/20261030380L.jpg",
-          "article_url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-panchayat-local-elections-2026-final-phase-voting/article71700929.ece",
-          "published_at": "Sun, 15 Nov 2026 03:22:18 +0530",
+          "title": "Coalition to move away from fossil fuels presses ahead without Colombia, its original champion",
+          "summary": "The coalition, launched in the Colombian coastal city of Santa Marta in April, is expected to release a progress report this week outlining steps taken by participating countries, including additional national plans to reduce dependence on coal, oil and gas",
+          "image_url": "https://th-i.thgim.com/public/incoming/40mltk/article71704047.ece/alternates/LANDSCAPE_1200/Climate_COP31_Fossil_Fuels_41861.jpg",
+          "article_url": "https://www.thehindu.com/news/international/coalition-to-move-away-from-fossil-fuels-presses-ahead-without-colombia-its-original-champion/article71704040.ece",
+          "published_at": "Sun, 15 Nov 2026 08:38:59 +0530",
           "cross_sections": []
         },
         {
-          "id": "dGhlaGluZHUtbXVtYmFpLXBv",
+          "id": "dGhlaGluZHUtdG90YWwtY2hl",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Mumbai police announce traffic diversion ahead of Britain’s Prince William visit",
-          "summary": "The ceremony is hosted in Mumbai from November 16 to 18 for the sixth annual Earthshot Prize",
-          "image_url": "https://th-i.thgim.com/public/incoming/4wdv5r/article71703037.ece/alternates/LANDSCAPE_1200/iStock-1326793926.jpg",
-          "article_url": "https://www.thehindu.com/news/national/maharashtra/mumbai-police-announce-traffic-diversion-ahead-ofbritains-prince-william-visit/article71702944.ece",
-          "published_at": "Sun, 15 Nov 2026 03:11:27 +0530",
+          "title": "Total Chess: Praggnanandhaa blunders, out of title race; Erigaisi keeps hopes alive",
+          "summary": "Only the top four players from each group will advance to knockout 1 and will fight for the title, while the rest will compete in the classification brackets",
+          "image_url": "https://th-i.thgim.com/public/incoming/g4r9wx/article71704045.ece/alternates/LANDSCAPE_1200/BVR_8802.JPG",
+          "article_url": "https://www.thehindu.com/sport/total-chess-world-championship-tour-pilot-in-budapest/article71704039.ece",
+          "published_at": "Sun, 15 Nov 2026 08:32:13 +0530",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "dGhlaGluZHUtNC41LW1hZ25p",
+          "id": "dGhlaGluZHUtdS5zLi1tdXN0",
           "source_id": "thehindu",
           "source_name": "The Hindu",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "4.5 magnitude earthquake tremors felt in Maharashtra’s Jalgaon",
-          "summary": "District Collector Rohan Ghuge said, “No loss of life or property damage in Jalgaon has been reported. Residents should not panic or fall prey to any rumours”",
-          "image_url": "https://th-i.thgim.com/public/incoming/vwrtq4/article71702941.ece/alternates/LANDSCAPE_1200/vbk-stock-earthquake-reuters-2023-02-15T142926Z_1200355584_QUAKE%201.jpg",
-          "article_url": "https://www.thehindu.com/news/national/maharashtra/45-magnitude-earthquake-tremors-felt-in-jalgaon/article71702938.ece",
-          "published_at": "Sun, 15 Nov 2026 02:48:48 +0530",
+          "title": "U.S. must respect India’s right to defend itself, maintain zero tolerance towards terrorism: Blinken",
+          "summary": "“India is a global force,” Mr. Blinken said, adding that the relationship and shared interests between Washington and New Delhi were “really global in nature”",
+          "image_url": "https://th-i.thgim.com/public/incoming/cep8nc/article71703989.ece/alternates/LANDSCAPE_1200/AP12_14_2024_000449B.jpg",
+          "article_url": "https://www.thehindu.com/news/international/us-must-respect-indias-right-to-defend-itself-maintain-zero-tolerance-towards-terrorism-blinken/article71703984.ece",
+          "published_at": "Sun, 15 Nov 2026 08:28:15 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdS5zLi1haXIt",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "U.S. air travel should recover from ground stop by end of November 15, FAA says",
+          "summary": "New technology being added to the nation's air traffic control system overloaded antiquated equipment and caused “intermittent” communications and radar gaps, leading to the flight shutdown of more than four hours, Trump administration officials said",
+          "image_url": "https://th-i.thgim.com/public/incoming/aobtxp/article71703998.ece/alternates/LANDSCAPE_1200/2026-11-14T154335Z_775010430_RC2ONOAU1BYX_RTRMADP_3_USA-FAA-GROUND-STOP.JPG",
+          "article_url": "https://www.thehindu.com/news/international/us-air-travel-should-recover-from-ground-stop-by-end-of-november-15-faa-says/article71703985.ece",
+          "published_at": "Sun, 15 Nov 2026 08:26:54 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtanVkZ2UtdGVt",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+          "summary": "U.S. District Judge Ana Reyes issued the temporary restraining order before the East Potomac Golf Links was due to close on November 15 for 15 months",
+          "image_url": "https://th-i.thgim.com/public/incoming/8e4zwl/article71704037.ece/alternates/LANDSCAPE_1200/2026-11-14T110018Z_932004478_RC2LKOAEPGUW_RTRMADP_3_IRAN-CRISIS-TRUMP.JPG",
+          "article_url": "https://www.thehindu.com/news/international/judge-temporarily-blocks-trump-from-moving-ahead-on-washington-public-golf-course-redevelopment/article71704032.ece",
+          "published_at": "Sun, 15 Nov 2026 08:24:53 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4219,7 +3981,23 @@
           "summary": "The Nvidia chief’s abrupt exit marks a stunning fall from grace for the man who built the hardware foundation of the AI revolution, forged deep ties with Silicon Valley’s tech leaders and expanded the company’s reach across every layer of the AI stack",
           "image_url": "https://th-i.thgim.com/public/news/national/9gdhih/article71702808.ece/alternates/LANDSCAPE_1200/jensen%20huang_Art.jpg",
           "article_url": "https://www.thehindu.com/sci-tech/technology/jensen-huang-ai-rainmaker-meets-his-waterloo/article71702817.ece",
-          "published_at": "Sun, 15 Nov 2026 02:28:12 +0530",
+          "published_at": "Sun, 15 Nov 2026 08:01:45 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtaG93LXRoZS1t",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "How the Microsoft outage affected millions worldwide | Explained",
+          "summary": "The number of affected services came with significant consequences for professional users as well as entire sectors",
+          "image_url": "https://th-i.thgim.com/public/incoming/31c78c/article71696610.ece/alternates/LANDSCAPE_1200/Microsoft_14689.jpg",
+          "article_url": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-why-did-microsoft-outlook-and-other-products-go-offline-globally/article71696554.ece",
+          "published_at": "Sun, 15 Nov 2026 07:50:32 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4235,7 +4013,7 @@
           "summary": "Its engineers need to keep building progressively more capable models; the AI firm has also not established that it will be able to sustain its profitability after honouring its infra commitments",
           "image_url": "https://th-i.thgim.com/public/incoming/a7xid6/article71702874.ece/alternates/LANDSCAPE_1200/2026-11-10T012731Z_1004564972_RC29LNAX65NU_RTRMADP_3_ANTHROPIC-IPO.JPG",
           "article_url": "https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
-          "published_at": "Sat, 14 Nov 2026 23:51:19 +0530",
+          "published_at": "Sun, 15 Nov 2026 07:46:11 +0530",
           "cross_sections": [
             "tech",
             "ai"
@@ -4264,11 +4042,11 @@
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Technology",
-          "title": "Microsoft Outage: Why did Microsoft Outlook and other products go offline globally?",
-          "summary": "The number of affected services came with significant consequences for professional users as well as entire sectors",
-          "image_url": "https://th-i.thgim.com/public/incoming/31c78c/article71696610.ece/alternates/LANDSCAPE_1200/Microsoft_14689.jpg",
-          "article_url": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-why-did-microsoft-outlook-and-other-products-go-offline-globally/article71696554.ece",
-          "published_at": "Sat, 14 Nov 2026 16:49:36 +0530",
+          "title": "Microsoft says services fully restored after hourslong global outage",
+          "summary": "The ‌technology giant said it was “monitoring the backlog of email messages ‌accrued during this ​event” before considering the issue with ⁠the enterprise services resolved.",
+          "image_url": "https://th-i.thgim.com/public/incoming/nxwdcm/article71701099.ece/alternates/LANDSCAPE_1200/2026-11-13T173220Z_2141743725_RC25NOAG2APY_RTRMADP_3_MICROSOFT-OUTAGES.JPG",
+          "article_url": "https://www.thehindu.com/sci-tech/technology/microsoft-says-consumer-products-services-recovered-still-monitoring-enterprise-services/article71701075.ece",
+          "published_at": "Sat, 14 Nov 2026 15:28:34 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -4314,126 +4092,124 @@
       "category": "Newspaper",
       "articles": [
         {
-          "id": "amFwYW50aW1lcy11LnMuLWZs",
+          "id": "amFwYW50aW1lcy10aGlzLXBv",
           "source_id": "japantimes",
           "source_name": "The Japan Times",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "U.S. floated idea of Ukraine ceding Donbas for NATO membership",
-          "summary": "This is the first time the question of linking NATO membership to territorial concessions has been raised during the talks.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574025.JPG",
-          "article_url": "https://www.japantimes.co.jp/news/2026/11/15/world/us-ukraine-ceding-donbas-nato/",
-          "published_at": "Sun, 15 Nov 2026 08:34:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy13aGF0LWRv",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "What does Japanese wine taste like? Start with a Koshu.",
-          "summary": "When it comes to a grape variety that best represents Japanese wine, Koshu would be the ideal candidate.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573545.jpg",
-          "article_url": "https://www.japantimes.co.jp/life/2026/11/15/food-drink/japanese-wine-flavor-guide-koshu/",
-          "published_at": "Sun, 15 Nov 2026 08:10:00 +0900",
+          "title": "This Pomeranian is affectionate and strong-willed",
+          "summary": "Cacao loves to run and have his fur brushed. He's also looking for someone loyal to share life's joys with.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574035.jpg",
+          "article_url": "https://www.japantimes.co.jp/community/2026/11/15/cacao-pomeranian-adoption/",
+          "published_at": "Sun, 15 Nov 2026 10:18:00 +0900",
           "cross_sections": []
         },
         {
-          "id": "amFwYW50aW1lcy10YXRzdWhp",
+          "id": "amFwYW50aW1lcy1pdGFseS1w",
           "source_id": "japantimes",
           "source_name": "The Japan Times",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Tatsuhiro Sakamoto strikes late as Japan stuns Brazil in friendly",
-          "summary": "The match was the first meeting between the teams since Brazil's 2-1 win in the round of 32 at the World Cup in June",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574024.JPG",
-          "article_url": "https://www.japantimes.co.jp/sports/2026/11/15/soccer/japan-beats-brazil-singapore/",
-          "published_at": "Sun, 15 Nov 2026 08:08:00 +0900",
+          "title": "Italy pitches Germany observer status in GCAP fighter jet program",
+          "summary": "Rome, London and Tokyo are driving the Global Combat Air Program, which aims to put a sixth-generation fighter jet into service by the mid-2030s.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574034.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/11/15/japan/gcap-germany-observer-status/",
+          "published_at": "Sun, 15 Nov 2026 09:44:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy3igJh2aXNh",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "‘Visa of life’ recipient honored for preserving diplomat’s legacy",
+          "summary": "Warsaw-born Smoller and her family escaped Nazi persecution of Jewish people after obtaining visas issued in Lithuania by Sugihara.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574037.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/11/15/japan/society/visa-of-life-recipient-honored/",
+          "published_at": "Sun, 15 Nov 2026 09:35:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy1mdWVsLXJl",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Fuel removal at Fukushima reactor going smoothly: workers",
+          "summary": "The No. 2 unit suffered no major damage to the building housing the reactor, but radiation levels around the spent fuel pool remain high.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574038.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/11/15/japan/fukushima-plant-fuel-removal/",
+          "published_at": "Sun, 15 Nov 2026 09:28:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy1wbS10YWth",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "PM Takaichi reiterates her determination to bring abductee Yokota home from North Korea",
+          "summary": "Sunday marked 49 years since Yokota was kidnapped from of Niigata on Nov. 15, 1977, when she was a junior high school student.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574041.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/11/15/japan/society/megumi-yokota-abductee-49-years/",
+          "published_at": "Sun, 15 Nov 2026 09:27:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy1maWdodC1v",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Fight over lower house seat cut bill to intensify in Japan",
+          "summary": "Opposition parties — aside from the Democratic Party for the People (DPP) — are preparing to mount strong resistance to the bill.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574033.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/11/15/japan/politics/lower-house-seat-cuts/",
+          "published_at": "Sun, 15 Nov 2026 09:26:00 +0900",
           "cross_sections": []
         },
         {
-          "id": "amFwYW50aW1lcy10aW0tYW5k",
+          "id": "amFwYW50aW1lcy1nbG9iYWwt",
           "source_id": "japantimes",
           "source_name": "The Japan Times",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "Tim Anderson’s latest ‘JapanEasy Kitchen’ is more than forced fusion",
-          "summary": "The new cookbook focuses on Japanese ingredients but shows you how to make dishes with plenty of variety.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573273.jpg",
-          "article_url": "https://www.japantimes.co.jp/life/2026/11/15/food-drink/japaneasy-cookbook-review-masterchef-tim-anderson/",
-          "published_at": "Sun, 15 Nov 2026 08:05:00 +0900",
+          "title": "Global powers converge on Manila as ASEAN summit kicks off",
+          "summary": "Southeast Asian heads of state will face questions on trade, security and an ongoing energy crisis while playing host to global leaders.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574032.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/11/15/asia-pacific/politics/asean-manila-summit/",
+          "published_at": "Sun, 15 Nov 2026 08:55:00 +0900",
           "cross_sections": []
         },
         {
-          "id": "amFwYW50aW1lcy1hLXJlbGF0",
+          "id": "amFwYW50aW1lcy11LnMuLWxv",
           "source_id": "japantimes",
           "source_name": "The Japan Times",
           "source_region": "Asia-Pacific",
           "source_category": "Newspaper",
           "feed_label": "Latest",
-          "title": "A relative newcomer, ‘hakusai’ cabbage is now entering peak freshness",
-          "summary": "Despite a relatively short history in Japan, this leafy vegetable is a great ingredient when the weather turns chilly.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573262.jpg",
-          "article_url": "https://www.japantimes.co.jp/life/2026/11/15/food-drink/hakusai-chinese-cabbage-fermentation-recipe/",
-          "published_at": "Sun, 15 Nov 2026 08:00:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy11LnMuLWFp",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "U.S. Air Force captain arrested in Okinawa for alleged drunk driving",
-          "summary": "The arrest comes just a week after Tokyo and Washington agreed to measures aimed at preventing crimes by U.S. service members.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/574023.jpg",
-          "article_url": "https://www.japantimes.co.jp/news/2026/11/14/japan/crime-legal/okinawa-us-captain-arrest/",
-          "published_at": "Sat, 14 Nov 2026 18:37:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy02LXllYXIt",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "6-year-old Gaza burn victim caught in Israeli dispute over aid",
-          "summary": "Masa Yassin needs a new mask to control the scars on her face, but Israel is preventing the plastic needed for the treatment from being imported.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/574019.JPG",
-          "article_url": "https://www.japantimes.co.jp/news/2026/11/14/world/society/gaza-6-year-old-burn-victim/",
-          "published_at": "Sat, 14 Nov 2026 17:19:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy1mb3JtZXIt",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-          "summary": "The revelation follows two other extramarital affairs that led to his resignation Thursday.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/574018.JPG",
-          "article_url": "https://www.japantimes.co.jp/business/2026/11/14/huang-second-employee-relationship/",
-          "published_at": "Sat, 14 Nov 2026 17:06:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
+          "title": "U.S. loses measles elimination status as cases break records",
+          "summary": "The CDC has confirmed 5,412 measles cases in 2026, more than double last year's total and the highest number since 1991.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574031.JPG",
+          "article_url": "https://www.japantimes.co.jp/news/2026/11/15/world/science-health/us-loses-measles-elimination-status/",
+          "published_at": "Sun, 15 Nov 2026 08:54:00 +0900",
+          "cross_sections": []
         }
       ]
     },
@@ -4443,6 +4219,140 @@
       "region": "Asia-Pacific",
       "category": "Broadcaster",
       "articles": [
+        {
+          "id": "bmR0di01dGgtY2FuYWRpYW4t",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "5th Canadian Solider Dies A Month After Military Fire, 24 Still In Hospital",
+          "summary": "Military police are investigating the fire, while a separate military board of inquiry will examine the circumstances of the tragedy.",
+          "image_url": "https://c.ndtvimg.com/2026-11/u3ng97lo_canada-reuters_625x300_15_November_26.jpeg",
+          "article_url": "https://www.ndtv.com/world-news/5th-canadian-solider-dies-a-month-after-alberta-military-fire-24-still-in-hospital-12328536#publisher=newsstand",
+          "published_at": "Sun, 15 Nov 2026 08:49:25 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "bmR0di1pdGFseS1maW5lcy1t",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Italy Fines Meta $880 Million For Accessing Users' Photos Without Consent",
+          "summary": "A Meta spokesperson said \"we strongly disagree\" with the assessment by the regulators \"and the disproportionate level of the fine\".",
+          "image_url": "https://c.ndtvimg.com/2026-11/q0hd80t_meta-reuters_625x300_15_November_26.jpeg",
+          "article_url": "https://www.ndtv.com/world-news/italy-fines-meta-880-million-for-accessing-users-photos-without-consent-12328493#publisher=newsstand",
+          "published_at": "Sun, 15 Nov 2026 08:42:07 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1pc3JhZWwta2lsbHMt",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Israel Kills Senior Hamas Commander Who Planned, Oversaw October 7 Attack",
+          "summary": "A security source told AFP shortly after midnight that Younis, the commander of Al-Qassam's Rafah Brigade, died in a strike \"targeting him moments ago\".",
+          "image_url": "https://c.ndtvimg.com/2026-11/8v1dkjhk_israel_625x300_15_November_26.jpeg",
+          "article_url": "https://www.ndtv.com/world-news/israel-kills-senior-hamas-commander-samir-abu-younis-planned-oversaw-october-7-attack-12328458#publisher=newsstand",
+          "published_at": "Sun, 15 Nov 2026 08:29:19 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "bmR0di0icG9saXRpY2FsbHkt",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "\"Politically Motivated\": BJP As Kangana Ranaut Faces FIR In Himachal, Congress Responds",
+          "summary": "A police case was filed against BJP MP and actor Kangana Ranaut in Himachal Pradesh over her social media posts targeting the Gandhi family.",
+          "image_url": "https://c.ndtvimg.com/2026-11/co9po4s_kangana-ranaut_625x300_15_November_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/india-news/bjp-as-kangana-ranaut-faces-fir-in-himachal-over-sonia-gandhi-book-belonging-congress-responds-politically-motivated-12328418#publisher=newsstand",
+          "published_at": "Sun, 15 Nov 2026 08:02:38 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1tYW4tYXJyZXN0ZWQt",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Man Arrested Over Social Media Post On 'Fish Deaths' In Yamuna In Delhi",
+          "summary": "The man had allegedly uploaded a video on social media from the Wazirabad Water Treatment Plant, which circulated on social media amid concerns over the reported deaths of fish in the Yamuna.",
+          "image_url": "https://c.ndtvimg.com/2026-11/mnnlc1pc_man-_625x300_15_November_26.jpeg",
+          "article_url": "https://www.ndtv.com/delhi-news/man-arrested-over-social-media-post-on-fish-deaths-in-yamuna-in-delhi-12328376#publisher=newsstand",
+          "published_at": "Sun, 15 Nov 2026 07:56:11 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "bmR0di0iYnV5LW15LXRpY2tl",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "\"Buy My Ticket Too\": DK Shivakumar Recalls Metro Ride With PM Modi",
+          "summary": "\"I told him that I did not have money to buy a Metro ticket and asked him to buy my ticket as well. PM Modi paid for the tickets using his own card,\" DK Shivakumar said",
+          "image_url": "https://c.ndtvimg.com/2026-11/ko0kbfok_modi-shivakumar_625x300_15_November_26.jpeg",
+          "article_url": "https://www.ndtv.com/india-news/buy-my-ticket-too-karnataka-chief-minister-dk-shivakumar-recalls-metro-ride-with-pm-narendra-modi-12328409#publisher=newsstand",
+          "published_at": "Sun, 15 Nov 2026 07:55:14 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1yZXBhaXItb2Ytb2xk",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Repair Of Old Copper Wiring Led To Hours-Long Flight Mess: Team Trump",
+          "summary": "Transportation Secretary Sean Duffy said Friday's four-hour ground stop was declared after maintenance work to upgrade an old copper wire.",
+          "image_url": "https://c.ndtvimg.com/2026-11/kubutk7o_us-flights-reuters_625x300_15_November_26.jpeg",
+          "article_url": "https://www.ndtv.com/world-news/repair-of-old-copper-wiring-led-to-hours-long-flight-mess-team-trump-12328394#publisher=newsstand",
+          "published_at": "Sun, 15 Nov 2026 07:48:42 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1kZWxoaS1zaG93cm9v",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Delhi Showroom Employee, 18, Killed In Trial Room, Love Angle Under Probe",
+          "summary": "The incident came to light at around 9:00 pm when showroom employees were preparing to close for the day. While checking the trial rooms, staff members found the victim lying in a pool of blood.",
+          "image_url": "https://c.ndtvimg.com/2026-11/megc0998_delhi-murder-case_625x300_14_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/delhi-news/moti-nagar-showroom-murder-news-showroom-employee-18-killed-in-trial-room-in-delhi-love-angle-under-probe-12328335#publisher=newsstand",
+          "published_at": "Sun, 15 Nov 2026 07:45:46 +0530",
+          "cross_sections": []
+        },
+        {
+          "id": "bmR0di12aWRlbzotZWxvbi1t",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Video: Elon Musk's SpaceX Pulls Off First-Ever Spaceship 'Catch'",
+          "summary": "Elon Musk congratulated the SpaceX team and posted videos of the spaceship hanging between the chopstick arms, saying the vessel \"looks great!\"",
+          "image_url": "https://c.ndtvimg.com/2026-11/1d32jbdg_spacex-afp_625x300_15_November_26.jpeg",
+          "article_url": "https://www.ndtv.com/world-news/video-elon-musks-spacex-pulls-off-first-ever-spaceship-catch-12328321#publisher=newsstand",
+          "published_at": "Sun, 15 Nov 2026 07:12:06 +0530",
+          "cross_sections": []
+        },
         {
           "id": "bmR0di1haS1oZWxwcy1yZXVu",
           "source_id": "ndtv",
@@ -4479,7 +4389,7 @@
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "Trump May Hold Off New Attacks On Iran, But There's A Condition: Report",
           "summary": "Trump has alternated between threats of escalating the war with new strikes and winding down hostilities, and current and former officials say he does not appear to have made up his mind about how to resolve the unpopular conflict",
           "image_url": "https://c.ndtvimg.com/2026-03/7uiru26s_trump-iran-plan_625x300_07_March_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
@@ -4490,44 +4400,12 @@
           ]
         },
         {
-          "id": "bmR0di0id2hlcmUtd2Utb2Zm",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "\"Where We Offered Namaz For 400 Years\": Asaduddin Owaisi On Akhilesh Yadav's Ayodhya Ram Temple Visit",
-          "summary": "AIMIM chief also turned the SP's 'PDA' slogan into a jibe at the first rally of the Samajik Parivartan Morcha, the new alliance of his party and Chandrashekhar Azad's ASP in Meerut.",
-          "image_url": "https://c.ndtvimg.com/2026-11/qdg4hsf_asaduddin-owaisi-speaking-at-a-rally-in-meerut-on-saturday_625x300_14_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/where-we-offered-namaz-for-400-years-asaduddin-owaisi-on-akhilesh-yadavs-ram-temple-visit-plan-12327901#publisher=newsstand",
-          "published_at": "Sat, 14 Nov 2026 23:49:26 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1tYW4tc2Vlbi1lYXRp",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Man Seen Eating Dead Dog's Entrails On Highway, Locals Seek Aid For Him",
-          "summary": "The dog's carcass remained on the roadside when residents noticed a man sitting beside it, tearing off and consuming its flesh.",
-          "image_url": "https://c.ndtvimg.com/2026-11/s0qp97rs_sambalpur_625x300_14_November_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/india-news/man-seen-eating-dead-dogs-entrails-on-highway-locals-seek-aid-for-him-12327908#publisher=newsstand",
-          "published_at": "Sat, 14 Nov 2026 23:41:18 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bmR0di0nd2l0aG91dC1qZW5z",
           "source_id": "ndtv",
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "'Without Jensen Huang, Handshake Deals Will Be Lost': Musk Warns Nvidia",
           "summary": "According to Elon Musk, several of these arrangements depended heavily on Huang's personal relationships with suppliers rather than formal contracts. His exit, he suggested, could put those deals at risk.",
           "image_url": "https://c.ndtvimg.com/2026-11/med4guuc_elon-musk-jensen-hunag_625x300_12_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
@@ -4538,26 +4416,12 @@
           ]
         },
         {
-          "id": "bmR0di13b21hbi1vYmplY3Rz",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Woman Objects To Man's Sexual Advances In Delhi. He Beats Her To Death",
-          "summary": "During the questioning, Pramod Singh admitted that the woman's resistance enraged him. He then picked up an object, which has not yet been identified, and started to strike her multiple times",
-          "image_url": "https://c.ndtvimg.com/2024-04/vibjri6g_delhi-police-generic_625x300_25_April_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/thehook/agency/woman-objects-to-mans-sexual-advances-in-delhi-he-beats-her-to-death-12327860#publisher=newsstand",
-          "published_at": "Sat, 14 Nov 2026 23:21:35 +0530",
-          "cross_sections": []
-        },
-        {
           "id": "bmR0di11cy1haXItdHJhdmVs",
           "source_id": "ndtv",
           "source_name": "NDTV",
           "source_region": "Asia-Pacific",
           "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
+          "feed_label": "World",
           "title": "US Air Travel To Go Back To Normal By End Of Sunday",
           "summary": "The nationwide stop was the first since January 2023, when another key Federal Aviation Administration computer system that sends notices to pilots malfunctioned",
           "image_url": "https://c.ndtvimg.com/2025-11/ffhorqeg_us-flights-cancelled-_625x300_08_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
@@ -4566,82 +4430,6 @@
           "cross_sections": [
             "tech"
           ]
-        },
-        {
-          "id": "bmR0di13aXRoLSdnb2Qtc2F2",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "With 'God Save The King', Lalit Modi Announces He Is A British Citizen",
-          "summary": "Lalit Modi said the United Kingdom had been his home for many years and expressed his admiration for the country's people, institutions, traditions and values.",
-          "image_url": "https://c.ndtvimg.com/2026-11/uqmui904_lalit-modi-_625x300_14_November_26.jpeg",
-          "article_url": "https://www.ndtv.com/world-news/with-god-save-the-king-lalit-modi-announces-he-is-a-british-citizen-12327802#publisher=newsstand",
-          "published_at": "Sat, 14 Nov 2026 22:57:36 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di13YXRlci1zeXN0ZW1z",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Water Systems, Oil Tankers, Supermarkets Hit As Iran Escalates Cyber War",
-          "summary": "Iran began building its cyber capabilities in the early 2000s, with Israel emerging as its primary target. Over time, its operations expanded to include Gulf rivals such as Saudi Arabia and the United Arab Emirates.",
-          "image_url": "https://c.ndtvimg.com/2026-06/usqap108_cyberattack_625x300_16_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-          "article_url": "https://www.ndtv.com/world-news/iran-dials-up-cyber-attack-pressure-targets-supermarkets-water-systems-12327521#publisher=newsstand",
-          "published_at": "Sat, 14 Nov 2026 22:24:17 +0530",
-          "cross_sections": []
-        },
-        {
-          "id": "bmR0di10cnVtcC1pbnZlc3Rl",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Trump Invested Millions In Nvidia, Then Changed China Policy And Made Profit: Report",
-          "summary": "Trump's financial disclosures show that he purchased between $1 million and $5 million worth of Nvidia stock in the days before his administration scrapped a Biden-era rule restricting the export of advanced American AI chips to China in May 2025.",
-          "image_url": "https://c.ndtvimg.com/2026-11/86jpj9vk_trump-huang-reuters_625x300_14_November_26.jpeg",
-          "article_url": "https://www.ndtv.com/world-news/donald-trump-bought-nvidia-stocks-worth-millions-then-gave-china-powerful-ai-weapon-jensen-huang-12327017#publisher=newsstand",
-          "published_at": "Sat, 14 Nov 2026 20:26:39 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1vcGluaW9uOi1vcGlu",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Opinion: Opinion: Jensen Huang's Rise, Fall And America's Silicon Achilles' Heel",
-          "summary": "Jensen Huang co-founded Nvidia in 1993; so, for many, Jensen is Nvidia and Nvidia is Jensen.",
-          "image_url": "https://c.ndtvimg.com/2026-11/emvdpb6s_jensen-huang_625x300_13_November_26.jpeg",
-          "article_url": "https://www.ndtv.com/opinion/opinion-nvidias-jensen-huangs-rise-fall-and-americas-silicon-achilles-heel-12325875#publisher=newsstand",
-          "published_at": "Sat, 14 Nov 2026 18:08:19 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bmR0di1wYWtpc3RhbmktbWlu",
-          "source_id": "ndtv",
-          "source_name": "NDTV",
-          "source_region": "Asia-Pacific",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Pakistani Minister To Make Rare India Visit, First Visit Since Op Sindoor",
-          "summary": "It will be the first trip to India by a Pakistani federal minister since former foreign minister Bilawal Bhutto Zardari attended an SCO meeting in Goa in May 2023.",
-          "image_url": "https://c.ndtvimg.com/2026-11/e2l6ir98_musadik-malik-_625x300_14_November_26.jpeg",
-          "article_url": "https://www.ndtv.com/world-news/pakistani-minister-to-make-rare-india-visit-first-visit-since-op-sindoor-12326822#publisher=newsstand",
-          "published_at": "Sat, 14 Nov 2026 18:05:14 +0530",
-          "cross_sections": []
         }
       ]
     },
@@ -4652,17 +4440,47 @@
       "category": "Broadcaster",
       "articles": [
         {
+          "id": "YWxqYXplZXJhLWl0YWxpYW4t",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Italian artist reimagines Madonna paintings to expose Gaza’s pain",
+          "summary": "Italian artist Eduardo Castaldo has unveiled an artwork titled ‘Holy Mothers of Gaza’ inside Naples’ Pappacoda Chapel.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_italian-artist-rips-madonna-painting-to-reveal-gaza-141126?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 03:30:29 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXNhdWRpLWxl",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
+          "summary": "Fighting escalates in Yemen's Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 02:59:06 +0000",
+          "cross_sections": []
+        },
+        {
           "id": "YWxqYXplZXJhLWlyYXEtcG0t",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
           "source_region": "Middle East & Africa",
           "source_category": "Broadcaster",
           "feed_label": "All News",
-          "title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
-          "summary": "Iraq’s PM has dismissed nine senior security officials over an alleged oil smuggling network worth up to $30m monthly.",
+          "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
+          "summary": "Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.",
           "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
-          "published_at": "Sat, 14 Nov 2026 23:34:37 +0000",
+          "article_url": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 01:54:55 +0000",
           "cross_sections": []
         },
         {
@@ -4672,102 +4490,78 @@
           "source_region": "Middle East & Africa",
           "source_category": "Broadcaster",
           "feed_label": "All News",
-          "title": "Netanyahu says only a unity government can guarantee Israel’s security",
-          "summary": "Eisenkot, in charge of forming a government, dismisses the appeal as ‘tricks’ as talks and a Knesset speaker vote loom.",
+          "title": "Netanyahu sends plea to Eisenkot for unity government",
+          "summary": "Benjamin Netanyahu has issued a public plea to opposition leader Gadi Eisenkot to form a unity government.",
           "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
-          "published_at": "Sat, 14 Nov 2026 23:01:30 +0000",
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 01:33:11 +0000",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YWxqYXplZXJhLWV4cGxvc2lv",
+          "id": "YWxqYXplZXJhLXRoYWlsYW5k",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
           "source_region": "Middle East & Africa",
           "source_category": "Broadcaster",
           "feed_label": "All News",
-          "title": "Explosion near Syria’s capital kills father and child",
-          "summary": "Syria’s Internal Security Forces have launched an investigation into a suspected bomb attack in a suburb of Damascus.",
+          "title": "Thailand’s elderly kept in cages",
+          "summary": "A nursing home in Thailand, has been accused of keeping dozens of senior residents, in metal cages.",
           "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
-          "published_at": "Sat, 14 Nov 2026 22:43:12 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXBhbGVzdGlu",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Palestinian stories set for major presence at 2027 Oscars",
-          "summary": "Al Jazeera spoke to the director and cast of Who Is Still Alive, Switzerland’s Oscar entry for Best International Film.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/palestinian-stories-set-for-major-presence-at-2027-oscars?traffic_source=rss",
-          "published_at": "Sat, 14 Nov 2026 22:28:47 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXJvbmFsZG8t",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
-          "summary": "Rasmus Hojlund stars with brace as Denmark close in on a spot in the Nations League quarterfinals.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
-          "published_at": "Sat, 14 Nov 2026 22:00:45 +0000",
-          "cross_sections": []
-        },
-        {
-          "id": "YWxqYXplZXJhLXVzLWZsaWdo",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "US flights resume after ageing technology blamed for outage",
-          "summary": "US flights resume after ageing technology blamed for outage",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss",
-          "published_at": "Sat, 14 Nov 2026 21:36:19 +0000",
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thailands-elderly-kept-in-cages?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 01:32:08 +0000",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YWxqYXplZXJhLXVzLWVudm95",
+          "id": "YWxqYXplZXJhLXNwYWNleOKA",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
           "source_region": "Middle East & Africa",
           "source_category": "Broadcaster",
           "feed_label": "All News",
-          "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
-          "summary": "Europe's direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality.",
+          "title": "SpaceX’s Starship nails a smooth return with historic catch",
+          "summary": "SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.",
           "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
-          "published_at": "Sat, 14 Nov 2026 21:10:26 +0000",
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 01:22:01 +0000",
           "cross_sections": [
             "tech"
           ]
         },
         {
-          "id": "YWxqYXplZXJhLWluZGlh4oCZ",
+          "id": "YWxqYXplZXJhLWlzcmFlbGkt",
           "source_id": "aljazeera",
           "source_name": "Al Jazeera",
           "source_region": "Middle East & Africa",
           "source_category": "Broadcaster",
           "feed_label": "All News",
-          "title": "India’s Assam state demolishes homes of 132 Muslim families",
-          "summary": "Authorities in India’s Assam have demolished the homes of 132 Muslim families.",
+          "title": "Israeli air strike kills senior Hamas commander in Gaza",
+          "summary": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
           "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss",
-          "published_at": "Sat, 14 Nov 2026 20:14:10 +0000",
-          "cross_sections": []
+          "article_url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 01:00:42 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLWh1bmRyZWRz",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Hundreds of men march in Switzerland to protest violence against women",
+          "summary": "Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 00:27:14 +0000",
+          "cross_sections": [
+            "tech"
+          ]
         }
       ]
     },
@@ -4777,6 +4571,98 @@
       "region": "Middle East & Africa",
       "category": "Newspaper",
       "articles": [
+        {
+          "id": "YXJhYm5ld3Mtc2F1ZGktcHN5",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Saudi psychiatry conference highlights challenges in early detection, access to treatment",
+          "summary": "Mental health experts at the first Alkhobar Conference on Psychiatry emphasized the need for earlier intervention and broader access to psychiatric care, noting that Saudi patients typically wait eight years before seeking help. Despite 34% of Saudis experiencing a mental health condition, only 13.7",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794710325233-bd845bdb35824f51.jpg",
+          "article_url": "https://www.arabnews.com/saudi-arabia/saudi-psychiatry-conference-highlights-challenges-in-early-detection-access-to-treatment-3011962",
+          "published_at": "Sun, 15 Nov 2026 02:57:08 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtYW5kcmVldmEt",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Andreeva beats Pegula, will face Svitolina in WTA Finals championship match",
+          "summary": "Russian teenager Mirra Andreeva reached the WTA Finals championship match by defeating American Jessica Pegula 6-3, 6-4, showcasing her powerful groundstrokes and strong defense. She will face Elina Svitolina in the final, who advanced after a decisive 6-2, 6-1 victory over Linda Noskova.",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794707338784-fb65c23f61f27612.jpg",
+          "article_url": "https://www.arabnews.com/tennis/andreeva-beats-pegula-will-face-svitolina-in-wta-finals-championship-match-3011950",
+          "published_at": "Sun, 15 Nov 2026 01:55:29 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtcmVwYWlyLW9m",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Repair of old copper wiring caused US flight disruption: Trump admin",
+          "summary": "NEW YORK: Weary travelers endured more flight disruptions as service resumed at US airports after an hours-long total stoppage, with officials saying the situation should return to normal Sunday. The Trump administration blamed the mess that began Friday on a botched replacement of old copper wire c",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794705356745-97e0493891d31840.jpg",
+          "article_url": "https://www.arabnews.com/world/repair-of-old-copper-wiring-caused-us-flight-disruption-trump-admin-3011961",
+          "published_at": "Sun, 15 Nov 2026 01:20:40 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtZml2ZS1zeXJp",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Five Syrian sailors rescued after six-month ordeal off Jazan coast",
+          "summary": "RIYADH: The Syrian Embassy in Riyadh helped rescue five Syrian sailors who had been stranded aboard a deteriorating vessel off Saudi Arabia’s Jazan port for six months, coordinating with Saudi authorities to bring them ashore after receiving an emergency distress call. The crew, including the ship’s",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794703190103-7f7a964a5b782bca.jpg",
+          "article_url": "https://www.arabnews.com/saudi-arabia/five-syrian-sailors-rescued-after-six-month-ordeal-off-jazan-coast-3011960",
+          "published_at": "Sun, 15 Nov 2026 00:40:41 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtcG9wZS1zYXlz",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Pope says Inca heartland ‘suffering’ as villages empty",
+          "summary": "SANTA CRUZ DE SUCCHABAMBA, Peru: Pope Leo XIV warned Saturday that the heartland of the ancient Inca Empire was “suffering,” as the remote, poverty-stricken communities he served as a missionary in Peru shrink dramatically. The head of the world’s 1.4 billion Catholics flew by helicopter to the isol",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794701995449-a3d49307a8067e9d.jpg",
+          "article_url": "https://www.arabnews.com/world/pope-says-inca-heartland-suffering-as-villages-empty-3011959",
+          "published_at": "Sun, 15 Nov 2026 00:22:39 GMT",
+          "cross_sections": []
+        },
+        {
+          "id": "YXJhYm5ld3MtZ2xvYmFsLXBv",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Global powers converge on Manila as ASEAN summit kicks off",
+          "summary": "MANILA: A key regional summit opens on Sunday in Manila, with Southeast Asian heads of state facing questions on trade, security and an ongoing energy crisis while playing host to a who’s who of global leaders. US President Donald Trump is scheduled to arrive on Tuesday near the summit’s conclusion,",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794701142315-1f4da55ebdaa3135.jpg",
+          "article_url": "https://www.arabnews.com/world/global-powers-converge-on-manila-as-asean-summit-kicks-off-3011958",
+          "published_at": "Sun, 15 Nov 2026 00:06:26 GMT",
+          "cross_sections": []
+        },
         {
           "id": "YXJhYm5ld3MtaXNyYWVsaS1m",
           "source_id": "arabnews",
@@ -4806,100 +4692,6 @@
           "article_url": "https://www.arabnews.com/football/ronaldo-less-portugal-suffer-nations-league-hammering-at-hands-of-denmark-3011956",
           "published_at": "Sat, 14 Nov 2026 23:26:08 GMT",
           "cross_sections": []
-        },
-        {
-          "id": "YXJhYm5ld3MtaXNyYWVsaS1t",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Israeli military says it struck senior armed Hamas commander",
-          "summary": "The Israeli military said on Sunday it had struck a ​senior commander in Hamas’ armed wing, and Hamas sources told Reuters the strike killed senior armed Hamas commander Samir Abu Younis in Khan Younis. Hamas later confirmed his ‌death and ‌said his funeral ​would be ‌held ⁠on ​Sunday afternoon ⁠in ",
-          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794697468327-c847ad42c352f831.jpg",
-          "article_url": "https://www.arabnews.com/middle-east/israeli-military-says-it-struck-senior-armed-hamas-commander-3011955",
-          "published_at": "Sat, 14 Nov 2026 23:06:12 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtYW5kcmVldmEt",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Andreeva beats Pegula to reach WTA Finals title match",
-          "summary": "Mirra Andreeva defeated Jessica Pegula in straight sets, securing her place in the WTA Finals championship match and rising to second in world rankings.",
-          "image_url": "https://assets.maestronewsroom.com/media/shared/wires/reuters/20261114/3800291f6cc9-2026-11-14T213642Z_1907016564_UP1EMBE1O15CC_RTRMADP_3_TENNIS-WTAFINALS.JPG",
-          "article_url": "https://www.arabnews.com/tennis/andreeva-beats-pegula-to-reach-wta-finals-title-match-3011950",
-          "published_at": "Sat, 14 Nov 2026 22:40:48 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3Mtc2FiYWxlbmth",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Sabalenka sorry for outburst in Svitolina defeat",
-          "summary": "LOS ANGELES, United States: Aryna Sabalenka apologized on Saturday after an on-court outburst during her defeat to Ukrainian rival Elina Svitolina at the WTA Finals in Indian Wells. Footage shared widely on social media appeared to show the former world number one swearing in a tirade that some comm",
-          "image_url": "https://assets.maestronewsroom.com/media/shared/wires/reuters/20261114/f490756e75f3-2026-11-13T190615Z_1313927973_MT1USATODAY30350274_RTRMADP_3_TENNIS-WTA-FINALS-DAY-6.JPG",
-          "article_url": "https://www.arabnews.com/tennis/sabalenka-sorry-for-outburst-in-svitolina-defeat-3011954",
-          "published_at": "Sat, 14 Nov 2026 22:23:13 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtYXJ0LWluc3Rh",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Art Installation",
-          "summary": "Explore “Knot to Scale,” an inflatable sculpture inspired by the double knot, an element rooted in the Arabian Gulf’s maritime and textile heritage. It is on display at Dhahran Expo until Nov. 28, as part of Ithra Winter.",
-          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794693883534-672b9c4f47f8691c.jpg",
-          "article_url": "https://www.arabnews.com/ksa-today/art-installation-3011953",
-          "published_at": "Sat, 14 Nov 2026 22:02:24 GMT",
-          "cross_sections": []
-        },
-        {
-          "id": "YXJhYm5ld3MtY29udGVtcG9y",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Contemporary Art",
-          "summary": "“Photographing Distance: Matilde Marín,” at the Red Sea Museum features photos and videos by the Argentine artist inspired by her study of lighthouses, including those in Jeddah and Yanbu. Runs until Dec. 31. For tickets and details, visit webook.com",
-          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794693414643-2d05ac7cc58f7007.jpg",
-          "article_url": "https://www.arabnews.com/ksa-today/contemporary-art-3011952",
-          "published_at": "Sat, 14 Nov 2026 22:01:20 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtY3VsdHVyYWwt",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Cultural Festival",
-          "summary": "AlDirah Winter festival brings culture and entertainment to the historic heart of Riyadh as part of Riyadh Season. The festival has seven zones offering traditional markets, arts, dining, live performances and family activities inspired by Najdi heritage. For more details, visit enjoy.sa.",
-          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794693839482-95b2adf4150ee783.jpg",
-          "article_url": "https://www.arabnews.com/ksa-today/cultural-festival-3011951",
-          "published_at": "Sat, 14 Nov 2026 22:00:21 GMT",
-          "cross_sections": [
-            "tech"
-          ]
         }
       ]
     }
@@ -4973,11 +4765,6 @@
           "count": 22
         },
         {
-          "id": "wapo",
-          "name": "The Washington Post",
-          "count": 16
-        },
-        {
           "id": "cnn",
           "name": "CNN",
           "count": 24
@@ -5002,7 +4789,7 @@
         {
           "id": "bbc",
           "name": "BBC News",
-          "count": 19
+          "count": 20
         },
         {
           "id": "guardian",
@@ -5034,7 +4821,7 @@
         {
           "id": "thehindu",
           "name": "The Hindu",
-          "count": 14
+          "count": 15
         },
         {
           "id": "japantimes",
@@ -5044,7 +4831,7 @@
         {
           "id": "ndtv",
           "name": "NDTV",
-          "count": 13
+          "count": 14
         }
       ]
     },
@@ -5073,6 +4860,535 @@
       "icon": "💻",
       "articles": [
         {
+          "id": "YWxqYXplZXJhLWl0YWxpYW4t",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Italian artist reimagines Madonna paintings to expose Gaza’s pain",
+          "summary": "Italian artist Eduardo Castaldo has unveiled an artwork titled ‘Holy Mothers of Gaza’ inside Naples’ Pappacoda Chapel.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_italian-artist-rips-madonna-painting-to-reveal-gaza-141126?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 03:30:29 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtbmF0aW9ucy1n",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Nations grapple with loss of 1.5C target at UN climate summit",
+          "summary": "The world has already warmed about 1.4C above pre-industrial times and the UN declared in September that crossing 1.5C — the most ambitious target threshold of the Paris accord — was imminent and unavoidable",
+          "image_url": "https://th-i.thgim.com/public/incoming/ldox0k/article71704052.ece/alternates/LANDSCAPE_1200/Climate_COP31_Fossil_Fuels_41861.jpg",
+          "article_url": "https://www.thehindu.com/sci-tech/energy-and-environment/nations-grapple-with-loss-of-15c-target-at-un-climate-summit/article71704051.ece",
+          "published_at": "Sun, 15 Nov 2026 08:54:58 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtYXJ5bmEtc2Fi",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Aryna Sabalenka apologizes for on-court outburst in WTA Finals loss to Svitolina",
+          "summary": "The former top-ranked player from Belarus said on Saturday (November 14, 2026) she was upset by the behaviour of spectators during the match",
+          "image_url": "https://th-i.thgim.com/public/incoming/adqp8q/article71704049.ece/alternates/LANDSCAPE_1200/2026-11-13T232954Z_1404793975_UP1EMBD1T9TU7_RTRMADP_3_TENNIS-WTAFINALS.JPG",
+          "article_url": "https://www.thehindu.com/sport/tennis/aryna-sabalenka-apologizes-for-on-court-outburst-in-wta-finals-loss-to-svitolina/article71704046.ece",
+          "published_at": "Sun, 15 Nov 2026 08:42:19 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1pdGFseS1maW5lcy1t",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Italy Fines Meta $880 Million For Accessing Users' Photos Without Consent",
+          "summary": "A Meta spokesperson said \"we strongly disagree\" with the assessment by the regulators \"and the disproportionate level of the fine\".",
+          "image_url": "https://c.ndtvimg.com/2026-11/q0hd80t_meta-reuters_625x300_15_November_26.jpeg",
+          "article_url": "https://www.ndtv.com/world-news/italy-fines-meta-880-million-for-accessing-users-photos-without-consent-12328493#publisher=newsstand",
+          "published_at": "Sun, 15 Nov 2026 08:42:07 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdG90YWwtY2hl",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Total Chess: Praggnanandhaa blunders, out of title race; Erigaisi keeps hopes alive",
+          "summary": "Only the top four players from each group will advance to knockout 1 and will fight for the title, while the rest will compete in the classification brackets",
+          "image_url": "https://th-i.thgim.com/public/incoming/g4r9wx/article71704045.ece/alternates/LANDSCAPE_1200/BVR_8802.JPG",
+          "article_url": "https://www.thehindu.com/sport/total-chess-world-championship-tour-pilot-in-budapest/article71704039.ece",
+          "published_at": "Sun, 15 Nov 2026 08:32:13 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLSdoYW5kc2hha2UnLWRl",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "'Handshake' deals could fall: Musk flags risks for Nvidia after Jensen Huang's exit",
+          "summary": "Elon Musk has voiced his apprehensions regarding Nvidia's supply chain deals in the wake of Jensen Huang's recent resignation. He pointed out that numerous agreements stemmed from personal connections instead of solid contracts. Moreover, Musk highlighted a petition advocating for Huang's return as ",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/business/international-business/handshake-deals-could-fall-through-musk-flags-supply-chain-risks-for-nvidia-after-jensen-huangs-exit/articleshow/135845938.cms",
+          "published_at": "Sun, 15 Nov 2026 08:32:09 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdS5zLi1tdXN0",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "U.S. must respect India’s right to defend itself, maintain zero tolerance towards terrorism: Blinken",
+          "summary": "“India is a global force,” Mr. Blinken said, adding that the relationship and shared interests between Washington and New Delhi were “really global in nature”",
+          "image_url": "https://th-i.thgim.com/public/incoming/cep8nc/article71703989.ece/alternates/LANDSCAPE_1200/AP12_14_2024_000449B.jpg",
+          "article_url": "https://www.thehindu.com/news/international/us-must-respect-indias-right-to-defend-itself-maintain-zero-tolerance-towards-terrorism-blinken/article71703984.ece",
+          "published_at": "Sun, 15 Nov 2026 08:28:15 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3Mtc2F1ZGktcHN5",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Saudi psychiatry conference highlights challenges in early detection, access to treatment",
+          "summary": "Mental health experts at the first Alkhobar Conference on Psychiatry emphasized the need for earlier intervention and broader access to psychiatric care, noting that Saudi patients typically wait eight years before seeking help. Despite 34% of Saudis experiencing a mental health condition, only 13.7",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794710325233-bd845bdb35824f51.jpg",
+          "article_url": "https://www.arabnews.com/saudi-arabia/saudi-psychiatry-conference-highlights-challenges-in-early-detection-access-to-treatment-3011962",
+          "published_at": "Sun, 15 Nov 2026 02:57:08 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtdS5zLi1haXIt",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "U.S. air travel should recover from ground stop by end of November 15, FAA says",
+          "summary": "New technology being added to the nation's air traffic control system overloaded antiquated equipment and caused “intermittent” communications and radar gaps, leading to the flight shutdown of more than four hours, Trump administration officials said",
+          "image_url": "https://th-i.thgim.com/public/incoming/aobtxp/article71703998.ece/alternates/LANDSCAPE_1200/2026-11-14T154335Z_775010430_RC2ONOAU1BYX_RTRMADP_3_USA-FAA-GROUND-STOP.JPG",
+          "article_url": "https://www.thehindu.com/news/international/us-air-travel-should-recover-from-ground-stop-by-end-of-november-15-faa-says/article71703985.ece",
+          "published_at": "Sun, 15 Nov 2026 08:26:54 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtanVkZ2UtdGVt",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+          "summary": "U.S. District Judge Ana Reyes issued the temporary restraining order before the East Potomac Golf Links was due to close on November 15 for 15 months",
+          "image_url": "https://th-i.thgim.com/public/incoming/8e4zwl/article71704037.ece/alternates/LANDSCAPE_1200/2026-11-14T110018Z_932004478_RC2LKOAEPGUW_RTRMADP_3_IRAN-CRISIS-TRUMP.JPG",
+          "article_url": "https://www.thehindu.com/news/international/judge-temporarily-blocks-trump-from-moving-ahead-on-washington-public-golf-course-redevelopment/article71704032.ece",
+          "published_at": "Sun, 15 Nov 2026 08:24:53 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Y25iYy1uYXRpb253aWRlLWdy",
+          "source_id": "cnbc",
+          "source_name": "CNBC",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "Top News",
+          "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
+          "summary": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.",
+          "image_url": null,
+          "article_url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+          "published_at": "Sun, 15 Nov 2026 02:53:59 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di0icG9saXRpY2FsbHkt",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "\"Politically Motivated\": BJP As Kangana Ranaut Faces FIR In Himachal, Congress Responds",
+          "summary": "A police case was filed against BJP MP and actor Kangana Ranaut in Himachal Pradesh over her social media posts targeting the Gandhi family.",
+          "image_url": "https://c.ndtvimg.com/2026-11/co9po4s_kangana-ranaut_625x300_15_November_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+          "article_url": "https://www.ndtv.com/india-news/bjp-as-kangana-ranaut-faces-fir-in-himachal-over-sonia-gandhi-book-belonging-congress-responds-politically-motivated-12328418#publisher=newsstand",
+          "published_at": "Sun, 15 Nov 2026 08:02:38 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtamVuc2VuLWh1",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Jensen Huang | AI rainmaker meets his Waterloo",
+          "summary": "The Nvidia chief’s abrupt exit marks a stunning fall from grace for the man who built the hardware foundation of the AI revolution, forged deep ties with Silicon Valley’s tech leaders and expanded the company’s reach across every layer of the AI stack",
+          "image_url": "https://th-i.thgim.com/public/news/national/9gdhih/article71702808.ece/alternates/LANDSCAPE_1200/jensen%20huang_Art.jpg",
+          "article_url": "https://www.thehindu.com/sci-tech/technology/jensen-huang-ai-rainmaker-meets-his-waterloo/article71702817.ece",
+          "published_at": "Sun, 15 Nov 2026 08:01:45 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di0iYnV5LW15LXRpY2tl",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "\"Buy My Ticket Too\": DK Shivakumar Recalls Metro Ride With PM Modi",
+          "summary": "\"I told him that I did not have money to buy a Metro ticket and asked him to buy my ticket as well. PM Modi paid for the tickets using his own card,\" DK Shivakumar said",
+          "image_url": "https://c.ndtvimg.com/2026-11/ko0kbfok_modi-shivakumar_625x300_15_November_26.jpeg",
+          "article_url": "https://www.ndtv.com/india-news/buy-my-ticket-too-karnataka-chief-minister-dk-shivakumar-recalls-metro-ride-with-pm-narendra-modi-12328409#publisher=newsstand",
+          "published_at": "Sun, 15 Nov 2026 07:55:14 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtaG93LXRoZS1t",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "How the Microsoft outage affected millions worldwide | Explained",
+          "summary": "The number of affected services came with significant consequences for professional users as well as entire sectors",
+          "image_url": "https://th-i.thgim.com/public/incoming/31c78c/article71696610.ece/alternates/LANDSCAPE_1200/Microsoft_14689.jpg",
+          "article_url": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-why-did-microsoft-outlook-and-other-products-go-offline-globally/article71696554.ece",
+          "published_at": "Sun, 15 Nov 2026 07:50:32 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "bmR0di1yZXBhaXItb2Ytb2xk",
+          "source_id": "ndtv",
+          "source_name": "NDTV",
+          "source_region": "Asia-Pacific",
+          "source_category": "Broadcaster",
+          "feed_label": "Top Stories",
+          "title": "Repair Of Old Copper Wiring Led To Hours-Long Flight Mess: Team Trump",
+          "summary": "Transportation Secretary Sean Duffy said Friday's four-hour ground stop was declared after maintenance work to upgrade an old copper wire.",
+          "image_url": "https://c.ndtvimg.com/2026-11/kubutk7o_us-flights-reuters_625x300_15_November_26.jpeg",
+          "article_url": "https://www.ndtv.com/world-news/repair-of-old-copper-wiring-led-to-hours-long-flight-mess-team-trump-12328394#publisher=newsstand",
+          "published_at": "Sun, 15 Nov 2026 07:48:42 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGhlaGluZHUtYW50aHJvcGlj",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Anthropic’s valuation can’t secure its moat",
+          "summary": "Its engineers need to keep building progressively more capable models; the AI firm has also not established that it will be able to sustain its profitability after honouring its infra commitments",
+          "image_url": "https://th-i.thgim.com/public/incoming/a7xid6/article71702874.ece/alternates/LANDSCAPE_1200/2026-11-10T012731Z_1004564972_RC29LNAX65NU_RTRMADP_3_ANTHROPIC-IPO.JPG",
+          "article_url": "https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
+          "published_at": "Sun, 15 Nov 2026 07:46:11 +0530",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
+          "id": "dG9pLWhvdy1hLWdsaXRjaC1v",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "How a glitch on ground triggered chaos in sky: How US flight chaos unfolded",
+          "summary": "A significant setback in the US air traffic control communication system caused a grounding of flights lasting over four hours. This disruption was triggered by the upgrade of outdated equipment at a remote site coinciding with a spike in connection attempts, leading to sporadic communication and ra",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/world/us/how-a-glitch-on-ground-triggered-chaos-in-sky-inside-the-us-ground-stop/articleshow/135845489.cms",
+          "published_at": "Sun, 15 Nov 2026 07:31:48 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtYW5kcmVldmEt",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Andreeva beats Pegula, will face Svitolina in WTA Finals championship match",
+          "summary": "Russian teenager Mirra Andreeva reached the WTA Finals championship match by defeating American Jessica Pegula 6-3, 6-4, showcasing her powerful groundstrokes and strong defense. She will face Elina Svitolina in the final, who advanced after a decisive 6-2, 6-1 victory over Linda Noskova.",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794707338784-fb65c23f61f27612.jpg",
+          "article_url": "https://www.arabnews.com/tennis/andreeva-beats-pegula-will-face-svitolina-in-wta-finals-championship-match-3011950",
+          "published_at": "Sun, 15 Nov 2026 01:55:29 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLW5ldGFueWFo",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Netanyahu sends plea to Eisenkot for unity government",
+          "summary": "Benjamin Netanyahu has issued a public plea to opposition leader Gadi Eisenkot to form a unity government.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 01:33:11 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXRoYWlsYW5k",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Thailand’s elderly kept in cages",
+          "summary": "A nursing home in Thailand, has been accused of keeping dozens of senior residents, in metal cages.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thailands-elderly-kept-in-cages?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 01:32:08 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLXNwYWNleOKA",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "SpaceX’s Starship nails a smooth return with historic catch",
+          "summary": "SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 01:22:01 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtcmVwYWlyLW9m",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Repair of old copper wiring caused US flight disruption: Trump admin",
+          "summary": "NEW YORK: Weary travelers endured more flight disruptions as service resumed at US airports after an hours-long total stoppage, with officials saying the situation should return to normal Sunday. The Trump administration blamed the mess that began Friday on a botched replacement of old copper wire c",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794705356745-97e0493891d31840.jpg",
+          "article_url": "https://www.arabnews.com/world/repair-of-old-copper-wiring-caused-us-flight-disruption-trump-admin-3011961",
+          "published_at": "Sun, 15 Nov 2026 01:20:40 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLWlzcmFlbGkt",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Israeli air strike kills senior Hamas commander in Gaza",
+          "summary": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 01:00:42 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "Zm94LXJvYm90LWRvZ3MtbW91",
+          "source_id": "fox",
+          "source_name": "Fox News",
+          "source_region": "North America",
+          "source_category": "Broadcaster",
+          "feed_label": "World",
+          "title": "Robot dogs mounted with rifles deployed in anti-gang stadium operation in Haiti",
+          "summary": "El Salvador President Nayib Bukele shared video of armed robot dogs storming Sylvio Cator Stadium as forces joined Haitian police in a gang crackdown on the violent island nation.",
+          "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/robot-el-salvdor.gif",
+          "article_url": "https://www.foxnews.com/world/robot-dogs-mounted-rifles-deployed-anti-gang-stadium-operation-haiti",
+          "published_at": "Sat, 14 Nov 2026 19:51:47 -0500",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dG9pLXdhdGNoOi1zcGFjZXgn",
+          "source_id": "toi",
+          "source_name": "The Times of India",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Top Stories",
+          "title": "Watch: SpaceX's Starship completes first-ever midair catch on return from orbit",
+          "summary": "SpaceX's Starship spacecraft returned from its mission with a successful midair recovery by mechanical arms. The spacecraft completed 14 orbits while deploying 26 satellites before returning to Earth. However, the Super Heavy booster failed its recovery attempt shortly after launch, resulting in its",
+          "image_url": null,
+          "article_url": "https://timesofindia.indiatimes.com/science/watch-spacexs-starship-completes-first-ever-midair-catch-on-return-from-orbit/articleshow/135844940.cms",
+          "published_at": "Sun, 15 Nov 2026 06:14:37 +0530",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy1pdGFseS1w",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Italy pitches Germany observer status in GCAP fighter jet program",
+          "summary": "Rome, London and Tokyo are driving the Global Combat Air Program, which aims to put a sixth-generation fighter jet into service by the mid-2030s.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574034.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/11/15/japan/gcap-germany-observer-status/",
+          "published_at": "Sun, 15 Nov 2026 09:44:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YXJhYm5ld3MtZml2ZS1zeXJp",
+          "source_id": "arabnews",
+          "source_name": "Arab News",
+          "source_region": "Middle East & Africa",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Five Syrian sailors rescued after six-month ordeal off Jazan coast",
+          "summary": "RIYADH: The Syrian Embassy in Riyadh helped rescue five Syrian sailors who had been stranded aboard a deteriorating vessel off Saudi Arabia’s Jazan port for six months, coordinating with Saudi authorities to bring them ashore after receiving an emergency distress call. The crew, including the ship’s",
+          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794703190103-7f7a964a5b782bca.jpg",
+          "article_url": "https://www.arabnews.com/saudi-arabia/five-syrian-sailors-rescued-after-six-month-ordeal-off-jazan-coast-3011960",
+          "published_at": "Sun, 15 Nov 2026 00:40:41 GMT",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy3igJh2aXNh",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "‘Visa of life’ recipient honored for preserving diplomat’s legacy",
+          "summary": "Warsaw-born Smoller and her family escaped Nazi persecution of Jewish people after obtaining visas issued in Lithuania by Sugihara.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574037.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/11/15/japan/society/visa-of-life-recipient-honored/",
+          "published_at": "Sun, 15 Nov 2026 09:35:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy1mdWVsLXJl",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "Fuel removal at Fukushima reactor going smoothly: workers",
+          "summary": "The No. 2 unit suffered no major damage to the building housing the reactor, but radiation levels around the spent fuel pool remain high.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574038.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/11/15/japan/fukushima-plant-fuel-removal/",
+          "published_at": "Sun, 15 Nov 2026 09:28:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "YWxqYXplZXJhLWh1bmRyZWRz",
+          "source_id": "aljazeera",
+          "source_name": "Al Jazeera",
+          "source_region": "Middle East & Africa",
+          "source_category": "Broadcaster",
+          "feed_label": "All News",
+          "title": "Hundreds of men march in Switzerland to protest violence against women",
+          "summary": "Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.",
+          "image_url": null,
+          "article_url": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 00:27:14 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "amFwYW50aW1lcy1wbS10YWth",
+          "source_id": "japantimes",
+          "source_name": "The Japan Times",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Latest",
+          "title": "PM Takaichi reiterates her determination to bring abductee Yokota home from North Korea",
+          "summary": "Sunday marked 49 years since Yokota was kidnapped from of Niigata on Nov. 15, 1977, when she was a junior high school student.",
+          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574041.jpg",
+          "article_url": "https://www.japantimes.co.jp/news/2026/11/15/japan/society/megumi-yokota-abductee-49-years/",
+          "published_at": "Sun, 15 Nov 2026 09:27:00 +0900",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dGVjaGNydW5jaC13aGVyZS13",
+          "source_id": "techcrunch",
+          "source_name": "TechCrunch",
+          "source_region": "IT Focus",
+          "source_category": "Tech Media",
+          "feed_label": "Latest",
+          "title": "Where was Nvidia’s security team?",
+          "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which ",
+          "image_url": null,
+          "article_url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+          "published_at": "Sun, 15 Nov 2026 00:08:07 +0000",
+          "cross_sections": [
+            "tech"
+          ]
+        },
+        {
           "id": "YXJhYm5ld3MtaXNyYWVsaS1m",
           "source_id": "arabnews",
           "source_name": "Arab News",
@@ -5084,22 +5400,6 @@
           "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794699163287-555ebe8fba2eca53.jpg",
           "article_url": "https://www.arabnews.com/middle-east/israeli-forces-detain-2-syrians-after-raid-on-homes-and-shops-in-quneitra-3011957",
           "published_at": "Sat, 14 Nov 2026 23:37:44 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy11LnMuLWZs",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "U.S. floated idea of Ukraine ceding Donbas for NATO membership",
-          "summary": "This is the first time the question of linking NATO membership to territorial concessions has been raised during the talks.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574025.JPG",
-          "article_url": "https://www.japantimes.co.jp/news/2026/11/15/world/us-ukraine-ceding-donbas-nato/",
-          "published_at": "Sun, 15 Nov 2026 08:34:00 +0900",
           "cross_sections": [
             "tech"
           ]
@@ -5121,22 +5421,6 @@
           ]
         },
         {
-          "id": "Y25iYy1uYXRpb253aWRlLWdy",
-          "source_id": "cnbc",
-          "source_name": "CNBC",
-          "source_region": "North America",
-          "source_category": "Broadcaster",
-          "feed_label": "Top News",
-          "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
-          "summary": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-          "published_at": "Sat, 14 Nov 2026 23:21:21 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bnl0LWdyb3VuZC1zdG9wLWhp",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -5148,86 +5432,6 @@
           "image_url": "https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-fiberoptics-hzkb/13faa-groundstop-fiberoptics-hzkb-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html",
           "published_at": "Sat, 14 Nov 2026 23:14:32 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtYm9tYi1yaXBz",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Bomb rips through Damascus suburb; killing 2, including child",
-          "summary": "The explosion took place in the southern Damascus suburb of Jaramana near a factory where batteries are produced, state TV said",
-          "image_url": "https://th-i.thgim.com/public/incoming/wyk4yc/article71703053.ece/alternates/LANDSCAPE_1200/Syria_Explosion_54_88.jpg",
-          "article_url": "https://www.thehindu.com/news/international/bomb-rips-through-damascus-suburb-several-people-killed/article71703052.ece",
-          "published_at": "Sun, 15 Nov 2026 04:43:39 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtaXNyYWVsaS1t",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Israeli military says it struck senior armed Hamas commander",
-          "summary": "The Israeli military said on Sunday it had struck a ​senior commander in Hamas’ armed wing, and Hamas sources told Reuters the strike killed senior armed Hamas commander Samir Abu Younis in Khan Younis. Hamas later confirmed his ‌death and ‌said his funeral ​would be ‌held ⁠on ​Sunday afternoon ⁠in ",
-          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794697468327-c847ad42c352f831.jpg",
-          "article_url": "https://www.arabnews.com/middle-east/israeli-military-says-it-struck-senior-armed-hamas-commander-3011955",
-          "published_at": "Sat, 14 Nov 2026 23:06:12 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLW5ldGFueWFo",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "Netanyahu says only a unity government can guarantee Israel’s security",
-          "summary": "Eisenkot, in charge of forming a government, dismisses the appeal as ‘tricks’ as talks and a Knesset speaker vote loom.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
-          "published_at": "Sat, 14 Nov 2026 23:01:30 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "amFwYW50aW1lcy1hLXJlbGF0",
-          "source_id": "japantimes",
-          "source_name": "The Japan Times",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "A relative newcomer, ‘hakusai’ cabbage is now entering peak freshness",
-          "summary": "Despite a relatively short history in Japan, this leafy vegetable is a great ingredient when the weather turns chilly.",
-          "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573262.jpg",
-          "article_url": "https://www.japantimes.co.jp/life/2026/11/15/food-drink/hakusai-chinese-cabbage-fermentation-recipe/",
-          "published_at": "Sun, 15 Nov 2026 08:00:00 +0900",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtZHJvdWdodC1z",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Drought-stricken Beed: Land of parched fields and broken promises",
-          "summary": "Drought has devastated Maharashtra’s Beed district, pushing women farmers and labourers towards distress migration. Despite repeated pleas for employment, villagers say government job guarantees have failed them, even as the State announces a ₹6,728-crore package",
-          "image_url": "https://th-i.thgim.com/public/incoming/oasout/article71690053.ece/alternates/LANDSCAPE_1200/6744_2_11_2026_19_5_42_1_05_IMG_2517.JPG",
-          "article_url": "https://www.thehindu.com/news/national/maharashtra/drought-stricken-beed-land-of-parched-fields-and-broken-promises/article71689837.ece",
-          "published_at": "Sun, 15 Nov 2026 04:26:01 +0530",
           "cross_sections": [
             "tech"
           ]
@@ -5249,22 +5453,6 @@
           ]
         },
         {
-          "id": "YXJhYm5ld3MtYW5kcmVldmEt",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Andreeva beats Pegula to reach WTA Finals title match",
-          "summary": "Mirra Andreeva defeated Jessica Pegula in straight sets, securing her place in the WTA Finals championship match and rising to second in world rankings.",
-          "image_url": "https://assets.maestronewsroom.com/media/shared/wires/reuters/20261114/3800291f6cc9-2026-11-14T213642Z_1907016564_UP1EMBE1O15CC_RTRMADP_3_TENNIS-WTAFINALS.JPG",
-          "article_url": "https://www.arabnews.com/tennis/andreeva-beats-pegula-to-reach-wta-finals-title-match-3011950",
-          "published_at": "Sat, 14 Nov 2026 22:40:48 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "YmJjLXVzLWhhcy1mbG9hdGVk",
           "source_id": "bbc",
           "source_name": "BBC News",
@@ -5273,57 +5461,9 @@
           "feed_label": "Top Stories",
           "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
           "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg",
           "article_url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 14 Nov 2026 22:37:25 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtbWFyaXRpbWUt",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Maritime security in focus at India-Belgium naval talks",
-          "summary": "The bilateral talk was aimed at strengthening maritime cooperation and further deepening navy-to-navy engagements between the two countries",
-          "image_url": "https://th-i.thgim.com/public/incoming/vqjq1m/article71702869.ece/alternates/LANDSCAPE_1200/NAVY%20CHIEFS%20MEETING%20DELHI%207.JPG",
-          "article_url": "https://www.thehindu.com/news/national/maritime-security-in-focus-at-india-belgium-naval-talks/article71702848.ece",
-          "published_at": "Sun, 15 Nov 2026 04:00:45 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLXRleGFzLWNvdXJ0LWJh",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Texas court backs home sale after $685,000 offer despite woman's objection",
-          "summary": "In a Texas court, a woman expressed her discontent with the ruling permitting a receiver to sell her marital home. The appellate court upheld the initial decision, dismissing her objections to the receiver's role in accepting a $685,000 offer for the house. The ruling clarified that her financial st",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/world/us/a-texas-woman-fought-the-court-ordered-sale-of-her-marital-home-after-a-receiver-received-a-685000-offer-despite-a-divorce-decree-awarding-her-60-of-net-proceeds-an-appeals-court-upheld-the-sale-and-related-orders/articleshow/135800314.cms",
-          "published_at": "Sun, 15 Nov 2026 03:57:00 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3Mtc2FiYWxlbmth",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Sabalenka sorry for outburst in Svitolina defeat",
-          "summary": "LOS ANGELES, United States: Aryna Sabalenka apologized on Saturday after an on-court outburst during her defeat to Ukrainian rival Elina Svitolina at the WTA Finals in Indian Wells. Footage shared widely on social media appeared to show the former world number one swearing in a tirade that some comm",
-          "image_url": "https://assets.maestronewsroom.com/media/shared/wires/reuters/20261114/f490756e75f3-2026-11-13T190615Z_1313927973_MT1USATODAY30350274_RTRMADP_3_TENNIS-WTA-FINALS-DAY-6.JPG",
-          "article_url": "https://www.arabnews.com/tennis/sabalenka-sorry-for-outburst-in-svitolina-defeat-3011954",
-          "published_at": "Sat, 14 Nov 2026 22:23:13 GMT",
           "cross_sections": [
             "tech"
           ]
@@ -5345,22 +5485,6 @@
           ]
         },
         {
-          "id": "d2Fwby1ydXNzaWEtc2Vla3Mt",
-          "source_id": "wapo",
-          "source_name": "The Washington Post",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "Russia seeks NATO pullback; Zelensky says U.S. asked about ceding territory",
-          "summary": "At peace talks this week, Russia returned to hard-line ultimatums the Kremlin issued to NATO and the U.S. before its invasion of Ukraine in 2022.",
-          "image_url": null,
-          "article_url": "https://www.washingtonpost.com/world/2026/11/14/russia-seeks-nato-pullback-zelensky-says-us-asked-about-ceding-territory/",
-          "published_at": "Sat, 14 Nov 2026 22:17:35 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
           "id": "bnl0LXRydW1wLWtlcHQtb3V0",
           "source_id": "nyt",
           "source_name": "The New York Times",
@@ -5372,343 +5496,6 @@
           "image_url": "https://static01.nyt.com/images/2026/11/14/multimedia/14dc-trump-topart-02-wkqg/14dc-trump-topart-02-wkqg-mediumSquareAt3X.jpg",
           "article_url": "https://www.nytimes.com/2026/11/14/us/politics/trump-flights-air-traffic-social-media.html",
           "published_at": "Sat, 14 Nov 2026 22:10:42 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtaW4tamhhcmto",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "In Jharkhand, even jails are not safe: Babulal Marandi",
-          "summary": "Launching a sharp attack on Sorens’ government, Mr. Marandi said law and order in Jharkhand has collapsed and it raises serious questions on the functioning of the government",
-          "image_url": "https://th-i.thgim.com/public/incoming/k4svds/article71703042.ece/alternates/LANDSCAPE_1200/DEL-Marandi.jpg",
-          "article_url": "https://www.thehindu.com/news/national/jharkhand/in-jharkhand-even-jails-are-not-safe-babulal-marandi/article71703040.ece",
-          "published_at": "Sun, 15 Nov 2026 03:40:13 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dG9pLXRyYWRlLWRlYWwtdGFs",
-          "source_id": "toi",
-          "source_name": "The Times of India",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Trade deal talks with US near finishing line: EAM Jaishankar",
-          "summary": "Says Challenge Is To Find A Landing Point",
-          "image_url": null,
-          "article_url": "https://timesofindia.indiatimes.com/business/india-business/us-trade-deal-talks-near-finishing-line-eam/articleshow/135842477.cms",
-          "published_at": "Sun, 15 Nov 2026 03:36:34 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtY29udGVtcG9y",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Contemporary Art",
-          "summary": "“Photographing Distance: Matilde Marín,” at the Red Sea Museum features photos and videos by the Argentine artist inspired by her study of lighthouses, including those in Jeddah and Yanbu. Runs until Dec. 31. For tickets and details, visit webook.com",
-          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794693414643-2d05ac7cc58f7007.jpg",
-          "article_url": "https://www.arabnews.com/ksa-today/contemporary-art-3011952",
-          "published_at": "Sat, 14 Nov 2026 22:01:20 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YXJhYm5ld3MtY3VsdHVyYWwt",
-          "source_id": "arabnews",
-          "source_name": "Arab News",
-          "source_region": "Middle East & Africa",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Cultural Festival",
-          "summary": "AlDirah Winter festival brings culture and entertainment to the historic heart of Riyadh as part of Riyadh Season. The festival has seven zones offering traditional markets, arts, dining, live performances and family activities inspired by Najdi heritage. For more details, visit enjoy.sa.",
-          "image_url": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794693839482-95b2adf4150ee783.jpg",
-          "article_url": "https://www.arabnews.com/ksa-today/cultural-festival-3011951",
-          "published_at": "Sat, 14 Nov 2026 22:00:21 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtbXVtYmFpLXBv",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "Mumbai police announce traffic diversion ahead of Britain’s Prince William visit",
-          "summary": "The ceremony is hosted in Mumbai from November 16 to 18 for the sixth annual Earthshot Prize",
-          "image_url": "https://th-i.thgim.com/public/incoming/4wdv5r/article71703037.ece/alternates/LANDSCAPE_1200/iStock-1326793926.jpg",
-          "article_url": "https://www.thehindu.com/news/national/maharashtra/mumbai-police-announce-traffic-diversion-ahead-ofbritains-prince-william-visit/article71702944.ece",
-          "published_at": "Sun, 15 Nov 2026 03:11:27 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC1lbG9uLW11",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-          "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-          "published_at": "Sat, 14 Nov 2026 21:41:22 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXVzLWZsaWdo",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "US flights resume after ageing technology blamed for outage",
-          "summary": "US flights resume after ageing technology blamed for outage",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss",
-          "published_at": "Sat, 14 Nov 2026 21:36:19 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtNC41LW1hZ25p",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Latest",
-          "title": "4.5 magnitude earthquake tremors felt in Maharashtra’s Jalgaon",
-          "summary": "District Collector Rohan Ghuge said, “No loss of life or property damage in Jalgaon has been reported. Residents should not panic or fall prey to any rumours”",
-          "image_url": "https://th-i.thgim.com/public/incoming/vwrtq4/article71702941.ece/alternates/LANDSCAPE_1200/vbk-stock-earthquake-reuters-2023-02-15T142926Z_1200355584_QUAKE%201.jpg",
-          "article_url": "https://www.thehindu.com/news/national/maharashtra/45-magnitude-earthquake-tremors-felt-in-jalgaon/article71702938.ece",
-          "published_at": "Sun, 15 Nov 2026 02:48:48 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "YWxqYXplZXJhLXVzLWVudm95",
-          "source_id": "aljazeera",
-          "source_name": "Al Jazeera",
-          "source_region": "Middle East & Africa",
-          "source_category": "Broadcaster",
-          "feed_label": "All News",
-          "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
-          "summary": "Europe's direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality.",
-          "image_url": null,
-          "article_url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
-          "published_at": "Sat, 14 Nov 2026 21:10:26 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZHctZ2VybWFueSdzLTIwMjct",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "Germany's 2027 budget: A record €561 billion and a mountain of debt",
-          "summary": "The 2027 federal budget proposal has finally been hammered out and is set for a vote in parliament. What are the government's policy priorities in defense, infrastructure, the economy and social spending?",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/germany-s-2027-budget-a-record-€561-billion-and-a-mountain-of-debt/a-79943216?maca=en-rss-en-top-1022-xml-mrss",
-          "published_at": "Sat, 14 Nov 2026 21:09:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZXVyb25ld3MtbW9zY293LXNh",
-          "source_id": "euronews",
-          "source_name": "Euronews",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "News",
-          "title": "Moscow says it will not dictate EU delegation's participation in Ukraine talks",
-          "summary": "Moscow, which had previously insisted that European representatives had no place at the negotiating table, has now softened its stance.",
-          "image_url": "https://images.euronews.com/articles/stories/09/99/28/23/696x392_cmsv2_b3675eb2-3762-50ba-9fbd-0f604928a655-9992823.jpg",
-          "article_url": "https://www.euronews.com/2026/11/14/moscow-says-it-will-not-dictate-eu-delegations-participation-in-ukraine-talks",
-          "published_at": "Sat, 14 Nov 2026 22:05:23 +0100",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZHctbmlnZXJpYSdzLXVwY29t",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Nigeria's upcoming election marred by rising AI disinformation",
-          "summary": "As Nigeria inches closer to the 2027 polls, the use of artificial intelligence in the electoral process has prompted questions about integrity and institutional readiness. Can Nigerians trust their democratic processes?",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-world-4025-xml-mrss",
-          "published_at": "Sat, 14 Nov 2026 21:05:00 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtamVuc2VuLWh1",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "Jensen Huang | AI rainmaker meets his Waterloo",
-          "summary": "The Nvidia chief’s abrupt exit marks a stunning fall from grace for the man who built the hardware foundation of the AI revolution, forged deep ties with Silicon Valley’s tech leaders and expanded the company’s reach across every layer of the AI stack",
-          "image_url": "https://th-i.thgim.com/public/news/national/9gdhih/article71702808.ece/alternates/LANDSCAPE_1200/jensen%20huang_Art.jpg",
-          "article_url": "https://www.thehindu.com/sci-tech/technology/jensen-huang-ai-rainmaker-meets-his-waterloo/article71702817.ece",
-          "published_at": "Sun, 15 Nov 2026 02:28:12 +0530",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LXRlY2gtbGVhZGVycy1y",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Top Stories",
-          "title": "Tech Leaders Rally Behind Jensen Huang",
-          "summary": "In social media posts and letters to Nvidia’s board, Mr. Huang’s billionaire peers described him as a singular leader who could not be replaced at Nvidia.",
-          "image_url": "https://static01.nyt.com/images/2026/11/14/multimedia/14biz-jensen-support-Huang-vpjh/14biz-jensen-support-Huang-vpjh-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html",
-          "published_at": "Sat, 14 Nov 2026 20:57:38 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZHctdXM6LWR1ZmZ5LXNheXMt",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "Top Stories",
-          "title": "US: Duffy says 'incompetence' or bad tech to blame for flight haltings",
-          "summary": "Air carriers in the US canceled some 16,000 flights over the past 24 hours in the biggest such grounding since 9/11. Officials hinted that incompetence or faulty equipment, not malfeasance, is the cause.",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/us-duffy-says-incompetence-or-bad-tech-to-blame-for-flight-haltings/a-79949977?maca=en-rss-en-top-1022-xml-mrss",
-          "published_at": "Sat, 14 Nov 2026 20:33:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "ZHctZmFjdC1jaGVjazotJ2ly",
-          "source_id": "dw",
-          "source_name": "DW News",
-          "source_region": "Europe",
-          "source_category": "Broadcaster",
-          "feed_label": "World",
-          "title": "Fact check: 'Iranian' content farms reach millions",
-          "summary": "Several social media accounts claiming to represent the Iranian military show signs of being part of so-called content farms. DW Fact Check looks at how they operate and how users can spot them.",
-          "image_url": null,
-          "article_url": "https://www.dw.com/en/fact-check-iranian-content-farms-reach-millions/a-79934190?maca=en-rss-en-world-4025-xml-mrss",
-          "published_at": "Sat, 14 Nov 2026 20:26:00 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGVjaGNydW5jaC10ZXNsYS1v",
-          "source_id": "techcrunch",
-          "source_name": "TechCrunch",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
-          "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
-          "image_url": null,
-          "article_url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
-          "published_at": "Sat, 14 Nov 2026 20:04:44 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "dGhldmVyZ2UtbWFnaWM6LXRo",
-          "source_id": "theverge",
-          "source_name": "The Verge",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Latest",
-          "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
-          "summary": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. \nAn animated Magic: The Gathering series was first teased back in 2019 ",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IefaLy5uPLc-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "article_url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
-          "published_at": "2026-11-14T19:47:40.000Z",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "bnl0LeKAmGdldC1mb2N1c2Vk",
-          "source_id": "nyt",
-          "source_name": "The New York Times",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "World",
-          "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
-          "summary": "A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies.",
-          "image_url": "https://static01.nyt.com/images/2026/11/14/multimedia/14uk-iran-attacks-02-fqwm/14uk-iran-attacks-02-fqwm-mediumSquareAt3X.jpg",
-          "article_url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
-          "published_at": "Sat, 14 Nov 2026 19:23:20 +0000",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "Y25iY3RlY2gtbnZpZGlhJ3Mt",
-          "source_id": "cnbctech",
-          "source_name": "CNBC Technology",
-          "source_region": "IT Focus",
-          "source_category": "Tech Media",
-          "feed_label": "Technology",
-          "title": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
-          "summary": "Despite the turbulence, the S&P 500 secured a weekly gain of 2.5%, while the tech-heavy Nasdaq added 2.3%.",
-          "image_url": null,
-          "article_url": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html",
-          "published_at": "Sat, 14 Nov 2026 18:48:39 GMT",
-          "cross_sections": [
-            "tech"
-          ]
-        },
-        {
-          "id": "d2Fwby1vdXRsb29rLXdlbnQt",
-          "source_id": "wapo",
-          "source_name": "The Washington Post",
-          "source_region": "North America",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "Outlook went down, then air traffic systems. It’s been a bad week of outages.",
-          "summary": "A terrible, horrible, no good, very bad week of outages caps a wave of recent tech disruptions in the United States and around the world.",
-          "image_url": null,
-          "article_url": "https://www.washingtonpost.com/technology/2026/11/14/bad-week-outages-after-ground-stop-microsoft-outlook-went-down/",
-          "published_at": "Sat, 14 Nov 2026 18:42:31 +0000",
           "cross_sections": [
             "tech"
           ]
@@ -5727,6 +5514,23 @@
       "icon": "🤖",
       "articles": [
         {
+          "id": "dGhlaGluZHUtYW50aHJvcGlj",
+          "source_id": "thehindu",
+          "source_name": "The Hindu",
+          "source_region": "Asia-Pacific",
+          "source_category": "Newspaper",
+          "feed_label": "Technology",
+          "title": "Anthropic’s valuation can’t secure its moat",
+          "summary": "Its engineers need to keep building progressively more capable models; the AI firm has also not established that it will be able to sustain its profitability after honouring its infra commitments",
+          "image_url": "https://th-i.thgim.com/public/incoming/a7xid6/article71702874.ece/alternates/LANDSCAPE_1200/2026-11-10T012731Z_1004564972_RC29LNAX65NU_RTRMADP_3_ANTHROPIC-IPO.JPG",
+          "article_url": "https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
+          "published_at": "Sun, 15 Nov 2026 07:46:11 +0530",
+          "cross_sections": [
+            "tech",
+            "ai"
+          ]
+        },
+        {
           "id": "ZHctbmlnZXJpYSdzLXVwY29t",
           "source_id": "dw",
           "source_name": "DW News",
@@ -5738,23 +5542,6 @@
           "image_url": null,
           "article_url": "https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-world-4025-xml-mrss",
           "published_at": "Sat, 14 Nov 2026 21:05:00 GMT",
-          "cross_sections": [
-            "tech",
-            "ai"
-          ]
-        },
-        {
-          "id": "dGhlaGluZHUtYW50aHJvcGlj",
-          "source_id": "thehindu",
-          "source_name": "The Hindu",
-          "source_region": "Asia-Pacific",
-          "source_category": "Newspaper",
-          "feed_label": "Technology",
-          "title": "Anthropic’s valuation can’t secure its moat",
-          "summary": "Its engineers need to keep building progressively more capable models; the AI firm has also not established that it will be able to sustain its profitability after honouring its infra commitments",
-          "image_url": "https://th-i.thgim.com/public/incoming/a7xid6/article71702874.ece/alternates/LANDSCAPE_1200/2026-11-10T012731Z_1004564972_RC29LNAX65NU_RTRMADP_3_ANTHROPIC-IPO.JPG",
-          "article_url": "https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
-          "published_at": "Sat, 14 Nov 2026 23:51:19 +0530",
           "cross_sections": [
             "tech",
             "ai"
@@ -5935,7 +5722,7 @@
   ],
   "meta": {
     "source_count": 31,
-    "build_ms": 1927,
+    "build_ms": 9360,
     "ai_enabled": true
   }
 }
